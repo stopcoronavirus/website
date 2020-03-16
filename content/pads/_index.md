@@ -1,7 +1,7 @@
 ---
 title: "Pads Départements"
 description: "pads-depts"
-date: 2020-03-20T14:54:21+09:00
+date: 2020-01-11T14:09:21+09:00
 ---
 
 - [AIN](https://pad.stopcoronavirus.tech/ain)

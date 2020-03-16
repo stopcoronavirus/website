@@ -6,7 +6,7 @@ defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 
-copyright = "Licence CC SA"
+copyright = "Licence CC0"
 timeout = 10000
 enableEmoji = true
 paginate = 13

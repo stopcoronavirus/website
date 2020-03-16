@@ -1,0 +1,11 @@
+[[main]]
+  identifier = "infos"
+  name = "Infos"
+  url = "infos"
+  weight = 1
+
+# [[main]]
+#   identifier = "projets"
+#   name = "Projets"
+#   url = "projets"
+#   weight = 2

@@ -1,0 +1,37 @@
+baseURL = "https://www.stopcoronavirus.tech"
+title = "StopCoronavirus.Tech"
+theme = "zdoc"
+
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+hasCJKLanguage = false
+
+copyright = "Licence CC SA"
+timeout = 10000
+enableEmoji = true
+paginate = 13
+rssLimit = 100
+
+googleAnalytics = ""
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+  hardWraps = true
+  unsafe = true
+  xHTML = true
+[markup.highlight]
+codeFences = true
+lineNos = true
+lineNumbersInTable = true
+noClasses = false
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 2
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+tag = "stop,coronavirus,tech"

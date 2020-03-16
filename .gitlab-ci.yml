@@ -1,0 +1,14 @@
+image: monachus/hugo:v0.63.2
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+pages:
+  stage: deploy
+  script:
+  - hugo --source="./hugo" --destination="./public"
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

@@ -4,6 +4,12 @@
   url = "infos"
   weight = 1
 
+[[main]]
+  identifier = "pads"
+  name = "Pads"
+  url = "pads"
+  weight = 2
+
 # [[main]]
 #   identifier = "projets"
 #   name = "Projets"

@@ -1,4 +1,4 @@
-image: monachus/hugo:v0.63.2
+image: monachus/hugo:v0.67.0
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive

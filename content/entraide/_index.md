@@ -55,7 +55,7 @@ date: 2020-01-11T14:09:21+09:00
 - [45 	- Loiret](/entraide/45_loiret)
 - [46 	- Lot](/entraide/46_lot)
 - [47 	- Lot-et-Garonne](/entraide/47_lot-et-garonne)
-- [48 	- Loz�re](/entraide/48_lozre)
+- [48 	- Lozère](/entraide/48_lozere)
 - [49 	- Maine-et-Loire](/entraide/49_maine-et-loire)
 - [50 	- Manche](/entraide/50_manche)
 - [51 	- Marne](/entraide/51_marne)

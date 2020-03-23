@@ -1,14 +1,8 @@
 [[main]]
-  identifier = "infos"
-  name = "Infos"
-  url = "infos"
-  weight = 1
-
-[[main]]
   identifier = "communes"
   name = "Votre commune"
   url = "departements"
-  weight = 2
+  weight = 1
 
 # [[main]]
 #   identifier = "projets"

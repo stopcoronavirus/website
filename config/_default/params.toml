@@ -1,17 +1,17 @@
-logo = true # Logo that appears in the site navigation bar.
+logo = false # Logo that appears in the site navigation bar.
 logoText = "StopCoronavirus.Tech" # Logo text that appears in the site navigation bar.
 logoType = "short" # long, short
-description = "The ZDoc theme for Hugo example site." # for SEO
+description = "Entraide, Annonces, Initiatives pour la gestion du COVID-19" # for SEO
 
 themeOptions = ["light", "dark"] # select options for site color theme
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
-enableSearch = true
-enableLangChange = true
+enableSearch = false
+enableLangChange = false
 enableDarkMode = true
 enableBreadcrumb = true
-enableToc = true
+enableToc = false
 enableMenu = true
 enableNavbar = true
 enableFooter = true

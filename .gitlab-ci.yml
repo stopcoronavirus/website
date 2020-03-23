@@ -6,6 +6,8 @@ variables:
 pages:
   stage: deploy
   script:
+  - rm -rf public
+  - mkdir public
   - hugo
   artifacts:
     paths:

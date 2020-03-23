@@ -5,16 +5,10 @@
   weight = 1
 
 [[main]]
-  identifier = "entraide"
-  name = "Entraide"
-  url = "entraide"
+  identifier = "communes"
+  name = "Votre commune"
+  url = "departements"
   weight = 2
-
-[[main]]
-  identifier = "pads"
-  name = "Pads"
-  url = "pads"
-  weight = 3
 
 # [[main]]
 #   identifier = "projets"

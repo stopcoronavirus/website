@@ -1,0 +1,31 @@
+<div class="menu">
+  <h6 class="menu__label">
+    {{ if .IsHome }}
+      {{ .Site.Title }}
+    {{ else }}
+      {{ $.Param "Title" }}
+    {{ end }}
+  </h6>
+</div>
+
+<script>
+  var menuTitle = document.querySelectorAll('.menu__title');
+  var modal = document.getElementById("myModal");
+  var drawer = document.getElementById('myDrawer');
+
+  var closeDrawer = function () {
+    setTimeout(function () {
+      modal.style.opacity = 0;
+      drawer.style.left = '-100%';
+      modal.style.left = '-100%';
+    }, 250);
+  }
+
+  menuTitle ? 
+  menuTitle.forEach(function(elem) {
+    elem.onclick = function() {
+      closeDrawer();
+      localStorage.setItem('isDrawerOpen', 'false');
+    }
+  }) : null;
+</script>

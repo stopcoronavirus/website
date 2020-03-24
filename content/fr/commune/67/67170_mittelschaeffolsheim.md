@@ -1,4 +1,3 @@
-
 ---
 title: "67170 - MITTELSCHAEFFOLSHEIM | Entraide, Annonces, Initiatives"
 description: "67170 - MITTELSCHAEFFOLSHEIM | Entraide, Annonces, Initiatives"

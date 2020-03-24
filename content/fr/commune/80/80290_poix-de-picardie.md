@@ -1,4 +1,3 @@
-
 ---
 title: "80290 - POIX DE PICARDIE | Entraide, Annonces, Initiatives"
 description: "80290 - POIX DE PICARDIE | Entraide, Annonces, Initiatives"

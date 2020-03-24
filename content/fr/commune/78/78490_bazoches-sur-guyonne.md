@@ -1,4 +1,3 @@
-
 ---
 title: "78490 - BAZOCHES SUR GUYONNE | Entraide, Annonces, Initiatives"
 description: "78490 - BAZOCHES SUR GUYONNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "63320 - MONTAIGUT LE BLANC | Entraide, Annonces, Initiatives"
 description: "63320 - MONTAIGUT LE BLANC | Entraide, Annonces, Initiatives"

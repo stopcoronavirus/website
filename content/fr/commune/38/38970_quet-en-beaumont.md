@@ -1,4 +1,3 @@
-
 ---
 title: "38970 - QUET EN BEAUMONT | Entraide, Annonces, Initiatives"
 description: "38970 - QUET EN BEAUMONT | Entraide, Annonces, Initiatives"

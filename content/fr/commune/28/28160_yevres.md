@@ -1,4 +1,3 @@
-
 ---
 title: "28160 - YEVRES | Entraide, Annonces, Initiatives"
 description: "28160 - YEVRES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71580 - SAVIGNY EN REVERMONT | Entraide, Annonces, Initiatives"
 description: "71580 - SAVIGNY EN REVERMONT | Entraide, Annonces, Initiatives"

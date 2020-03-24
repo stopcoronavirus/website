@@ -1,4 +1,3 @@
-
 ---
 title: "22650 - BEAUSSAIS SUR MER | Entraide, Annonces, Initiatives"
 description: "22650 - BEAUSSAIS SUR MER | Entraide, Annonces, Initiatives"

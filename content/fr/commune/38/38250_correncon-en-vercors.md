@@ -1,4 +1,3 @@
-
 ---
 title: "38250 - CORRENCON EN VERCORS | Entraide, Annonces, Initiatives"
 description: "38250 - CORRENCON EN VERCORS | Entraide, Annonces, Initiatives"

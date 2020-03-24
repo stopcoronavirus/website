@@ -1,4 +1,3 @@
-
 ---
 title: "60750 - CHOISY AU BAC | Entraide, Annonces, Initiatives"
 description: "60750 - CHOISY AU BAC | Entraide, Annonces, Initiatives"

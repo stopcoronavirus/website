@@ -1,4 +1,3 @@
-
 ---
 title: "45230 - LA CHAPELLE SUR AVEYRON | Entraide, Annonces, Initiatives"
 description: "45230 - LA CHAPELLE SUR AVEYRON | Entraide, Annonces, Initiatives"

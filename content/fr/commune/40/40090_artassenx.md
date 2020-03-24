@@ -1,4 +1,3 @@
-
 ---
 title: "40090 - ARTASSENX | Entraide, Annonces, Initiatives"
 description: "40090 - ARTASSENX | Entraide, Annonces, Initiatives"

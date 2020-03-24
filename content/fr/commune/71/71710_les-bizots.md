@@ -1,4 +1,3 @@
-
 ---
 title: "71710 - LES BIZOTS | Entraide, Annonces, Initiatives"
 description: "71710 - LES BIZOTS | Entraide, Annonces, Initiatives"

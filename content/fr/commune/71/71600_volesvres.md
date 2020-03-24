@@ -1,4 +1,3 @@
-
 ---
 title: "71600 - VOLESVRES | Entraide, Annonces, Initiatives"
 description: "71600 - VOLESVRES | Entraide, Annonces, Initiatives"

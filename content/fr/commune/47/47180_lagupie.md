@@ -1,4 +1,3 @@
-
 ---
 title: "47180 - LAGUPIE | Entraide, Annonces, Initiatives"
 description: "47180 - LAGUPIE | Entraide, Annonces, Initiatives"

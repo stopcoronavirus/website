@@ -1,4 +1,3 @@
-
 ---
 title: "72610 - VILLENEUVE EN PERSEIGNE | Entraide, Annonces, Initiatives"
 description: "72610 - VILLENEUVE EN PERSEIGNE | Entraide, Annonces, Initiatives"

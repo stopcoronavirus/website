@@ -1,4 +1,3 @@
-
 ---
 title: "42140 - VIRIGNEUX | Entraide, Annonces, Initiatives"
 description: "42140 - VIRIGNEUX | Entraide, Annonces, Initiatives"

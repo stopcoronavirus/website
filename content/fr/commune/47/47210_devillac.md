@@ -1,4 +1,3 @@
-
 ---
 title: "47210 - DEVILLAC | Entraide, Annonces, Initiatives"
 description: "47210 - DEVILLAC | Entraide, Annonces, Initiatives"

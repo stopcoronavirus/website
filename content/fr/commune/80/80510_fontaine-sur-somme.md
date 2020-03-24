@@ -1,4 +1,3 @@
-
 ---
 title: "80510 - FONTAINE SUR SOMME | Entraide, Annonces, Initiatives"
 description: "80510 - FONTAINE SUR SOMME | Entraide, Annonces, Initiatives"

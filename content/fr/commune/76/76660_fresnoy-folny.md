@@ -1,4 +1,3 @@
-
 ---
 title: "76660 - FRESNOY FOLNY | Entraide, Annonces, Initiatives"
 description: "76660 - FRESNOY FOLNY | Entraide, Annonces, Initiatives"

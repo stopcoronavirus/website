@@ -1,4 +1,3 @@
-
 ---
 title: "86380 - JAUNAY MARIGNY | Entraide, Annonces, Initiatives"
 description: "86380 - JAUNAY MARIGNY | Entraide, Annonces, Initiatives"

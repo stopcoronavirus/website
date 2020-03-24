@@ -1,4 +1,3 @@
-
 ---
 title: "72340 - LA CHARTRE SUR LE LOIR | Entraide, Annonces, Initiatives"
 description: "72340 - LA CHARTRE SUR LE LOIR | Entraide, Annonces, Initiatives"

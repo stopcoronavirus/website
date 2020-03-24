@@ -1,4 +1,3 @@
-
 ---
 title: "23600 - BOUSSAC | Entraide, Annonces, Initiatives"
 description: "23600 - BOUSSAC | Entraide, Annonces, Initiatives"

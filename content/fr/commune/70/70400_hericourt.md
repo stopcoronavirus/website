@@ -1,4 +1,3 @@
-
 ---
 title: "70400 - HERICOURT | Entraide, Annonces, Initiatives"
 description: "70400 - HERICOURT | Entraide, Annonces, Initiatives"

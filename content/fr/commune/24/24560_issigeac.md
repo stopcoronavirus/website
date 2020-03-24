@@ -1,4 +1,3 @@
-
 ---
 title: "24560 - ISSIGEAC | Entraide, Annonces, Initiatives"
 description: "24560 - ISSIGEAC | Entraide, Annonces, Initiatives"

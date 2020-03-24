@@ -1,4 +1,3 @@
-
 ---
 title: "13002 - MARSEILLE 02 | Entraide, Annonces, Initiatives"
 description: "13002 - MARSEILLE 02 | Entraide, Annonces, Initiatives"

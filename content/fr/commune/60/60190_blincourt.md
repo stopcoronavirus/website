@@ -1,4 +1,3 @@
-
 ---
 title: "60190 - BLINCOURT | Entraide, Annonces, Initiatives"
 description: "60190 - BLINCOURT | Entraide, Annonces, Initiatives"

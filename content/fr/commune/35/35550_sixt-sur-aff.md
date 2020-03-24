@@ -1,4 +1,3 @@
-
 ---
 title: "35550 - SIXT SUR AFF | Entraide, Annonces, Initiatives"
 description: "35550 - SIXT SUR AFF | Entraide, Annonces, Initiatives"

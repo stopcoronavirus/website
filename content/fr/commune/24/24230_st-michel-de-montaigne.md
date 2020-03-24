@@ -1,4 +1,3 @@
-
 ---
 title: "24230 - ST MICHEL DE MONTAIGNE | Entraide, Annonces, Initiatives"
 description: "24230 - ST MICHEL DE MONTAIGNE | Entraide, Annonces, Initiatives"

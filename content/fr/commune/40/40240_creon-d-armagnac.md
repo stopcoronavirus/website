@@ -1,4 +1,3 @@
-
 ---
 title: "40240 - CREON D ARMAGNAC | Entraide, Annonces, Initiatives"
 description: "40240 - CREON D ARMAGNAC | Entraide, Annonces, Initiatives"

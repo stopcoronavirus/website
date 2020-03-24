@@ -1,4 +1,3 @@
-
 ---
 title: "71290 - LA GENETE | Entraide, Annonces, Initiatives"
 description: "71290 - LA GENETE | Entraide, Annonces, Initiatives"

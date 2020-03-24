@@ -1,4 +1,3 @@
-
 ---
 title: "56360 - LE PALAIS | Entraide, Annonces, Initiatives"
 description: "56360 - LE PALAIS | Entraide, Annonces, Initiatives"

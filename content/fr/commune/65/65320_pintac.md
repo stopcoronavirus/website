@@ -1,4 +1,3 @@
-
 ---
 title: "65320 - PINTAC | Entraide, Annonces, Initiatives"
 description: "65320 - PINTAC | Entraide, Annonces, Initiatives"

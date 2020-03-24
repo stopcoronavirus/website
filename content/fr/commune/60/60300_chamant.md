@@ -1,4 +1,3 @@
-
 ---
 title: "60300 - CHAMANT | Entraide, Annonces, Initiatives"
 description: "60300 - CHAMANT | Entraide, Annonces, Initiatives"

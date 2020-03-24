@@ -1,4 +1,3 @@
-
 ---
 title: "47800 - LAPERCHE | Entraide, Annonces, Initiatives"
 description: "47800 - LAPERCHE | Entraide, Annonces, Initiatives"

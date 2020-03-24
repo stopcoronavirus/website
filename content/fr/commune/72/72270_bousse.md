@@ -1,4 +1,3 @@
-
 ---
 title: "72270 - BOUSSE | Entraide, Annonces, Initiatives"
 description: "72270 - BOUSSE | Entraide, Annonces, Initiatives"

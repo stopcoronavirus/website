@@ -1,4 +1,3 @@
-
 ---
 title: "33250 - PAUILLAC | Entraide, Annonces, Initiatives"
 description: "33250 - PAUILLAC | Entraide, Annonces, Initiatives"

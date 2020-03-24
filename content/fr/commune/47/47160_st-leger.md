@@ -1,4 +1,3 @@
-
 ---
 title: "47160 - ST LEGER | Entraide, Annonces, Initiatives"
 description: "47160 - ST LEGER | Entraide, Annonces, Initiatives"

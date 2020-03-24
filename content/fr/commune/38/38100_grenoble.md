@@ -1,4 +1,3 @@
-
 ---
 title: "38100 - GRENOBLE | Entraide, Annonces, Initiatives"
 description: "38100 - GRENOBLE | Entraide, Annonces, Initiatives"

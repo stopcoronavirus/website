@@ -1,4 +1,3 @@
-
 ---
 title: "09420 - CLERMONT | Entraide, Annonces, Initiatives"
 description: "09420 - CLERMONT | Entraide, Annonces, Initiatives"

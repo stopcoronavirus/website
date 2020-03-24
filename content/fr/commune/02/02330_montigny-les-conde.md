@@ -1,4 +1,3 @@
-
 ---
 title: "02330 - MONTIGNY LES CONDE | Entraide, Annonces, Initiatives"
 description: "02330 - MONTIGNY LES CONDE | Entraide, Annonces, Initiatives"

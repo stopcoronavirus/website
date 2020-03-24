@@ -1,4 +1,3 @@
-
 ---
 title: "59215 - ABSCON | Entraide, Annonces, Initiatives"
 description: "59215 - ABSCON | Entraide, Annonces, Initiatives"

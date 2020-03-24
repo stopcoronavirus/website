@@ -1,4 +1,3 @@
-
 ---
 title: "18140 - ST LEGER LE PETIT | Entraide, Annonces, Initiatives"
 description: "18140 - ST LEGER LE PETIT | Entraide, Annonces, Initiatives"

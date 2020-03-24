@@ -1,4 +1,3 @@
-
 ---
 title: "72610 - ROUESSE FONTAINE | Entraide, Annonces, Initiatives"
 description: "72610 - ROUESSE FONTAINE | Entraide, Annonces, Initiatives"

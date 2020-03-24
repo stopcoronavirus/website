@@ -1,4 +1,3 @@
-
 ---
 title: "02410 - SEPTVAUX | Entraide, Annonces, Initiatives"
 description: "02410 - SEPTVAUX | Entraide, Annonces, Initiatives"

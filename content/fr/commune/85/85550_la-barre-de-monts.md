@@ -1,4 +1,3 @@
-
 ---
 title: "85550 - LA BARRE DE MONTS | Entraide, Annonces, Initiatives"
 description: "85550 - LA BARRE DE MONTS | Entraide, Annonces, Initiatives"

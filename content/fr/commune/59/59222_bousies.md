@@ -1,4 +1,3 @@
-
 ---
 title: "59222 - BOUSIES | Entraide, Annonces, Initiatives"
 description: "59222 - BOUSIES | Entraide, Annonces, Initiatives"

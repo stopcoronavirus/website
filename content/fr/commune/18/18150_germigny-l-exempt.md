@@ -1,4 +1,3 @@
-
 ---
 title: "18150 - GERMIGNY L EXEMPT | Entraide, Annonces, Initiatives"
 description: "18150 - GERMIGNY L EXEMPT | Entraide, Annonces, Initiatives"

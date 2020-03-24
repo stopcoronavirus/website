@@ -1,4 +1,3 @@
-
 ---
 title: "2B - Haute-Corse"
 description: "2B - Haute-Corse"

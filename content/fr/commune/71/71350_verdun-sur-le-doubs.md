@@ -1,4 +1,3 @@
-
 ---
 title: "71350 - VERDUN SUR LE DOUBS | Entraide, Annonces, Initiatives"
 description: "71350 - VERDUN SUR LE DOUBS | Entraide, Annonces, Initiatives"

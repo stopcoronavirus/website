@@ -1,4 +1,3 @@
-
 ---
 title: "37500 - ST GERMAIN SUR VIENNE | Entraide, Annonces, Initiatives"
 description: "37500 - ST GERMAIN SUR VIENNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "69540 - IRIGNY | Entraide, Annonces, Initiatives"
 description: "69540 - IRIGNY | Entraide, Annonces, Initiatives"

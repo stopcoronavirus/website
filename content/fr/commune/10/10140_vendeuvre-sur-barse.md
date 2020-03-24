@@ -1,4 +1,3 @@
-
 ---
 title: "10140 - VENDEUVRE SUR BARSE | Entraide, Annonces, Initiatives"
 description: "10140 - VENDEUVRE SUR BARSE | Entraide, Annonces, Initiatives"

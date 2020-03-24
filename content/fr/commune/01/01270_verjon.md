@@ -1,4 +1,3 @@
-
 ---
 title: "01270 - VERJON | Entraide, Annonces, Initiatives"
 description: "01270 - VERJON | Entraide, Annonces, Initiatives"

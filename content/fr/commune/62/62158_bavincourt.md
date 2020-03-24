@@ -1,4 +1,3 @@
-
 ---
 title: "62158 - BAVINCOURT | Entraide, Annonces, Initiatives"
 description: "62158 - BAVINCOURT | Entraide, Annonces, Initiatives"

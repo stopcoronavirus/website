@@ -1,4 +1,3 @@
-
 ---
 title: "35130 - AVAILLES SUR SEICHE | Entraide, Annonces, Initiatives"
 description: "35130 - AVAILLES SUR SEICHE | Entraide, Annonces, Initiatives"

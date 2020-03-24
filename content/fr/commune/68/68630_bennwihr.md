@@ -1,4 +1,3 @@
-
 ---
 title: "68630 - BENNWIHR | Entraide, Annonces, Initiatives"
 description: "68630 - BENNWIHR | Entraide, Annonces, Initiatives"

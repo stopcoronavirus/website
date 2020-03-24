@@ -1,4 +1,3 @@
-
 ---
 title: "37220 - L ILE BOUCHARD | Entraide, Annonces, Initiatives"
 description: "37220 - L ILE BOUCHARD | Entraide, Annonces, Initiatives"

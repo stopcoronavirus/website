@@ -1,4 +1,3 @@
-
 ---
 title: "83140 - SIX FOURS LES PLAGES | Entraide, Annonces, Initiatives"
 description: "83140 - SIX FOURS LES PLAGES | Entraide, Annonces, Initiatives"

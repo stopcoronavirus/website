@@ -1,4 +1,3 @@
-
 ---
 title: "23200 - ST MAIXANT | Entraide, Annonces, Initiatives"
 description: "23200 - ST MAIXANT | Entraide, Annonces, Initiatives"

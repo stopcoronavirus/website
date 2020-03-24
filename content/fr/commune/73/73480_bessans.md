@@ -1,4 +1,3 @@
-
 ---
 title: "73480 - BESSANS | Entraide, Annonces, Initiatives"
 description: "73480 - BESSANS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "62650 - ST MICHEL SOUS BOIS | Entraide, Annonces, Initiatives"
 description: "62650 - ST MICHEL SOUS BOIS | Entraide, Annonces, Initiatives"

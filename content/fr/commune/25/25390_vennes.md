@@ -1,4 +1,3 @@
-
 ---
 title: "25390 - VENNES | Entraide, Annonces, Initiatives"
 description: "25390 - VENNES | Entraide, Annonces, Initiatives"

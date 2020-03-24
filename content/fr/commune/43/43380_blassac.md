@@ -1,4 +1,3 @@
-
 ---
 title: "43380 - BLASSAC | Entraide, Annonces, Initiatives"
 description: "43380 - BLASSAC | Entraide, Annonces, Initiatives"

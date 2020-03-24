@@ -1,4 +1,3 @@
-
 ---
 title: "65500 - VIC EN BIGORRE | Entraide, Annonces, Initiatives"
 description: "65500 - VIC EN BIGORRE | Entraide, Annonces, Initiatives"

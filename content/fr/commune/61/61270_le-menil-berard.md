@@ -1,4 +1,3 @@
-
 ---
 title: "61270 - LE MENIL BERARD | Entraide, Annonces, Initiatives"
 description: "61270 - LE MENIL BERARD | Entraide, Annonces, Initiatives"

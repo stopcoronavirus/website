@@ -1,4 +1,3 @@
-
 ---
 title: "34970 - LATTES | Entraide, Annonces, Initiatives"
 description: "34970 - LATTES | Entraide, Annonces, Initiatives"

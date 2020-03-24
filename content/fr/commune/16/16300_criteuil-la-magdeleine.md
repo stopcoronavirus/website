@@ -1,4 +1,3 @@
-
 ---
 title: "16300 - CRITEUIL LA MAGDELEINE | Entraide, Annonces, Initiatives"
 description: "16300 - CRITEUIL LA MAGDELEINE | Entraide, Annonces, Initiatives"

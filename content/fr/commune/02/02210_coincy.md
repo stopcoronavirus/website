@@ -1,4 +1,3 @@
-
 ---
 title: "02210 - COINCY | Entraide, Annonces, Initiatives"
 description: "02210 - COINCY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "22120 - YFFINIAC | Entraide, Annonces, Initiatives"
 description: "22120 - YFFINIAC | Entraide, Annonces, Initiatives"

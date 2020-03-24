@@ -1,4 +1,3 @@
-
 ---
 title: "72230 - GUECELARD | Entraide, Annonces, Initiatives"
 description: "72230 - GUECELARD | Entraide, Annonces, Initiatives"

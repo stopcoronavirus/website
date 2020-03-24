@@ -1,4 +1,3 @@
-
 ---
 title: "15350 - VEYRIERES | Entraide, Annonces, Initiatives"
 description: "15350 - VEYRIERES | Entraide, Annonces, Initiatives"

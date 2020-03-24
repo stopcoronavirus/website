@@ -1,4 +1,3 @@
-
 ---
 title: "64800 - BAUDREIX | Entraide, Annonces, Initiatives"
 description: "64800 - BAUDREIX | Entraide, Annonces, Initiatives"

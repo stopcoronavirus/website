@@ -1,4 +1,3 @@
-
 ---
 title: "86290 - BRIGUEIL LE CHANTRE | Entraide, Annonces, Initiatives"
 description: "86290 - BRIGUEIL LE CHANTRE | Entraide, Annonces, Initiatives"

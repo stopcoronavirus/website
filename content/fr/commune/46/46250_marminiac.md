@@ -1,4 +1,3 @@
-
 ---
 title: "46250 - MARMINIAC | Entraide, Annonces, Initiatives"
 description: "46250 - MARMINIAC | Entraide, Annonces, Initiatives"

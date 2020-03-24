@@ -1,4 +1,3 @@
-
 ---
 title: "62560 - VERCHOCQ | Entraide, Annonces, Initiatives"
 description: "62560 - VERCHOCQ | Entraide, Annonces, Initiatives"

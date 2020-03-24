@@ -1,4 +1,3 @@
-
 ---
 title: "19310 - BRIGNAC LA PLAINE | Entraide, Annonces, Initiatives"
 description: "19310 - BRIGNAC LA PLAINE | Entraide, Annonces, Initiatives"

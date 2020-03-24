@@ -1,4 +1,3 @@
-
 ---
 title: "02190 - BERTRICOURT | Entraide, Annonces, Initiatives"
 description: "02190 - BERTRICOURT | Entraide, Annonces, Initiatives"

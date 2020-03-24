@@ -1,4 +1,3 @@
-
 ---
 title: "63910 - VASSEL | Entraide, Annonces, Initiatives"
 description: "63910 - VASSEL | Entraide, Annonces, Initiatives"

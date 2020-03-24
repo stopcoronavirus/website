@@ -1,4 +1,3 @@
-
 ---
 title: "25330 - LIZINE | Entraide, Annonces, Initiatives"
 description: "25330 - LIZINE | Entraide, Annonces, Initiatives"

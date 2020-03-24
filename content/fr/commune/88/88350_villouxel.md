@@ -1,4 +1,3 @@
-
 ---
 title: "88350 - VILLOUXEL | Entraide, Annonces, Initiatives"
 description: "88350 - VILLOUXEL | Entraide, Annonces, Initiatives"

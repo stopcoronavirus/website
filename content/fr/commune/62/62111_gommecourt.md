@@ -1,4 +1,3 @@
-
 ---
 title: "62111 - GOMMECOURT | Entraide, Annonces, Initiatives"
 description: "62111 - GOMMECOURT | Entraide, Annonces, Initiatives"

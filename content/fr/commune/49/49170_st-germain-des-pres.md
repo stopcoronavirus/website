@@ -1,4 +1,3 @@
-
 ---
 title: "49170 - ST GERMAIN DES PRES | Entraide, Annonces, Initiatives"
 description: "49170 - ST GERMAIN DES PRES | Entraide, Annonces, Initiatives"

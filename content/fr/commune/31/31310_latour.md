@@ -1,4 +1,3 @@
-
 ---
 title: "31310 - LATOUR | Entraide, Annonces, Initiatives"
 description: "31310 - LATOUR | Entraide, Annonces, Initiatives"

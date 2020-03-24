@@ -1,4 +1,3 @@
-
 ---
 title: "01470 - MONTAGNIEU | Entraide, Annonces, Initiatives"
 description: "01470 - MONTAGNIEU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "73630 - DOUCY EN BAUGES | Entraide, Annonces, Initiatives"
 description: "73630 - DOUCY EN BAUGES | Entraide, Annonces, Initiatives"

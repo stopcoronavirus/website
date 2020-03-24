@@ -1,4 +1,3 @@
-
 ---
 title: "70130 - MERCEY SUR SAONE | Entraide, Annonces, Initiatives"
 description: "70130 - MERCEY SUR SAONE | Entraide, Annonces, Initiatives"

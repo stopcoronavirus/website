@@ -1,4 +1,3 @@
-
 ---
 title: "51120 - BARBONNE FAYEL | Entraide, Annonces, Initiatives"
 description: "51120 - BARBONNE FAYEL | Entraide, Annonces, Initiatives"

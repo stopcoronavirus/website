@@ -1,4 +1,3 @@
-
 ---
 title: "44521 - COUFFE | Entraide, Annonces, Initiatives"
 description: "44521 - COUFFE | Entraide, Annonces, Initiatives"

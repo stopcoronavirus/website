@@ -1,4 +1,3 @@
-
 ---
 title: "35136 - ST JACQUES DE LA LANDE | Entraide, Annonces, Initiatives"
 description: "35136 - ST JACQUES DE LA LANDE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71310 - ST BONNET EN BRESSE | Entraide, Annonces, Initiatives"
 description: "71310 - ST BONNET EN BRESSE | Entraide, Annonces, Initiatives"

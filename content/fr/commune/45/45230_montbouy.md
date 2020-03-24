@@ -1,4 +1,3 @@
-
 ---
 title: "45230 - MONTBOUY | Entraide, Annonces, Initiatives"
 description: "45230 - MONTBOUY | Entraide, Annonces, Initiatives"

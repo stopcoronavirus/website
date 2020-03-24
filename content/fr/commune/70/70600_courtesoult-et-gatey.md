@@ -1,4 +1,3 @@
-
 ---
 title: "70600 - COURTESOULT ET GATEY | Entraide, Annonces, Initiatives"
 description: "70600 - COURTESOULT ET GATEY | Entraide, Annonces, Initiatives"

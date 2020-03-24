@@ -1,4 +1,3 @@
-
 ---
 title: "79230 - AIFFRES | Entraide, Annonces, Initiatives"
 description: "79230 - AIFFRES | Entraide, Annonces, Initiatives"

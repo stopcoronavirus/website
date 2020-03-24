@@ -1,4 +1,3 @@
-
 ---
 title: "02120 - FLAVIGNY LE GRAND ET BEAURAIN | Entraide, Annonces, Initiatives"
 description: "02120 - FLAVIGNY LE GRAND ET BEAURAIN | Entraide, Annonces, Initiatives"

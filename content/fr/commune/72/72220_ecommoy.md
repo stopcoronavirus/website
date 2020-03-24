@@ -1,4 +1,3 @@
-
 ---
 title: "72220 - ECOMMOY | Entraide, Annonces, Initiatives"
 description: "72220 - ECOMMOY | Entraide, Annonces, Initiatives"

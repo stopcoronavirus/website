@@ -1,4 +1,3 @@
-
 ---
 title: "60360 - CREVECOEUR LE GRAND | Entraide, Annonces, Initiatives"
 description: "60360 - CREVECOEUR LE GRAND | Entraide, Annonces, Initiatives"

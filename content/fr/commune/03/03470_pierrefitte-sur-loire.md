@@ -1,4 +1,3 @@
-
 ---
 title: "03470 - PIERREFITTE SUR LOIRE | Entraide, Annonces, Initiatives"
 description: "03470 - PIERREFITTE SUR LOIRE | Entraide, Annonces, Initiatives"

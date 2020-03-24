@@ -1,4 +1,3 @@
-
 ---
 title: "59169 - CANTIN | Entraide, Annonces, Initiatives"
 description: "59169 - CANTIN | Entraide, Annonces, Initiatives"

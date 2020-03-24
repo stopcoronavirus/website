@@ -1,4 +1,3 @@
-
 ---
 title: "25680 - ROUGEMONT | Entraide, Annonces, Initiatives"
 description: "25680 - ROUGEMONT | Entraide, Annonces, Initiatives"

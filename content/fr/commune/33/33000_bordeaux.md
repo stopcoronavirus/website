@@ -1,4 +1,3 @@
-
 ---
 title: "33000 - BORDEAUX | Entraide, Annonces, Initiatives"
 description: "33000 - BORDEAUX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "03400 - YZEURE | Entraide, Annonces, Initiatives"
 description: "03400 - YZEURE | Entraide, Annonces, Initiatives"

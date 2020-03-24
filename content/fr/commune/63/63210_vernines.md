@@ -1,4 +1,3 @@
-
 ---
 title: "63210 - VERNINES | Entraide, Annonces, Initiatives"
 description: "63210 - VERNINES | Entraide, Annonces, Initiatives"

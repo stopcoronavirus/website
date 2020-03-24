@@ -1,4 +1,3 @@
-
 ---
 title: "86260 - VICQ SUR GARTEMPE | Entraide, Annonces, Initiatives"
 description: "86260 - VICQ SUR GARTEMPE | Entraide, Annonces, Initiatives"

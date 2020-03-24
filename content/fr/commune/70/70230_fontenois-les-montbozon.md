@@ -1,4 +1,3 @@
-
 ---
 title: "70230 - FONTENOIS LES MONTBOZON | Entraide, Annonces, Initiatives"
 description: "70230 - FONTENOIS LES MONTBOZON | Entraide, Annonces, Initiatives"

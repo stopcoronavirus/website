@@ -1,4 +1,3 @@
-
 ---
 title: "36400 - BRIANTES | Entraide, Annonces, Initiatives"
 description: "36400 - BRIANTES | Entraide, Annonces, Initiatives"

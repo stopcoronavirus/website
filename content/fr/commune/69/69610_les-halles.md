@@ -1,4 +1,3 @@
-
 ---
 title: "69610 - LES HALLES | Entraide, Annonces, Initiatives"
 description: "69610 - LES HALLES | Entraide, Annonces, Initiatives"

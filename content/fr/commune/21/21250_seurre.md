@@ -1,4 +1,3 @@
-
 ---
 title: "21250 - SEURRE | Entraide, Annonces, Initiatives"
 description: "21250 - SEURRE | Entraide, Annonces, Initiatives"

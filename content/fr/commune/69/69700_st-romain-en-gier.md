@@ -1,4 +1,3 @@
-
 ---
 title: "69700 - ST ROMAIN EN GIER | Entraide, Annonces, Initiatives"
 description: "69700 - ST ROMAIN EN GIER | Entraide, Annonces, Initiatives"

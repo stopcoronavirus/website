@@ -1,4 +1,3 @@
-
 ---
 title: "27700 - HENNEZIS | Entraide, Annonces, Initiatives"
 description: "27700 - HENNEZIS | Entraide, Annonces, Initiatives"

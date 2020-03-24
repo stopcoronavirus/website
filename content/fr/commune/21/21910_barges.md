@@ -1,4 +1,3 @@
-
 ---
 title: "21910 - BARGES | Entraide, Annonces, Initiatives"
 description: "21910 - BARGES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "41120 - CHITENAY | Entraide, Annonces, Initiatives"
 description: "41120 - CHITENAY | Entraide, Annonces, Initiatives"

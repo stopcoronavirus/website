@@ -1,4 +1,3 @@
-
 ---
 title: "36200 - ST MARCEL | Entraide, Annonces, Initiatives"
 description: "36200 - ST MARCEL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "16430 - BALZAC | Entraide, Annonces, Initiatives"
 description: "16430 - BALZAC | Entraide, Annonces, Initiatives"

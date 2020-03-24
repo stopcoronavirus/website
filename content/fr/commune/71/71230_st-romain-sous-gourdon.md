@@ -1,4 +1,3 @@
-
 ---
 title: "71230 - ST ROMAIN SOUS GOURDON | Entraide, Annonces, Initiatives"
 description: "71230 - ST ROMAIN SOUS GOURDON | Entraide, Annonces, Initiatives"

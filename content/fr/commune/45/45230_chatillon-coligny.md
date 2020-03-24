@@ -1,4 +1,3 @@
-
 ---
 title: "45230 - CHATILLON COLIGNY | Entraide, Annonces, Initiatives"
 description: "45230 - CHATILLON COLIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60620 - BOUILLANCY | Entraide, Annonces, Initiatives"
 description: "60620 - BOUILLANCY | Entraide, Annonces, Initiatives"

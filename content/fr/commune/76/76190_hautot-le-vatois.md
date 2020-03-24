@@ -1,4 +1,3 @@
-
 ---
 title: "76190 - HAUTOT LE VATOIS | Entraide, Annonces, Initiatives"
 description: "76190 - HAUTOT LE VATOIS | Entraide, Annonces, Initiatives"

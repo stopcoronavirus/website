@@ -1,4 +1,3 @@
-
 ---
 title: "30200 - ST MICHEL D EUZET | Entraide, Annonces, Initiatives"
 description: "30200 - ST MICHEL D EUZET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71640 - BARIZEY | Entraide, Annonces, Initiatives"
 description: "71640 - BARIZEY | Entraide, Annonces, Initiatives"

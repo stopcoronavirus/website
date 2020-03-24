@@ -1,4 +1,3 @@
-
 ---
 title: "59680 - COLLERET | Entraide, Annonces, Initiatives"
 description: "59680 - COLLERET | Entraide, Annonces, Initiatives"

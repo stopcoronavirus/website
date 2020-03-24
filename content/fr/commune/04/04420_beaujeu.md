@@ -1,4 +1,3 @@
-
 ---
 title: "04420 - BEAUJEU | Entraide, Annonces, Initiatives"
 description: "04420 - BEAUJEU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "08130 - JONVAL | Entraide, Annonces, Initiatives"
 description: "08130 - JONVAL | Entraide, Annonces, Initiatives"

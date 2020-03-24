@@ -1,4 +1,3 @@
-
 ---
 title: "27230 - DURANVILLE | Entraide, Annonces, Initiatives"
 description: "27230 - DURANVILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "72340 - LOIR EN VALLEE | Entraide, Annonces, Initiatives"
 description: "72340 - LOIR EN VALLEE | Entraide, Annonces, Initiatives"

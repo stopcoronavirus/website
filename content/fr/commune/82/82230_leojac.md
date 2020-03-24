@@ -1,4 +1,3 @@
-
 ---
 title: "82230 - LEOJAC | Entraide, Annonces, Initiatives"
 description: "82230 - LEOJAC | Entraide, Annonces, Initiatives"

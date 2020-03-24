@@ -1,4 +1,3 @@
-
 ---
 title: "24490 - LA ROCHE CHALAIS | Entraide, Annonces, Initiatives"
 description: "24490 - LA ROCHE CHALAIS | Entraide, Annonces, Initiatives"

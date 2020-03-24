@@ -1,4 +1,3 @@
-
 ---
 title: "02680 - GRUGIES | Entraide, Annonces, Initiatives"
 description: "02680 - GRUGIES | Entraide, Annonces, Initiatives"

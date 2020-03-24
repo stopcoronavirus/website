@@ -1,4 +1,3 @@
-
 ---
 title: "54290 - ROVILLE DEVANT BAYON | Entraide, Annonces, Initiatives"
 description: "54290 - ROVILLE DEVANT BAYON | Entraide, Annonces, Initiatives"

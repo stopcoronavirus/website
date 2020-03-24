@@ -1,4 +1,3 @@
-
 ---
 title: "52300 - VECQUEVILLE | Entraide, Annonces, Initiatives"
 description: "52300 - VECQUEVILLE | Entraide, Annonces, Initiatives"

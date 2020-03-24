@@ -1,4 +1,3 @@
-
 ---
 title: "14290 - LA FOLLETIERE ABENON | Entraide, Annonces, Initiatives"
 description: "14290 - LA FOLLETIERE ABENON | Entraide, Annonces, Initiatives"

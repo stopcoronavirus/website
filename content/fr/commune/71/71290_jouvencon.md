@@ -1,4 +1,3 @@
-
 ---
 title: "71290 - JOUVENCON | Entraide, Annonces, Initiatives"
 description: "71290 - JOUVENCON | Entraide, Annonces, Initiatives"

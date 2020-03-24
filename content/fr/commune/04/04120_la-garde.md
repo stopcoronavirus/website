@@ -1,4 +1,3 @@
-
 ---
 title: "04120 - LA GARDE | Entraide, Annonces, Initiatives"
 description: "04120 - LA GARDE | Entraide, Annonces, Initiatives"

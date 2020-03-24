@@ -1,4 +1,3 @@
-
 ---
 title: "61220 - POINTEL | Entraide, Annonces, Initiatives"
 description: "61220 - POINTEL | Entraide, Annonces, Initiatives"

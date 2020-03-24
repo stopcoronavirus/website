@@ -1,4 +1,3 @@
-
 ---
 title: "52700 - MANOIS | Entraide, Annonces, Initiatives"
 description: "52700 - MANOIS | Entraide, Annonces, Initiatives"

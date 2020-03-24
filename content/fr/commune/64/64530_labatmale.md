@@ -1,4 +1,3 @@
-
 ---
 title: "64530 - LABATMALE | Entraide, Annonces, Initiatives"
 description: "64530 - LABATMALE | Entraide, Annonces, Initiatives"

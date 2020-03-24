@@ -1,4 +1,3 @@
-
 ---
 title: "19150 - LAGARDE MARC LA TOUR | Entraide, Annonces, Initiatives"
 description: "19150 - LAGARDE MARC LA TOUR | Entraide, Annonces, Initiatives"

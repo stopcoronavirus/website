@@ -1,4 +1,3 @@
-
 ---
 title: "18380 - LA CHAPELLE D ANGILLON | Entraide, Annonces, Initiatives"
 description: "18380 - LA CHAPELLE D ANGILLON | Entraide, Annonces, Initiatives"

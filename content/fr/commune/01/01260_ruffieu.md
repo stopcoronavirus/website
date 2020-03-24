@@ -1,4 +1,3 @@
-
 ---
 title: "01260 - RUFFIEU | Entraide, Annonces, Initiatives"
 description: "01260 - RUFFIEU | Entraide, Annonces, Initiatives"

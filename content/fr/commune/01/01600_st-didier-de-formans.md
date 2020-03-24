@@ -1,4 +1,3 @@
-
 ---
 title: "01600 - ST DIDIER DE FORMANS | Entraide, Annonces, Initiatives"
 description: "01600 - ST DIDIER DE FORMANS | Entraide, Annonces, Initiatives"

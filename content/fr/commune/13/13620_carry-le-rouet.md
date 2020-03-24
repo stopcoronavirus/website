@@ -1,4 +1,3 @@
-
 ---
 title: "13620 - CARRY LE ROUET | Entraide, Annonces, Initiatives"
 description: "13620 - CARRY LE ROUET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "21130 - VILLERS ROTIN | Entraide, Annonces, Initiatives"
 description: "21130 - VILLERS ROTIN | Entraide, Annonces, Initiatives"

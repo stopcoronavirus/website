@@ -1,4 +1,3 @@
-
 ---
 title: "62860 - RUMAUCOURT | Entraide, Annonces, Initiatives"
 description: "62860 - RUMAUCOURT | Entraide, Annonces, Initiatives"

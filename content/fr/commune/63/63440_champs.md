@@ -1,4 +1,3 @@
-
 ---
 title: "63440 - CHAMPS | Entraide, Annonces, Initiatives"
 description: "63440 - CHAMPS | Entraide, Annonces, Initiatives"

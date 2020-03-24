@@ -1,4 +1,3 @@
-
 ---
 title: "86200 - BASSES | Entraide, Annonces, Initiatives"
 description: "86200 - BASSES | Entraide, Annonces, Initiatives"

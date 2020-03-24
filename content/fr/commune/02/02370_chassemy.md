@@ -1,4 +1,3 @@
-
 ---
 title: "02370 - CHASSEMY | Entraide, Annonces, Initiatives"
 description: "02370 - CHASSEMY | Entraide, Annonces, Initiatives"

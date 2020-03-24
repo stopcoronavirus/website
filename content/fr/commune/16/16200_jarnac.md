@@ -1,4 +1,3 @@
-
 ---
 title: "16200 - JARNAC | Entraide, Annonces, Initiatives"
 description: "16200 - JARNAC | Entraide, Annonces, Initiatives"

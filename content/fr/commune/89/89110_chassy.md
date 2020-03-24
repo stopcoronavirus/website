@@ -1,4 +1,3 @@
-
 ---
 title: "89110 - CHASSY | Entraide, Annonces, Initiatives"
 description: "89110 - CHASSY | Entraide, Annonces, Initiatives"

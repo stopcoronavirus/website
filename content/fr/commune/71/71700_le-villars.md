@@ -1,4 +1,3 @@
-
 ---
 title: "71700 - LE VILLARS | Entraide, Annonces, Initiatives"
 description: "71700 - LE VILLARS | Entraide, Annonces, Initiatives"

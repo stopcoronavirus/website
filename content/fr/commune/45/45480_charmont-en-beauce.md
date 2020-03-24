@@ -1,4 +1,3 @@
-
 ---
 title: "45480 - CHARMONT EN BEAUCE | Entraide, Annonces, Initiatives"
 description: "45480 - CHARMONT EN BEAUCE | Entraide, Annonces, Initiatives"

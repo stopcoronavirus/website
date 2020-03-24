@@ -1,4 +1,3 @@
-
 ---
 title: "86110 - LA GRIMAUDIERE | Entraide, Annonces, Initiatives"
 description: "86110 - LA GRIMAUDIERE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "66110 - LA BASTIDE | Entraide, Annonces, Initiatives"
 description: "66110 - LA BASTIDE | Entraide, Annonces, Initiatives"

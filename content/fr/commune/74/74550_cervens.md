@@ -1,4 +1,3 @@
-
 ---
 title: "74550 - CERVENS | Entraide, Annonces, Initiatives"
 description: "74550 - CERVENS | Entraide, Annonces, Initiatives"

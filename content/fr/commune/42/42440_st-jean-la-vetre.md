@@ -1,4 +1,3 @@
-
 ---
 title: "42440 - ST JEAN LA VETRE | Entraide, Annonces, Initiatives"
 description: "42440 - ST JEAN LA VETRE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "15500 - MASSIAC | Entraide, Annonces, Initiatives"
 description: "15500 - MASSIAC | Entraide, Annonces, Initiatives"

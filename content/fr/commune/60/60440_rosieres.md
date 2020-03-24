@@ -1,4 +1,3 @@
-
 ---
 title: "60440 - ROSIERES | Entraide, Annonces, Initiatives"
 description: "60440 - ROSIERES | Entraide, Annonces, Initiatives"

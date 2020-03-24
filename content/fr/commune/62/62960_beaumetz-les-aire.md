@@ -1,4 +1,3 @@
-
 ---
 title: "62960 - BEAUMETZ LES AIRE | Entraide, Annonces, Initiatives"
 description: "62960 - BEAUMETZ LES AIRE | Entraide, Annonces, Initiatives"

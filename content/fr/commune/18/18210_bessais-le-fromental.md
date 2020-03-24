@@ -1,4 +1,3 @@
-
 ---
 title: "18210 - BESSAIS LE FROMENTAL | Entraide, Annonces, Initiatives"
 description: "18210 - BESSAIS LE FROMENTAL | Entraide, Annonces, Initiatives"

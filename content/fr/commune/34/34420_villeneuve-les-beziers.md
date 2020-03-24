@@ -1,4 +1,3 @@
-
 ---
 title: "34420 - VILLENEUVE LES BEZIERS | Entraide, Annonces, Initiatives"
 description: "34420 - VILLENEUVE LES BEZIERS | Entraide, Annonces, Initiatives"

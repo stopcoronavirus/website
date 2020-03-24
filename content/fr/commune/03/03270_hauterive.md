@@ -1,4 +1,3 @@
-
 ---
 title: "03270 - HAUTERIVE | Entraide, Annonces, Initiatives"
 description: "03270 - HAUTERIVE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "45120 - GIROLLES | Entraide, Annonces, Initiatives"
 description: "45120 - GIROLLES | Entraide, Annonces, Initiatives"

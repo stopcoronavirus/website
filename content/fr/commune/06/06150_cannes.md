@@ -1,4 +1,3 @@
-
 ---
 title: "06150 - CANNES | Entraide, Annonces, Initiatives"
 description: "06150 - CANNES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "29870 - COAT MEAL | Entraide, Annonces, Initiatives"
 description: "29870 - COAT MEAL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02860 - CHERMIZY AILLES | Entraide, Annonces, Initiatives"
 description: "02860 - CHERMIZY AILLES | Entraide, Annonces, Initiatives"

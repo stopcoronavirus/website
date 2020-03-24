@@ -1,4 +1,3 @@
-
 ---
 title: "50330 - MAUPERTUS SUR MER | Entraide, Annonces, Initiatives"
 description: "50330 - MAUPERTUS SUR MER | Entraide, Annonces, Initiatives"

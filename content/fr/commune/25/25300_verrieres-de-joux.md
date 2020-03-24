@@ -1,4 +1,3 @@
-
 ---
 title: "25300 - VERRIERES DE JOUX | Entraide, Annonces, Initiatives"
 description: "25300 - VERRIERES DE JOUX | Entraide, Annonces, Initiatives"

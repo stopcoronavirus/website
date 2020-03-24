@@ -1,4 +1,3 @@
-
 ---
 title: "39240 - LA BOISSIERE | Entraide, Annonces, Initiatives"
 description: "39240 - LA BOISSIERE | Entraide, Annonces, Initiatives"

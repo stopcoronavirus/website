@@ -1,4 +1,3 @@
-
 ---
 title: "88370 - BELLEFONTAINE | Entraide, Annonces, Initiatives"
 description: "88370 - BELLEFONTAINE | Entraide, Annonces, Initiatives"

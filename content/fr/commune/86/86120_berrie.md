@@ -1,4 +1,3 @@
-
 ---
 title: "86120 - BERRIE | Entraide, Annonces, Initiatives"
 description: "86120 - BERRIE | Entraide, Annonces, Initiatives"

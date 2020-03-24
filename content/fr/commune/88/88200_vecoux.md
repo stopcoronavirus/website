@@ -1,4 +1,3 @@
-
 ---
 title: "88200 - VECOUX | Entraide, Annonces, Initiatives"
 description: "88200 - VECOUX | Entraide, Annonces, Initiatives"

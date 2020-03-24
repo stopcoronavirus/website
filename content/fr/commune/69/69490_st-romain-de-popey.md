@@ -1,4 +1,3 @@
-
 ---
 title: "69490 - ST ROMAIN DE POPEY | Entraide, Annonces, Initiatives"
 description: "69490 - ST ROMAIN DE POPEY | Entraide, Annonces, Initiatives"

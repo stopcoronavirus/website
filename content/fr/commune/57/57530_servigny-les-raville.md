@@ -1,4 +1,3 @@
-
 ---
 title: "57530 - SERVIGNY LES RAVILLE | Entraide, Annonces, Initiatives"
 description: "57530 - SERVIGNY LES RAVILLE | Entraide, Annonces, Initiatives"

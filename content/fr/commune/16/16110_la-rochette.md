@@ -1,4 +1,3 @@
-
 ---
 title: "16110 - LA ROCHETTE | Entraide, Annonces, Initiatives"
 description: "16110 - LA ROCHETTE | Entraide, Annonces, Initiatives"

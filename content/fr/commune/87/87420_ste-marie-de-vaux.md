@@ -1,4 +1,3 @@
-
 ---
 title: "87420 - STE MARIE DE VAUX | Entraide, Annonces, Initiatives"
 description: "87420 - STE MARIE DE VAUX | Entraide, Annonces, Initiatives"

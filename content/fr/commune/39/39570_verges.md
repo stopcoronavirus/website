@@ -1,4 +1,3 @@
-
 ---
 title: "39570 - VERGES | Entraide, Annonces, Initiatives"
 description: "39570 - VERGES | Entraide, Annonces, Initiatives"

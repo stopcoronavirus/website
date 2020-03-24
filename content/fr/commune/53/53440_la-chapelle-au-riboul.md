@@ -1,4 +1,3 @@
-
 ---
 title: "53440 - LA CHAPELLE AU RIBOUL | Entraide, Annonces, Initiatives"
 description: "53440 - LA CHAPELLE AU RIBOUL | Entraide, Annonces, Initiatives"

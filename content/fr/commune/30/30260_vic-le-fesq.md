@@ -1,4 +1,3 @@
-
 ---
 title: "30260 - VIC LE FESQ | Entraide, Annonces, Initiatives"
 description: "30260 - VIC LE FESQ | Entraide, Annonces, Initiatives"

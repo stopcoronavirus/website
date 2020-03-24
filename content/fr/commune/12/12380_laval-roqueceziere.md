@@ -1,4 +1,3 @@
-
 ---
 title: "12380 - LAVAL ROQUECEZIERE | Entraide, Annonces, Initiatives"
 description: "12380 - LAVAL ROQUECEZIERE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "86170 - NEUVILLE DE POITOU | Entraide, Annonces, Initiatives"
 description: "86170 - NEUVILLE DE POITOU | Entraide, Annonces, Initiatives"

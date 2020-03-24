@@ -1,4 +1,3 @@
-
 ---
 title: "82500 - GARIES | Entraide, Annonces, Initiatives"
 description: "82500 - GARIES | Entraide, Annonces, Initiatives"

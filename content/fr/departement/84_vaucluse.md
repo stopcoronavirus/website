@@ -1,4 +1,3 @@
-
 ---
 title: "84 - Vaucluse"
 description: "84 - Vaucluse"

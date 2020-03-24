@@ -1,4 +1,3 @@
-
 ---
 title: "16300 - BARRET | Entraide, Annonces, Initiatives"
 description: "16300 - BARRET | Entraide, Annonces, Initiatives"

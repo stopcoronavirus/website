@@ -1,4 +1,3 @@
-
 ---
 title: "22250 - SEVIGNAC | Entraide, Annonces, Initiatives"
 description: "22250 - SEVIGNAC | Entraide, Annonces, Initiatives"

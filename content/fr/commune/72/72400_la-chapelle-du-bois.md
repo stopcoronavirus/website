@@ -1,4 +1,3 @@
-
 ---
 title: "72400 - LA CHAPELLE DU BOIS | Entraide, Annonces, Initiatives"
 description: "72400 - LA CHAPELLE DU BOIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "12490 - ST ROME DE CERNON | Entraide, Annonces, Initiatives"
 description: "12490 - ST ROME DE CERNON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "88270 - FRENOIS | Entraide, Annonces, Initiatives"
 description: "88270 - FRENOIS | Entraide, Annonces, Initiatives"

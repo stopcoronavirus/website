@@ -1,4 +1,3 @@
-
 ---
 title: "65230 - DEVEZE | Entraide, Annonces, Initiatives"
 description: "65230 - DEVEZE | Entraide, Annonces, Initiatives"

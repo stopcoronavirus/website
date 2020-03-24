@@ -1,4 +1,3 @@
-
 ---
 title: "05200 - BARATIER | Entraide, Annonces, Initiatives"
 description: "05200 - BARATIER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "50420 - BEUVRIGNY | Entraide, Annonces, Initiatives"
 description: "50420 - BEUVRIGNY | Entraide, Annonces, Initiatives"

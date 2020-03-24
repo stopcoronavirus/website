@@ -1,4 +1,3 @@
-
 ---
 title: "22240 - FREHEL | Entraide, Annonces, Initiatives"
 description: "22240 - FREHEL | Entraide, Annonces, Initiatives"

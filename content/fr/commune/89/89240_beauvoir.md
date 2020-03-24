@@ -1,4 +1,3 @@
-
 ---
 title: "89240 - BEAUVOIR | Entraide, Annonces, Initiatives"
 description: "89240 - BEAUVOIR | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "87370 - BERSAC SUR RIVALIER | Entraide, Annonces, Initiatives"
 description: "87370 - BERSAC SUR RIVALIER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "01340 - BEREZIAT | Entraide, Annonces, Initiatives"
 description: "01340 - BEREZIAT | Entraide, Annonces, Initiatives"

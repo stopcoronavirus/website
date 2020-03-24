@@ -1,4 +1,3 @@
-
 ---
 title: "10400 - PERIGNY LA ROSE | Entraide, Annonces, Initiatives"
 description: "10400 - PERIGNY LA ROSE | Entraide, Annonces, Initiatives"

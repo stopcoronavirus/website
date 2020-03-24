@@ -1,4 +1,3 @@
-
 ---
 title: "63100 - CLERMONT FERRAND | Entraide, Annonces, Initiatives"
 description: "63100 - CLERMONT FERRAND | Entraide, Annonces, Initiatives"

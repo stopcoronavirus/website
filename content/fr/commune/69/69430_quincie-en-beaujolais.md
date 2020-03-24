@@ -1,4 +1,3 @@
-
 ---
 title: "69430 - QUINCIE EN BEAUJOLAIS | Entraide, Annonces, Initiatives"
 description: "69430 - QUINCIE EN BEAUJOLAIS | Entraide, Annonces, Initiatives"

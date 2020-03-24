@@ -1,4 +1,3 @@
-
 ---
 title: "85200 - SERIGNE | Entraide, Annonces, Initiatives"
 description: "85200 - SERIGNE | Entraide, Annonces, Initiatives"

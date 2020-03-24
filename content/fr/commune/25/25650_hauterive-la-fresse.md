@@ -1,4 +1,3 @@
-
 ---
 title: "25650 - HAUTERIVE LA FRESSE | Entraide, Annonces, Initiatives"
 description: "25650 - HAUTERIVE LA FRESSE | Entraide, Annonces, Initiatives"

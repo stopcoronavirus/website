@@ -1,4 +1,3 @@
-
 ---
 title: "44670 - PETIT AUVERNE | Entraide, Annonces, Initiatives"
 description: "44670 - PETIT AUVERNE | Entraide, Annonces, Initiatives"

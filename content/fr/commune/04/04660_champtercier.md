@@ -1,4 +1,3 @@
-
 ---
 title: "04660 - CHAMPTERCIER | Entraide, Annonces, Initiatives"
 description: "04660 - CHAMPTERCIER | Entraide, Annonces, Initiatives"

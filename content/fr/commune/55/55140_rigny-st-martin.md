@@ -1,4 +1,3 @@
-
 ---
 title: "55140 - RIGNY ST MARTIN | Entraide, Annonces, Initiatives"
 description: "55140 - RIGNY ST MARTIN | Entraide, Annonces, Initiatives"

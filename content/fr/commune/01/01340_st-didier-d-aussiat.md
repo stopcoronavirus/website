@@ -1,4 +1,3 @@
-
 ---
 title: "01340 - ST DIDIER D AUSSIAT | Entraide, Annonces, Initiatives"
 description: "01340 - ST DIDIER D AUSSIAT | Entraide, Annonces, Initiatives"

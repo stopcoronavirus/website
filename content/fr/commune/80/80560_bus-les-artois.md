@@ -1,4 +1,3 @@
-
 ---
 title: "80560 - BUS LES ARTOIS | Entraide, Annonces, Initiatives"
 description: "80560 - BUS LES ARTOIS | Entraide, Annonces, Initiatives"

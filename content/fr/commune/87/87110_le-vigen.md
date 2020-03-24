@@ -1,4 +1,3 @@
-
 ---
 title: "87110 - LE VIGEN | Entraide, Annonces, Initiatives"
 description: "87110 - LE VIGEN | Entraide, Annonces, Initiatives"

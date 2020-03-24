@@ -1,4 +1,3 @@
-
 ---
 title: "30700 - SERVIERS ET LABAUME | Entraide, Annonces, Initiatives"
 description: "30700 - SERVIERS ET LABAUME | Entraide, Annonces, Initiatives"

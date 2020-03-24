@@ -1,4 +1,3 @@
-
 ---
 title: "69640 - RIVOLET | Entraide, Annonces, Initiatives"
 description: "69640 - RIVOLET | Entraide, Annonces, Initiatives"

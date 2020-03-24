@@ -1,4 +1,3 @@
-
 ---
 title: "82600 - VERDUN SUR GARONNE | Entraide, Annonces, Initiatives"
 description: "82600 - VERDUN SUR GARONNE | Entraide, Annonces, Initiatives"

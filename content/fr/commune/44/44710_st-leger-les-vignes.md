@@ -1,4 +1,3 @@
-
 ---
 title: "44710 - ST LEGER LES VIGNES | Entraide, Annonces, Initiatives"
 description: "44710 - ST LEGER LES VIGNES | Entraide, Annonces, Initiatives"

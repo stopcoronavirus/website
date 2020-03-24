@@ -1,4 +1,3 @@
-
 ---
 title: "47270 - ST PIERRE DE CLAIRAC | Entraide, Annonces, Initiatives"
 description: "47270 - ST PIERRE DE CLAIRAC | Entraide, Annonces, Initiatives"

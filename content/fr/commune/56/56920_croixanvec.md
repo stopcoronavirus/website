@@ -1,4 +1,3 @@
-
 ---
 title: "56920 - CROIXANVEC | Entraide, Annonces, Initiatives"
 description: "56920 - CROIXANVEC | Entraide, Annonces, Initiatives"

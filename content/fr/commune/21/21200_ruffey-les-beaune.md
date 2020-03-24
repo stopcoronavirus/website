@@ -1,4 +1,3 @@
-
 ---
 title: "21200 - RUFFEY LES BEAUNE | Entraide, Annonces, Initiatives"
 description: "21200 - RUFFEY LES BEAUNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "07120 - GROSPIERRES | Entraide, Annonces, Initiatives"
 description: "07120 - GROSPIERRES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "34600 - TAUSSAC LA BILLIERE | Entraide, Annonces, Initiatives"
 description: "34600 - TAUSSAC LA BILLIERE | Entraide, Annonces, Initiatives"

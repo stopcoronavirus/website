@@ -1,4 +1,3 @@
-
 ---
 title: "87340 - LES BILLANGES | Entraide, Annonces, Initiatives"
 description: "87340 - LES BILLANGES | Entraide, Annonces, Initiatives"

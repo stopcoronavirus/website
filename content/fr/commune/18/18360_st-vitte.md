@@ -1,4 +1,3 @@
-
 ---
 title: "18360 - ST VITTE | Entraide, Annonces, Initiatives"
 description: "18360 - ST VITTE | Entraide, Annonces, Initiatives"

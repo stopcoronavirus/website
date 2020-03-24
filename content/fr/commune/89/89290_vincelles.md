@@ -1,4 +1,3 @@
-
 ---
 title: "89290 - VINCELLES | Entraide, Annonces, Initiatives"
 description: "89290 - VINCELLES | Entraide, Annonces, Initiatives"

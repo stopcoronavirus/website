@@ -1,4 +1,3 @@
-
 ---
 title: "02240 - SERY LES MEZIERES | Entraide, Annonces, Initiatives"
 description: "02240 - SERY LES MEZIERES | Entraide, Annonces, Initiatives"

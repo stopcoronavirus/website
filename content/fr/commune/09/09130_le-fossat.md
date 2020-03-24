@@ -1,4 +1,3 @@
-
 ---
 title: "09130 - LE FOSSAT | Entraide, Annonces, Initiatives"
 description: "09130 - LE FOSSAT | Entraide, Annonces, Initiatives"

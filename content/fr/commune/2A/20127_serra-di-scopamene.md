@@ -1,4 +1,3 @@
-
 ---
 title: "20127 - SERRA DI SCOPAMENE | Entraide, Annonces, Initiatives"
 description: "20127 - SERRA DI SCOPAMENE | Entraide, Annonces, Initiatives"

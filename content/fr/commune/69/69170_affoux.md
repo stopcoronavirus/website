@@ -1,4 +1,3 @@
-
 ---
 title: "69170 - AFFOUX | Entraide, Annonces, Initiatives"
 description: "69170 - AFFOUX | Entraide, Annonces, Initiatives"

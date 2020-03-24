@@ -1,4 +1,3 @@
-
 ---
 title: "66600 - RIVESALTES | Entraide, Annonces, Initiatives"
 description: "66600 - RIVESALTES | Entraide, Annonces, Initiatives"

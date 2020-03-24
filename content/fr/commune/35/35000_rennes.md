@@ -1,4 +1,3 @@
-
 ---
 title: "35000 - RENNES | Entraide, Annonces, Initiatives"
 description: "35000 - RENNES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20235 - BISINCHI | Entraide, Annonces, Initiatives"
 description: "20235 - BISINCHI | Entraide, Annonces, Initiatives"

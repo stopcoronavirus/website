@@ -1,4 +1,3 @@
-
 ---
 title: "14400 - MONCEAUX EN BESSIN | Entraide, Annonces, Initiatives"
 description: "14400 - MONCEAUX EN BESSIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "49300 - CHOLET | Entraide, Annonces, Initiatives"
 description: "49300 - CHOLET | Entraide, Annonces, Initiatives"

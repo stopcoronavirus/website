@@ -1,4 +1,3 @@
-
 ---
 title: "80640 - AUMONT | Entraide, Annonces, Initiatives"
 description: "80640 - AUMONT | Entraide, Annonces, Initiatives"

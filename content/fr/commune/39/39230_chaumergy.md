@@ -1,4 +1,3 @@
-
 ---
 title: "39230 - CHAUMERGY | Entraide, Annonces, Initiatives"
 description: "39230 - CHAUMERGY | Entraide, Annonces, Initiatives"

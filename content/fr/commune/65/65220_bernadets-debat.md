@@ -1,4 +1,3 @@
-
 ---
 title: "65220 - BERNADETS DEBAT | Entraide, Annonces, Initiatives"
 description: "65220 - BERNADETS DEBAT | Entraide, Annonces, Initiatives"

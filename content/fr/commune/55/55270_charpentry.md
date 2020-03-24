@@ -1,4 +1,3 @@
-
 ---
 title: "55270 - CHARPENTRY | Entraide, Annonces, Initiatives"
 description: "55270 - CHARPENTRY | Entraide, Annonces, Initiatives"

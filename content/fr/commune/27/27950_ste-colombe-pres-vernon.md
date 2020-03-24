@@ -1,4 +1,3 @@
-
 ---
 title: "27950 - STE COLOMBE PRES VERNON | Entraide, Annonces, Initiatives"
 description: "27950 - STE COLOMBE PRES VERNON | Entraide, Annonces, Initiatives"

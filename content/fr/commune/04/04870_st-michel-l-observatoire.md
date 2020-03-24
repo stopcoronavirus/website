@@ -1,4 +1,3 @@
-
 ---
 title: "04870 - ST MICHEL L OBSERVATOIRE | Entraide, Annonces, Initiatives"
 description: "04870 - ST MICHEL L OBSERVATOIRE | Entraide, Annonces, Initiatives"

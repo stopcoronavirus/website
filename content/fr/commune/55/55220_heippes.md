@@ -1,4 +1,3 @@
-
 ---
 title: "55220 - HEIPPES | Entraide, Annonces, Initiatives"
 description: "55220 - HEIPPES | Entraide, Annonces, Initiatives"

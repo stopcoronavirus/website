@@ -1,4 +1,3 @@
-
 ---
 title: "33580 - RIMONS | Entraide, Annonces, Initiatives"
 description: "33580 - RIMONS | Entraide, Annonces, Initiatives"

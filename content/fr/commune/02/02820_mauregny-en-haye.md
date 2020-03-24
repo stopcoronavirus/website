@@ -1,4 +1,3 @@
-
 ---
 title: "02820 - MAUREGNY EN HAYE | Entraide, Annonces, Initiatives"
 description: "02820 - MAUREGNY EN HAYE | Entraide, Annonces, Initiatives"

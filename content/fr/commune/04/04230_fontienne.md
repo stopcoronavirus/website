@@ -1,4 +1,3 @@
-
 ---
 title: "04230 - FONTIENNE | Entraide, Annonces, Initiatives"
 description: "04230 - FONTIENNE | Entraide, Annonces, Initiatives"

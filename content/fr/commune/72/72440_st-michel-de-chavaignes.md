@@ -1,4 +1,3 @@
-
 ---
 title: "72440 - ST MICHEL DE CHAVAIGNES | Entraide, Annonces, Initiatives"
 description: "72440 - ST MICHEL DE CHAVAIGNES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "55270 - BETHINCOURT | Entraide, Annonces, Initiatives"
 description: "55270 - BETHINCOURT | Entraide, Annonces, Initiatives"

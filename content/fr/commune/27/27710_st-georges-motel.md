@@ -1,4 +1,3 @@
-
 ---
 title: "27710 - ST GEORGES MOTEL | Entraide, Annonces, Initiatives"
 description: "27710 - ST GEORGES MOTEL | Entraide, Annonces, Initiatives"

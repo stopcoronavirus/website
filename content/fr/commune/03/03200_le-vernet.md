@@ -1,4 +1,3 @@
-
 ---
 title: "03200 - LE VERNET | Entraide, Annonces, Initiatives"
 description: "03200 - LE VERNET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "43270 - VERNASSAL | Entraide, Annonces, Initiatives"
 description: "43270 - VERNASSAL | Entraide, Annonces, Initiatives"

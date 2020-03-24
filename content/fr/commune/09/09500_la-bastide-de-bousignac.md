@@ -1,4 +1,3 @@
-
 ---
 title: "09500 - LA BASTIDE DE BOUSIGNAC | Entraide, Annonces, Initiatives"
 description: "09500 - LA BASTIDE DE BOUSIGNAC | Entraide, Annonces, Initiatives"

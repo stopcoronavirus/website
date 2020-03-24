@@ -1,4 +1,3 @@
-
 ---
 title: "63380 - ST AVIT | Entraide, Annonces, Initiatives"
 description: "63380 - ST AVIT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "52270 - ROCHES BETTAINCOURT | Entraide, Annonces, Initiatives"
 description: "52270 - ROCHES BETTAINCOURT | Entraide, Annonces, Initiatives"

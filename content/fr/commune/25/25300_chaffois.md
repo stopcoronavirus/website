@@ -1,4 +1,3 @@
-
 ---
 title: "25300 - CHAFFOIS | Entraide, Annonces, Initiatives"
 description: "25300 - CHAFFOIS | Entraide, Annonces, Initiatives"

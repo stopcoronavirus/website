@@ -1,4 +1,3 @@
-
 ---
 title: "26330 - RATIERES | Entraide, Annonces, Initiatives"
 description: "26330 - RATIERES | Entraide, Annonces, Initiatives"

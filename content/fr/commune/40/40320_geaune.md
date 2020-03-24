@@ -1,4 +1,3 @@
-
 ---
 title: "40320 - GEAUNE | Entraide, Annonces, Initiatives"
 description: "40320 - GEAUNE | Entraide, Annonces, Initiatives"

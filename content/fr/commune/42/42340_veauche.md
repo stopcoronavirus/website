@@ -1,4 +1,3 @@
-
 ---
 title: "42340 - VEAUCHE | Entraide, Annonces, Initiatives"
 description: "42340 - VEAUCHE | Entraide, Annonces, Initiatives"

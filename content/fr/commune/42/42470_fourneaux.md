@@ -1,4 +1,3 @@
-
 ---
 title: "42470 - FOURNEAUX | Entraide, Annonces, Initiatives"
 description: "42470 - FOURNEAUX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "38980 - VIRIVILLE | Entraide, Annonces, Initiatives"
 description: "38980 - VIRIVILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "94300 - VINCENNES | Entraide, Annonces, Initiatives"
 description: "94300 - VINCENNES | Entraide, Annonces, Initiatives"

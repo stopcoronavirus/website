@@ -1,4 +1,3 @@
-
 ---
 title: "74430 - LE BIOT | Entraide, Annonces, Initiatives"
 description: "74430 - LE BIOT | Entraide, Annonces, Initiatives"

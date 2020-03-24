@@ -1,4 +1,3 @@
-
 ---
 title: "16190 - DEVIAT | Entraide, Annonces, Initiatives"
 description: "16190 - DEVIAT | Entraide, Annonces, Initiatives"

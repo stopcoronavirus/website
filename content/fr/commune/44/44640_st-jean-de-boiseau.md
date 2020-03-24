@@ -1,4 +1,3 @@
-
 ---
 title: "44640 - ST JEAN DE BOISEAU | Entraide, Annonces, Initiatives"
 description: "44640 - ST JEAN DE BOISEAU | Entraide, Annonces, Initiatives"

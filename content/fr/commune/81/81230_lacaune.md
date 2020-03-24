@@ -1,4 +1,3 @@
-
 ---
 title: "81230 - LACAUNE | Entraide, Annonces, Initiatives"
 description: "81230 - LACAUNE | Entraide, Annonces, Initiatives"

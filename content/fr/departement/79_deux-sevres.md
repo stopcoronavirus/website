@@ -1,4 +1,3 @@
-
 ---
 title: "79 - Deux-Sèvres"
 description: "79 - Deux-Sèvres"

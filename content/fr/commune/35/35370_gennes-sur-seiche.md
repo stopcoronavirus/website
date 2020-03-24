@@ -1,4 +1,3 @@
-
 ---
 title: "35370 - GENNES SUR SEICHE | Entraide, Annonces, Initiatives"
 description: "35370 - GENNES SUR SEICHE | Entraide, Annonces, Initiatives"

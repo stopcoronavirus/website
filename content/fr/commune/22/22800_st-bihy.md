@@ -1,4 +1,3 @@
-
 ---
 title: "22800 - ST BIHY | Entraide, Annonces, Initiatives"
 description: "22800 - ST BIHY | Entraide, Annonces, Initiatives"

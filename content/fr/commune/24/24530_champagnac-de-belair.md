@@ -1,4 +1,3 @@
-
 ---
 title: "24530 - CHAMPAGNAC DE BELAIR | Entraide, Annonces, Initiatives"
 description: "24530 - CHAMPAGNAC DE BELAIR | Entraide, Annonces, Initiatives"

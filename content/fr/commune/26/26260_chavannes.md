@@ -1,4 +1,3 @@
-
 ---
 title: "26260 - CHAVANNES | Entraide, Annonces, Initiatives"
 description: "26260 - CHAVANNES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "73350 - CHAMPAGNY EN VANOISE | Entraide, Annonces, Initiatives"
 description: "73350 - CHAMPAGNY EN VANOISE | Entraide, Annonces, Initiatives"

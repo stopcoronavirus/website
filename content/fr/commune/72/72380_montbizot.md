@@ -1,4 +1,3 @@
-
 ---
 title: "72380 - MONTBIZOT | Entraide, Annonces, Initiatives"
 description: "72380 - MONTBIZOT | Entraide, Annonces, Initiatives"

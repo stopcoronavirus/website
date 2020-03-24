@@ -1,4 +1,3 @@
-
 ---
 title: "70290 - CHAMPAGNEY | Entraide, Annonces, Initiatives"
 description: "70290 - CHAMPAGNEY | Entraide, Annonces, Initiatives"

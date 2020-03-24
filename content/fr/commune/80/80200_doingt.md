@@ -1,4 +1,3 @@
-
 ---
 title: "80200 - DOINGT | Entraide, Annonces, Initiatives"
 description: "80200 - DOINGT | Entraide, Annonces, Initiatives"

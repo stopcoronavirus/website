@@ -1,4 +1,3 @@
-
 ---
 title: "59235 - BERSEE | Entraide, Annonces, Initiatives"
 description: "59235 - BERSEE | Entraide, Annonces, Initiatives"

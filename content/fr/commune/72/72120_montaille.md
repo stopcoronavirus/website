@@ -1,4 +1,3 @@
-
 ---
 title: "72120 - MONTAILLE | Entraide, Annonces, Initiatives"
 description: "72120 - MONTAILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "79380 - LA FORET SUR SEVRE | Entraide, Annonces, Initiatives"
 description: "79380 - LA FORET SUR SEVRE | Entraide, Annonces, Initiatives"

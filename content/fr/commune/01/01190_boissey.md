@@ -1,4 +1,3 @@
-
 ---
 title: "01190 - BOISSEY | Entraide, Annonces, Initiatives"
 description: "01190 - BOISSEY | Entraide, Annonces, Initiatives"

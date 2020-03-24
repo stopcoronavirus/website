@@ -1,4 +1,3 @@
-
 ---
 title: "02860 - PRESLES ET THIERNY | Entraide, Annonces, Initiatives"
 description: "02860 - PRESLES ET THIERNY | Entraide, Annonces, Initiatives"

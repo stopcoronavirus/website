@@ -1,4 +1,3 @@
-
 ---
 title: "80260 - BAVELINCOURT | Entraide, Annonces, Initiatives"
 description: "80260 - BAVELINCOURT | Entraide, Annonces, Initiatives"

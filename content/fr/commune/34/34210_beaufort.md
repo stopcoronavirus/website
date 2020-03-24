@@ -1,4 +1,3 @@
-
 ---
 title: "34210 - BEAUFORT | Entraide, Annonces, Initiatives"
 description: "34210 - BEAUFORT | Entraide, Annonces, Initiatives"

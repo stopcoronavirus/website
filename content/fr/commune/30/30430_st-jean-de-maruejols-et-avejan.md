@@ -1,4 +1,3 @@
-
 ---
 title: "30430 - ST JEAN DE MARUEJOLS ET AVEJAN | Entraide, Annonces, Initiatives"
 description: "30430 - ST JEAN DE MARUEJOLS ET AVEJAN | Entraide, Annonces, Initiatives"

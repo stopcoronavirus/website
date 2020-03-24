@@ -1,4 +1,3 @@
-
 ---
 title: "46500 - RIGNAC | Entraide, Annonces, Initiatives"
 description: "46500 - RIGNAC | Entraide, Annonces, Initiatives"

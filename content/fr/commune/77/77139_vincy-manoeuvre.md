@@ -1,4 +1,3 @@
-
 ---
 title: "77139 - VINCY MANOEUVRE | Entraide, Annonces, Initiatives"
 description: "77139 - VINCY MANOEUVRE | Entraide, Annonces, Initiatives"

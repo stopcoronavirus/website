@@ -1,4 +1,3 @@
-
 ---
 title: "21510 - ETALANTE | Entraide, Annonces, Initiatives"
 description: "21510 - ETALANTE | Entraide, Annonces, Initiatives"

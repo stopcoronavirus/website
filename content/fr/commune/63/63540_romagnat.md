@@ -1,4 +1,3 @@
-
 ---
 title: "63540 - ROMAGNAT | Entraide, Annonces, Initiatives"
 description: "63540 - ROMAGNAT | Entraide, Annonces, Initiatives"

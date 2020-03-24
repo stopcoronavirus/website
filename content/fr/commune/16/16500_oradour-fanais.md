@@ -1,4 +1,3 @@
-
 ---
 title: "16500 - ORADOUR FANAIS | Entraide, Annonces, Initiatives"
 description: "16500 - ORADOUR FANAIS | Entraide, Annonces, Initiatives"

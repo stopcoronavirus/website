@@ -1,4 +1,3 @@
-
 ---
 title: "39150 - LAC DES ROUGES TRUITES | Entraide, Annonces, Initiatives"
 description: "39150 - LAC DES ROUGES TRUITES | Entraide, Annonces, Initiatives"

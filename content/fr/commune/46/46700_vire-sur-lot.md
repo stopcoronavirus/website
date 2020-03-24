@@ -1,4 +1,3 @@
-
 ---
 title: "46700 - VIRE SUR LOT | Entraide, Annonces, Initiatives"
 description: "46700 - VIRE SUR LOT | Entraide, Annonces, Initiatives"

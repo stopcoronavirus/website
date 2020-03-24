@@ -1,4 +1,3 @@
-
 ---
 title: "54930 - FORCELLES SOUS GUGNEY | Entraide, Annonces, Initiatives"
 description: "54930 - FORCELLES SOUS GUGNEY | Entraide, Annonces, Initiatives"

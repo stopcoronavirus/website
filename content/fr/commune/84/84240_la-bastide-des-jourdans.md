@@ -1,4 +1,3 @@
-
 ---
 title: "84240 - LA BASTIDE DES JOURDANS | Entraide, Annonces, Initiatives"
 description: "84240 - LA BASTIDE DES JOURDANS | Entraide, Annonces, Initiatives"

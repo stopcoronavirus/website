@@ -1,4 +1,3 @@
-
 ---
 title: "14114 - VER SUR MER | Entraide, Annonces, Initiatives"
 description: "14114 - VER SUR MER | Entraide, Annonces, Initiatives"

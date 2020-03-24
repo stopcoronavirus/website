@@ -1,4 +1,3 @@
-
 ---
 title: "70400 - CHAVANNE | Entraide, Annonces, Initiatives"
 description: "70400 - CHAVANNE | Entraide, Annonces, Initiatives"

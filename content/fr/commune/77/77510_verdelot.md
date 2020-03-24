@@ -1,4 +1,3 @@
-
 ---
 title: "77510 - VERDELOT | Entraide, Annonces, Initiatives"
 description: "77510 - VERDELOT | Entraide, Annonces, Initiatives"

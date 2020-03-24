@@ -1,4 +1,3 @@
-
 ---
 title: "24390 - LA CHAPELLE ST JEAN | Entraide, Annonces, Initiatives"
 description: "24390 - LA CHAPELLE ST JEAN | Entraide, Annonces, Initiatives"

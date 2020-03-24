@@ -1,4 +1,3 @@
-
 ---
 title: "90800 - BAVILLIERS | Entraide, Annonces, Initiatives"
 description: "90800 - BAVILLIERS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "86200 - LA ROCHE RIGAULT | Entraide, Annonces, Initiatives"
 description: "86200 - LA ROCHE RIGAULT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "63320 - ST FLORET | Entraide, Annonces, Initiatives"
 description: "63320 - ST FLORET | Entraide, Annonces, Initiatives"

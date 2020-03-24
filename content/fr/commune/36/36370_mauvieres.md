@@ -1,4 +1,3 @@
-
 ---
 title: "36370 - MAUVIERES | Entraide, Annonces, Initiatives"
 description: "36370 - MAUVIERES | Entraide, Annonces, Initiatives"

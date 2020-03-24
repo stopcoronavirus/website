@@ -1,4 +1,3 @@
-
 ---
 title: "60120 - GOUY LES GROSEILLERS | Entraide, Annonces, Initiatives"
 description: "60120 - GOUY LES GROSEILLERS | Entraide, Annonces, Initiatives"

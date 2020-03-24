@@ -1,4 +1,3 @@
-
 ---
 title: "70310 - LA ROSIERE | Entraide, Annonces, Initiatives"
 description: "70310 - LA ROSIERE | Entraide, Annonces, Initiatives"

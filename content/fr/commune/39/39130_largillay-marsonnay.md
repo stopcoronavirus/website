@@ -1,4 +1,3 @@
-
 ---
 title: "39130 - LARGILLAY MARSONNAY | Entraide, Annonces, Initiatives"
 description: "39130 - LARGILLAY MARSONNAY | Entraide, Annonces, Initiatives"

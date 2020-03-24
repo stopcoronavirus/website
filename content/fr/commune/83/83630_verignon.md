@@ -1,4 +1,3 @@
-
 ---
 title: "83630 - VERIGNON | Entraide, Annonces, Initiatives"
 description: "83630 - VERIGNON | Entraide, Annonces, Initiatives"

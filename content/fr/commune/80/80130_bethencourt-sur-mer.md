@@ -1,4 +1,3 @@
-
 ---
 title: "80130 - BETHENCOURT SUR MER | Entraide, Annonces, Initiatives"
 description: "80130 - BETHENCOURT SUR MER | Entraide, Annonces, Initiatives"

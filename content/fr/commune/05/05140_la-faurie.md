@@ -1,4 +1,3 @@
-
 ---
 title: "05140 - LA FAURIE | Entraide, Annonces, Initiatives"
 description: "05140 - LA FAURIE | Entraide, Annonces, Initiatives"

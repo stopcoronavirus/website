@@ -1,4 +1,3 @@
-
 ---
 title: "38190 - VILLARD BONNOT | Entraide, Annonces, Initiatives"
 description: "38190 - VILLARD BONNOT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "40120 - LACQUY | Entraide, Annonces, Initiatives"
 description: "40120 - LACQUY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "65130 - FRECHENDETS | Entraide, Annonces, Initiatives"
 description: "65130 - FRECHENDETS | Entraide, Annonces, Initiatives"

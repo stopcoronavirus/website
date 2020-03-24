@@ -1,4 +1,3 @@
-
 ---
 title: "65600 - SEMEAC | Entraide, Annonces, Initiatives"
 description: "65600 - SEMEAC | Entraide, Annonces, Initiatives"

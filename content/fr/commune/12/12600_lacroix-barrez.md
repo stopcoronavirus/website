@@ -1,4 +1,3 @@
-
 ---
 title: "12600 - LACROIX BARREZ | Entraide, Annonces, Initiatives"
 description: "12600 - LACROIX BARREZ | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71270 - CHARETTE VARENNES | Entraide, Annonces, Initiatives"
 description: "71270 - CHARETTE VARENNES | Entraide, Annonces, Initiatives"

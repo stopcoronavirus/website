@@ -1,4 +1,3 @@
-
 ---
 title: "27120 - VILLEGATS | Entraide, Annonces, Initiatives"
 description: "27120 - VILLEGATS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "40200 - MIMIZAN | Entraide, Annonces, Initiatives"
 description: "40200 - MIMIZAN | Entraide, Annonces, Initiatives"

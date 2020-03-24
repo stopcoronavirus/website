@@ -1,4 +1,3 @@
-
 ---
 title: "56120 - LANTILLAC | Entraide, Annonces, Initiatives"
 description: "56120 - LANTILLAC | Entraide, Annonces, Initiatives"

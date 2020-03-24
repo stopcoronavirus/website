@@ -1,4 +1,3 @@
-
 ---
 title: "60590 - SERIFONTAINE | Entraide, Annonces, Initiatives"
 description: "60590 - SERIFONTAINE | Entraide, Annonces, Initiatives"

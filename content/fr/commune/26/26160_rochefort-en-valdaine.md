@@ -1,4 +1,3 @@
-
 ---
 title: "26160 - ROCHEFORT EN VALDAINE | Entraide, Annonces, Initiatives"
 description: "26160 - ROCHEFORT EN VALDAINE | Entraide, Annonces, Initiatives"

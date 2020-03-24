@@ -1,4 +1,3 @@
-
 ---
 title: "30190 - BOURDIC | Entraide, Annonces, Initiatives"
 description: "30190 - BOURDIC | Entraide, Annonces, Initiatives"

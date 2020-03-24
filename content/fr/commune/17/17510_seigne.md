@@ -1,4 +1,3 @@
-
 ---
 title: "17510 - SEIGNE | Entraide, Annonces, Initiatives"
 description: "17510 - SEIGNE | Entraide, Annonces, Initiatives"

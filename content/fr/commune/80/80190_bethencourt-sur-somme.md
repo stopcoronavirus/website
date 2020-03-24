@@ -1,4 +1,3 @@
-
 ---
 title: "80190 - BETHENCOURT SUR SOMME | Entraide, Annonces, Initiatives"
 description: "80190 - BETHENCOURT SUR SOMME | Entraide, Annonces, Initiatives"

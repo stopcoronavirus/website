@@ -1,4 +1,3 @@
-
 ---
 title: "70200 - RIGNOVELLE | Entraide, Annonces, Initiatives"
 description: "70200 - RIGNOVELLE | Entraide, Annonces, Initiatives"

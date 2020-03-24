@@ -1,4 +1,3 @@
-
 ---
 title: "24590 - ST GENIES | Entraide, Annonces, Initiatives"
 description: "24590 - ST GENIES | Entraide, Annonces, Initiatives"

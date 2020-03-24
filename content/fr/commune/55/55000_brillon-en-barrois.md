@@ -1,4 +1,3 @@
-
 ---
 title: "55000 - BRILLON EN BARROIS | Entraide, Annonces, Initiatives"
 description: "55000 - BRILLON EN BARROIS | Entraide, Annonces, Initiatives"

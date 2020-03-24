@@ -1,4 +1,3 @@
-
 ---
 title: "49170 - LA POSSONNIERE | Entraide, Annonces, Initiatives"
 description: "49170 - LA POSSONNIERE | Entraide, Annonces, Initiatives"

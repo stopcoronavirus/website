@@ -1,4 +1,3 @@
-
 ---
 title: "55300 - VAUX LES PALAMEIX | Entraide, Annonces, Initiatives"
 description: "55300 - VAUX LES PALAMEIX | Entraide, Annonces, Initiatives"

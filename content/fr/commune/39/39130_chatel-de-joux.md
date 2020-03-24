@@ -1,4 +1,3 @@
-
 ---
 title: "39130 - CHATEL DE JOUX | Entraide, Annonces, Initiatives"
 description: "39130 - CHATEL DE JOUX | Entraide, Annonces, Initiatives"

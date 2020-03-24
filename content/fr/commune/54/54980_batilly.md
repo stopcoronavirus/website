@@ -1,4 +1,3 @@
-
 ---
 title: "54980 - BATILLY | Entraide, Annonces, Initiatives"
 description: "54980 - BATILLY | Entraide, Annonces, Initiatives"

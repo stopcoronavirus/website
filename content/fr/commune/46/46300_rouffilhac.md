@@ -1,4 +1,3 @@
-
 ---
 title: "46300 - ROUFFILHAC | Entraide, Annonces, Initiatives"
 description: "46300 - ROUFFILHAC | Entraide, Annonces, Initiatives"

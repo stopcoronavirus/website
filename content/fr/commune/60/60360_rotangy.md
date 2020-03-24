@@ -1,4 +1,3 @@
-
 ---
 title: "60360 - ROTANGY | Entraide, Annonces, Initiatives"
 description: "60360 - ROTANGY | Entraide, Annonces, Initiatives"

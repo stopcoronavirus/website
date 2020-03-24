@@ -1,4 +1,3 @@
-
 ---
 title: "74800 - LA ROCHE SUR FORON | Entraide, Annonces, Initiatives"
 description: "74800 - LA ROCHE SUR FORON | Entraide, Annonces, Initiatives"

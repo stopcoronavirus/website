@@ -1,4 +1,3 @@
-
 ---
 title: "33880 - ST CAPRAIS DE BORDEAUX | Entraide, Annonces, Initiatives"
 description: "33880 - ST CAPRAIS DE BORDEAUX | Entraide, Annonces, Initiatives"

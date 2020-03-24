@@ -1,4 +1,3 @@
-
 ---
 title: "18210 - VERNAIS | Entraide, Annonces, Initiatives"
 description: "18210 - VERNAIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "45210 - BAZOCHES SUR LE BETZ | Entraide, Annonces, Initiatives"
 description: "45210 - BAZOCHES SUR LE BETZ | Entraide, Annonces, Initiatives"

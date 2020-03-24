@@ -1,4 +1,3 @@
-
 ---
 title: "26460 - BOURDEAUX | Entraide, Annonces, Initiatives"
 description: "26460 - BOURDEAUX | Entraide, Annonces, Initiatives"

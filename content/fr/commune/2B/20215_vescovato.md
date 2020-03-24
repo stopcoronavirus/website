@@ -1,4 +1,3 @@
-
 ---
 title: "20215 - VESCOVATO | Entraide, Annonces, Initiatives"
 description: "20215 - VESCOVATO | Entraide, Annonces, Initiatives"

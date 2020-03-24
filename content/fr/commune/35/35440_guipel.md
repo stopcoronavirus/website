@@ -1,4 +1,3 @@
-
 ---
 title: "35440 - GUIPEL | Entraide, Annonces, Initiatives"
 description: "35440 - GUIPEL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "80310 - PICQUIGNY | Entraide, Annonces, Initiatives"
 description: "80310 - PICQUIGNY | Entraide, Annonces, Initiatives"

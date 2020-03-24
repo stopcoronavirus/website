@@ -1,4 +1,3 @@
-
 ---
 title: "71680 - VINZELLES | Entraide, Annonces, Initiatives"
 description: "71680 - VINZELLES | Entraide, Annonces, Initiatives"

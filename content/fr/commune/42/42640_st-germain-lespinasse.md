@@ -1,4 +1,3 @@
-
 ---
 title: "42640 - ST GERMAIN LESPINASSE | Entraide, Annonces, Initiatives"
 description: "42640 - ST GERMAIN LESPINASSE | Entraide, Annonces, Initiatives"

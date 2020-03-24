@@ -1,4 +1,3 @@
-
 ---
 title: "64400 - VERDETS | Entraide, Annonces, Initiatives"
 description: "64400 - VERDETS | Entraide, Annonces, Initiatives"

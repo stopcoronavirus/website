@@ -1,4 +1,3 @@
-
 ---
 title: "74500 - BERNEX | Entraide, Annonces, Initiatives"
 description: "74500 - BERNEX | Entraide, Annonces, Initiatives"

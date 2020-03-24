@@ -1,4 +1,3 @@
-
 ---
 title: "81320 - MOULIN MAGE | Entraide, Annonces, Initiatives"
 description: "81320 - MOULIN MAGE | Entraide, Annonces, Initiatives"

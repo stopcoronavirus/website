@@ -1,4 +1,3 @@
-
 ---
 title: "68118 - HIRTZBACH | Entraide, Annonces, Initiatives"
 description: "68118 - HIRTZBACH | Entraide, Annonces, Initiatives"

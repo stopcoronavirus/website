@@ -1,4 +1,3 @@
-
 ---
 title: "87190 - ST LEGER MAGNAZEIX | Entraide, Annonces, Initiatives"
 description: "87190 - ST LEGER MAGNAZEIX | Entraide, Annonces, Initiatives"

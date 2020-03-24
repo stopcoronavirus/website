@@ -1,4 +1,3 @@
-
 ---
 title: "69460 - SALLES ARBUISSONNAS EN BEAUJOLAIS | Entraide, Annonces, Initiatives"
 description: "69460 - SALLES ARBUISSONNAS EN BEAUJOLAIS | Entraide, Annonces, Initiatives"

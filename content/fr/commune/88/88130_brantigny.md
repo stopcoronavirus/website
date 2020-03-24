@@ -1,4 +1,3 @@
-
 ---
 title: "88130 - BRANTIGNY | Entraide, Annonces, Initiatives"
 description: "88130 - BRANTIGNY | Entraide, Annonces, Initiatives"

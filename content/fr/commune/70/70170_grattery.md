@@ -1,4 +1,3 @@
-
 ---
 title: "70170 - GRATTERY | Entraide, Annonces, Initiatives"
 description: "70170 - GRATTERY | Entraide, Annonces, Initiatives"

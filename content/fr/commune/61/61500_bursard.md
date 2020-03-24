@@ -1,4 +1,3 @@
-
 ---
 title: "61500 - BURSARD | Entraide, Annonces, Initiatives"
 description: "61500 - BURSARD | Entraide, Annonces, Initiatives"

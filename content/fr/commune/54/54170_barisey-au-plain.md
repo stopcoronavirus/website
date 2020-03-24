@@ -1,4 +1,3 @@
-
 ---
 title: "54170 - BARISEY AU PLAIN | Entraide, Annonces, Initiatives"
 description: "54170 - BARISEY AU PLAIN | Entraide, Annonces, Initiatives"

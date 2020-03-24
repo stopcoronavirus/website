@@ -1,4 +1,3 @@
-
 ---
 title: "16470 - ST MICHEL | Entraide, Annonces, Initiatives"
 description: "16470 - ST MICHEL | Entraide, Annonces, Initiatives"

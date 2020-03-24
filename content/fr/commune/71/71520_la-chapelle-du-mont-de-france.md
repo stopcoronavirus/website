@@ -1,4 +1,3 @@
-
 ---
 title: "71520 - LA CHAPELLE DU MONT DE FRANCE | Entraide, Annonces, Initiatives"
 description: "71520 - LA CHAPELLE DU MONT DE FRANCE | Entraide, Annonces, Initiatives"

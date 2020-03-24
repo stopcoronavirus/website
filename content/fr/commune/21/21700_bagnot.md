@@ -1,4 +1,3 @@
-
 ---
 title: "21700 - BAGNOT | Entraide, Annonces, Initiatives"
 description: "21700 - BAGNOT | Entraide, Annonces, Initiatives"

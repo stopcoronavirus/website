@@ -1,4 +1,3 @@
-
 ---
 title: "06480 - LA COLLE SUR LOUP | Entraide, Annonces, Initiatives"
 description: "06480 - LA COLLE SUR LOUP | Entraide, Annonces, Initiatives"

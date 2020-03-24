@@ -1,4 +1,3 @@
-
 ---
 title: "62270 - BLANGERVAL BLANGERMONT | Entraide, Annonces, Initiatives"
 description: "62270 - BLANGERVAL BLANGERMONT | Entraide, Annonces, Initiatives"

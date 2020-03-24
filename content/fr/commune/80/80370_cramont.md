@@ -1,4 +1,3 @@
-
 ---
 title: "80370 - CRAMONT | Entraide, Annonces, Initiatives"
 description: "80370 - CRAMONT | Entraide, Annonces, Initiatives"

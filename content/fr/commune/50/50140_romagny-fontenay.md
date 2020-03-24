@@ -1,4 +1,3 @@
-
 ---
 title: "50140 - ROMAGNY FONTENAY | Entraide, Annonces, Initiatives"
 description: "50140 - ROMAGNY FONTENAY | Entraide, Annonces, Initiatives"

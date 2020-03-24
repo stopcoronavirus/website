@@ -1,4 +1,3 @@
-
 ---
 title: "62179 - WISSANT | Entraide, Annonces, Initiatives"
 description: "62179 - WISSANT | Entraide, Annonces, Initiatives"

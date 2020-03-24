@@ -1,4 +1,3 @@
-
 ---
 title: "28200 - LOGRON | Entraide, Annonces, Initiatives"
 description: "28200 - LOGRON | Entraide, Annonces, Initiatives"

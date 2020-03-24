@@ -1,4 +1,3 @@
-
 ---
 title: "80170 - BAYONVILLERS | Entraide, Annonces, Initiatives"
 description: "80170 - BAYONVILLERS | Entraide, Annonces, Initiatives"

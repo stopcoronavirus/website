@@ -1,4 +1,3 @@
-
 ---
 title: "27480 - BEAUFICEL EN LYONS | Entraide, Annonces, Initiatives"
 description: "27480 - BEAUFICEL EN LYONS | Entraide, Annonces, Initiatives"

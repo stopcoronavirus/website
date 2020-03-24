@@ -1,4 +1,3 @@
-
 ---
 title: "45290 - VARENNES CHANGY | Entraide, Annonces, Initiatives"
 description: "45290 - VARENNES CHANGY | Entraide, Annonces, Initiatives"

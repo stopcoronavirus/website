@@ -1,4 +1,3 @@
-
 ---
 title: "05000 - LA BATIE VIEILLE | Entraide, Annonces, Initiatives"
 description: "05000 - LA BATIE VIEILLE | Entraide, Annonces, Initiatives"

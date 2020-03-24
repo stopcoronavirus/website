@@ -1,4 +1,3 @@
-
 ---
 title: "72150 - COURDEMANCHE | Entraide, Annonces, Initiatives"
 description: "72150 - COURDEMANCHE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "58120 - CHATIN | Entraide, Annonces, Initiatives"
 description: "58120 - CHATIN | Entraide, Annonces, Initiatives"

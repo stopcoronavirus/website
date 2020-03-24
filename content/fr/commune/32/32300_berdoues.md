@@ -1,4 +1,3 @@
-
 ---
 title: "32300 - BERDOUES | Entraide, Annonces, Initiatives"
 description: "32300 - BERDOUES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "72700 - ETIVAL LES LE MANS | Entraide, Annonces, Initiatives"
 description: "72700 - ETIVAL LES LE MANS | Entraide, Annonces, Initiatives"

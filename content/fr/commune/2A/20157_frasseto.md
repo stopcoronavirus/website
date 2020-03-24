@@ -1,4 +1,3 @@
-
 ---
 title: "20157 - FRASSETO | Entraide, Annonces, Initiatives"
 description: "20157 - FRASSETO | Entraide, Annonces, Initiatives"

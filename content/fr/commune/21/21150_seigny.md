@@ -1,4 +1,3 @@
-
 ---
 title: "21150 - SEIGNY | Entraide, Annonces, Initiatives"
 description: "21150 - SEIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "25160 - VAUX ET CHANTEGRUE | Entraide, Annonces, Initiatives"
 description: "25160 - VAUX ET CHANTEGRUE | Entraide, Annonces, Initiatives"

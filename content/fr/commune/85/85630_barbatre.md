@@ -1,4 +1,3 @@
-
 ---
 title: "85630 - BARBATRE | Entraide, Annonces, Initiatives"
 description: "85630 - BARBATRE | Entraide, Annonces, Initiatives"

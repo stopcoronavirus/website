@@ -1,4 +1,3 @@
-
 ---
 title: "43000 - POLIGNAC | Entraide, Annonces, Initiatives"
 description: "43000 - POLIGNAC | Entraide, Annonces, Initiatives"

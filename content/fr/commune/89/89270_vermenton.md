@@ -1,4 +1,3 @@
-
 ---
 title: "89270 - VERMENTON | Entraide, Annonces, Initiatives"
 description: "89270 - VERMENTON | Entraide, Annonces, Initiatives"

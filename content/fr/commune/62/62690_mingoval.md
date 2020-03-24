@@ -1,4 +1,3 @@
-
 ---
 title: "62690 - MINGOVAL | Entraide, Annonces, Initiatives"
 description: "62690 - MINGOVAL | Entraide, Annonces, Initiatives"

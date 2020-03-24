@@ -1,4 +1,3 @@
-
 ---
 title: "06260 - LA PENNE | Entraide, Annonces, Initiatives"
 description: "06260 - LA PENNE | Entraide, Annonces, Initiatives"

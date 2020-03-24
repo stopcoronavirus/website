@@ -1,4 +1,3 @@
-
 ---
 title: "42460 - JARNOSSE | Entraide, Annonces, Initiatives"
 description: "42460 - JARNOSSE | Entraide, Annonces, Initiatives"

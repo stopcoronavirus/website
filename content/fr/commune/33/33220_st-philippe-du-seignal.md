@@ -1,4 +1,3 @@
-
 ---
 title: "33220 - ST PHILIPPE DU SEIGNAL | Entraide, Annonces, Initiatives"
 description: "33220 - ST PHILIPPE DU SEIGNAL | Entraide, Annonces, Initiatives"

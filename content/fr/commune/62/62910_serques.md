@@ -1,4 +1,3 @@
-
 ---
 title: "62910 - SERQUES | Entraide, Annonces, Initiatives"
 description: "62910 - SERQUES | Entraide, Annonces, Initiatives"

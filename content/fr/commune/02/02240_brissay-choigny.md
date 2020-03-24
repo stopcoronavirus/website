@@ -1,4 +1,3 @@
-
 ---
 title: "02240 - BRISSAY CHOIGNY | Entraide, Annonces, Initiatives"
 description: "02240 - BRISSAY CHOIGNY | Entraide, Annonces, Initiatives"

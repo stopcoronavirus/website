@@ -1,4 +1,3 @@
-
 ---
 title: "47470 - BEAUVILLE | Entraide, Annonces, Initiatives"
 description: "47470 - BEAUVILLE | Entraide, Annonces, Initiatives"

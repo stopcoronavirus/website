@@ -1,4 +1,3 @@
-
 ---
 title: "17240 - PLASSAC | Entraide, Annonces, Initiatives"
 description: "17240 - PLASSAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "65350 - BOULIN | Entraide, Annonces, Initiatives"
 description: "65350 - BOULIN | Entraide, Annonces, Initiatives"

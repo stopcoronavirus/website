@@ -1,4 +1,3 @@
-
 ---
 title: "77580 - CRECY LA CHAPELLE | Entraide, Annonces, Initiatives"
 description: "77580 - CRECY LA CHAPELLE | Entraide, Annonces, Initiatives"

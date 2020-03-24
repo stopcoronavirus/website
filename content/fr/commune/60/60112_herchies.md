@@ -1,4 +1,3 @@
-
 ---
 title: "60112 - HERCHIES | Entraide, Annonces, Initiatives"
 description: "60112 - HERCHIES | Entraide, Annonces, Initiatives"

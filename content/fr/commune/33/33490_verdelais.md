@@ -1,4 +1,3 @@
-
 ---
 title: "33490 - VERDELAIS | Entraide, Annonces, Initiatives"
 description: "33490 - VERDELAIS | Entraide, Annonces, Initiatives"

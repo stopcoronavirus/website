@@ -1,4 +1,3 @@
-
 ---
 title: "33930 - VENDAYS MONTALIVET | Entraide, Annonces, Initiatives"
 description: "33930 - VENDAYS MONTALIVET | Entraide, Annonces, Initiatives"

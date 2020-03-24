@@ -1,4 +1,3 @@
-
 ---
 title: "07690 - VOCANCE | Entraide, Annonces, Initiatives"
 description: "07690 - VOCANCE | Entraide, Annonces, Initiatives"

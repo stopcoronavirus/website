@@ -1,4 +1,3 @@
-
 ---
 title: "15100 - ROFFIAC | Entraide, Annonces, Initiatives"
 description: "15100 - ROFFIAC | Entraide, Annonces, Initiatives"

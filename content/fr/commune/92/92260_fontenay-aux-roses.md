@@ -1,4 +1,3 @@
-
 ---
 title: "92260 - FONTENAY AUX ROSES | Entraide, Annonces, Initiatives"
 description: "92260 - FONTENAY AUX ROSES | Entraide, Annonces, Initiatives"

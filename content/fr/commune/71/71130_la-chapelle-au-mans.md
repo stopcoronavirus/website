@@ -1,4 +1,3 @@
-
 ---
 title: "71130 - LA CHAPELLE AU MANS | Entraide, Annonces, Initiatives"
 description: "71130 - LA CHAPELLE AU MANS | Entraide, Annonces, Initiatives"

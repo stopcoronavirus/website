@@ -1,4 +1,3 @@
-
 ---
 title: "71470 - MENETREUIL | Entraide, Annonces, Initiatives"
 description: "71470 - MENETREUIL | Entraide, Annonces, Initiatives"

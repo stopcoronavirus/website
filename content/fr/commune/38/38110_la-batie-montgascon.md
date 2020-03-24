@@ -1,4 +1,3 @@
-
 ---
 title: "38110 - LA BATIE MONTGASCON | Entraide, Annonces, Initiatives"
 description: "38110 - LA BATIE MONTGASCON | Entraide, Annonces, Initiatives"

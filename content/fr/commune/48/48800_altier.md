@@ -1,4 +1,3 @@
-
 ---
 title: "48800 - ALTIER | Entraide, Annonces, Initiatives"
 description: "48800 - ALTIER | Entraide, Annonces, Initiatives"

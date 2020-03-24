@@ -1,4 +1,3 @@
-
 ---
 title: "30450 - SENECHAS | Entraide, Annonces, Initiatives"
 description: "30450 - SENECHAS | Entraide, Annonces, Initiatives"

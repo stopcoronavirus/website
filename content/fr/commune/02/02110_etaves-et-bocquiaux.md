@@ -1,4 +1,3 @@
-
 ---
 title: "02110 - ETAVES ET BOCQUIAUX | Entraide, Annonces, Initiatives"
 description: "02110 - ETAVES ET BOCQUIAUX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02340 - CLERMONT LES FERMES | Entraide, Annonces, Initiatives"
 description: "02340 - CLERMONT LES FERMES | Entraide, Annonces, Initiatives"

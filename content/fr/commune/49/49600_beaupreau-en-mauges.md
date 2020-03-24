@@ -1,4 +1,3 @@
-
 ---
 title: "49600 - BEAUPREAU EN MAUGES | Entraide, Annonces, Initiatives"
 description: "49600 - BEAUPREAU EN MAUGES | Entraide, Annonces, Initiatives"

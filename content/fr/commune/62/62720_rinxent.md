@@ -1,4 +1,3 @@
-
 ---
 title: "62720 - RINXENT | Entraide, Annonces, Initiatives"
 description: "62720 - RINXENT | Entraide, Annonces, Initiatives"

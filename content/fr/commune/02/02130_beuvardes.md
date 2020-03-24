@@ -1,4 +1,3 @@
-
 ---
 title: "02130 - BEUVARDES | Entraide, Annonces, Initiatives"
 description: "02130 - BEUVARDES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "27540 - IVRY LA BATAILLE | Entraide, Annonces, Initiatives"
 description: "27540 - IVRY LA BATAILLE | Entraide, Annonces, Initiatives"

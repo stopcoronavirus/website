@@ -1,4 +1,3 @@
-
 ---
 title: "30700 - ST SIFFRET | Entraide, Annonces, Initiatives"
 description: "30700 - ST SIFFRET | Entraide, Annonces, Initiatives"

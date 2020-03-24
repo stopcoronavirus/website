@@ -1,4 +1,3 @@
-
 ---
 title: "68390 - BATTENHEIM | Entraide, Annonces, Initiatives"
 description: "68390 - BATTENHEIM | Entraide, Annonces, Initiatives"

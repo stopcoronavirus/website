@@ -1,4 +1,3 @@
-
 ---
 title: "63580 - LE VERNET CHAMEANE | Entraide, Annonces, Initiatives"
 description: "63580 - LE VERNET CHAMEANE | Entraide, Annonces, Initiatives"

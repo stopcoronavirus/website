@@ -1,4 +1,3 @@
-
 ---
 title: "56460 - SERENT | Entraide, Annonces, Initiatives"
 description: "56460 - SERENT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "44530 - ST GILDAS DES BOIS | Entraide, Annonces, Initiatives"
 description: "44530 - ST GILDAS DES BOIS | Entraide, Annonces, Initiatives"

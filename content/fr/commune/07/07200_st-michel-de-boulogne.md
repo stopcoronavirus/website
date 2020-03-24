@@ -1,4 +1,3 @@
-
 ---
 title: "07200 - ST MICHEL DE BOULOGNE | Entraide, Annonces, Initiatives"
 description: "07200 - ST MICHEL DE BOULOGNE | Entraide, Annonces, Initiatives"

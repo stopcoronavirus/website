@@ -1,4 +1,3 @@
-
 ---
 title: "29640 - BOLAZEC | Entraide, Annonces, Initiatives"
 description: "29640 - BOLAZEC | Entraide, Annonces, Initiatives"

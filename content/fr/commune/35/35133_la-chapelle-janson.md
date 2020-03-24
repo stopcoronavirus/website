@@ -1,4 +1,3 @@
-
 ---
 title: "35133 - LA CHAPELLE JANSON | Entraide, Annonces, Initiatives"
 description: "35133 - LA CHAPELLE JANSON | Entraide, Annonces, Initiatives"

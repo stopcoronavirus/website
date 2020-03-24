@@ -1,4 +1,3 @@
-
 ---
 title: "23130 - PUY MALSIGNAT | Entraide, Annonces, Initiatives"
 description: "23130 - PUY MALSIGNAT | Entraide, Annonces, Initiatives"

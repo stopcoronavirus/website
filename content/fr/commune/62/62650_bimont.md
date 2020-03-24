@@ -1,4 +1,3 @@
-
 ---
 title: "62650 - BIMONT | Entraide, Annonces, Initiatives"
 description: "62650 - BIMONT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "41370 - LA MADELEINE VILLEFROUIN | Entraide, Annonces, Initiatives"
 description: "41370 - LA MADELEINE VILLEFROUIN | Entraide, Annonces, Initiatives"

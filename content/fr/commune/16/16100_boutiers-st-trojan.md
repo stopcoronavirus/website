@@ -1,4 +1,3 @@
-
 ---
 title: "16100 - BOUTIERS ST TROJAN | Entraide, Annonces, Initiatives"
 description: "16100 - BOUTIERS ST TROJAN | Entraide, Annonces, Initiatives"

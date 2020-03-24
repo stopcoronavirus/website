@@ -1,4 +1,3 @@
-
 ---
 title: "71330 - BOUHANS | Entraide, Annonces, Initiatives"
 description: "71330 - BOUHANS | Entraide, Annonces, Initiatives"

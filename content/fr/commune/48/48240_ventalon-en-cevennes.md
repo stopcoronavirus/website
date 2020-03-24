@@ -1,4 +1,3 @@
-
 ---
 title: "48240 - VENTALON EN CEVENNES | Entraide, Annonces, Initiatives"
 description: "48240 - VENTALON EN CEVENNES | Entraide, Annonces, Initiatives"

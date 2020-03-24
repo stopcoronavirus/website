@@ -1,4 +1,3 @@
-
 ---
 title: "47340 - LA CROIX BLANCHE | Entraide, Annonces, Initiatives"
 description: "47340 - LA CROIX BLANCHE | Entraide, Annonces, Initiatives"

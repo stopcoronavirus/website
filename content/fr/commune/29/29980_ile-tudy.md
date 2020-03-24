@@ -1,4 +1,3 @@
-
 ---
 title: "29980 - ILE TUDY | Entraide, Annonces, Initiatives"
 description: "29980 - ILE TUDY | Entraide, Annonces, Initiatives"

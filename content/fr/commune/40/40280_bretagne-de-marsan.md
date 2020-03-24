@@ -1,4 +1,3 @@
-
 ---
 title: "40280 - BRETAGNE DE MARSAN | Entraide, Annonces, Initiatives"
 description: "40280 - BRETAGNE DE MARSAN | Entraide, Annonces, Initiatives"

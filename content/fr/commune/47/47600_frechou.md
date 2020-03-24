@@ -1,4 +1,3 @@
-
 ---
 title: "47600 - FRECHOU | Entraide, Annonces, Initiatives"
 description: "47600 - FRECHOU | Entraide, Annonces, Initiatives"

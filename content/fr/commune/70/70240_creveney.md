@@ -1,4 +1,3 @@
-
 ---
 title: "70240 - CREVENEY | Entraide, Annonces, Initiatives"
 description: "70240 - CREVENEY | Entraide, Annonces, Initiatives"

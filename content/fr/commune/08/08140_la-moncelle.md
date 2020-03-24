@@ -1,4 +1,3 @@
-
 ---
 title: "08140 - LA MONCELLE | Entraide, Annonces, Initiatives"
 description: "08140 - LA MONCELLE | Entraide, Annonces, Initiatives"

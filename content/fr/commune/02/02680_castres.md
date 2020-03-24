@@ -1,4 +1,3 @@
-
 ---
 title: "02680 - CASTRES | Entraide, Annonces, Initiatives"
 description: "02680 - CASTRES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "83570 - COTIGNAC | Entraide, Annonces, Initiatives"
 description: "83570 - COTIGNAC | Entraide, Annonces, Initiatives"

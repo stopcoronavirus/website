@@ -1,4 +1,3 @@
-
 ---
 title: "25750 - LE VERNOY | Entraide, Annonces, Initiatives"
 description: "25750 - LE VERNOY | Entraide, Annonces, Initiatives"

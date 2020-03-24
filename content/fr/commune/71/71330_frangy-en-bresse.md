@@ -1,4 +1,3 @@
-
 ---
 title: "71330 - FRANGY EN BRESSE | Entraide, Annonces, Initiatives"
 description: "71330 - FRANGY EN BRESSE | Entraide, Annonces, Initiatives"

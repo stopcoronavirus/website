@@ -1,4 +1,3 @@
-
 ---
 title: "53240 - ST GERMAIN D ANXURE | Entraide, Annonces, Initiatives"
 description: "53240 - ST GERMAIN D ANXURE | Entraide, Annonces, Initiatives"

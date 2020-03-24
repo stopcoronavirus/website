@@ -1,4 +1,3 @@
-
 ---
 title: "21380 - MARSANNAY LE BOIS | Entraide, Annonces, Initiatives"
 description: "21380 - MARSANNAY LE BOIS | Entraide, Annonces, Initiatives"

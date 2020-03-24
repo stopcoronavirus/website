@@ -1,4 +1,3 @@
-
 ---
 title: "40380 - BAIGTS | Entraide, Annonces, Initiatives"
 description: "40380 - BAIGTS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "25000 - BESANCON | Entraide, Annonces, Initiatives"
 description: "25000 - BESANCON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "62220 - CARVIN | Entraide, Annonces, Initiatives"
 description: "62220 - CARVIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "07800 - ROMPON | Entraide, Annonces, Initiatives"
 description: "07800 - ROMPON | Entraide, Annonces, Initiatives"

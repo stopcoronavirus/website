@@ -1,4 +1,3 @@
-
 ---
 title: "42350 - LA TALAUDIERE | Entraide, Annonces, Initiatives"
 description: "42350 - LA TALAUDIERE | Entraide, Annonces, Initiatives"

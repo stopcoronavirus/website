@@ -1,4 +1,3 @@
-
 ---
 title: "24800 - ST JEAN DE COLE | Entraide, Annonces, Initiatives"
 description: "24800 - ST JEAN DE COLE | Entraide, Annonces, Initiatives"

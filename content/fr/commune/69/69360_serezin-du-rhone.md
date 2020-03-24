@@ -1,4 +1,3 @@
-
 ---
 title: "69360 - SEREZIN DU RHONE | Entraide, Annonces, Initiatives"
 description: "69360 - SEREZIN DU RHONE | Entraide, Annonces, Initiatives"

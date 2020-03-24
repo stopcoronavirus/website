@@ -1,4 +1,3 @@
-
 ---
 title: "53950 - LA CHAPELLE ANTHENAISE | Entraide, Annonces, Initiatives"
 description: "53950 - LA CHAPELLE ANTHENAISE | Entraide, Annonces, Initiatives"

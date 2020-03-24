@@ -1,4 +1,3 @@
-
 ---
 title: "63470 - ST GERMAIN PRES HERMENT | Entraide, Annonces, Initiatives"
 description: "63470 - ST GERMAIN PRES HERMENT | Entraide, Annonces, Initiatives"

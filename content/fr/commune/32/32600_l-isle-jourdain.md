@@ -1,4 +1,3 @@
-
 ---
 title: "32600 - L ISLE JOURDAIN | Entraide, Annonces, Initiatives"
 description: "32600 - L ISLE JOURDAIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "42520 - VERANNE | Entraide, Annonces, Initiatives"
 description: "42520 - VERANNE | Entraide, Annonces, Initiatives"

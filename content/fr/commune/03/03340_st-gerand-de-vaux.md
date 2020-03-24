@@ -1,4 +1,3 @@
-
 ---
 title: "03340 - ST GERAND DE VAUX | Entraide, Annonces, Initiatives"
 description: "03340 - ST GERAND DE VAUX | Entraide, Annonces, Initiatives"

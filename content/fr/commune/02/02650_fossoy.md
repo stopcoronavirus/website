@@ -1,4 +1,3 @@
-
 ---
 title: "02650 - FOSSOY | Entraide, Annonces, Initiatives"
 description: "02650 - FOSSOY | Entraide, Annonces, Initiatives"

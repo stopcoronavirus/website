@@ -1,4 +1,3 @@
-
 ---
 title: "71520 - ST POINT | Entraide, Annonces, Initiatives"
 description: "71520 - ST POINT | Entraide, Annonces, Initiatives"

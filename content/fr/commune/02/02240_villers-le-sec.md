@@ -1,4 +1,3 @@
-
 ---
 title: "02240 - VILLERS LE SEC | Entraide, Annonces, Initiatives"
 description: "02240 - VILLERS LE SEC | Entraide, Annonces, Initiatives"

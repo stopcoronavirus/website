@@ -1,4 +1,3 @@
-
 ---
 title: "21140 - VILLARS ET VILLENOTTE | Entraide, Annonces, Initiatives"
 description: "21140 - VILLARS ET VILLENOTTE | Entraide, Annonces, Initiatives"

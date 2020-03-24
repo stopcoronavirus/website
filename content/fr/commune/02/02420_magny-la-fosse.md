@@ -1,4 +1,3 @@
-
 ---
 title: "02420 - MAGNY LA FOSSE | Entraide, Annonces, Initiatives"
 description: "02420 - MAGNY LA FOSSE | Entraide, Annonces, Initiatives"

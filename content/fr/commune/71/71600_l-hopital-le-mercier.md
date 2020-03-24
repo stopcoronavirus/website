@@ -1,4 +1,3 @@
-
 ---
 title: "71600 - L HOPITAL LE MERCIER | Entraide, Annonces, Initiatives"
 description: "71600 - L HOPITAL LE MERCIER | Entraide, Annonces, Initiatives"

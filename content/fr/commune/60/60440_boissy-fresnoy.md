@@ -1,4 +1,3 @@
-
 ---
 title: "60440 - BOISSY FRESNOY | Entraide, Annonces, Initiatives"
 description: "60440 - BOISSY FRESNOY | Entraide, Annonces, Initiatives"

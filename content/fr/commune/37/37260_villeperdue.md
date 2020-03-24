@@ -1,4 +1,3 @@
-
 ---
 title: "37260 - VILLEPERDUE | Entraide, Annonces, Initiatives"
 description: "37260 - VILLEPERDUE | Entraide, Annonces, Initiatives"

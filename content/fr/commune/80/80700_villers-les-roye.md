@@ -1,4 +1,3 @@
-
 ---
 title: "80700 - VILLERS LES ROYE | Entraide, Annonces, Initiatives"
 description: "80700 - VILLERS LES ROYE | Entraide, Annonces, Initiatives"

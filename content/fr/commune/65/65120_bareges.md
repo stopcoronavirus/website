@@ -1,4 +1,3 @@
-
 ---
 title: "65120 - BAREGES | Entraide, Annonces, Initiatives"
 description: "65120 - BAREGES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "37350 - BARROU | Entraide, Annonces, Initiatives"
 description: "37350 - BARROU | Entraide, Annonces, Initiatives"

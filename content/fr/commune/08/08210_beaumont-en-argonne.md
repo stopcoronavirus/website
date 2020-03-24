@@ -1,4 +1,3 @@
-
 ---
 title: "08210 - BEAUMONT EN ARGONNE | Entraide, Annonces, Initiatives"
 description: "08210 - BEAUMONT EN ARGONNE | Entraide, Annonces, Initiatives"

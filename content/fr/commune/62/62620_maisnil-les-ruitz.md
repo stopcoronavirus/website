@@ -1,4 +1,3 @@
-
 ---
 title: "62620 - MAISNIL LES RUITZ | Entraide, Annonces, Initiatives"
 description: "62620 - MAISNIL LES RUITZ | Entraide, Annonces, Initiatives"

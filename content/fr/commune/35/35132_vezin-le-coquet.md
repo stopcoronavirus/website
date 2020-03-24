@@ -1,4 +1,3 @@
-
 ---
 title: "35132 - VEZIN LE COQUET | Entraide, Annonces, Initiatives"
 description: "35132 - VEZIN LE COQUET | Entraide, Annonces, Initiatives"

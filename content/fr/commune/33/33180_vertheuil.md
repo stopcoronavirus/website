@@ -1,4 +1,3 @@
-
 ---
 title: "33180 - VERTHEUIL | Entraide, Annonces, Initiatives"
 description: "33180 - VERTHEUIL | Entraide, Annonces, Initiatives"

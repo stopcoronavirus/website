@@ -1,4 +1,3 @@
-
 ---
 title: "44670 - ST JULIEN DE VOUVANTES | Entraide, Annonces, Initiatives"
 description: "44670 - ST JULIEN DE VOUVANTES | Entraide, Annonces, Initiatives"

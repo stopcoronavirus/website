@@ -1,4 +1,3 @@
-
 ---
 title: "67330 - HATTMATT | Entraide, Annonces, Initiatives"
 description: "67330 - HATTMATT | Entraide, Annonces, Initiatives"

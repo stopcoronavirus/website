@@ -1,4 +1,3 @@
-
 ---
 title: "50130 - CHERBOURG EN COTENTIN | Entraide, Annonces, Initiatives"
 description: "50130 - CHERBOURG EN COTENTIN | Entraide, Annonces, Initiatives"

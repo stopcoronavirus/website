@@ -1,4 +1,3 @@
-
 ---
 title: "01150 - VAUX EN BUGEY | Entraide, Annonces, Initiatives"
 description: "01150 - VAUX EN BUGEY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "80400 - UGNY L EQUIPEE | Entraide, Annonces, Initiatives"
 description: "80400 - UGNY L EQUIPEE | Entraide, Annonces, Initiatives"

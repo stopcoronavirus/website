@@ -1,4 +1,3 @@
-
 ---
 title: "40250 - BERGOUEY | Entraide, Annonces, Initiatives"
 description: "40250 - BERGOUEY | Entraide, Annonces, Initiatives"

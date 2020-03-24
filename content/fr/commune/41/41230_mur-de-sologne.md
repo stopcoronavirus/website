@@ -1,4 +1,3 @@
-
 ---
 title: "41230 - MUR DE SOLOGNE | Entraide, Annonces, Initiatives"
 description: "41230 - MUR DE SOLOGNE | Entraide, Annonces, Initiatives"

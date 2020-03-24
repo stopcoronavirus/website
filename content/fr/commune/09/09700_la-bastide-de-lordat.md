@@ -1,4 +1,3 @@
-
 ---
 title: "09700 - LA BASTIDE DE LORDAT | Entraide, Annonces, Initiatives"
 description: "09700 - LA BASTIDE DE LORDAT | Entraide, Annonces, Initiatives"

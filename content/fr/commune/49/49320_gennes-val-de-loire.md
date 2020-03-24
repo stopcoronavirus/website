@@ -1,4 +1,3 @@
-
 ---
 title: "49320 - GENNES VAL DE LOIRE | Entraide, Annonces, Initiatives"
 description: "49320 - GENNES VAL DE LOIRE | Entraide, Annonces, Initiatives"

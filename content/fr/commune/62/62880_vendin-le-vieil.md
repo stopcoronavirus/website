@@ -1,4 +1,3 @@
-
 ---
 title: "62880 - VENDIN LE VIEIL | Entraide, Annonces, Initiatives"
 description: "62880 - VENDIN LE VIEIL | Entraide, Annonces, Initiatives"

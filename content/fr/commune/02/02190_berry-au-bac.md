@@ -1,4 +1,3 @@
-
 ---
 title: "02190 - BERRY AU BAC | Entraide, Annonces, Initiatives"
 description: "02190 - BERRY AU BAC | Entraide, Annonces, Initiatives"

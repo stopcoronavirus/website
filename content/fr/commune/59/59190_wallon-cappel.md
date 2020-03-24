@@ -1,4 +1,3 @@
-
 ---
 title: "59190 - WALLON CAPPEL | Entraide, Annonces, Initiatives"
 description: "59190 - WALLON CAPPEL | Entraide, Annonces, Initiatives"

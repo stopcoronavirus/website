@@ -1,4 +1,3 @@
-
 ---
 title: "40700 - LABASTIDE CHALOSSE | Entraide, Annonces, Initiatives"
 description: "40700 - LABASTIDE CHALOSSE | Entraide, Annonces, Initiatives"

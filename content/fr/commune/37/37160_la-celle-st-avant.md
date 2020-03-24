@@ -1,4 +1,3 @@
-
 ---
 title: "37160 - LA CELLE ST AVANT | Entraide, Annonces, Initiatives"
 description: "37160 - LA CELLE ST AVANT | Entraide, Annonces, Initiatives"

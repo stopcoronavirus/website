@@ -1,4 +1,3 @@
-
 ---
 title: "24270 - SAVIGNAC LEDRIER | Entraide, Annonces, Initiatives"
 description: "24270 - SAVIGNAC LEDRIER | Entraide, Annonces, Initiatives"

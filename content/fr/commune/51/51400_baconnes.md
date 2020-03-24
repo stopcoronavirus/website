@@ -1,4 +1,3 @@
-
 ---
 title: "51400 - BACONNES | Entraide, Annonces, Initiatives"
 description: "51400 - BACONNES | Entraide, Annonces, Initiatives"

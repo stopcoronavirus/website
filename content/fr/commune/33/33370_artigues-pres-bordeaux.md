@@ -1,4 +1,3 @@
-
 ---
 title: "33370 - ARTIGUES PRES BORDEAUX | Entraide, Annonces, Initiatives"
 description: "33370 - ARTIGUES PRES BORDEAUX | Entraide, Annonces, Initiatives"

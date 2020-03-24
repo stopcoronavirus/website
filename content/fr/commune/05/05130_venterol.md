@@ -1,4 +1,3 @@
-
 ---
 title: "05130 - VENTEROL | Entraide, Annonces, Initiatives"
 description: "05130 - VENTEROL | Entraide, Annonces, Initiatives"

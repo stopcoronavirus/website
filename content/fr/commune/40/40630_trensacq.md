@@ -1,4 +1,3 @@
-
 ---
 title: "40630 - TRENSACQ | Entraide, Annonces, Initiatives"
 description: "40630 - TRENSACQ | Entraide, Annonces, Initiatives"

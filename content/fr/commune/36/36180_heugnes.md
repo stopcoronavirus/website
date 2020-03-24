@@ -1,4 +1,3 @@
-
 ---
 title: "36180 - HEUGNES | Entraide, Annonces, Initiatives"
 description: "36180 - HEUGNES | Entraide, Annonces, Initiatives"

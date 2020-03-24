@@ -1,4 +1,3 @@
-
 ---
 title: "12260 - LA CAPELLE BALAGUIER | Entraide, Annonces, Initiatives"
 description: "12260 - LA CAPELLE BALAGUIER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "54920 - VILLERS LA MONTAGNE | Entraide, Annonces, Initiatives"
 description: "54920 - VILLERS LA MONTAGNE | Entraide, Annonces, Initiatives"

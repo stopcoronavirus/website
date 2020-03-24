@@ -1,4 +1,3 @@
-
 ---
 title: "07230 - ST GENEST DE BEAUZON | Entraide, Annonces, Initiatives"
 description: "07230 - ST GENEST DE BEAUZON | Entraide, Annonces, Initiatives"

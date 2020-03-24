@@ -1,4 +1,3 @@
-
 ---
 title: "40510 - SEIGNOSSE | Entraide, Annonces, Initiatives"
 description: "40510 - SEIGNOSSE | Entraide, Annonces, Initiatives"

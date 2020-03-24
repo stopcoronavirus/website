@@ -1,4 +1,3 @@
-
 ---
 title: "16250 - VAL DES VIGNES | Entraide, Annonces, Initiatives"
 description: "16250 - VAL DES VIGNES | Entraide, Annonces, Initiatives"

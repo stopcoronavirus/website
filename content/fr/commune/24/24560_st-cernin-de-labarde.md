@@ -1,4 +1,3 @@
-
 ---
 title: "24560 - ST CERNIN DE LABARDE | Entraide, Annonces, Initiatives"
 description: "24560 - ST CERNIN DE LABARDE | Entraide, Annonces, Initiatives"

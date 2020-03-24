@@ -1,4 +1,3 @@
-
 ---
 title: "39 - Jura"
 description: "39 - Jura"

@@ -1,4 +1,3 @@
-
 ---
 title: "30400 - VILLENEUVE LES AVIGNON | Entraide, Annonces, Initiatives"
 description: "30400 - VILLENEUVE LES AVIGNON | Entraide, Annonces, Initiatives"

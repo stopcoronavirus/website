@@ -1,4 +1,3 @@
-
 ---
 title: "22320 - LE BODEO | Entraide, Annonces, Initiatives"
 description: "22320 - LE BODEO | Entraide, Annonces, Initiatives"

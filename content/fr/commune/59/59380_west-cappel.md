@@ -1,4 +1,3 @@
-
 ---
 title: "59380 - WEST CAPPEL | Entraide, Annonces, Initiatives"
 description: "59380 - WEST CAPPEL | Entraide, Annonces, Initiatives"

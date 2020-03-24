@@ -1,4 +1,3 @@
-
 ---
 title: "24130 - LA FORCE | Entraide, Annonces, Initiatives"
 description: "24130 - LA FORCE | Entraide, Annonces, Initiatives"

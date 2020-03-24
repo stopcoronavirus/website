@@ -1,4 +1,3 @@
-
 ---
 title: "21360 - VIC DES PRES | Entraide, Annonces, Initiatives"
 description: "21360 - VIC DES PRES | Entraide, Annonces, Initiatives"

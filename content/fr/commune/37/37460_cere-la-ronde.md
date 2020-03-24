@@ -1,4 +1,3 @@
-
 ---
 title: "37460 - CERE LA RONDE | Entraide, Annonces, Initiatives"
 description: "37460 - CERE LA RONDE | Entraide, Annonces, Initiatives"

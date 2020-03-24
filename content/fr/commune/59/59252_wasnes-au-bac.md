@@ -1,4 +1,3 @@
-
 ---
 title: "59252 - WASNES AU BAC | Entraide, Annonces, Initiatives"
 description: "59252 - WASNES AU BAC | Entraide, Annonces, Initiatives"

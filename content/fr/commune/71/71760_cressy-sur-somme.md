@@ -1,4 +1,3 @@
-
 ---
 title: "71760 - CRESSY SUR SOMME | Entraide, Annonces, Initiatives"
 description: "71760 - CRESSY SUR SOMME | Entraide, Annonces, Initiatives"

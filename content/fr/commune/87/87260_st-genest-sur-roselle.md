@@ -1,4 +1,3 @@
-
 ---
 title: "87260 - ST GENEST SUR ROSELLE | Entraide, Annonces, Initiatives"
 description: "87260 - ST GENEST SUR ROSELLE | Entraide, Annonces, Initiatives"

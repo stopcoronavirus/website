@@ -1,4 +1,3 @@
-
 ---
 title: "33760 - ST GENIS DU BOIS | Entraide, Annonces, Initiatives"
 description: "33760 - ST GENIS DU BOIS | Entraide, Annonces, Initiatives"

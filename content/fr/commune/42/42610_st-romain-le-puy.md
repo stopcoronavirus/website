@@ -1,4 +1,3 @@
-
 ---
 title: "42610 - ST ROMAIN LE PUY | Entraide, Annonces, Initiatives"
 description: "42610 - ST ROMAIN LE PUY | Entraide, Annonces, Initiatives"

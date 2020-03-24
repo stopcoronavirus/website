@@ -1,4 +1,3 @@
-
 ---
 title: "55190 - VOID VACON | Entraide, Annonces, Initiatives"
 description: "55190 - VOID VACON | Entraide, Annonces, Initiatives"

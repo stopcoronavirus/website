@@ -1,4 +1,3 @@
-
 ---
 title: "71880 - CHATENOY LE ROYAL | Entraide, Annonces, Initiatives"
 description: "71880 - CHATENOY LE ROYAL | Entraide, Annonces, Initiatives"

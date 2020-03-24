@@ -1,4 +1,3 @@
-
 ---
 title: "03000 - AVERMES | Entraide, Annonces, Initiatives"
 description: "03000 - AVERMES | Entraide, Annonces, Initiatives"

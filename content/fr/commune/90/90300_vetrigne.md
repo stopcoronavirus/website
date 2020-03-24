@@ -1,4 +1,3 @@
-
 ---
 title: "90300 - VETRIGNE | Entraide, Annonces, Initiatives"
 description: "90300 - VETRIGNE | Entraide, Annonces, Initiatives"

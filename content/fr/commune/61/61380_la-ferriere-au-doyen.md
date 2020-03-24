@@ -1,4 +1,3 @@
-
 ---
 title: "61380 - LA FERRIERE AU DOYEN | Entraide, Annonces, Initiatives"
 description: "61380 - LA FERRIERE AU DOYEN | Entraide, Annonces, Initiatives"

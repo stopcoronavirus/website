@@ -1,4 +1,3 @@
-
 ---
 title: "47350 - ST AVIT | Entraide, Annonces, Initiatives"
 description: "47350 - ST AVIT | Entraide, Annonces, Initiatives"

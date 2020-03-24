@@ -1,4 +1,3 @@
-
 ---
 title: "17220 - CLAVETTE | Entraide, Annonces, Initiatives"
 description: "17220 - CLAVETTE | Entraide, Annonces, Initiatives"

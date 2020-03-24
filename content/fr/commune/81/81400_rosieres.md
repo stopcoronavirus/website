@@ -1,4 +1,3 @@
-
 ---
 title: "81400 - ROSIERES | Entraide, Annonces, Initiatives"
 description: "81400 - ROSIERES | Entraide, Annonces, Initiatives"

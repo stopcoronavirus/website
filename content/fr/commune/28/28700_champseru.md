@@ -1,4 +1,3 @@
-
 ---
 title: "28700 - CHAMPSERU | Entraide, Annonces, Initiatives"
 description: "28700 - CHAMPSERU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "27950 - ST MARCEL | Entraide, Annonces, Initiatives"
 description: "27950 - ST MARCEL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "07340 - CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "07340 - CHAMPAGNE | Entraide, Annonces, Initiatives"

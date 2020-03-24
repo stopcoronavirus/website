@@ -1,4 +1,3 @@
-
 ---
 title: "03190 - HAUT BOCAGE | Entraide, Annonces, Initiatives"
 description: "03190 - HAUT BOCAGE | Entraide, Annonces, Initiatives"

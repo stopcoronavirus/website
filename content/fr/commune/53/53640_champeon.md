@@ -1,4 +1,3 @@
-
 ---
 title: "53640 - CHAMPEON | Entraide, Annonces, Initiatives"
 description: "53640 - CHAMPEON | Entraide, Annonces, Initiatives"

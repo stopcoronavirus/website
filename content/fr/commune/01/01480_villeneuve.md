@@ -1,4 +1,3 @@
-
 ---
 title: "01480 - VILLENEUVE | Entraide, Annonces, Initiatives"
 description: "01480 - VILLENEUVE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "57340 - BARONVILLE | Entraide, Annonces, Initiatives"
 description: "57340 - BARONVILLE | Entraide, Annonces, Initiatives"

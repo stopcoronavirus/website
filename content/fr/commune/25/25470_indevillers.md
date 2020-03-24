@@ -1,4 +1,3 @@
-
 ---
 title: "25470 - INDEVILLERS | Entraide, Annonces, Initiatives"
 description: "25470 - INDEVILLERS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60000 - BEAUVAIS | Entraide, Annonces, Initiatives"
 description: "60000 - BEAUVAIS | Entraide, Annonces, Initiatives"

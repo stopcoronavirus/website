@@ -1,4 +1,3 @@
-
 ---
 title: "27350 - ROUGEMONTIERS | Entraide, Annonces, Initiatives"
 description: "27350 - ROUGEMONTIERS | Entraide, Annonces, Initiatives"

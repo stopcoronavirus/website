@@ -1,4 +1,3 @@
-
 ---
 title: "81130 - VILLENEUVE SUR VERE | Entraide, Annonces, Initiatives"
 description: "81130 - VILLENEUVE SUR VERE | Entraide, Annonces, Initiatives"

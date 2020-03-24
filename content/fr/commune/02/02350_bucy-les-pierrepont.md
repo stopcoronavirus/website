@@ -1,4 +1,3 @@
-
 ---
 title: "02350 - BUCY LES PIERREPONT | Entraide, Annonces, Initiatives"
 description: "02350 - BUCY LES PIERREPONT | Entraide, Annonces, Initiatives"

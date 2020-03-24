@@ -1,4 +1,3 @@
-
 ---
 title: "40270 - MAURRIN | Entraide, Annonces, Initiatives"
 description: "40270 - MAURRIN | Entraide, Annonces, Initiatives"

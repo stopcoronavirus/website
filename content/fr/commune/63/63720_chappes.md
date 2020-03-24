@@ -1,4 +1,3 @@
-
 ---
 title: "63720 - CHAPPES | Entraide, Annonces, Initiatives"
 description: "63720 - CHAPPES | Entraide, Annonces, Initiatives"

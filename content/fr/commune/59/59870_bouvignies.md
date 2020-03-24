@@ -1,4 +1,3 @@
-
 ---
 title: "59870 - BOUVIGNIES | Entraide, Annonces, Initiatives"
 description: "59870 - BOUVIGNIES | Entraide, Annonces, Initiatives"

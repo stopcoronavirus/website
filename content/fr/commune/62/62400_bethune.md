@@ -1,4 +1,3 @@
-
 ---
 title: "62400 - BETHUNE | Entraide, Annonces, Initiatives"
 description: "62400 - BETHUNE | Entraide, Annonces, Initiatives"

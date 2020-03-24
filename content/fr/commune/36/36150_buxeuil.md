@@ -1,4 +1,3 @@
-
 ---
 title: "36150 - BUXEUIL | Entraide, Annonces, Initiatives"
 description: "36150 - BUXEUIL | Entraide, Annonces, Initiatives"

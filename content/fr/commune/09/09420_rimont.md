@@ -1,4 +1,3 @@
-
 ---
 title: "09420 - RIMONT | Entraide, Annonces, Initiatives"
 description: "09420 - RIMONT | Entraide, Annonces, Initiatives"

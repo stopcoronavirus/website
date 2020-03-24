@@ -1,4 +1,3 @@
-
 ---
 title: "83920 - LA MOTTE | Entraide, Annonces, Initiatives"
 description: "83920 - LA MOTTE | Entraide, Annonces, Initiatives"

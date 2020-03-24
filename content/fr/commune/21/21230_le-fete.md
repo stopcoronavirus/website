@@ -1,4 +1,3 @@
-
 ---
 title: "21230 - LE FETE | Entraide, Annonces, Initiatives"
 description: "21230 - LE FETE | Entraide, Annonces, Initiatives"

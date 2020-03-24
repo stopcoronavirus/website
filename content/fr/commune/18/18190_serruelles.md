@@ -1,4 +1,3 @@
-
 ---
 title: "18190 - SERRUELLES | Entraide, Annonces, Initiatives"
 description: "18190 - SERRUELLES | Entraide, Annonces, Initiatives"

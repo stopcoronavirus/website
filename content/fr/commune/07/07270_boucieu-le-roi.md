@@ -1,4 +1,3 @@
-
 ---
 title: "07270 - BOUCIEU LE ROI | Entraide, Annonces, Initiatives"
 description: "07270 - BOUCIEU LE ROI | Entraide, Annonces, Initiatives"

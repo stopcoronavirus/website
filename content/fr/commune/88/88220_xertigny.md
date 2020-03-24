@@ -1,4 +1,3 @@
-
 ---
 title: "88220 - XERTIGNY | Entraide, Annonces, Initiatives"
 description: "88220 - XERTIGNY | Entraide, Annonces, Initiatives"

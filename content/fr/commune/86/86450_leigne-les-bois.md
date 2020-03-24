@@ -1,4 +1,3 @@
-
 ---
 title: "86450 - LEIGNE LES BOIS | Entraide, Annonces, Initiatives"
 description: "86450 - LEIGNE LES BOIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "27700 - BOUAFLES | Entraide, Annonces, Initiatives"
 description: "27700 - BOUAFLES | Entraide, Annonces, Initiatives"

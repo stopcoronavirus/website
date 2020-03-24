@@ -1,4 +1,3 @@
-
 ---
 title: "28190 - BILLANCELLES | Entraide, Annonces, Initiatives"
 description: "28190 - BILLANCELLES | Entraide, Annonces, Initiatives"

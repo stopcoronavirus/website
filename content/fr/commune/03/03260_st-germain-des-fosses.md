@@ -1,4 +1,3 @@
-
 ---
 title: "03260 - ST GERMAIN DES FOSSES | Entraide, Annonces, Initiatives"
 description: "03260 - ST GERMAIN DES FOSSES | Entraide, Annonces, Initiatives"

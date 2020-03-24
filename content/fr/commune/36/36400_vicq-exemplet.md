@@ -1,4 +1,3 @@
-
 ---
 title: "36400 - VICQ EXEMPLET | Entraide, Annonces, Initiatives"
 description: "36400 - VICQ EXEMPLET | Entraide, Annonces, Initiatives"

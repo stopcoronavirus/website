@@ -1,4 +1,3 @@
-
 ---
 title: "88600 - LA CHAPELLE DEVANT BRUYERES | Entraide, Annonces, Initiatives"
 description: "88600 - LA CHAPELLE DEVANT BRUYERES | Entraide, Annonces, Initiatives"

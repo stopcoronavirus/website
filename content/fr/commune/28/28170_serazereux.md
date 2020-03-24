@@ -1,4 +1,3 @@
-
 ---
 title: "28170 - SERAZEREUX | Entraide, Annonces, Initiatives"
 description: "28170 - SERAZEREUX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "54830 - SERANVILLE | Entraide, Annonces, Initiatives"
 description: "54830 - SERANVILLE | Entraide, Annonces, Initiatives"

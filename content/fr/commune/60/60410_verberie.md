@@ -1,4 +1,3 @@
-
 ---
 title: "60410 - VERBERIE | Entraide, Annonces, Initiatives"
 description: "60410 - VERBERIE | Entraide, Annonces, Initiatives"

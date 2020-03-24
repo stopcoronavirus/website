@@ -1,4 +1,3 @@
-
 ---
 title: "73270 - BEAUFORT | Entraide, Annonces, Initiatives"
 description: "73270 - BEAUFORT | Entraide, Annonces, Initiatives"

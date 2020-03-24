@@ -1,4 +1,3 @@
-
 ---
 title: "71170 - ST IGNY DE ROCHE | Entraide, Annonces, Initiatives"
 description: "71170 - ST IGNY DE ROCHE | Entraide, Annonces, Initiatives"

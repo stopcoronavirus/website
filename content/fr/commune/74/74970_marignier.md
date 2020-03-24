@@ -1,4 +1,3 @@
-
 ---
 title: "74970 - MARIGNIER | Entraide, Annonces, Initiatives"
 description: "74970 - MARIGNIER | Entraide, Annonces, Initiatives"

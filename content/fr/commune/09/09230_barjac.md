@@ -1,4 +1,3 @@
-
 ---
 title: "09230 - BARJAC | Entraide, Annonces, Initiatives"
 description: "09230 - BARJAC | Entraide, Annonces, Initiatives"

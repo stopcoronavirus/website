@@ -1,4 +1,3 @@
-
 ---
 title: "16330 - MONTIGNAC CHARENTE | Entraide, Annonces, Initiatives"
 description: "16330 - MONTIGNAC CHARENTE | Entraide, Annonces, Initiatives"

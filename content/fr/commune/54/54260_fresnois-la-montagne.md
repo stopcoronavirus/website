@@ -1,4 +1,3 @@
-
 ---
 title: "54260 - FRESNOIS LA MONTAGNE | Entraide, Annonces, Initiatives"
 description: "54260 - FRESNOIS LA MONTAGNE | Entraide, Annonces, Initiatives"

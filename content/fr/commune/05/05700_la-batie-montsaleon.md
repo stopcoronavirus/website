@@ -1,4 +1,3 @@
-
 ---
 title: "05700 - LA BATIE MONTSALEON | Entraide, Annonces, Initiatives"
 description: "05700 - LA BATIE MONTSALEON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "32410 - CASTERA VERDUZAN | Entraide, Annonces, Initiatives"
 description: "32410 - CASTERA VERDUZAN | Entraide, Annonces, Initiatives"

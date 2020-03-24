@@ -1,4 +1,3 @@
-
 ---
 title: "62240 - COURSET | Entraide, Annonces, Initiatives"
 description: "62240 - COURSET | Entraide, Annonces, Initiatives"

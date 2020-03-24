@@ -1,4 +1,3 @@
-
 ---
 title: "48300 - LANGOGNE | Entraide, Annonces, Initiatives"
 description: "48300 - LANGOGNE | Entraide, Annonces, Initiatives"

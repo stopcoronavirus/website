@@ -1,4 +1,3 @@
-
 ---
 title: "50410 - MAUPERTUIS | Entraide, Annonces, Initiatives"
 description: "50410 - MAUPERTUIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "59221 - BAUVIN | Entraide, Annonces, Initiatives"
 description: "59221 - BAUVIN | Entraide, Annonces, Initiatives"

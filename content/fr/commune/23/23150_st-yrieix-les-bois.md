@@ -1,4 +1,3 @@
-
 ---
 title: "23150 - ST YRIEIX LES BOIS | Entraide, Annonces, Initiatives"
 description: "23150 - ST YRIEIX LES BOIS | Entraide, Annonces, Initiatives"

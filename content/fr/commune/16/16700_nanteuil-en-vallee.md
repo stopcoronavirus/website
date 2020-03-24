@@ -1,4 +1,3 @@
-
 ---
 title: "16700 - NANTEUIL EN VALLEE | Entraide, Annonces, Initiatives"
 description: "16700 - NANTEUIL EN VALLEE | Entraide, Annonces, Initiatives"

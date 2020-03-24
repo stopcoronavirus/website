@@ -1,4 +1,3 @@
-
 ---
 title: "63115 - MUR SUR ALLIER | Entraide, Annonces, Initiatives"
 description: "63115 - MUR SUR ALLIER | Entraide, Annonces, Initiatives"

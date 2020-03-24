@@ -1,4 +1,3 @@
-
 ---
 title: "08220 - ST JEAN AUX BOIS | Entraide, Annonces, Initiatives"
 description: "08220 - ST JEAN AUX BOIS | Entraide, Annonces, Initiatives"

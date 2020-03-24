@@ -1,4 +1,3 @@
-
 ---
 title: "35830 - BETTON | Entraide, Annonces, Initiatives"
 description: "35830 - BETTON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "08350 - VILLERS SUR BAR | Entraide, Annonces, Initiatives"
 description: "08350 - VILLERS SUR BAR | Entraide, Annonces, Initiatives"

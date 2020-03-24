@@ -1,4 +1,3 @@
-
 ---
 title: "71110 - MARCIGNY | Entraide, Annonces, Initiatives"
 description: "71110 - MARCIGNY | Entraide, Annonces, Initiatives"

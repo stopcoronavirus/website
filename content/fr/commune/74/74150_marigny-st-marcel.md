@@ -1,4 +1,3 @@
-
 ---
 title: "74150 - MARIGNY ST MARCEL | Entraide, Annonces, Initiatives"
 description: "74150 - MARIGNY ST MARCEL | Entraide, Annonces, Initiatives"

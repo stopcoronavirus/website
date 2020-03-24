@@ -1,4 +1,3 @@
-
 ---
 title: "80190 - ROUY LE PETIT | Entraide, Annonces, Initiatives"
 description: "80190 - ROUY LE PETIT | Entraide, Annonces, Initiatives"

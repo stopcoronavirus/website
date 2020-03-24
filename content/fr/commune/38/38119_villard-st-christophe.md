@@ -1,4 +1,3 @@
-
 ---
 title: "38119 - VILLARD ST CHRISTOPHE | Entraide, Annonces, Initiatives"
 description: "38119 - VILLARD ST CHRISTOPHE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "24380 - LACROPTE | Entraide, Annonces, Initiatives"
 description: "24380 - LACROPTE | Entraide, Annonces, Initiatives"

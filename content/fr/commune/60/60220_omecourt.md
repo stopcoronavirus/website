@@ -1,4 +1,3 @@
-
 ---
 title: "60220 - OMECOURT | Entraide, Annonces, Initiatives"
 description: "60220 - OMECOURT | Entraide, Annonces, Initiatives"

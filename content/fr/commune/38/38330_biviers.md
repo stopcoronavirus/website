@@ -1,4 +1,3 @@
-
 ---
 title: "38330 - BIVIERS | Entraide, Annonces, Initiatives"
 description: "38330 - BIVIERS | Entraide, Annonces, Initiatives"

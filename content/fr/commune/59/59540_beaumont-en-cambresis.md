@@ -1,4 +1,3 @@
-
 ---
 title: "59540 - BEAUMONT EN CAMBRESIS | Entraide, Annonces, Initiatives"
 description: "59540 - BEAUMONT EN CAMBRESIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "62162 - ST OMER CAPELLE | Entraide, Annonces, Initiatives"
 description: "62162 - ST OMER CAPELLE | Entraide, Annonces, Initiatives"

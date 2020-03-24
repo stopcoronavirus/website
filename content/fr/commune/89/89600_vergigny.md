@@ -1,4 +1,3 @@
-
 ---
 title: "89600 - VERGIGNY | Entraide, Annonces, Initiatives"
 description: "89600 - VERGIGNY | Entraide, Annonces, Initiatives"

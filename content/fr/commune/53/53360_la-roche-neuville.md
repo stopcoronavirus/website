@@ -1,4 +1,3 @@
-
 ---
 title: "53360 - LA ROCHE NEUVILLE | Entraide, Annonces, Initiatives"
 description: "53360 - LA ROCHE NEUVILLE | Entraide, Annonces, Initiatives"

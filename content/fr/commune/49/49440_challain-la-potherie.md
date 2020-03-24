@@ -1,4 +1,3 @@
-
 ---
 title: "49440 - CHALLAIN LA POTHERIE | Entraide, Annonces, Initiatives"
 description: "49440 - CHALLAIN LA POTHERIE | Entraide, Annonces, Initiatives"

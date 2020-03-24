@@ -1,4 +1,3 @@
-
 ---
 title: "12520 - VERRIERES | Entraide, Annonces, Initiatives"
 description: "12520 - VERRIERES | Entraide, Annonces, Initiatives"

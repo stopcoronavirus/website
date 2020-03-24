@@ -1,4 +1,3 @@
-
 ---
 title: "30430 - BARJAC | Entraide, Annonces, Initiatives"
 description: "30430 - BARJAC | Entraide, Annonces, Initiatives"

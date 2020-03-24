@@ -1,4 +1,3 @@
-
 ---
 title: "76360 - BARENTIN | Entraide, Annonces, Initiatives"
 description: "76360 - BARENTIN | Entraide, Annonces, Initiatives"

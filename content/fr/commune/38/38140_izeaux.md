@@ -1,4 +1,3 @@
-
 ---
 title: "38140 - IZEAUX | Entraide, Annonces, Initiatives"
 description: "38140 - IZEAUX | Entraide, Annonces, Initiatives"

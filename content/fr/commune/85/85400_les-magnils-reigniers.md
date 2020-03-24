@@ -1,4 +1,3 @@
-
 ---
 title: "85400 - LES MAGNILS REIGNIERS | Entraide, Annonces, Initiatives"
 description: "85400 - LES MAGNILS REIGNIERS | Entraide, Annonces, Initiatives"

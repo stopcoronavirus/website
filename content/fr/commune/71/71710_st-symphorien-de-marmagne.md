@@ -1,4 +1,3 @@
-
 ---
 title: "71710 - ST SYMPHORIEN DE MARMAGNE | Entraide, Annonces, Initiatives"
 description: "71710 - ST SYMPHORIEN DE MARMAGNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20250 - CASANOVA | Entraide, Annonces, Initiatives"
 description: "20250 - CASANOVA | Entraide, Annonces, Initiatives"

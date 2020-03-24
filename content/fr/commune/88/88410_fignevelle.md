@@ -1,4 +1,3 @@
-
 ---
 title: "88410 - FIGNEVELLE | Entraide, Annonces, Initiatives"
 description: "88410 - FIGNEVELLE | Entraide, Annonces, Initiatives"

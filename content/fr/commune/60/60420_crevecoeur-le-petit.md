@@ -1,4 +1,3 @@
-
 ---
 title: "60420 - CREVECOEUR LE PETIT | Entraide, Annonces, Initiatives"
 description: "60420 - CREVECOEUR LE PETIT | Entraide, Annonces, Initiatives"

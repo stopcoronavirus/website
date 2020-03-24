@@ -1,4 +1,3 @@
-
 ---
 title: "35430 - ST JOUAN DES GUERETS | Entraide, Annonces, Initiatives"
 description: "35430 - ST JOUAN DES GUERETS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20231 - VENACO | Entraide, Annonces, Initiatives"
 description: "20231 - VENACO | Entraide, Annonces, Initiatives"

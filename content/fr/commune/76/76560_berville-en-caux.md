@@ -1,4 +1,3 @@
-
 ---
 title: "76560 - BERVILLE EN CAUX | Entraide, Annonces, Initiatives"
 description: "76560 - BERVILLE EN CAUX | Entraide, Annonces, Initiatives"

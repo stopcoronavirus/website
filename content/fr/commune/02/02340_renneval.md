@@ -1,4 +1,3 @@
-
 ---
 title: "02340 - RENNEVAL | Entraide, Annonces, Initiatives"
 description: "02340 - RENNEVAL | Entraide, Annonces, Initiatives"

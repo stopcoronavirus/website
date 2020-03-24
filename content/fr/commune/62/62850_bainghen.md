@@ -1,4 +1,3 @@
-
 ---
 title: "62850 - BAINGHEN | Entraide, Annonces, Initiatives"
 description: "62850 - BAINGHEN | Entraide, Annonces, Initiatives"

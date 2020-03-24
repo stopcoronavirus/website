@@ -1,4 +1,3 @@
-
 ---
 title: "07290 - ST ROMAIN D AY | Entraide, Annonces, Initiatives"
 description: "07290 - ST ROMAIN D AY | Entraide, Annonces, Initiatives"

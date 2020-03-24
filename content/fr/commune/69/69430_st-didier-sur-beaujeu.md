@@ -1,4 +1,3 @@
-
 ---
 title: "69430 - ST DIDIER SUR BEAUJEU | Entraide, Annonces, Initiatives"
 description: "69430 - ST DIDIER SUR BEAUJEU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71480 - CHAMPAGNAT | Entraide, Annonces, Initiatives"
 description: "71480 - CHAMPAGNAT | Entraide, Annonces, Initiatives"

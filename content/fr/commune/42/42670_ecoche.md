@@ -1,4 +1,3 @@
-
 ---
 title: "42670 - ECOCHE | Entraide, Annonces, Initiatives"
 description: "42670 - ECOCHE | Entraide, Annonces, Initiatives"

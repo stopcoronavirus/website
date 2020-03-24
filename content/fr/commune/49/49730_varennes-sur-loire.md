@@ -1,4 +1,3 @@
-
 ---
 title: "49730 - VARENNES SUR LOIRE | Entraide, Annonces, Initiatives"
 description: "49730 - VARENNES SUR LOIRE | Entraide, Annonces, Initiatives"

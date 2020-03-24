@@ -1,4 +1,3 @@
-
 ---
 title: "47130 - BAZENS | Entraide, Annonces, Initiatives"
 description: "47130 - BAZENS | Entraide, Annonces, Initiatives"

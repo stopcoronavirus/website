@@ -1,4 +1,3 @@
-
 ---
 title: "87800 - JOURGNAC | Entraide, Annonces, Initiatives"
 description: "87800 - JOURGNAC | Entraide, Annonces, Initiatives"

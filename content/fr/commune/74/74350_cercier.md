@@ -1,4 +1,3 @@
-
 ---
 title: "74350 - CERCIER | Entraide, Annonces, Initiatives"
 description: "74350 - CERCIER | Entraide, Annonces, Initiatives"

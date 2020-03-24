@@ -1,4 +1,3 @@
-
 ---
 title: "32100 - BEAUMONT | Entraide, Annonces, Initiatives"
 description: "32100 - BEAUMONT | Entraide, Annonces, Initiatives"

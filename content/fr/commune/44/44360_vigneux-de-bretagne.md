@@ -1,4 +1,3 @@
-
 ---
 title: "44360 - VIGNEUX DE BRETAGNE | Entraide, Annonces, Initiatives"
 description: "44360 - VIGNEUX DE BRETAGNE | Entraide, Annonces, Initiatives"

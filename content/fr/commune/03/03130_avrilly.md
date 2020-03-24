@@ -1,4 +1,3 @@
-
 ---
 title: "03130 - AVRILLY | Entraide, Annonces, Initiatives"
 description: "03130 - AVRILLY | Entraide, Annonces, Initiatives"

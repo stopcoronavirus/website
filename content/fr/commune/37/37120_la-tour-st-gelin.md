@@ -1,4 +1,3 @@
-
 ---
 title: "37120 - LA TOUR ST GELIN | Entraide, Annonces, Initiatives"
 description: "37120 - LA TOUR ST GELIN | Entraide, Annonces, Initiatives"

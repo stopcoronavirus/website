@@ -1,4 +1,3 @@
-
 ---
 title: "35520 - LA CHAPELLE DES FOUGERETZ | Entraide, Annonces, Initiatives"
 description: "35520 - LA CHAPELLE DES FOUGERETZ | Entraide, Annonces, Initiatives"

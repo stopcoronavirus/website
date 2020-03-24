@@ -1,4 +1,3 @@
-
 ---
 title: "25380 - BATTENANS VARIN | Entraide, Annonces, Initiatives"
 description: "25380 - BATTENANS VARIN | Entraide, Annonces, Initiatives"

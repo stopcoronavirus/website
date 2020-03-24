@@ -1,4 +1,3 @@
-
 ---
 title: "49750 - BEAULIEU SUR LAYON | Entraide, Annonces, Initiatives"
 description: "49750 - BEAULIEU SUR LAYON | Entraide, Annonces, Initiatives"

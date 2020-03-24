@@ -1,4 +1,3 @@
-
 ---
 title: "03150 - VARENNES SUR ALLIER | Entraide, Annonces, Initiatives"
 description: "03150 - VARENNES SUR ALLIER | Entraide, Annonces, Initiatives"

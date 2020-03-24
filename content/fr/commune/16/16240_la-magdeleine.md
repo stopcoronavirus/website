@@ -1,4 +1,3 @@
-
 ---
 title: "16240 - LA MAGDELEINE | Entraide, Annonces, Initiatives"
 description: "16240 - LA MAGDELEINE | Entraide, Annonces, Initiatives"

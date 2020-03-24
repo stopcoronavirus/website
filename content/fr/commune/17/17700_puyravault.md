@@ -1,4 +1,3 @@
-
 ---
 title: "17700 - PUYRAVAULT | Entraide, Annonces, Initiatives"
 description: "17700 - PUYRAVAULT | Entraide, Annonces, Initiatives"

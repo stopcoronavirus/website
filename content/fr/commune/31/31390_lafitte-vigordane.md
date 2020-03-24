@@ -1,4 +1,3 @@
-
 ---
 title: "31390 - LAFITTE VIGORDANE | Entraide, Annonces, Initiatives"
 description: "31390 - LAFITTE VIGORDANE | Entraide, Annonces, Initiatives"

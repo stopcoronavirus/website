@@ -1,4 +1,3 @@
-
 ---
 title: "70500 - VILLARS LE PAUTEL | Entraide, Annonces, Initiatives"
 description: "70500 - VILLARS LE PAUTEL | Entraide, Annonces, Initiatives"

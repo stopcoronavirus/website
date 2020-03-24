@@ -1,4 +1,3 @@
-
 ---
 title: "73220 - BONVILLARET | Entraide, Annonces, Initiatives"
 description: "73220 - BONVILLARET | Entraide, Annonces, Initiatives"

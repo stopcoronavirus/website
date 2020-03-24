@@ -1,4 +1,3 @@
-
 ---
 title: "43700 - COUBON | Entraide, Annonces, Initiatives"
 description: "43700 - COUBON | Entraide, Annonces, Initiatives"

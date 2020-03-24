@@ -1,4 +1,3 @@
-
 ---
 title: "72200 - LE BAILLEUL | Entraide, Annonces, Initiatives"
 description: "72200 - LE BAILLEUL | Entraide, Annonces, Initiatives"

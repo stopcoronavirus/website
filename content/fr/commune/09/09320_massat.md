@@ -1,4 +1,3 @@
-
 ---
 title: "09320 - MASSAT | Entraide, Annonces, Initiatives"
 description: "09320 - MASSAT | Entraide, Annonces, Initiatives"

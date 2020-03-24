@@ -1,4 +1,3 @@
-
 ---
 title: "47600 - MONTAGNAC SUR AUVIGNON | Entraide, Annonces, Initiatives"
 description: "47600 - MONTAGNAC SUR AUVIGNON | Entraide, Annonces, Initiatives"

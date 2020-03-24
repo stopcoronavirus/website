@@ -1,4 +1,3 @@
-
 ---
 title: "62640 - MONTIGNY EN GOHELLE | Entraide, Annonces, Initiatives"
 description: "62640 - MONTIGNY EN GOHELLE | Entraide, Annonces, Initiatives"

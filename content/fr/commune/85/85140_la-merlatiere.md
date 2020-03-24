@@ -1,4 +1,3 @@
-
 ---
 title: "85140 - LA MERLATIERE | Entraide, Annonces, Initiatives"
 description: "85140 - LA MERLATIERE | Entraide, Annonces, Initiatives"

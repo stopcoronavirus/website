@@ -1,4 +1,3 @@
-
 ---
 title: "57840 - OTTANGE | Entraide, Annonces, Initiatives"
 description: "57840 - OTTANGE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "52240 - MAISONCELLES | Entraide, Annonces, Initiatives"
 description: "52240 - MAISONCELLES | Entraide, Annonces, Initiatives"

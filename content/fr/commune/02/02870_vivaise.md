@@ -1,4 +1,3 @@
-
 ---
 title: "02870 - VIVAISE | Entraide, Annonces, Initiatives"
 description: "02870 - VIVAISE | Entraide, Annonces, Initiatives"

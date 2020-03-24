@@ -1,4 +1,3 @@
-
 ---
 title: "70800 - MAGNONCOURT | Entraide, Annonces, Initiatives"
 description: "70800 - MAGNONCOURT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "38270 - REVEL TOURDAN | Entraide, Annonces, Initiatives"
 description: "38270 - REVEL TOURDAN | Entraide, Annonces, Initiatives"

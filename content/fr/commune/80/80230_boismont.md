@@ -1,4 +1,3 @@
-
 ---
 title: "80230 - BOISMONT | Entraide, Annonces, Initiatives"
 description: "80230 - BOISMONT | Entraide, Annonces, Initiatives"

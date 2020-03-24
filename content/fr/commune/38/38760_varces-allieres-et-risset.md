@@ -1,4 +1,3 @@
-
 ---
 title: "38760 - VARCES ALLIERES ET RISSET | Entraide, Annonces, Initiatives"
 description: "38760 - VARCES ALLIERES ET RISSET | Entraide, Annonces, Initiatives"

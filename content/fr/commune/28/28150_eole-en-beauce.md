@@ -1,4 +1,3 @@
-
 ---
 title: "28150 - EOLE EN BEAUCE | Entraide, Annonces, Initiatives"
 description: "28150 - EOLE EN BEAUCE | Entraide, Annonces, Initiatives"

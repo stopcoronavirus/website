@@ -1,4 +1,3 @@
-
 ---
 title: "38118 - ST BAUDILLE DE LA TOUR | Entraide, Annonces, Initiatives"
 description: "38118 - ST BAUDILLE DE LA TOUR | Entraide, Annonces, Initiatives"

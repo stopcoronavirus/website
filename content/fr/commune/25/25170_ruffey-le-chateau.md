@@ -1,4 +1,3 @@
-
 ---
 title: "25170 - RUFFEY LE CHATEAU | Entraide, Annonces, Initiatives"
 description: "25170 - RUFFEY LE CHATEAU | Entraide, Annonces, Initiatives"

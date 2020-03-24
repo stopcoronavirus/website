@@ -1,4 +1,3 @@
-
 ---
 title: "33240 - ST GERMAIN DE LA RIVIERE | Entraide, Annonces, Initiatives"
 description: "33240 - ST GERMAIN DE LA RIVIERE | Entraide, Annonces, Initiatives"

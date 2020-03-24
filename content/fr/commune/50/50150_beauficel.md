@@ -1,4 +1,3 @@
-
 ---
 title: "50150 - BEAUFICEL | Entraide, Annonces, Initiatives"
 description: "50150 - BEAUFICEL | Entraide, Annonces, Initiatives"

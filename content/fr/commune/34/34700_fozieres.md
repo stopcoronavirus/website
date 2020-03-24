@@ -1,4 +1,3 @@
-
 ---
 title: "34700 - FOZIERES | Entraide, Annonces, Initiatives"
 description: "34700 - FOZIERES | Entraide, Annonces, Initiatives"

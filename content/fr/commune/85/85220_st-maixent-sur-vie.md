@@ -1,4 +1,3 @@
-
 ---
 title: "85220 - ST MAIXENT SUR VIE | Entraide, Annonces, Initiatives"
 description: "85220 - ST MAIXENT SUR VIE | Entraide, Annonces, Initiatives"

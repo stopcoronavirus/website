@@ -1,4 +1,3 @@
-
 ---
 title: "56120 - JOSSELIN | Entraide, Annonces, Initiatives"
 description: "56120 - JOSSELIN | Entraide, Annonces, Initiatives"

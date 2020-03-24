@@ -1,4 +1,3 @@
-
 ---
 title: "70360 - CHASSEY LES SCEY | Entraide, Annonces, Initiatives"
 description: "70360 - CHASSEY LES SCEY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "18320 - BEFFES | Entraide, Annonces, Initiatives"
 description: "18320 - BEFFES | Entraide, Annonces, Initiatives"

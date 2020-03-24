@@ -1,4 +1,3 @@
-
 ---
 title: "36200 - CHAVIN | Entraide, Annonces, Initiatives"
 description: "36200 - CHAVIN | Entraide, Annonces, Initiatives"

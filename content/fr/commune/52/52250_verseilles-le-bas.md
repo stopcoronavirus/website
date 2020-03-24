@@ -1,4 +1,3 @@
-
 ---
 title: "52250 - VERSEILLES LE BAS | Entraide, Annonces, Initiatives"
 description: "52250 - VERSEILLES LE BAS | Entraide, Annonces, Initiatives"

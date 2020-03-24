@@ -1,4 +1,3 @@
-
 ---
 title: "77440 - COCHEREL | Entraide, Annonces, Initiatives"
 description: "77440 - COCHEREL | Entraide, Annonces, Initiatives"

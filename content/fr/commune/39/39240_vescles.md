@@ -1,4 +1,3 @@
-
 ---
 title: "39240 - VESCLES | Entraide, Annonces, Initiatives"
 description: "39240 - VESCLES | Entraide, Annonces, Initiatives"

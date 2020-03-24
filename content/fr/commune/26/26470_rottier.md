@@ -1,4 +1,3 @@
-
 ---
 title: "26470 - ROTTIER | Entraide, Annonces, Initiatives"
 description: "26470 - ROTTIER | Entraide, Annonces, Initiatives"

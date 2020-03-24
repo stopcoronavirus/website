@@ -1,4 +1,3 @@
-
 ---
 title: "24360 - SOUDAT | Entraide, Annonces, Initiatives"
 description: "24360 - SOUDAT | Entraide, Annonces, Initiatives"

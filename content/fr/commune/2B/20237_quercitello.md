@@ -1,4 +1,3 @@
-
 ---
 title: "20237 - QUERCITELLO | Entraide, Annonces, Initiatives"
 description: "20237 - QUERCITELLO | Entraide, Annonces, Initiatives"

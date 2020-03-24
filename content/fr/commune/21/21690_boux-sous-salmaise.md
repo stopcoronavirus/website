@@ -1,4 +1,3 @@
-
 ---
 title: "21690 - BOUX SOUS SALMAISE | Entraide, Annonces, Initiatives"
 description: "21690 - BOUX SOUS SALMAISE | Entraide, Annonces, Initiatives"

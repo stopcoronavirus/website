@@ -1,4 +1,3 @@
-
 ---
 title: "09240 - LA BASTIDE DE SEROU | Entraide, Annonces, Initiatives"
 description: "09240 - LA BASTIDE DE SEROU | Entraide, Annonces, Initiatives"

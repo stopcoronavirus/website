@@ -1,4 +1,3 @@
-
 ---
 title: "36220 - MERIGNY | Entraide, Annonces, Initiatives"
 description: "36220 - MERIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "03260 - MARCENAT | Entraide, Annonces, Initiatives"
 description: "03260 - MARCENAT | Entraide, Annonces, Initiatives"

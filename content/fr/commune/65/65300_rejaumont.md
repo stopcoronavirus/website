@@ -1,4 +1,3 @@
-
 ---
 title: "65300 - REJAUMONT | Entraide, Annonces, Initiatives"
 description: "65300 - REJAUMONT | Entraide, Annonces, Initiatives"

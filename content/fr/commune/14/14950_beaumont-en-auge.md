@@ -1,4 +1,3 @@
-
 ---
 title: "14950 - BEAUMONT EN AUGE | Entraide, Annonces, Initiatives"
 description: "14950 - BEAUMONT EN AUGE | Entraide, Annonces, Initiatives"

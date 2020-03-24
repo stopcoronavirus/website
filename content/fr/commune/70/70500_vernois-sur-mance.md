@@ -1,4 +1,3 @@
-
 ---
 title: "70500 - VERNOIS SUR MANCE | Entraide, Annonces, Initiatives"
 description: "70500 - VERNOIS SUR MANCE | Entraide, Annonces, Initiatives"

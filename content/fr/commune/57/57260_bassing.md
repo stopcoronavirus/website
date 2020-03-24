@@ -1,4 +1,3 @@
-
 ---
 title: "57260 - BASSING | Entraide, Annonces, Initiatives"
 description: "57260 - BASSING | Entraide, Annonces, Initiatives"

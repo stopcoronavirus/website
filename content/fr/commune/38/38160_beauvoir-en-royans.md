@@ -1,4 +1,3 @@
-
 ---
 title: "38160 - BEAUVOIR EN ROYANS | Entraide, Annonces, Initiatives"
 description: "38160 - BEAUVOIR EN ROYANS | Entraide, Annonces, Initiatives"

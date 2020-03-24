@@ -1,4 +1,3 @@
-
 ---
 title: "60173 - IVRY LE TEMPLE | Entraide, Annonces, Initiatives"
 description: "60173 - IVRY LE TEMPLE | Entraide, Annonces, Initiatives"

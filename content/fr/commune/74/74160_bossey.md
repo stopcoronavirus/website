@@ -1,4 +1,3 @@
-
 ---
 title: "74160 - BOSSEY | Entraide, Annonces, Initiatives"
 description: "74160 - BOSSEY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "28 - Eure-et-Loir"
 description: "28 - Eure-et-Loir"

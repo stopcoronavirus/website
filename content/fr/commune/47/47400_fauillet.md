@@ -1,4 +1,3 @@
-
 ---
 title: "47400 - FAUILLET | Entraide, Annonces, Initiatives"
 description: "47400 - FAUILLET | Entraide, Annonces, Initiatives"

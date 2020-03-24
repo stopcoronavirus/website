@@ -1,4 +1,3 @@
-
 ---
 title: "02150 - LAPPION | Entraide, Annonces, Initiatives"
 description: "02150 - LAPPION | Entraide, Annonces, Initiatives"

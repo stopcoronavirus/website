@@ -1,4 +1,3 @@
-
 ---
 title: "83600 - FREJUS | Entraide, Annonces, Initiatives"
 description: "83600 - FREJUS | Entraide, Annonces, Initiatives"

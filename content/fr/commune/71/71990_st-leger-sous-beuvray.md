@@ -1,4 +1,3 @@
-
 ---
 title: "71990 - ST LEGER SOUS BEUVRAY | Entraide, Annonces, Initiatives"
 description: "71990 - ST LEGER SOUS BEUVRAY | Entraide, Annonces, Initiatives"

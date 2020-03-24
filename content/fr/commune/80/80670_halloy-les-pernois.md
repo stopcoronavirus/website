@@ -1,4 +1,3 @@
-
 ---
 title: "80670 - HALLOY LES PERNOIS | Entraide, Annonces, Initiatives"
 description: "80670 - HALLOY LES PERNOIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "88230 - FRAIZE | Entraide, Annonces, Initiatives"
 description: "88230 - FRAIZE | Entraide, Annonces, Initiatives"

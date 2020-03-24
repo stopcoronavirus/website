@@ -1,4 +1,3 @@
-
 ---
 title: "09000 - VERNAJOUL | Entraide, Annonces, Initiatives"
 description: "09000 - VERNAJOUL | Entraide, Annonces, Initiatives"

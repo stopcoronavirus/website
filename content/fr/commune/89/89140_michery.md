@@ -1,4 +1,3 @@
-
 ---
 title: "89140 - MICHERY | Entraide, Annonces, Initiatives"
 description: "89140 - MICHERY | Entraide, Annonces, Initiatives"

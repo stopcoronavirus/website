@@ -1,4 +1,3 @@
-
 ---
 title: "02690 - URVILLERS | Entraide, Annonces, Initiatives"
 description: "02690 - URVILLERS | Entraide, Annonces, Initiatives"

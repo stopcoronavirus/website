@@ -1,4 +1,3 @@
-
 ---
 title: "62450 - ROCQUIGNY | Entraide, Annonces, Initiatives"
 description: "62450 - ROCQUIGNY | Entraide, Annonces, Initiatives"

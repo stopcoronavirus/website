@@ -1,4 +1,3 @@
-
 ---
 title: "69640 - VILLE SUR JARNIOUX | Entraide, Annonces, Initiatives"
 description: "69640 - VILLE SUR JARNIOUX | Entraide, Annonces, Initiatives"

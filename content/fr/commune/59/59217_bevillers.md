@@ -1,4 +1,3 @@
-
 ---
 title: "59217 - BEVILLERS | Entraide, Annonces, Initiatives"
 description: "59217 - BEVILLERS | Entraide, Annonces, Initiatives"

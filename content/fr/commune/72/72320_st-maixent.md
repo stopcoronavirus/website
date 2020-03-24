@@ -1,4 +1,3 @@
-
 ---
 title: "72320 - ST MAIXENT | Entraide, Annonces, Initiatives"
 description: "72320 - ST MAIXENT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "54760 - VILLERS LES MOIVRONS | Entraide, Annonces, Initiatives"
 description: "54760 - VILLERS LES MOIVRONS | Entraide, Annonces, Initiatives"

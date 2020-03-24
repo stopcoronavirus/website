@@ -1,4 +1,3 @@
-
 ---
 title: "50720 - BARENTON | Entraide, Annonces, Initiatives"
 description: "50720 - BARENTON | Entraide, Annonces, Initiatives"

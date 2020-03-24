@@ -1,4 +1,3 @@
-
 ---
 title: "69170 - ST MARCEL L ECLAIRE | Entraide, Annonces, Initiatives"
 description: "69170 - ST MARCEL L ECLAIRE | Entraide, Annonces, Initiatives"

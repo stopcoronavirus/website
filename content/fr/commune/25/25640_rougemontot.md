@@ -1,4 +1,3 @@
-
 ---
 title: "25640 - ROUGEMONTOT | Entraide, Annonces, Initiatives"
 description: "25640 - ROUGEMONTOT | Entraide, Annonces, Initiatives"

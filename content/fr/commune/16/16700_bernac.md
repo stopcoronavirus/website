@@ -1,4 +1,3 @@
-
 ---
 title: "16700 - BERNAC | Entraide, Annonces, Initiatives"
 description: "16700 - BERNAC | Entraide, Annonces, Initiatives"

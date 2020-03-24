@@ -1,4 +1,3 @@
-
 ---
 title: "60600 - CLERMONT | Entraide, Annonces, Initiatives"
 description: "60600 - CLERMONT | Entraide, Annonces, Initiatives"

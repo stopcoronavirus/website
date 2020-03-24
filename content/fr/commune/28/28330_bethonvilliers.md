@@ -1,4 +1,3 @@
-
 ---
 title: "28330 - BETHONVILLIERS | Entraide, Annonces, Initiatives"
 description: "28330 - BETHONVILLIERS | Entraide, Annonces, Initiatives"

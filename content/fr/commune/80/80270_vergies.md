@@ -1,4 +1,3 @@
-
 ---
 title: "80270 - VERGIES | Entraide, Annonces, Initiatives"
 description: "80270 - VERGIES | Entraide, Annonces, Initiatives"

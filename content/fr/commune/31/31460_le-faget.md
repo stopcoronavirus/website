@@ -1,4 +1,3 @@
-
 ---
 title: "31460 - LE FAGET | Entraide, Annonces, Initiatives"
 description: "31460 - LE FAGET | Entraide, Annonces, Initiatives"

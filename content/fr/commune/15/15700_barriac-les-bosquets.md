@@ -1,4 +1,3 @@
-
 ---
 title: "15700 - BARRIAC LES BOSQUETS | Entraide, Annonces, Initiatives"
 description: "15700 - BARRIAC LES BOSQUETS | Entraide, Annonces, Initiatives"

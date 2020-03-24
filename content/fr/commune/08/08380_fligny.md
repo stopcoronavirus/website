@@ -1,4 +1,3 @@
-
 ---
 title: "08380 - FLIGNY | Entraide, Annonces, Initiatives"
 description: "08380 - FLIGNY | Entraide, Annonces, Initiatives"

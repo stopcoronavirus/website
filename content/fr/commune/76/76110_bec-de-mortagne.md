@@ -1,4 +1,3 @@
-
 ---
 title: "76110 - BEC DE MORTAGNE | Entraide, Annonces, Initiatives"
 description: "76110 - BEC DE MORTAGNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "70300 - VELORCEY | Entraide, Annonces, Initiatives"
 description: "70300 - VELORCEY | Entraide, Annonces, Initiatives"

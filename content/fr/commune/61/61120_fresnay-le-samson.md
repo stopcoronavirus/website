@@ -1,4 +1,3 @@
-
 ---
 title: "61120 - FRESNAY LE SAMSON | Entraide, Annonces, Initiatives"
 description: "61120 - FRESNAY LE SAMSON | Entraide, Annonces, Initiatives"

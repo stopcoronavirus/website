@@ -1,4 +1,3 @@
-
 ---
 title: "78130 - CHAPET | Entraide, Annonces, Initiatives"
 description: "78130 - CHAPET | Entraide, Annonces, Initiatives"

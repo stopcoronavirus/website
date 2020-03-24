@@ -1,4 +1,3 @@
-
 ---
 title: "53220 - ST BERTHEVIN LA TANNIERE | Entraide, Annonces, Initiatives"
 description: "53220 - ST BERTHEVIN LA TANNIERE | Entraide, Annonces, Initiatives"

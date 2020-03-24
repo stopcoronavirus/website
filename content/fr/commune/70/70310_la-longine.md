@@ -1,4 +1,3 @@
-
 ---
 title: "70310 - LA LONGINE | Entraide, Annonces, Initiatives"
 description: "70310 - LA LONGINE | Entraide, Annonces, Initiatives"

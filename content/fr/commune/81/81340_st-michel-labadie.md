@@ -1,4 +1,3 @@
-
 ---
 title: "81340 - ST MICHEL LABADIE | Entraide, Annonces, Initiatives"
 description: "81340 - ST MICHEL LABADIE | Entraide, Annonces, Initiatives"

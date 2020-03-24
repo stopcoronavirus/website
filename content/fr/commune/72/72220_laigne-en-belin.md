@@ -1,4 +1,3 @@
-
 ---
 title: "72220 - LAIGNE EN BELIN | Entraide, Annonces, Initiatives"
 description: "72220 - LAIGNE EN BELIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "72500 - MONTVAL SUR LOIR | Entraide, Annonces, Initiatives"
 description: "72500 - MONTVAL SUR LOIR | Entraide, Annonces, Initiatives"

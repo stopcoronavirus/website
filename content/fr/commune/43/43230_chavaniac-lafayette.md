@@ -1,4 +1,3 @@
-
 ---
 title: "43230 - CHAVANIAC LAFAYETTE | Entraide, Annonces, Initiatives"
 description: "43230 - CHAVANIAC LAFAYETTE | Entraide, Annonces, Initiatives"

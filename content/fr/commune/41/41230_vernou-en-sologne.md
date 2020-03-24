@@ -1,4 +1,3 @@
-
 ---
 title: "41230 - VERNOU EN SOLOGNE | Entraide, Annonces, Initiatives"
 description: "41230 - VERNOU EN SOLOGNE | Entraide, Annonces, Initiatives"

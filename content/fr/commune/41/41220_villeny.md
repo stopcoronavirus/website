@@ -1,4 +1,3 @@
-
 ---
 title: "41220 - VILLENY | Entraide, Annonces, Initiatives"
 description: "41220 - VILLENY | Entraide, Annonces, Initiatives"

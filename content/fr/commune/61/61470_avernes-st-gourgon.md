@@ -1,4 +1,3 @@
-
 ---
 title: "61470 - AVERNES ST GOURGON | Entraide, Annonces, Initiatives"
 description: "61470 - AVERNES ST GOURGON | Entraide, Annonces, Initiatives"

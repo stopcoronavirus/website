@@ -1,4 +1,3 @@
-
 ---
 title: "72600 - MAMERS | Entraide, Annonces, Initiatives"
 description: "72600 - MAMERS | Entraide, Annonces, Initiatives"

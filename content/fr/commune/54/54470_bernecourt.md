@@ -1,4 +1,3 @@
-
 ---
 title: "54470 - BERNECOURT | Entraide, Annonces, Initiatives"
 description: "54470 - BERNECOURT | Entraide, Annonces, Initiatives"

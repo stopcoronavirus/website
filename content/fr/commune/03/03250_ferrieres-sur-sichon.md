@@ -1,4 +1,3 @@
-
 ---
 title: "03250 - FERRIERES SUR SICHON | Entraide, Annonces, Initiatives"
 description: "03250 - FERRIERES SUR SICHON | Entraide, Annonces, Initiatives"

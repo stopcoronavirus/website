@@ -1,4 +1,3 @@
-
 ---
 title: "84140 - AVIGNON | Entraide, Annonces, Initiatives"
 description: "84140 - AVIGNON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20240 - VENTISERI | Entraide, Annonces, Initiatives"
 description: "20240 - VENTISERI | Entraide, Annonces, Initiatives"

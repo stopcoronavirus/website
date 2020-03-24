@@ -1,4 +1,3 @@
-
 ---
 title: "45300 - SERMAISES | Entraide, Annonces, Initiatives"
 description: "45300 - SERMAISES | Entraide, Annonces, Initiatives"

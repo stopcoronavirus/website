@@ -1,4 +1,3 @@
-
 ---
 title: "65100 - BARTRES | Entraide, Annonces, Initiatives"
 description: "65100 - BARTRES | Entraide, Annonces, Initiatives"

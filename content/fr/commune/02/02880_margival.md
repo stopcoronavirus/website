@@ -1,4 +1,3 @@
-
 ---
 title: "02880 - MARGIVAL | Entraide, Annonces, Initiatives"
 description: "02880 - MARGIVAL | Entraide, Annonces, Initiatives"

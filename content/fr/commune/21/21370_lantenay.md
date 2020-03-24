@@ -1,4 +1,3 @@
-
 ---
 title: "21370 - LANTENAY | Entraide, Annonces, Initiatives"
 description: "21370 - LANTENAY | Entraide, Annonces, Initiatives"

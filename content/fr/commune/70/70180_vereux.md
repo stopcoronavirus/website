@@ -1,4 +1,3 @@
-
 ---
 title: "70180 - VEREUX | Entraide, Annonces, Initiatives"
 description: "70180 - VEREUX | Entraide, Annonces, Initiatives"

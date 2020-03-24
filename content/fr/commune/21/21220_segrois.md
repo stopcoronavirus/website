@@ -1,4 +1,3 @@
-
 ---
 title: "21220 - SEGROIS | Entraide, Annonces, Initiatives"
 description: "21220 - SEGROIS | Entraide, Annonces, Initiatives"

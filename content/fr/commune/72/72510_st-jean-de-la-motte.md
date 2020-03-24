@@ -1,4 +1,3 @@
-
 ---
 title: "72510 - ST JEAN DE LA MOTTE | Entraide, Annonces, Initiatives"
 description: "72510 - ST JEAN DE LA MOTTE | Entraide, Annonces, Initiatives"

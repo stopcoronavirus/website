@@ -1,4 +1,3 @@
-
 ---
 title: "02200 - SEPTMONTS | Entraide, Annonces, Initiatives"
 description: "02200 - SEPTMONTS | Entraide, Annonces, Initiatives"

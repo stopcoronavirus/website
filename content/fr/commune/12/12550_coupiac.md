@@ -1,4 +1,3 @@
-
 ---
 title: "12550 - COUPIAC | Entraide, Annonces, Initiatives"
 description: "12550 - COUPIAC | Entraide, Annonces, Initiatives"

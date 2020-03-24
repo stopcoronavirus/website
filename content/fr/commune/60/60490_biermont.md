@@ -1,4 +1,3 @@
-
 ---
 title: "60490 - BIERMONT | Entraide, Annonces, Initiatives"
 description: "60490 - BIERMONT | Entraide, Annonces, Initiatives"

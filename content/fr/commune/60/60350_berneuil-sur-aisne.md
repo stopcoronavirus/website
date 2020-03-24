@@ -1,4 +1,3 @@
-
 ---
 title: "60350 - BERNEUIL SUR AISNE | Entraide, Annonces, Initiatives"
 description: "60350 - BERNEUIL SUR AISNE | Entraide, Annonces, Initiatives"

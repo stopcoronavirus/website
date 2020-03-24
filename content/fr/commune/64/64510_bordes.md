@@ -1,4 +1,3 @@
-
 ---
 title: "64510 - BORDES | Entraide, Annonces, Initiatives"
 description: "64510 - BORDES | Entraide, Annonces, Initiatives"

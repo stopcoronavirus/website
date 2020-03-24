@@ -1,4 +1,3 @@
-
 ---
 title: "74270 - CLERMONT | Entraide, Annonces, Initiatives"
 description: "74270 - CLERMONT | Entraide, Annonces, Initiatives"

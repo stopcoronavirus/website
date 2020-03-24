@@ -1,4 +1,3 @@
-
 ---
 title: "56140 - RUFFIAC | Entraide, Annonces, Initiatives"
 description: "56140 - RUFFIAC | Entraide, Annonces, Initiatives"

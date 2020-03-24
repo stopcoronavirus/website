@@ -1,4 +1,3 @@
-
 ---
 title: "16350 - VIEUX RUFFEC | Entraide, Annonces, Initiatives"
 description: "16350 - VIEUX RUFFEC | Entraide, Annonces, Initiatives"

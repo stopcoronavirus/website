@@ -1,4 +1,3 @@
-
 ---
 title: "51130 - BERGERES LES VERTUS | Entraide, Annonces, Initiatives"
 description: "51130 - BERGERES LES VERTUS | Entraide, Annonces, Initiatives"

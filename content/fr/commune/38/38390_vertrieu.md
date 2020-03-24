@@ -1,4 +1,3 @@
-
 ---
 title: "38390 - VERTRIEU | Entraide, Annonces, Initiatives"
 description: "38390 - VERTRIEU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02600 - VILLERS COTTERETS | Entraide, Annonces, Initiatives"
 description: "02600 - VILLERS COTTERETS | Entraide, Annonces, Initiatives"

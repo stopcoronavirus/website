@@ -1,4 +1,3 @@
-
 ---
 title: "71220 - LE ROUSSET MARIZY | Entraide, Annonces, Initiatives"
 description: "71220 - LE ROUSSET MARIZY | Entraide, Annonces, Initiatives"

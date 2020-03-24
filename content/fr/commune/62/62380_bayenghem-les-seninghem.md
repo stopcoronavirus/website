@@ -1,4 +1,3 @@
-
 ---
 title: "62380 - BAYENGHEM LES SENINGHEM | Entraide, Annonces, Initiatives"
 description: "62380 - BAYENGHEM LES SENINGHEM | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "46260 - BEAUREGARD | Entraide, Annonces, Initiatives"
 description: "46260 - BEAUREGARD | Entraide, Annonces, Initiatives"

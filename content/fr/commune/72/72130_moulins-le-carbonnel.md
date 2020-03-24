@@ -1,4 +1,3 @@
-
 ---
 title: "72130 - MOULINS LE CARBONNEL | Entraide, Annonces, Initiatives"
 description: "72130 - MOULINS LE CARBONNEL | Entraide, Annonces, Initiatives"

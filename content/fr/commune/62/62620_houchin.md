@@ -1,4 +1,3 @@
-
 ---
 title: "62620 - HOUCHIN | Entraide, Annonces, Initiatives"
 description: "62620 - HOUCHIN | Entraide, Annonces, Initiatives"

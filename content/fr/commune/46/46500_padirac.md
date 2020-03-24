@@ -1,4 +1,3 @@
-
 ---
 title: "46500 - PADIRAC | Entraide, Annonces, Initiatives"
 description: "46500 - PADIRAC | Entraide, Annonces, Initiatives"

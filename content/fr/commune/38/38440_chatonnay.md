@@ -1,4 +1,3 @@
-
 ---
 title: "38440 - CHATONNAY | Entraide, Annonces, Initiatives"
 description: "38440 - CHATONNAY | Entraide, Annonces, Initiatives"

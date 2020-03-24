@@ -1,4 +1,3 @@
-
 ---
 title: "57130 - STE RUFFINE | Entraide, Annonces, Initiatives"
 description: "57130 - STE RUFFINE | Entraide, Annonces, Initiatives"

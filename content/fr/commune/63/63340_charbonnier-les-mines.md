@@ -1,4 +1,3 @@
-
 ---
 title: "63340 - CHARBONNIER LES MINES | Entraide, Annonces, Initiatives"
 description: "63340 - CHARBONNIER LES MINES | Entraide, Annonces, Initiatives"

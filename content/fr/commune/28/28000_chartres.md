@@ -1,4 +1,3 @@
-
 ---
 title: "28000 - CHARTRES | Entraide, Annonces, Initiatives"
 description: "28000 - CHARTRES | Entraide, Annonces, Initiatives"

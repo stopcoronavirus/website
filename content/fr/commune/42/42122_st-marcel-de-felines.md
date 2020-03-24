@@ -1,4 +1,3 @@
-
 ---
 title: "42122 - ST MARCEL DE FELINES | Entraide, Annonces, Initiatives"
 description: "42122 - ST MARCEL DE FELINES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "85 - Vendée"
 description: "85 - Vendée"

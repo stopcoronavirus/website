@@ -1,4 +1,3 @@
-
 ---
 title: "79200 - LA CHAPELLE BERTRAND | Entraide, Annonces, Initiatives"
 description: "79200 - LA CHAPELLE BERTRAND | Entraide, Annonces, Initiatives"

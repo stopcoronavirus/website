@@ -1,4 +1,3 @@
-
 ---
 title: "89420 - STE MAGNANCE | Entraide, Annonces, Initiatives"
 description: "89420 - STE MAGNANCE | Entraide, Annonces, Initiatives"

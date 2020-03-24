@@ -1,4 +1,3 @@
-
 ---
 title: "49540 - AUBIGNE SUR LAYON | Entraide, Annonces, Initiatives"
 description: "49540 - AUBIGNE SUR LAYON | Entraide, Annonces, Initiatives"

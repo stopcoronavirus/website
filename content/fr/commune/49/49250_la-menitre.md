@@ -1,4 +1,3 @@
-
 ---
 title: "49250 - LA MENITRE | Entraide, Annonces, Initiatives"
 description: "49250 - LA MENITRE | Entraide, Annonces, Initiatives"

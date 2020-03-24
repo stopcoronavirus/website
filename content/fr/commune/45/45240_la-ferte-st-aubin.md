@@ -1,4 +1,3 @@
-
 ---
 title: "45240 - LA FERTE ST AUBIN | Entraide, Annonces, Initiatives"
 description: "45240 - LA FERTE ST AUBIN | Entraide, Annonces, Initiatives"

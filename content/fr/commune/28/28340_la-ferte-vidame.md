@@ -1,4 +1,3 @@
-
 ---
 title: "28340 - LA FERTE VIDAME | Entraide, Annonces, Initiatives"
 description: "28340 - LA FERTE VIDAME | Entraide, Annonces, Initiatives"

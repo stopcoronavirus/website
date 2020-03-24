@@ -1,4 +1,3 @@
-
 ---
 title: "50600 - LAPENTY | Entraide, Annonces, Initiatives"
 description: "50600 - LAPENTY | Entraide, Annonces, Initiatives"

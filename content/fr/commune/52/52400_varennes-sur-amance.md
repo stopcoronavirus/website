@@ -1,4 +1,3 @@
-
 ---
 title: "52400 - VARENNES SUR AMANCE | Entraide, Annonces, Initiatives"
 description: "52400 - VARENNES SUR AMANCE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "70180 - ROCHE ET RAUCOURT | Entraide, Annonces, Initiatives"
 description: "70180 - ROCHE ET RAUCOURT | Entraide, Annonces, Initiatives"

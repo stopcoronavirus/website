@@ -1,4 +1,3 @@
-
 ---
 title: "02420 - SEQUEHART | Entraide, Annonces, Initiatives"
 description: "02420 - SEQUEHART | Entraide, Annonces, Initiatives"

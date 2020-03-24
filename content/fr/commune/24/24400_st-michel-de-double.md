@@ -1,4 +1,3 @@
-
 ---
 title: "24400 - ST MICHEL DE DOUBLE | Entraide, Annonces, Initiatives"
 description: "24400 - ST MICHEL DE DOUBLE | Entraide, Annonces, Initiatives"

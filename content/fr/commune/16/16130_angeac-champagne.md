@@ -1,4 +1,3 @@
-
 ---
 title: "16130 - ANGEAC CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "16130 - ANGEAC CHAMPAGNE | Entraide, Annonces, Initiatives"

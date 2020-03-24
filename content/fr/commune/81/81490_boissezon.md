@@ -1,4 +1,3 @@
-
 ---
 title: "81490 - BOISSEZON | Entraide, Annonces, Initiatives"
 description: "81490 - BOISSEZON | Entraide, Annonces, Initiatives"

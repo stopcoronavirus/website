@@ -1,4 +1,3 @@
-
 ---
 title: "69160 - TASSIN LA DEMI LUNE | Entraide, Annonces, Initiatives"
 description: "69160 - TASSIN LA DEMI LUNE | Entraide, Annonces, Initiatives"

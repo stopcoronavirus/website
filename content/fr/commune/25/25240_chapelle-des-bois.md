@@ -1,4 +1,3 @@
-
 ---
 title: "25240 - CHAPELLE DES BOIS | Entraide, Annonces, Initiatives"
 description: "25240 - CHAPELLE DES BOIS | Entraide, Annonces, Initiatives"

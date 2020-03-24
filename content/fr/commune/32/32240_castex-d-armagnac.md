@@ -1,4 +1,3 @@
-
 ---
 title: "32240 - CASTEX D ARMAGNAC | Entraide, Annonces, Initiatives"
 description: "32240 - CASTEX D ARMAGNAC | Entraide, Annonces, Initiatives"

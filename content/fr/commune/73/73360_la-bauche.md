@@ -1,4 +1,3 @@
-
 ---
 title: "73360 - LA BAUCHE | Entraide, Annonces, Initiatives"
 description: "73360 - LA BAUCHE | Entraide, Annonces, Initiatives"

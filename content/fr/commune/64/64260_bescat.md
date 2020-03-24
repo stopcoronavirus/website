@@ -1,4 +1,3 @@
-
 ---
 title: "64260 - BESCAT | Entraide, Annonces, Initiatives"
 description: "64260 - BESCAT | Entraide, Annonces, Initiatives"

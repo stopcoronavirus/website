@@ -1,4 +1,3 @@
-
 ---
 title: "59970 - FRESNES SUR ESCAUT | Entraide, Annonces, Initiatives"
 description: "59970 - FRESNES SUR ESCAUT | Entraide, Annonces, Initiatives"

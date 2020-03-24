@@ -1,4 +1,3 @@
-
 ---
 title: "43810 - ROCHE EN REGNIER | Entraide, Annonces, Initiatives"
 description: "43810 - ROCHE EN REGNIER | Entraide, Annonces, Initiatives"

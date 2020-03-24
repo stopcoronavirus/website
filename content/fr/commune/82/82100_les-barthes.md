@@ -1,4 +1,3 @@
-
 ---
 title: "82100 - LES BARTHES | Entraide, Annonces, Initiatives"
 description: "82100 - LES BARTHES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "61700 - ST BOMER LES FORGES | Entraide, Annonces, Initiatives"
 description: "61700 - ST BOMER LES FORGES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "23150 - LAVAVEIX LES MINES | Entraide, Annonces, Initiatives"
 description: "23150 - LAVAVEIX LES MINES | Entraide, Annonces, Initiatives"

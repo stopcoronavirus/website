@@ -1,4 +1,3 @@
-
 ---
 title: "05400 - MANTEYER | Entraide, Annonces, Initiatives"
 description: "05400 - MANTEYER | Entraide, Annonces, Initiatives"

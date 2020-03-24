@@ -1,4 +1,3 @@
-
 ---
 title: "69380 - ST JEAN DES VIGNES | Entraide, Annonces, Initiatives"
 description: "69380 - ST JEAN DES VIGNES | Entraide, Annonces, Initiatives"

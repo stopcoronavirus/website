@@ -1,4 +1,3 @@
-
 ---
 title: "70800 - BASSIGNEY | Entraide, Annonces, Initiatives"
 description: "70800 - BASSIGNEY | Entraide, Annonces, Initiatives"

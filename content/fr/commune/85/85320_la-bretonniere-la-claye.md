@@ -1,4 +1,3 @@
-
 ---
 title: "85320 - LA BRETONNIERE LA CLAYE | Entraide, Annonces, Initiatives"
 description: "85320 - LA BRETONNIERE LA CLAYE | Entraide, Annonces, Initiatives"

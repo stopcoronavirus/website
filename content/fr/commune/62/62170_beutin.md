@@ -1,4 +1,3 @@
-
 ---
 title: "62170 - BEUTIN | Entraide, Annonces, Initiatives"
 description: "62170 - BEUTIN | Entraide, Annonces, Initiatives"

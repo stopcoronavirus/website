@@ -1,4 +1,3 @@
-
 ---
 title: "28360 - LUPLANTE | Entraide, Annonces, Initiatives"
 description: "28360 - LUPLANTE | Entraide, Annonces, Initiatives"

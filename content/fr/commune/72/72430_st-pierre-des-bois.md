@@ -1,4 +1,3 @@
-
 ---
 title: "72430 - ST PIERRE DES BOIS | Entraide, Annonces, Initiatives"
 description: "72430 - ST PIERRE DES BOIS | Entraide, Annonces, Initiatives"

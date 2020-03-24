@@ -1,4 +1,3 @@
-
 ---
 title: "14710 - LA FOLIE | Entraide, Annonces, Initiatives"
 description: "14710 - LA FOLIE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71240 - BEAUMONT SUR GROSNE | Entraide, Annonces, Initiatives"
 description: "71240 - BEAUMONT SUR GROSNE | Entraide, Annonces, Initiatives"

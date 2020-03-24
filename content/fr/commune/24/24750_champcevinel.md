@@ -1,4 +1,3 @@
-
 ---
 title: "24750 - CHAMPCEVINEL | Entraide, Annonces, Initiatives"
 description: "24750 - CHAMPCEVINEL | Entraide, Annonces, Initiatives"

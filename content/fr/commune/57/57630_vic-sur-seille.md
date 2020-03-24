@@ -1,4 +1,3 @@
-
 ---
 title: "57630 - VIC SUR SEILLE | Entraide, Annonces, Initiatives"
 description: "57630 - VIC SUR SEILLE | Entraide, Annonces, Initiatives"

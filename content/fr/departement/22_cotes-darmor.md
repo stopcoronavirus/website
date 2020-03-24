@@ -1,4 +1,3 @@
-
 ---
 title: "22 - Côtes-d'Armor"
 description: "22 - Côtes-d'Armor"

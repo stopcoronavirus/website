@@ -1,4 +1,3 @@
-
 ---
 title: "72210 - MAIGNE | Entraide, Annonces, Initiatives"
 description: "72210 - MAIGNE | Entraide, Annonces, Initiatives"

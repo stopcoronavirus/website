@@ -1,4 +1,3 @@
-
 ---
 title: "44490 - LE CROISIC | Entraide, Annonces, Initiatives"
 description: "44490 - LE CROISIC | Entraide, Annonces, Initiatives"

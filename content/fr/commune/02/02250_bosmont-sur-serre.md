@@ -1,4 +1,3 @@
-
 ---
 title: "02250 - BOSMONT SUR SERRE | Entraide, Annonces, Initiatives"
 description: "02250 - BOSMONT SUR SERRE | Entraide, Annonces, Initiatives"

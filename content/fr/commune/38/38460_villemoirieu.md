@@ -1,4 +1,3 @@
-
 ---
 title: "38460 - VILLEMOIRIEU | Entraide, Annonces, Initiatives"
 description: "38460 - VILLEMOIRIEU | Entraide, Annonces, Initiatives"

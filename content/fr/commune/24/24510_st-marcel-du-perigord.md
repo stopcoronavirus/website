@@ -1,4 +1,3 @@
-
 ---
 title: "24510 - ST MARCEL DU PERIGORD | Entraide, Annonces, Initiatives"
 description: "24510 - ST MARCEL DU PERIGORD | Entraide, Annonces, Initiatives"

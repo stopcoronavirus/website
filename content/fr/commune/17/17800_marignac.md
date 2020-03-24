@@ -1,4 +1,3 @@
-
 ---
 title: "17800 - MARIGNAC | Entraide, Annonces, Initiatives"
 description: "17800 - MARIGNAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "Liste des départements"
 description: "Liste des départements"

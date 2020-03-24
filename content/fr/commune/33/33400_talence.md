@@ -1,4 +1,3 @@
-
 ---
 title: "33400 - TALENCE | Entraide, Annonces, Initiatives"
 description: "33400 - TALENCE | Entraide, Annonces, Initiatives"

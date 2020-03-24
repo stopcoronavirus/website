@@ -1,4 +1,3 @@
-
 ---
 title: "20151 - CANNELLE | Entraide, Annonces, Initiatives"
 description: "20151 - CANNELLE | Entraide, Annonces, Initiatives"

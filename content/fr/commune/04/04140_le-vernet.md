@@ -1,4 +1,3 @@
-
 ---
 title: "04140 - LE VERNET | Entraide, Annonces, Initiatives"
 description: "04140 - LE VERNET | Entraide, Annonces, Initiatives"

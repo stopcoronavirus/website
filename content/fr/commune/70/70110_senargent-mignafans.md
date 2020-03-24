@@ -1,4 +1,3 @@
-
 ---
 title: "70110 - SENARGENT MIGNAFANS | Entraide, Annonces, Initiatives"
 description: "70110 - SENARGENT MIGNAFANS | Entraide, Annonces, Initiatives"

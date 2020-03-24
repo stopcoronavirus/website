@@ -1,4 +1,3 @@
-
 ---
 title: "87250 - BESSINES SUR GARTEMPE | Entraide, Annonces, Initiatives"
 description: "87250 - BESSINES SUR GARTEMPE | Entraide, Annonces, Initiatives"

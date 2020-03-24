@@ -1,4 +1,3 @@
-
 ---
 title: "65150 - BIZOUS | Entraide, Annonces, Initiatives"
 description: "65150 - BIZOUS | Entraide, Annonces, Initiatives"

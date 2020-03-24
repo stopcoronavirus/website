@@ -1,4 +1,3 @@
-
 ---
 title: "44660 - RUFFIGNE | Entraide, Annonces, Initiatives"
 description: "44660 - RUFFIGNE | Entraide, Annonces, Initiatives"

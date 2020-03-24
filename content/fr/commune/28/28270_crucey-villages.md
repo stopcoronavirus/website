@@ -1,4 +1,3 @@
-
 ---
 title: "28270 - CRUCEY VILLAGES | Entraide, Annonces, Initiatives"
 description: "28270 - CRUCEY VILLAGES | Entraide, Annonces, Initiatives"

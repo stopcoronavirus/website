@@ -1,4 +1,3 @@
-
 ---
 title: "88320 - SERECOURT | Entraide, Annonces, Initiatives"
 description: "88320 - SERECOURT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02130 - COULONGES COHAN | Entraide, Annonces, Initiatives"
 description: "02130 - COULONGES COHAN | Entraide, Annonces, Initiatives"

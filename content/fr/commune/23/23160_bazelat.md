@@ -1,4 +1,3 @@
-
 ---
 title: "23160 - BAZELAT | Entraide, Annonces, Initiatives"
 description: "23160 - BAZELAT | Entraide, Annonces, Initiatives"

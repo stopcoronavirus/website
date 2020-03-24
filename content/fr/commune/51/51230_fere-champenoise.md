@@ -1,4 +1,3 @@
-
 ---
 title: "51230 - FERE CHAMPENOISE | Entraide, Annonces, Initiatives"
 description: "51230 - FERE CHAMPENOISE | Entraide, Annonces, Initiatives"

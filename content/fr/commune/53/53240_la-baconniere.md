@@ -1,4 +1,3 @@
-
 ---
 title: "53240 - LA BACONNIERE | Entraide, Annonces, Initiatives"
 description: "53240 - LA BACONNIERE | Entraide, Annonces, Initiatives"

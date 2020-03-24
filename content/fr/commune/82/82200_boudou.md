@@ -1,4 +1,3 @@
-
 ---
 title: "82200 - BOUDOU | Entraide, Annonces, Initiatives"
 description: "82200 - BOUDOU | Entraide, Annonces, Initiatives"

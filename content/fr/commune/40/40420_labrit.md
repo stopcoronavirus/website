@@ -1,4 +1,3 @@
-
 ---
 title: "40420 - LABRIT | Entraide, Annonces, Initiatives"
 description: "40420 - LABRIT | Entraide, Annonces, Initiatives"

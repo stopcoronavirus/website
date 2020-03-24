@@ -1,4 +1,3 @@
-
 ---
 title: "71240 - GIGNY SUR SAONE | Entraide, Annonces, Initiatives"
 description: "71240 - GIGNY SUR SAONE | Entraide, Annonces, Initiatives"

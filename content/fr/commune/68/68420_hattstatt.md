@@ -1,4 +1,3 @@
-
 ---
 title: "68420 - HATTSTATT | Entraide, Annonces, Initiatives"
 description: "68420 - HATTSTATT | Entraide, Annonces, Initiatives"

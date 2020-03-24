@@ -1,4 +1,3 @@
-
 ---
 title: "11190 - RENNES LES BAINS | Entraide, Annonces, Initiatives"
 description: "11190 - RENNES LES BAINS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "11300 - MAGRIE | Entraide, Annonces, Initiatives"
 description: "11300 - MAGRIE | Entraide, Annonces, Initiatives"

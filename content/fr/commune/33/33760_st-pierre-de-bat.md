@@ -1,4 +1,3 @@
-
 ---
 title: "33760 - ST PIERRE DE BAT | Entraide, Annonces, Initiatives"
 description: "33760 - ST PIERRE DE BAT | Entraide, Annonces, Initiatives"

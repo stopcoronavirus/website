@@ -1,4 +1,3 @@
-
 ---
 title: "29630 - ST JEAN DU DOIGT | Entraide, Annonces, Initiatives"
 description: "29630 - ST JEAN DU DOIGT | Entraide, Annonces, Initiatives"

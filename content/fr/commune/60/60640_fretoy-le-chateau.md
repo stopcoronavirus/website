@@ -1,4 +1,3 @@
-
 ---
 title: "60640 - FRETOY LE CHATEAU | Entraide, Annonces, Initiatives"
 description: "60640 - FRETOY LE CHATEAU | Entraide, Annonces, Initiatives"

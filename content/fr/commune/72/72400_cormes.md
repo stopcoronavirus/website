@@ -1,4 +1,3 @@
-
 ---
 title: "72400 - CORMES | Entraide, Annonces, Initiatives"
 description: "72400 - CORMES | Entraide, Annonces, Initiatives"

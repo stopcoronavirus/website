@@ -1,4 +1,3 @@
-
 ---
 title: "71800 - VAUBAN | Entraide, Annonces, Initiatives"
 description: "71800 - VAUBAN | Entraide, Annonces, Initiatives"

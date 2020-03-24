@@ -1,4 +1,3 @@
-
 ---
 title: "02300 - BETHANCOURT EN VAUX | Entraide, Annonces, Initiatives"
 description: "02300 - BETHANCOURT EN VAUX | Entraide, Annonces, Initiatives"

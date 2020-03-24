@@ -1,4 +1,3 @@
-
 ---
 title: "12270 - BOR ET BAR | Entraide, Annonces, Initiatives"
 description: "12270 - BOR ET BAR | Entraide, Annonces, Initiatives"

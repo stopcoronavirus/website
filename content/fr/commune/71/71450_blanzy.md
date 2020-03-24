@@ -1,4 +1,3 @@
-
 ---
 title: "71450 - BLANZY | Entraide, Annonces, Initiatives"
 description: "71450 - BLANZY | Entraide, Annonces, Initiatives"

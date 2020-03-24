@@ -1,4 +1,3 @@
-
 ---
 title: "07160 - ST MICHEL D AURANCE | Entraide, Annonces, Initiatives"
 description: "07160 - ST MICHEL D AURANCE | Entraide, Annonces, Initiatives"

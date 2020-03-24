@@ -1,4 +1,3 @@
-
 ---
 title: "43150 - SALETTES | Entraide, Annonces, Initiatives"
 description: "43150 - SALETTES | Entraide, Annonces, Initiatives"

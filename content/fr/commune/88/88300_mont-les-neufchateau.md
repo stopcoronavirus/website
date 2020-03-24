@@ -1,4 +1,3 @@
-
 ---
 title: "88300 - MONT LES NEUFCHATEAU | Entraide, Annonces, Initiatives"
 description: "88300 - MONT LES NEUFCHATEAU | Entraide, Annonces, Initiatives"

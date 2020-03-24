@@ -1,4 +1,3 @@
-
 ---
 title: "87210 - LA BAZEUGE | Entraide, Annonces, Initiatives"
 description: "87210 - LA BAZEUGE | Entraide, Annonces, Initiatives"

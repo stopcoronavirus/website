@@ -1,4 +1,3 @@
-
 ---
 title: "38440 - BEAUVOIR DE MARC | Entraide, Annonces, Initiatives"
 description: "38440 - BEAUVOIR DE MARC | Entraide, Annonces, Initiatives"

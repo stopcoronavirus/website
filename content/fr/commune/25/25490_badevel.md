@@ -1,4 +1,3 @@
-
 ---
 title: "25490 - BADEVEL | Entraide, Annonces, Initiatives"
 description: "25490 - BADEVEL | Entraide, Annonces, Initiatives"

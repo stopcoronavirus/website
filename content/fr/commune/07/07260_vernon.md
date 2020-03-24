@@ -1,4 +1,3 @@
-
 ---
 title: "07260 - VERNON | Entraide, Annonces, Initiatives"
 description: "07260 - VERNON | Entraide, Annonces, Initiatives"

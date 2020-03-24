@@ -1,4 +1,3 @@
-
 ---
 title: "85600 - LA BOISSIERE DE MONTAIGU | Entraide, Annonces, Initiatives"
 description: "85600 - LA BOISSIERE DE MONTAIGU | Entraide, Annonces, Initiatives"

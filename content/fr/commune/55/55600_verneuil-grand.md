@@ -1,4 +1,3 @@
-
 ---
 title: "55600 - VERNEUIL GRAND | Entraide, Annonces, Initiatives"
 description: "55600 - VERNEUIL GRAND | Entraide, Annonces, Initiatives"

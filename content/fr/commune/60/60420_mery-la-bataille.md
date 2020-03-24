@@ -1,4 +1,3 @@
-
 ---
 title: "60420 - MERY LA BATAILLE | Entraide, Annonces, Initiatives"
 description: "60420 - MERY LA BATAILLE | Entraide, Annonces, Initiatives"

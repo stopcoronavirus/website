@@ -1,4 +1,3 @@
-
 ---
 title: "74740 - SIXT FER A CHEVAL | Entraide, Annonces, Initiatives"
 description: "74740 - SIXT FER A CHEVAL | Entraide, Annonces, Initiatives"

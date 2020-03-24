@@ -1,4 +1,3 @@
-
 ---
 title: "59265 - AUBIGNY AU BAC | Entraide, Annonces, Initiatives"
 description: "59265 - AUBIGNY AU BAC | Entraide, Annonces, Initiatives"

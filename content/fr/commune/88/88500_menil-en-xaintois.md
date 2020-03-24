@@ -1,4 +1,3 @@
-
 ---
 title: "88500 - MENIL EN XAINTOIS | Entraide, Annonces, Initiatives"
 description: "88500 - MENIL EN XAINTOIS | Entraide, Annonces, Initiatives"

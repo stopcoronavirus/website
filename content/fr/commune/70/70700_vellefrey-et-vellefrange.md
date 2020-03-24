@@ -1,4 +1,3 @@
-
 ---
 title: "70700 - VELLEFREY ET VELLEFRANGE | Entraide, Annonces, Initiatives"
 description: "70700 - VELLEFREY ET VELLEFRANGE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "24220 - COUX ET BIGAROQUE MOUZENS | Entraide, Annonces, Initiatives"
 description: "24220 - COUX ET BIGAROQUE MOUZENS | Entraide, Annonces, Initiatives"

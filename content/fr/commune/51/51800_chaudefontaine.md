@@ -1,4 +1,3 @@
-
 ---
 title: "51800 - CHAUDEFONTAINE | Entraide, Annonces, Initiatives"
 description: "51800 - CHAUDEFONTAINE | Entraide, Annonces, Initiatives"

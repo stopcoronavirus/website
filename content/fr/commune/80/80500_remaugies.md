@@ -1,4 +1,3 @@
-
 ---
 title: "80500 - REMAUGIES | Entraide, Annonces, Initiatives"
 description: "80500 - REMAUGIES | Entraide, Annonces, Initiatives"

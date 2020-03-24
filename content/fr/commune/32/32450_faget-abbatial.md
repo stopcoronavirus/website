@@ -1,4 +1,3 @@
-
 ---
 title: "32450 - FAGET ABBATIAL | Entraide, Annonces, Initiatives"
 description: "32450 - FAGET ABBATIAL | Entraide, Annonces, Initiatives"

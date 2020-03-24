@@ -1,4 +1,3 @@
-
 ---
 title: "72240 - TENNIE | Entraide, Annonces, Initiatives"
 description: "72240 - TENNIE | Entraide, Annonces, Initiatives"

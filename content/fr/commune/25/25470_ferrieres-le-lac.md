@@ -1,4 +1,3 @@
-
 ---
 title: "25470 - FERRIERES LE LAC | Entraide, Annonces, Initiatives"
 description: "25470 - FERRIERES LE LAC | Entraide, Annonces, Initiatives"

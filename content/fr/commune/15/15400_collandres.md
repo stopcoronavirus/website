@@ -1,4 +1,3 @@
-
 ---
 title: "15400 - COLLANDRES | Entraide, Annonces, Initiatives"
 description: "15400 - COLLANDRES | Entraide, Annonces, Initiatives"

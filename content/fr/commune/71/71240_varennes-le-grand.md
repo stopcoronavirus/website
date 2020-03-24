@@ -1,4 +1,3 @@
-
 ---
 title: "71240 - VARENNES LE GRAND | Entraide, Annonces, Initiatives"
 description: "71240 - VARENNES LE GRAND | Entraide, Annonces, Initiatives"

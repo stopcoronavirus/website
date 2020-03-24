@@ -1,4 +1,3 @@
-
 ---
 title: "85200 - ST MARTIN DE FRAIGNEAU | Entraide, Annonces, Initiatives"
 description: "85200 - ST MARTIN DE FRAIGNEAU | Entraide, Annonces, Initiatives"

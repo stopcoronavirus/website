@@ -1,4 +1,3 @@
-
 ---
 title: "11700 - COMIGNE | Entraide, Annonces, Initiatives"
 description: "11700 - COMIGNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20167 - VILLANOVA | Entraide, Annonces, Initiatives"
 description: "20167 - VILLANOVA | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "21130 - MAGNY MONTARLOT | Entraide, Annonces, Initiatives"
 description: "21130 - MAGNY MONTARLOT | Entraide, Annonces, Initiatives"

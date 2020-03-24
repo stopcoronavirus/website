@@ -1,4 +1,3 @@
-
 ---
 title: "53290 - BEAUMONT PIED DE BOEUF | Entraide, Annonces, Initiatives"
 description: "53290 - BEAUMONT PIED DE BOEUF | Entraide, Annonces, Initiatives"

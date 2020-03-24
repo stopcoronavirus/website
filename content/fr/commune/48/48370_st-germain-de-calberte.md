@@ -1,4 +1,3 @@
-
 ---
 title: "48370 - ST GERMAIN DE CALBERTE | Entraide, Annonces, Initiatives"
 description: "48370 - ST GERMAIN DE CALBERTE | Entraide, Annonces, Initiatives"

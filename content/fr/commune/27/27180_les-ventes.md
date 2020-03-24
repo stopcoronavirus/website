@@ -1,4 +1,3 @@
-
 ---
 title: "27180 - LES VENTES | Entraide, Annonces, Initiatives"
 description: "27180 - LES VENTES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "76940 - VATTEVILLE LA RUE | Entraide, Annonces, Initiatives"
 description: "76940 - VATTEVILLE LA RUE | Entraide, Annonces, Initiatives"

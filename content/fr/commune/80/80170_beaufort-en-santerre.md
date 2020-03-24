@@ -1,4 +1,3 @@
-
 ---
 title: "80170 - BEAUFORT EN SANTERRE | Entraide, Annonces, Initiatives"
 description: "80170 - BEAUFORT EN SANTERRE | Entraide, Annonces, Initiatives"

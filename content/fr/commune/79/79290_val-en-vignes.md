@@ -1,4 +1,3 @@
-
 ---
 title: "79290 - VAL EN VIGNES | Entraide, Annonces, Initiatives"
 description: "79290 - VAL EN VIGNES | Entraide, Annonces, Initiatives"

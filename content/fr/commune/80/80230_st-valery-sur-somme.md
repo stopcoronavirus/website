@@ -1,4 +1,3 @@
-
 ---
 title: "80230 - ST VALERY SUR SOMME | Entraide, Annonces, Initiatives"
 description: "80230 - ST VALERY SUR SOMME | Entraide, Annonces, Initiatives"

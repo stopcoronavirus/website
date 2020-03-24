@@ -1,4 +1,3 @@
-
 ---
 title: "80100 - ABBEVILLE | Entraide, Annonces, Initiatives"
 description: "80100 - ABBEVILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "15300 - SEGUR LES VILLAS | Entraide, Annonces, Initiatives"
 description: "15300 - SEGUR LES VILLAS | Entraide, Annonces, Initiatives"

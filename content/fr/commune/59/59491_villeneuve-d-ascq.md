@@ -1,4 +1,3 @@
-
 ---
 title: "59491 - VILLENEUVE D ASCQ | Entraide, Annonces, Initiatives"
 description: "59491 - VILLENEUVE D ASCQ | Entraide, Annonces, Initiatives"

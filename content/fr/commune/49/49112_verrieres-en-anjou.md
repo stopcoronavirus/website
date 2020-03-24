@@ -1,4 +1,3 @@
-
 ---
 title: "49112 - VERRIERES EN ANJOU | Entraide, Annonces, Initiatives"
 description: "49112 - VERRIERES EN ANJOU | Entraide, Annonces, Initiatives"

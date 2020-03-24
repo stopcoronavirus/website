@@ -1,4 +1,3 @@
-
 ---
 title: "62113 - VERQUIGNEUL | Entraide, Annonces, Initiatives"
 description: "62113 - VERQUIGNEUL | Entraide, Annonces, Initiatives"

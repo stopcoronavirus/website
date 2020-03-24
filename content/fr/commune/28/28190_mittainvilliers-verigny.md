@@ -1,4 +1,3 @@
-
 ---
 title: "28190 - MITTAINVILLIERS VERIGNY | Entraide, Annonces, Initiatives"
 description: "28190 - MITTAINVILLIERS VERIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "21580 - BARJON | Entraide, Annonces, Initiatives"
 description: "21580 - BARJON | Entraide, Annonces, Initiatives"

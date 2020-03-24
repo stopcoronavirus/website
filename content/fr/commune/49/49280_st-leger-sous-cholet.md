@@ -1,4 +1,3 @@
-
 ---
 title: "49280 - ST LEGER SOUS CHOLET | Entraide, Annonces, Initiatives"
 description: "49280 - ST LEGER SOUS CHOLET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "55260 - COURCELLES EN BARROIS | Entraide, Annonces, Initiatives"
 description: "55260 - COURCELLES EN BARROIS | Entraide, Annonces, Initiatives"

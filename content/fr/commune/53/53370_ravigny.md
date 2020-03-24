@@ -1,4 +1,3 @@
-
 ---
 title: "53370 - RAVIGNY | Entraide, Annonces, Initiatives"
 description: "53370 - RAVIGNY | Entraide, Annonces, Initiatives"

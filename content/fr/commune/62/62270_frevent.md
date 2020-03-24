@@ -1,4 +1,3 @@
-
 ---
 title: "62270 - FREVENT | Entraide, Annonces, Initiatives"
 description: "62270 - FREVENT | Entraide, Annonces, Initiatives"

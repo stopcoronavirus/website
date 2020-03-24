@@ -1,4 +1,3 @@
-
 ---
 title: "84240 - LA MOTTE D AIGUES | Entraide, Annonces, Initiatives"
 description: "84240 - LA MOTTE D AIGUES | Entraide, Annonces, Initiatives"

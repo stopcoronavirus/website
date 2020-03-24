@@ -1,4 +1,3 @@
-
 ---
 title: "39200 - COISERETTE | Entraide, Annonces, Initiatives"
 description: "39200 - COISERETTE | Entraide, Annonces, Initiatives"

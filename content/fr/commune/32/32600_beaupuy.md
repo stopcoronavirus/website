@@ -1,4 +1,3 @@
-
 ---
 title: "32600 - BEAUPUY | Entraide, Annonces, Initiatives"
 description: "32600 - BEAUPUY | Entraide, Annonces, Initiatives"

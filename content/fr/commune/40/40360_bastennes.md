@@ -1,4 +1,3 @@
-
 ---
 title: "40360 - BASTENNES | Entraide, Annonces, Initiatives"
 description: "40360 - BASTENNES | Entraide, Annonces, Initiatives"

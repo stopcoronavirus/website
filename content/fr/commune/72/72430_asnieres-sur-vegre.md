@@ -1,4 +1,3 @@
-
 ---
 title: "72430 - ASNIERES SUR VEGRE | Entraide, Annonces, Initiatives"
 description: "72430 - ASNIERES SUR VEGRE | Entraide, Annonces, Initiatives"

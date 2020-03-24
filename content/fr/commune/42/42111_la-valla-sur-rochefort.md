@@ -1,4 +1,3 @@
-
 ---
 title: "42111 - LA VALLA SUR ROCHEFORT | Entraide, Annonces, Initiatives"
 description: "42111 - LA VALLA SUR ROCHEFORT | Entraide, Annonces, Initiatives"

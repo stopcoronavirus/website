@@ -1,4 +1,3 @@
-
 ---
 title: "80220 - BOUILLANCOURT EN SERY | Entraide, Annonces, Initiatives"
 description: "80220 - BOUILLANCOURT EN SERY | Entraide, Annonces, Initiatives"

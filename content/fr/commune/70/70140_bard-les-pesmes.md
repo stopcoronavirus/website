@@ -1,4 +1,3 @@
-
 ---
 title: "70140 - BARD LES PESMES | Entraide, Annonces, Initiatives"
 description: "70140 - BARD LES PESMES | Entraide, Annonces, Initiatives"

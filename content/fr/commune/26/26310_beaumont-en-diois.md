@@ -1,4 +1,3 @@
-
 ---
 title: "26310 - BEAUMONT EN DIOIS | Entraide, Annonces, Initiatives"
 description: "26310 - BEAUMONT EN DIOIS | Entraide, Annonces, Initiatives"

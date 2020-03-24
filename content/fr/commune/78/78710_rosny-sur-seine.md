@@ -1,4 +1,3 @@
-
 ---
 title: "78710 - ROSNY SUR SEINE | Entraide, Annonces, Initiatives"
 description: "78710 - ROSNY SUR SEINE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "39100 - CHOISEY | Entraide, Annonces, Initiatives"
 description: "39100 - CHOISEY | Entraide, Annonces, Initiatives"

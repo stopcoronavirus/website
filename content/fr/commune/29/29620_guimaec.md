@@ -1,4 +1,3 @@
-
 ---
 title: "29620 - GUIMAEC | Entraide, Annonces, Initiatives"
 description: "29620 - GUIMAEC | Entraide, Annonces, Initiatives"

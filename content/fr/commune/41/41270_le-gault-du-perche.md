@@ -1,4 +1,3 @@
-
 ---
 title: "41270 - LE GAULT DU PERCHE | Entraide, Annonces, Initiatives"
 description: "41270 - LE GAULT DU PERCHE | Entraide, Annonces, Initiatives"

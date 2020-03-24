@@ -1,4 +1,3 @@
-
 ---
 title: "48160 - ST JULIEN DES POINTS | Entraide, Annonces, Initiatives"
 description: "48160 - ST JULIEN DES POINTS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "55800 - VASSINCOURT | Entraide, Annonces, Initiatives"
 description: "55800 - VASSINCOURT | Entraide, Annonces, Initiatives"

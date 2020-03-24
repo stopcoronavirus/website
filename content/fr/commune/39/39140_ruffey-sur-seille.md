@@ -1,4 +1,3 @@
-
 ---
 title: "39140 - RUFFEY SUR SEILLE | Entraide, Annonces, Initiatives"
 description: "39140 - RUFFEY SUR SEILLE | Entraide, Annonces, Initiatives"

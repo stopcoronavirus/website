@@ -1,4 +1,3 @@
-
 ---
 title: "26160 - LE POET LAVAL | Entraide, Annonces, Initiatives"
 description: "26160 - LE POET LAVAL | Entraide, Annonces, Initiatives"

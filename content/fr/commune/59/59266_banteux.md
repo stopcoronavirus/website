@@ -1,4 +1,3 @@
-
 ---
 title: "59266 - BANTEUX | Entraide, Annonces, Initiatives"
 description: "59266 - BANTEUX | Entraide, Annonces, Initiatives"

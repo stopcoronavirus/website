@@ -1,4 +1,3 @@
-
 ---
 title: "66400 - TAILLET | Entraide, Annonces, Initiatives"
 description: "66400 - TAILLET | Entraide, Annonces, Initiatives"

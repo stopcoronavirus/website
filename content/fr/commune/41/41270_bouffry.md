@@ -1,4 +1,3 @@
-
 ---
 title: "41270 - BOUFFRY | Entraide, Annonces, Initiatives"
 description: "41270 - BOUFFRY | Entraide, Annonces, Initiatives"

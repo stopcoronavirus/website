@@ -1,4 +1,3 @@
-
 ---
 title: "54700 - MAIDIERES | Entraide, Annonces, Initiatives"
 description: "54700 - MAIDIERES | Entraide, Annonces, Initiatives"

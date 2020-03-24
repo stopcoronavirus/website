@@ -1,4 +1,3 @@
-
 ---
 title: "18500 - BERRY BOUY | Entraide, Annonces, Initiatives"
 description: "18500 - BERRY BOUY | Entraide, Annonces, Initiatives"

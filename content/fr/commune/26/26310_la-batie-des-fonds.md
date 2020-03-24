@@ -1,4 +1,3 @@
-
 ---
 title: "26310 - LA BATIE DES FONDS | Entraide, Annonces, Initiatives"
 description: "26310 - LA BATIE DES FONDS | Entraide, Annonces, Initiatives"

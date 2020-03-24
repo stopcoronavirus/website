@@ -1,4 +1,3 @@
-
 ---
 title: "12250 - VIALA DU PAS DE JAUX | Entraide, Annonces, Initiatives"
 description: "12250 - VIALA DU PAS DE JAUX | Entraide, Annonces, Initiatives"

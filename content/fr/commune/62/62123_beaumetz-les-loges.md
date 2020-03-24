@@ -1,4 +1,3 @@
-
 ---
 title: "62123 - BEAUMETZ LES LOGES | Entraide, Annonces, Initiatives"
 description: "62123 - BEAUMETZ LES LOGES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "52360 - CELLES EN BASSIGNY | Entraide, Annonces, Initiatives"
 description: "52360 - CELLES EN BASSIGNY | Entraide, Annonces, Initiatives"

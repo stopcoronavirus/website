@@ -1,4 +1,3 @@
-
 ---
 title: "70400 - CREVANS ET LA CHAPELLE LES GRANGES | Entraide, Annonces, Initiatives"
 description: "70400 - CREVANS ET LA CHAPELLE LES GRANGES | Entraide, Annonces, Initiatives"

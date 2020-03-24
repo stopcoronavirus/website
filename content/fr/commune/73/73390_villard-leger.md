@@ -1,4 +1,3 @@
-
 ---
 title: "73390 - VILLARD LEGER | Entraide, Annonces, Initiatives"
 description: "73390 - VILLARD LEGER | Entraide, Annonces, Initiatives"

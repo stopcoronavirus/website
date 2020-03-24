@@ -1,4 +1,3 @@
-
 ---
 title: "20221 - CERVIONE | Entraide, Annonces, Initiatives"
 description: "20221 - CERVIONE | Entraide, Annonces, Initiatives"

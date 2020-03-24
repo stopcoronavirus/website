@@ -1,4 +1,3 @@
-
 ---
 title: "73170 - BILLIEME | Entraide, Annonces, Initiatives"
 description: "73170 - BILLIEME | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "45340 - BEAUNE LA ROLANDE | Entraide, Annonces, Initiatives"
 description: "45340 - BEAUNE LA ROLANDE | Entraide, Annonces, Initiatives"

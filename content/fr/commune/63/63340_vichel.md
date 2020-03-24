@@ -1,4 +1,3 @@
-
 ---
 title: "63340 - VICHEL | Entraide, Annonces, Initiatives"
 description: "63340 - VICHEL | Entraide, Annonces, Initiatives"

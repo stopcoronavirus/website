@@ -1,4 +1,3 @@
-
 ---
 title: "14340 - RUMESNIL | Entraide, Annonces, Initiatives"
 description: "14340 - RUMESNIL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "33114 - LE BARP | Entraide, Annonces, Initiatives"
 description: "33114 - LE BARP | Entraide, Annonces, Initiatives"

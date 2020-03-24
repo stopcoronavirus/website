@@ -1,4 +1,3 @@
-
 ---
 title: "34410 - SERIGNAN | Entraide, Annonces, Initiatives"
 description: "34410 - SERIGNAN | Entraide, Annonces, Initiatives"

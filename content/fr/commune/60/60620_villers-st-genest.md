@@ -1,4 +1,3 @@
-
 ---
 title: "60620 - VILLERS ST GENEST | Entraide, Annonces, Initiatives"
 description: "60620 - VILLERS ST GENEST | Entraide, Annonces, Initiatives"

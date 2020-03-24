@@ -1,4 +1,3 @@
-
 ---
 title: "63440 - MARCILLAT | Entraide, Annonces, Initiatives"
 description: "63440 - MARCILLAT | Entraide, Annonces, Initiatives"

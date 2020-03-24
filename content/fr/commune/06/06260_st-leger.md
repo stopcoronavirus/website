@@ -1,4 +1,3 @@
-
 ---
 title: "06260 - ST LEGER | Entraide, Annonces, Initiatives"
 description: "06260 - ST LEGER | Entraide, Annonces, Initiatives"

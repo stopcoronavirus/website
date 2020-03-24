@@ -1,4 +1,3 @@
-
 ---
 title: "11120 - VENTENAC EN MINERVOIS | Entraide, Annonces, Initiatives"
 description: "11120 - VENTENAC EN MINERVOIS | Entraide, Annonces, Initiatives"

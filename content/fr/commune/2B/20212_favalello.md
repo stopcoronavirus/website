@@ -1,4 +1,3 @@
-
 ---
 title: "20212 - FAVALELLO | Entraide, Annonces, Initiatives"
 description: "20212 - FAVALELLO | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20165 - LORETO DI TALLANO | Entraide, Annonces, Initiatives"
 description: "20165 - LORETO DI TALLANO | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60550 - VERNEUIL EN HALATTE | Entraide, Annonces, Initiatives"
 description: "60550 - VERNEUIL EN HALATTE | Entraide, Annonces, Initiatives"

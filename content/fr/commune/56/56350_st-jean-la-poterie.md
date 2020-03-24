@@ -1,4 +1,3 @@
-
 ---
 title: "56350 - ST JEAN LA POTERIE | Entraide, Annonces, Initiatives"
 description: "56350 - ST JEAN LA POTERIE | Entraide, Annonces, Initiatives"

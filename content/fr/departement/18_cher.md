@@ -1,4 +1,3 @@
-
 ---
 title: "18 - Cher"
 description: "18 - Cher"

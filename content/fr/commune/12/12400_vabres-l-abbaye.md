@@ -1,4 +1,3 @@
-
 ---
 title: "12400 - VABRES L ABBAYE | Entraide, Annonces, Initiatives"
 description: "12400 - VABRES L ABBAYE | Entraide, Annonces, Initiatives"

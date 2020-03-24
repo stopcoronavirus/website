@@ -1,4 +1,3 @@
-
 ---
 title: "41120 - CANDE SUR BEUVRON | Entraide, Annonces, Initiatives"
 description: "41120 - CANDE SUR BEUVRON | Entraide, Annonces, Initiatives"

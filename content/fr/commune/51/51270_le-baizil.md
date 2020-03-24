@@ -1,4 +1,3 @@
-
 ---
 title: "51270 - LE BAIZIL | Entraide, Annonces, Initiatives"
 description: "51270 - LE BAIZIL | Entraide, Annonces, Initiatives"

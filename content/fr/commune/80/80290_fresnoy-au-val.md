@@ -1,4 +1,3 @@
-
 ---
 title: "80290 - FRESNOY AU VAL | Entraide, Annonces, Initiatives"
 description: "80290 - FRESNOY AU VAL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "78650 - BEYNES | Entraide, Annonces, Initiatives"
 description: "78650 - BEYNES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "79700 - LA PETITE BOISSIERE | Entraide, Annonces, Initiatives"
 description: "79700 - LA PETITE BOISSIERE | Entraide, Annonces, Initiatives"

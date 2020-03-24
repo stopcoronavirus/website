@@ -1,4 +1,3 @@
-
 ---
 title: "38470 - QUINCIEU | Entraide, Annonces, Initiatives"
 description: "38470 - QUINCIEU | Entraide, Annonces, Initiatives"

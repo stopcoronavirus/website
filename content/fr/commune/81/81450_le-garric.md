@@ -1,4 +1,3 @@
-
 ---
 title: "81450 - LE GARRIC | Entraide, Annonces, Initiatives"
 description: "81450 - LE GARRIC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "39250 - LA LATETTE | Entraide, Annonces, Initiatives"
 description: "39250 - LA LATETTE | Entraide, Annonces, Initiatives"

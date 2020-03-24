@@ -1,4 +1,3 @@
-
 ---
 title: "07440 - BOFFRES | Entraide, Annonces, Initiatives"
 description: "07440 - BOFFRES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "73590 - LA GIETTAZ | Entraide, Annonces, Initiatives"
 description: "73590 - LA GIETTAZ | Entraide, Annonces, Initiatives"

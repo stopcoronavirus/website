@@ -1,4 +1,3 @@
-
 ---
 title: "02870 - BUCY LES CERNY | Entraide, Annonces, Initiatives"
 description: "02870 - BUCY LES CERNY | Entraide, Annonces, Initiatives"

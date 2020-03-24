@@ -1,4 +1,3 @@
-
 ---
 title: "61100 - LA CHAPELLE BICHE | Entraide, Annonces, Initiatives"
 description: "61100 - LA CHAPELLE BICHE | Entraide, Annonces, Initiatives"

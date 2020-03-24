@@ -1,4 +1,3 @@
-
 ---
 title: "44430 - LA BOISSIERE DU DORE | Entraide, Annonces, Initiatives"
 description: "44430 - LA BOISSIERE DU DORE | Entraide, Annonces, Initiatives"

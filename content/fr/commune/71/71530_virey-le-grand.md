@@ -1,4 +1,3 @@
-
 ---
 title: "71530 - VIREY LE GRAND | Entraide, Annonces, Initiatives"
 description: "71530 - VIREY LE GRAND | Entraide, Annonces, Initiatives"

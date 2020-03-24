@@ -1,4 +1,3 @@
-
 ---
 title: "23260 - LA VILLETELLE | Entraide, Annonces, Initiatives"
 description: "23260 - LA VILLETELLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "53170 - LA CROPTE | Entraide, Annonces, Initiatives"
 description: "53170 - LA CROPTE | Entraide, Annonces, Initiatives"

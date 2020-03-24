@@ -1,4 +1,3 @@
-
 ---
 title: "69480 - LACHASSAGNE | Entraide, Annonces, Initiatives"
 description: "69480 - LACHASSAGNE | Entraide, Annonces, Initiatives"

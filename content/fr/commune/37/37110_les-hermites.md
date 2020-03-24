@@ -1,4 +1,3 @@
-
 ---
 title: "37110 - LES HERMITES | Entraide, Annonces, Initiatives"
 description: "37110 - LES HERMITES | Entraide, Annonces, Initiatives"

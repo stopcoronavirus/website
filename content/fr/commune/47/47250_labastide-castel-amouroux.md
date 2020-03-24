@@ -1,4 +1,3 @@
-
 ---
 title: "47250 - LABASTIDE CASTEL AMOUROUX | Entraide, Annonces, Initiatives"
 description: "47250 - LABASTIDE CASTEL AMOUROUX | Entraide, Annonces, Initiatives"

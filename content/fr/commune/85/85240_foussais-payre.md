@@ -1,4 +1,3 @@
-
 ---
 title: "85240 - FOUSSAIS PAYRE | Entraide, Annonces, Initiatives"
 description: "85240 - FOUSSAIS PAYRE | Entraide, Annonces, Initiatives"

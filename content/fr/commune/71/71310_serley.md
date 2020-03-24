@@ -1,4 +1,3 @@
-
 ---
 title: "71310 - SERLEY | Entraide, Annonces, Initiatives"
 description: "71310 - SERLEY | Entraide, Annonces, Initiatives"

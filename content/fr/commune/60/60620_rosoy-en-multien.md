@@ -1,4 +1,3 @@
-
 ---
 title: "60620 - ROSOY EN MULTIEN | Entraide, Annonces, Initiatives"
 description: "60620 - ROSOY EN MULTIEN | Entraide, Annonces, Initiatives"

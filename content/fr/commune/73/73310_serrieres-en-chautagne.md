@@ -1,4 +1,3 @@
-
 ---
 title: "73310 - SERRIERES EN CHAUTAGNE | Entraide, Annonces, Initiatives"
 description: "73310 - SERRIERES EN CHAUTAGNE | Entraide, Annonces, Initiatives"

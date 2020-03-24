@@ -1,4 +1,3 @@
-
 ---
 title: "60190 - BAILLEUL LE SOC | Entraide, Annonces, Initiatives"
 description: "60190 - BAILLEUL LE SOC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "52140 - IS EN BASSIGNY | Entraide, Annonces, Initiatives"
 description: "52140 - IS EN BASSIGNY | Entraide, Annonces, Initiatives"

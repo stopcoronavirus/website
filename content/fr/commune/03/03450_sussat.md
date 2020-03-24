@@ -1,4 +1,3 @@
-
 ---
 title: "03450 - SUSSAT | Entraide, Annonces, Initiatives"
 description: "03450 - SUSSAT | Entraide, Annonces, Initiatives"

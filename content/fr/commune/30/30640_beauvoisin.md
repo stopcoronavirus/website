@@ -1,4 +1,3 @@
-
 ---
 title: "30640 - BEAUVOISIN | Entraide, Annonces, Initiatives"
 description: "30640 - BEAUVOISIN | Entraide, Annonces, Initiatives"

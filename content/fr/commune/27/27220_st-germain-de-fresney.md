@@ -1,4 +1,3 @@
-
 ---
 title: "27220 - ST GERMAIN DE FRESNEY | Entraide, Annonces, Initiatives"
 description: "27220 - ST GERMAIN DE FRESNEY | Entraide, Annonces, Initiatives"

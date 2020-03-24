@@ -1,4 +1,3 @@
-
 ---
 title: "22160 - CARNOET | Entraide, Annonces, Initiatives"
 description: "22160 - CARNOET | Entraide, Annonces, Initiatives"

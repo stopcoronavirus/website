@@ -1,4 +1,3 @@
-
 ---
 title: "60800 - CREPY EN VALOIS | Entraide, Annonces, Initiatives"
 description: "60800 - CREPY EN VALOIS | Entraide, Annonces, Initiatives"

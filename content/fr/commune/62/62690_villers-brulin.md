@@ -1,4 +1,3 @@
-
 ---
 title: "62690 - VILLERS BRULIN | Entraide, Annonces, Initiatives"
 description: "62690 - VILLERS BRULIN | Entraide, Annonces, Initiatives"

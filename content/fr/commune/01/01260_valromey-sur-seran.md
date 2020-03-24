@@ -1,4 +1,3 @@
-
 ---
 title: "01260 - VALROMEY SUR SERAN | Entraide, Annonces, Initiatives"
 description: "01260 - VALROMEY SUR SERAN | Entraide, Annonces, Initiatives"

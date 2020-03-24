@@ -1,4 +1,3 @@
-
 ---
 title: "85660 - ST PHILBERT DE BOUAINE | Entraide, Annonces, Initiatives"
 description: "85660 - ST PHILBERT DE BOUAINE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "05350 - ST VERAN | Entraide, Annonces, Initiatives"
 description: "05350 - ST VERAN | Entraide, Annonces, Initiatives"

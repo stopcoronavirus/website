@@ -1,4 +1,3 @@
-
 ---
 title: "42670 - ST GERMAIN LA MONTAGNE | Entraide, Annonces, Initiatives"
 description: "42670 - ST GERMAIN LA MONTAGNE | Entraide, Annonces, Initiatives"

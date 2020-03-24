@@ -1,4 +1,3 @@
-
 ---
 title: "20226 - NOVELLA | Entraide, Annonces, Initiatives"
 description: "20226 - NOVELLA | Entraide, Annonces, Initiatives"

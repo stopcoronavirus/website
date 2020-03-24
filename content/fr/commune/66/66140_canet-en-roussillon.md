@@ -1,4 +1,3 @@
-
 ---
 title: "66140 - CANET EN ROUSSILLON | Entraide, Annonces, Initiatives"
 description: "66140 - CANET EN ROUSSILLON | Entraide, Annonces, Initiatives"

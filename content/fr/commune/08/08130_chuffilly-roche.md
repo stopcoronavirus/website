@@ -1,4 +1,3 @@
-
 ---
 title: "08130 - CHUFFILLY ROCHE | Entraide, Annonces, Initiatives"
 description: "08130 - CHUFFILLY ROCHE | Entraide, Annonces, Initiatives"

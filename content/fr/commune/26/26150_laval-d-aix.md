@@ -1,4 +1,3 @@
-
 ---
 title: "26150 - LAVAL D AIX | Entraide, Annonces, Initiatives"
 description: "26150 - LAVAL D AIX | Entraide, Annonces, Initiatives"

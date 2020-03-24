@@ -1,4 +1,3 @@
-
 ---
 title: "10260 - CHAPPES | Entraide, Annonces, Initiatives"
 description: "10260 - CHAPPES | Entraide, Annonces, Initiatives"

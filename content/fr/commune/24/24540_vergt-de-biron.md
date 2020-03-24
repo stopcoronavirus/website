@@ -1,4 +1,3 @@
-
 ---
 title: "24540 - VERGT DE BIRON | Entraide, Annonces, Initiatives"
 description: "24540 - VERGT DE BIRON | Entraide, Annonces, Initiatives"

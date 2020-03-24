@@ -1,4 +1,3 @@
-
 ---
 title: "33350 - CASTILLON LA BATAILLE | Entraide, Annonces, Initiatives"
 description: "33350 - CASTILLON LA BATAILLE | Entraide, Annonces, Initiatives"

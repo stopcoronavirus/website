@@ -1,4 +1,3 @@
-
 ---
 title: "72200 - BAZOUGES CRE SUR LOIR | Entraide, Annonces, Initiatives"
 description: "72200 - BAZOUGES CRE SUR LOIR | Entraide, Annonces, Initiatives"

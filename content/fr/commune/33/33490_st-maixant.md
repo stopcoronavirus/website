@@ -1,4 +1,3 @@
-
 ---
 title: "33490 - ST MAIXANT | Entraide, Annonces, Initiatives"
 description: "33490 - ST MAIXANT | Entraide, Annonces, Initiatives"

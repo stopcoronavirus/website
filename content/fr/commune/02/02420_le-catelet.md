@@ -1,4 +1,3 @@
-
 ---
 title: "02420 - LE CATELET | Entraide, Annonces, Initiatives"
 description: "02420 - LE CATELET | Entraide, Annonces, Initiatives"

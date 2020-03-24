@@ -1,4 +1,3 @@
-
 ---
 title: "86360 - CHASSENEUIL DU POITOU | Entraide, Annonces, Initiatives"
 description: "86360 - CHASSENEUIL DU POITOU | Entraide, Annonces, Initiatives"

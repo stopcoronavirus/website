@@ -1,4 +1,3 @@
-
 ---
 title: "06710 - MASSOINS | Entraide, Annonces, Initiatives"
 description: "06710 - MASSOINS | Entraide, Annonces, Initiatives"

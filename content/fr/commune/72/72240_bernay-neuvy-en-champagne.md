@@ -1,4 +1,3 @@
-
 ---
 title: "72240 - BERNAY NEUVY EN CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "72240 - BERNAY NEUVY EN CHAMPAGNE | Entraide, Annonces, Initiatives"

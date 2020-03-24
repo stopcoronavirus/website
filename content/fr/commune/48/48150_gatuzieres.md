@@ -1,4 +1,3 @@
-
 ---
 title: "48150 - GATUZIERES | Entraide, Annonces, Initiatives"
 description: "48150 - GATUZIERES | Entraide, Annonces, Initiatives"

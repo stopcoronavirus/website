@@ -1,4 +1,3 @@
-
 ---
 title: "63110 - BEAUMONT | Entraide, Annonces, Initiatives"
 description: "63110 - BEAUMONT | Entraide, Annonces, Initiatives"

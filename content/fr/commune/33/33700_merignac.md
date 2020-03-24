@@ -1,4 +1,3 @@
-
 ---
 title: "33700 - MERIGNAC | Entraide, Annonces, Initiatives"
 description: "33700 - MERIGNAC | Entraide, Annonces, Initiatives"

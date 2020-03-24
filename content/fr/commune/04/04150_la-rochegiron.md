@@ -1,4 +1,3 @@
-
 ---
 title: "04150 - LA ROCHEGIRON | Entraide, Annonces, Initiatives"
 description: "04150 - LA ROCHEGIRON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "36100 - LA CHAMPENOISE | Entraide, Annonces, Initiatives"
 description: "36100 - LA CHAMPENOISE | Entraide, Annonces, Initiatives"

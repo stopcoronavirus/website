@@ -1,4 +1,3 @@
-
 ---
 title: "63790 - ST VICTOR LA RIVIERE | Entraide, Annonces, Initiatives"
 description: "63790 - ST VICTOR LA RIVIERE | Entraide, Annonces, Initiatives"

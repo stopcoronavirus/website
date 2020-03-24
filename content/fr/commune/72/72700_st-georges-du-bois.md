@@ -1,4 +1,3 @@
-
 ---
 title: "72700 - ST GEORGES DU BOIS | Entraide, Annonces, Initiatives"
 description: "72700 - ST GEORGES DU BOIS | Entraide, Annonces, Initiatives"

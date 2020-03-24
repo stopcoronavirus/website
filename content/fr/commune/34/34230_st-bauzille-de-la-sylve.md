@@ -1,4 +1,3 @@
-
 ---
 title: "34230 - ST BAUZILLE DE LA SYLVE | Entraide, Annonces, Initiatives"
 description: "34230 - ST BAUZILLE DE LA SYLVE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60850 - ST GERMER DE FLY | Entraide, Annonces, Initiatives"
 description: "60850 - ST GERMER DE FLY | Entraide, Annonces, Initiatives"

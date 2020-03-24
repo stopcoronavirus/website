@@ -1,4 +1,3 @@
-
 ---
 title: "08240 - BRIQUENAY | Entraide, Annonces, Initiatives"
 description: "08240 - BRIQUENAY | Entraide, Annonces, Initiatives"

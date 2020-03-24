@@ -1,4 +1,3 @@
-
 ---
 title: "39700 - LAVANS LES DOLE | Entraide, Annonces, Initiatives"
 description: "39700 - LAVANS LES DOLE | Entraide, Annonces, Initiatives"

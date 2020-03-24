@@ -1,4 +1,3 @@
-
 ---
 title: "74290 - VEYRIER DU LAC | Entraide, Annonces, Initiatives"
 description: "74290 - VEYRIER DU LAC | Entraide, Annonces, Initiatives"

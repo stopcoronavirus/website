@@ -1,4 +1,3 @@
-
 ---
 title: "69790 - ST IGNY DE VERS | Entraide, Annonces, Initiatives"
 description: "69790 - ST IGNY DE VERS | Entraide, Annonces, Initiatives"

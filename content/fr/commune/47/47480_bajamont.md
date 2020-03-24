@@ -1,4 +1,3 @@
-
 ---
 title: "47480 - BAJAMONT | Entraide, Annonces, Initiatives"
 description: "47480 - BAJAMONT | Entraide, Annonces, Initiatives"

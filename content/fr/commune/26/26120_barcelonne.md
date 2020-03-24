@@ -1,4 +1,3 @@
-
 ---
 title: "26120 - BARCELONNE | Entraide, Annonces, Initiatives"
 description: "26120 - BARCELONNE | Entraide, Annonces, Initiatives"

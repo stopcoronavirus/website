@@ -1,4 +1,3 @@
-
 ---
 title: "65190 - BORDES | Entraide, Annonces, Initiatives"
 description: "65190 - BORDES | Entraide, Annonces, Initiatives"

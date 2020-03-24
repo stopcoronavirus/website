@@ -1,4 +1,3 @@
-
 ---
 title: "86000 - POITIERS | Entraide, Annonces, Initiatives"
 description: "86000 - POITIERS | Entraide, Annonces, Initiatives"

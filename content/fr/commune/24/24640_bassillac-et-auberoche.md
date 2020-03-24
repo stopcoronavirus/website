@@ -1,4 +1,3 @@
-
 ---
 title: "24640 - BASSILLAC ET AUBEROCHE | Entraide, Annonces, Initiatives"
 description: "24640 - BASSILLAC ET AUBEROCHE | Entraide, Annonces, Initiatives"

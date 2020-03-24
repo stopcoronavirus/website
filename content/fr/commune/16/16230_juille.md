@@ -1,4 +1,3 @@
-
 ---
 title: "16230 - JUILLE | Entraide, Annonces, Initiatives"
 description: "16230 - JUILLE | Entraide, Annonces, Initiatives"

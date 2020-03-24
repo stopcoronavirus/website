@@ -1,4 +1,3 @@
-
 ---
 title: "80680 - GRATTEPANCHE | Entraide, Annonces, Initiatives"
 description: "80680 - GRATTEPANCHE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "33110 - LE BOUSCAT | Entraide, Annonces, Initiatives"
 description: "33110 - LE BOUSCAT | Entraide, Annonces, Initiatives"

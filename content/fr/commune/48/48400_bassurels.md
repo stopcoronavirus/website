@@ -1,4 +1,3 @@
-
 ---
 title: "48400 - BASSURELS | Entraide, Annonces, Initiatives"
 description: "48400 - BASSURELS | Entraide, Annonces, Initiatives"

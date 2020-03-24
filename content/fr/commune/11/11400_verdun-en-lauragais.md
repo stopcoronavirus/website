@@ -1,4 +1,3 @@
-
 ---
 title: "11400 - VERDUN EN LAURAGAIS | Entraide, Annonces, Initiatives"
 description: "11400 - VERDUN EN LAURAGAIS | Entraide, Annonces, Initiatives"

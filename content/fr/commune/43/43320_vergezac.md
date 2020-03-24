@@ -1,4 +1,3 @@
-
 ---
 title: "43320 - VERGEZAC | Entraide, Annonces, Initiatives"
 description: "43320 - VERGEZAC | Entraide, Annonces, Initiatives"

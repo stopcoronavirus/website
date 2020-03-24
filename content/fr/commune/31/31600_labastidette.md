@@ -1,4 +1,3 @@
-
 ---
 title: "31600 - LABASTIDETTE | Entraide, Annonces, Initiatives"
 description: "31600 - LABASTIDETTE | Entraide, Annonces, Initiatives"

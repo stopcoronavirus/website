@@ -1,4 +1,3 @@
-
 ---
 title: "19300 - MOUSTIER VENTADOUR | Entraide, Annonces, Initiatives"
 description: "19300 - MOUSTIER VENTADOUR | Entraide, Annonces, Initiatives"

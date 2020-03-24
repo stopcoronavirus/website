@@ -1,4 +1,3 @@
-
 ---
 title: "67270 - HOHFRANKENHEIM | Entraide, Annonces, Initiatives"
 description: "67270 - HOHFRANKENHEIM | Entraide, Annonces, Initiatives"

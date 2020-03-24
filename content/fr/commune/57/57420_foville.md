@@ -1,4 +1,3 @@
-
 ---
 title: "57420 - FOVILLE | Entraide, Annonces, Initiatives"
 description: "57420 - FOVILLE | Entraide, Annonces, Initiatives"

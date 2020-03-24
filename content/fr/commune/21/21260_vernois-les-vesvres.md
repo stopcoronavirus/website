@@ -1,4 +1,3 @@
-
 ---
 title: "21260 - VERNOIS LES VESVRES | Entraide, Annonces, Initiatives"
 description: "21260 - VERNOIS LES VESVRES | Entraide, Annonces, Initiatives"

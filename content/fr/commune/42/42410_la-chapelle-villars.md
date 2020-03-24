@@ -1,4 +1,3 @@
-
 ---
 title: "42410 - LA CHAPELLE VILLARS | Entraide, Annonces, Initiatives"
 description: "42410 - LA CHAPELLE VILLARS | Entraide, Annonces, Initiatives"

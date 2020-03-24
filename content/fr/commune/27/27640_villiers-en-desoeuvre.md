@@ -1,4 +1,3 @@
-
 ---
 title: "27640 - VILLIERS EN DESOEUVRE | Entraide, Annonces, Initiatives"
 description: "27640 - VILLIERS EN DESOEUVRE | Entraide, Annonces, Initiatives"

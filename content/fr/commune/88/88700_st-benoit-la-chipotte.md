@@ -1,4 +1,3 @@
-
 ---
 title: "88700 - ST BENOIT LA CHIPOTTE | Entraide, Annonces, Initiatives"
 description: "88700 - ST BENOIT LA CHIPOTTE | Entraide, Annonces, Initiatives"

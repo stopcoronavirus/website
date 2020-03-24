@@ -1,4 +1,3 @@
-
 ---
 title: "54280 - MONCEL SUR SEILLE | Entraide, Annonces, Initiatives"
 description: "54280 - MONCEL SUR SEILLE | Entraide, Annonces, Initiatives"

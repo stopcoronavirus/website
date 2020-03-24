@@ -1,4 +1,3 @@
-
 ---
 title: "38970 - LA SALETTE FALLAVAUX | Entraide, Annonces, Initiatives"
 description: "38970 - LA SALETTE FALLAVAUX | Entraide, Annonces, Initiatives"

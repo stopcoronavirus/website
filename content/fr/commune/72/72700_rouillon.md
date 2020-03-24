@@ -1,4 +1,3 @@
-
 ---
 title: "72700 - ROUILLON | Entraide, Annonces, Initiatives"
 description: "72700 - ROUILLON | Entraide, Annonces, Initiatives"

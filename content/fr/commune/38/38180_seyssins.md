@@ -1,4 +1,3 @@
-
 ---
 title: "38180 - SEYSSINS | Entraide, Annonces, Initiatives"
 description: "38180 - SEYSSINS | Entraide, Annonces, Initiatives"

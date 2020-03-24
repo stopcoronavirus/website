@@ -1,4 +1,3 @@
-
 ---
 title: "28310 - JANVILLE EN BEAUCE | Entraide, Annonces, Initiatives"
 description: "28310 - JANVILLE EN BEAUCE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "17140 - LAGORD | Entraide, Annonces, Initiatives"
 description: "17140 - LAGORD | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "69930 - ST CLEMENT LES PLACES | Entraide, Annonces, Initiatives"
 description: "69930 - ST CLEMENT LES PLACES | Entraide, Annonces, Initiatives"

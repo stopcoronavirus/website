@@ -1,4 +1,3 @@
-
 ---
 title: "24350 - DOUCHAPT | Entraide, Annonces, Initiatives"
 description: "24350 - DOUCHAPT | Entraide, Annonces, Initiatives"

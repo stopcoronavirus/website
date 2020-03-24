@@ -1,4 +1,3 @@
-
 ---
 title: "54120 - VAXAINVILLE | Entraide, Annonces, Initiatives"
 description: "54120 - VAXAINVILLE | Entraide, Annonces, Initiatives"

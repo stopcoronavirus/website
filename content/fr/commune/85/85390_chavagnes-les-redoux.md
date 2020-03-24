@@ -1,4 +1,3 @@
-
 ---
 title: "85390 - CHAVAGNES LES REDOUX | Entraide, Annonces, Initiatives"
 description: "85390 - CHAVAGNES LES REDOUX | Entraide, Annonces, Initiatives"

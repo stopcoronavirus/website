@@ -1,4 +1,3 @@
-
 ---
 title: "01560 - MANTENAY MONTLIN | Entraide, Annonces, Initiatives"
 description: "01560 - MANTENAY MONTLIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "95780 - LA ROCHE GUYON | Entraide, Annonces, Initiatives"
 description: "95780 - LA ROCHE GUYON | Entraide, Annonces, Initiatives"

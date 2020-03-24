@@ -1,4 +1,3 @@
-
 ---
 title: "21120 - VERNOT | Entraide, Annonces, Initiatives"
 description: "21120 - VERNOT | Entraide, Annonces, Initiatives"

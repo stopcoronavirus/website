@@ -1,4 +1,3 @@
-
 ---
 title: "28340 - LA CHAPELLE FORTIN | Entraide, Annonces, Initiatives"
 description: "28340 - LA CHAPELLE FORTIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "27300 - ST LEGER DE ROTES | Entraide, Annonces, Initiatives"
 description: "27300 - ST LEGER DE ROTES | Entraide, Annonces, Initiatives"

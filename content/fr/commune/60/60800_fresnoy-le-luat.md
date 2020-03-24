@@ -1,4 +1,3 @@
-
 ---
 title: "60800 - FRESNOY LE LUAT | Entraide, Annonces, Initiatives"
 description: "60800 - FRESNOY LE LUAT | Entraide, Annonces, Initiatives"

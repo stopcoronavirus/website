@@ -1,4 +1,3 @@
-
 ---
 title: "69170 - ST CLEMENT SUR VALSONNE | Entraide, Annonces, Initiatives"
 description: "69170 - ST CLEMENT SUR VALSONNE | Entraide, Annonces, Initiatives"

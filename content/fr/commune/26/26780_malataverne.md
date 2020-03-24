@@ -1,4 +1,3 @@
-
 ---
 title: "26780 - MALATAVERNE | Entraide, Annonces, Initiatives"
 description: "26780 - MALATAVERNE | Entraide, Annonces, Initiatives"

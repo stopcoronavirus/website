@@ -1,4 +1,3 @@
-
 ---
 title: "61230 - LA FRESNAIE FAYEL | Entraide, Annonces, Initiatives"
 description: "61230 - LA FRESNAIE FAYEL | Entraide, Annonces, Initiatives"

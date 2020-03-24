@@ -1,4 +1,3 @@
-
 ---
 title: "04000 - LA JAVIE | Entraide, Annonces, Initiatives"
 description: "04000 - LA JAVIE | Entraide, Annonces, Initiatives"

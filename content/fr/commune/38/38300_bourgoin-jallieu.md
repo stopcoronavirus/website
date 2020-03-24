@@ -1,4 +1,3 @@
-
 ---
 title: "38300 - BOURGOIN JALLIEU | Entraide, Annonces, Initiatives"
 description: "38300 - BOURGOIN JALLIEU | Entraide, Annonces, Initiatives"

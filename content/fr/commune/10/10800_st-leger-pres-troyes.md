@@ -1,4 +1,3 @@
-
 ---
 title: "10800 - ST LEGER PRES TROYES | Entraide, Annonces, Initiatives"
 description: "10800 - ST LEGER PRES TROYES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20234 - NOVALE | Entraide, Annonces, Initiatives"
 description: "20234 - NOVALE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "53700 - VILLAINES LA JUHEL | Entraide, Annonces, Initiatives"
 description: "53700 - VILLAINES LA JUHEL | Entraide, Annonces, Initiatives"

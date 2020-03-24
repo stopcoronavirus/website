@@ -1,4 +1,3 @@
-
 ---
 title: "59294 - HAUSSY | Entraide, Annonces, Initiatives"
 description: "59294 - HAUSSY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "23350 - LA CELLETTE | Entraide, Annonces, Initiatives"
 description: "23350 - LA CELLETTE | Entraide, Annonces, Initiatives"

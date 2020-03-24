@@ -1,4 +1,3 @@
-
 ---
 title: "10240 - VERRICOURT | Entraide, Annonces, Initiatives"
 description: "10240 - VERRICOURT | Entraide, Annonces, Initiatives"

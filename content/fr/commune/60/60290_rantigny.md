@@ -1,4 +1,3 @@
-
 ---
 title: "60290 - RANTIGNY | Entraide, Annonces, Initiatives"
 description: "60290 - RANTIGNY | Entraide, Annonces, Initiatives"

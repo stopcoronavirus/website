@@ -1,4 +1,3 @@
-
 ---
 title: "18260 - ASSIGNY | Entraide, Annonces, Initiatives"
 description: "18260 - ASSIGNY | Entraide, Annonces, Initiatives"

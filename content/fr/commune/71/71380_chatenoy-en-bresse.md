@@ -1,4 +1,3 @@
-
 ---
 title: "71380 - CHATENOY EN BRESSE | Entraide, Annonces, Initiatives"
 description: "71380 - CHATENOY EN BRESSE | Entraide, Annonces, Initiatives"

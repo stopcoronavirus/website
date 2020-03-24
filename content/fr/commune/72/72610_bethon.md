@@ -1,4 +1,3 @@
-
 ---
 title: "72610 - BETHON | Entraide, Annonces, Initiatives"
 description: "72610 - BETHON | Entraide, Annonces, Initiatives"

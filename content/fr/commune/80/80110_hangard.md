@@ -1,4 +1,3 @@
-
 ---
 title: "80110 - HANGARD | Entraide, Annonces, Initiatives"
 description: "80110 - HANGARD | Entraide, Annonces, Initiatives"

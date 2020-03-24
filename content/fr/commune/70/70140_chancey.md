@@ -1,4 +1,3 @@
-
 ---
 title: "70140 - CHANCEY | Entraide, Annonces, Initiatives"
 description: "70140 - CHANCEY | Entraide, Annonces, Initiatives"

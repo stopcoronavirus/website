@@ -1,4 +1,3 @@
-
 ---
 title: "60410 - ST VAAST DE LONGMONT | Entraide, Annonces, Initiatives"
 description: "60410 - ST VAAST DE LONGMONT | Entraide, Annonces, Initiatives"

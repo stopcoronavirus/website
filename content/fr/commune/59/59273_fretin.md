@@ -1,4 +1,3 @@
-
 ---
 title: "59273 - FRETIN | Entraide, Annonces, Initiatives"
 description: "59273 - FRETIN | Entraide, Annonces, Initiatives"

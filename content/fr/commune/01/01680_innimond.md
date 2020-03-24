@@ -1,4 +1,3 @@
-
 ---
 title: "01680 - INNIMOND | Entraide, Annonces, Initiatives"
 description: "01680 - INNIMOND | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "44580 - VILLENEUVE EN RETZ | Entraide, Annonces, Initiatives"
 description: "44580 - VILLENEUVE EN RETZ | Entraide, Annonces, Initiatives"

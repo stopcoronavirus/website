@@ -1,4 +1,3 @@
-
 ---
 title: "38650 - ST MICHEL LES PORTES | Entraide, Annonces, Initiatives"
 description: "38650 - ST MICHEL LES PORTES | Entraide, Annonces, Initiatives"

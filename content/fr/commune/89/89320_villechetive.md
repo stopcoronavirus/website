@@ -1,4 +1,3 @@
-
 ---
 title: "89320 - VILLECHETIVE | Entraide, Annonces, Initiatives"
 description: "89320 - VILLECHETIVE | Entraide, Annonces, Initiatives"

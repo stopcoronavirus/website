@@ -1,4 +1,3 @@
-
 ---
 title: "71670 - ST PIERRE DE VARENNES | Entraide, Annonces, Initiatives"
 description: "71670 - ST PIERRE DE VARENNES | Entraide, Annonces, Initiatives"

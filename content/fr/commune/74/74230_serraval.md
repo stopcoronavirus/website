@@ -1,4 +1,3 @@
-
 ---
 title: "74230 - SERRAVAL | Entraide, Annonces, Initiatives"
 description: "74230 - SERRAVAL | Entraide, Annonces, Initiatives"

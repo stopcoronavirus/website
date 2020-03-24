@@ -1,4 +1,3 @@
-
 ---
 title: "12390 - RIGNAC | Entraide, Annonces, Initiatives"
 description: "12390 - RIGNAC | Entraide, Annonces, Initiatives"

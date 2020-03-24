@@ -1,4 +1,3 @@
-
 ---
 title: "42800 - GENILAC | Entraide, Annonces, Initiatives"
 description: "42800 - GENILAC | Entraide, Annonces, Initiatives"

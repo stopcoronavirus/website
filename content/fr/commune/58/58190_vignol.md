@@ -1,4 +1,3 @@
-
 ---
 title: "58190 - VIGNOL | Entraide, Annonces, Initiatives"
 description: "58190 - VIGNOL | Entraide, Annonces, Initiatives"

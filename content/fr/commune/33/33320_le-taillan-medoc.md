@@ -1,4 +1,3 @@
-
 ---
 title: "33320 - LE TAILLAN MEDOC | Entraide, Annonces, Initiatives"
 description: "33320 - LE TAILLAN MEDOC | Entraide, Annonces, Initiatives"

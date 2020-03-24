@@ -1,4 +1,3 @@
-
 ---
 title: "72350 - AVESSE | Entraide, Annonces, Initiatives"
 description: "72350 - AVESSE | Entraide, Annonces, Initiatives"

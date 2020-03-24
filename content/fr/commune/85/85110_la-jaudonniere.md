@@ -1,4 +1,3 @@
-
 ---
 title: "85110 - LA JAUDONNIERE | Entraide, Annonces, Initiatives"
 description: "85110 - LA JAUDONNIERE | Entraide, Annonces, Initiatives"

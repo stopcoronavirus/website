@@ -1,4 +1,3 @@
-
 ---
 title: "22240 - LA BOUILLIE | Entraide, Annonces, Initiatives"
 description: "22240 - LA BOUILLIE | Entraide, Annonces, Initiatives"

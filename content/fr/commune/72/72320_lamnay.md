@@ -1,4 +1,3 @@
-
 ---
 title: "72320 - LAMNAY | Entraide, Annonces, Initiatives"
 description: "72320 - LAMNAY | Entraide, Annonces, Initiatives"

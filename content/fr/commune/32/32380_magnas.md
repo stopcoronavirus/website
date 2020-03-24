@@ -1,4 +1,3 @@
-
 ---
 title: "32380 - MAGNAS | Entraide, Annonces, Initiatives"
 description: "32380 - MAGNAS | Entraide, Annonces, Initiatives"

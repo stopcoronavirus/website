@@ -1,4 +1,3 @@
-
 ---
 title: "61190 - LA VENTROUZE | Entraide, Annonces, Initiatives"
 description: "61190 - LA VENTROUZE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02850 - COURTEMONT VARENNES | Entraide, Annonces, Initiatives"
 description: "02850 - COURTEMONT VARENNES | Entraide, Annonces, Initiatives"

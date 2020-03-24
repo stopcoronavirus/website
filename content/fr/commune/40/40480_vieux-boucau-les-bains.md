@@ -1,4 +1,3 @@
-
 ---
 title: "40480 - VIEUX BOUCAU LES BAINS | Entraide, Annonces, Initiatives"
 description: "40480 - VIEUX BOUCAU LES BAINS | Entraide, Annonces, Initiatives"

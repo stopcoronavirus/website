@@ -1,4 +1,3 @@
-
 ---
 title: "40700 - MONGET | Entraide, Annonces, Initiatives"
 description: "40700 - MONGET | Entraide, Annonces, Initiatives"

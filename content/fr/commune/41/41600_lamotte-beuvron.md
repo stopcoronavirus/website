@@ -1,4 +1,3 @@
-
 ---
 title: "41600 - LAMOTTE BEUVRON | Entraide, Annonces, Initiatives"
 description: "41600 - LAMOTTE BEUVRON | Entraide, Annonces, Initiatives"

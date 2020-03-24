@@ -1,4 +1,3 @@
-
 ---
 title: "21290 - BURE LES TEMPLIERS | Entraide, Annonces, Initiatives"
 description: "21290 - BURE LES TEMPLIERS | Entraide, Annonces, Initiatives"

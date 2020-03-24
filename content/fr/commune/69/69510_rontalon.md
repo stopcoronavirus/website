@@ -1,4 +1,3 @@
-
 ---
 title: "69510 - RONTALON | Entraide, Annonces, Initiatives"
 description: "69510 - RONTALON | Entraide, Annonces, Initiatives"

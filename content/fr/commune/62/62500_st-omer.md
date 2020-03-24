@@ -1,4 +1,3 @@
-
 ---
 title: "62500 - ST OMER | Entraide, Annonces, Initiatives"
 description: "62500 - ST OMER | Entraide, Annonces, Initiatives"

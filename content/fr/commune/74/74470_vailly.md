@@ -1,4 +1,3 @@
-
 ---
 title: "74470 - VAILLY | Entraide, Annonces, Initiatives"
 description: "74470 - VAILLY | Entraide, Annonces, Initiatives"

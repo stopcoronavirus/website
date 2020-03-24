@@ -1,4 +1,3 @@
-
 ---
 title: "06230 - VILLEFRANCHE SUR MER | Entraide, Annonces, Initiatives"
 description: "06230 - VILLEFRANCHE SUR MER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "25110 - SECHIN | Entraide, Annonces, Initiatives"
 description: "25110 - SECHIN | Entraide, Annonces, Initiatives"

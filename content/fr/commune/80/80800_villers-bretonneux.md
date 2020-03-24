@@ -1,4 +1,3 @@
-
 ---
 title: "80800 - VILLERS BRETONNEUX | Entraide, Annonces, Initiatives"
 description: "80800 - VILLERS BRETONNEUX | Entraide, Annonces, Initiatives"

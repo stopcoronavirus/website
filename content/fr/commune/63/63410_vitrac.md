@@ -1,4 +1,3 @@
-
 ---
 title: "63410 - VITRAC | Entraide, Annonces, Initiatives"
 description: "63410 - VITRAC | Entraide, Annonces, Initiatives"

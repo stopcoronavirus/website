@@ -1,4 +1,3 @@
-
 ---
 title: "22270 - MEGRIT | Entraide, Annonces, Initiatives"
 description: "22270 - MEGRIT | Entraide, Annonces, Initiatives"

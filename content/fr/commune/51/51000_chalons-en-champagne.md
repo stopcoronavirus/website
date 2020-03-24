@@ -1,4 +1,3 @@
-
 ---
 title: "51000 - CHALONS EN CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "51000 - CHALONS EN CHAMPAGNE | Entraide, Annonces, Initiatives"

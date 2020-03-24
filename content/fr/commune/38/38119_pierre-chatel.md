@@ -1,4 +1,3 @@
-
 ---
 title: "38119 - PIERRE CHATEL | Entraide, Annonces, Initiatives"
 description: "38119 - PIERRE CHATEL | Entraide, Annonces, Initiatives"

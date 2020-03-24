@@ -1,4 +1,3 @@
-
 ---
 title: "09270 - MAZERES | Entraide, Annonces, Initiatives"
 description: "09270 - MAZERES | Entraide, Annonces, Initiatives"

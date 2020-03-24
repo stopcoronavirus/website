@@ -1,4 +1,3 @@
-
 ---
 title: "08150 - RIMOGNE | Entraide, Annonces, Initiatives"
 description: "08150 - RIMOGNE | Entraide, Annonces, Initiatives"

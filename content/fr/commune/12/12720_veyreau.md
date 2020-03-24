@@ -1,4 +1,3 @@
-
 ---
 title: "12720 - VEYREAU | Entraide, Annonces, Initiatives"
 description: "12720 - VEYREAU | Entraide, Annonces, Initiatives"

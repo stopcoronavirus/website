@@ -1,4 +1,3 @@
-
 ---
 title: "16150 - CHASSENON | Entraide, Annonces, Initiatives"
 description: "16150 - CHASSENON | Entraide, Annonces, Initiatives"

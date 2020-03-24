@@ -1,4 +1,3 @@
-
 ---
 title: "43170 - VENTEUGES | Entraide, Annonces, Initiatives"
 description: "43170 - VENTEUGES | Entraide, Annonces, Initiatives"

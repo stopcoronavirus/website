@@ -1,4 +1,3 @@
-
 ---
 title: "24510 - ST FELIX DE VILLADEIX | Entraide, Annonces, Initiatives"
 description: "24510 - ST FELIX DE VILLADEIX | Entraide, Annonces, Initiatives"

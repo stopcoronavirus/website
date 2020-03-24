@@ -1,4 +1,3 @@
-
 ---
 title: "01750 - CROTTET | Entraide, Annonces, Initiatives"
 description: "01750 - CROTTET | Entraide, Annonces, Initiatives"

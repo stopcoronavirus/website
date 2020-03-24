@@ -1,4 +1,3 @@
-
 ---
 title: "49510 - BEAUPREAU EN MAUGES | Entraide, Annonces, Initiatives"
 description: "49510 - BEAUPREAU EN MAUGES | Entraide, Annonces, Initiatives"

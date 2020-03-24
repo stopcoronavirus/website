@@ -1,4 +1,3 @@
-
 ---
 title: "49480 - VERRIERES EN ANJOU | Entraide, Annonces, Initiatives"
 description: "49480 - VERRIERES EN ANJOU | Entraide, Annonces, Initiatives"

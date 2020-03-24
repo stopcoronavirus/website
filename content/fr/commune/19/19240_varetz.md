@@ -1,4 +1,3 @@
-
 ---
 title: "19240 - VARETZ | Entraide, Annonces, Initiatives"
 description: "19240 - VARETZ | Entraide, Annonces, Initiatives"

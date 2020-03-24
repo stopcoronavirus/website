@@ -1,4 +1,3 @@
-
 ---
 title: "69100 - VILLEURBANNE | Entraide, Annonces, Initiatives"
 description: "69100 - VILLEURBANNE | Entraide, Annonces, Initiatives"

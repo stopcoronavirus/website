@@ -1,4 +1,3 @@
-
 ---
 title: "20131 - PIANOTTOLI CALDARELLO | Entraide, Annonces, Initiatives"
 description: "20131 - PIANOTTOLI CALDARELLO | Entraide, Annonces, Initiatives"

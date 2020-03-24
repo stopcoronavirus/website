@@ -1,4 +1,3 @@
-
 ---
 title: "39170 - RAVILLOLES | Entraide, Annonces, Initiatives"
 description: "39170 - RAVILLOLES | Entraide, Annonces, Initiatives"

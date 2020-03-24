@@ -1,4 +1,3 @@
-
 ---
 title: "25530 - CHAUX LES PASSAVANT | Entraide, Annonces, Initiatives"
 description: "25530 - CHAUX LES PASSAVANT | Entraide, Annonces, Initiatives"

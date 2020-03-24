@@ -1,4 +1,3 @@
-
 ---
 title: "41190 - LANCOME | Entraide, Annonces, Initiatives"
 description: "41190 - LANCOME | Entraide, Annonces, Initiatives"

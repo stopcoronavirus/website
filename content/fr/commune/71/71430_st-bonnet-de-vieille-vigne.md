@@ -1,4 +1,3 @@
-
 ---
 title: "71430 - ST BONNET DE VIEILLE VIGNE | Entraide, Annonces, Initiatives"
 description: "71430 - ST BONNET DE VIEILLE VIGNE | Entraide, Annonces, Initiatives"

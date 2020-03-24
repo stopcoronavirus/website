@@ -1,4 +1,3 @@
-
 ---
 title: "61380 - SOLIGNY LA TRAPPE | Entraide, Annonces, Initiatives"
 description: "61380 - SOLIGNY LA TRAPPE | Entraide, Annonces, Initiatives"

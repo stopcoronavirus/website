@@ -1,4 +1,3 @@
-
 ---
 title: "57580 - BAUDRECOURT | Entraide, Annonces, Initiatives"
 description: "57580 - BAUDRECOURT | Entraide, Annonces, Initiatives"

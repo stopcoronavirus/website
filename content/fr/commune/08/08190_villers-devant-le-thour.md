@@ -1,4 +1,3 @@
-
 ---
 title: "08190 - VILLERS DEVANT LE THOUR | Entraide, Annonces, Initiatives"
 description: "08190 - VILLERS DEVANT LE THOUR | Entraide, Annonces, Initiatives"

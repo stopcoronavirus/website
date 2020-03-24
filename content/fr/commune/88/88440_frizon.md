@@ -1,4 +1,3 @@
-
 ---
 title: "88440 - FRIZON | Entraide, Annonces, Initiatives"
 description: "88440 - FRIZON | Entraide, Annonces, Initiatives"

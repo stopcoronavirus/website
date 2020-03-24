@@ -1,4 +1,3 @@
-
 ---
 title: "52800 - LANQUES SUR ROGNON | Entraide, Annonces, Initiatives"
 description: "52800 - LANQUES SUR ROGNON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "84220 - ST PANTALEON | Entraide, Annonces, Initiatives"
 description: "84220 - ST PANTALEON | Entraide, Annonces, Initiatives"

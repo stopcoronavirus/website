@@ -1,4 +1,3 @@
-
 ---
 title: "52230 - CIRFONTAINES EN ORNOIS | Entraide, Annonces, Initiatives"
 description: "52230 - CIRFONTAINES EN ORNOIS | Entraide, Annonces, Initiatives"

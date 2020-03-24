@@ -1,4 +1,3 @@
-
 ---
 title: "01800 - RIGNIEUX LE FRANC | Entraide, Annonces, Initiatives"
 description: "01800 - RIGNIEUX LE FRANC | Entraide, Annonces, Initiatives"

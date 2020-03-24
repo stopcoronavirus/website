@@ -1,4 +1,3 @@
-
 ---
 title: "69260 - CHARBONNIERES LES BAINS | Entraide, Annonces, Initiatives"
 description: "69260 - CHARBONNIERES LES BAINS | Entraide, Annonces, Initiatives"

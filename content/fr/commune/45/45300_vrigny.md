@@ -1,4 +1,3 @@
-
 ---
 title: "45300 - VRIGNY | Entraide, Annonces, Initiatives"
 description: "45300 - VRIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "87400 - ROYERES | Entraide, Annonces, Initiatives"
 description: "87400 - ROYERES | Entraide, Annonces, Initiatives"

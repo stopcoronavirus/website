@@ -1,4 +1,3 @@
-
 ---
 title: "24340 - ST FELIX DE BOURDEILLES | Entraide, Annonces, Initiatives"
 description: "24340 - ST FELIX DE BOURDEILLES | Entraide, Annonces, Initiatives"

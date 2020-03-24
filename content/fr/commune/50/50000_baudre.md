@@ -1,4 +1,3 @@
-
 ---
 title: "50000 - BAUDRE | Entraide, Annonces, Initiatives"
 description: "50000 - BAUDRE | Entraide, Annonces, Initiatives"

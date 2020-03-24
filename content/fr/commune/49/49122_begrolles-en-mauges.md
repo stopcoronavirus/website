@@ -1,4 +1,3 @@
-
 ---
 title: "49122 - BEGROLLES EN MAUGES | Entraide, Annonces, Initiatives"
 description: "49122 - BEGROLLES EN MAUGES | Entraide, Annonces, Initiatives"

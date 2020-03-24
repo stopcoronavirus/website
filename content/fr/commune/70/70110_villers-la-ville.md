@@ -1,4 +1,3 @@
-
 ---
 title: "70110 - VILLERS LA VILLE | Entraide, Annonces, Initiatives"
 description: "70110 - VILLERS LA VILLE | Entraide, Annonces, Initiatives"

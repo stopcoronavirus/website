@@ -1,4 +1,3 @@
-
 ---
 title: "20259 - OLMI CAPPELLA | Entraide, Annonces, Initiatives"
 description: "20259 - OLMI CAPPELLA | Entraide, Annonces, Initiatives"

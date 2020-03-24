@@ -1,4 +1,3 @@
-
 ---
 title: "27110 - ROUGE PERRIERS | Entraide, Annonces, Initiatives"
 description: "27110 - ROUGE PERRIERS | Entraide, Annonces, Initiatives"

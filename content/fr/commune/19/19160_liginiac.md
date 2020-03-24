@@ -1,4 +1,3 @@
-
 ---
 title: "19160 - LIGINIAC | Entraide, Annonces, Initiatives"
 description: "19160 - LIGINIAC | Entraide, Annonces, Initiatives"

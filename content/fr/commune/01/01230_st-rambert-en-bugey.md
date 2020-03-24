@@ -1,4 +1,3 @@
-
 ---
 title: "01230 - ST RAMBERT EN BUGEY | Entraide, Annonces, Initiatives"
 description: "01230 - ST RAMBERT EN BUGEY | Entraide, Annonces, Initiatives"

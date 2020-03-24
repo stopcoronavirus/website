@@ -1,4 +1,3 @@
-
 ---
 title: "29380 - BANNALEC | Entraide, Annonces, Initiatives"
 description: "29380 - BANNALEC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "09460 - MIJANES | Entraide, Annonces, Initiatives"
 description: "09460 - MIJANES | Entraide, Annonces, Initiatives"

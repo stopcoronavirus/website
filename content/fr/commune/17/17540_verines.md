@@ -1,4 +1,3 @@
-
 ---
 title: "17540 - VERINES | Entraide, Annonces, Initiatives"
 description: "17540 - VERINES | Entraide, Annonces, Initiatives"

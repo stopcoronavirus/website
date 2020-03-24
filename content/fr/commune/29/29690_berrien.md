@@ -1,4 +1,3 @@
-
 ---
 title: "29690 - BERRIEN | Entraide, Annonces, Initiatives"
 description: "29690 - BERRIEN | Entraide, Annonces, Initiatives"

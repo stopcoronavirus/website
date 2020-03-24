@@ -1,4 +1,3 @@
-
 ---
 title: "65700 - LAFITOLE | Entraide, Annonces, Initiatives"
 description: "65700 - LAFITOLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "41800 - ARTINS | Entraide, Annonces, Initiatives"
 description: "41800 - ARTINS | Entraide, Annonces, Initiatives"

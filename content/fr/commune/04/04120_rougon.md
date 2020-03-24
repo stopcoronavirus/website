@@ -1,4 +1,3 @@
-
 ---
 title: "04120 - ROUGON | Entraide, Annonces, Initiatives"
 description: "04120 - ROUGON | Entraide, Annonces, Initiatives"

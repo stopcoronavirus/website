@@ -1,4 +1,3 @@
-
 ---
 title: "97439 - STE ROSE | Entraide, Annonces, Initiatives"
 description: "97439 - STE ROSE | Entraide, Annonces, Initiatives"

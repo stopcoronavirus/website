@@ -1,4 +1,3 @@
-
 ---
 title: "53200 - GENNES LONGUEFUYE | Entraide, Annonces, Initiatives"
 description: "53200 - GENNES LONGUEFUYE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "76550 - HAUTOT SUR MER | Entraide, Annonces, Initiatives"
 description: "76550 - HAUTOT SUR MER | Entraide, Annonces, Initiatives"

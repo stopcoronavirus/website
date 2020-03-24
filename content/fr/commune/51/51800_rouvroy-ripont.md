@@ -1,4 +1,3 @@
-
 ---
 title: "51800 - ROUVROY RIPONT | Entraide, Annonces, Initiatives"
 description: "51800 - ROUVROY RIPONT | Entraide, Annonces, Initiatives"

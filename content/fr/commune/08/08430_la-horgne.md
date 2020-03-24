@@ -1,4 +1,3 @@
-
 ---
 title: "08430 - LA HORGNE | Entraide, Annonces, Initiatives"
 description: "08430 - LA HORGNE | Entraide, Annonces, Initiatives"

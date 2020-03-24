@@ -1,4 +1,3 @@
-
 ---
 title: "79130 - SECONDIGNY | Entraide, Annonces, Initiatives"
 description: "79130 - SECONDIGNY | Entraide, Annonces, Initiatives"

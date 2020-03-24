@@ -1,4 +1,3 @@
-
 ---
 title: "40380 - VICQ D AURIBAT | Entraide, Annonces, Initiatives"
 description: "40380 - VICQ D AURIBAT | Entraide, Annonces, Initiatives"

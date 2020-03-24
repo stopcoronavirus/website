@@ -1,4 +1,3 @@
-
 ---
 title: "71240 - LA CHAPELLE DE BRAGNY | Entraide, Annonces, Initiatives"
 description: "71240 - LA CHAPELLE DE BRAGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "36100 - LES BORDES | Entraide, Annonces, Initiatives"
 description: "36100 - LES BORDES | Entraide, Annonces, Initiatives"

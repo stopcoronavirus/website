@@ -1,4 +1,3 @@
-
 ---
 title: "18200 - ST GEORGES DE POISIEUX | Entraide, Annonces, Initiatives"
 description: "18200 - ST GEORGES DE POISIEUX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71640 - ST JEAN DE VAUX | Entraide, Annonces, Initiatives"
 description: "71640 - ST JEAN DE VAUX | Entraide, Annonces, Initiatives"

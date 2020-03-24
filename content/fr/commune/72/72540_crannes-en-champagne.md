@@ -1,4 +1,3 @@
-
 ---
 title: "72540 - CRANNES EN CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "72540 - CRANNES EN CHAMPAGNE | Entraide, Annonces, Initiatives"

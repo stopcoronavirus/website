@@ -1,4 +1,3 @@
-
 ---
 title: "45360 - ST FIRMIN SUR LOIRE | Entraide, Annonces, Initiatives"
 description: "45360 - ST FIRMIN SUR LOIRE | Entraide, Annonces, Initiatives"

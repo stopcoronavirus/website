@@ -1,4 +1,3 @@
-
 ---
 title: "44620 - LA MONTAGNE | Entraide, Annonces, Initiatives"
 description: "44620 - LA MONTAGNE | Entraide, Annonces, Initiatives"

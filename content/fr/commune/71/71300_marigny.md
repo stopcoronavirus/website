@@ -1,4 +1,3 @@
-
 ---
 title: "71300 - MARIGNY | Entraide, Annonces, Initiatives"
 description: "71300 - MARIGNY | Entraide, Annonces, Initiatives"

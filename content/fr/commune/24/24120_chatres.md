@@ -1,4 +1,3 @@
-
 ---
 title: "24120 - CHATRES | Entraide, Annonces, Initiatives"
 description: "24120 - CHATRES | Entraide, Annonces, Initiatives"

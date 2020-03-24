@@ -1,4 +1,3 @@
-
 ---
 title: "79110 - FONTIVILLIE | Entraide, Annonces, Initiatives"
 description: "79110 - FONTIVILLIE | Entraide, Annonces, Initiatives"

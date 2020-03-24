@@ -1,4 +1,3 @@
-
 ---
 title: "77890 - BEAUMONT DU GATINAIS | Entraide, Annonces, Initiatives"
 description: "77890 - BEAUMONT DU GATINAIS | Entraide, Annonces, Initiatives"

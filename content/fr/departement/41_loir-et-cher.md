@@ -1,4 +1,3 @@
-
 ---
 title: "41 - Loir-et-Cher"
 description: "41 - Loir-et-Cher"

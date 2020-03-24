@@ -1,4 +1,3 @@
-
 ---
 title: "71330 - BOSJEAN | Entraide, Annonces, Initiatives"
 description: "71330 - BOSJEAN | Entraide, Annonces, Initiatives"

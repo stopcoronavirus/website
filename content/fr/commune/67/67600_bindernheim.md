@@ -1,4 +1,3 @@
-
 ---
 title: "67600 - BINDERNHEIM | Entraide, Annonces, Initiatives"
 description: "67600 - BINDERNHEIM | Entraide, Annonces, Initiatives"

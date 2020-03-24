@@ -1,4 +1,3 @@
-
 ---
 title: "80500 - BECQUIGNY | Entraide, Annonces, Initiatives"
 description: "80500 - BECQUIGNY | Entraide, Annonces, Initiatives"

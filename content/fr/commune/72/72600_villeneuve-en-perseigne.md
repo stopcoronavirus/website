@@ -1,4 +1,3 @@
-
 ---
 title: "72600 - VILLENEUVE EN PERSEIGNE | Entraide, Annonces, Initiatives"
 description: "72600 - VILLENEUVE EN PERSEIGNE | Entraide, Annonces, Initiatives"

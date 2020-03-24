@@ -1,4 +1,3 @@
-
 ---
 title: "60380 - VILLERS VERMONT | Entraide, Annonces, Initiatives"
 description: "60380 - VILLERS VERMONT | Entraide, Annonces, Initiatives"

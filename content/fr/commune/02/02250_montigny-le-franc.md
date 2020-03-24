@@ -1,4 +1,3 @@
-
 ---
 title: "02250 - MONTIGNY LE FRANC | Entraide, Annonces, Initiatives"
 description: "02250 - MONTIGNY LE FRANC | Entraide, Annonces, Initiatives"

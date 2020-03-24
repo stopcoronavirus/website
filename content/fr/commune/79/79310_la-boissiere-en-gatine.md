@@ -1,4 +1,3 @@
-
 ---
 title: "79310 - LA BOISSIERE EN GATINE | Entraide, Annonces, Initiatives"
 description: "79310 - LA BOISSIERE EN GATINE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "49380 - BELLEVIGNE EN LAYON | Entraide, Annonces, Initiatives"
 description: "49380 - BELLEVIGNE EN LAYON | Entraide, Annonces, Initiatives"

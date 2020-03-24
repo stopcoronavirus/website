@@ -1,4 +1,3 @@
-
 ---
 title: "08400 - LA CROIX AUX BOIS | Entraide, Annonces, Initiatives"
 description: "08400 - LA CROIX AUX BOIS | Entraide, Annonces, Initiatives"

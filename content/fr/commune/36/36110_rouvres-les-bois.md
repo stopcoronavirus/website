@@ -1,4 +1,3 @@
-
 ---
 title: "36110 - ROUVRES LES BOIS | Entraide, Annonces, Initiatives"
 description: "36110 - ROUVRES LES BOIS | Entraide, Annonces, Initiatives"

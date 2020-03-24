@@ -1,4 +1,3 @@
-
 ---
 title: "25530 - VELLEROT LES VERCEL | Entraide, Annonces, Initiatives"
 description: "25530 - VELLEROT LES VERCEL | Entraide, Annonces, Initiatives"

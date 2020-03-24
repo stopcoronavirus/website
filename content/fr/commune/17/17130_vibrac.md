@@ -1,4 +1,3 @@
-
 ---
 title: "17130 - VIBRAC | Entraide, Annonces, Initiatives"
 description: "17130 - VIBRAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20119 - BASTELICA | Entraide, Annonces, Initiatives"
 description: "20119 - BASTELICA | Entraide, Annonces, Initiatives"

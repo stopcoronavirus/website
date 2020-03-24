@@ -1,4 +1,3 @@
-
 ---
 title: "24420 - ANTONNE ET TRIGONANT | Entraide, Annonces, Initiatives"
 description: "24420 - ANTONNE ET TRIGONANT | Entraide, Annonces, Initiatives"

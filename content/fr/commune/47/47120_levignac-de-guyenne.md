@@ -1,4 +1,3 @@
-
 ---
 title: "47120 - LEVIGNAC DE GUYENNE | Entraide, Annonces, Initiatives"
 description: "47120 - LEVIGNAC DE GUYENNE | Entraide, Annonces, Initiatives"

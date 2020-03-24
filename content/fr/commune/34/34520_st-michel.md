@@ -1,4 +1,3 @@
-
 ---
 title: "34520 - ST MICHEL | Entraide, Annonces, Initiatives"
 description: "34520 - ST MICHEL | Entraide, Annonces, Initiatives"

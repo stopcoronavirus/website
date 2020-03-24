@@ -1,4 +1,3 @@
-
 ---
 title: "70700 - VELLOREILLE LES CHOYE | Entraide, Annonces, Initiatives"
 description: "70700 - VELLOREILLE LES CHOYE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "12220 - GALGAN | Entraide, Annonces, Initiatives"
 description: "12220 - GALGAN | Entraide, Annonces, Initiatives"

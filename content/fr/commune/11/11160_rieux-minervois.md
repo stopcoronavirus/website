@@ -1,4 +1,3 @@
-
 ---
 title: "11160 - RIEUX MINERVOIS | Entraide, Annonces, Initiatives"
 description: "11160 - RIEUX MINERVOIS | Entraide, Annonces, Initiatives"

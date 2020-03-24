@@ -1,4 +1,3 @@
-
 ---
 title: "40130 - CAPBRETON | Entraide, Annonces, Initiatives"
 description: "40130 - CAPBRETON | Entraide, Annonces, Initiatives"

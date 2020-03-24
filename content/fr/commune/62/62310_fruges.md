@@ -1,4 +1,3 @@
-
 ---
 title: "62310 - FRUGES | Entraide, Annonces, Initiatives"
 description: "62310 - FRUGES | Entraide, Annonces, Initiatives"

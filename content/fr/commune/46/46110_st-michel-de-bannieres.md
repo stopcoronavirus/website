@@ -1,4 +1,3 @@
-
 ---
 title: "46110 - ST MICHEL DE BANNIERES | Entraide, Annonces, Initiatives"
 description: "46110 - ST MICHEL DE BANNIERES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "89150 - VERNOY | Entraide, Annonces, Initiatives"
 description: "89150 - VERNOY | Entraide, Annonces, Initiatives"

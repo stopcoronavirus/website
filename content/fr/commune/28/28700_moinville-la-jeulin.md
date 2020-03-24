@@ -1,4 +1,3 @@
-
 ---
 title: "28700 - MOINVILLE LA JEULIN | Entraide, Annonces, Initiatives"
 description: "28700 - MOINVILLE LA JEULIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "42560 - GUMIERES | Entraide, Annonces, Initiatives"
 description: "42560 - GUMIERES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "38270 - BEAUFORT | Entraide, Annonces, Initiatives"
 description: "38270 - BEAUFORT | Entraide, Annonces, Initiatives"

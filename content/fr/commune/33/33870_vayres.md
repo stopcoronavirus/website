@@ -1,4 +1,3 @@
-
 ---
 title: "33870 - VAYRES | Entraide, Annonces, Initiatives"
 description: "33870 - VAYRES | Entraide, Annonces, Initiatives"

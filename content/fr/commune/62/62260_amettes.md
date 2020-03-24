@@ -1,4 +1,3 @@
-
 ---
 title: "62260 - AMETTES | Entraide, Annonces, Initiatives"
 description: "62260 - AMETTES | Entraide, Annonces, Initiatives"

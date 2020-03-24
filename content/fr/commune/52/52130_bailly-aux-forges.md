@@ -1,4 +1,3 @@
-
 ---
 title: "52130 - BAILLY AUX FORGES | Entraide, Annonces, Initiatives"
 description: "52130 - BAILLY AUX FORGES | Entraide, Annonces, Initiatives"

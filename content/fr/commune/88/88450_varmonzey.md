@@ -1,4 +1,3 @@
-
 ---
 title: "88450 - VARMONZEY | Entraide, Annonces, Initiatives"
 description: "88450 - VARMONZEY | Entraide, Annonces, Initiatives"

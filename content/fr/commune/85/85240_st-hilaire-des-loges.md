@@ -1,4 +1,3 @@
-
 ---
 title: "85240 - ST HILAIRE DES LOGES | Entraide, Annonces, Initiatives"
 description: "85240 - ST HILAIRE DES LOGES | Entraide, Annonces, Initiatives"

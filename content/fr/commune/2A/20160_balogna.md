@@ -1,4 +1,3 @@
-
 ---
 title: "20160 - BALOGNA | Entraide, Annonces, Initiatives"
 description: "20160 - BALOGNA | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "56630 - LANGONNET | Entraide, Annonces, Initiatives"
 description: "56630 - LANGONNET | Entraide, Annonces, Initiatives"

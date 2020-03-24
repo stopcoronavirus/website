@@ -1,4 +1,3 @@
-
 ---
 title: "41330 - LA CHAPELLE VENDOMOISE | Entraide, Annonces, Initiatives"
 description: "41330 - LA CHAPELLE VENDOMOISE | Entraide, Annonces, Initiatives"

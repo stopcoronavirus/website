@@ -1,4 +1,3 @@
-
 ---
 title: "67360 - HEGENEY | Entraide, Annonces, Initiatives"
 description: "67360 - HEGENEY | Entraide, Annonces, Initiatives"

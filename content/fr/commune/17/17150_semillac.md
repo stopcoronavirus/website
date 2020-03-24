@@ -1,4 +1,3 @@
-
 ---
 title: "17150 - SEMILLAC | Entraide, Annonces, Initiatives"
 description: "17150 - SEMILLAC | Entraide, Annonces, Initiatives"

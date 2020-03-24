@@ -1,4 +1,3 @@
-
 ---
 title: "81800 - RABASTENS | Entraide, Annonces, Initiatives"
 description: "81800 - RABASTENS | Entraide, Annonces, Initiatives"

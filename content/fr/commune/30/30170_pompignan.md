@@ -1,4 +1,3 @@
-
 ---
 title: "30170 - POMPIGNAN | Entraide, Annonces, Initiatives"
 description: "30170 - POMPIGNAN | Entraide, Annonces, Initiatives"

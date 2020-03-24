@@ -1,4 +1,3 @@
-
 ---
 title: "02260 - LA CAPELLE | Entraide, Annonces, Initiatives"
 description: "02260 - LA CAPELLE | Entraide, Annonces, Initiatives"

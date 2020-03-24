@@ -1,4 +1,3 @@
-
 ---
 title: "36160 - VIGOULANT | Entraide, Annonces, Initiatives"
 description: "36160 - VIGOULANT | Entraide, Annonces, Initiatives"

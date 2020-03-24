@@ -1,4 +1,3 @@
-
 ---
 title: "21400 - VANVEY | Entraide, Annonces, Initiatives"
 description: "21400 - VANVEY | Entraide, Annonces, Initiatives"

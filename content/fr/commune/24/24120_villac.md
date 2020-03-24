@@ -1,4 +1,3 @@
-
 ---
 title: "24120 - VILLAC | Entraide, Annonces, Initiatives"
 description: "24120 - VILLAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "54110 - CREVIC | Entraide, Annonces, Initiatives"
 description: "54110 - CREVIC | Entraide, Annonces, Initiatives"

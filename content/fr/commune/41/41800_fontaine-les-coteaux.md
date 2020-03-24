@@ -1,4 +1,3 @@
-
 ---
 title: "41800 - FONTAINE LES COTEAUX | Entraide, Annonces, Initiatives"
 description: "41800 - FONTAINE LES COTEAUX | Entraide, Annonces, Initiatives"

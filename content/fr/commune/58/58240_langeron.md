@@ -1,4 +1,3 @@
-
 ---
 title: "58240 - LANGERON | Entraide, Annonces, Initiatives"
 description: "58240 - LANGERON | Entraide, Annonces, Initiatives"

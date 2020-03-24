@@ -1,4 +1,3 @@
-
 ---
 title: "66740 - ST GENIS DES FONTAINES | Entraide, Annonces, Initiatives"
 description: "66740 - ST GENIS DES FONTAINES | Entraide, Annonces, Initiatives"

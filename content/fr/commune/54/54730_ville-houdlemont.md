@@ -1,4 +1,3 @@
-
 ---
 title: "54730 - VILLE HOUDLEMONT | Entraide, Annonces, Initiatives"
 description: "54730 - VILLE HOUDLEMONT | Entraide, Annonces, Initiatives"

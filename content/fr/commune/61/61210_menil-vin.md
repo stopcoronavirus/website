@@ -1,4 +1,3 @@
-
 ---
 title: "61210 - MENIL VIN | Entraide, Annonces, Initiatives"
 description: "61210 - MENIL VIN | Entraide, Annonces, Initiatives"

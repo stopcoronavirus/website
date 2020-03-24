@@ -1,4 +1,3 @@
-
 ---
 title: "50170 - BEAUVOIR | Entraide, Annonces, Initiatives"
 description: "50170 - BEAUVOIR | Entraide, Annonces, Initiatives"

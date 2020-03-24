@@ -1,4 +1,3 @@
-
 ---
 title: "04700 - PUIMICHEL | Entraide, Annonces, Initiatives"
 description: "04700 - PUIMICHEL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "73400 - COHENNOZ | Entraide, Annonces, Initiatives"
 description: "73400 - COHENNOZ | Entraide, Annonces, Initiatives"

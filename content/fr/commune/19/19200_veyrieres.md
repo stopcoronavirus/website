@@ -1,4 +1,3 @@
-
 ---
 title: "19200 - VEYRIERES | Entraide, Annonces, Initiatives"
 description: "19200 - VEYRIERES | Entraide, Annonces, Initiatives"

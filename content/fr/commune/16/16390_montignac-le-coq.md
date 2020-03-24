@@ -1,4 +1,3 @@
-
 ---
 title: "16390 - MONTIGNAC LE COQ | Entraide, Annonces, Initiatives"
 description: "16390 - MONTIGNAC LE COQ | Entraide, Annonces, Initiatives"

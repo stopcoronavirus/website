@@ -1,4 +1,3 @@
-
 ---
 title: "92430 - MARNES LA COQUETTE | Entraide, Annonces, Initiatives"
 description: "92430 - MARNES LA COQUETTE | Entraide, Annonces, Initiatives"

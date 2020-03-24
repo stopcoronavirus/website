@@ -1,4 +1,3 @@
-
 ---
 title: "02860 - LAVAL EN LAONNOIS | Entraide, Annonces, Initiatives"
 description: "02860 - LAVAL EN LAONNOIS | Entraide, Annonces, Initiatives"

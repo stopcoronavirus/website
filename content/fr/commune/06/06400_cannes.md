@@ -1,4 +1,3 @@
-
 ---
 title: "06400 - CANNES | Entraide, Annonces, Initiatives"
 description: "06400 - CANNES | Entraide, Annonces, Initiatives"

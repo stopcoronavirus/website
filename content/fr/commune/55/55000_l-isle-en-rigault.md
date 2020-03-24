@@ -1,4 +1,3 @@
-
 ---
 title: "55000 - L ISLE EN RIGAULT | Entraide, Annonces, Initiatives"
 description: "55000 - L ISLE EN RIGAULT | Entraide, Annonces, Initiatives"

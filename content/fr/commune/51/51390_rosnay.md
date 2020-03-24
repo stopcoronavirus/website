@@ -1,4 +1,3 @@
-
 ---
 title: "51390 - ROSNAY | Entraide, Annonces, Initiatives"
 description: "51390 - ROSNAY | Entraide, Annonces, Initiatives"

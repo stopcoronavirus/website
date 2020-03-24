@@ -1,4 +1,3 @@
-
 ---
 title: "02470 - MACOGNY | Entraide, Annonces, Initiatives"
 description: "02470 - MACOGNY | Entraide, Annonces, Initiatives"

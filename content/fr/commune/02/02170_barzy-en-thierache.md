@@ -1,4 +1,3 @@
-
 ---
 title: "02170 - BARZY EN THIERACHE | Entraide, Annonces, Initiatives"
 description: "02170 - BARZY EN THIERACHE | Entraide, Annonces, Initiatives"

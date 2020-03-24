@@ -1,4 +1,3 @@
-
 ---
 title: "12360 - GISSAC | Entraide, Annonces, Initiatives"
 description: "12360 - GISSAC | Entraide, Annonces, Initiatives"

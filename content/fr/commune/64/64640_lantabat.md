@@ -1,4 +1,3 @@
-
 ---
 title: "64640 - LANTABAT | Entraide, Annonces, Initiatives"
 description: "64640 - LANTABAT | Entraide, Annonces, Initiatives"

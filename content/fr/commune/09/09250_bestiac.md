@@ -1,4 +1,3 @@
-
 ---
 title: "09250 - BESTIAC | Entraide, Annonces, Initiatives"
 description: "09250 - BESTIAC | Entraide, Annonces, Initiatives"

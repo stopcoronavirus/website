@@ -1,4 +1,3 @@
-
 ---
 title: "55130 - DEMANGE BAUDIGNECOURT | Entraide, Annonces, Initiatives"
 description: "55130 - DEMANGE BAUDIGNECOURT | Entraide, Annonces, Initiatives"

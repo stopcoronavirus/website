@@ -1,4 +1,3 @@
-
 ---
 title: "52310 - BOLOGNE | Entraide, Annonces, Initiatives"
 description: "52310 - BOLOGNE | Entraide, Annonces, Initiatives"

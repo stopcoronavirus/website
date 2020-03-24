@@ -1,4 +1,3 @@
-
 ---
 title: "27810 - MARCILLY SUR EURE | Entraide, Annonces, Initiatives"
 description: "27810 - MARCILLY SUR EURE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "74250 - MARCELLAZ | Entraide, Annonces, Initiatives"
 description: "74250 - MARCELLAZ | Entraide, Annonces, Initiatives"

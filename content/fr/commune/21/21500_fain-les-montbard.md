@@ -1,4 +1,3 @@
-
 ---
 title: "21500 - FAIN LES MONTBARD | Entraide, Annonces, Initiatives"
 description: "21500 - FAIN LES MONTBARD | Entraide, Annonces, Initiatives"

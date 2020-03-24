@@ -1,4 +1,3 @@
-
 ---
 title: "31850 - BEAUPUY | Entraide, Annonces, Initiatives"
 description: "31850 - BEAUPUY | Entraide, Annonces, Initiatives"

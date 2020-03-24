@@ -1,4 +1,3 @@
-
 ---
 title: "43320 - LE VERNET | Entraide, Annonces, Initiatives"
 description: "43320 - LE VERNET | Entraide, Annonces, Initiatives"

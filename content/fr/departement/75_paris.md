@@ -1,4 +1,3 @@
-
 ---
 title: "75 - Paris"
 description: "75 - Paris"

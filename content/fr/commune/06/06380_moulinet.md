@@ -1,4 +1,3 @@
-
 ---
 title: "06380 - MOULINET | Entraide, Annonces, Initiatives"
 description: "06380 - MOULINET | Entraide, Annonces, Initiatives"

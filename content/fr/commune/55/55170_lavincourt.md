@@ -1,4 +1,3 @@
-
 ---
 title: "55170 - LAVINCOURT | Entraide, Annonces, Initiatives"
 description: "55170 - LAVINCOURT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "74330 - CHOISY | Entraide, Annonces, Initiatives"
 description: "74330 - CHOISY | Entraide, Annonces, Initiatives"

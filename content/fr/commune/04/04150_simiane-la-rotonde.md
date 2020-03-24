@@ -1,4 +1,3 @@
-
 ---
 title: "04150 - SIMIANE LA ROTONDE | Entraide, Annonces, Initiatives"
 description: "04150 - SIMIANE LA ROTONDE | Entraide, Annonces, Initiatives"

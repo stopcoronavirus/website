@@ -1,4 +1,3 @@
-
 ---
 title: "80290 - STE SEGREE | Entraide, Annonces, Initiatives"
 description: "80290 - STE SEGREE | Entraide, Annonces, Initiatives"

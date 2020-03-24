@@ -1,4 +1,3 @@
-
 ---
 title: "33470 - LE TEICH | Entraide, Annonces, Initiatives"
 description: "33470 - LE TEICH | Entraide, Annonces, Initiatives"

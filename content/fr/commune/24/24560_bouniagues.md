@@ -1,4 +1,3 @@
-
 ---
 title: "24560 - BOUNIAGUES | Entraide, Annonces, Initiatives"
 description: "24560 - BOUNIAGUES | Entraide, Annonces, Initiatives"

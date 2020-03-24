@@ -1,4 +1,3 @@
-
 ---
 title: "38650 - MONESTIER DE CLERMONT | Entraide, Annonces, Initiatives"
 description: "38650 - MONESTIER DE CLERMONT | Entraide, Annonces, Initiatives"

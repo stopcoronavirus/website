@@ -1,4 +1,3 @@
-
 ---
 title: "38150 - VERNIOZ | Entraide, Annonces, Initiatives"
 description: "38150 - VERNIOZ | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "53170 - RUILLE FROID FONDS | Entraide, Annonces, Initiatives"
 description: "53170 - RUILLE FROID FONDS | Entraide, Annonces, Initiatives"

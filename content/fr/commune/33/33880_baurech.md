@@ -1,4 +1,3 @@
-
 ---
 title: "33880 - BAURECH | Entraide, Annonces, Initiatives"
 description: "33880 - BAURECH | Entraide, Annonces, Initiatives"

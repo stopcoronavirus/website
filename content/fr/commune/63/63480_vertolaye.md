@@ -1,4 +1,3 @@
-
 ---
 title: "63480 - VERTOLAYE | Entraide, Annonces, Initiatives"
 description: "63480 - VERTOLAYE | Entraide, Annonces, Initiatives"

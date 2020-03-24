@@ -1,4 +1,3 @@
-
 ---
 title: "37600 - VARENNES | Entraide, Annonces, Initiatives"
 description: "37600 - VARENNES | Entraide, Annonces, Initiatives"

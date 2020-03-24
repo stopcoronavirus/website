@@ -1,4 +1,3 @@
-
 ---
 title: "71640 - MERCUREY | Entraide, Annonces, Initiatives"
 description: "71640 - MERCUREY | Entraide, Annonces, Initiatives"

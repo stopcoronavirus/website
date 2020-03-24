@@ -1,4 +1,3 @@
-
 ---
 title: "72440 - MAISONCELLES | Entraide, Annonces, Initiatives"
 description: "72440 - MAISONCELLES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "12380 - ST SERNIN SUR RANCE | Entraide, Annonces, Initiatives"
 description: "12380 - ST SERNIN SUR RANCE | Entraide, Annonces, Initiatives"

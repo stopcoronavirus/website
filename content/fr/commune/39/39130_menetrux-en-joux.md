@@ -1,4 +1,3 @@
-
 ---
 title: "39130 - MENETRUX EN JOUX | Entraide, Annonces, Initiatives"
 description: "39130 - MENETRUX EN JOUX | Entraide, Annonces, Initiatives"

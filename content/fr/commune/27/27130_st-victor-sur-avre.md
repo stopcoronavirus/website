@@ -1,4 +1,3 @@
-
 ---
 title: "27130 - ST VICTOR SUR AVRE | Entraide, Annonces, Initiatives"
 description: "27130 - ST VICTOR SUR AVRE | Entraide, Annonces, Initiatives"

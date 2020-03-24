@@ -1,4 +1,3 @@
-
 ---
 title: "60500 - CHANTILLY | Entraide, Annonces, Initiatives"
 description: "60500 - CHANTILLY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "42130 - ST SIXTE | Entraide, Annonces, Initiatives"
 description: "42130 - ST SIXTE | Entraide, Annonces, Initiatives"

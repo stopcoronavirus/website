@@ -1,4 +1,3 @@
-
 ---
 title: "18600 - VEREAUX | Entraide, Annonces, Initiatives"
 description: "18600 - VEREAUX | Entraide, Annonces, Initiatives"

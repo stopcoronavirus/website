@@ -1,4 +1,3 @@
-
 ---
 title: "49150 - BAUGE EN ANJOU | Entraide, Annonces, Initiatives"
 description: "49150 - BAUGE EN ANJOU | Entraide, Annonces, Initiatives"

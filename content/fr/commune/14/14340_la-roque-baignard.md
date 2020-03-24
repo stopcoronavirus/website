@@ -1,4 +1,3 @@
-
 ---
 title: "14340 - LA ROQUE BAIGNARD | Entraide, Annonces, Initiatives"
 description: "14340 - LA ROQUE BAIGNARD | Entraide, Annonces, Initiatives"

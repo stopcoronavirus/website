@@ -1,4 +1,3 @@
-
 ---
 title: "16250 - BECHERESSE | Entraide, Annonces, Initiatives"
 description: "16250 - BECHERESSE | Entraide, Annonces, Initiatives"

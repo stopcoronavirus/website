@@ -1,4 +1,3 @@
-
 ---
 title: "18500 - VIGNOUX SUR BARANGEON | Entraide, Annonces, Initiatives"
 description: "18500 - VIGNOUX SUR BARANGEON | Entraide, Annonces, Initiatives"

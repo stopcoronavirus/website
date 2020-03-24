@@ -1,4 +1,3 @@
-
 ---
 title: "67700 - GOTTENHOUSE | Entraide, Annonces, Initiatives"
 description: "67700 - GOTTENHOUSE | Entraide, Annonces, Initiatives"

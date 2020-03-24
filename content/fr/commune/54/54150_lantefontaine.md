@@ -1,4 +1,3 @@
-
 ---
 title: "54150 - LANTEFONTAINE | Entraide, Annonces, Initiatives"
 description: "54150 - LANTEFONTAINE | Entraide, Annonces, Initiatives"

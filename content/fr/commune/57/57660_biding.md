@@ -1,4 +1,3 @@
-
 ---
 title: "57660 - BIDING | Entraide, Annonces, Initiatives"
 description: "57660 - BIDING | Entraide, Annonces, Initiatives"

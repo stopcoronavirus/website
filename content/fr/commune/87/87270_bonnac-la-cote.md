@@ -1,4 +1,3 @@
-
 ---
 title: "87270 - BONNAC LA COTE | Entraide, Annonces, Initiatives"
 description: "87270 - BONNAC LA COTE | Entraide, Annonces, Initiatives"

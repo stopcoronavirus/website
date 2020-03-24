@@ -1,4 +1,3 @@
-
 ---
 title: "39800 - AUMONT | Entraide, Annonces, Initiatives"
 description: "39800 - AUMONT | Entraide, Annonces, Initiatives"

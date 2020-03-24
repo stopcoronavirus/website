@@ -1,4 +1,3 @@
-
 ---
 title: "89310 - STE VERTU | Entraide, Annonces, Initiatives"
 description: "89310 - STE VERTU | Entraide, Annonces, Initiatives"

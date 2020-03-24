@@ -1,4 +1,3 @@
-
 ---
 title: "53700 - ST GERMAIN DE COULAMER | Entraide, Annonces, Initiatives"
 description: "53700 - ST GERMAIN DE COULAMER | Entraide, Annonces, Initiatives"

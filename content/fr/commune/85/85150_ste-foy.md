@@ -1,4 +1,3 @@
-
 ---
 title: "85150 - STE FOY | Entraide, Annonces, Initiatives"
 description: "85150 - STE FOY | Entraide, Annonces, Initiatives"

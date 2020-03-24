@@ -1,4 +1,3 @@
-
 ---
 title: "37120 - VERNEUIL LE CHATEAU | Entraide, Annonces, Initiatives"
 description: "37120 - VERNEUIL LE CHATEAU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "26300 - ALIXAN | Entraide, Annonces, Initiatives"
 description: "26300 - ALIXAN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "39400 - HAUTS DE BIENNE | Entraide, Annonces, Initiatives"
 description: "39400 - HAUTS DE BIENNE | Entraide, Annonces, Initiatives"

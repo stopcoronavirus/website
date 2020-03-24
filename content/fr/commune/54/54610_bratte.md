@@ -1,4 +1,3 @@
-
 ---
 title: "54610 - BRATTE | Entraide, Annonces, Initiatives"
 description: "54610 - BRATTE | Entraide, Annonces, Initiatives"

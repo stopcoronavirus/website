@@ -1,4 +1,3 @@
-
 ---
 title: "27400 - LE MESNIL JOURDAIN | Entraide, Annonces, Initiatives"
 description: "27400 - LE MESNIL JOURDAIN | Entraide, Annonces, Initiatives"

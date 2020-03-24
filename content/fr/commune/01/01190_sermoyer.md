@@ -1,4 +1,3 @@
-
 ---
 title: "01190 - SERMOYER | Entraide, Annonces, Initiatives"
 description: "01190 - SERMOYER | Entraide, Annonces, Initiatives"

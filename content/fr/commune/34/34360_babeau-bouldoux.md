@@ -1,4 +1,3 @@
-
 ---
 title: "34360 - BABEAU BOULDOUX | Entraide, Annonces, Initiatives"
 description: "34360 - BABEAU BOULDOUX | Entraide, Annonces, Initiatives"

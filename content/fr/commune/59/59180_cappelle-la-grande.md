@@ -1,4 +1,3 @@
-
 ---
 title: "59180 - CAPPELLE LA GRANDE | Entraide, Annonces, Initiatives"
 description: "59180 - CAPPELLE LA GRANDE | Entraide, Annonces, Initiatives"

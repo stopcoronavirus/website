@@ -1,4 +1,3 @@
-
 ---
 title: "02200 - BILLY SUR AISNE | Entraide, Annonces, Initiatives"
 description: "02200 - BILLY SUR AISNE | Entraide, Annonces, Initiatives"

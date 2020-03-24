@@ -1,4 +1,3 @@
-
 ---
 title: "49250 - BEAUFORT EN ANJOU | Entraide, Annonces, Initiatives"
 description: "49250 - BEAUFORT EN ANJOU | Entraide, Annonces, Initiatives"

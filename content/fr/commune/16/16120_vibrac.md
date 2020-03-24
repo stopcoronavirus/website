@@ -1,4 +1,3 @@
-
 ---
 title: "16120 - VIBRAC | Entraide, Annonces, Initiatives"
 description: "16120 - VIBRAC | Entraide, Annonces, Initiatives"

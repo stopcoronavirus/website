@@ -1,4 +1,3 @@
-
 ---
 title: "20118 - COGGIA | Entraide, Annonces, Initiatives"
 description: "20118 - COGGIA | Entraide, Annonces, Initiatives"

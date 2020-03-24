@@ -1,4 +1,3 @@
-
 ---
 title: "23700 - SERMUR | Entraide, Annonces, Initiatives"
 description: "23700 - SERMUR | Entraide, Annonces, Initiatives"

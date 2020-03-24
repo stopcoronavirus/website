@@ -1,4 +1,3 @@
-
 ---
 title: "27250 - LES BOTTEREAUX | Entraide, Annonces, Initiatives"
 description: "27250 - LES BOTTEREAUX | Entraide, Annonces, Initiatives"

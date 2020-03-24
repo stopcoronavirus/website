@@ -1,4 +1,3 @@
-
 ---
 title: "03170 - BIZENEUILLE | Entraide, Annonces, Initiatives"
 description: "03170 - BIZENEUILLE | Entraide, Annonces, Initiatives"

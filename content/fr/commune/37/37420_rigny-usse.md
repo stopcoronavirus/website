@@ -1,4 +1,3 @@
-
 ---
 title: "37420 - RIGNY USSE | Entraide, Annonces, Initiatives"
 description: "37420 - RIGNY USSE | Entraide, Annonces, Initiatives"

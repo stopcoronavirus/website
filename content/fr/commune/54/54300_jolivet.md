@@ -1,4 +1,3 @@
-
 ---
 title: "54300 - JOLIVET | Entraide, Annonces, Initiatives"
 description: "54300 - JOLIVET | Entraide, Annonces, Initiatives"

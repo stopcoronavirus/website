@@ -1,4 +1,3 @@
-
 ---
 title: "20228 - BARRETTALI | Entraide, Annonces, Initiatives"
 description: "20228 - BARRETTALI | Entraide, Annonces, Initiatives"

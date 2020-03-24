@@ -1,4 +1,3 @@
-
 ---
 title: "81640 - LAPARROUQUIAL | Entraide, Annonces, Initiatives"
 description: "81640 - LAPARROUQUIAL | Entraide, Annonces, Initiatives"

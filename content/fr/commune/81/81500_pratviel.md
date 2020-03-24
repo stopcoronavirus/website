@@ -1,4 +1,3 @@
-
 ---
 title: "81500 - PRATVIEL | Entraide, Annonces, Initiatives"
 description: "81500 - PRATVIEL | Entraide, Annonces, Initiatives"

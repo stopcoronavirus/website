@@ -1,4 +1,3 @@
-
 ---
 title: "45650 - ST JEAN LE BLANC | Entraide, Annonces, Initiatives"
 description: "45650 - ST JEAN LE BLANC | Entraide, Annonces, Initiatives"

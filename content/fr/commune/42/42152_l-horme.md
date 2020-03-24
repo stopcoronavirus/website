@@ -1,4 +1,3 @@
-
 ---
 title: "42152 - L HORME | Entraide, Annonces, Initiatives"
 description: "42152 - L HORME | Entraide, Annonces, Initiatives"

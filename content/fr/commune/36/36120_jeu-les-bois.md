@@ -1,4 +1,3 @@
-
 ---
 title: "36120 - JEU LES BOIS | Entraide, Annonces, Initiatives"
 description: "36120 - JEU LES BOIS | Entraide, Annonces, Initiatives"

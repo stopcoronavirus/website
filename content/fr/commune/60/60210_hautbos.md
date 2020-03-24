@@ -1,4 +1,3 @@
-
 ---
 title: "60210 - HAUTBOS | Entraide, Annonces, Initiatives"
 description: "60210 - HAUTBOS | Entraide, Annonces, Initiatives"

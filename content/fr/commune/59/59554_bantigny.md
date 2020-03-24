@@ -1,4 +1,3 @@
-
 ---
 title: "59554 - BANTIGNY | Entraide, Annonces, Initiatives"
 description: "59554 - BANTIGNY | Entraide, Annonces, Initiatives"

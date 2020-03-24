@@ -1,4 +1,3 @@
-
 ---
 title: "26560 - VILLEFRANCHE LE CHATEAU | Entraide, Annonces, Initiatives"
 description: "26560 - VILLEFRANCHE LE CHATEAU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "59370 - MONS EN BAROEUL | Entraide, Annonces, Initiatives"
 description: "59370 - MONS EN BAROEUL | Entraide, Annonces, Initiatives"

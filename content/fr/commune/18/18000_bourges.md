@@ -1,4 +1,3 @@
-
 ---
 title: "18000 - BOURGES | Entraide, Annonces, Initiatives"
 description: "18000 - BOURGES | Entraide, Annonces, Initiatives"

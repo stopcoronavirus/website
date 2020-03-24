@@ -1,4 +1,3 @@
-
 ---
 title: "02290 - VASSENS | Entraide, Annonces, Initiatives"
 description: "02290 - VASSENS | Entraide, Annonces, Initiatives"

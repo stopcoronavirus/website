@@ -1,4 +1,3 @@
-
 ---
 title: "56380 - ST MALO DE BEIGNON | Entraide, Annonces, Initiatives"
 description: "56380 - ST MALO DE BEIGNON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "07450 - BURZET | Entraide, Annonces, Initiatives"
 description: "07450 - BURZET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "24320 - CHAMPAGNE ET FONTAINE | Entraide, Annonces, Initiatives"
 description: "24320 - CHAMPAGNE ET FONTAINE | Entraide, Annonces, Initiatives"

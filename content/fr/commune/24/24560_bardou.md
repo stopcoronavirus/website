@@ -1,4 +1,3 @@
-
 ---
 title: "24560 - BARDOU | Entraide, Annonces, Initiatives"
 description: "24560 - BARDOU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "06160 - ANTIBES | Entraide, Annonces, Initiatives"
 description: "06160 - ANTIBES | Entraide, Annonces, Initiatives"

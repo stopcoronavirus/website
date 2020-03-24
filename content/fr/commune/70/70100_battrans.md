@@ -1,4 +1,3 @@
-
 ---
 title: "70100 - BATTRANS | Entraide, Annonces, Initiatives"
 description: "70100 - BATTRANS | Entraide, Annonces, Initiatives"

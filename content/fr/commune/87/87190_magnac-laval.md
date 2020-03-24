@@ -1,4 +1,3 @@
-
 ---
 title: "87190 - MAGNAC LAVAL | Entraide, Annonces, Initiatives"
 description: "87190 - MAGNAC LAVAL | Entraide, Annonces, Initiatives"

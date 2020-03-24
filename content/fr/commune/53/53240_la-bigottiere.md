@@ -1,4 +1,3 @@
-
 ---
 title: "53240 - LA BIGOTTIERE | Entraide, Annonces, Initiatives"
 description: "53240 - LA BIGOTTIERE | Entraide, Annonces, Initiatives"

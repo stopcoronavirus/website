@@ -1,4 +1,3 @@
-
 ---
 title: "14290 - LA VESPIERE FRIARDEL | Entraide, Annonces, Initiatives"
 description: "14290 - LA VESPIERE FRIARDEL | Entraide, Annonces, Initiatives"

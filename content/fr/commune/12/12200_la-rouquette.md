@@ -1,4 +1,3 @@
-
 ---
 title: "12200 - LA ROUQUETTE | Entraide, Annonces, Initiatives"
 description: "12200 - LA ROUQUETTE | Entraide, Annonces, Initiatives"

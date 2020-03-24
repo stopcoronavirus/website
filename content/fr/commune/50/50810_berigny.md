@@ -1,4 +1,3 @@
-
 ---
 title: "50810 - BERIGNY | Entraide, Annonces, Initiatives"
 description: "50810 - BERIGNY | Entraide, Annonces, Initiatives"

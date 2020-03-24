@@ -1,4 +1,3 @@
-
 ---
 title: "60120 - LA HERELLE | Entraide, Annonces, Initiatives"
 description: "60120 - LA HERELLE | Entraide, Annonces, Initiatives"

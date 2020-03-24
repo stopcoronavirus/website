@@ -1,4 +1,3 @@
-
 ---
 title: "22450 - LANGOAT | Entraide, Annonces, Initiatives"
 description: "22450 - LANGOAT | Entraide, Annonces, Initiatives"

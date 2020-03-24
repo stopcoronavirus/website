@@ -1,4 +1,3 @@
-
 ---
 title: "85170 - BEAUFOU | Entraide, Annonces, Initiatives"
 description: "85170 - BEAUFOU | Entraide, Annonces, Initiatives"

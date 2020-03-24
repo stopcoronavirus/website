@@ -1,4 +1,3 @@
-
 ---
 title: "69150 - DECINES CHARPIEU | Entraide, Annonces, Initiatives"
 description: "69150 - DECINES CHARPIEU | Entraide, Annonces, Initiatives"

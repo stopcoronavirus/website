@@ -1,4 +1,3 @@
-
 ---
 title: "12160 - MANHAC | Entraide, Annonces, Initiatives"
 description: "12160 - MANHAC | Entraide, Annonces, Initiatives"

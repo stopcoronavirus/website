@@ -1,4 +1,3 @@
-
 ---
 title: "27470 - SERQUIGNY | Entraide, Annonces, Initiatives"
 description: "27470 - SERQUIGNY | Entraide, Annonces, Initiatives"

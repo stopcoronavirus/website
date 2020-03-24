@@ -1,4 +1,3 @@
-
 ---
 title: "81700 - BERTRE | Entraide, Annonces, Initiatives"
 description: "81700 - BERTRE | Entraide, Annonces, Initiatives"

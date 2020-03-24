@@ -1,4 +1,3 @@
-
 ---
 title: "41100 - MARCILLY EN BEAUCE | Entraide, Annonces, Initiatives"
 description: "41100 - MARCILLY EN BEAUCE | Entraide, Annonces, Initiatives"

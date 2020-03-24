@@ -1,4 +1,3 @@
-
 ---
 title: "44130 - NOTRE DAME DES LANDES | Entraide, Annonces, Initiatives"
 description: "44130 - NOTRE DAME DES LANDES | Entraide, Annonces, Initiatives"

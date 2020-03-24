@@ -1,4 +1,3 @@
-
 ---
 title: "02220 - BAZOCHES SUR VESLES | Entraide, Annonces, Initiatives"
 description: "02220 - BAZOCHES SUR VESLES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "89250 - BEAUMONT | Entraide, Annonces, Initiatives"
 description: "89250 - BEAUMONT | Entraide, Annonces, Initiatives"

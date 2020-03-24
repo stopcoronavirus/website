@@ -1,4 +1,3 @@
-
 ---
 title: "27170 - ROMILLY LA PUTHENAYE | Entraide, Annonces, Initiatives"
 description: "27170 - ROMILLY LA PUTHENAYE | Entraide, Annonces, Initiatives"

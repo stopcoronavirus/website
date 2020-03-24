@@ -1,4 +1,3 @@
-
 ---
 title: "83150 - BANDOL | Entraide, Annonces, Initiatives"
 description: "83150 - BANDOL | Entraide, Annonces, Initiatives"

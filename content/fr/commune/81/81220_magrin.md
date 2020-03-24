@@ -1,4 +1,3 @@
-
 ---
 title: "81220 - MAGRIN | Entraide, Annonces, Initiatives"
 description: "81220 - MAGRIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "30210 - SERNHAC | Entraide, Annonces, Initiatives"
 description: "30210 - SERNHAC | Entraide, Annonces, Initiatives"

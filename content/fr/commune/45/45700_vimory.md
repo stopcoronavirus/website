@@ -1,4 +1,3 @@
-
 ---
 title: "45700 - VIMORY | Entraide, Annonces, Initiatives"
 description: "45700 - VIMORY | Entraide, Annonces, Initiatives"

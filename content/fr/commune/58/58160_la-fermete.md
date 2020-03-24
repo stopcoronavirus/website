@@ -1,4 +1,3 @@
-
 ---
 title: "58160 - LA FERMETE | Entraide, Annonces, Initiatives"
 description: "58160 - LA FERMETE | Entraide, Annonces, Initiatives"

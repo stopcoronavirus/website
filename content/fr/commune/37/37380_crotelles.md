@@ -1,4 +1,3 @@
-
 ---
 title: "37380 - CROTELLES | Entraide, Annonces, Initiatives"
 description: "37380 - CROTELLES | Entraide, Annonces, Initiatives"

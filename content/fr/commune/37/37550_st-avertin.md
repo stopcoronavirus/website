@@ -1,4 +1,3 @@
-
 ---
 title: "37550 - ST AVERTIN | Entraide, Annonces, Initiatives"
 description: "37550 - ST AVERTIN | Entraide, Annonces, Initiatives"

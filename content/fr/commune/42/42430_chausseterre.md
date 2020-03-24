@@ -1,4 +1,3 @@
-
 ---
 title: "42430 - CHAUSSETERRE | Entraide, Annonces, Initiatives"
 description: "42430 - CHAUSSETERRE | Entraide, Annonces, Initiatives"

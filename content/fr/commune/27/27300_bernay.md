@@ -1,4 +1,3 @@
-
 ---
 title: "27300 - BERNAY | Entraide, Annonces, Initiatives"
 description: "27300 - BERNAY | Entraide, Annonces, Initiatives"

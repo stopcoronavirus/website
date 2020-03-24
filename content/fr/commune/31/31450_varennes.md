@@ -1,4 +1,3 @@
-
 ---
 title: "31450 - VARENNES | Entraide, Annonces, Initiatives"
 description: "31450 - VARENNES | Entraide, Annonces, Initiatives"

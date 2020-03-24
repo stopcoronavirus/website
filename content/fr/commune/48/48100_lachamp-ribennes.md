@@ -1,4 +1,3 @@
-
 ---
 title: "48100 - LACHAMP RIBENNES | Entraide, Annonces, Initiatives"
 description: "48100 - LACHAMP RIBENNES | Entraide, Annonces, Initiatives"

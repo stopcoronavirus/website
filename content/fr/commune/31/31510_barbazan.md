@@ -1,4 +1,3 @@
-
 ---
 title: "31510 - BARBAZAN | Entraide, Annonces, Initiatives"
 description: "31510 - BARBAZAN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "61100 - CALIGNY | Entraide, Annonces, Initiatives"
 description: "61100 - CALIGNY | Entraide, Annonces, Initiatives"

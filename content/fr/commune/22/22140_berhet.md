@@ -1,4 +1,3 @@
-
 ---
 title: "22140 - BERHET | Entraide, Annonces, Initiatives"
 description: "22140 - BERHET | Entraide, Annonces, Initiatives"

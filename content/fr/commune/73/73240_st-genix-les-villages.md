@@ -1,4 +1,3 @@
-
 ---
 title: "73240 - ST GENIX LES VILLAGES | Entraide, Annonces, Initiatives"
 description: "73240 - ST GENIX LES VILLAGES | Entraide, Annonces, Initiatives"

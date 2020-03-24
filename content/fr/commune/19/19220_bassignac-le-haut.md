@@ -1,4 +1,3 @@
-
 ---
 title: "19220 - BASSIGNAC LE HAUT | Entraide, Annonces, Initiatives"
 description: "19220 - BASSIGNAC LE HAUT | Entraide, Annonces, Initiatives"

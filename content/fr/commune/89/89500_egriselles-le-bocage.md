@@ -1,4 +1,3 @@
-
 ---
 title: "89500 - EGRISELLES LE BOCAGE | Entraide, Annonces, Initiatives"
 description: "89500 - EGRISELLES LE BOCAGE | Entraide, Annonces, Initiatives"

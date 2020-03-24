@@ -1,4 +1,3 @@
-
 ---
 title: "12340 - BOZOULS | Entraide, Annonces, Initiatives"
 description: "12340 - BOZOULS | Entraide, Annonces, Initiatives"

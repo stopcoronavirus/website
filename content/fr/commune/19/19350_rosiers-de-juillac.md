@@ -1,4 +1,3 @@
-
 ---
 title: "19350 - ROSIERS DE JUILLAC | Entraide, Annonces, Initiatives"
 description: "19350 - ROSIERS DE JUILLAC | Entraide, Annonces, Initiatives"

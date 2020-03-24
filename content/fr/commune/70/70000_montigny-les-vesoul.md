@@ -1,4 +1,3 @@
-
 ---
 title: "70000 - MONTIGNY LES VESOUL | Entraide, Annonces, Initiatives"
 description: "70000 - MONTIGNY LES VESOUL | Entraide, Annonces, Initiatives"

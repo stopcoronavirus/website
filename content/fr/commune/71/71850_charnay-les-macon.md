@@ -1,4 +1,3 @@
-
 ---
 title: "71850 - CHARNAY LES MACON | Entraide, Annonces, Initiatives"
 description: "71850 - CHARNAY LES MACON | Entraide, Annonces, Initiatives"

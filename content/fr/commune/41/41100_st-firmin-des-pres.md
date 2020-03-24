@@ -1,4 +1,3 @@
-
 ---
 title: "41100 - ST FIRMIN DES PRES | Entraide, Annonces, Initiatives"
 description: "41100 - ST FIRMIN DES PRES | Entraide, Annonces, Initiatives"

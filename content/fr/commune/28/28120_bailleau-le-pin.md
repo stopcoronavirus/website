@@ -1,4 +1,3 @@
-
 ---
 title: "28120 - BAILLEAU LE PIN | Entraide, Annonces, Initiatives"
 description: "28120 - BAILLEAU LE PIN | Entraide, Annonces, Initiatives"

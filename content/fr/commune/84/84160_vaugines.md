@@ -1,4 +1,3 @@
-
 ---
 title: "84160 - VAUGINES | Entraide, Annonces, Initiatives"
 description: "84160 - VAUGINES | Entraide, Annonces, Initiatives"

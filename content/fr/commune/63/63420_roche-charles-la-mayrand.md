@@ -1,4 +1,3 @@
-
 ---
 title: "63420 - ROCHE CHARLES LA MAYRAND | Entraide, Annonces, Initiatives"
 description: "63420 - ROCHE CHARLES LA MAYRAND | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "42600 - ESSERTINES EN CHATELNEUF | Entraide, Annonces, Initiatives"
 description: "42600 - ESSERTINES EN CHATELNEUF | Entraide, Annonces, Initiatives"

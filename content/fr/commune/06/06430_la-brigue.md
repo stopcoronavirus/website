@@ -1,4 +1,3 @@
-
 ---
 title: "06430 - LA BRIGUE | Entraide, Annonces, Initiatives"
 description: "06430 - LA BRIGUE | Entraide, Annonces, Initiatives"

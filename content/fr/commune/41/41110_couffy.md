@@ -1,4 +1,3 @@
-
 ---
 title: "41110 - COUFFY | Entraide, Annonces, Initiatives"
 description: "41110 - COUFFY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "38840 - LA SONE | Entraide, Annonces, Initiatives"
 description: "38840 - LA SONE | Entraide, Annonces, Initiatives"

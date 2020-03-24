@@ -1,4 +1,3 @@
-
 ---
 title: "74140 - VEIGY FONCENEX | Entraide, Annonces, Initiatives"
 description: "74140 - VEIGY FONCENEX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "16110 - TAPONNAT FLEURIGNAC | Entraide, Annonces, Initiatives"
 description: "16110 - TAPONNAT FLEURIGNAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "63500 - ST BABEL | Entraide, Annonces, Initiatives"
 description: "63500 - ST BABEL | Entraide, Annonces, Initiatives"

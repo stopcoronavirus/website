@@ -1,4 +1,3 @@
-
 ---
 title: "71530 - SASSENAY | Entraide, Annonces, Initiatives"
 description: "71530 - SASSENAY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "70100 - CRESANCEY | Entraide, Annonces, Initiatives"
 description: "70100 - CRESANCEY | Entraide, Annonces, Initiatives"

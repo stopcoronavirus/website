@@ -1,4 +1,3 @@
-
 ---
 title: "35114 - ST BENOIT DES ONDES | Entraide, Annonces, Initiatives"
 description: "35114 - ST BENOIT DES ONDES | Entraide, Annonces, Initiatives"

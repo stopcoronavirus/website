@@ -1,4 +1,3 @@
-
 ---
 title: "82400 - POMMEVIC | Entraide, Annonces, Initiatives"
 description: "82400 - POMMEVIC | Entraide, Annonces, Initiatives"

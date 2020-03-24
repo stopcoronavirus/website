@@ -1,4 +1,3 @@
-
 ---
 title: "21110 - GENLIS | Entraide, Annonces, Initiatives"
 description: "21110 - GENLIS | Entraide, Annonces, Initiatives"

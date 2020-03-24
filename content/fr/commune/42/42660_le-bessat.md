@@ -1,4 +1,3 @@
-
 ---
 title: "42660 - LE BESSAT | Entraide, Annonces, Initiatives"
 description: "42660 - LE BESSAT | Entraide, Annonces, Initiatives"

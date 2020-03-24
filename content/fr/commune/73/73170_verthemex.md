@@ -1,4 +1,3 @@
-
 ---
 title: "73170 - VERTHEMEX | Entraide, Annonces, Initiatives"
 description: "73170 - VERTHEMEX | Entraide, Annonces, Initiatives"

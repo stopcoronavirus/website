@@ -1,4 +1,3 @@
-
 ---
 title: "55220 - IPPECOURT | Entraide, Annonces, Initiatives"
 description: "55220 - IPPECOURT | Entraide, Annonces, Initiatives"

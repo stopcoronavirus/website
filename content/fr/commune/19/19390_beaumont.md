@@ -1,4 +1,3 @@
-
 ---
 title: "19390 - BEAUMONT | Entraide, Annonces, Initiatives"
 description: "19390 - BEAUMONT | Entraide, Annonces, Initiatives"

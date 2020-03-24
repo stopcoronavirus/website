@@ -1,4 +1,3 @@
-
 ---
 title: "83560 - LA VERDIERE | Entraide, Annonces, Initiatives"
 description: "83560 - LA VERDIERE | Entraide, Annonces, Initiatives"

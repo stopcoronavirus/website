@@ -1,4 +1,3 @@
-
 ---
 title: "54700 - BOUXIERES SOUS FROIDMONT | Entraide, Annonces, Initiatives"
 description: "54700 - BOUXIERES SOUS FROIDMONT | Entraide, Annonces, Initiatives"

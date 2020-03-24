@@ -1,4 +1,3 @@
-
 ---
 title: "81150 - BERNAC | Entraide, Annonces, Initiatives"
 description: "81150 - BERNAC | Entraide, Annonces, Initiatives"

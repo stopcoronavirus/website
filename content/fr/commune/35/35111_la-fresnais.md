@@ -1,4 +1,3 @@
-
 ---
 title: "35111 - LA FRESNAIS | Entraide, Annonces, Initiatives"
 description: "35111 - LA FRESNAIS | Entraide, Annonces, Initiatives"

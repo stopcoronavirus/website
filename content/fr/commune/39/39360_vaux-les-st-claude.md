@@ -1,4 +1,3 @@
-
 ---
 title: "39360 - VAUX LES ST CLAUDE | Entraide, Annonces, Initiatives"
 description: "39360 - VAUX LES ST CLAUDE | Entraide, Annonces, Initiatives"

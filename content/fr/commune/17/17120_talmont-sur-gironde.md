@@ -1,4 +1,3 @@
-
 ---
 title: "17120 - TALMONT SUR GIRONDE | Entraide, Annonces, Initiatives"
 description: "17120 - TALMONT SUR GIRONDE | Entraide, Annonces, Initiatives"

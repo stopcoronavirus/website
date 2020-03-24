@@ -1,4 +1,3 @@
-
 ---
 title: "78460 - CHOISEL | Entraide, Annonces, Initiatives"
 description: "78460 - CHOISEL | Entraide, Annonces, Initiatives"

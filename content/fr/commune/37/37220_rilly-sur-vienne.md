@@ -1,4 +1,3 @@
-
 ---
 title: "37220 - RILLY SUR VIENNE | Entraide, Annonces, Initiatives"
 description: "37220 - RILLY SUR VIENNE | Entraide, Annonces, Initiatives"

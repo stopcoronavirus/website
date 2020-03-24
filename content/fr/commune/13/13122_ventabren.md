@@ -1,4 +1,3 @@
-
 ---
 title: "13122 - VENTABREN | Entraide, Annonces, Initiatives"
 description: "13122 - VENTABREN | Entraide, Annonces, Initiatives"

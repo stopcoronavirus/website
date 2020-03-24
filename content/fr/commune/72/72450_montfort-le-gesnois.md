@@ -1,4 +1,3 @@
-
 ---
 title: "72450 - MONTFORT LE GESNOIS | Entraide, Annonces, Initiatives"
 description: "72450 - MONTFORT LE GESNOIS | Entraide, Annonces, Initiatives"

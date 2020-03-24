@@ -1,4 +1,3 @@
-
 ---
 title: "36170 - VIGOUX | Entraide, Annonces, Initiatives"
 description: "36170 - VIGOUX | Entraide, Annonces, Initiatives"

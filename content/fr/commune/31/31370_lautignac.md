@@ -1,4 +1,3 @@
-
 ---
 title: "31370 - LAUTIGNAC | Entraide, Annonces, Initiatives"
 description: "31370 - LAUTIGNAC | Entraide, Annonces, Initiatives"

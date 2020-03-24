@@ -1,4 +1,3 @@
-
 ---
 title: "38590 - ST MICHEL DE ST GEOIRS | Entraide, Annonces, Initiatives"
 description: "38590 - ST MICHEL DE ST GEOIRS | Entraide, Annonces, Initiatives"

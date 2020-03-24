@@ -1,4 +1,3 @@
-
 ---
 title: "63580 - CHAMPAGNAT LE JEUNE | Entraide, Annonces, Initiatives"
 description: "63580 - CHAMPAGNAT LE JEUNE | Entraide, Annonces, Initiatives"

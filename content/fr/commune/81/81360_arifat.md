@@ -1,4 +1,3 @@
-
 ---
 title: "81360 - ARIFAT | Entraide, Annonces, Initiatives"
 description: "81360 - ARIFAT | Entraide, Annonces, Initiatives"

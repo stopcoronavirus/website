@@ -1,4 +1,3 @@
-
 ---
 title: "58300 - VERNEUIL | Entraide, Annonces, Initiatives"
 description: "58300 - VERNEUIL | Entraide, Annonces, Initiatives"

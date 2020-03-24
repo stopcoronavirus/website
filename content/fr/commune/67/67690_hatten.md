@@ -1,4 +1,3 @@
-
 ---
 title: "67690 - HATTEN | Entraide, Annonces, Initiatives"
 description: "67690 - HATTEN | Entraide, Annonces, Initiatives"

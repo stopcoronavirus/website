@@ -1,4 +1,3 @@
-
 ---
 title: "21500 - QUINCEROT | Entraide, Annonces, Initiatives"
 description: "21500 - QUINCEROT | Entraide, Annonces, Initiatives"

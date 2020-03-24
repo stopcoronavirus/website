@@ -1,4 +1,3 @@
-
 ---
 title: "47800 - MONTIGNAC DE LAUZUN | Entraide, Annonces, Initiatives"
 description: "47800 - MONTIGNAC DE LAUZUN | Entraide, Annonces, Initiatives"

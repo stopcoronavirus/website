@@ -1,4 +1,3 @@
-
 ---
 title: "71350 - SERMESSE | Entraide, Annonces, Initiatives"
 description: "71350 - SERMESSE | Entraide, Annonces, Initiatives"

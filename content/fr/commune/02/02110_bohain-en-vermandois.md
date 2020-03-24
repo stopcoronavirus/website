@@ -1,4 +1,3 @@
-
 ---
 title: "02110 - BOHAIN EN VERMANDOIS | Entraide, Annonces, Initiatives"
 description: "02110 - BOHAIN EN VERMANDOIS | Entraide, Annonces, Initiatives"

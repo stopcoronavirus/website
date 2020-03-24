@@ -1,4 +1,3 @@
-
 ---
 title: "22300 - ROSPEZ | Entraide, Annonces, Initiatives"
 description: "22300 - ROSPEZ | Entraide, Annonces, Initiatives"

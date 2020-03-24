@@ -1,4 +1,3 @@
-
 ---
 title: "62310 - CREQUY | Entraide, Annonces, Initiatives"
 description: "62310 - CREQUY | Entraide, Annonces, Initiatives"

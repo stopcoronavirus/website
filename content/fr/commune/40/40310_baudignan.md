@@ -1,4 +1,3 @@
-
 ---
 title: "40310 - BAUDIGNAN | Entraide, Annonces, Initiatives"
 description: "40310 - BAUDIGNAN | Entraide, Annonces, Initiatives"

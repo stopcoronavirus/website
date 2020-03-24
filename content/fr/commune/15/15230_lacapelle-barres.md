@@ -1,4 +1,3 @@
-
 ---
 title: "15230 - LACAPELLE BARRES | Entraide, Annonces, Initiatives"
 description: "15230 - LACAPELLE BARRES | Entraide, Annonces, Initiatives"

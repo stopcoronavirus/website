@@ -1,4 +1,3 @@
-
 ---
 title: "35700 - RENNES | Entraide, Annonces, Initiatives"
 description: "35700 - RENNES | Entraide, Annonces, Initiatives"

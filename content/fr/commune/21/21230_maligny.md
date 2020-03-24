@@ -1,4 +1,3 @@
-
 ---
 title: "21230 - MALIGNY | Entraide, Annonces, Initiatives"
 description: "21230 - MALIGNY | Entraide, Annonces, Initiatives"

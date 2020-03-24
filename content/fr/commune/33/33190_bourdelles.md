@@ -1,4 +1,3 @@
-
 ---
 title: "33190 - BOURDELLES | Entraide, Annonces, Initiatives"
 description: "33190 - BOURDELLES | Entraide, Annonces, Initiatives"

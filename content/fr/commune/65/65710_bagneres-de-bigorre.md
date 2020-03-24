@@ -1,4 +1,3 @@
-
 ---
 title: "65710 - BAGNERES DE BIGORRE | Entraide, Annonces, Initiatives"
 description: "65710 - BAGNERES DE BIGORRE | Entraide, Annonces, Initiatives"

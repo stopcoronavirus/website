@@ -1,4 +1,3 @@
-
 ---
 title: "36180 - FREDILLE | Entraide, Annonces, Initiatives"
 description: "36180 - FREDILLE | Entraide, Annonces, Initiatives"

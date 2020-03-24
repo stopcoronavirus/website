@@ -1,4 +1,3 @@
-
 ---
 title: "44450 - ST JULIEN DE CONCELLES | Entraide, Annonces, Initiatives"
 description: "44450 - ST JULIEN DE CONCELLES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "19500 - MARCILLAC LA CROZE | Entraide, Annonces, Initiatives"
 description: "19500 - MARCILLAC LA CROZE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "51500 - SERMIERS | Entraide, Annonces, Initiatives"
 description: "51500 - SERMIERS | Entraide, Annonces, Initiatives"

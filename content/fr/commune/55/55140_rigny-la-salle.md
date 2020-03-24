@@ -1,4 +1,3 @@
-
 ---
 title: "55140 - RIGNY LA SALLE | Entraide, Annonces, Initiatives"
 description: "55140 - RIGNY LA SALLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "74430 - LA BAUME | Entraide, Annonces, Initiatives"
 description: "74430 - LA BAUME | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "35330 - LA CHAPELLE BOUEXIC | Entraide, Annonces, Initiatives"
 description: "35330 - LA CHAPELLE BOUEXIC | Entraide, Annonces, Initiatives"

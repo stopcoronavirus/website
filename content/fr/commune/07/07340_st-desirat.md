@@ -1,4 +1,3 @@
-
 ---
 title: "07340 - ST DESIRAT | Entraide, Annonces, Initiatives"
 description: "07340 - ST DESIRAT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "28630 - VER LES CHARTRES | Entraide, Annonces, Initiatives"
 description: "28630 - VER LES CHARTRES | Entraide, Annonces, Initiatives"

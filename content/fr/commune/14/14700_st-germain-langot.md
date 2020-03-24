@@ -1,4 +1,3 @@
-
 ---
 title: "14700 - ST GERMAIN LANGOT | Entraide, Annonces, Initiatives"
 description: "14700 - ST GERMAIN LANGOT | Entraide, Annonces, Initiatives"

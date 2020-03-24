@@ -1,4 +1,3 @@
-
 ---
 title: "71460 - ST MARTIN LA PATROUILLE | Entraide, Annonces, Initiatives"
 description: "71460 - ST MARTIN LA PATROUILLE | Entraide, Annonces, Initiatives"

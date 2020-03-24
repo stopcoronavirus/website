@@ -1,4 +1,3 @@
-
 ---
 title: "33230 - LES PEINTURES | Entraide, Annonces, Initiatives"
 description: "33230 - LES PEINTURES | Entraide, Annonces, Initiatives"

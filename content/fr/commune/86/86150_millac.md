@@ -1,4 +1,3 @@
-
 ---
 title: "86150 - MILLAC | Entraide, Annonces, Initiatives"
 description: "86150 - MILLAC | Entraide, Annonces, Initiatives"

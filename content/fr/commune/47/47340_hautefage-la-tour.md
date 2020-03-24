@@ -1,4 +1,3 @@
-
 ---
 title: "47340 - HAUTEFAGE LA TOUR | Entraide, Annonces, Initiatives"
 description: "47340 - HAUTEFAGE LA TOUR | Entraide, Annonces, Initiatives"

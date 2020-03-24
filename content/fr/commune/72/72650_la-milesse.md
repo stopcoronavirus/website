@@ -1,4 +1,3 @@
-
 ---
 title: "72650 - LA MILESSE | Entraide, Annonces, Initiatives"
 description: "72650 - LA MILESSE | Entraide, Annonces, Initiatives"

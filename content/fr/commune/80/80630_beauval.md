@@ -1,4 +1,3 @@
-
 ---
 title: "80630 - BEAUVAL | Entraide, Annonces, Initiatives"
 description: "80630 - BEAUVAL | Entraide, Annonces, Initiatives"

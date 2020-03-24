@@ -1,4 +1,3 @@
-
 ---
 title: "87120 - BEAUMONT DU LAC | Entraide, Annonces, Initiatives"
 description: "87120 - BEAUMONT DU LAC | Entraide, Annonces, Initiatives"

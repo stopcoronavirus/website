@@ -1,4 +1,3 @@
-
 ---
 title: "24130 - BOSSET | Entraide, Annonces, Initiatives"
 description: "24130 - BOSSET | Entraide, Annonces, Initiatives"

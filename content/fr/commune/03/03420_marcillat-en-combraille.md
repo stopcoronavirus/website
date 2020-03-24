@@ -1,4 +1,3 @@
-
 ---
 title: "03420 - MARCILLAT EN COMBRAILLE | Entraide, Annonces, Initiatives"
 description: "03420 - MARCILLAT EN COMBRAILLE | Entraide, Annonces, Initiatives"

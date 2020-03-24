@@ -1,4 +1,3 @@
-
 ---
 title: "02860 - COLLIGIS CRANDELAIN | Entraide, Annonces, Initiatives"
 description: "02860 - COLLIGIS CRANDELAIN | Entraide, Annonces, Initiatives"

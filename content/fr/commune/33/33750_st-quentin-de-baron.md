@@ -1,4 +1,3 @@
-
 ---
 title: "33750 - ST QUENTIN DE BARON | Entraide, Annonces, Initiatives"
 description: "33750 - ST QUENTIN DE BARON | Entraide, Annonces, Initiatives"

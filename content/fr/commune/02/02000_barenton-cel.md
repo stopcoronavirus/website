@@ -1,4 +1,3 @@
-
 ---
 title: "02000 - BARENTON CEL | Entraide, Annonces, Initiatives"
 description: "02000 - BARENTON CEL | Entraide, Annonces, Initiatives"

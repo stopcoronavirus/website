@@ -1,4 +1,3 @@
-
 ---
 title: "36300 - RUFFEC | Entraide, Annonces, Initiatives"
 description: "36300 - RUFFEC | Entraide, Annonces, Initiatives"

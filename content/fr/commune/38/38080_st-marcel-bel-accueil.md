@@ -1,4 +1,3 @@
-
 ---
 title: "38080 - ST MARCEL BEL ACCUEIL | Entraide, Annonces, Initiatives"
 description: "38080 - ST MARCEL BEL ACCUEIL | Entraide, Annonces, Initiatives"

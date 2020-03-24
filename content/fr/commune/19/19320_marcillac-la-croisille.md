@@ -1,4 +1,3 @@
-
 ---
 title: "19320 - MARCILLAC LA CROISILLE | Entraide, Annonces, Initiatives"
 description: "19320 - MARCILLAC LA CROISILLE | Entraide, Annonces, Initiatives"

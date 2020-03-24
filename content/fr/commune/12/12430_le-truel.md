@@ -1,4 +1,3 @@
-
 ---
 title: "12430 - LE TRUEL | Entraide, Annonces, Initiatives"
 description: "12430 - LE TRUEL | Entraide, Annonces, Initiatives"

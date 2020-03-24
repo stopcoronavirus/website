@@ -1,4 +1,3 @@
-
 ---
 title: "42330 - ST BONNET LES OULES | Entraide, Annonces, Initiatives"
 description: "42330 - ST BONNET LES OULES | Entraide, Annonces, Initiatives"

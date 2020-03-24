@@ -1,4 +1,3 @@
-
 ---
 title: "60350 - CROUTOY | Entraide, Annonces, Initiatives"
 description: "60350 - CROUTOY | Entraide, Annonces, Initiatives"

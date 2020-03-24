@@ -1,4 +1,3 @@
-
 ---
 title: "59730 - VERTAIN | Entraide, Annonces, Initiatives"
 description: "59730 - VERTAIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "34220 - BOISSET | Entraide, Annonces, Initiatives"
 description: "34220 - BOISSET | Entraide, Annonces, Initiatives"

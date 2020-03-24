@@ -1,4 +1,3 @@
-
 ---
 title: "03120 - BILLEZOIS | Entraide, Annonces, Initiatives"
 description: "03120 - BILLEZOIS | Entraide, Annonces, Initiatives"

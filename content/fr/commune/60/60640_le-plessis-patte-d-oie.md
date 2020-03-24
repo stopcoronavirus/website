@@ -1,4 +1,3 @@
-
 ---
 title: "60640 - LE PLESSIS PATTE D OIE | Entraide, Annonces, Initiatives"
 description: "60640 - LE PLESSIS PATTE D OIE | Entraide, Annonces, Initiatives"

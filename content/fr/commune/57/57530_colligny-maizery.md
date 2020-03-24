@@ -1,4 +1,3 @@
-
 ---
 title: "57530 - COLLIGNY MAIZERY | Entraide, Annonces, Initiatives"
 description: "57530 - COLLIGNY MAIZERY | Entraide, Annonces, Initiatives"

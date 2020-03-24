@@ -1,4 +1,3 @@
-
 ---
 title: "45260 - LA COUR MARIGNY | Entraide, Annonces, Initiatives"
 description: "45260 - LA COUR MARIGNY | Entraide, Annonces, Initiatives"

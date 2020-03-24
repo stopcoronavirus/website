@@ -1,4 +1,3 @@
-
 ---
 title: "74700 - CORDON | Entraide, Annonces, Initiatives"
 description: "74700 - CORDON | Entraide, Annonces, Initiatives"

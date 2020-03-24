@@ -1,4 +1,3 @@
-
 ---
 title: "77154 - VILLENEUVE LES BORDES | Entraide, Annonces, Initiatives"
 description: "77154 - VILLENEUVE LES BORDES | Entraide, Annonces, Initiatives"

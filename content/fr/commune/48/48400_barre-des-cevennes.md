@@ -1,4 +1,3 @@
-
 ---
 title: "48400 - BARRE DES CEVENNES | Entraide, Annonces, Initiatives"
 description: "48400 - BARRE DES CEVENNES | Entraide, Annonces, Initiatives"

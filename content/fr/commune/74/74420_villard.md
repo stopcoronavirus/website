@@ -1,4 +1,3 @@
-
 ---
 title: "74420 - VILLARD | Entraide, Annonces, Initiatives"
 description: "74420 - VILLARD | Entraide, Annonces, Initiatives"

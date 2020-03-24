@@ -1,4 +1,3 @@
-
 ---
 title: "39240 - CERNON | Entraide, Annonces, Initiatives"
 description: "39240 - CERNON | Entraide, Annonces, Initiatives"

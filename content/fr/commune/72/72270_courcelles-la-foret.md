@@ -1,4 +1,3 @@
-
 ---
 title: "72270 - COURCELLES LA FORET | Entraide, Annonces, Initiatives"
 description: "72270 - COURCELLES LA FORET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "56320 - LE FAOUET | Entraide, Annonces, Initiatives"
 description: "56320 - LE FAOUET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "35660 - LANGON | Entraide, Annonces, Initiatives"
 description: "35660 - LANGON | Entraide, Annonces, Initiatives"

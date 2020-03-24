@@ -1,4 +1,3 @@
-
 ---
 title: "62630 - FRENCQ | Entraide, Annonces, Initiatives"
 description: "62630 - FRENCQ | Entraide, Annonces, Initiatives"

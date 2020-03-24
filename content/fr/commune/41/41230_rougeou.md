@@ -1,4 +1,3 @@
-
 ---
 title: "41230 - ROUGEOU | Entraide, Annonces, Initiatives"
 description: "41230 - ROUGEOU | Entraide, Annonces, Initiatives"

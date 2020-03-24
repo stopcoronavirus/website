@@ -1,4 +1,3 @@
-
 ---
 title: "23250 - JANAILLAT | Entraide, Annonces, Initiatives"
 description: "23250 - JANAILLAT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "88480 - ETIVAL CLAIREFONTAINE | Entraide, Annonces, Initiatives"
 description: "88480 - ETIVAL CLAIREFONTAINE | Entraide, Annonces, Initiatives"

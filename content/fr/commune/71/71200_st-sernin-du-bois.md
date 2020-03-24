@@ -1,4 +1,3 @@
-
 ---
 title: "71200 - ST SERNIN DU BOIS | Entraide, Annonces, Initiatives"
 description: "71200 - ST SERNIN DU BOIS | Entraide, Annonces, Initiatives"

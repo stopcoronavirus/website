@@ -1,4 +1,3 @@
-
 ---
 title: "21230 - CHAMPIGNOLLES | Entraide, Annonces, Initiatives"
 description: "21230 - CHAMPIGNOLLES | Entraide, Annonces, Initiatives"

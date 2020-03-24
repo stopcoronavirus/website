@@ -1,4 +1,3 @@
-
 ---
 title: "22800 - COHINIAC | Entraide, Annonces, Initiatives"
 description: "22800 - COHINIAC | Entraide, Annonces, Initiatives"

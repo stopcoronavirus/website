@@ -1,4 +1,3 @@
-
 ---
 title: "28170 - FONTAINE LES RIBOUTS | Entraide, Annonces, Initiatives"
 description: "28170 - FONTAINE LES RIBOUTS | Entraide, Annonces, Initiatives"

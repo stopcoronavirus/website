@@ -1,4 +1,3 @@
-
 ---
 title: "51250 - SERMAIZE LES BAINS | Entraide, Annonces, Initiatives"
 description: "51250 - SERMAIZE LES BAINS | Entraide, Annonces, Initiatives"

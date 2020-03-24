@@ -1,4 +1,3 @@
-
 ---
 title: "59330 - BEAUFORT | Entraide, Annonces, Initiatives"
 description: "59330 - BEAUFORT | Entraide, Annonces, Initiatives"

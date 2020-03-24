@@ -1,4 +1,3 @@
-
 ---
 title: "02340 - VINCY REUIL ET MAGNY | Entraide, Annonces, Initiatives"
 description: "02340 - VINCY REUIL ET MAGNY | Entraide, Annonces, Initiatives"

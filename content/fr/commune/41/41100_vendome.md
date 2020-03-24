@@ -1,4 +1,3 @@
-
 ---
 title: "41100 - VENDOME | Entraide, Annonces, Initiatives"
 description: "41100 - VENDOME | Entraide, Annonces, Initiatives"

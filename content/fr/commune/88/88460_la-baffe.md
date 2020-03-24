@@ -1,4 +1,3 @@
-
 ---
 title: "88460 - LA BAFFE | Entraide, Annonces, Initiatives"
 description: "88460 - LA BAFFE | Entraide, Annonces, Initiatives"

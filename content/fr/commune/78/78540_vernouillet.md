@@ -1,4 +1,3 @@
-
 ---
 title: "78540 - VERNOUILLET | Entraide, Annonces, Initiatives"
 description: "78540 - VERNOUILLET | Entraide, Annonces, Initiatives"

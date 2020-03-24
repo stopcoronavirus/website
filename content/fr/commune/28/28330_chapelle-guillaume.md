@@ -1,4 +1,3 @@
-
 ---
 title: "28330 - CHAPELLE GUILLAUME | Entraide, Annonces, Initiatives"
 description: "28330 - CHAPELLE GUILLAUME | Entraide, Annonces, Initiatives"

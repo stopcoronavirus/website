@@ -1,4 +1,3 @@
-
 ---
 title: "88640 - BARBEY SEROUX | Entraide, Annonces, Initiatives"
 description: "88640 - BARBEY SEROUX | Entraide, Annonces, Initiatives"

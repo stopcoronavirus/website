@@ -1,4 +1,3 @@
-
 ---
 title: "02250 - HOUSSET | Entraide, Annonces, Initiatives"
 description: "02250 - HOUSSET | Entraide, Annonces, Initiatives"

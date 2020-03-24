@@ -1,4 +1,3 @@
-
 ---
 title: "36150 - MEUNET SUR VATAN | Entraide, Annonces, Initiatives"
 description: "36150 - MEUNET SUR VATAN | Entraide, Annonces, Initiatives"

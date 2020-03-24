@@ -1,4 +1,3 @@
-
 ---
 title: "67650 - DIEFFENTHAL | Entraide, Annonces, Initiatives"
 description: "67650 - DIEFFENTHAL | Entraide, Annonces, Initiatives"

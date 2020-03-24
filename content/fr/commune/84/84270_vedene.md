@@ -1,4 +1,3 @@
-
 ---
 title: "84270 - VEDENE | Entraide, Annonces, Initiatives"
 description: "84270 - VEDENE | Entraide, Annonces, Initiatives"

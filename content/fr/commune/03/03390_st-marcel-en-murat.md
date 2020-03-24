@@ -1,4 +1,3 @@
-
 ---
 title: "03390 - ST MARCEL EN MURAT | Entraide, Annonces, Initiatives"
 description: "03390 - ST MARCEL EN MURAT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "72110 - ROUPERROUX LE COQUET | Entraide, Annonces, Initiatives"
 description: "72110 - ROUPERROUX LE COQUET | Entraide, Annonces, Initiatives"

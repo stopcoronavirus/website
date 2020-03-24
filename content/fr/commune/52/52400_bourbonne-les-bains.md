@@ -1,4 +1,3 @@
-
 ---
 title: "52400 - BOURBONNE LES BAINS | Entraide, Annonces, Initiatives"
 description: "52400 - BOURBONNE LES BAINS | Entraide, Annonces, Initiatives"

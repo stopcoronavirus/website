@@ -1,4 +1,3 @@
-
 ---
 title: "12580 - CAMPUAC | Entraide, Annonces, Initiatives"
 description: "12580 - CAMPUAC | Entraide, Annonces, Initiatives"

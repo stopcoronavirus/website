@@ -1,4 +1,3 @@
-
 ---
 title: "62840 - NEUVE CHAPELLE | Entraide, Annonces, Initiatives"
 description: "62840 - NEUVE CHAPELLE | Entraide, Annonces, Initiatives"

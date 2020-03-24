@@ -1,4 +1,3 @@
-
 ---
 title: "21330 - LAIGNES | Entraide, Annonces, Initiatives"
 description: "21330 - LAIGNES | Entraide, Annonces, Initiatives"

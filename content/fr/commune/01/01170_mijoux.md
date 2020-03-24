@@ -1,4 +1,3 @@
-
 ---
 title: "01170 - MIJOUX | Entraide, Annonces, Initiatives"
 description: "01170 - MIJOUX | Entraide, Annonces, Initiatives"

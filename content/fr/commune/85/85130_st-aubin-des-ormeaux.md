@@ -1,4 +1,3 @@
-
 ---
 title: "85130 - ST AUBIN DES ORMEAUX | Entraide, Annonces, Initiatives"
 description: "85130 - ST AUBIN DES ORMEAUX | Entraide, Annonces, Initiatives"

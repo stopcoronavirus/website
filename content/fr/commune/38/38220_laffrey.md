@@ -1,4 +1,3 @@
-
 ---
 title: "38220 - LAFFREY | Entraide, Annonces, Initiatives"
 description: "38220 - LAFFREY | Entraide, Annonces, Initiatives"

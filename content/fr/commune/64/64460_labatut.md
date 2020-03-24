@@ -1,4 +1,3 @@
-
 ---
 title: "64460 - LABATUT | Entraide, Annonces, Initiatives"
 description: "64460 - LABATUT | Entraide, Annonces, Initiatives"

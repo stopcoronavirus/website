@@ -1,4 +1,3 @@
-
 ---
 title: "73110 - LA CROIX DE LA ROCHETTE | Entraide, Annonces, Initiatives"
 description: "73110 - LA CROIX DE LA ROCHETTE | Entraide, Annonces, Initiatives"

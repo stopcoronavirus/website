@@ -1,4 +1,3 @@
-
 ---
 title: "63340 - COLLANGES | Entraide, Annonces, Initiatives"
 description: "63340 - COLLANGES | Entraide, Annonces, Initiatives"

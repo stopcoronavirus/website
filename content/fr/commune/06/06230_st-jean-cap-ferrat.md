@@ -1,4 +1,3 @@
-
 ---
 title: "06230 - ST JEAN CAP FERRAT | Entraide, Annonces, Initiatives"
 description: "06230 - ST JEAN CAP FERRAT | Entraide, Annonces, Initiatives"

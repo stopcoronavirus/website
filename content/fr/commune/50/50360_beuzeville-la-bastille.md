@@ -1,4 +1,3 @@
-
 ---
 title: "50360 - BEUZEVILLE LA BASTILLE | Entraide, Annonces, Initiatives"
 description: "50360 - BEUZEVILLE LA BASTILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "17620 - CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "17620 - CHAMPAGNE | Entraide, Annonces, Initiatives"

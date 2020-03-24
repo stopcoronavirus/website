@@ -1,4 +1,3 @@
-
 ---
 title: "27520 - ST LEGER DU GENNETEY | Entraide, Annonces, Initiatives"
 description: "27520 - ST LEGER DU GENNETEY | Entraide, Annonces, Initiatives"

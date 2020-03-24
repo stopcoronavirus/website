@@ -1,4 +1,3 @@
-
 ---
 title: "69700 - MONTAGNY | Entraide, Annonces, Initiatives"
 description: "69700 - MONTAGNY | Entraide, Annonces, Initiatives"

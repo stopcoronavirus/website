@@ -1,4 +1,3 @@
-
 ---
 title: "03430 - VILLEFRANCHE D ALLIER | Entraide, Annonces, Initiatives"
 description: "03430 - VILLEFRANCHE D ALLIER | Entraide, Annonces, Initiatives"

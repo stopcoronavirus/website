@@ -1,4 +1,3 @@
-
 ---
 title: "64 - Pyrénées-Atlantiques"
 description: "64 - Pyrénées-Atlantiques"

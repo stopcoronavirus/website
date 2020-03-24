@@ -1,4 +1,3 @@
-
 ---
 title: "67430 - MACKWILLER | Entraide, Annonces, Initiatives"
 description: "67430 - MACKWILLER | Entraide, Annonces, Initiatives"

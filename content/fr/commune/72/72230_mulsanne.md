@@ -1,4 +1,3 @@
-
 ---
 title: "72230 - MULSANNE | Entraide, Annonces, Initiatives"
 description: "72230 - MULSANNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "35220 - ST JEAN SUR VILAINE | Entraide, Annonces, Initiatives"
 description: "35220 - ST JEAN SUR VILAINE | Entraide, Annonces, Initiatives"

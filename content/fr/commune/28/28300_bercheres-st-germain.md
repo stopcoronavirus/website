@@ -1,4 +1,3 @@
-
 ---
 title: "28300 - BERCHERES ST GERMAIN | Entraide, Annonces, Initiatives"
 description: "28300 - BERCHERES ST GERMAIN | Entraide, Annonces, Initiatives"

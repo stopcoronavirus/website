@@ -1,4 +1,3 @@
-
 ---
 title: "45140 - BOULAY LES BARRES | Entraide, Annonces, Initiatives"
 description: "45140 - BOULAY LES BARRES | Entraide, Annonces, Initiatives"

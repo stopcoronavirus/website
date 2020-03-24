@@ -1,4 +1,3 @@
-
 ---
 title: "57450 - CAPPEL | Entraide, Annonces, Initiatives"
 description: "57450 - CAPPEL | Entraide, Annonces, Initiatives"

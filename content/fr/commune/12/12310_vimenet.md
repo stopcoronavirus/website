@@ -1,4 +1,3 @@
-
 ---
 title: "12310 - VIMENET | Entraide, Annonces, Initiatives"
 description: "12310 - VIMENET | Entraide, Annonces, Initiatives"

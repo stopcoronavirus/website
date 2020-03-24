@@ -1,4 +1,3 @@
-
 ---
 title: "56670 - RIANTEC | Entraide, Annonces, Initiatives"
 description: "56670 - RIANTEC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "01480 - JASSANS RIOTTIER | Entraide, Annonces, Initiatives"
 description: "01480 - JASSANS RIOTTIER | Entraide, Annonces, Initiatives"

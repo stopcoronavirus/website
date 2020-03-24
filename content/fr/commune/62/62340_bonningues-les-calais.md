@@ -1,4 +1,3 @@
-
 ---
 title: "62340 - BONNINGUES LES CALAIS | Entraide, Annonces, Initiatives"
 description: "62340 - BONNINGUES LES CALAIS | Entraide, Annonces, Initiatives"

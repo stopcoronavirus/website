@@ -1,4 +1,3 @@
-
 ---
 title: "87200 - CHAILLAC SUR VIENNE | Entraide, Annonces, Initiatives"
 description: "87200 - CHAILLAC SUR VIENNE | Entraide, Annonces, Initiatives"

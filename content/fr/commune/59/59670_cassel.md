@@ -1,4 +1,3 @@
-
 ---
 title: "59670 - CASSEL | Entraide, Annonces, Initiatives"
 description: "59670 - CASSEL | Entraide, Annonces, Initiatives"

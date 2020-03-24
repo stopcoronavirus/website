@@ -1,4 +1,3 @@
-
 ---
 title: "70190 - MAIZIERES | Entraide, Annonces, Initiatives"
 description: "70190 - MAIZIERES | Entraide, Annonces, Initiatives"

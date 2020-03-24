@@ -1,4 +1,3 @@
-
 ---
 title: "69230 - ST GENIS LAVAL | Entraide, Annonces, Initiatives"
 description: "69230 - ST GENIS LAVAL | Entraide, Annonces, Initiatives"

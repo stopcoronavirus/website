@@ -1,4 +1,3 @@
-
 ---
 title: "02670 - CHAMPS | Entraide, Annonces, Initiatives"
 description: "02670 - CHAMPS | Entraide, Annonces, Initiatives"

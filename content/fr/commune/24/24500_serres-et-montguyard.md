@@ -1,4 +1,3 @@
-
 ---
 title: "24500 - SERRES ET MONTGUYARD | Entraide, Annonces, Initiatives"
 description: "24500 - SERRES ET MONTGUYARD | Entraide, Annonces, Initiatives"

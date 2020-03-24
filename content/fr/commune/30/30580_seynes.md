@@ -1,4 +1,3 @@
-
 ---
 title: "30580 - SEYNES | Entraide, Annonces, Initiatives"
 description: "30580 - SEYNES | Entraide, Annonces, Initiatives"

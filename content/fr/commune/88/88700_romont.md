@@ -1,4 +1,3 @@
-
 ---
 title: "88700 - ROMONT | Entraide, Annonces, Initiatives"
 description: "88700 - ROMONT | Entraide, Annonces, Initiatives"

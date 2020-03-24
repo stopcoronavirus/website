@@ -1,4 +1,3 @@
-
 ---
 title: "74800 - ST PIERRE EN FAUCIGNY | Entraide, Annonces, Initiatives"
 description: "74800 - ST PIERRE EN FAUCIGNY | Entraide, Annonces, Initiatives"

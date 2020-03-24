@@ -1,4 +1,3 @@
-
 ---
 title: "47300 - PUJOLS | Entraide, Annonces, Initiatives"
 description: "47300 - PUJOLS | Entraide, Annonces, Initiatives"

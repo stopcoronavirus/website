@@ -1,4 +1,3 @@
-
 ---
 title: "14420 - POTIGNY | Entraide, Annonces, Initiatives"
 description: "14420 - POTIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02120 - GRAND VERLY | Entraide, Annonces, Initiatives"
 description: "02120 - GRAND VERLY | Entraide, Annonces, Initiatives"

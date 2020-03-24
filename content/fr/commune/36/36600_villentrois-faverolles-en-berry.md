@@ -1,4 +1,3 @@
-
 ---
 title: "36600 - VILLENTROIS FAVEROLLES EN BERRY | Entraide, Annonces, Initiatives"
 description: "36600 - VILLENTROIS FAVEROLLES EN BERRY | Entraide, Annonces, Initiatives"

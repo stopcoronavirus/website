@@ -1,4 +1,3 @@
-
 ---
 title: "86420 - VERRUE | Entraide, Annonces, Initiatives"
 description: "86420 - VERRUE | Entraide, Annonces, Initiatives"

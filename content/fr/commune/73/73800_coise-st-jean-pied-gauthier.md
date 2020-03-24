@@ -1,4 +1,3 @@
-
 ---
 title: "73800 - COISE ST JEAN PIED GAUTHIER | Entraide, Annonces, Initiatives"
 description: "73800 - COISE ST JEAN PIED GAUTHIER | Entraide, Annonces, Initiatives"

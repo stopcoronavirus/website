@@ -1,4 +1,3 @@
-
 ---
 title: "77130 - BARBEY | Entraide, Annonces, Initiatives"
 description: "77130 - BARBEY | Entraide, Annonces, Initiatives"

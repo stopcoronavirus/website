@@ -1,4 +1,3 @@
-
 ---
 title: "15240 - BASSIGNAC | Entraide, Annonces, Initiatives"
 description: "15240 - BASSIGNAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "26760 - BEAUMONT LES VALENCE | Entraide, Annonces, Initiatives"
 description: "26760 - BEAUMONT LES VALENCE | Entraide, Annonces, Initiatives"

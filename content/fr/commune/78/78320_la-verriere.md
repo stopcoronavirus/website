@@ -1,4 +1,3 @@
-
 ---
 title: "78320 - LA VERRIERE | Entraide, Annonces, Initiatives"
 description: "78320 - LA VERRIERE | Entraide, Annonces, Initiatives"

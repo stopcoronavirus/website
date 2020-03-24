@@ -1,4 +1,3 @@
-
 ---
 title: "36110 - BOUGES LE CHATEAU | Entraide, Annonces, Initiatives"
 description: "36110 - BOUGES LE CHATEAU | Entraide, Annonces, Initiatives"

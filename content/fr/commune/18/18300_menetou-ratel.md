@@ -1,4 +1,3 @@
-
 ---
 title: "18300 - MENETOU RATEL | Entraide, Annonces, Initiatives"
 description: "18300 - MENETOU RATEL | Entraide, Annonces, Initiatives"

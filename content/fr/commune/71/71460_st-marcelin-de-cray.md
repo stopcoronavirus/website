@@ -1,4 +1,3 @@
-
 ---
 title: "71460 - ST MARCELIN DE CRAY | Entraide, Annonces, Initiatives"
 description: "71460 - ST MARCELIN DE CRAY | Entraide, Annonces, Initiatives"

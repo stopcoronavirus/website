@@ -1,4 +1,3 @@
-
 ---
 title: "59281 - RUMILLY EN CAMBRESIS | Entraide, Annonces, Initiatives"
 description: "59281 - RUMILLY EN CAMBRESIS | Entraide, Annonces, Initiatives"

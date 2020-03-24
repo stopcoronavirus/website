@@ -1,4 +1,3 @@
-
 ---
 title: "21360 - VEILLY | Entraide, Annonces, Initiatives"
 description: "21360 - VEILLY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "62470 - CALONNE RICOUART | Entraide, Annonces, Initiatives"
 description: "62470 - CALONNE RICOUART | Entraide, Annonces, Initiatives"

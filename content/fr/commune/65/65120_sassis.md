@@ -1,4 +1,3 @@
-
 ---
 title: "65120 - SASSIS | Entraide, Annonces, Initiatives"
 description: "65120 - SASSIS | Entraide, Annonces, Initiatives"

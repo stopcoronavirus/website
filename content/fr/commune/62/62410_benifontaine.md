@@ -1,4 +1,3 @@
-
 ---
 title: "62410 - BENIFONTAINE | Entraide, Annonces, Initiatives"
 description: "62410 - BENIFONTAINE | Entraide, Annonces, Initiatives"

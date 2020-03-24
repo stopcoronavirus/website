@@ -1,4 +1,3 @@
-
 ---
 title: "38200 - VILLETTE DE VIENNE | Entraide, Annonces, Initiatives"
 description: "38200 - VILLETTE DE VIENNE | Entraide, Annonces, Initiatives"

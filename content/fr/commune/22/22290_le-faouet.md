@@ -1,4 +1,3 @@
-
 ---
 title: "22290 - LE FAOUET | Entraide, Annonces, Initiatives"
 description: "22290 - LE FAOUET | Entraide, Annonces, Initiatives"

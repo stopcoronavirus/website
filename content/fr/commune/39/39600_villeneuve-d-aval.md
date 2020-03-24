@@ -1,4 +1,3 @@
-
 ---
 title: "39600 - VILLENEUVE D AVAL | Entraide, Annonces, Initiatives"
 description: "39600 - VILLENEUVE D AVAL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "85200 - FONTENAY LE COMTE | Entraide, Annonces, Initiatives"
 description: "85200 - FONTENAY LE COMTE | Entraide, Annonces, Initiatives"

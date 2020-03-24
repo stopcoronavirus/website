@@ -1,4 +1,3 @@
-
 ---
 title: "10800 - LA VENDUE MIGNOT | Entraide, Annonces, Initiatives"
 description: "10800 - LA VENDUE MIGNOT | Entraide, Annonces, Initiatives"

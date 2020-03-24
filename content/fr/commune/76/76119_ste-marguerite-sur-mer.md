@@ -1,4 +1,3 @@
-
 ---
 title: "76119 - STE MARGUERITE SUR MER | Entraide, Annonces, Initiatives"
 description: "76119 - STE MARGUERITE SUR MER | Entraide, Annonces, Initiatives"

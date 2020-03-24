@@ -1,4 +1,3 @@
-
 ---
 title: "42123 - CORDELLE | Entraide, Annonces, Initiatives"
 description: "42123 - CORDELLE | Entraide, Annonces, Initiatives"

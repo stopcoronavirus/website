@@ -1,4 +1,3 @@
-
 ---
 title: "69670 - VAUGNERAY | Entraide, Annonces, Initiatives"
 description: "69670 - VAUGNERAY | Entraide, Annonces, Initiatives"

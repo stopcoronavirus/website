@@ -1,4 +1,3 @@
-
 ---
 title: "78720 - CERNAY LA VILLE | Entraide, Annonces, Initiatives"
 description: "78720 - CERNAY LA VILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "27440 - BACQUEVILLE | Entraide, Annonces, Initiatives"
 description: "27440 - BACQUEVILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "43160 - LA CHAPELLE GENESTE | Entraide, Annonces, Initiatives"
 description: "43160 - LA CHAPELLE GENESTE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02220 - MAAST ET VIOLAINE | Entraide, Annonces, Initiatives"
 description: "02220 - MAAST ET VIOLAINE | Entraide, Annonces, Initiatives"

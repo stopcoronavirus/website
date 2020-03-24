@@ -1,4 +1,3 @@
-
 ---
 title: "13012 - MARSEILLE 12 | Entraide, Annonces, Initiatives"
 description: "13012 - MARSEILLE 12 | Entraide, Annonces, Initiatives"

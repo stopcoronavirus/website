@@ -1,4 +1,3 @@
-
 ---
 title: "971 - Guadeloupe"
 description: "971 - Guadeloupe"

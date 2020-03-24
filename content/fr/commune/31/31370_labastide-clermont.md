@@ -1,4 +1,3 @@
-
 ---
 title: "31370 - LABASTIDE CLERMONT | Entraide, Annonces, Initiatives"
 description: "31370 - LABASTIDE CLERMONT | Entraide, Annonces, Initiatives"

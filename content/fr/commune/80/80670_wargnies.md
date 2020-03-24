@@ -1,4 +1,3 @@
-
 ---
 title: "80670 - WARGNIES | Entraide, Annonces, Initiatives"
 description: "80670 - WARGNIES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "77850 - HERICY | Entraide, Annonces, Initiatives"
 description: "77850 - HERICY | Entraide, Annonces, Initiatives"

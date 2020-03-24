@@ -1,4 +1,3 @@
-
 ---
 title: "43430 - FAY SUR LIGNON | Entraide, Annonces, Initiatives"
 description: "43430 - FAY SUR LIGNON | Entraide, Annonces, Initiatives"

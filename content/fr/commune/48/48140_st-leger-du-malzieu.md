@@ -1,4 +1,3 @@
-
 ---
 title: "48140 - ST LEGER DU MALZIEU | Entraide, Annonces, Initiatives"
 description: "48140 - ST LEGER DU MALZIEU | Entraide, Annonces, Initiatives"

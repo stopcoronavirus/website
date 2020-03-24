@@ -1,4 +1,3 @@
-
 ---
 title: "08000 - VILLERS SEMEUSE | Entraide, Annonces, Initiatives"
 description: "08000 - VILLERS SEMEUSE | Entraide, Annonces, Initiatives"

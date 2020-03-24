@@ -1,4 +1,3 @@
-
 ---
 title: "20229 - PARATA | Entraide, Annonces, Initiatives"
 description: "20229 - PARATA | Entraide, Annonces, Initiatives"

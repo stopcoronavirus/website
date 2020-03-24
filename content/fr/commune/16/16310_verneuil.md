@@ -1,4 +1,3 @@
-
 ---
 title: "16310 - VERNEUIL | Entraide, Annonces, Initiatives"
 description: "16310 - VERNEUIL | Entraide, Annonces, Initiatives"

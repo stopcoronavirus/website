@@ -1,4 +1,3 @@
-
 ---
 title: "39700 - SERMANGE | Entraide, Annonces, Initiatives"
 description: "39700 - SERMANGE | Entraide, Annonces, Initiatives"

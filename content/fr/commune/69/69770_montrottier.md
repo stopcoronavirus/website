@@ -1,4 +1,3 @@
-
 ---
 title: "69770 - MONTROTTIER | Entraide, Annonces, Initiatives"
 description: "69770 - MONTROTTIER | Entraide, Annonces, Initiatives"

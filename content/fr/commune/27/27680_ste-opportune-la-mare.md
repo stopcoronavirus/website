@@ -1,4 +1,3 @@
-
 ---
 title: "27680 - STE OPPORTUNE LA MARE | Entraide, Annonces, Initiatives"
 description: "27680 - STE OPPORTUNE LA MARE | Entraide, Annonces, Initiatives"

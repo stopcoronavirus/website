@@ -1,4 +1,3 @@
-
 ---
 title: "70130 - LA VERNOTTE | Entraide, Annonces, Initiatives"
 description: "70130 - LA VERNOTTE | Entraide, Annonces, Initiatives"

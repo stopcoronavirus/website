@@ -1,4 +1,3 @@
-
 ---
 title: "20251 - ALTIANI | Entraide, Annonces, Initiatives"
 description: "20251 - ALTIANI | Entraide, Annonces, Initiatives"

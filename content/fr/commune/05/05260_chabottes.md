@@ -1,4 +1,3 @@
-
 ---
 title: "05260 - CHABOTTES | Entraide, Annonces, Initiatives"
 description: "05260 - CHABOTTES | Entraide, Annonces, Initiatives"

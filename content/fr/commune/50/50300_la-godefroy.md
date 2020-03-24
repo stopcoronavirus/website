@@ -1,4 +1,3 @@
-
 ---
 title: "50300 - LA GODEFROY | Entraide, Annonces, Initiatives"
 description: "50300 - LA GODEFROY | Entraide, Annonces, Initiatives"

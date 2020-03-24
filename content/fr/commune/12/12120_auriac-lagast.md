@@ -1,4 +1,3 @@
-
 ---
 title: "12120 - AURIAC LAGAST | Entraide, Annonces, Initiatives"
 description: "12120 - AURIAC LAGAST | Entraide, Annonces, Initiatives"

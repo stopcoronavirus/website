@@ -1,4 +1,3 @@
-
 ---
 title: "29260 - ST FREGANT | Entraide, Annonces, Initiatives"
 description: "29260 - ST FREGANT | Entraide, Annonces, Initiatives"

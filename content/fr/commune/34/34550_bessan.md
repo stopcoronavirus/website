@@ -1,4 +1,3 @@
-
 ---
 title: "34550 - BESSAN | Entraide, Annonces, Initiatives"
 description: "34550 - BESSAN | Entraide, Annonces, Initiatives"

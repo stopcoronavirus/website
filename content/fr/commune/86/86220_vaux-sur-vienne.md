@@ -1,4 +1,3 @@
-
 ---
 title: "86220 - VAUX SUR VIENNE | Entraide, Annonces, Initiatives"
 description: "86220 - VAUX SUR VIENNE | Entraide, Annonces, Initiatives"

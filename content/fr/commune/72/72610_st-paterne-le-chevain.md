@@ -1,4 +1,3 @@
-
 ---
 title: "72610 - ST PATERNE LE CHEVAIN | Entraide, Annonces, Initiatives"
 description: "72610 - ST PATERNE LE CHEVAIN | Entraide, Annonces, Initiatives"

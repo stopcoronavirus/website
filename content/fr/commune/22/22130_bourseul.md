@@ -1,4 +1,3 @@
-
 ---
 title: "22130 - BOURSEUL | Entraide, Annonces, Initiatives"
 description: "22130 - BOURSEUL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60480 - ABBEVILLE ST LUCIEN | Entraide, Annonces, Initiatives"
 description: "60480 - ABBEVILLE ST LUCIEN | Entraide, Annonces, Initiatives"

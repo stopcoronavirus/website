@@ -1,4 +1,3 @@
-
 ---
 title: "23140 - CRESSAT | Entraide, Annonces, Initiatives"
 description: "23140 - CRESSAT | Entraide, Annonces, Initiatives"

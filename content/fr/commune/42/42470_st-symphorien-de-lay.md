@@ -1,4 +1,3 @@
-
 ---
 title: "42470 - ST SYMPHORIEN DE LAY | Entraide, Annonces, Initiatives"
 description: "42470 - ST SYMPHORIEN DE LAY | Entraide, Annonces, Initiatives"

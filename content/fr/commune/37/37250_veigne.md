@@ -1,4 +1,3 @@
-
 ---
 title: "37250 - VEIGNE | Entraide, Annonces, Initiatives"
 description: "37250 - VEIGNE | Entraide, Annonces, Initiatives"

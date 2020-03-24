@@ -1,4 +1,3 @@
-
 ---
 title: "24300 - ABJAT SUR BANDIAT | Entraide, Annonces, Initiatives"
 description: "24300 - ABJAT SUR BANDIAT | Entraide, Annonces, Initiatives"

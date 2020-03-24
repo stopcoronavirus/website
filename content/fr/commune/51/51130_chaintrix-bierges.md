@@ -1,4 +1,3 @@
-
 ---
 title: "51130 - CHAINTRIX BIERGES | Entraide, Annonces, Initiatives"
 description: "51130 - CHAINTRIX BIERGES | Entraide, Annonces, Initiatives"

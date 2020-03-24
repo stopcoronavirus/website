@@ -1,4 +1,3 @@
-
 ---
 title: "70000 - VILLERS LE SEC | Entraide, Annonces, Initiatives"
 description: "70000 - VILLERS LE SEC | Entraide, Annonces, Initiatives"

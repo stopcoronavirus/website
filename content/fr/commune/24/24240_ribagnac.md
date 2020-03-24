@@ -1,4 +1,3 @@
-
 ---
 title: "24240 - RIBAGNAC | Entraide, Annonces, Initiatives"
 description: "24240 - RIBAGNAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "85000 - LA ROCHE SUR YON | Entraide, Annonces, Initiatives"
 description: "85000 - LA ROCHE SUR YON | Entraide, Annonces, Initiatives"

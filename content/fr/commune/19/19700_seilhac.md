@@ -1,4 +1,3 @@
-
 ---
 title: "19700 - SEILHAC | Entraide, Annonces, Initiatives"
 description: "19700 - SEILHAC | Entraide, Annonces, Initiatives"

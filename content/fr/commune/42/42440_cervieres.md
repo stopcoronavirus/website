@@ -1,4 +1,3 @@
-
 ---
 title: "42440 - CERVIERES | Entraide, Annonces, Initiatives"
 description: "42440 - CERVIERES | Entraide, Annonces, Initiatives"

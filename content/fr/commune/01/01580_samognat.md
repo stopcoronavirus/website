@@ -1,4 +1,3 @@
-
 ---
 title: "01580 - SAMOGNAT | Entraide, Annonces, Initiatives"
 description: "01580 - SAMOGNAT | Entraide, Annonces, Initiatives"

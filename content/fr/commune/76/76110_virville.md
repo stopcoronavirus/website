@@ -1,4 +1,3 @@
-
 ---
 title: "76110 - VIRVILLE | Entraide, Annonces, Initiatives"
 description: "76110 - VIRVILLE | Entraide, Annonces, Initiatives"

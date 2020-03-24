@@ -1,4 +1,3 @@
-
 ---
 title: "39600 - VILLERS FARLAY | Entraide, Annonces, Initiatives"
 description: "39600 - VILLERS FARLAY | Entraide, Annonces, Initiatives"

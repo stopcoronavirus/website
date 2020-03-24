@@ -1,4 +1,3 @@
-
 ---
 title: "60240 - LAVILLETERTRE | Entraide, Annonces, Initiatives"
 description: "60240 - LAVILLETERTRE | Entraide, Annonces, Initiatives"

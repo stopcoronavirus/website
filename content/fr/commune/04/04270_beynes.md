@@ -1,4 +1,3 @@
-
 ---
 title: "04270 - BEYNES | Entraide, Annonces, Initiatives"
 description: "04270 - BEYNES | Entraide, Annonces, Initiatives"

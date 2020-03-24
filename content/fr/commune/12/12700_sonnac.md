@@ -1,4 +1,3 @@
-
 ---
 title: "12700 - SONNAC | Entraide, Annonces, Initiatives"
 description: "12700 - SONNAC | Entraide, Annonces, Initiatives"

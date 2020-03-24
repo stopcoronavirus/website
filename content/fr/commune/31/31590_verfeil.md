@@ -1,4 +1,3 @@
-
 ---
 title: "31590 - VERFEIL | Entraide, Annonces, Initiatives"
 description: "31590 - VERFEIL | Entraide, Annonces, Initiatives"

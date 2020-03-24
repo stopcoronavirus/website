@@ -1,4 +1,3 @@
-
 ---
 title: "19150 - CORNIL | Entraide, Annonces, Initiatives"
 description: "19150 - CORNIL | Entraide, Annonces, Initiatives"

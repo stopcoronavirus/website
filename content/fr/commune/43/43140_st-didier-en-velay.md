@@ -1,4 +1,3 @@
-
 ---
 title: "43140 - ST DIDIER EN VELAY | Entraide, Annonces, Initiatives"
 description: "43140 - ST DIDIER EN VELAY | Entraide, Annonces, Initiatives"

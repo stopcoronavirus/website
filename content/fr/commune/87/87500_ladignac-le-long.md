@@ -1,4 +1,3 @@
-
 ---
 title: "87500 - LADIGNAC LE LONG | Entraide, Annonces, Initiatives"
 description: "87500 - LADIGNAC LE LONG | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "09700 - LE VERNET | Entraide, Annonces, Initiatives"
 description: "09700 - LE VERNET | Entraide, Annonces, Initiatives"

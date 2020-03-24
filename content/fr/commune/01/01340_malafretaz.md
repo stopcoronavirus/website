@@ -1,4 +1,3 @@
-
 ---
 title: "01340 - MALAFRETAZ | Entraide, Annonces, Initiatives"
 description: "01340 - MALAFRETAZ | Entraide, Annonces, Initiatives"

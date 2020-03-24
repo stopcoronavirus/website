@@ -1,4 +1,3 @@
-
 ---
 title: "70120 - VY LES RUPT | Entraide, Annonces, Initiatives"
 description: "70120 - VY LES RUPT | Entraide, Annonces, Initiatives"

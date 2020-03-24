@@ -1,4 +1,3 @@
-
 ---
 title: "23120 - BANIZE | Entraide, Annonces, Initiatives"
 description: "23120 - BANIZE | Entraide, Annonces, Initiatives"

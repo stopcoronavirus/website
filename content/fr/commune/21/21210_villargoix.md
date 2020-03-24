@@ -1,4 +1,3 @@
-
 ---
 title: "21210 - VILLARGOIX | Entraide, Annonces, Initiatives"
 description: "21210 - VILLARGOIX | Entraide, Annonces, Initiatives"

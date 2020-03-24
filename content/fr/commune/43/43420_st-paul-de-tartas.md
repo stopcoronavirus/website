@@ -1,4 +1,3 @@
-
 ---
 title: "43420 - ST PAUL DE TARTAS | Entraide, Annonces, Initiatives"
 description: "43420 - ST PAUL DE TARTAS | Entraide, Annonces, Initiatives"

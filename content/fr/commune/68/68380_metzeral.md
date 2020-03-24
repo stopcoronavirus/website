@@ -1,4 +1,3 @@
-
 ---
 title: "68380 - METZERAL | Entraide, Annonces, Initiatives"
 description: "68380 - METZERAL | Entraide, Annonces, Initiatives"

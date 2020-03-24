@@ -1,4 +1,3 @@
-
 ---
 title: "88700 - STE BARBE | Entraide, Annonces, Initiatives"
 description: "88700 - STE BARBE | Entraide, Annonces, Initiatives"

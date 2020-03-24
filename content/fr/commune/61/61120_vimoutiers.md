@@ -1,4 +1,3 @@
-
 ---
 title: "61120 - VIMOUTIERS | Entraide, Annonces, Initiatives"
 description: "61120 - VIMOUTIERS | Entraide, Annonces, Initiatives"

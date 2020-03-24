@@ -1,4 +1,3 @@
-
 ---
 title: "61450 - BANVOU | Entraide, Annonces, Initiatives"
 description: "61450 - BANVOU | Entraide, Annonces, Initiatives"

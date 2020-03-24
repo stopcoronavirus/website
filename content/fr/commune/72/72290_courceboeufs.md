@@ -1,4 +1,3 @@
-
 ---
 title: "72290 - COURCEBOEUFS | Entraide, Annonces, Initiatives"
 description: "72290 - COURCEBOEUFS | Entraide, Annonces, Initiatives"

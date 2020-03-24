@@ -1,4 +1,3 @@
-
 ---
 title: "39130 - BARESIA SUR L AIN | Entraide, Annonces, Initiatives"
 description: "39130 - BARESIA SUR L AIN | Entraide, Annonces, Initiatives"

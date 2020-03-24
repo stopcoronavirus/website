@@ -1,4 +1,3 @@
-
 ---
 title: "71440 - LA FRETTE | Entraide, Annonces, Initiatives"
 description: "71440 - LA FRETTE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "18320 - COURS LES BARRES | Entraide, Annonces, Initiatives"
 description: "18320 - COURS LES BARRES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60130 - BRUNVILLERS LA MOTTE | Entraide, Annonces, Initiatives"
 description: "60130 - BRUNVILLERS LA MOTTE | Entraide, Annonces, Initiatives"

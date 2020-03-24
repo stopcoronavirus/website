@@ -1,4 +1,3 @@
-
 ---
 title: "80830 - L ETOILE | Entraide, Annonces, Initiatives"
 description: "80830 - L ETOILE | Entraide, Annonces, Initiatives"

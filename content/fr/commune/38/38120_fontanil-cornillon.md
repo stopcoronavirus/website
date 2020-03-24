@@ -1,4 +1,3 @@
-
 ---
 title: "38120 - FONTANIL CORNILLON | Entraide, Annonces, Initiatives"
 description: "38120 - FONTANIL CORNILLON | Entraide, Annonces, Initiatives"

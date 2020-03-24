@@ -1,4 +1,3 @@
-
 ---
 title: "62124 - BEAUMETZ LES CAMBRAI | Entraide, Annonces, Initiatives"
 description: "62124 - BEAUMETZ LES CAMBRAI | Entraide, Annonces, Initiatives"

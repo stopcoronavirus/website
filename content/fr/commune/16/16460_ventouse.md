@@ -1,4 +1,3 @@
-
 ---
 title: "16460 - VENTOUSE | Entraide, Annonces, Initiatives"
 description: "16460 - VENTOUSE | Entraide, Annonces, Initiatives"

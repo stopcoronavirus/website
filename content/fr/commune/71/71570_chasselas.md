@@ -1,4 +1,3 @@
-
 ---
 title: "71570 - CHASSELAS | Entraide, Annonces, Initiatives"
 description: "71570 - CHASSELAS | Entraide, Annonces, Initiatives"

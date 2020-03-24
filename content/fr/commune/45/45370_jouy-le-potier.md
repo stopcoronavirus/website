@@ -1,4 +1,3 @@
-
 ---
 title: "45370 - JOUY LE POTIER | Entraide, Annonces, Initiatives"
 description: "45370 - JOUY LE POTIER | Entraide, Annonces, Initiatives"

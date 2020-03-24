@@ -1,4 +1,3 @@
-
 ---
 title: "34270 - CLARET | Entraide, Annonces, Initiatives"
 description: "34270 - CLARET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "21230 - FOISSY | Entraide, Annonces, Initiatives"
 description: "21230 - FOISSY | Entraide, Annonces, Initiatives"

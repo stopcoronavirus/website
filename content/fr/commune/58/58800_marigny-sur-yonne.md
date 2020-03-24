@@ -1,4 +1,3 @@
-
 ---
 title: "58800 - MARIGNY SUR YONNE | Entraide, Annonces, Initiatives"
 description: "58800 - MARIGNY SUR YONNE | Entraide, Annonces, Initiatives"

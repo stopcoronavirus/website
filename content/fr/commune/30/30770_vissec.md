@@ -1,4 +1,3 @@
-
 ---
 title: "30770 - VISSEC | Entraide, Annonces, Initiatives"
 description: "30770 - VISSEC | Entraide, Annonces, Initiatives"

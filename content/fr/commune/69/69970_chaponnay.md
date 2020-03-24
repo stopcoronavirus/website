@@ -1,4 +1,3 @@
-
 ---
 title: "69970 - CHAPONNAY | Entraide, Annonces, Initiatives"
 description: "69970 - CHAPONNAY | Entraide, Annonces, Initiatives"

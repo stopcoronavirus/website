@@ -1,4 +1,3 @@
-
 ---
 title: "42660 - ST ROMAIN LES ATHEUX | Entraide, Annonces, Initiatives"
 description: "42660 - ST ROMAIN LES ATHEUX | Entraide, Annonces, Initiatives"

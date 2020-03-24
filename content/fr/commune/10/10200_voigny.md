@@ -1,4 +1,3 @@
-
 ---
 title: "10200 - VOIGNY | Entraide, Annonces, Initiatives"
 description: "10200 - VOIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "62550 - AUMERVAL | Entraide, Annonces, Initiatives"
 description: "62550 - AUMERVAL | Entraide, Annonces, Initiatives"

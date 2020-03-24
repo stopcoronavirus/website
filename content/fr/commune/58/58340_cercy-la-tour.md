@@ -1,4 +1,3 @@
-
 ---
 title: "58340 - CERCY LA TOUR | Entraide, Annonces, Initiatives"
 description: "58340 - CERCY LA TOUR | Entraide, Annonces, Initiatives"

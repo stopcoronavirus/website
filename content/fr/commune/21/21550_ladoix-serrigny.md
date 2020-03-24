@@ -1,4 +1,3 @@
-
 ---
 title: "21550 - LADOIX SERRIGNY | Entraide, Annonces, Initiatives"
 description: "21550 - LADOIX SERRIGNY | Entraide, Annonces, Initiatives"

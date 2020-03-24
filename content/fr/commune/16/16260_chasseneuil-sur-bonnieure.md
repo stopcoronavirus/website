@@ -1,4 +1,3 @@
-
 ---
 title: "16260 - CHASSENEUIL SUR BONNIEURE | Entraide, Annonces, Initiatives"
 description: "16260 - CHASSENEUIL SUR BONNIEURE | Entraide, Annonces, Initiatives"

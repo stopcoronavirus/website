@@ -1,4 +1,3 @@
-
 ---
 title: "65250 - LA BARTHE DE NESTE | Entraide, Annonces, Initiatives"
 description: "65250 - LA BARTHE DE NESTE | Entraide, Annonces, Initiatives"

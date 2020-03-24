@@ -1,4 +1,3 @@
-
 ---
 title: "60620 - ORMOY LE DAVIEN | Entraide, Annonces, Initiatives"
 description: "60620 - ORMOY LE DAVIEN | Entraide, Annonces, Initiatives"

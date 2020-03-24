@@ -1,4 +1,3 @@
-
 ---
 title: "08 - Ardennes"
 description: "08 - Ardennes"

@@ -1,4 +1,3 @@
-
 ---
 title: "33720 - ILLATS | Entraide, Annonces, Initiatives"
 description: "33720 - ILLATS | Entraide, Annonces, Initiatives"

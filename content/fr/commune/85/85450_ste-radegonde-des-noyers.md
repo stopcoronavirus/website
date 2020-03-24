@@ -1,4 +1,3 @@
-
 ---
 title: "85450 - STE RADEGONDE DES NOYERS | Entraide, Annonces, Initiatives"
 description: "85450 - STE RADEGONDE DES NOYERS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "15310 - ST CERNIN | Entraide, Annonces, Initiatives"
 description: "15310 - ST CERNIN | Entraide, Annonces, Initiatives"

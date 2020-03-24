@@ -1,4 +1,3 @@
-
 ---
 title: "08220 - CHAPPES | Entraide, Annonces, Initiatives"
 description: "08220 - CHAPPES | Entraide, Annonces, Initiatives"

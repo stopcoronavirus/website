@@ -1,4 +1,3 @@
-
 ---
 title: "54122 - FONTENOY LA JOUTE | Entraide, Annonces, Initiatives"
 description: "54122 - FONTENOY LA JOUTE | Entraide, Annonces, Initiatives"

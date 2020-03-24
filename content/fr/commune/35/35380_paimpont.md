@@ -1,4 +1,3 @@
-
 ---
 title: "35380 - PAIMPONT | Entraide, Annonces, Initiatives"
 description: "35380 - PAIMPONT | Entraide, Annonces, Initiatives"

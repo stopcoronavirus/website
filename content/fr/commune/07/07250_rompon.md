@@ -1,4 +1,3 @@
-
 ---
 title: "07250 - ROMPON | Entraide, Annonces, Initiatives"
 description: "07250 - ROMPON | Entraide, Annonces, Initiatives"

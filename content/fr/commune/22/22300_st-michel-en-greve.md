@@ -1,4 +1,3 @@
-
 ---
 title: "22300 - ST MICHEL EN GREVE | Entraide, Annonces, Initiatives"
 description: "22300 - ST MICHEL EN GREVE | Entraide, Annonces, Initiatives"

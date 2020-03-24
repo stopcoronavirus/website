@@ -1,4 +1,3 @@
-
 ---
 title: "12500 - BESSUEJOULS | Entraide, Annonces, Initiatives"
 description: "12500 - BESSUEJOULS | Entraide, Annonces, Initiatives"

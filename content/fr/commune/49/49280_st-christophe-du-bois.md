@@ -1,4 +1,3 @@
-
 ---
 title: "49280 - ST CHRISTOPHE DU BOIS | Entraide, Annonces, Initiatives"
 description: "49280 - ST CHRISTOPHE DU BOIS | Entraide, Annonces, Initiatives"

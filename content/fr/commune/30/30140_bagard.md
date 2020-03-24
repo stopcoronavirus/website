@@ -1,4 +1,3 @@
-
 ---
 title: "30140 - BAGARD | Entraide, Annonces, Initiatives"
 description: "30140 - BAGARD | Entraide, Annonces, Initiatives"

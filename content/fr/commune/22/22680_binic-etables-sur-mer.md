@@ -1,4 +1,3 @@
-
 ---
 title: "22680 - BINIC ETABLES SUR MER | Entraide, Annonces, Initiatives"
 description: "22680 - BINIC ETABLES SUR MER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "61400 - COURGEON | Entraide, Annonces, Initiatives"
 description: "61400 - COURGEON | Entraide, Annonces, Initiatives"

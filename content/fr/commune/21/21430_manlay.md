@@ -1,4 +1,3 @@
-
 ---
 title: "21430 - MANLAY | Entraide, Annonces, Initiatives"
 description: "21430 - MANLAY | Entraide, Annonces, Initiatives"

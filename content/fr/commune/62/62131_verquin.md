@@ -1,4 +1,3 @@
-
 ---
 title: "62131 - VERQUIN | Entraide, Annonces, Initiatives"
 description: "62131 - VERQUIN | Entraide, Annonces, Initiatives"

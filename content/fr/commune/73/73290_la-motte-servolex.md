@@ -1,4 +1,3 @@
-
 ---
 title: "73290 - LA MOTTE SERVOLEX | Entraide, Annonces, Initiatives"
 description: "73290 - LA MOTTE SERVOLEX | Entraide, Annonces, Initiatives"

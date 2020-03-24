@@ -1,4 +1,3 @@
-
 ---
 title: "42680 - ST MARCELLIN EN FOREZ | Entraide, Annonces, Initiatives"
 description: "42680 - ST MARCELLIN EN FOREZ | Entraide, Annonces, Initiatives"

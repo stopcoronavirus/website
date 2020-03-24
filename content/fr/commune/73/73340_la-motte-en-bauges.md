@@ -1,4 +1,3 @@
-
 ---
 title: "73340 - LA MOTTE EN BAUGES | Entraide, Annonces, Initiatives"
 description: "73340 - LA MOTTE EN BAUGES | Entraide, Annonces, Initiatives"

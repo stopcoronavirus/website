@@ -1,4 +1,3 @@
-
 ---
 title: "45110 - GERMIGNY DES PRES | Entraide, Annonces, Initiatives"
 description: "45110 - GERMIGNY DES PRES | Entraide, Annonces, Initiatives"

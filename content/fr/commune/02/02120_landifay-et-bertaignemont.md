@@ -1,4 +1,3 @@
-
 ---
 title: "02120 - LANDIFAY ET BERTAIGNEMONT | Entraide, Annonces, Initiatives"
 description: "02120 - LANDIFAY ET BERTAIGNEMONT | Entraide, Annonces, Initiatives"

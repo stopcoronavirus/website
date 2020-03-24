@@ -1,4 +1,3 @@
-
 ---
 title: "65660 - AVENTIGNAN | Entraide, Annonces, Initiatives"
 description: "65660 - AVENTIGNAN | Entraide, Annonces, Initiatives"

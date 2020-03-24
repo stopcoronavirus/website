@@ -1,4 +1,3 @@
-
 ---
 title: "22600 - LA MOTTE | Entraide, Annonces, Initiatives"
 description: "22600 - LA MOTTE | Entraide, Annonces, Initiatives"

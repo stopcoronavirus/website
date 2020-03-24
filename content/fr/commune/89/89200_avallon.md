@@ -1,4 +1,3 @@
-
 ---
 title: "89200 - AVALLON | Entraide, Annonces, Initiatives"
 description: "89200 - AVALLON | Entraide, Annonces, Initiatives"

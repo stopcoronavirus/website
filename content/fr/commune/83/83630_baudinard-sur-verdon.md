@@ -1,4 +1,3 @@
-
 ---
 title: "83630 - BAUDINARD SUR VERDON | Entraide, Annonces, Initiatives"
 description: "83630 - BAUDINARD SUR VERDON | Entraide, Annonces, Initiatives"

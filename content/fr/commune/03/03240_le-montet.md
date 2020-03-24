@@ -1,4 +1,3 @@
-
 ---
 title: "03240 - LE MONTET | Entraide, Annonces, Initiatives"
 description: "03240 - LE MONTET | Entraide, Annonces, Initiatives"

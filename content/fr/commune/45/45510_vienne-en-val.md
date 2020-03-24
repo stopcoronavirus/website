@@ -1,4 +1,3 @@
-
 ---
 title: "45510 - VIENNE EN VAL | Entraide, Annonces, Initiatives"
 description: "45510 - VIENNE EN VAL | Entraide, Annonces, Initiatives"

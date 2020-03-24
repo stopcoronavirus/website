@@ -1,4 +1,3 @@
-
 ---
 title: "16170 - VAUX ROUILLAC | Entraide, Annonces, Initiatives"
 description: "16170 - VAUX ROUILLAC | Entraide, Annonces, Initiatives"

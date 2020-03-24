@@ -1,4 +1,3 @@
-
 ---
 title: "42640 - ST ROMAIN LA MOTTE | Entraide, Annonces, Initiatives"
 description: "42640 - ST ROMAIN LA MOTTE | Entraide, Annonces, Initiatives"

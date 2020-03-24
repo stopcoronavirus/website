@@ -1,4 +1,3 @@
-
 ---
 title: "27200 - VERNON | Entraide, Annonces, Initiatives"
 description: "27200 - VERNON | Entraide, Annonces, Initiatives"

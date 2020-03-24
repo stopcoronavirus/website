@@ -1,4 +1,3 @@
-
 ---
 title: "44130 - FAY DE BRETAGNE | Entraide, Annonces, Initiatives"
 description: "44130 - FAY DE BRETAGNE | Entraide, Annonces, Initiatives"

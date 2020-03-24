@@ -1,4 +1,3 @@
-
 ---
 title: "85370 - LE LANGON | Entraide, Annonces, Initiatives"
 description: "85370 - LE LANGON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "06530 - CABRIS | Entraide, Annonces, Initiatives"
 description: "06530 - CABRIS | Entraide, Annonces, Initiatives"

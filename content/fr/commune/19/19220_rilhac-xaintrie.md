@@ -1,4 +1,3 @@
-
 ---
 title: "19220 - RILHAC XAINTRIE | Entraide, Annonces, Initiatives"
 description: "19220 - RILHAC XAINTRIE | Entraide, Annonces, Initiatives"

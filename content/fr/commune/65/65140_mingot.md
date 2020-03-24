@@ -1,4 +1,3 @@
-
 ---
 title: "65140 - MINGOT | Entraide, Annonces, Initiatives"
 description: "65140 - MINGOT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "72610 - BOURG LE ROI | Entraide, Annonces, Initiatives"
 description: "72610 - BOURG LE ROI | Entraide, Annonces, Initiatives"

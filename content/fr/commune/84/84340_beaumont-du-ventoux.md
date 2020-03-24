@@ -1,4 +1,3 @@
-
 ---
 title: "84340 - BEAUMONT DU VENTOUX | Entraide, Annonces, Initiatives"
 description: "84340 - BEAUMONT DU VENTOUX | Entraide, Annonces, Initiatives"

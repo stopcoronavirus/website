@@ -1,4 +1,3 @@
-
 ---
 title: "70150 - HUGIER | Entraide, Annonces, Initiatives"
 description: "70150 - HUGIER | Entraide, Annonces, Initiatives"

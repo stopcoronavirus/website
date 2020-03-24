@@ -1,4 +1,3 @@
-
 ---
 title: "60129 - BETHANCOURT EN VALOIS | Entraide, Annonces, Initiatives"
 description: "60129 - BETHANCOURT EN VALOIS | Entraide, Annonces, Initiatives"

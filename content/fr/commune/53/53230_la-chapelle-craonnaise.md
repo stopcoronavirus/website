@@ -1,4 +1,3 @@
-
 ---
 title: "53230 - LA CHAPELLE CRAONNAISE | Entraide, Annonces, Initiatives"
 description: "53230 - LA CHAPELLE CRAONNAISE | Entraide, Annonces, Initiatives"

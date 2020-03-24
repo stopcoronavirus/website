@@ -1,4 +1,3 @@
-
 ---
 title: "61420 - LA FERRIERE BOCHARD | Entraide, Annonces, Initiatives"
 description: "61420 - LA FERRIERE BOCHARD | Entraide, Annonces, Initiatives"

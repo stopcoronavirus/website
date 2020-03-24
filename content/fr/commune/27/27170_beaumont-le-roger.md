@@ -1,4 +1,3 @@
-
 ---
 title: "27170 - BEAUMONT LE ROGER | Entraide, Annonces, Initiatives"
 description: "27170 - BEAUMONT LE ROGER | Entraide, Annonces, Initiatives"

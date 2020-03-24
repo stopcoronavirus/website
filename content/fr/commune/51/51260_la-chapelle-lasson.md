@@ -1,4 +1,3 @@
-
 ---
 title: "51260 - LA CHAPELLE LASSON | Entraide, Annonces, Initiatives"
 description: "51260 - LA CHAPELLE LASSON | Entraide, Annonces, Initiatives"

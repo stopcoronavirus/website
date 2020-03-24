@@ -1,4 +1,3 @@
-
 ---
 title: "68480 - FERRETTE | Entraide, Annonces, Initiatives"
 description: "68480 - FERRETTE | Entraide, Annonces, Initiatives"

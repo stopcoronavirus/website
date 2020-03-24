@@ -1,4 +1,3 @@
-
 ---
 title: "25210 - MONT DE LAVAL | Entraide, Annonces, Initiatives"
 description: "25210 - MONT DE LAVAL | Entraide, Annonces, Initiatives"

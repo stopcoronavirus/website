@@ -1,4 +1,3 @@
-
 ---
 title: "42380 - LA CHAPELLE EN LAFAYE | Entraide, Annonces, Initiatives"
 description: "42380 - LA CHAPELLE EN LAFAYE | Entraide, Annonces, Initiatives"

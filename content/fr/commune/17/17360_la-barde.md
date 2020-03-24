@@ -1,4 +1,3 @@
-
 ---
 title: "17360 - LA BARDE | Entraide, Annonces, Initiatives"
 description: "17360 - LA BARDE | Entraide, Annonces, Initiatives"

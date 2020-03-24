@@ -1,4 +1,3 @@
-
 ---
 title: "51700 - CHAMPVOISY | Entraide, Annonces, Initiatives"
 description: "51700 - CHAMPVOISY | Entraide, Annonces, Initiatives"

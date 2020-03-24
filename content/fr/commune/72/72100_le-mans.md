@@ -1,4 +1,3 @@
-
 ---
 title: "72100 - LE MANS | Entraide, Annonces, Initiatives"
 description: "72100 - LE MANS | Entraide, Annonces, Initiatives"

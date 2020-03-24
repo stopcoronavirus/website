@@ -1,4 +1,3 @@
-
 ---
 title: "02270 - NOUVION ET CATILLON | Entraide, Annonces, Initiatives"
 description: "02270 - NOUVION ET CATILLON | Entraide, Annonces, Initiatives"

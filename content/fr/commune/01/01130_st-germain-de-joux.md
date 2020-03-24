@@ -1,4 +1,3 @@
-
 ---
 title: "01130 - ST GERMAIN DE JOUX | Entraide, Annonces, Initiatives"
 description: "01130 - ST GERMAIN DE JOUX | Entraide, Annonces, Initiatives"

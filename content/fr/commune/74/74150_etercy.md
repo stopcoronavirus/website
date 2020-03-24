@@ -1,4 +1,3 @@
-
 ---
 title: "74150 - ETERCY | Entraide, Annonces, Initiatives"
 description: "74150 - ETERCY | Entraide, Annonces, Initiatives"

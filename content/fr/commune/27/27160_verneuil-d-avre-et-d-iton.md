@@ -1,4 +1,3 @@
-
 ---
 title: "27160 - VERNEUIL D AVRE ET D ITON | Entraide, Annonces, Initiatives"
 description: "27160 - VERNEUIL D AVRE ET D ITON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "17500 - VILLEXAVIER | Entraide, Annonces, Initiatives"
 description: "17500 - VILLEXAVIER | Entraide, Annonces, Initiatives"

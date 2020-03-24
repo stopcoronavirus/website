@@ -1,4 +1,3 @@
-
 ---
 title: "74560 - LA MURAZ | Entraide, Annonces, Initiatives"
 description: "74560 - LA MURAZ | Entraide, Annonces, Initiatives"

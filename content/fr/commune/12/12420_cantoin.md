@@ -1,4 +1,3 @@
-
 ---
 title: "12420 - CANTOIN | Entraide, Annonces, Initiatives"
 description: "12420 - CANTOIN | Entraide, Annonces, Initiatives"

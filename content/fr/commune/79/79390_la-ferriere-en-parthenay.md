@@ -1,4 +1,3 @@
-
 ---
 title: "79390 - LA FERRIERE EN PARTHENAY | Entraide, Annonces, Initiatives"
 description: "79390 - LA FERRIERE EN PARTHENAY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "69290 - CRAPONNE | Entraide, Annonces, Initiatives"
 description: "69290 - CRAPONNE | Entraide, Annonces, Initiatives"

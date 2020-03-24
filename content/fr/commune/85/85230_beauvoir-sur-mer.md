@@ -1,4 +1,3 @@
-
 ---
 title: "85230 - BEAUVOIR SUR MER | Entraide, Annonces, Initiatives"
 description: "85230 - BEAUVOIR SUR MER | Entraide, Annonces, Initiatives"

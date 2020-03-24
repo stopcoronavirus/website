@@ -1,4 +1,3 @@
-
 ---
 title: "59139 - WATTIGNIES | Entraide, Annonces, Initiatives"
 description: "59139 - WATTIGNIES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "11140 - MERIAL | Entraide, Annonces, Initiatives"
 description: "11140 - MERIAL | Entraide, Annonces, Initiatives"

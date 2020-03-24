@@ -1,4 +1,3 @@
-
 ---
 title: "59360 - LA GROISE | Entraide, Annonces, Initiatives"
 description: "59360 - LA GROISE | Entraide, Annonces, Initiatives"

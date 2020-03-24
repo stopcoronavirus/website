@@ -1,4 +1,3 @@
-
 ---
 title: "33124 - BERTHEZ | Entraide, Annonces, Initiatives"
 description: "33124 - BERTHEZ | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "86340 - VERNON | Entraide, Annonces, Initiatives"
 description: "86340 - VERNON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "36300 - LE BLANC | Entraide, Annonces, Initiatives"
 description: "36300 - LE BLANC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "17600 - LA CLISSE | Entraide, Annonces, Initiatives"
 description: "17600 - LA CLISSE | Entraide, Annonces, Initiatives"

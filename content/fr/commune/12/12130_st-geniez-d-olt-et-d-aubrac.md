@@ -1,4 +1,3 @@
-
 ---
 title: "12130 - ST GENIEZ D OLT ET D AUBRAC | Entraide, Annonces, Initiatives"
 description: "12130 - ST GENIEZ D OLT ET D AUBRAC | Entraide, Annonces, Initiatives"

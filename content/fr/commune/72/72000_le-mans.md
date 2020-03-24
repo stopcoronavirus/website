@@ -1,4 +1,3 @@
-
 ---
 title: "72000 - LE MANS | Entraide, Annonces, Initiatives"
 description: "72000 - LE MANS | Entraide, Annonces, Initiatives"

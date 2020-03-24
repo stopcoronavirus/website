@@ -1,4 +1,3 @@
-
 ---
 title: "10700 - ARCIS SUR AUBE | Entraide, Annonces, Initiatives"
 description: "10700 - ARCIS SUR AUBE | Entraide, Annonces, Initiatives"

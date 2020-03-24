@@ -1,4 +1,3 @@
-
 ---
 title: "24450 - LA COQUILLE | Entraide, Annonces, Initiatives"
 description: "24450 - LA COQUILLE | Entraide, Annonces, Initiatives"

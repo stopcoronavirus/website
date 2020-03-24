@@ -1,4 +1,3 @@
-
 ---
 title: "18350 - FLAVIGNY | Entraide, Annonces, Initiatives"
 description: "18350 - FLAVIGNY | Entraide, Annonces, Initiatives"

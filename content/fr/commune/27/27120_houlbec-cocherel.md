@@ -1,4 +1,3 @@
-
 ---
 title: "27120 - HOULBEC COCHEREL | Entraide, Annonces, Initiatives"
 description: "27120 - HOULBEC COCHEREL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "06670 - COLOMARS | Entraide, Annonces, Initiatives"
 description: "06670 - COLOMARS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "52120 - LANTY SUR AUBE | Entraide, Annonces, Initiatives"
 description: "52120 - LANTY SUR AUBE | Entraide, Annonces, Initiatives"

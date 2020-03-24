@@ -1,4 +1,3 @@
-
 ---
 title: "02700 - MENNESSIS | Entraide, Annonces, Initiatives"
 description: "02700 - MENNESSIS | Entraide, Annonces, Initiatives"

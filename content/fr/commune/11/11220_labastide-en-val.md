@@ -1,4 +1,3 @@
-
 ---
 title: "11220 - LABASTIDE EN VAL | Entraide, Annonces, Initiatives"
 description: "11220 - LABASTIDE EN VAL | Entraide, Annonces, Initiatives"

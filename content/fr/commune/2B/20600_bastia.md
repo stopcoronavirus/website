@@ -1,4 +1,3 @@
-
 ---
 title: "20600 - BASTIA | Entraide, Annonces, Initiatives"
 description: "20600 - BASTIA | Entraide, Annonces, Initiatives"

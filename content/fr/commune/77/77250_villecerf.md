@@ -1,4 +1,3 @@
-
 ---
 title: "77250 - VILLECERF | Entraide, Annonces, Initiatives"
 description: "77250 - VILLECERF | Entraide, Annonces, Initiatives"

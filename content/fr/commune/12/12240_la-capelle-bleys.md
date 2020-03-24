@@ -1,4 +1,3 @@
-
 ---
 title: "12240 - LA CAPELLE BLEYS | Entraide, Annonces, Initiatives"
 description: "12240 - LA CAPELLE BLEYS | Entraide, Annonces, Initiatives"

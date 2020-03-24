@@ -1,4 +1,3 @@
-
 ---
 title: "24200 - VITRAC | Entraide, Annonces, Initiatives"
 description: "24200 - VITRAC | Entraide, Annonces, Initiatives"

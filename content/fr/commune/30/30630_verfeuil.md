@@ -1,4 +1,3 @@
-
 ---
 title: "30630 - VERFEUIL | Entraide, Annonces, Initiatives"
 description: "30630 - VERFEUIL | Entraide, Annonces, Initiatives"

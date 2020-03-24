@@ -1,4 +1,3 @@
-
 ---
 title: "49370 - BECON LES GRANITS | Entraide, Annonces, Initiatives"
 description: "49370 - BECON LES GRANITS | Entraide, Annonces, Initiatives"

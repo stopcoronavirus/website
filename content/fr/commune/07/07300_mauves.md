@@ -1,4 +1,3 @@
-
 ---
 title: "07300 - MAUVES | Entraide, Annonces, Initiatives"
 description: "07300 - MAUVES | Entraide, Annonces, Initiatives"

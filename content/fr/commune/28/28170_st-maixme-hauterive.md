@@ -1,4 +1,3 @@
-
 ---
 title: "28170 - ST MAIXME HAUTERIVE | Entraide, Annonces, Initiatives"
 description: "28170 - ST MAIXME HAUTERIVE | Entraide, Annonces, Initiatives"

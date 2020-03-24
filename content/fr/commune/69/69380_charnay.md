@@ -1,4 +1,3 @@
-
 ---
 title: "69380 - CHARNAY | Entraide, Annonces, Initiatives"
 description: "69380 - CHARNAY | Entraide, Annonces, Initiatives"

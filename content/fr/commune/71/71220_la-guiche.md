@@ -1,4 +1,3 @@
-
 ---
 title: "71220 - LA GUICHE | Entraide, Annonces, Initiatives"
 description: "71220 - LA GUICHE | Entraide, Annonces, Initiatives"

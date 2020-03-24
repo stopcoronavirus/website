@@ -1,4 +1,3 @@
-
 ---
 title: "45310 - ROUVRAY STE CROIX | Entraide, Annonces, Initiatives"
 description: "45310 - ROUVRAY STE CROIX | Entraide, Annonces, Initiatives"

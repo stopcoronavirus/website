@@ -1,4 +1,3 @@
-
 ---
 title: "86150 - LE VIGEANT | Entraide, Annonces, Initiatives"
 description: "86150 - LE VIGEANT | Entraide, Annonces, Initiatives"

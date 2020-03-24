@@ -1,4 +1,3 @@
-
 ---
 title: "25640 - RIGNOSOT | Entraide, Annonces, Initiatives"
 description: "25640 - RIGNOSOT | Entraide, Annonces, Initiatives"

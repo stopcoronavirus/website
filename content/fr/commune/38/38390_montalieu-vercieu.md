@@ -1,4 +1,3 @@
-
 ---
 title: "38390 - MONTALIEU VERCIEU | Entraide, Annonces, Initiatives"
 description: "38390 - MONTALIEU VERCIEU | Entraide, Annonces, Initiatives"

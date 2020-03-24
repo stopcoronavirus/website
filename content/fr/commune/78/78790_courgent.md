@@ -1,4 +1,3 @@
-
 ---
 title: "78790 - COURGENT | Entraide, Annonces, Initiatives"
 description: "78790 - COURGENT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "22500 - KERFOT | Entraide, Annonces, Initiatives"
 description: "22500 - KERFOT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "61350 - MANTILLY | Entraide, Annonces, Initiatives"
 description: "61350 - MANTILLY | Entraide, Annonces, Initiatives"

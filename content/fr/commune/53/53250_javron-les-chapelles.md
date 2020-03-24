@@ -1,4 +1,3 @@
-
 ---
 title: "53250 - JAVRON LES CHAPELLES | Entraide, Annonces, Initiatives"
 description: "53250 - JAVRON LES CHAPELLES | Entraide, Annonces, Initiatives"

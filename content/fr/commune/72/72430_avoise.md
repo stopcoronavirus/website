@@ -1,4 +1,3 @@
-
 ---
 title: "72430 - AVOISE | Entraide, Annonces, Initiatives"
 description: "72430 - AVOISE | Entraide, Annonces, Initiatives"

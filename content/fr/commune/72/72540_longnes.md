@@ -1,4 +1,3 @@
-
 ---
 title: "72540 - LONGNES | Entraide, Annonces, Initiatives"
 description: "72540 - LONGNES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "53150 - LA CHAPELLE RAINSOUIN | Entraide, Annonces, Initiatives"
 description: "53150 - LA CHAPELLE RAINSOUIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "81600 - GAILLAC | Entraide, Annonces, Initiatives"
 description: "81600 - GAILLAC | Entraide, Annonces, Initiatives"

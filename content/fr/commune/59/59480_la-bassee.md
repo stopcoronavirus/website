@@ -1,4 +1,3 @@
-
 ---
 title: "59480 - LA BASSEE | Entraide, Annonces, Initiatives"
 description: "59480 - LA BASSEE | Entraide, Annonces, Initiatives"

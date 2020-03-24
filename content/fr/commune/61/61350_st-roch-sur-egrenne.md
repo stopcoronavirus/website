@@ -1,4 +1,3 @@
-
 ---
 title: "61350 - ST ROCH SUR EGRENNE | Entraide, Annonces, Initiatives"
 description: "61350 - ST ROCH SUR EGRENNE | Entraide, Annonces, Initiatives"

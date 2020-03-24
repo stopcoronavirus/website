@@ -1,4 +1,3 @@
-
 ---
 title: "39100 - VILLETTE LES DOLE | Entraide, Annonces, Initiatives"
 description: "39100 - VILLETTE LES DOLE | Entraide, Annonces, Initiatives"

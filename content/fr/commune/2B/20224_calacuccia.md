@@ -1,4 +1,3 @@
-
 ---
 title: "20224 - CALACUCCIA | Entraide, Annonces, Initiatives"
 description: "20224 - CALACUCCIA | Entraide, Annonces, Initiatives"

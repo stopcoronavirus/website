@@ -1,4 +1,3 @@
-
 ---
 title: "37500 - ST BENOIT LA FORET | Entraide, Annonces, Initiatives"
 description: "37500 - ST BENOIT LA FORET | Entraide, Annonces, Initiatives"

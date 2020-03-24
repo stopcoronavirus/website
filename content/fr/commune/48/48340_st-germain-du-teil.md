@@ -1,4 +1,3 @@
-
 ---
 title: "48340 - ST GERMAIN DU TEIL | Entraide, Annonces, Initiatives"
 description: "48340 - ST GERMAIN DU TEIL | Entraide, Annonces, Initiatives"

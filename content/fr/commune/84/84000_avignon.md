@@ -1,4 +1,3 @@
-
 ---
 title: "84000 - AVIGNON | Entraide, Annonces, Initiatives"
 description: "84000 - AVIGNON | Entraide, Annonces, Initiatives"

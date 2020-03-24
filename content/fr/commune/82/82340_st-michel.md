@@ -1,4 +1,3 @@
-
 ---
 title: "82340 - ST MICHEL | Entraide, Annonces, Initiatives"
 description: "82340 - ST MICHEL | Entraide, Annonces, Initiatives"

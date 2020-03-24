@@ -1,4 +1,3 @@
-
 ---
 title: "37800 - STE CATHERINE DE FIERBOIS | Entraide, Annonces, Initiatives"
 description: "37800 - STE CATHERINE DE FIERBOIS | Entraide, Annonces, Initiatives"

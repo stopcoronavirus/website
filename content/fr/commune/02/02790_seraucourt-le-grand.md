@@ -1,4 +1,3 @@
-
 ---
 title: "02790 - SERAUCOURT LE GRAND | Entraide, Annonces, Initiatives"
 description: "02790 - SERAUCOURT LE GRAND | Entraide, Annonces, Initiatives"

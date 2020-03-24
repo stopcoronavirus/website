@@ -1,4 +1,3 @@
-
 ---
 title: "88270 - VELOTTE ET TATIGNECOURT | Entraide, Annonces, Initiatives"
 description: "88270 - VELOTTE ET TATIGNECOURT | Entraide, Annonces, Initiatives"

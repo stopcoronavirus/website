@@ -1,4 +1,3 @@
-
 ---
 title: "69120 - VAULX EN VELIN | Entraide, Annonces, Initiatives"
 description: "69120 - VAULX EN VELIN | Entraide, Annonces, Initiatives"

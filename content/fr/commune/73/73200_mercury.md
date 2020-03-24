@@ -1,4 +1,3 @@
-
 ---
 title: "73200 - MERCURY | Entraide, Annonces, Initiatives"
 description: "73200 - MERCURY | Entraide, Annonces, Initiatives"

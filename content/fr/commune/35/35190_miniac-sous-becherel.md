@@ -1,4 +1,3 @@
-
 ---
 title: "35190 - MINIAC SOUS BECHEREL | Entraide, Annonces, Initiatives"
 description: "35190 - MINIAC SOUS BECHEREL | Entraide, Annonces, Initiatives"

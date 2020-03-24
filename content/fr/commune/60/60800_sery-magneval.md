@@ -1,4 +1,3 @@
-
 ---
 title: "60800 - SERY MAGNEVAL | Entraide, Annonces, Initiatives"
 description: "60800 - SERY MAGNEVAL | Entraide, Annonces, Initiatives"

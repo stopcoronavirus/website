@@ -1,4 +1,3 @@
-
 ---
 title: "70130 - LES BATIES | Entraide, Annonces, Initiatives"
 description: "70130 - LES BATIES | Entraide, Annonces, Initiatives"

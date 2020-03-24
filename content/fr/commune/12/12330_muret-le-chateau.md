@@ -1,4 +1,3 @@
-
 ---
 title: "12330 - MURET LE CHATEAU | Entraide, Annonces, Initiatives"
 description: "12330 - MURET LE CHATEAU | Entraide, Annonces, Initiatives"

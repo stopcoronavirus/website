@@ -1,4 +1,3 @@
-
 ---
 title: "66100 - PERPIGNAN | Entraide, Annonces, Initiatives"
 description: "66100 - PERPIGNAN | Entraide, Annonces, Initiatives"

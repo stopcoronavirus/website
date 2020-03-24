@@ -1,4 +1,3 @@
-
 ---
 title: "87310 - COGNAC LA FORET | Entraide, Annonces, Initiatives"
 description: "87310 - COGNAC LA FORET | Entraide, Annonces, Initiatives"

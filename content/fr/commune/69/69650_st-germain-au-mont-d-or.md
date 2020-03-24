@@ -1,4 +1,3 @@
-
 ---
 title: "69650 - ST GERMAIN AU MONT D OR | Entraide, Annonces, Initiatives"
 description: "69650 - ST GERMAIN AU MONT D OR | Entraide, Annonces, Initiatives"

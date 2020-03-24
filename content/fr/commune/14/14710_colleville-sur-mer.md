@@ -1,4 +1,3 @@
-
 ---
 title: "14710 - COLLEVILLE SUR MER | Entraide, Annonces, Initiatives"
 description: "14710 - COLLEVILLE SUR MER | Entraide, Annonces, Initiatives"

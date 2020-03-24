@@ -1,4 +1,3 @@
-
 ---
 title: "21700 - QUINCEY | Entraide, Annonces, Initiatives"
 description: "21700 - QUINCEY | Entraide, Annonces, Initiatives"

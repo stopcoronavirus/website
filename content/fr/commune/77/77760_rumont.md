@@ -1,4 +1,3 @@
-
 ---
 title: "77760 - RUMONT | Entraide, Annonces, Initiatives"
 description: "77760 - RUMONT | Entraide, Annonces, Initiatives"

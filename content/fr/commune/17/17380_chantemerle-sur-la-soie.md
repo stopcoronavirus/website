@@ -1,4 +1,3 @@
-
 ---
 title: "17380 - CHANTEMERLE SUR LA SOIE | Entraide, Annonces, Initiatives"
 description: "17380 - CHANTEMERLE SUR LA SOIE | Entraide, Annonces, Initiatives"

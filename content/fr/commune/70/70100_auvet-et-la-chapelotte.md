@@ -1,4 +1,3 @@
-
 ---
 title: "70100 - AUVET ET LA CHAPELOTTE | Entraide, Annonces, Initiatives"
 description: "70100 - AUVET ET LA CHAPELOTTE | Entraide, Annonces, Initiatives"

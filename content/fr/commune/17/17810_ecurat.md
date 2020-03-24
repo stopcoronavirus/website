@@ -1,4 +1,3 @@
-
 ---
 title: "17810 - ECURAT | Entraide, Annonces, Initiatives"
 description: "17810 - ECURAT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "74600 - QUINTAL | Entraide, Annonces, Initiatives"
 description: "74600 - QUINTAL | Entraide, Annonces, Initiatives"

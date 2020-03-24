@@ -1,4 +1,3 @@
-
 ---
 title: "88260 - BONVILLET | Entraide, Annonces, Initiatives"
 description: "88260 - BONVILLET | Entraide, Annonces, Initiatives"

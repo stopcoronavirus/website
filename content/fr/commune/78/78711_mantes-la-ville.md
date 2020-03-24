@@ -1,4 +1,3 @@
-
 ---
 title: "78711 - MANTES LA VILLE | Entraide, Annonces, Initiatives"
 description: "78711 - MANTES LA VILLE | Entraide, Annonces, Initiatives"

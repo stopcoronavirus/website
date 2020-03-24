@@ -1,4 +1,3 @@
-
 ---
 title: "21150 - LA ROCHE VANNEAU | Entraide, Annonces, Initiatives"
 description: "21150 - LA ROCHE VANNEAU | Entraide, Annonces, Initiatives"

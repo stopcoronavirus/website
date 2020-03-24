@@ -1,4 +1,3 @@
-
 ---
 title: "52800 - MANDRES LA COTE | Entraide, Annonces, Initiatives"
 description: "52800 - MANDRES LA COTE | Entraide, Annonces, Initiatives"

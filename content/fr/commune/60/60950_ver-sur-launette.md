@@ -1,4 +1,3 @@
-
 ---
 title: "60950 - VER SUR LAUNETTE | Entraide, Annonces, Initiatives"
 description: "60950 - VER SUR LAUNETTE | Entraide, Annonces, Initiatives"

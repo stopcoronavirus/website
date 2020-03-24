@@ -1,4 +1,3 @@
-
 ---
 title: "02130 - VILLERS SUR FERE | Entraide, Annonces, Initiatives"
 description: "02130 - VILLERS SUR FERE | Entraide, Annonces, Initiatives"

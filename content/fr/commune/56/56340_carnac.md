@@ -1,4 +1,3 @@
-
 ---
 title: "56340 - CARNAC | Entraide, Annonces, Initiatives"
 description: "56340 - CARNAC | Entraide, Annonces, Initiatives"

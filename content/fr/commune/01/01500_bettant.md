@@ -1,4 +1,3 @@
-
 ---
 title: "01500 - BETTANT | Entraide, Annonces, Initiatives"
 description: "01500 - BETTANT | Entraide, Annonces, Initiatives"

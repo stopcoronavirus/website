@@ -1,4 +1,3 @@
-
 ---
 title: "21380 - MESSIGNY ET VANTOUX | Entraide, Annonces, Initiatives"
 description: "21380 - MESSIGNY ET VANTOUX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71960 - BERZE LE CHATEL | Entraide, Annonces, Initiatives"
 description: "71960 - BERZE LE CHATEL | Entraide, Annonces, Initiatives"

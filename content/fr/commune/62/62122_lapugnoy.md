@@ -1,4 +1,3 @@
-
 ---
 title: "62122 - LAPUGNOY | Entraide, Annonces, Initiatives"
 description: "62122 - LAPUGNOY | Entraide, Annonces, Initiatives"

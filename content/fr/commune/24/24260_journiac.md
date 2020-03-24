@@ -1,4 +1,3 @@
-
 ---
 title: "24260 - JOURNIAC | Entraide, Annonces, Initiatives"
 description: "24260 - JOURNIAC | Entraide, Annonces, Initiatives"

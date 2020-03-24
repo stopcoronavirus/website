@@ -1,4 +1,3 @@
-
 ---
 title: "67350 - ETTENDORF | Entraide, Annonces, Initiatives"
 description: "67350 - ETTENDORF | Entraide, Annonces, Initiatives"

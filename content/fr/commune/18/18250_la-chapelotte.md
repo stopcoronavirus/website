@@ -1,4 +1,3 @@
-
 ---
 title: "18250 - LA CHAPELOTTE | Entraide, Annonces, Initiatives"
 description: "18250 - LA CHAPELOTTE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "33240 - ST GENES DE FRONSAC | Entraide, Annonces, Initiatives"
 description: "33240 - ST GENES DE FRONSAC | Entraide, Annonces, Initiatives"

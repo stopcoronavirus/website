@@ -1,4 +1,3 @@
-
 ---
 title: "23000 - LA CHAPELLE TAILLEFERT | Entraide, Annonces, Initiatives"
 description: "23000 - LA CHAPELLE TAILLEFERT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "81700 - ST SERNIN LES LAVAUR | Entraide, Annonces, Initiatives"
 description: "81700 - ST SERNIN LES LAVAUR | Entraide, Annonces, Initiatives"

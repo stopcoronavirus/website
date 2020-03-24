@@ -1,4 +1,3 @@
-
 ---
 title: "38090 - VILLEFONTAINE | Entraide, Annonces, Initiatives"
 description: "38090 - VILLEFONTAINE | Entraide, Annonces, Initiatives"

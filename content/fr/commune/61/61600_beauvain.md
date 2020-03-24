@@ -1,4 +1,3 @@
-
 ---
 title: "61600 - BEAUVAIN | Entraide, Annonces, Initiatives"
 description: "61600 - BEAUVAIN | Entraide, Annonces, Initiatives"

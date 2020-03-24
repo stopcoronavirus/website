@@ -1,4 +1,3 @@
-
 ---
 title: "85150 - ST GEORGES DE POINTINDOUX | Entraide, Annonces, Initiatives"
 description: "85150 - ST GEORGES DE POINTINDOUX | Entraide, Annonces, Initiatives"

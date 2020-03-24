@@ -1,4 +1,3 @@
-
 ---
 title: "68126 - BENNWIHR | Entraide, Annonces, Initiatives"
 description: "68126 - BENNWIHR | Entraide, Annonces, Initiatives"

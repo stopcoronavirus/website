@@ -1,4 +1,3 @@
-
 ---
 title: "40140 - MAGESCQ | Entraide, Annonces, Initiatives"
 description: "40140 - MAGESCQ | Entraide, Annonces, Initiatives"

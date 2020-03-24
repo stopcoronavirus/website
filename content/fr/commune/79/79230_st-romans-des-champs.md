@@ -1,4 +1,3 @@
-
 ---
 title: "79230 - ST ROMANS DES CHAMPS | Entraide, Annonces, Initiatives"
 description: "79230 - ST ROMANS DES CHAMPS | Entraide, Annonces, Initiatives"

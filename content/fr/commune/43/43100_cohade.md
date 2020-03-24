@@ -1,4 +1,3 @@
-
 ---
 title: "43100 - COHADE | Entraide, Annonces, Initiatives"
 description: "43100 - COHADE | Entraide, Annonces, Initiatives"

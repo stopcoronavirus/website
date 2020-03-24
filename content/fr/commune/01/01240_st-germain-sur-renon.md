@@ -1,4 +1,3 @@
-
 ---
 title: "01240 - ST GERMAIN SUR RENON | Entraide, Annonces, Initiatives"
 description: "01240 - ST GERMAIN SUR RENON | Entraide, Annonces, Initiatives"

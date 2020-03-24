@@ -1,4 +1,3 @@
-
 ---
 title: "2A - Corse-du-Sud"
 description: "2A - Corse-du-Sud"

@@ -1,4 +1,3 @@
-
 ---
 title: "63760 - LASTIC | Entraide, Annonces, Initiatives"
 description: "63760 - LASTIC | Entraide, Annonces, Initiatives"

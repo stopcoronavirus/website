@@ -1,4 +1,3 @@
-
 ---
 title: "02220 - COURCELLES SUR VESLE | Entraide, Annonces, Initiatives"
 description: "02220 - COURCELLES SUR VESLE | Entraide, Annonces, Initiatives"

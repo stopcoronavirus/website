@@ -1,4 +1,3 @@
-
 ---
 title: "45480 - CHAUSSY | Entraide, Annonces, Initiatives"
 description: "45480 - CHAUSSY | Entraide, Annonces, Initiatives"

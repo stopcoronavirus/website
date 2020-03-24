@@ -1,4 +1,3 @@
-
 ---
 title: "60680 - GRANDFRESNOY | Entraide, Annonces, Initiatives"
 description: "60680 - GRANDFRESNOY | Entraide, Annonces, Initiatives"

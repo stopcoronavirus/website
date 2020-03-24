@@ -1,4 +1,3 @@
-
 ---
 title: "29000 - QUIMPER | Entraide, Annonces, Initiatives"
 description: "29000 - QUIMPER | Entraide, Annonces, Initiatives"

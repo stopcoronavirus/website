@@ -1,4 +1,3 @@
-
 ---
 title: "91170 - VIRY CHATILLON | Entraide, Annonces, Initiatives"
 description: "91170 - VIRY CHATILLON | Entraide, Annonces, Initiatives"

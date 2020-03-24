@@ -1,4 +1,3 @@
-
 ---
 title: "39190 - ROTALIER | Entraide, Annonces, Initiatives"
 description: "39190 - ROTALIER | Entraide, Annonces, Initiatives"

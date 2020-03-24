@@ -1,4 +1,3 @@
-
 ---
 title: "71420 - ST ROMAIN SOUS VERSIGNY | Entraide, Annonces, Initiatives"
 description: "71420 - ST ROMAIN SOUS VERSIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "21220 - CHAMBOLLE MUSIGNY | Entraide, Annonces, Initiatives"
 description: "21220 - CHAMBOLLE MUSIGNY | Entraide, Annonces, Initiatives"

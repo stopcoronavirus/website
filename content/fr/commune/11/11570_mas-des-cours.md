@@ -1,4 +1,3 @@
-
 ---
 title: "11570 - MAS DES COURS | Entraide, Annonces, Initiatives"
 description: "11570 - MAS DES COURS | Entraide, Annonces, Initiatives"

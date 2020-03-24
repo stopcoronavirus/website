@@ -1,4 +1,3 @@
-
 ---
 title: "62700 - BRUAY LA BUISSIERE | Entraide, Annonces, Initiatives"
 description: "62700 - BRUAY LA BUISSIERE | Entraide, Annonces, Initiatives"

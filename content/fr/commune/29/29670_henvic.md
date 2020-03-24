@@ -1,4 +1,3 @@
-
 ---
 title: "29670 - HENVIC | Entraide, Annonces, Initiatives"
 description: "29670 - HENVIC | Entraide, Annonces, Initiatives"

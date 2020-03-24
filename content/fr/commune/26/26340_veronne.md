@@ -1,4 +1,3 @@
-
 ---
 title: "26340 - VERONNE | Entraide, Annonces, Initiatives"
 description: "26340 - VERONNE | Entraide, Annonces, Initiatives"

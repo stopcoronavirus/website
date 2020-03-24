@@ -1,4 +1,3 @@
-
 ---
 title: "43800 - ROSIERES | Entraide, Annonces, Initiatives"
 description: "43800 - ROSIERES | Entraide, Annonces, Initiatives"

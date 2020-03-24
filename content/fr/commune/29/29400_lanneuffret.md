@@ -1,4 +1,3 @@
-
 ---
 title: "29400 - LANNEUFFRET | Entraide, Annonces, Initiatives"
 description: "29400 - LANNEUFFRET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "87110 - BOSMIE L AIGUILLE | Entraide, Annonces, Initiatives"
 description: "87110 - BOSMIE L AIGUILLE | Entraide, Annonces, Initiatives"

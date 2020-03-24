@@ -1,4 +1,3 @@
-
 ---
 title: "49320 - BRISSAC LOIRE AUBANCE | Entraide, Annonces, Initiatives"
 description: "49320 - BRISSAC LOIRE AUBANCE | Entraide, Annonces, Initiatives"

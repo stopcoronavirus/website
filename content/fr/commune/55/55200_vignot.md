@@ -1,4 +1,3 @@
-
 ---
 title: "55200 - VIGNOT | Entraide, Annonces, Initiatives"
 description: "55200 - VIGNOT | Entraide, Annonces, Initiatives"

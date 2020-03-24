@@ -1,4 +1,3 @@
-
 ---
 title: "21410 - BAULME LA ROCHE | Entraide, Annonces, Initiatives"
 description: "21410 - BAULME LA ROCHE | Entraide, Annonces, Initiatives"

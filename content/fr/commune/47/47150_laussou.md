@@ -1,4 +1,3 @@
-
 ---
 title: "47150 - LAUSSOU | Entraide, Annonces, Initiatives"
 description: "47150 - LAUSSOU | Entraide, Annonces, Initiatives"

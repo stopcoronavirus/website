@@ -1,4 +1,3 @@
-
 ---
 title: "03460 - VILLENEUVE SUR ALLIER | Entraide, Annonces, Initiatives"
 description: "03460 - VILLENEUVE SUR ALLIER | Entraide, Annonces, Initiatives"

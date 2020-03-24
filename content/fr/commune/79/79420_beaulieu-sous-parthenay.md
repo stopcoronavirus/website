@@ -1,4 +1,3 @@
-
 ---
 title: "79420 - BEAULIEU SOUS PARTHENAY | Entraide, Annonces, Initiatives"
 description: "79420 - BEAULIEU SOUS PARTHENAY | Entraide, Annonces, Initiatives"

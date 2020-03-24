@@ -1,4 +1,3 @@
-
 ---
 title: "88 - Vosges"
 description: "88 - Vosges"

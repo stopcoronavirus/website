@@ -1,4 +1,3 @@
-
 ---
 title: "20200 - BASTIA | Entraide, Annonces, Initiatives"
 description: "20200 - BASTIA | Entraide, Annonces, Initiatives"

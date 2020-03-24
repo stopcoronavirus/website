@@ -1,4 +1,3 @@
-
 ---
 title: "54115 - BATTIGNY | Entraide, Annonces, Initiatives"
 description: "54115 - BATTIGNY | Entraide, Annonces, Initiatives"

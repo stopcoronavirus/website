@@ -1,4 +1,3 @@
-
 ---
 title: "60280 - VENETTE | Entraide, Annonces, Initiatives"
 description: "60280 - VENETTE | Entraide, Annonces, Initiatives"

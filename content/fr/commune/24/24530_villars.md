@@ -1,4 +1,3 @@
-
 ---
 title: "24530 - VILLARS | Entraide, Annonces, Initiatives"
 description: "24530 - VILLARS | Entraide, Annonces, Initiatives"

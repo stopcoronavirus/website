@@ -1,4 +1,3 @@
-
 ---
 title: "52600 - VIOLOT | Entraide, Annonces, Initiatives"
 description: "52600 - VIOLOT | Entraide, Annonces, Initiatives"

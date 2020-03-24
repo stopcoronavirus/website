@@ -1,4 +1,3 @@
-
 ---
 title: "79400 - ST MAIXENT L ECOLE | Entraide, Annonces, Initiatives"
 description: "79400 - ST MAIXENT L ECOLE | Entraide, Annonces, Initiatives"

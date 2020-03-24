@@ -1,4 +1,3 @@
-
 ---
 title: "42320 - LA GRAND CROIX | Entraide, Annonces, Initiatives"
 description: "42320 - LA GRAND CROIX | Entraide, Annonces, Initiatives"

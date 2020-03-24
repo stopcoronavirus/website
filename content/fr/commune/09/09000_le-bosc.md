@@ -1,4 +1,3 @@
-
 ---
 title: "09000 - LE BOSC | Entraide, Annonces, Initiatives"
 description: "09000 - LE BOSC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "53700 - AVERTON | Entraide, Annonces, Initiatives"
 description: "53700 - AVERTON | Entraide, Annonces, Initiatives"

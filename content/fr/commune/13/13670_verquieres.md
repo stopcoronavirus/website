@@ -1,4 +1,3 @@
-
 ---
 title: "13670 - VERQUIERES | Entraide, Annonces, Initiatives"
 description: "13670 - VERQUIERES | Entraide, Annonces, Initiatives"

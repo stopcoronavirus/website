@@ -1,4 +1,3 @@
-
 ---
 title: "35340 - ERCE PRES LIFFRE | Entraide, Annonces, Initiatives"
 description: "35340 - ERCE PRES LIFFRE | Entraide, Annonces, Initiatives"

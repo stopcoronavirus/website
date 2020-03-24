@@ -1,4 +1,3 @@
-
 ---
 title: "45220 - ST GERMAIN DES PRES | Entraide, Annonces, Initiatives"
 description: "45220 - ST GERMAIN DES PRES | Entraide, Annonces, Initiatives"

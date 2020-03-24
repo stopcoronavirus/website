@@ -1,4 +1,3 @@
-
 ---
 title: "20147 - SERRIERA | Entraide, Annonces, Initiatives"
 description: "20147 - SERRIERA | Entraide, Annonces, Initiatives"

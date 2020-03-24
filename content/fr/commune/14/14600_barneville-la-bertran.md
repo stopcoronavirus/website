@@ -1,4 +1,3 @@
-
 ---
 title: "14600 - BARNEVILLE LA BERTRAN | Entraide, Annonces, Initiatives"
 description: "14600 - BARNEVILLE LA BERTRAN | Entraide, Annonces, Initiatives"

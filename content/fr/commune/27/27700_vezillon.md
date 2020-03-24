@@ -1,4 +1,3 @@
-
 ---
 title: "27700 - VEZILLON | Entraide, Annonces, Initiatives"
 description: "27700 - VEZILLON | Entraide, Annonces, Initiatives"

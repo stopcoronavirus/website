@@ -1,4 +1,3 @@
-
 ---
 title: "38350 - NANTES EN RATIER | Entraide, Annonces, Initiatives"
 description: "38350 - NANTES EN RATIER | Entraide, Annonces, Initiatives"

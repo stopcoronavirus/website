@@ -1,4 +1,3 @@
-
 ---
 title: "43430 - LES VASTRES | Entraide, Annonces, Initiatives"
 description: "43430 - LES VASTRES | Entraide, Annonces, Initiatives"

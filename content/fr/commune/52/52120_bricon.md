@@ -1,4 +1,3 @@
-
 ---
 title: "52120 - BRICON | Entraide, Annonces, Initiatives"
 description: "52120 - BRICON | Entraide, Annonces, Initiatives"

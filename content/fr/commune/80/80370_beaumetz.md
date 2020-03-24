@@ -1,4 +1,3 @@
-
 ---
 title: "80370 - BEAUMETZ | Entraide, Annonces, Initiatives"
 description: "80370 - BEAUMETZ | Entraide, Annonces, Initiatives"

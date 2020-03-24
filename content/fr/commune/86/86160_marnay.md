@@ -1,4 +1,3 @@
-
 ---
 title: "86160 - MARNAY | Entraide, Annonces, Initiatives"
 description: "86160 - MARNAY | Entraide, Annonces, Initiatives"

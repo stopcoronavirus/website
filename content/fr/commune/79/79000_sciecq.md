@@ -1,4 +1,3 @@
-
 ---
 title: "79000 - SCIECQ | Entraide, Annonces, Initiatives"
 description: "79000 - SCIECQ | Entraide, Annonces, Initiatives"

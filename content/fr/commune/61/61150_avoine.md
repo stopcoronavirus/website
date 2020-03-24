@@ -1,4 +1,3 @@
-
 ---
 title: "61150 - AVOINE | Entraide, Annonces, Initiatives"
 description: "61150 - AVOINE | Entraide, Annonces, Initiatives"

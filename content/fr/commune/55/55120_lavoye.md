@@ -1,4 +1,3 @@
-
 ---
 title: "55120 - LAVOYE | Entraide, Annonces, Initiatives"
 description: "55120 - LAVOYE | Entraide, Annonces, Initiatives"

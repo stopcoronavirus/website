@@ -1,4 +1,3 @@
-
 ---
 title: "67730 - CHATENOIS | Entraide, Annonces, Initiatives"
 description: "67730 - CHATENOIS | Entraide, Annonces, Initiatives"

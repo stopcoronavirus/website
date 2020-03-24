@@ -1,4 +1,3 @@
-
 ---
 title: "60400 - SERMAIZE | Entraide, Annonces, Initiatives"
 description: "60400 - SERMAIZE | Entraide, Annonces, Initiatives"

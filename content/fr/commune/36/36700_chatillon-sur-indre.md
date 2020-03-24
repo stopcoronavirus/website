@@ -1,4 +1,3 @@
-
 ---
 title: "36700 - CHATILLON SUR INDRE | Entraide, Annonces, Initiatives"
 description: "36700 - CHATILLON SUR INDRE | Entraide, Annonces, Initiatives"

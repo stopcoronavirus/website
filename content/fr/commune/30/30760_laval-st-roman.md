@@ -1,4 +1,3 @@
-
 ---
 title: "30760 - LAVAL ST ROMAN | Entraide, Annonces, Initiatives"
 description: "30760 - LAVAL ST ROMAN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20253 - PATRIMONIO | Entraide, Annonces, Initiatives"
 description: "20253 - PATRIMONIO | Entraide, Annonces, Initiatives"

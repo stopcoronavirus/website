@@ -1,4 +1,3 @@
-
 ---
 title: "30350 - ST JEAN DE SERRES | Entraide, Annonces, Initiatives"
 description: "30350 - ST JEAN DE SERRES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "28480 - BEAUMONT LES AUTELS | Entraide, Annonces, Initiatives"
 description: "28480 - BEAUMONT LES AUTELS | Entraide, Annonces, Initiatives"

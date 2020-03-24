@@ -1,4 +1,3 @@
-
 ---
 title: "36600 - LA VERNELLE | Entraide, Annonces, Initiatives"
 description: "36600 - LA VERNELLE | Entraide, Annonces, Initiatives"

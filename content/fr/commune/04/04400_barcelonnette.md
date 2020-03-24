@@ -1,4 +1,3 @@
-
 ---
 title: "04400 - BARCELONNETTE | Entraide, Annonces, Initiatives"
 description: "04400 - BARCELONNETTE | Entraide, Annonces, Initiatives"

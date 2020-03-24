@@ -1,4 +1,3 @@
-
 ---
 title: "62390 - GENNES IVERGNY | Entraide, Annonces, Initiatives"
 description: "62390 - GENNES IVERGNY | Entraide, Annonces, Initiatives"

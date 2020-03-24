@@ -1,4 +1,3 @@
-
 ---
 title: "37800 - MARCILLY SUR VIENNE | Entraide, Annonces, Initiatives"
 description: "37800 - MARCILLY SUR VIENNE | Entraide, Annonces, Initiatives"

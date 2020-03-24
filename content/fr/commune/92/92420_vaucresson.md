@@ -1,4 +1,3 @@
-
 ---
 title: "92420 - VAUCRESSON | Entraide, Annonces, Initiatives"
 description: "92420 - VAUCRESSON | Entraide, Annonces, Initiatives"

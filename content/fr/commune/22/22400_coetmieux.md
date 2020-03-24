@@ -1,4 +1,3 @@
-
 ---
 title: "22400 - COETMIEUX | Entraide, Annonces, Initiatives"
 description: "22400 - COETMIEUX | Entraide, Annonces, Initiatives"

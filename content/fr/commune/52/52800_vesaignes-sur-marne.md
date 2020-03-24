@@ -1,4 +1,3 @@
-
 ---
 title: "52800 - VESAIGNES SUR MARNE | Entraide, Annonces, Initiatives"
 description: "52800 - VESAIGNES SUR MARNE | Entraide, Annonces, Initiatives"

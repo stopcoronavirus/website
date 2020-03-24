@@ -1,4 +1,3 @@
-
 ---
 title: "70190 - VILLERS PATER | Entraide, Annonces, Initiatives"
 description: "70190 - VILLERS PATER | Entraide, Annonces, Initiatives"

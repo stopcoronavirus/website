@@ -1,4 +1,3 @@
-
 ---
 title: "22980 - LA LANDEC | Entraide, Annonces, Initiatives"
 description: "22980 - LA LANDEC | Entraide, Annonces, Initiatives"

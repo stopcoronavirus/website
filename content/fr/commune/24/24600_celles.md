@@ -1,4 +1,3 @@
-
 ---
 title: "24600 - CELLES | Entraide, Annonces, Initiatives"
 description: "24600 - CELLES | Entraide, Annonces, Initiatives"

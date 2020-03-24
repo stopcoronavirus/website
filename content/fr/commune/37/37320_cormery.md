@@ -1,4 +1,3 @@
-
 ---
 title: "37320 - CORMERY | Entraide, Annonces, Initiatives"
 description: "37320 - CORMERY | Entraide, Annonces, Initiatives"

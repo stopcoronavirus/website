@@ -1,4 +1,3 @@
-
 ---
 title: "42700 - FIRMINY | Entraide, Annonces, Initiatives"
 description: "42700 - FIRMINY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "21170 - AUBIGNY EN PLAINE | Entraide, Annonces, Initiatives"
 description: "21170 - AUBIGNY EN PLAINE | Entraide, Annonces, Initiatives"

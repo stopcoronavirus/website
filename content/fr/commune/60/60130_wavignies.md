@@ -1,4 +1,3 @@
-
 ---
 title: "60130 - WAVIGNIES | Entraide, Annonces, Initiatives"
 description: "60130 - WAVIGNIES | Entraide, Annonces, Initiatives"

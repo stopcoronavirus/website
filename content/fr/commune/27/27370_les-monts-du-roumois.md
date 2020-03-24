@@ -1,4 +1,3 @@
-
 ---
 title: "27370 - LES MONTS DU ROUMOIS | Entraide, Annonces, Initiatives"
 description: "27370 - LES MONTS DU ROUMOIS | Entraide, Annonces, Initiatives"

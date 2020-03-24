@@ -1,4 +1,3 @@
-
 ---
 title: "70440 - SERVANCE MIELLIN | Entraide, Annonces, Initiatives"
 description: "70440 - SERVANCE MIELLIN | Entraide, Annonces, Initiatives"

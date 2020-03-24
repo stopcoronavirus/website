@@ -1,4 +1,3 @@
-
 ---
 title: "03190 - VERNEIX | Entraide, Annonces, Initiatives"
 description: "03190 - VERNEIX | Entraide, Annonces, Initiatives"

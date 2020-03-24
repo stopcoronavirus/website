@@ -1,4 +1,3 @@
-
 ---
 title: "62123 - SIMENCOURT | Entraide, Annonces, Initiatives"
 description: "62123 - SIMENCOURT | Entraide, Annonces, Initiatives"

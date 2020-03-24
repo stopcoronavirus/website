@@ -1,4 +1,3 @@
-
 ---
 title: "46140 - CARNAC ROUFFIAC | Entraide, Annonces, Initiatives"
 description: "46140 - CARNAC ROUFFIAC | Entraide, Annonces, Initiatives"

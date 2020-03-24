@@ -1,4 +1,3 @@
-
 ---
 title: "70120 - LA ROCHE MOREY | Entraide, Annonces, Initiatives"
 description: "70120 - LA ROCHE MOREY | Entraide, Annonces, Initiatives"

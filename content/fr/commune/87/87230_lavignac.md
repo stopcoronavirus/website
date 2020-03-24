@@ -1,4 +1,3 @@
-
 ---
 title: "87230 - LAVIGNAC | Entraide, Annonces, Initiatives"
 description: "87230 - LAVIGNAC | Entraide, Annonces, Initiatives"

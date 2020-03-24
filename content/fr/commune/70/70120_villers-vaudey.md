@@ -1,4 +1,3 @@
-
 ---
 title: "70120 - VILLERS VAUDEY | Entraide, Annonces, Initiatives"
 description: "70120 - VILLERS VAUDEY | Entraide, Annonces, Initiatives"

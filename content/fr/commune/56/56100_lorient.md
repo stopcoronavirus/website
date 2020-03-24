@@ -1,4 +1,3 @@
-
 ---
 title: "56100 - LORIENT | Entraide, Annonces, Initiatives"
 description: "56100 - LORIENT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "58640 - VARENNES VAUZELLES | Entraide, Annonces, Initiatives"
 description: "58640 - VARENNES VAUZELLES | Entraide, Annonces, Initiatives"

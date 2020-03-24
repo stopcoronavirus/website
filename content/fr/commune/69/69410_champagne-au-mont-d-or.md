@@ -1,4 +1,3 @@
-
 ---
 title: "69410 - CHAMPAGNE AU MONT D OR | Entraide, Annonces, Initiatives"
 description: "69410 - CHAMPAGNE AU MONT D OR | Entraide, Annonces, Initiatives"

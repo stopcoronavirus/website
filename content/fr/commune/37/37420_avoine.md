@@ -1,4 +1,3 @@
-
 ---
 title: "37420 - AVOINE | Entraide, Annonces, Initiatives"
 description: "37420 - AVOINE | Entraide, Annonces, Initiatives"

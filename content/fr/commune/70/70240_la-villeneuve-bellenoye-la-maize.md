@@ -1,4 +1,3 @@
-
 ---
 title: "70240 - LA VILLENEUVE BELLENOYE LA MAIZE | Entraide, Annonces, Initiatives"
 description: "70240 - LA VILLENEUVE BELLENOYE LA MAIZE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "86150 - L ISLE JOURDAIN | Entraide, Annonces, Initiatives"
 description: "86150 - L ISLE JOURDAIN | Entraide, Annonces, Initiatives"

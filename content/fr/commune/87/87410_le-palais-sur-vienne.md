@@ -1,4 +1,3 @@
-
 ---
 title: "87410 - LE PALAIS SUR VIENNE | Entraide, Annonces, Initiatives"
 description: "87410 - LE PALAIS SUR VIENNE | Entraide, Annonces, Initiatives"

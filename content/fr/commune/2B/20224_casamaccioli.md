@@ -1,4 +1,3 @@
-
 ---
 title: "20224 - CASAMACCIOLI | Entraide, Annonces, Initiatives"
 description: "20224 - CASAMACCIOLI | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "80500 - BOUILLANCOURT LA BATAILLE | Entraide, Annonces, Initiatives"
 description: "80500 - BOUILLANCOURT LA BATAILLE | Entraide, Annonces, Initiatives"

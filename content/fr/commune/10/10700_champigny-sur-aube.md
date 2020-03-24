@@ -1,4 +1,3 @@
-
 ---
 title: "10700 - CHAMPIGNY SUR AUBE | Entraide, Annonces, Initiatives"
 description: "10700 - CHAMPIGNY SUR AUBE | Entraide, Annonces, Initiatives"

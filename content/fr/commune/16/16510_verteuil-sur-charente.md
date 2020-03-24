@@ -1,4 +1,3 @@
-
 ---
 title: "16510 - VERTEUIL SUR CHARENTE | Entraide, Annonces, Initiatives"
 description: "16510 - VERTEUIL SUR CHARENTE | Entraide, Annonces, Initiatives"

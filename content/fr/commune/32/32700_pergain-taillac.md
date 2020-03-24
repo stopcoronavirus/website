@@ -1,4 +1,3 @@
-
 ---
 title: "32700 - PERGAIN TAILLAC | Entraide, Annonces, Initiatives"
 description: "32700 - PERGAIN TAILLAC | Entraide, Annonces, Initiatives"

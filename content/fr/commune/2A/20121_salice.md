@@ -1,4 +1,3 @@
-
 ---
 title: "20121 - SALICE | Entraide, Annonces, Initiatives"
 description: "20121 - SALICE | Entraide, Annonces, Initiatives"

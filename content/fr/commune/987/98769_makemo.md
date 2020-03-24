@@ -1,4 +1,3 @@
-
 ---
 title: "98769 - MAKEMO | Entraide, Annonces, Initiatives"
 description: "98769 - MAKEMO | Entraide, Annonces, Initiatives"

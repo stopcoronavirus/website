@@ -1,4 +1,3 @@
-
 ---
 title: "51130 - GERMINON | Entraide, Annonces, Initiatives"
 description: "51130 - GERMINON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "32190 - BASCOUS | Entraide, Annonces, Initiatives"
 description: "32190 - BASCOUS | Entraide, Annonces, Initiatives"

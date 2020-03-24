@@ -1,4 +1,3 @@
-
 ---
 title: "05140 - LA HAUTE BEAUME | Entraide, Annonces, Initiatives"
 description: "05140 - LA HAUTE BEAUME | Entraide, Annonces, Initiatives"

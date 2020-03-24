@@ -1,4 +1,3 @@
-
 ---
 title: "02540 - VIFFORT | Entraide, Annonces, Initiatives"
 description: "02540 - VIFFORT | Entraide, Annonces, Initiatives"

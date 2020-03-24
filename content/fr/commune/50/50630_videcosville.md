@@ -1,4 +1,3 @@
-
 ---
 title: "50630 - VIDECOSVILLE | Entraide, Annonces, Initiatives"
 description: "50630 - VIDECOSVILLE | Entraide, Annonces, Initiatives"

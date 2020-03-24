@@ -1,4 +1,3 @@
-
 ---
 title: "12620 - ST BEAUZELY | Entraide, Annonces, Initiatives"
 description: "12620 - ST BEAUZELY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "54800 - FRIAUVILLE | Entraide, Annonces, Initiatives"
 description: "54800 - FRIAUVILLE | Entraide, Annonces, Initiatives"

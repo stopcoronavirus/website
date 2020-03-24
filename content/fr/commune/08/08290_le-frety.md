@@ -1,4 +1,3 @@
-
 ---
 title: "08290 - LE FRETY | Entraide, Annonces, Initiatives"
 description: "08290 - LE FRETY | Entraide, Annonces, Initiatives"

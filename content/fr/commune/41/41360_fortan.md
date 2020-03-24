@@ -1,4 +1,3 @@
-
 ---
 title: "41360 - FORTAN | Entraide, Annonces, Initiatives"
 description: "41360 - FORTAN | Entraide, Annonces, Initiatives"

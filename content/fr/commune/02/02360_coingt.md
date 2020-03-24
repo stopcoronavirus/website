@@ -1,4 +1,3 @@
-
 ---
 title: "02360 - COINGT | Entraide, Annonces, Initiatives"
 description: "02360 - COINGT | Entraide, Annonces, Initiatives"

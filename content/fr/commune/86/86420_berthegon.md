@@ -1,4 +1,3 @@
-
 ---
 title: "86420 - BERTHEGON | Entraide, Annonces, Initiatives"
 description: "86420 - BERTHEGON | Entraide, Annonces, Initiatives"

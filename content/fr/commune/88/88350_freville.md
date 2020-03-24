@@ -1,4 +1,3 @@
-
 ---
 title: "88350 - FREVILLE | Entraide, Annonces, Initiatives"
 description: "88350 - FREVILLE | Entraide, Annonces, Initiatives"

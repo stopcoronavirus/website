@@ -1,4 +1,3 @@
-
 ---
 title: "57810 - MAIZIERES LES VIC | Entraide, Annonces, Initiatives"
 description: "57810 - MAIZIERES LES VIC | Entraide, Annonces, Initiatives"

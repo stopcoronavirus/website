@@ -1,4 +1,3 @@
-
 ---
 title: "43230 - PAULHAGUET | Entraide, Annonces, Initiatives"
 description: "43230 - PAULHAGUET | Entraide, Annonces, Initiatives"

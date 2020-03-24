@@ -1,4 +1,3 @@
-
 ---
 title: "28480 - CHASSANT | Entraide, Annonces, Initiatives"
 description: "28480 - CHASSANT | Entraide, Annonces, Initiatives"

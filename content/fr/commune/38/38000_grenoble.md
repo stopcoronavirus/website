@@ -1,4 +1,3 @@
-
 ---
 title: "38000 - GRENOBLE | Entraide, Annonces, Initiatives"
 description: "38000 - GRENOBLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "45300 - BOYNES | Entraide, Annonces, Initiatives"
 description: "45300 - BOYNES | Entraide, Annonces, Initiatives"

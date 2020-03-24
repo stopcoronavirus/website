@@ -1,4 +1,3 @@
-
 ---
 title: "31240 - ST JEAN | Entraide, Annonces, Initiatives"
 description: "31240 - ST JEAN | Entraide, Annonces, Initiatives"

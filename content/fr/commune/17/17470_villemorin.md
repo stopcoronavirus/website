@@ -1,4 +1,3 @@
-
 ---
 title: "17470 - VILLEMORIN | Entraide, Annonces, Initiatives"
 description: "17470 - VILLEMORIN | Entraide, Annonces, Initiatives"

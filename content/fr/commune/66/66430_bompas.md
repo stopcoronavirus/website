@@ -1,4 +1,3 @@
-
 ---
 title: "66430 - BOMPAS | Entraide, Annonces, Initiatives"
 description: "66430 - BOMPAS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20129 - BASTELICACCIA | Entraide, Annonces, Initiatives"
 description: "20129 - BASTELICACCIA | Entraide, Annonces, Initiatives"

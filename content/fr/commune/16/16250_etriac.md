@@ -1,4 +1,3 @@
-
 ---
 title: "16250 - ETRIAC | Entraide, Annonces, Initiatives"
 description: "16250 - ETRIAC | Entraide, Annonces, Initiatives"

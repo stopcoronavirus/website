@@ -1,4 +1,3 @@
-
 ---
 title: "67700 - OTTERSTHAL | Entraide, Annonces, Initiatives"
 description: "67700 - OTTERSTHAL | Entraide, Annonces, Initiatives"

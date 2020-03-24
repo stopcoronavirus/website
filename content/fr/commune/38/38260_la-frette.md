@@ -1,4 +1,3 @@
-
 ---
 title: "38260 - LA FRETTE | Entraide, Annonces, Initiatives"
 description: "38260 - LA FRETTE | Entraide, Annonces, Initiatives"

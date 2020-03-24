@@ -1,4 +1,3 @@
-
 ---
 title: "51260 - BETHON | Entraide, Annonces, Initiatives"
 description: "51260 - BETHON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "16320 - VAUX LAVALETTE | Entraide, Annonces, Initiatives"
 description: "16320 - VAUX LAVALETTE | Entraide, Annonces, Initiatives"

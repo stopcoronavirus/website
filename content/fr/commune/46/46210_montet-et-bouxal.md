@@ -1,4 +1,3 @@
-
 ---
 title: "46210 - MONTET ET BOUXAL | Entraide, Annonces, Initiatives"
 description: "46210 - MONTET ET BOUXAL | Entraide, Annonces, Initiatives"

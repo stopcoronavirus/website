@@ -1,4 +1,3 @@
-
 ---
 title: "39600 - VILLETTE LES ARBOIS | Entraide, Annonces, Initiatives"
 description: "39600 - VILLETTE LES ARBOIS | Entraide, Annonces, Initiatives"

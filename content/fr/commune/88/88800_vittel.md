@@ -1,4 +1,3 @@
-
 ---
 title: "88800 - VITTEL | Entraide, Annonces, Initiatives"
 description: "88800 - VITTEL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "80310 - HANGEST SUR SOMME | Entraide, Annonces, Initiatives"
 description: "80310 - HANGEST SUR SOMME | Entraide, Annonces, Initiatives"

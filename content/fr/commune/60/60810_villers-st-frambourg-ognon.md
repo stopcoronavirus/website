@@ -1,4 +1,3 @@
-
 ---
 title: "60810 - VILLERS ST FRAMBOURG OGNON | Entraide, Annonces, Initiatives"
 description: "60810 - VILLERS ST FRAMBOURG OGNON | Entraide, Annonces, Initiatives"

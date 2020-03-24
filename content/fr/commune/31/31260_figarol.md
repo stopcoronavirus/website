@@ -1,4 +1,3 @@
-
 ---
 title: "31260 - FIGAROL | Entraide, Annonces, Initiatives"
 description: "31260 - FIGAROL | Entraide, Annonces, Initiatives"

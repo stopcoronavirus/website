@@ -1,4 +1,3 @@
-
 ---
 title: "27130 - LES BARILS | Entraide, Annonces, Initiatives"
 description: "27130 - LES BARILS | Entraide, Annonces, Initiatives"

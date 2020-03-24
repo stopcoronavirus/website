@@ -1,4 +1,3 @@
-
 ---
 title: "85240 - PUY DE SERRE | Entraide, Annonces, Initiatives"
 description: "85240 - PUY DE SERRE | Entraide, Annonces, Initiatives"

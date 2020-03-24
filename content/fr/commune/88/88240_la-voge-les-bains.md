@@ -1,4 +1,3 @@
-
 ---
 title: "88240 - LA VOGE LES BAINS | Entraide, Annonces, Initiatives"
 description: "88240 - LA VOGE LES BAINS | Entraide, Annonces, Initiatives"

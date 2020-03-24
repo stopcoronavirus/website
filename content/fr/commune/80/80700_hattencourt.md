@@ -1,4 +1,3 @@
-
 ---
 title: "80700 - HATTENCOURT | Entraide, Annonces, Initiatives"
 description: "80700 - HATTENCOURT | Entraide, Annonces, Initiatives"

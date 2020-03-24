@@ -1,4 +1,3 @@
-
 ---
 title: "79270 - FRONTENAY ROHAN ROHAN | Entraide, Annonces, Initiatives"
 description: "79270 - FRONTENAY ROHAN ROHAN | Entraide, Annonces, Initiatives"

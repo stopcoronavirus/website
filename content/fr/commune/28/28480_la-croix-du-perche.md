@@ -1,4 +1,3 @@
-
 ---
 title: "28480 - LA CROIX DU PERCHE | Entraide, Annonces, Initiatives"
 description: "28480 - LA CROIX DU PERCHE | Entraide, Annonces, Initiatives"

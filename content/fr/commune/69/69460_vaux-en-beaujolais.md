@@ -1,4 +1,3 @@
-
 ---
 title: "69460 - VAUX EN BEAUJOLAIS | Entraide, Annonces, Initiatives"
 description: "69460 - VAUX EN BEAUJOLAIS | Entraide, Annonces, Initiatives"

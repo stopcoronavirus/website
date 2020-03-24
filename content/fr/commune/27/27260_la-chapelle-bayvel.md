@@ -1,4 +1,3 @@
-
 ---
 title: "27260 - LA CHAPELLE BAYVEL | Entraide, Annonces, Initiatives"
 description: "27260 - LA CHAPELLE BAYVEL | Entraide, Annonces, Initiatives"

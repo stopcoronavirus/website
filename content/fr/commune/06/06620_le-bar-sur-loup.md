@@ -1,4 +1,3 @@
-
 ---
 title: "06620 - LE BAR SUR LOUP | Entraide, Annonces, Initiatives"
 description: "06620 - LE BAR SUR LOUP | Entraide, Annonces, Initiatives"

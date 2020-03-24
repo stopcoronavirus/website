@@ -1,4 +1,3 @@
-
 ---
 title: "60700 - BAZICOURT | Entraide, Annonces, Initiatives"
 description: "60700 - BAZICOURT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "70700 - BUCEY LES GY | Entraide, Annonces, Initiatives"
 description: "70700 - BUCEY LES GY | Entraide, Annonces, Initiatives"

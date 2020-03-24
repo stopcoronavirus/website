@@ -1,4 +1,3 @@
-
 ---
 title: "63310 - BEAUMONT LES RANDAN | Entraide, Annonces, Initiatives"
 description: "63310 - BEAUMONT LES RANDAN | Entraide, Annonces, Initiatives"

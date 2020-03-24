@@ -1,4 +1,3 @@
-
 ---
 title: "88600 - HERPELMONT | Entraide, Annonces, Initiatives"
 description: "88600 - HERPELMONT | Entraide, Annonces, Initiatives"

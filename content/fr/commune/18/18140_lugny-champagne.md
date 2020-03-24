@@ -1,4 +1,3 @@
-
 ---
 title: "18140 - LUGNY CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "18140 - LUGNY CHAMPAGNE | Entraide, Annonces, Initiatives"

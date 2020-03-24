@@ -1,4 +1,3 @@
-
 ---
 title: "33123 - LE VERDON SUR MER | Entraide, Annonces, Initiatives"
 description: "33123 - LE VERDON SUR MER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "51290 - SOMSOIS | Entraide, Annonces, Initiatives"
 description: "51290 - SOMSOIS | Entraide, Annonces, Initiatives"

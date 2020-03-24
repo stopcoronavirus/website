@@ -1,4 +1,3 @@
-
 ---
 title: "76640 - FOUCART | Entraide, Annonces, Initiatives"
 description: "76640 - FOUCART | Entraide, Annonces, Initiatives"

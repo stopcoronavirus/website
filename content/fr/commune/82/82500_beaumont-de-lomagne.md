@@ -1,4 +1,3 @@
-
 ---
 title: "82500 - BEAUMONT DE LOMAGNE | Entraide, Annonces, Initiatives"
 description: "82500 - BEAUMONT DE LOMAGNE | Entraide, Annonces, Initiatives"

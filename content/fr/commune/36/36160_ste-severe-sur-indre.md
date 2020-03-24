@@ -1,4 +1,3 @@
-
 ---
 title: "36160 - STE SEVERE SUR INDRE | Entraide, Annonces, Initiatives"
 description: "36160 - STE SEVERE SUR INDRE | Entraide, Annonces, Initiatives"

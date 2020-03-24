@@ -1,4 +1,3 @@
-
 ---
 title: "63710 - LE VERNET STE MARGUERITE | Entraide, Annonces, Initiatives"
 description: "63710 - LE VERNET STE MARGUERITE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71400 - LA PETITE VERRIERE | Entraide, Annonces, Initiatives"
 description: "71400 - LA PETITE VERRIERE | Entraide, Annonces, Initiatives"

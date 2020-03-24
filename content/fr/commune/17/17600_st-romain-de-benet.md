@@ -1,4 +1,3 @@
-
 ---
 title: "17600 - ST ROMAIN DE BENET | Entraide, Annonces, Initiatives"
 description: "17600 - ST ROMAIN DE BENET | Entraide, Annonces, Initiatives"

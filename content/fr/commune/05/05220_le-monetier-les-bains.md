@@ -1,4 +1,3 @@
-
 ---
 title: "05220 - LE MONETIER LES BAINS | Entraide, Annonces, Initiatives"
 description: "05220 - LE MONETIER LES BAINS | Entraide, Annonces, Initiatives"

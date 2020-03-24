@@ -1,4 +1,3 @@
-
 ---
 title: "57320 - HEINING LES BOUZONVILLE | Entraide, Annonces, Initiatives"
 description: "57320 - HEINING LES BOUZONVILLE | Entraide, Annonces, Initiatives"

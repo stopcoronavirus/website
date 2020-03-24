@@ -1,4 +1,3 @@
-
 ---
 title: "69270 - FONTAINES SUR SAONE | Entraide, Annonces, Initiatives"
 description: "69270 - FONTAINES SUR SAONE | Entraide, Annonces, Initiatives"

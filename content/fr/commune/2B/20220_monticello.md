@@ -1,4 +1,3 @@
-
 ---
 title: "20220 - MONTICELLO | Entraide, Annonces, Initiatives"
 description: "20220 - MONTICELLO | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "33350 - ST GENES DE CASTILLON | Entraide, Annonces, Initiatives"
 description: "33350 - ST GENES DE CASTILLON | Entraide, Annonces, Initiatives"

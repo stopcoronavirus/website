@@ -1,4 +1,3 @@
-
 ---
 title: "31110 - BILLIERE | Entraide, Annonces, Initiatives"
 description: "31110 - BILLIERE | Entraide, Annonces, Initiatives"

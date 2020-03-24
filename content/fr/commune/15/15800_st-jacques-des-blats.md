@@ -1,4 +1,3 @@
-
 ---
 title: "15800 - ST JACQUES DES BLATS | Entraide, Annonces, Initiatives"
 description: "15800 - ST JACQUES DES BLATS | Entraide, Annonces, Initiatives"

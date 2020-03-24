@@ -1,4 +1,3 @@
-
 ---
 title: "22410 - LANTIC | Entraide, Annonces, Initiatives"
 description: "22410 - LANTIC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "55250 - VILLOTTE DEVANT LOUPPY | Entraide, Annonces, Initiatives"
 description: "55250 - VILLOTTE DEVANT LOUPPY | Entraide, Annonces, Initiatives"

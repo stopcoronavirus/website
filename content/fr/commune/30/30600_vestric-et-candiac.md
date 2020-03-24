@@ -1,4 +1,3 @@
-
 ---
 title: "30600 - VESTRIC ET CANDIAC | Entraide, Annonces, Initiatives"
 description: "30600 - VESTRIC ET CANDIAC | Entraide, Annonces, Initiatives"

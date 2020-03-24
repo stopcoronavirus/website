@@ -1,4 +1,3 @@
-
 ---
 title: "35560 - BAZOUGES LA PEROUSE | Entraide, Annonces, Initiatives"
 description: "35560 - BAZOUGES LA PEROUSE | Entraide, Annonces, Initiatives"

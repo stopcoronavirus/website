@@ -1,4 +1,3 @@
-
 ---
 title: "23250 - ST GEORGES LA POUGE | Entraide, Annonces, Initiatives"
 description: "23250 - ST GEORGES LA POUGE | Entraide, Annonces, Initiatives"

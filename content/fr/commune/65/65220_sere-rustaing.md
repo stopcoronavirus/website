@@ -1,4 +1,3 @@
-
 ---
 title: "65220 - SERE RUSTAING | Entraide, Annonces, Initiatives"
 description: "65220 - SERE RUSTAING | Entraide, Annonces, Initiatives"

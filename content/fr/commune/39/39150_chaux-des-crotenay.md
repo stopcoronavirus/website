@@ -1,4 +1,3 @@
-
 ---
 title: "39150 - CHAUX DES CROTENAY | Entraide, Annonces, Initiatives"
 description: "39150 - CHAUX DES CROTENAY | Entraide, Annonces, Initiatives"

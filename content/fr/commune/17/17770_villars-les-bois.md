@@ -1,4 +1,3 @@
-
 ---
 title: "17770 - VILLARS LES BOIS | Entraide, Annonces, Initiatives"
 description: "17770 - VILLARS LES BOIS | Entraide, Annonces, Initiatives"

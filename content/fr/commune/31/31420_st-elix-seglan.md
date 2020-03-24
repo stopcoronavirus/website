@@ -1,4 +1,3 @@
-
 ---
 title: "31420 - ST ELIX SEGLAN | Entraide, Annonces, Initiatives"
 description: "31420 - ST ELIX SEGLAN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "67 - Bas-Rhin"
 description: "67 - Bas-Rhin"

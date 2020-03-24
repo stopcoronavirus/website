@@ -1,4 +1,3 @@
-
 ---
 title: "39700 - LAVANGEOT | Entraide, Annonces, Initiatives"
 description: "39700 - LAVANGEOT | Entraide, Annonces, Initiatives"

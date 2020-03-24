@@ -1,4 +1,3 @@
-
 ---
 title: "16300 - ST BONNET | Entraide, Annonces, Initiatives"
 description: "16300 - ST BONNET | Entraide, Annonces, Initiatives"

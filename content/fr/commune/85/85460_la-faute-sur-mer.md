@@ -1,4 +1,3 @@
-
 ---
 title: "85460 - LA FAUTE SUR MER | Entraide, Annonces, Initiatives"
 description: "85460 - LA FAUTE SUR MER | Entraide, Annonces, Initiatives"

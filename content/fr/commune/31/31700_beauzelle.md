@@ -1,4 +1,3 @@
-
 ---
 title: "31700 - BEAUZELLE | Entraide, Annonces, Initiatives"
 description: "31700 - BEAUZELLE | Entraide, Annonces, Initiatives"

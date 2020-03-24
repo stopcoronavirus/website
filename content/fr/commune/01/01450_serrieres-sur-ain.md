@@ -1,4 +1,3 @@
-
 ---
 title: "01450 - SERRIERES SUR AIN | Entraide, Annonces, Initiatives"
 description: "01450 - SERRIERES SUR AIN | Entraide, Annonces, Initiatives"

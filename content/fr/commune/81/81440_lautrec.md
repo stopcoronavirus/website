@@ -1,4 +1,3 @@
-
 ---
 title: "81440 - LAUTREC | Entraide, Annonces, Initiatives"
 description: "81440 - LAUTREC | Entraide, Annonces, Initiatives"

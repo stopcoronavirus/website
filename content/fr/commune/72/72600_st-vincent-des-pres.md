@@ -1,4 +1,3 @@
-
 ---
 title: "72600 - ST VINCENT DES PRES | Entraide, Annonces, Initiatives"
 description: "72600 - ST VINCENT DES PRES | Entraide, Annonces, Initiatives"

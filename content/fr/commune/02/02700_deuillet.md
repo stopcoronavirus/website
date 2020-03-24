@@ -1,4 +1,3 @@
-
 ---
 title: "02700 - DEUILLET | Entraide, Annonces, Initiatives"
 description: "02700 - DEUILLET | Entraide, Annonces, Initiatives"

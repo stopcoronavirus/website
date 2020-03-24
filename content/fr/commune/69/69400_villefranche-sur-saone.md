@@ -1,4 +1,3 @@
-
 ---
 title: "69400 - VILLEFRANCHE SUR SAONE | Entraide, Annonces, Initiatives"
 description: "69400 - VILLEFRANCHE SUR SAONE | Entraide, Annonces, Initiatives"

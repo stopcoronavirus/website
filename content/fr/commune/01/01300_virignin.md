@@ -1,4 +1,3 @@
-
 ---
 title: "01300 - VIRIGNIN | Entraide, Annonces, Initiatives"
 description: "01300 - VIRIGNIN | Entraide, Annonces, Initiatives"

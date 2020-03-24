@@ -1,4 +1,3 @@
-
 ---
 title: "33300 - BORDEAUX | Entraide, Annonces, Initiatives"
 description: "33300 - BORDEAUX | Entraide, Annonces, Initiatives"

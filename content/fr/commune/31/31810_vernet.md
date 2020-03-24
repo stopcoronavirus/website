@@ -1,4 +1,3 @@
-
 ---
 title: "31810 - VERNET | Entraide, Annonces, Initiatives"
 description: "31810 - VERNET | Entraide, Annonces, Initiatives"

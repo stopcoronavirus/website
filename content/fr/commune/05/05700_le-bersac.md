@@ -1,4 +1,3 @@
-
 ---
 title: "05700 - LE BERSAC | Entraide, Annonces, Initiatives"
 description: "05700 - LE BERSAC | Entraide, Annonces, Initiatives"

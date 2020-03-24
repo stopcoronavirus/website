@@ -1,4 +1,3 @@
-
 ---
 title: "71240 - SENNECEY LE GRAND | Entraide, Annonces, Initiatives"
 description: "71240 - SENNECEY LE GRAND | Entraide, Annonces, Initiatives"

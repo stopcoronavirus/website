@@ -1,4 +1,3 @@
-
 ---
 title: "22970 - COADOUT | Entraide, Annonces, Initiatives"
 description: "22970 - COADOUT | Entraide, Annonces, Initiatives"

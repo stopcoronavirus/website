@@ -1,4 +1,3 @@
-
 ---
 title: "55150 - VITTARVILLE | Entraide, Annonces, Initiatives"
 description: "55150 - VITTARVILLE | Entraide, Annonces, Initiatives"

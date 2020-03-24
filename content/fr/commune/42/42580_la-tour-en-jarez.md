@@ -1,4 +1,3 @@
-
 ---
 title: "42580 - LA TOUR EN JAREZ | Entraide, Annonces, Initiatives"
 description: "42580 - LA TOUR EN JAREZ | Entraide, Annonces, Initiatives"

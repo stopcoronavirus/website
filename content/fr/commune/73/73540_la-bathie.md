@@ -1,4 +1,3 @@
-
 ---
 title: "73540 - LA BATHIE | Entraide, Annonces, Initiatives"
 description: "73540 - LA BATHIE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "28360 - VITRAY EN BEAUCE | Entraide, Annonces, Initiatives"
 description: "28360 - VITRAY EN BEAUCE | Entraide, Annonces, Initiatives"

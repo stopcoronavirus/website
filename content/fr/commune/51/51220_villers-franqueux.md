@@ -1,4 +1,3 @@
-
 ---
 title: "51220 - VILLERS FRANQUEUX | Entraide, Annonces, Initiatives"
 description: "51220 - VILLERS FRANQUEUX | Entraide, Annonces, Initiatives"

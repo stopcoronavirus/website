@@ -1,4 +1,3 @@
-
 ---
 title: "83136 - ROCBARON | Entraide, Annonces, Initiatives"
 description: "83136 - ROCBARON | Entraide, Annonces, Initiatives"

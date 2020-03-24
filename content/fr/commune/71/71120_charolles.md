@@ -1,4 +1,3 @@
-
 ---
 title: "71120 - CHAROLLES | Entraide, Annonces, Initiatives"
 description: "71120 - CHAROLLES | Entraide, Annonces, Initiatives"

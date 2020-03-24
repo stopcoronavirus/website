@@ -1,4 +1,3 @@
-
 ---
 title: "12380 - MONTFRANC | Entraide, Annonces, Initiatives"
 description: "12380 - MONTFRANC | Entraide, Annonces, Initiatives"

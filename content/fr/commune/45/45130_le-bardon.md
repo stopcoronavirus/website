@@ -1,4 +1,3 @@
-
 ---
 title: "45130 - LE BARDON | Entraide, Annonces, Initiatives"
 description: "45130 - LE BARDON | Entraide, Annonces, Initiatives"

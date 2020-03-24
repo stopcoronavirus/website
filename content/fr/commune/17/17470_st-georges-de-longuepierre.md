@@ -1,4 +1,3 @@
-
 ---
 title: "17470 - ST GEORGES DE LONGUEPIERRE | Entraide, Annonces, Initiatives"
 description: "17470 - ST GEORGES DE LONGUEPIERRE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "70600 - CHAMPLITTE | Entraide, Annonces, Initiatives"
 description: "70600 - CHAMPLITTE | Entraide, Annonces, Initiatives"

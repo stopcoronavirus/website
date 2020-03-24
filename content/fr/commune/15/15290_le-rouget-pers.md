@@ -1,4 +1,3 @@
-
 ---
 title: "15290 - LE ROUGET PERS | Entraide, Annonces, Initiatives"
 description: "15290 - LE ROUGET PERS | Entraide, Annonces, Initiatives"

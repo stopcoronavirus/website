@@ -1,4 +1,3 @@
-
 ---
 title: "76340 - BLANGY SUR BRESLE | Entraide, Annonces, Initiatives"
 description: "76340 - BLANGY SUR BRESLE | Entraide, Annonces, Initiatives"

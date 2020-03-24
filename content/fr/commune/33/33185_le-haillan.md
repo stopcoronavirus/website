@@ -1,4 +1,3 @@
-
 ---
 title: "33185 - LE HAILLAN | Entraide, Annonces, Initiatives"
 description: "33185 - LE HAILLAN | Entraide, Annonces, Initiatives"

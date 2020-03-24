@@ -1,4 +1,3 @@
-
 ---
 title: "50530 - GENETS | Entraide, Annonces, Initiatives"
 description: "50530 - GENETS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "85170 - LE POIRE SUR VIE | Entraide, Annonces, Initiatives"
 description: "85170 - LE POIRE SUR VIE | Entraide, Annonces, Initiatives"

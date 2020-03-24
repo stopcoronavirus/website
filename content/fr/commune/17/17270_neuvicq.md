@@ -1,4 +1,3 @@
-
 ---
 title: "17270 - NEUVICQ | Entraide, Annonces, Initiatives"
 description: "17270 - NEUVICQ | Entraide, Annonces, Initiatives"

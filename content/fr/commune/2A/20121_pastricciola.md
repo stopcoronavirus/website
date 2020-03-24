@@ -1,4 +1,3 @@
-
 ---
 title: "20121 - PASTRICCIOLA | Entraide, Annonces, Initiatives"
 description: "20121 - PASTRICCIOLA | Entraide, Annonces, Initiatives"

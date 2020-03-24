@@ -1,4 +1,3 @@
-
 ---
 title: "60190 - CHOISY LA VICTOIRE | Entraide, Annonces, Initiatives"
 description: "60190 - CHOISY LA VICTOIRE | Entraide, Annonces, Initiatives"

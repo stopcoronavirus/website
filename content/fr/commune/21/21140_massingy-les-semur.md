@@ -1,4 +1,3 @@
-
 ---
 title: "21140 - MASSINGY LES SEMUR | Entraide, Annonces, Initiatives"
 description: "21140 - MASSINGY LES SEMUR | Entraide, Annonces, Initiatives"

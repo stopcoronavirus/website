@@ -1,4 +1,3 @@
-
 ---
 title: "53340 - COSSE EN CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "53340 - COSSE EN CHAMPAGNE | Entraide, Annonces, Initiatives"

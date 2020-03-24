@@ -1,4 +1,3 @@
-
 ---
 title: "28410 - HAVELU | Entraide, Annonces, Initiatives"
 description: "28410 - HAVELU | Entraide, Annonces, Initiatives"

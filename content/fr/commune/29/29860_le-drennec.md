@@ -1,4 +1,3 @@
-
 ---
 title: "29860 - LE DRENNEC | Entraide, Annonces, Initiatives"
 description: "29860 - LE DRENNEC | Entraide, Annonces, Initiatives"

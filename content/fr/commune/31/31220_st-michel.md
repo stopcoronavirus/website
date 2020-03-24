@@ -1,4 +1,3 @@
-
 ---
 title: "31220 - ST MICHEL | Entraide, Annonces, Initiatives"
 description: "31220 - ST MICHEL | Entraide, Annonces, Initiatives"

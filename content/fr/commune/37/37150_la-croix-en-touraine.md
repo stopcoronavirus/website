@@ -1,4 +1,3 @@
-
 ---
 title: "37150 - LA CROIX EN TOURAINE | Entraide, Annonces, Initiatives"
 description: "37150 - LA CROIX EN TOURAINE | Entraide, Annonces, Initiatives"

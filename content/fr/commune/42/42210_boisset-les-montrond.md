@@ -1,4 +1,3 @@
-
 ---
 title: "42210 - BOISSET LES MONTROND | Entraide, Annonces, Initiatives"
 description: "42210 - BOISSET LES MONTROND | Entraide, Annonces, Initiatives"

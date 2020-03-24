@@ -1,4 +1,3 @@
-
 ---
 title: "16200 - MERIGNAC | Entraide, Annonces, Initiatives"
 description: "16200 - MERIGNAC | Entraide, Annonces, Initiatives"

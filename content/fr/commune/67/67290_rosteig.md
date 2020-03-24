@@ -1,4 +1,3 @@
-
 ---
 title: "67290 - ROSTEIG | Entraide, Annonces, Initiatives"
 description: "67290 - ROSTEIG | Entraide, Annonces, Initiatives"

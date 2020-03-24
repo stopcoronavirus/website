@@ -1,4 +1,3 @@
-
 ---
 title: "85770 - LE GUE DE VELLUIRE | Entraide, Annonces, Initiatives"
 description: "85770 - LE GUE DE VELLUIRE | Entraide, Annonces, Initiatives"

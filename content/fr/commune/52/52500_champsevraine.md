@@ -1,4 +1,3 @@
-
 ---
 title: "52500 - CHAMPSEVRAINE | Entraide, Annonces, Initiatives"
 description: "52500 - CHAMPSEVRAINE | Entraide, Annonces, Initiatives"

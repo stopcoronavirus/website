@@ -1,4 +1,3 @@
-
 ---
 title: "74800 - ST SIXT | Entraide, Annonces, Initiatives"
 description: "74800 - ST SIXT | Entraide, Annonces, Initiatives"

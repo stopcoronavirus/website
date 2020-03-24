@@ -1,4 +1,3 @@
-
 ---
 title: "44500 - LA BAULE ESCOUBLAC | Entraide, Annonces, Initiatives"
 description: "44500 - LA BAULE ESCOUBLAC | Entraide, Annonces, Initiatives"

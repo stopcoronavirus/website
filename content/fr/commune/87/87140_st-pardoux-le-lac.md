@@ -1,4 +1,3 @@
-
 ---
 title: "87140 - ST PARDOUX LE LAC | Entraide, Annonces, Initiatives"
 description: "87140 - ST PARDOUX LE LAC | Entraide, Annonces, Initiatives"

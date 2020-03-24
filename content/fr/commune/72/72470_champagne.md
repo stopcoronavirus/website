@@ -1,4 +1,3 @@
-
 ---
 title: "72470 - CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "72470 - CHAMPAGNE | Entraide, Annonces, Initiatives"

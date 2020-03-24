@@ -1,4 +1,3 @@
-
 ---
 title: "20140 - MOCA CROCE | Entraide, Annonces, Initiatives"
 description: "20140 - MOCA CROCE | Entraide, Annonces, Initiatives"

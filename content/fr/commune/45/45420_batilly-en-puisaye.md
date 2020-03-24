@@ -1,4 +1,3 @@
-
 ---
 title: "45420 - BATILLY EN PUISAYE | Entraide, Annonces, Initiatives"
 description: "45420 - BATILLY EN PUISAYE | Entraide, Annonces, Initiatives"

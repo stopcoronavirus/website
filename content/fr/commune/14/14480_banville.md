@@ -1,4 +1,3 @@
-
 ---
 title: "14480 - BANVILLE | Entraide, Annonces, Initiatives"
 description: "14480 - BANVILLE | Entraide, Annonces, Initiatives"

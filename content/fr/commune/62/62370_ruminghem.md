@@ -1,4 +1,3 @@
-
 ---
 title: "62370 - RUMINGHEM | Entraide, Annonces, Initiatives"
 description: "62370 - RUMINGHEM | Entraide, Annonces, Initiatives"

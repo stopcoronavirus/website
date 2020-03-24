@@ -1,4 +1,3 @@
-
 ---
 title: "72270 - LIGRON | Entraide, Annonces, Initiatives"
 description: "72270 - LIGRON | Entraide, Annonces, Initiatives"

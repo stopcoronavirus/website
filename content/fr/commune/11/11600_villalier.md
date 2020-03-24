@@ -1,4 +1,3 @@
-
 ---
 title: "11600 - VILLALIER | Entraide, Annonces, Initiatives"
 description: "11600 - VILLALIER | Entraide, Annonces, Initiatives"

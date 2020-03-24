@@ -1,4 +1,3 @@
-
 ---
 title: "13570 - BARBENTANE | Entraide, Annonces, Initiatives"
 description: "13570 - BARBENTANE | Entraide, Annonces, Initiatives"

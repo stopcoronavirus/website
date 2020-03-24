@@ -1,4 +1,3 @@
-
 ---
 title: "25440 - BUFFARD | Entraide, Annonces, Initiatives"
 description: "25440 - BUFFARD | Entraide, Annonces, Initiatives"

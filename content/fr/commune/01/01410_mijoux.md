@@ -1,4 +1,3 @@
-
 ---
 title: "01410 - MIJOUX | Entraide, Annonces, Initiatives"
 description: "01410 - MIJOUX | Entraide, Annonces, Initiatives"

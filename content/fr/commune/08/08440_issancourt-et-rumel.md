@@ -1,4 +1,3 @@
-
 ---
 title: "08440 - ISSANCOURT ET RUMEL | Entraide, Annonces, Initiatives"
 description: "08440 - ISSANCOURT ET RUMEL | Entraide, Annonces, Initiatives"

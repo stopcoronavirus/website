@@ -1,4 +1,3 @@
-
 ---
 title: "78470 - MILON LA CHAPELLE | Entraide, Annonces, Initiatives"
 description: "78470 - MILON LA CHAPELLE | Entraide, Annonces, Initiatives"

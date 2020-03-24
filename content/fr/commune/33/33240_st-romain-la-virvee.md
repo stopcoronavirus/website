@@ -1,4 +1,3 @@
-
 ---
 title: "33240 - ST ROMAIN LA VIRVEE | Entraide, Annonces, Initiatives"
 description: "33240 - ST ROMAIN LA VIRVEE | Entraide, Annonces, Initiatives"

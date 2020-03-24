@@ -1,4 +1,3 @@
-
 ---
 title: "69220 - CORCELLES EN BEAUJOLAIS | Entraide, Annonces, Initiatives"
 description: "69220 - CORCELLES EN BEAUJOLAIS | Entraide, Annonces, Initiatives"

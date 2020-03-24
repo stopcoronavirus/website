@@ -1,4 +1,3 @@
-
 ---
 title: "35470 - PLECHATEL | Entraide, Annonces, Initiatives"
 description: "35470 - PLECHATEL | Entraide, Annonces, Initiatives"

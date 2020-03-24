@@ -1,4 +1,3 @@
-
 ---
 title: "02270 - ASSIS SUR SERRE | Entraide, Annonces, Initiatives"
 description: "02270 - ASSIS SUR SERRE | Entraide, Annonces, Initiatives"

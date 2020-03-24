@@ -1,4 +1,3 @@
-
 ---
 title: "67500 - BATZENDORF | Entraide, Annonces, Initiatives"
 description: "67500 - BATZENDORF | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60120 - BONVILLERS | Entraide, Annonces, Initiatives"
 description: "60120 - BONVILLERS | Entraide, Annonces, Initiatives"

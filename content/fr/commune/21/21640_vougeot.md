@@ -1,4 +1,3 @@
-
 ---
 title: "21640 - VOUGEOT | Entraide, Annonces, Initiatives"
 description: "21640 - VOUGEOT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "28500 - CHERISY | Entraide, Annonces, Initiatives"
 description: "28500 - CHERISY | Entraide, Annonces, Initiatives"

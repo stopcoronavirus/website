@@ -1,4 +1,3 @@
-
 ---
 title: "70800 - HAUTEVELLE | Entraide, Annonces, Initiatives"
 description: "70800 - HAUTEVELLE | Entraide, Annonces, Initiatives"

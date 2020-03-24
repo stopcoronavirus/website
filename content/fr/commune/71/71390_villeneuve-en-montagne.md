@@ -1,4 +1,3 @@
-
 ---
 title: "71390 - VILLENEUVE EN MONTAGNE | Entraide, Annonces, Initiatives"
 description: "71390 - VILLENEUVE EN MONTAGNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "25460 - ETUPES | Entraide, Annonces, Initiatives"
 description: "25460 - ETUPES | Entraide, Annonces, Initiatives"

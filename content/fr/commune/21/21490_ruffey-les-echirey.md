@@ -1,4 +1,3 @@
-
 ---
 title: "21490 - RUFFEY LES ECHIREY | Entraide, Annonces, Initiatives"
 description: "21490 - RUFFEY LES ECHIREY | Entraide, Annonces, Initiatives"

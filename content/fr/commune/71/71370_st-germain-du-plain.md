@@ -1,4 +1,3 @@
-
 ---
 title: "71370 - ST GERMAIN DU PLAIN | Entraide, Annonces, Initiatives"
 description: "71370 - ST GERMAIN DU PLAIN | Entraide, Annonces, Initiatives"

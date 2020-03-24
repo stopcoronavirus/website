@@ -1,4 +1,3 @@
-
 ---
 title: "77630 - BARBIZON | Entraide, Annonces, Initiatives"
 description: "77630 - BARBIZON | Entraide, Annonces, Initiatives"

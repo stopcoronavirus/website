@@ -1,4 +1,3 @@
-
 ---
 title: "44760 - LA BERNERIE EN RETZ | Entraide, Annonces, Initiatives"
 description: "44760 - LA BERNERIE EN RETZ | Entraide, Annonces, Initiatives"

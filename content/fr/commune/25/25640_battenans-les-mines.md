@@ -1,4 +1,3 @@
-
 ---
 title: "25640 - BATTENANS LES MINES | Entraide, Annonces, Initiatives"
 description: "25640 - BATTENANS LES MINES | Entraide, Annonces, Initiatives"

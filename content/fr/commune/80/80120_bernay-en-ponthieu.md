@@ -1,4 +1,3 @@
-
 ---
 title: "80120 - BERNAY EN PONTHIEU | Entraide, Annonces, Initiatives"
 description: "80120 - BERNAY EN PONTHIEU | Entraide, Annonces, Initiatives"

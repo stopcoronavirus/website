@@ -1,4 +1,3 @@
-
 ---
 title: "62270 - MONCHEAUX LES FREVENT | Entraide, Annonces, Initiatives"
 description: "62270 - MONCHEAUX LES FREVENT | Entraide, Annonces, Initiatives"

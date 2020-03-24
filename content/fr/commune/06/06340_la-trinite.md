@@ -1,4 +1,3 @@
-
 ---
 title: "06340 - LA TRINITE | Entraide, Annonces, Initiatives"
 description: "06340 - LA TRINITE | Entraide, Annonces, Initiatives"

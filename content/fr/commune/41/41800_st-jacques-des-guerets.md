@@ -1,4 +1,3 @@
-
 ---
 title: "41800 - ST JACQUES DES GUERETS | Entraide, Annonces, Initiatives"
 description: "41800 - ST JACQUES DES GUERETS | Entraide, Annonces, Initiatives"

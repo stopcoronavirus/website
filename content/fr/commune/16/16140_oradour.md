@@ -1,4 +1,3 @@
-
 ---
 title: "16140 - ORADOUR | Entraide, Annonces, Initiatives"
 description: "16140 - ORADOUR | Entraide, Annonces, Initiatives"

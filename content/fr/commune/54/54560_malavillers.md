@@ -1,4 +1,3 @@
-
 ---
 title: "54560 - MALAVILLERS | Entraide, Annonces, Initiatives"
 description: "54560 - MALAVILLERS | Entraide, Annonces, Initiatives"

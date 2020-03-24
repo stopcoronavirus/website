@@ -1,4 +1,3 @@
-
 ---
 title: "54123 - VITERNE | Entraide, Annonces, Initiatives"
 description: "54123 - VITERNE | Entraide, Annonces, Initiatives"

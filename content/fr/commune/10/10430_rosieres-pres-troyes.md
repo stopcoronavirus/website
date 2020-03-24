@@ -1,4 +1,3 @@
-
 ---
 title: "10430 - ROSIERES PRES TROYES | Entraide, Annonces, Initiatives"
 description: "10430 - ROSIERES PRES TROYES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20250 - RIVENTOSA | Entraide, Annonces, Initiatives"
 description: "20250 - RIVENTOSA | Entraide, Annonces, Initiatives"

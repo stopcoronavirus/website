@@ -1,4 +1,3 @@
-
 ---
 title: "81350 - SERENAC | Entraide, Annonces, Initiatives"
 description: "81350 - SERENAC | Entraide, Annonces, Initiatives"

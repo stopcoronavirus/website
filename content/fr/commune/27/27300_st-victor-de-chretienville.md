@@ -1,4 +1,3 @@
-
 ---
 title: "27300 - ST VICTOR DE CHRETIENVILLE | Entraide, Annonces, Initiatives"
 description: "27300 - ST VICTOR DE CHRETIENVILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "17520 - JARNAC CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "17520 - JARNAC CHAMPAGNE | Entraide, Annonces, Initiatives"

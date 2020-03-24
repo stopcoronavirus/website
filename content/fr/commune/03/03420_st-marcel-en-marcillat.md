@@ -1,4 +1,3 @@
-
 ---
 title: "03420 - ST MARCEL EN MARCILLAT | Entraide, Annonces, Initiatives"
 description: "03420 - ST MARCEL EN MARCILLAT | Entraide, Annonces, Initiatives"

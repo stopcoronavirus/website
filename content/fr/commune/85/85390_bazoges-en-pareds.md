@@ -1,4 +1,3 @@
-
 ---
 title: "85390 - BAZOGES EN PAREDS | Entraide, Annonces, Initiatives"
 description: "85390 - BAZOGES EN PAREDS | Entraide, Annonces, Initiatives"

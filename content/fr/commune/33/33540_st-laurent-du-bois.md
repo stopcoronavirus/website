@@ -1,4 +1,3 @@
-
 ---
 title: "33540 - ST LAURENT DU BOIS | Entraide, Annonces, Initiatives"
 description: "33540 - ST LAURENT DU BOIS | Entraide, Annonces, Initiatives"

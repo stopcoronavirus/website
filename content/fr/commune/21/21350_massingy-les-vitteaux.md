@@ -1,4 +1,3 @@
-
 ---
 title: "21350 - MASSINGY LES VITTEAUX | Entraide, Annonces, Initiatives"
 description: "21350 - MASSINGY LES VITTEAUX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02880 - JUVIGNY | Entraide, Annonces, Initiatives"
 description: "02880 - JUVIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "44690 - LA HAIE FOUASSIERE | Entraide, Annonces, Initiatives"
 description: "44690 - LA HAIE FOUASSIERE | Entraide, Annonces, Initiatives"

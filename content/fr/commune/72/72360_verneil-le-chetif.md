@@ -1,4 +1,3 @@
-
 ---
 title: "72360 - VERNEIL LE CHETIF | Entraide, Annonces, Initiatives"
 description: "72360 - VERNEIL LE CHETIF | Entraide, Annonces, Initiatives"

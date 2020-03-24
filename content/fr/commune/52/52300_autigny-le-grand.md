@@ -1,4 +1,3 @@
-
 ---
 title: "52300 - AUTIGNY LE GRAND | Entraide, Annonces, Initiatives"
 description: "52300 - AUTIGNY LE GRAND | Entraide, Annonces, Initiatives"

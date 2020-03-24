@@ -1,4 +1,3 @@
-
 ---
 title: "86410 - VERRIERES | Entraide, Annonces, Initiatives"
 description: "86410 - VERRIERES | Entraide, Annonces, Initiatives"

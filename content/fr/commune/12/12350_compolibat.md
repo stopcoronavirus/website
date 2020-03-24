@@ -1,4 +1,3 @@
-
 ---
 title: "12350 - COMPOLIBAT | Entraide, Annonces, Initiatives"
 description: "12350 - COMPOLIBAT | Entraide, Annonces, Initiatives"

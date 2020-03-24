@@ -1,4 +1,3 @@
-
 ---
 title: "60400 - PASSEL | Entraide, Annonces, Initiatives"
 description: "60400 - PASSEL | Entraide, Annonces, Initiatives"

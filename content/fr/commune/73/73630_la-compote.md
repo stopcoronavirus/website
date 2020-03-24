@@ -1,4 +1,3 @@
-
 ---
 title: "73630 - LA COMPOTE | Entraide, Annonces, Initiatives"
 description: "73630 - LA COMPOTE | Entraide, Annonces, Initiatives"

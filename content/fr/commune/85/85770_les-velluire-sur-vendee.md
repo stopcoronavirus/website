@@ -1,4 +1,3 @@
-
 ---
 title: "85770 - LES VELLUIRE SUR VENDEE | Entraide, Annonces, Initiatives"
 description: "85770 - LES VELLUIRE SUR VENDEE | Entraide, Annonces, Initiatives"

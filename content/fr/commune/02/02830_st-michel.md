@@ -1,4 +1,3 @@
-
 ---
 title: "02830 - ST MICHEL | Entraide, Annonces, Initiatives"
 description: "02830 - ST MICHEL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "27910 - PERRUEL | Entraide, Annonces, Initiatives"
 description: "27910 - PERRUEL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "89630 - ST LEGER VAUBAN | Entraide, Annonces, Initiatives"
 description: "89630 - ST LEGER VAUBAN | Entraide, Annonces, Initiatives"

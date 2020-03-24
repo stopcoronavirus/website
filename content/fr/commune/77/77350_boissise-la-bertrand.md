@@ -1,4 +1,3 @@
-
 ---
 title: "77350 - BOISSISE LA BERTRAND | Entraide, Annonces, Initiatives"
 description: "77350 - BOISSISE LA BERTRAND | Entraide, Annonces, Initiatives"

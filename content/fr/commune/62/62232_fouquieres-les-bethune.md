@@ -1,4 +1,3 @@
-
 ---
 title: "62232 - FOUQUIERES LES BETHUNE | Entraide, Annonces, Initiatives"
 description: "62232 - FOUQUIERES LES BETHUNE | Entraide, Annonces, Initiatives"

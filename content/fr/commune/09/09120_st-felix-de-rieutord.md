@@ -1,4 +1,3 @@
-
 ---
 title: "09120 - ST FELIX DE RIEUTORD | Entraide, Annonces, Initiatives"
 description: "09120 - ST FELIX DE RIEUTORD | Entraide, Annonces, Initiatives"

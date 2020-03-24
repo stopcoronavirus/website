@@ -1,4 +1,3 @@
-
 ---
 title: "67860 - FRIESENHEIM | Entraide, Annonces, Initiatives"
 description: "67860 - FRIESENHEIM | Entraide, Annonces, Initiatives"

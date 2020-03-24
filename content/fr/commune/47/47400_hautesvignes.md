@@ -1,4 +1,3 @@
-
 ---
 title: "47400 - HAUTESVIGNES | Entraide, Annonces, Initiatives"
 description: "47400 - HAUTESVIGNES | Entraide, Annonces, Initiatives"

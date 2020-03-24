@@ -1,4 +1,3 @@
-
 ---
 title: "73310 - RUFFIEUX | Entraide, Annonces, Initiatives"
 description: "73310 - RUFFIEUX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "41700 - CHOUSSY | Entraide, Annonces, Initiatives"
 description: "41700 - CHOUSSY | Entraide, Annonces, Initiatives"

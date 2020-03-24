@@ -1,4 +1,3 @@
-
 ---
 title: "06340 - CANTARON | Entraide, Annonces, Initiatives"
 description: "06340 - CANTARON | Entraide, Annonces, Initiatives"

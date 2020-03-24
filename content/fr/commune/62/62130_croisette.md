@@ -1,4 +1,3 @@
-
 ---
 title: "62130 - CROISETTE | Entraide, Annonces, Initiatives"
 description: "62130 - CROISETTE | Entraide, Annonces, Initiatives"

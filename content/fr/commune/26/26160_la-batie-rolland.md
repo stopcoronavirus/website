@@ -1,4 +1,3 @@
-
 ---
 title: "26160 - LA BATIE ROLLAND | Entraide, Annonces, Initiatives"
 description: "26160 - LA BATIE ROLLAND | Entraide, Annonces, Initiatives"

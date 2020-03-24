@@ -1,4 +1,3 @@
-
 ---
 title: "56730 - ST GILDAS DE RHUYS | Entraide, Annonces, Initiatives"
 description: "56730 - ST GILDAS DE RHUYS | Entraide, Annonces, Initiatives"

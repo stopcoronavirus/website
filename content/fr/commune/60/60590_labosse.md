@@ -1,4 +1,3 @@
-
 ---
 title: "60590 - LABOSSE | Entraide, Annonces, Initiatives"
 description: "60590 - LABOSSE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02430 - GAUCHY | Entraide, Annonces, Initiatives"
 description: "02430 - GAUCHY | Entraide, Annonces, Initiatives"

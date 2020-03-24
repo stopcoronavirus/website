@@ -1,4 +1,3 @@
-
 ---
 title: "82390 - DURFORT LACAPELETTE | Entraide, Annonces, Initiatives"
 description: "82390 - DURFORT LACAPELETTE | Entraide, Annonces, Initiatives"

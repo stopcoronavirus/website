@@ -1,4 +1,3 @@
-
 ---
 title: "59244 - PETIT FAYT | Entraide, Annonces, Initiatives"
 description: "59244 - PETIT FAYT | Entraide, Annonces, Initiatives"

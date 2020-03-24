@@ -1,4 +1,3 @@
-
 ---
 title: "08250 - CHAMPIGNEULLE | Entraide, Annonces, Initiatives"
 description: "08250 - CHAMPIGNEULLE | Entraide, Annonces, Initiatives"

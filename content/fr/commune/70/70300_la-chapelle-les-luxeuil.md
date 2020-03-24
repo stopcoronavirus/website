@@ -1,4 +1,3 @@
-
 ---
 title: "70300 - LA CHAPELLE LES LUXEUIL | Entraide, Annonces, Initiatives"
 description: "70300 - LA CHAPELLE LES LUXEUIL | Entraide, Annonces, Initiatives"

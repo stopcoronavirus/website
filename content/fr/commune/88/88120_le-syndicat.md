@@ -1,4 +1,3 @@
-
 ---
 title: "88120 - LE SYNDICAT | Entraide, Annonces, Initiatives"
 description: "88120 - LE SYNDICAT | Entraide, Annonces, Initiatives"

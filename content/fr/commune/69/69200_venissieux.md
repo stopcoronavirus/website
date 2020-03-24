@@ -1,4 +1,3 @@
-
 ---
 title: "69200 - VENISSIEUX | Entraide, Annonces, Initiatives"
 description: "69200 - VENISSIEUX | Entraide, Annonces, Initiatives"

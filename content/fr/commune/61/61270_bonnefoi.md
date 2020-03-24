@@ -1,4 +1,3 @@
-
 ---
 title: "61270 - BONNEFOI | Entraide, Annonces, Initiatives"
 description: "61270 - BONNEFOI | Entraide, Annonces, Initiatives"

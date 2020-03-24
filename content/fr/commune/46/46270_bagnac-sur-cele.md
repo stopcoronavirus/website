@@ -1,4 +1,3 @@
-
 ---
 title: "46270 - BAGNAC SUR CELE | Entraide, Annonces, Initiatives"
 description: "46270 - BAGNAC SUR CELE | Entraide, Annonces, Initiatives"

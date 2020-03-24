@@ -1,4 +1,3 @@
-
 ---
 title: "04240 - LE FUGERET | Entraide, Annonces, Initiatives"
 description: "04240 - LE FUGERET | Entraide, Annonces, Initiatives"

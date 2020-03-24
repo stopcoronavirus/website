@@ -1,4 +1,3 @@
-
 ---
 title: "06470 - GUILLAUMES | Entraide, Annonces, Initiatives"
 description: "06470 - GUILLAUMES | Entraide, Annonces, Initiatives"

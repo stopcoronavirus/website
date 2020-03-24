@@ -1,4 +1,3 @@
-
 ---
 title: "23320 - GARTEMPE | Entraide, Annonces, Initiatives"
 description: "23320 - GARTEMPE | Entraide, Annonces, Initiatives"

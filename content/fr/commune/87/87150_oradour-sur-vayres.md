@@ -1,4 +1,3 @@
-
 ---
 title: "87150 - ORADOUR SUR VAYRES | Entraide, Annonces, Initiatives"
 description: "87150 - ORADOUR SUR VAYRES | Entraide, Annonces, Initiatives"

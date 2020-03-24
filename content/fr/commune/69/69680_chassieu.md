@@ -1,4 +1,3 @@
-
 ---
 title: "69680 - CHASSIEU | Entraide, Annonces, Initiatives"
 description: "69680 - CHASSIEU | Entraide, Annonces, Initiatives"

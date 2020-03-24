@@ -1,4 +1,3 @@
-
 ---
 title: "37260 - ARTANNES SUR INDRE | Entraide, Annonces, Initiatives"
 description: "37260 - ARTANNES SUR INDRE | Entraide, Annonces, Initiatives"

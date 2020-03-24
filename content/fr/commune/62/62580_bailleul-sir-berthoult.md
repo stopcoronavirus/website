@@ -1,4 +1,3 @@
-
 ---
 title: "62580 - BAILLEUL SIR BERTHOULT | Entraide, Annonces, Initiatives"
 description: "62580 - BAILLEUL SIR BERTHOULT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "86490 - BEAUMONT ST CYR | Entraide, Annonces, Initiatives"
 description: "86490 - BEAUMONT ST CYR | Entraide, Annonces, Initiatives"

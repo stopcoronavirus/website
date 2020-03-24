@@ -1,4 +1,3 @@
-
 ---
 title: "59530 - RUESNES | Entraide, Annonces, Initiatives"
 description: "59530 - RUESNES | Entraide, Annonces, Initiatives"

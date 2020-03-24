@@ -1,4 +1,3 @@
-
 ---
 title: "15200 - LE VIGEAN | Entraide, Annonces, Initiatives"
 description: "15200 - LE VIGEAN | Entraide, Annonces, Initiatives"

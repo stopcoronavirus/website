@@ -1,4 +1,3 @@
-
 ---
 title: "12370 - MURASSON | Entraide, Annonces, Initiatives"
 description: "12370 - MURASSON | Entraide, Annonces, Initiatives"

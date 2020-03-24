@@ -1,4 +1,3 @@
-
 ---
 title: "17160 - LE GICQ | Entraide, Annonces, Initiatives"
 description: "17160 - LE GICQ | Entraide, Annonces, Initiatives"

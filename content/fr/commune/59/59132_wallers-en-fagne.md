@@ -1,4 +1,3 @@
-
 ---
 title: "59132 - WALLERS EN FAGNE | Entraide, Annonces, Initiatives"
 description: "59132 - WALLERS EN FAGNE | Entraide, Annonces, Initiatives"

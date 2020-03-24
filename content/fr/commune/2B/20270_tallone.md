@@ -1,4 +1,3 @@
-
 ---
 title: "20270 - TALLONE | Entraide, Annonces, Initiatives"
 description: "20270 - TALLONE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02000 - VERNEUIL SUR SERRE | Entraide, Annonces, Initiatives"
 description: "02000 - VERNEUIL SUR SERRE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "70120 - LA QUARTE | Entraide, Annonces, Initiatives"
 description: "70120 - LA QUARTE | Entraide, Annonces, Initiatives"

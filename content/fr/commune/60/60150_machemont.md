@@ -1,4 +1,3 @@
-
 ---
 title: "60150 - MACHEMONT | Entraide, Annonces, Initiatives"
 description: "60150 - MACHEMONT | Entraide, Annonces, Initiatives"

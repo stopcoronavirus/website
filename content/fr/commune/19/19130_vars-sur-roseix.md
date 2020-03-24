@@ -1,4 +1,3 @@
-
 ---
 title: "19130 - VARS SUR ROSEIX | Entraide, Annonces, Initiatives"
 description: "19130 - VARS SUR ROSEIX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "01200 - BILLIAT | Entraide, Annonces, Initiatives"
 description: "01200 - BILLIAT | Entraide, Annonces, Initiatives"

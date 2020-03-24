@@ -1,4 +1,3 @@
-
 ---
 title: "11600 - MALVES EN MINERVOIS | Entraide, Annonces, Initiatives"
 description: "11600 - MALVES EN MINERVOIS | Entraide, Annonces, Initiatives"

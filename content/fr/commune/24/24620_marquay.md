@@ -1,4 +1,3 @@
-
 ---
 title: "24620 - MARQUAY | Entraide, Annonces, Initiatives"
 description: "24620 - MARQUAY | Entraide, Annonces, Initiatives"

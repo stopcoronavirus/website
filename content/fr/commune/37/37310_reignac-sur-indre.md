@@ -1,4 +1,3 @@
-
 ---
 title: "37310 - REIGNAC SUR INDRE | Entraide, Annonces, Initiatives"
 description: "37310 - REIGNAC SUR INDRE | Entraide, Annonces, Initiatives"

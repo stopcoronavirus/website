@@ -1,4 +1,3 @@
-
 ---
 title: "54370 - BATHELEMONT | Entraide, Annonces, Initiatives"
 description: "54370 - BATHELEMONT | Entraide, Annonces, Initiatives"

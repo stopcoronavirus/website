@@ -1,4 +1,3 @@
-
 ---
 title: "08370 - BIEVRES | Entraide, Annonces, Initiatives"
 description: "08370 - BIEVRES | Entraide, Annonces, Initiatives"

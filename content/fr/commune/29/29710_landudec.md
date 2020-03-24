@@ -1,4 +1,3 @@
-
 ---
 title: "29710 - LANDUDEC | Entraide, Annonces, Initiatives"
 description: "29710 - LANDUDEC | Entraide, Annonces, Initiatives"

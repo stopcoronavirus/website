@@ -1,4 +1,3 @@
-
 ---
 title: "22550 - MATIGNON | Entraide, Annonces, Initiatives"
 description: "22550 - MATIGNON | Entraide, Annonces, Initiatives"

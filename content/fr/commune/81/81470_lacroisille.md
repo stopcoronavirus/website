@@ -1,4 +1,3 @@
-
 ---
 title: "81470 - LACROISILLE | Entraide, Annonces, Initiatives"
 description: "81470 - LACROISILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "01200 - INJOUX GENISSIAT | Entraide, Annonces, Initiatives"
 description: "01200 - INJOUX GENISSIAT | Entraide, Annonces, Initiatives"

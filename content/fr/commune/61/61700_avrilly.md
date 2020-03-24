@@ -1,4 +1,3 @@
-
 ---
 title: "61700 - AVRILLY | Entraide, Annonces, Initiatives"
 description: "61700 - AVRILLY | Entraide, Annonces, Initiatives"

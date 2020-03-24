@@ -1,4 +1,3 @@
-
 ---
 title: "28130 - ST PIAT | Entraide, Annonces, Initiatives"
 description: "28130 - ST PIAT | Entraide, Annonces, Initiatives"

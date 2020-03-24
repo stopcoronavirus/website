@@ -1,4 +1,3 @@
-
 ---
 title: "65230 - BARTHE | Entraide, Annonces, Initiatives"
 description: "65230 - BARTHE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "35850 - LANGAN | Entraide, Annonces, Initiatives"
 description: "35850 - LANGAN | Entraide, Annonces, Initiatives"

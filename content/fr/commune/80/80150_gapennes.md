@@ -1,4 +1,3 @@
-
 ---
 title: "80150 - GAPENNES | Entraide, Annonces, Initiatives"
 description: "80150 - GAPENNES | Entraide, Annonces, Initiatives"

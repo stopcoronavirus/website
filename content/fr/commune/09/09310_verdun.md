@@ -1,4 +1,3 @@
-
 ---
 title: "09310 - VERDUN | Entraide, Annonces, Initiatives"
 description: "09310 - VERDUN | Entraide, Annonces, Initiatives"

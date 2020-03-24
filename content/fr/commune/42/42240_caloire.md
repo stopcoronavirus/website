@@ -1,4 +1,3 @@
-
 ---
 title: "42240 - CALOIRE | Entraide, Annonces, Initiatives"
 description: "42240 - CALOIRE | Entraide, Annonces, Initiatives"

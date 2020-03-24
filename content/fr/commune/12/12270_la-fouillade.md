@@ -1,4 +1,3 @@
-
 ---
 title: "12270 - LA FOUILLADE | Entraide, Annonces, Initiatives"
 description: "12270 - LA FOUILLADE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "21240 - TALANT | Entraide, Annonces, Initiatives"
 description: "21240 - TALANT | Entraide, Annonces, Initiatives"

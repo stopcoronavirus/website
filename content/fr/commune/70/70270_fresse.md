@@ -1,4 +1,3 @@
-
 ---
 title: "70270 - FRESSE | Entraide, Annonces, Initiatives"
 description: "70270 - FRESSE | Entraide, Annonces, Initiatives"

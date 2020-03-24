@@ -1,4 +1,3 @@
-
 ---
 title: "81150 - ROUFFIAC | Entraide, Annonces, Initiatives"
 description: "81150 - ROUFFIAC | Entraide, Annonces, Initiatives"

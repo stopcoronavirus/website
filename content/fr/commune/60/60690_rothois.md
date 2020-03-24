@@ -1,4 +1,3 @@
-
 ---
 title: "60690 - ROTHOIS | Entraide, Annonces, Initiatives"
 description: "60690 - ROTHOIS | Entraide, Annonces, Initiatives"

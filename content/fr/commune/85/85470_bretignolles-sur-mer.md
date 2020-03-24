@@ -1,4 +1,3 @@
-
 ---
 title: "85470 - BRETIGNOLLES SUR MER | Entraide, Annonces, Initiatives"
 description: "85470 - BRETIGNOLLES SUR MER | Entraide, Annonces, Initiatives"

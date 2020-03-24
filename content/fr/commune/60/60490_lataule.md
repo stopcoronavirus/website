@@ -1,4 +1,3 @@
-
 ---
 title: "60490 - LATAULE | Entraide, Annonces, Initiatives"
 description: "60490 - LATAULE | Entraide, Annonces, Initiatives"

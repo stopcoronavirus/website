@@ -1,4 +1,3 @@
-
 ---
 title: "23260 - MAGNAT L ETRANGE | Entraide, Annonces, Initiatives"
 description: "23260 - MAGNAT L ETRANGE | Entraide, Annonces, Initiatives"

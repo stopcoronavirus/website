@@ -1,4 +1,3 @@
-
 ---
 title: "21220 - CURTIL VERGY | Entraide, Annonces, Initiatives"
 description: "21220 - CURTIL VERGY | Entraide, Annonces, Initiatives"

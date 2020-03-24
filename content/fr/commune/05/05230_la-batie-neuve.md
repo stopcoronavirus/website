@@ -1,4 +1,3 @@
-
 ---
 title: "05230 - LA BATIE NEUVE | Entraide, Annonces, Initiatives"
 description: "05230 - LA BATIE NEUVE | Entraide, Annonces, Initiatives"

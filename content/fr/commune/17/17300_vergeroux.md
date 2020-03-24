@@ -1,4 +1,3 @@
-
 ---
 title: "17300 - VERGEROUX | Entraide, Annonces, Initiatives"
 description: "17300 - VERGEROUX | Entraide, Annonces, Initiatives"

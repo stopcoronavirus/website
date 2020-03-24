@@ -1,4 +1,3 @@
-
 ---
 title: "15220 - VITRAC | Entraide, Annonces, Initiatives"
 description: "15220 - VITRAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "80620 - BERNEUIL | Entraide, Annonces, Initiatives"
 description: "80620 - BERNEUIL | Entraide, Annonces, Initiatives"

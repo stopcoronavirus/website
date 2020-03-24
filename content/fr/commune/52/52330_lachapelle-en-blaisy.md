@@ -1,4 +1,3 @@
-
 ---
 title: "52330 - LACHAPELLE EN BLAISY | Entraide, Annonces, Initiatives"
 description: "52330 - LACHAPELLE EN BLAISY | Entraide, Annonces, Initiatives"

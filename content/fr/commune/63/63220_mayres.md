@@ -1,4 +1,3 @@
-
 ---
 title: "63220 - MAYRES | Entraide, Annonces, Initiatives"
 description: "63220 - MAYRES | Entraide, Annonces, Initiatives"

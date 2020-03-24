@@ -1,4 +1,3 @@
-
 ---
 title: "12800 - CRESPIN | Entraide, Annonces, Initiatives"
 description: "12800 - CRESPIN | Entraide, Annonces, Initiatives"

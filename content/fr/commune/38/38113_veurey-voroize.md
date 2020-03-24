@@ -1,4 +1,3 @@
-
 ---
 title: "38113 - VEUREY VOROIZE | Entraide, Annonces, Initiatives"
 description: "38113 - VEUREY VOROIZE | Entraide, Annonces, Initiatives"

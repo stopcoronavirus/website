@@ -1,4 +1,3 @@
-
 ---
 title: "60117 - VAUMOISE | Entraide, Annonces, Initiatives"
 description: "60117 - VAUMOISE | Entraide, Annonces, Initiatives"

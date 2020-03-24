@@ -1,4 +1,3 @@
-
 ---
 title: "82100 - LABASTIDE DU TEMPLE | Entraide, Annonces, Initiatives"
 description: "82100 - LABASTIDE DU TEMPLE | Entraide, Annonces, Initiatives"

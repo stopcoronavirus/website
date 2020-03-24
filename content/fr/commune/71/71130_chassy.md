@@ -1,4 +1,3 @@
-
 ---
 title: "71130 - CHASSY | Entraide, Annonces, Initiatives"
 description: "71130 - CHASSY | Entraide, Annonces, Initiatives"

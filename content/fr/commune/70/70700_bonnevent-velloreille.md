@@ -1,4 +1,3 @@
-
 ---
 title: "70700 - BONNEVENT VELLOREILLE | Entraide, Annonces, Initiatives"
 description: "70700 - BONNEVENT VELLOREILLE | Entraide, Annonces, Initiatives"

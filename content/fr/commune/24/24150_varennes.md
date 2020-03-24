@@ -1,4 +1,3 @@
-
 ---
 title: "24150 - VARENNES | Entraide, Annonces, Initiatives"
 description: "24150 - VARENNES | Entraide, Annonces, Initiatives"

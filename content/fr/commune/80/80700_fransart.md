@@ -1,4 +1,3 @@
-
 ---
 title: "80700 - FRANSART | Entraide, Annonces, Initiatives"
 description: "80700 - FRANSART | Entraide, Annonces, Initiatives"

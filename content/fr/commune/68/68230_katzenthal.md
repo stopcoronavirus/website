@@ -1,4 +1,3 @@
-
 ---
 title: "68230 - KATZENTHAL | Entraide, Annonces, Initiatives"
 description: "68230 - KATZENTHAL | Entraide, Annonces, Initiatives"

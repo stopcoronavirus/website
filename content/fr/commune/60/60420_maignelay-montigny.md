@@ -1,4 +1,3 @@
-
 ---
 title: "60420 - MAIGNELAY MONTIGNY | Entraide, Annonces, Initiatives"
 description: "60420 - MAIGNELAY MONTIGNY | Entraide, Annonces, Initiatives"

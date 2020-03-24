@@ -1,4 +1,3 @@
-
 ---
 title: "38730 - VILLAGES DU LAC DE PALADRU | Entraide, Annonces, Initiatives"
 description: "38730 - VILLAGES DU LAC DE PALADRU | Entraide, Annonces, Initiatives"

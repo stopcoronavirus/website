@@ -1,4 +1,3 @@
-
 ---
 title: "33690 - COURS LES BAINS | Entraide, Annonces, Initiatives"
 description: "33690 - COURS LES BAINS | Entraide, Annonces, Initiatives"

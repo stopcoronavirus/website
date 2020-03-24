@@ -1,4 +1,3 @@
-
 ---
 title: "88330 - HADIGNY LES VERRIERES | Entraide, Annonces, Initiatives"
 description: "88330 - HADIGNY LES VERRIERES | Entraide, Annonces, Initiatives"

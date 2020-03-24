@@ -1,4 +1,3 @@
-
 ---
 title: "42650 - ST JEAN BONNEFONDS | Entraide, Annonces, Initiatives"
 description: "42650 - ST JEAN BONNEFONDS | Entraide, Annonces, Initiatives"

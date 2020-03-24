@@ -1,4 +1,3 @@
-
 ---
 title: "72610 - CHERISAY | Entraide, Annonces, Initiatives"
 description: "72610 - CHERISAY | Entraide, Annonces, Initiatives"

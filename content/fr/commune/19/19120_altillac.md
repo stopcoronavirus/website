@@ -1,4 +1,3 @@
-
 ---
 title: "19120 - ALTILLAC | Entraide, Annonces, Initiatives"
 description: "19120 - ALTILLAC | Entraide, Annonces, Initiatives"

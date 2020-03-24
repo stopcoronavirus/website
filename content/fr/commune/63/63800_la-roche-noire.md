@@ -1,4 +1,3 @@
-
 ---
 title: "63800 - LA ROCHE NOIRE | Entraide, Annonces, Initiatives"
 description: "63800 - LA ROCHE NOIRE | Entraide, Annonces, Initiatives"

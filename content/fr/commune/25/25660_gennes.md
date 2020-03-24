@@ -1,4 +1,3 @@
-
 ---
 title: "25660 - GENNES | Entraide, Annonces, Initiatives"
 description: "25660 - GENNES | Entraide, Annonces, Initiatives"

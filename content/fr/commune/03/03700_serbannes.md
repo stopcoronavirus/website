@@ -1,4 +1,3 @@
-
 ---
 title: "03700 - SERBANNES | Entraide, Annonces, Initiatives"
 description: "03700 - SERBANNES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "73460 - ST VITAL | Entraide, Annonces, Initiatives"
 description: "73460 - ST VITAL | Entraide, Annonces, Initiatives"

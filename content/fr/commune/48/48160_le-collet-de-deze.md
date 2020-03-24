@@ -1,4 +1,3 @@
-
 ---
 title: "48160 - LE COLLET DE DEZE | Entraide, Annonces, Initiatives"
 description: "48160 - LE COLLET DE DEZE | Entraide, Annonces, Initiatives"

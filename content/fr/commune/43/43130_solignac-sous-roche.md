@@ -1,4 +1,3 @@
-
 ---
 title: "43130 - SOLIGNAC SOUS ROCHE | Entraide, Annonces, Initiatives"
 description: "43130 - SOLIGNAC SOUS ROCHE | Entraide, Annonces, Initiatives"

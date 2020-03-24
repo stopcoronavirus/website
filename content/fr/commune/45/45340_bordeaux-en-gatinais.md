@@ -1,4 +1,3 @@
-
 ---
 title: "45340 - BORDEAUX EN GATINAIS | Entraide, Annonces, Initiatives"
 description: "45340 - BORDEAUX EN GATINAIS | Entraide, Annonces, Initiatives"

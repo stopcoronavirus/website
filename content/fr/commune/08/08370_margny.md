@@ -1,4 +1,3 @@
-
 ---
 title: "08370 - MARGNY | Entraide, Annonces, Initiatives"
 description: "08370 - MARGNY | Entraide, Annonces, Initiatives"

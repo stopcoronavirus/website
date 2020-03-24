@@ -1,4 +1,3 @@
-
 ---
 title: "24220 - MARNAC | Entraide, Annonces, Initiatives"
 description: "24220 - MARNAC | Entraide, Annonces, Initiatives"

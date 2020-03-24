@@ -1,4 +1,3 @@
-
 ---
 title: "17380 - PUY DU LAC | Entraide, Annonces, Initiatives"
 description: "17380 - PUY DU LAC | Entraide, Annonces, Initiatives"

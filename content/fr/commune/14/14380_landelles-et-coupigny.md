@@ -1,4 +1,3 @@
-
 ---
 title: "14380 - LANDELLES ET COUPIGNY | Entraide, Annonces, Initiatives"
 description: "14380 - LANDELLES ET COUPIGNY | Entraide, Annonces, Initiatives"

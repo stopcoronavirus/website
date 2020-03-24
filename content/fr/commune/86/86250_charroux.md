@@ -1,4 +1,3 @@
-
 ---
 title: "86250 - CHARROUX | Entraide, Annonces, Initiatives"
 description: "86250 - CHARROUX | Entraide, Annonces, Initiatives"

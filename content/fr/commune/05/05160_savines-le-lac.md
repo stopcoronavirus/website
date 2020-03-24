@@ -1,4 +1,3 @@
-
 ---
 title: "05160 - SAVINES LE LAC | Entraide, Annonces, Initiatives"
 description: "05160 - SAVINES LE LAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "23400 - AURIAT | Entraide, Annonces, Initiatives"
 description: "23400 - AURIAT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "03150 - ST GERAND LE PUY | Entraide, Annonces, Initiatives"
 description: "03150 - ST GERAND LE PUY | Entraide, Annonces, Initiatives"

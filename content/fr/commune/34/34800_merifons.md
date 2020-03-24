@@ -1,4 +1,3 @@
-
 ---
 title: "34800 - MERIFONS | Entraide, Annonces, Initiatives"
 description: "34800 - MERIFONS | Entraide, Annonces, Initiatives"

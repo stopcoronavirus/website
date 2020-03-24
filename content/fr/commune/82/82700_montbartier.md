@@ -1,4 +1,3 @@
-
 ---
 title: "82700 - MONTBARTIER | Entraide, Annonces, Initiatives"
 description: "82700 - MONTBARTIER | Entraide, Annonces, Initiatives"

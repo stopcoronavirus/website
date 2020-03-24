@@ -1,4 +1,3 @@
-
 ---
 title: "47260 - BRUGNAC | Entraide, Annonces, Initiatives"
 description: "47260 - BRUGNAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "52160 - VITRY EN MONTAGNE | Entraide, Annonces, Initiatives"
 description: "52160 - VITRY EN MONTAGNE | Entraide, Annonces, Initiatives"

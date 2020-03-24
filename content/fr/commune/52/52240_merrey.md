@@ -1,4 +1,3 @@
-
 ---
 title: "52240 - MERREY | Entraide, Annonces, Initiatives"
 description: "52240 - MERREY | Entraide, Annonces, Initiatives"

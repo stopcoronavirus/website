@@ -1,4 +1,3 @@
-
 ---
 title: "35680 - VERGEAL | Entraide, Annonces, Initiatives"
 description: "35680 - VERGEAL | Entraide, Annonces, Initiatives"

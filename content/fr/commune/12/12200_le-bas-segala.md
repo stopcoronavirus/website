@@ -1,4 +1,3 @@
-
 ---
 title: "12200 - LE BAS SEGALA | Entraide, Annonces, Initiatives"
 description: "12200 - LE BAS SEGALA | Entraide, Annonces, Initiatives"

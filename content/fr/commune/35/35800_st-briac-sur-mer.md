@@ -1,4 +1,3 @@
-
 ---
 title: "35800 - ST BRIAC SUR MER | Entraide, Annonces, Initiatives"
 description: "35800 - ST BRIAC SUR MER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "04380 - BARRAS | Entraide, Annonces, Initiatives"
 description: "04380 - BARRAS | Entraide, Annonces, Initiatives"

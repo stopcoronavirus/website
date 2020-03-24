@@ -1,4 +1,3 @@
-
 ---
 title: "35250 - ST AUBIN D AUBIGNE | Entraide, Annonces, Initiatives"
 description: "35250 - ST AUBIN D AUBIGNE | Entraide, Annonces, Initiatives"

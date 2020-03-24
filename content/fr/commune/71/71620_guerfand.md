@@ -1,4 +1,3 @@
-
 ---
 title: "71620 - GUERFAND | Entraide, Annonces, Initiatives"
 description: "71620 - GUERFAND | Entraide, Annonces, Initiatives"

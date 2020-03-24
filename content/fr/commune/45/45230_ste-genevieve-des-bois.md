@@ -1,4 +1,3 @@
-
 ---
 title: "45230 - STE GENEVIEVE DES BOIS | Entraide, Annonces, Initiatives"
 description: "45230 - STE GENEVIEVE DES BOIS | Entraide, Annonces, Initiatives"

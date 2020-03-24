@@ -1,4 +1,3 @@
-
 ---
 title: "06450 - LANTOSQUE | Entraide, Annonces, Initiatives"
 description: "06450 - LANTOSQUE | Entraide, Annonces, Initiatives"

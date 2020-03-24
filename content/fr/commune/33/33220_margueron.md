@@ -1,4 +1,3 @@
-
 ---
 title: "33220 - MARGUERON | Entraide, Annonces, Initiatives"
 description: "33220 - MARGUERON | Entraide, Annonces, Initiatives"

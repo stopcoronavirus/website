@@ -1,4 +1,3 @@
-
 ---
 title: "80340 - BRAY SUR SOMME | Entraide, Annonces, Initiatives"
 description: "80340 - BRAY SUR SOMME | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20160 - POGGIOLO | Entraide, Annonces, Initiatives"
 description: "20160 - POGGIOLO | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "04370 - BEAUVEZER | Entraide, Annonces, Initiatives"
 description: "04370 - BEAUVEZER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "27720 - GUERNY | Entraide, Annonces, Initiatives"
 description: "27720 - GUERNY | Entraide, Annonces, Initiatives"

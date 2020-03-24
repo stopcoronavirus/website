@@ -1,4 +1,3 @@
-
 ---
 title: "25430 - VELLEVANS | Entraide, Annonces, Initiatives"
 description: "25430 - VELLEVANS | Entraide, Annonces, Initiatives"

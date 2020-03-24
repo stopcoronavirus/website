@@ -1,4 +1,3 @@
-
 ---
 title: "20235 - CASTELLO DI ROSTINO | Entraide, Annonces, Initiatives"
 description: "20235 - CASTELLO DI ROSTINO | Entraide, Annonces, Initiatives"

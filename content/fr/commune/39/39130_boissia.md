@@ -1,4 +1,3 @@
-
 ---
 title: "39130 - BOISSIA | Entraide, Annonces, Initiatives"
 description: "39130 - BOISSIA | Entraide, Annonces, Initiatives"

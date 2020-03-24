@@ -1,4 +1,3 @@
-
 ---
 title: "69400 - GLEIZE | Entraide, Annonces, Initiatives"
 description: "69400 - GLEIZE | Entraide, Annonces, Initiatives"

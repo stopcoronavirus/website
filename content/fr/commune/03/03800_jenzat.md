@@ -1,4 +1,3 @@
-
 ---
 title: "03800 - JENZAT | Entraide, Annonces, Initiatives"
 description: "03800 - JENZAT | Entraide, Annonces, Initiatives"

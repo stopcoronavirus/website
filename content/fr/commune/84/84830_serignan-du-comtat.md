@@ -1,4 +1,3 @@
-
 ---
 title: "84830 - SERIGNAN DU COMTAT | Entraide, Annonces, Initiatives"
 description: "84830 - SERIGNAN DU COMTAT | Entraide, Annonces, Initiatives"

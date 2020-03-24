@@ -1,4 +1,3 @@
-
 ---
 title: "49390 - VERNANTES | Entraide, Annonces, Initiatives"
 description: "49390 - VERNANTES | Entraide, Annonces, Initiatives"

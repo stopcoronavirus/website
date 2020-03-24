@@ -1,4 +1,3 @@
-
 ---
 title: "21220 - TERNANT | Entraide, Annonces, Initiatives"
 description: "21220 - TERNANT | Entraide, Annonces, Initiatives"

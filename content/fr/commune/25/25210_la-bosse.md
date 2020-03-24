@@ -1,4 +1,3 @@
-
 ---
 title: "25210 - LA BOSSE | Entraide, Annonces, Initiatives"
 description: "25210 - LA BOSSE | Entraide, Annonces, Initiatives"

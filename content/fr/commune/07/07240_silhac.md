@@ -1,4 +1,3 @@
-
 ---
 title: "07240 - SILHAC | Entraide, Annonces, Initiatives"
 description: "07240 - SILHAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "28700 - LA CHAPELLE D AUNAINVILLE | Entraide, Annonces, Initiatives"
 description: "28700 - LA CHAPELLE D AUNAINVILLE | Entraide, Annonces, Initiatives"

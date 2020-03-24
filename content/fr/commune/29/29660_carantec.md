@@ -1,4 +1,3 @@
-
 ---
 title: "29660 - CARANTEC | Entraide, Annonces, Initiatives"
 description: "29660 - CARANTEC | Entraide, Annonces, Initiatives"

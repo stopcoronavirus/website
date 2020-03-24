@@ -1,4 +1,3 @@
-
 ---
 title: "15800 - BADAILHAC | Entraide, Annonces, Initiatives"
 description: "15800 - BADAILHAC | Entraide, Annonces, Initiatives"

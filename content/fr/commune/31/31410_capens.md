@@ -1,4 +1,3 @@
-
 ---
 title: "31410 - CAPENS | Entraide, Annonces, Initiatives"
 description: "31410 - CAPENS | Entraide, Annonces, Initiatives"

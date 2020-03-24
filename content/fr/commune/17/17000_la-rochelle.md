@@ -1,4 +1,3 @@
-
 ---
 title: "17000 - LA ROCHELLE | Entraide, Annonces, Initiatives"
 description: "17000 - LA ROCHELLE | Entraide, Annonces, Initiatives"

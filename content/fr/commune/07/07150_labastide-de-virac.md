@@ -1,4 +1,3 @@
-
 ---
 title: "07150 - LABASTIDE DE VIRAC | Entraide, Annonces, Initiatives"
 description: "07150 - LABASTIDE DE VIRAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71460 - GERMAGNY | Entraide, Annonces, Initiatives"
 description: "71460 - GERMAGNY | Entraide, Annonces, Initiatives"

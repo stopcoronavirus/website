@@ -1,4 +1,3 @@
-
 ---
 title: "60650 - VILLERS ST BARTHELEMY | Entraide, Annonces, Initiatives"
 description: "60650 - VILLERS ST BARTHELEMY | Entraide, Annonces, Initiatives"

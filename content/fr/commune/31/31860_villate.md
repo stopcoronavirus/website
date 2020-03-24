@@ -1,4 +1,3 @@
-
 ---
 title: "31860 - VILLATE | Entraide, Annonces, Initiatives"
 description: "31860 - VILLATE | Entraide, Annonces, Initiatives"

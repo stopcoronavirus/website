@@ -1,4 +1,3 @@
-
 ---
 title: "79170 - VERNOUX SUR BOUTONNE | Entraide, Annonces, Initiatives"
 description: "79170 - VERNOUX SUR BOUTONNE | Entraide, Annonces, Initiatives"

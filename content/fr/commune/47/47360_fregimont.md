@@ -1,4 +1,3 @@
-
 ---
 title: "47360 - FREGIMONT | Entraide, Annonces, Initiatives"
 description: "47360 - FREGIMONT | Entraide, Annonces, Initiatives"

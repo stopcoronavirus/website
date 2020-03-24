@@ -1,4 +1,3 @@
-
 ---
 title: "16100 - COGNAC | Entraide, Annonces, Initiatives"
 description: "16100 - COGNAC | Entraide, Annonces, Initiatives"

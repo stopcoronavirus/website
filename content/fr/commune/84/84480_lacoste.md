@@ -1,4 +1,3 @@
-
 ---
 title: "84480 - LACOSTE | Entraide, Annonces, Initiatives"
 description: "84480 - LACOSTE | Entraide, Annonces, Initiatives"

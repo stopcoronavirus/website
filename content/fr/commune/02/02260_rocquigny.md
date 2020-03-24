@@ -1,4 +1,3 @@
-
 ---
 title: "02260 - ROCQUIGNY | Entraide, Annonces, Initiatives"
 description: "02260 - ROCQUIGNY | Entraide, Annonces, Initiatives"

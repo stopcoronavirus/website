@@ -1,4 +1,3 @@
-
 ---
 title: "21610 - MONTIGNY MORNAY VILLENEUVE VINGEANNE | Entraide, Annonces, Initiatives"
 description: "21610 - MONTIGNY MORNAY VILLENEUVE VINGEANNE | Entraide, Annonces, Initiatives"

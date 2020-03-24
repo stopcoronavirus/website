@@ -1,4 +1,3 @@
-
 ---
 title: "47250 - BOUGLON | Entraide, Annonces, Initiatives"
 description: "47250 - BOUGLON | Entraide, Annonces, Initiatives"

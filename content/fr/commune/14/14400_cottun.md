@@ -1,4 +1,3 @@
-
 ---
 title: "14400 - COTTUN | Entraide, Annonces, Initiatives"
 description: "14400 - COTTUN | Entraide, Annonces, Initiatives"

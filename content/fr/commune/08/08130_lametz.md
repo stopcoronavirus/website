@@ -1,4 +1,3 @@
-
 ---
 title: "08130 - LAMETZ | Entraide, Annonces, Initiatives"
 description: "08130 - LAMETZ | Entraide, Annonces, Initiatives"

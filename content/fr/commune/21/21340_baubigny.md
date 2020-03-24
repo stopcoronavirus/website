@@ -1,4 +1,3 @@
-
 ---
 title: "21340 - BAUBIGNY | Entraide, Annonces, Initiatives"
 description: "21340 - BAUBIGNY | Entraide, Annonces, Initiatives"

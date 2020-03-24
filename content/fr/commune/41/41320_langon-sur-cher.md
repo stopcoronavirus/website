@@ -1,4 +1,3 @@
-
 ---
 title: "41320 - LANGON SUR CHER | Entraide, Annonces, Initiatives"
 description: "41320 - LANGON SUR CHER | Entraide, Annonces, Initiatives"

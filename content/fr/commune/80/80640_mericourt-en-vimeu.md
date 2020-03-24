@@ -1,4 +1,3 @@
-
 ---
 title: "80640 - MERICOURT EN VIMEU | Entraide, Annonces, Initiatives"
 description: "80640 - MERICOURT EN VIMEU | Entraide, Annonces, Initiatives"

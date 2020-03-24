@@ -1,4 +1,3 @@
-
 ---
 title: "38470 - VATILIEU | Entraide, Annonces, Initiatives"
 description: "38470 - VATILIEU | Entraide, Annonces, Initiatives"

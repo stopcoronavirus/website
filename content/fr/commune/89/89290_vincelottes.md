@@ -1,4 +1,3 @@
-
 ---
 title: "89290 - VINCELOTTES | Entraide, Annonces, Initiatives"
 description: "89290 - VINCELOTTES | Entraide, Annonces, Initiatives"

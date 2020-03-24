@@ -1,4 +1,3 @@
-
 ---
 title: "60190 - AVRIGNY | Entraide, Annonces, Initiatives"
 description: "60190 - AVRIGNY | Entraide, Annonces, Initiatives"

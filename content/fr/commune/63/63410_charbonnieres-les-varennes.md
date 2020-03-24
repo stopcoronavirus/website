@@ -1,4 +1,3 @@
-
 ---
 title: "63410 - CHARBONNIERES LES VARENNES | Entraide, Annonces, Initiatives"
 description: "63410 - CHARBONNIERES LES VARENNES | Entraide, Annonces, Initiatives"

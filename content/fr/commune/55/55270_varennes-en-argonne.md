@@ -1,4 +1,3 @@
-
 ---
 title: "55270 - VARENNES EN ARGONNE | Entraide, Annonces, Initiatives"
 description: "55270 - VARENNES EN ARGONNE | Entraide, Annonces, Initiatives"

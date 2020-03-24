@@ -1,4 +1,3 @@
-
 ---
 title: "33640 - BEAUTIRAN | Entraide, Annonces, Initiatives"
 description: "33640 - BEAUTIRAN | Entraide, Annonces, Initiatives"

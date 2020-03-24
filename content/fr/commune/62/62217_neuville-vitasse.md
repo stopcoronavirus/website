@@ -1,4 +1,3 @@
-
 ---
 title: "62217 - NEUVILLE VITASSE | Entraide, Annonces, Initiatives"
 description: "62217 - NEUVILLE VITASSE | Entraide, Annonces, Initiatives"

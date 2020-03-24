@@ -1,4 +1,3 @@
-
 ---
 title: "30960 - LES MAGES | Entraide, Annonces, Initiatives"
 description: "30960 - LES MAGES | Entraide, Annonces, Initiatives"

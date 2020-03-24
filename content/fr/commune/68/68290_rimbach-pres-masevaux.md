@@ -1,4 +1,3 @@
-
 ---
 title: "68290 - RIMBACH PRES MASEVAUX | Entraide, Annonces, Initiatives"
 description: "68290 - RIMBACH PRES MASEVAUX | Entraide, Annonces, Initiatives"

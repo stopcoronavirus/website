@@ -1,4 +1,3 @@
-
 ---
 title: "73330 - VEREL DE MONTBEL | Entraide, Annonces, Initiatives"
 description: "73330 - VEREL DE MONTBEL | Entraide, Annonces, Initiatives"

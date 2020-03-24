@@ -1,4 +1,3 @@
-
 ---
 title: "37230 - FONDETTES | Entraide, Annonces, Initiatives"
 description: "37230 - FONDETTES | Entraide, Annonces, Initiatives"

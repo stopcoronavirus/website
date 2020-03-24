@@ -1,4 +1,3 @@
-
 ---
 title: "49130 - ST JEAN DE LA CROIX | Entraide, Annonces, Initiatives"
 description: "49130 - ST JEAN DE LA CROIX | Entraide, Annonces, Initiatives"

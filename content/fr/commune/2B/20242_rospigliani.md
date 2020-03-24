@@ -1,4 +1,3 @@
-
 ---
 title: "20242 - ROSPIGLIANI | Entraide, Annonces, Initiatives"
 description: "20242 - ROSPIGLIANI | Entraide, Annonces, Initiatives"

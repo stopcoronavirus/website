@@ -1,4 +1,3 @@
-
 ---
 title: "52700 - VIGNES LA COTE | Entraide, Annonces, Initiatives"
 description: "52700 - VIGNES LA COTE | Entraide, Annonces, Initiatives"

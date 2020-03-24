@@ -1,4 +1,3 @@
-
 ---
 title: "11420 - LAFAGE | Entraide, Annonces, Initiatives"
 description: "11420 - LAFAGE | Entraide, Annonces, Initiatives"

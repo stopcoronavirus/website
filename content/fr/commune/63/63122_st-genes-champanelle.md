@@ -1,4 +1,3 @@
-
 ---
 title: "63122 - ST GENES CHAMPANELLE | Entraide, Annonces, Initiatives"
 description: "63122 - ST GENES CHAMPANELLE | Entraide, Annonces, Initiatives"

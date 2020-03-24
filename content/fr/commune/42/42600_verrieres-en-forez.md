@@ -1,4 +1,3 @@
-
 ---
 title: "42600 - VERRIERES EN FOREZ | Entraide, Annonces, Initiatives"
 description: "42600 - VERRIERES EN FOREZ | Entraide, Annonces, Initiatives"

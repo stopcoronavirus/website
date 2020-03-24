@@ -1,4 +1,3 @@
-
 ---
 title: "60280 - MARGNY LES COMPIEGNE | Entraide, Annonces, Initiatives"
 description: "60280 - MARGNY LES COMPIEGNE | Entraide, Annonces, Initiatives"

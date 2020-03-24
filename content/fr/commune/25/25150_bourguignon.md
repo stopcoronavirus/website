@@ -1,4 +1,3 @@
-
 ---
 title: "25150 - BOURGUIGNON | Entraide, Annonces, Initiatives"
 description: "25150 - BOURGUIGNON | Entraide, Annonces, Initiatives"

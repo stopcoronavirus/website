@@ -1,4 +1,3 @@
-
 ---
 title: "15290 - ROUMEGOUX | Entraide, Annonces, Initiatives"
 description: "15290 - ROUMEGOUX | Entraide, Annonces, Initiatives"

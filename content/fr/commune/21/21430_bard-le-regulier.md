@@ -1,4 +1,3 @@
-
 ---
 title: "21430 - BARD LE REGULIER | Entraide, Annonces, Initiatives"
 description: "21430 - BARD LE REGULIER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "52600 - RIVIERES LE BOIS | Entraide, Annonces, Initiatives"
 description: "52600 - RIVIERES LE BOIS | Entraide, Annonces, Initiatives"

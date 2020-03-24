@@ -1,4 +1,3 @@
-
 ---
 title: "54600 - VILLERS LES NANCY | Entraide, Annonces, Initiatives"
 description: "54600 - VILLERS LES NANCY | Entraide, Annonces, Initiatives"

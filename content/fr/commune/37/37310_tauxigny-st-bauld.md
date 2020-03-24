@@ -1,4 +1,3 @@
-
 ---
 title: "37310 - TAUXIGNY ST BAULD | Entraide, Annonces, Initiatives"
 description: "37310 - TAUXIGNY ST BAULD | Entraide, Annonces, Initiatives"

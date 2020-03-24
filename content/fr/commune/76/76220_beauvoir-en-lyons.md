@@ -1,4 +1,3 @@
-
 ---
 title: "76220 - BEAUVOIR EN LYONS | Entraide, Annonces, Initiatives"
 description: "76220 - BEAUVOIR EN LYONS | Entraide, Annonces, Initiatives"

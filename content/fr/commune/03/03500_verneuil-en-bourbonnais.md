@@ -1,4 +1,3 @@
-
 ---
 title: "03500 - VERNEUIL EN BOURBONNAIS | Entraide, Annonces, Initiatives"
 description: "03500 - VERNEUIL EN BOURBONNAIS | Entraide, Annonces, Initiatives"

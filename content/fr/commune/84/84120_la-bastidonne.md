@@ -1,4 +1,3 @@
-
 ---
 title: "84120 - LA BASTIDONNE | Entraide, Annonces, Initiatives"
 description: "84120 - LA BASTIDONNE | Entraide, Annonces, Initiatives"

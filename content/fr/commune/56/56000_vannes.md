@@ -1,4 +1,3 @@
-
 ---
 title: "56000 - VANNES | Entraide, Annonces, Initiatives"
 description: "56000 - VANNES | Entraide, Annonces, Initiatives"

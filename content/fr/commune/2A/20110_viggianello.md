@@ -1,4 +1,3 @@
-
 ---
 title: "20110 - VIGGIANELLO | Entraide, Annonces, Initiatives"
 description: "20110 - VIGGIANELLO | Entraide, Annonces, Initiatives"

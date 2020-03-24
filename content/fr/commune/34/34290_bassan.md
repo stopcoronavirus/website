@@ -1,4 +1,3 @@
-
 ---
 title: "34290 - BASSAN | Entraide, Annonces, Initiatives"
 description: "34290 - BASSAN | Entraide, Annonces, Initiatives"

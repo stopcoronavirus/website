@@ -1,4 +1,3 @@
-
 ---
 title: "88130 - RUGNEY | Entraide, Annonces, Initiatives"
 description: "88130 - RUGNEY | Entraide, Annonces, Initiatives"

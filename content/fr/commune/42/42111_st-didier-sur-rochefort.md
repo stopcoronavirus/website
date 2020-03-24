@@ -1,4 +1,3 @@
-
 ---
 title: "42111 - ST DIDIER SUR ROCHEFORT | Entraide, Annonces, Initiatives"
 description: "42111 - ST DIDIER SUR ROCHEFORT | Entraide, Annonces, Initiatives"

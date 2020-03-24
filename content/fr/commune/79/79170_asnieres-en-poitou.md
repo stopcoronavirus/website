@@ -1,4 +1,3 @@
-
 ---
 title: "79170 - ASNIERES EN POITOU | Entraide, Annonces, Initiatives"
 description: "79170 - ASNIERES EN POITOU | Entraide, Annonces, Initiatives"

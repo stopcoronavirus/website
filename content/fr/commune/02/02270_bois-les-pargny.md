@@ -1,4 +1,3 @@
-
 ---
 title: "02270 - BOIS LES PARGNY | Entraide, Annonces, Initiatives"
 description: "02270 - BOIS LES PARGNY | Entraide, Annonces, Initiatives"

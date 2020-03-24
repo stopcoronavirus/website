@@ -1,4 +1,3 @@
-
 ---
 title: "25550 - BAVANS | Entraide, Annonces, Initiatives"
 description: "25550 - BAVANS | Entraide, Annonces, Initiatives"

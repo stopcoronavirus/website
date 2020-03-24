@@ -1,4 +1,3 @@
-
 ---
 title: "02270 - MONTIGNY SUR CRECY | Entraide, Annonces, Initiatives"
 description: "02270 - MONTIGNY SUR CRECY | Entraide, Annonces, Initiatives"

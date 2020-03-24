@@ -1,4 +1,3 @@
-
 ---
 title: "43120 - LA CHAPELLE D AUREC | Entraide, Annonces, Initiatives"
 description: "43120 - LA CHAPELLE D AUREC | Entraide, Annonces, Initiatives"

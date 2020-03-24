@@ -1,4 +1,3 @@
-
 ---
 title: "62150 - BEUGIN | Entraide, Annonces, Initiatives"
 description: "62150 - BEUGIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "18200 - LA CELLE | Entraide, Annonces, Initiatives"
 description: "18200 - LA CELLE | Entraide, Annonces, Initiatives"

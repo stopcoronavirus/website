@@ -1,4 +1,3 @@
-
 ---
 title: "41240 - BEAUCE LA ROMAINE | Entraide, Annonces, Initiatives"
 description: "41240 - BEAUCE LA ROMAINE | Entraide, Annonces, Initiatives"

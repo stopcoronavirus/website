@@ -1,4 +1,3 @@
-
 ---
 title: "31290 - BEAUTEVILLE | Entraide, Annonces, Initiatives"
 description: "31290 - BEAUTEVILLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71530 - CRISSEY | Entraide, Annonces, Initiatives"
 description: "71530 - CRISSEY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "30120 - MANDAGOUT | Entraide, Annonces, Initiatives"
 description: "30120 - MANDAGOUT | Entraide, Annonces, Initiatives"

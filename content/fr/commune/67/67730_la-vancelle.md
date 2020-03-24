@@ -1,4 +1,3 @@
-
 ---
 title: "67730 - LA VANCELLE | Entraide, Annonces, Initiatives"
 description: "67730 - LA VANCELLE | Entraide, Annonces, Initiatives"

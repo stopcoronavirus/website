@@ -1,4 +1,3 @@
-
 ---
 title: "58340 - MONTIGNY SUR CANNE | Entraide, Annonces, Initiatives"
 description: "58340 - MONTIGNY SUR CANNE | Entraide, Annonces, Initiatives"

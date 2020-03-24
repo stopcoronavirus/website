@@ -1,4 +1,3 @@
-
 ---
 title: "65380 - HIBARETTE | Entraide, Annonces, Initiatives"
 description: "65380 - HIBARETTE | Entraide, Annonces, Initiatives"

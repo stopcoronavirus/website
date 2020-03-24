@@ -1,4 +1,3 @@
-
 ---
 title: "20242 - VEZZANI | Entraide, Annonces, Initiatives"
 description: "20242 - VEZZANI | Entraide, Annonces, Initiatives"

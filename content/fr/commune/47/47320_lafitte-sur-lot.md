@@ -1,4 +1,3 @@
-
 ---
 title: "47320 - LAFITTE SUR LOT | Entraide, Annonces, Initiatives"
 description: "47320 - LAFITTE SUR LOT | Entraide, Annonces, Initiatives"

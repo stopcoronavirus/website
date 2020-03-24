@@ -1,4 +1,3 @@
-
 ---
 title: "72120 - ST GERVAIS DE VIC | Entraide, Annonces, Initiatives"
 description: "72120 - ST GERVAIS DE VIC | Entraide, Annonces, Initiatives"

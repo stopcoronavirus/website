@@ -1,4 +1,3 @@
-
 ---
 title: "70200 - LA COTE | Entraide, Annonces, Initiatives"
 description: "70200 - LA COTE | Entraide, Annonces, Initiatives"

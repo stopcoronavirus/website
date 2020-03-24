@@ -1,4 +1,3 @@
-
 ---
 title: "12800 - CAMJAC | Entraide, Annonces, Initiatives"
 description: "12800 - CAMJAC | Entraide, Annonces, Initiatives"

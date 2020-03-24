@@ -1,4 +1,3 @@
-
 ---
 title: "52240 - BREUVANNES EN BASSIGNY | Entraide, Annonces, Initiatives"
 description: "52240 - BREUVANNES EN BASSIGNY | Entraide, Annonces, Initiatives"

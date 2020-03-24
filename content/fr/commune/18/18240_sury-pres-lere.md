@@ -1,4 +1,3 @@
-
 ---
 title: "18240 - SURY PRES LERE | Entraide, Annonces, Initiatives"
 description: "18240 - SURY PRES LERE | Entraide, Annonces, Initiatives"

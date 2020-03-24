@@ -1,4 +1,3 @@
-
 ---
 title: "03600 - LA CELLE | Entraide, Annonces, Initiatives"
 description: "03600 - LA CELLE | Entraide, Annonces, Initiatives"

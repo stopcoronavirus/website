@@ -1,4 +1,3 @@
-
 ---
 title: "86700 - VALENCE EN POITOU | Entraide, Annonces, Initiatives"
 description: "86700 - VALENCE EN POITOU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "86310 - BETHINES | Entraide, Annonces, Initiatives"
 description: "86310 - BETHINES | Entraide, Annonces, Initiatives"

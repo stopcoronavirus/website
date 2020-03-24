@@ -1,4 +1,3 @@
-
 ---
 title: "45130 - ROZIERES EN BEAUCE | Entraide, Annonces, Initiatives"
 description: "45130 - ROZIERES EN BEAUCE | Entraide, Annonces, Initiatives"

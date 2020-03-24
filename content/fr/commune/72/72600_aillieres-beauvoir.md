@@ -1,4 +1,3 @@
-
 ---
 title: "72600 - AILLIERES BEAUVOIR | Entraide, Annonces, Initiatives"
 description: "72600 - AILLIERES BEAUVOIR | Entraide, Annonces, Initiatives"

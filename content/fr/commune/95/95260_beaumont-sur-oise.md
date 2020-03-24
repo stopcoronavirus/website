@@ -1,4 +1,3 @@
-
 ---
 title: "95260 - BEAUMONT SUR OISE | Entraide, Annonces, Initiatives"
 description: "95260 - BEAUMONT SUR OISE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "42360 - COTTANCE | Entraide, Annonces, Initiatives"
 description: "42360 - COTTANCE | Entraide, Annonces, Initiatives"

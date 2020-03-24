@@ -1,4 +1,3 @@
-
 ---
 title: "05230 - AVANCON | Entraide, Annonces, Initiatives"
 description: "05230 - AVANCON | Entraide, Annonces, Initiatives"

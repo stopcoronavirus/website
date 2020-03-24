@@ -1,4 +1,3 @@
-
 ---
 title: "85580 - ST MICHEL EN L HERM | Entraide, Annonces, Initiatives"
 description: "85580 - ST MICHEL EN L HERM | Entraide, Annonces, Initiatives"

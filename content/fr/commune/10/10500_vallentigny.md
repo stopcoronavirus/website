@@ -1,4 +1,3 @@
-
 ---
 title: "10500 - VALLENTIGNY | Entraide, Annonces, Initiatives"
 description: "10500 - VALLENTIGNY | Entraide, Annonces, Initiatives"

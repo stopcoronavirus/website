@@ -1,4 +1,3 @@
-
 ---
 title: "71500 - VINCELLES | Entraide, Annonces, Initiatives"
 description: "71500 - VINCELLES | Entraide, Annonces, Initiatives"

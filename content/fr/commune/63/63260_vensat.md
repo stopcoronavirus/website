@@ -1,4 +1,3 @@
-
 ---
 title: "63260 - VENSAT | Entraide, Annonces, Initiatives"
 description: "63260 - VENSAT | Entraide, Annonces, Initiatives"

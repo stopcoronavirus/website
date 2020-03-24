@@ -1,4 +1,3 @@
-
 ---
 title: "43500 - CHOMELIX | Entraide, Annonces, Initiatives"
 description: "43500 - CHOMELIX | Entraide, Annonces, Initiatives"

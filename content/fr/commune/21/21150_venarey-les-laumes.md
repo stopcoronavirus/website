@@ -1,4 +1,3 @@
-
 ---
 title: "21150 - VENAREY LES LAUMES | Entraide, Annonces, Initiatives"
 description: "21150 - VENAREY LES LAUMES | Entraide, Annonces, Initiatives"

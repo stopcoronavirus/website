@@ -1,4 +1,3 @@
-
 ---
 title: "51600 - LA CROIX EN CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "51600 - LA CROIX EN CHAMPAGNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60310 - MARGNY AUX CERISES | Entraide, Annonces, Initiatives"
 description: "60310 - MARGNY AUX CERISES | Entraide, Annonces, Initiatives"

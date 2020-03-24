@@ -1,4 +1,3 @@
-
 ---
 title: "27480 - BOSQUENTIN | Entraide, Annonces, Initiatives"
 description: "27480 - BOSQUENTIN | Entraide, Annonces, Initiatives"

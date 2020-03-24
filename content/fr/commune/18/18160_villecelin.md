@@ -1,4 +1,3 @@
-
 ---
 title: "18160 - VILLECELIN | Entraide, Annonces, Initiatives"
 description: "18160 - VILLECELIN | Entraide, Annonces, Initiatives"

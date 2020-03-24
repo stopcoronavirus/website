@@ -1,4 +1,3 @@
-
 ---
 title: "74440 - VERCHAIX | Entraide, Annonces, Initiatives"
 description: "74440 - VERCHAIX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "61210 - PUTANGES LE LAC | Entraide, Annonces, Initiatives"
 description: "61210 - PUTANGES LE LAC | Entraide, Annonces, Initiatives"

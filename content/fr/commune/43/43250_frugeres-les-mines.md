@@ -1,4 +1,3 @@
-
 ---
 title: "43250 - FRUGERES LES MINES | Entraide, Annonces, Initiatives"
 description: "43250 - FRUGERES LES MINES | Entraide, Annonces, Initiatives"

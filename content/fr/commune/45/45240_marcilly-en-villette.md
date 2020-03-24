@@ -1,4 +1,3 @@
-
 ---
 title: "45240 - MARCILLY EN VILLETTE | Entraide, Annonces, Initiatives"
 description: "45240 - MARCILLY EN VILLETTE | Entraide, Annonces, Initiatives"

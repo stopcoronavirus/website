@@ -1,4 +1,3 @@
-
 ---
 title: "71960 - BERZE LA VILLE | Entraide, Annonces, Initiatives"
 description: "71960 - BERZE LA VILLE | Entraide, Annonces, Initiatives"

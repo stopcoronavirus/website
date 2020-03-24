@@ -1,4 +1,3 @@
-
 ---
 title: "62149 - GIVENCHY LES LA BASSEE | Entraide, Annonces, Initiatives"
 description: "62149 - GIVENCHY LES LA BASSEE | Entraide, Annonces, Initiatives"

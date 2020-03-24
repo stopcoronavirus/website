@@ -1,4 +1,3 @@
-
 ---
 title: "51320 - VASSIMONT ET CHAPELAINE | Entraide, Annonces, Initiatives"
 description: "51320 - VASSIMONT ET CHAPELAINE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "54360 - CHARMOIS | Entraide, Annonces, Initiatives"
 description: "54360 - CHARMOIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "62270 - CANETTEMONT | Entraide, Annonces, Initiatives"
 description: "62270 - CANETTEMONT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "56140 - ST MARCEL | Entraide, Annonces, Initiatives"
 description: "56140 - ST MARCEL | Entraide, Annonces, Initiatives"

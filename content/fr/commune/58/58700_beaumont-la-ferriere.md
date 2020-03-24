@@ -1,4 +1,3 @@
-
 ---
 title: "58700 - BEAUMONT LA FERRIERE | Entraide, Annonces, Initiatives"
 description: "58700 - BEAUMONT LA FERRIERE | Entraide, Annonces, Initiatives"

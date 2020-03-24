@@ -1,4 +1,3 @@
-
 ---
 title: "35770 - VERN SUR SEICHE | Entraide, Annonces, Initiatives"
 description: "35770 - VERN SUR SEICHE | Entraide, Annonces, Initiatives"

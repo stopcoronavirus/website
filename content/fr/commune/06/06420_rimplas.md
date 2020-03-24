@@ -1,4 +1,3 @@
-
 ---
 title: "06420 - RIMPLAS | Entraide, Annonces, Initiatives"
 description: "06420 - RIMPLAS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02240 - BRISSY HAMEGICOURT | Entraide, Annonces, Initiatives"
 description: "02240 - BRISSY HAMEGICOURT | Entraide, Annonces, Initiatives"

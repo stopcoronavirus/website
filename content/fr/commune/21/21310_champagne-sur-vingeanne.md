@@ -1,4 +1,3 @@
-
 ---
 title: "21310 - CHAMPAGNE SUR VINGEANNE | Entraide, Annonces, Initiatives"
 description: "21310 - CHAMPAGNE SUR VINGEANNE | Entraide, Annonces, Initiatives"

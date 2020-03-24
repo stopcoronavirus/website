@@ -1,4 +1,3 @@
-
 ---
 title: "16120 - CHATEAUNEUF SUR CHARENTE | Entraide, Annonces, Initiatives"
 description: "16120 - CHATEAUNEUF SUR CHARENTE | Entraide, Annonces, Initiatives"

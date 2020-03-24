@@ -1,4 +1,3 @@
-
 ---
 title: "19320 - CHAMPAGNAC LA PRUNE | Entraide, Annonces, Initiatives"
 description: "19320 - CHAMPAGNAC LA PRUNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60430 - ABBECOURT | Entraide, Annonces, Initiatives"
 description: "60430 - ABBECOURT | Entraide, Annonces, Initiatives"

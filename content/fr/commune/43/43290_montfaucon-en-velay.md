@@ -1,4 +1,3 @@
-
 ---
 title: "43290 - MONTFAUCON EN VELAY | Entraide, Annonces, Initiatives"
 description: "43290 - MONTFAUCON EN VELAY | Entraide, Annonces, Initiatives"

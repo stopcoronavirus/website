@@ -1,4 +1,3 @@
-
 ---
 title: "88500 - VILLERS | Entraide, Annonces, Initiatives"
 description: "88500 - VILLERS | Entraide, Annonces, Initiatives"

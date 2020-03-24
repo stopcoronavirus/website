@@ -1,4 +1,3 @@
-
 ---
 title: "43000 - LE PUY EN VELAY | Entraide, Annonces, Initiatives"
 description: "43000 - LE PUY EN VELAY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "68720 - HOCHSTATT | Entraide, Annonces, Initiatives"
 description: "68720 - HOCHSTATT | Entraide, Annonces, Initiatives"

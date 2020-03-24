@@ -1,4 +1,3 @@
-
 ---
 title: "39110 - CHAUX CHAMPAGNY | Entraide, Annonces, Initiatives"
 description: "39110 - CHAUX CHAMPAGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "35470 - BAIN DE BRETAGNE | Entraide, Annonces, Initiatives"
 description: "35470 - BAIN DE BRETAGNE | Entraide, Annonces, Initiatives"

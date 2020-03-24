@@ -1,4 +1,3 @@
-
 ---
 title: "89420 - BIERRY LES BELLES FONTAINES | Entraide, Annonces, Initiatives"
 description: "89420 - BIERRY LES BELLES FONTAINES | Entraide, Annonces, Initiatives"

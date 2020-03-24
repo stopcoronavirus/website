@@ -1,4 +1,3 @@
-
 ---
 title: "50370 - VERNIX | Entraide, Annonces, Initiatives"
 description: "50370 - VERNIX | Entraide, Annonces, Initiatives"

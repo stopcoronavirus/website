@@ -1,4 +1,3 @@
-
 ---
 title: "59980 - BERTRY | Entraide, Annonces, Initiatives"
 description: "59980 - BERTRY | Entraide, Annonces, Initiatives"

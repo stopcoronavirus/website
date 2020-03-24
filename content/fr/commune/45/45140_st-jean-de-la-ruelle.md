@@ -1,4 +1,3 @@
-
 ---
 title: "45140 - ST JEAN DE LA RUELLE | Entraide, Annonces, Initiatives"
 description: "45140 - ST JEAN DE LA RUELLE | Entraide, Annonces, Initiatives"

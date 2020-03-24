@@ -1,4 +1,3 @@
-
 ---
 title: "42130 - BOEN SUR LIGNON | Entraide, Annonces, Initiatives"
 description: "42130 - BOEN SUR LIGNON | Entraide, Annonces, Initiatives"

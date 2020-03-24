@@ -1,4 +1,3 @@
-
 ---
 title: "77230 - VINANTES | Entraide, Annonces, Initiatives"
 description: "77230 - VINANTES | Entraide, Annonces, Initiatives"

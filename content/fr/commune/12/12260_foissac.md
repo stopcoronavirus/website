@@ -1,4 +1,3 @@
-
 ---
 title: "12260 - FOISSAC | Entraide, Annonces, Initiatives"
 description: "12260 - FOISSAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "07340 - SERRIERES | Entraide, Annonces, Initiatives"
 description: "07340 - SERRIERES | Entraide, Annonces, Initiatives"

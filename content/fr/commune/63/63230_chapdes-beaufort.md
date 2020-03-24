@@ -1,4 +1,3 @@
-
 ---
 title: "63230 - CHAPDES BEAUFORT | Entraide, Annonces, Initiatives"
 description: "63230 - CHAPDES BEAUFORT | Entraide, Annonces, Initiatives"

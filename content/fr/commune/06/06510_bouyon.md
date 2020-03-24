@@ -1,4 +1,3 @@
-
 ---
 title: "06510 - BOUYON | Entraide, Annonces, Initiatives"
 description: "06510 - BOUYON | Entraide, Annonces, Initiatives"

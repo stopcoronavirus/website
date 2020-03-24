@@ -1,4 +1,3 @@
-
 ---
 title: "02540 - VENDIERES | Entraide, Annonces, Initiatives"
 description: "02540 - VENDIERES | Entraide, Annonces, Initiatives"

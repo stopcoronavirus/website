@@ -1,4 +1,3 @@
-
 ---
 title: "21170 - MAGNY LES AUBIGNY | Entraide, Annonces, Initiatives"
 description: "21170 - MAGNY LES AUBIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "42120 - LE COTEAU | Entraide, Annonces, Initiatives"
 description: "42120 - LE COTEAU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "44260 - LA CHAPELLE LAUNAY | Entraide, Annonces, Initiatives"
 description: "44260 - LA CHAPELLE LAUNAY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "06240 - BEAUSOLEIL | Entraide, Annonces, Initiatives"
 description: "06240 - BEAUSOLEIL | Entraide, Annonces, Initiatives"

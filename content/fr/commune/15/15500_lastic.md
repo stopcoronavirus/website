@@ -1,4 +1,3 @@
-
 ---
 title: "15500 - LASTIC | Entraide, Annonces, Initiatives"
 description: "15500 - LASTIC | Entraide, Annonces, Initiatives"

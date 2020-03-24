@@ -1,4 +1,3 @@
-
 ---
 title: "45520 - CERCOTTES | Entraide, Annonces, Initiatives"
 description: "45520 - CERCOTTES | Entraide, Annonces, Initiatives"

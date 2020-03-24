@@ -1,4 +1,3 @@
-
 ---
 title: "68740 - RUMERSHEIM LE HAUT | Entraide, Annonces, Initiatives"
 description: "68740 - RUMERSHEIM LE HAUT | Entraide, Annonces, Initiatives"

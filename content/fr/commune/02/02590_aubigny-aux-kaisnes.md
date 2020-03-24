@@ -1,4 +1,3 @@
-
 ---
 title: "02590 - AUBIGNY AUX KAISNES | Entraide, Annonces, Initiatives"
 description: "02590 - AUBIGNY AUX KAISNES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "07230 - FAUGERES | Entraide, Annonces, Initiatives"
 description: "07230 - FAUGERES | Entraide, Annonces, Initiatives"

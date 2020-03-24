@@ -1,4 +1,3 @@
-
 ---
 title: "71390 - MONTAGNY LES BUXY | Entraide, Annonces, Initiatives"
 description: "71390 - MONTAGNY LES BUXY | Entraide, Annonces, Initiatives"

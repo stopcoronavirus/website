@@ -1,4 +1,3 @@
-
 ---
 title: "42230 - ROCHE LA MOLIERE | Entraide, Annonces, Initiatives"
 description: "42230 - ROCHE LA MOLIERE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "77320 - BETON BAZOCHES | Entraide, Annonces, Initiatives"
 description: "77320 - BETON BAZOCHES | Entraide, Annonces, Initiatives"

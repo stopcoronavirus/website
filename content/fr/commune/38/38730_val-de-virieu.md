@@ -1,4 +1,3 @@
-
 ---
 title: "38730 - VAL DE VIRIEU | Entraide, Annonces, Initiatives"
 description: "38730 - VAL DE VIRIEU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "74150 - VERSONNEX | Entraide, Annonces, Initiatives"
 description: "74150 - VERSONNEX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "67330 - BOUXWILLER | Entraide, Annonces, Initiatives"
 description: "67330 - BOUXWILLER | Entraide, Annonces, Initiatives"

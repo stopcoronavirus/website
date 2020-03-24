@@ -1,4 +1,3 @@
-
 ---
 title: "02860 - VORGES | Entraide, Annonces, Initiatives"
 description: "02860 - VORGES | Entraide, Annonces, Initiatives"

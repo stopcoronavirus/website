@@ -1,4 +1,3 @@
-
 ---
 title: "60510 - VELENNES | Entraide, Annonces, Initiatives"
 description: "60510 - VELENNES | Entraide, Annonces, Initiatives"

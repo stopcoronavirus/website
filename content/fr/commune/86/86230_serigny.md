@@ -1,4 +1,3 @@
-
 ---
 title: "86230 - SERIGNY | Entraide, Annonces, Initiatives"
 description: "86230 - SERIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "74260 - LES GETS | Entraide, Annonces, Initiatives"
 description: "74260 - LES GETS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20244 - CARTICASI | Entraide, Annonces, Initiatives"
 description: "20244 - CARTICASI | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "42120 - ST VINCENT DE BOISSET | Entraide, Annonces, Initiatives"
 description: "42120 - ST VINCENT DE BOISSET | Entraide, Annonces, Initiatives"

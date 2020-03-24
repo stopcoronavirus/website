@@ -1,4 +1,3 @@
-
 ---
 title: "02130 - FRESNES EN TARDENOIS | Entraide, Annonces, Initiatives"
 description: "02130 - FRESNES EN TARDENOIS | Entraide, Annonces, Initiatives"

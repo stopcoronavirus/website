@@ -1,4 +1,3 @@
-
 ---
 title: "23270 - ROCHES | Entraide, Annonces, Initiatives"
 description: "23270 - ROCHES | Entraide, Annonces, Initiatives"

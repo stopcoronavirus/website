@@ -1,4 +1,3 @@
-
 ---
 title: "16700 - COURCOME | Entraide, Annonces, Initiatives"
 description: "16700 - COURCOME | Entraide, Annonces, Initiatives"

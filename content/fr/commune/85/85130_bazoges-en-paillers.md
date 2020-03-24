@@ -1,4 +1,3 @@
-
 ---
 title: "85130 - BAZOGES EN PAILLERS | Entraide, Annonces, Initiatives"
 description: "85130 - BAZOGES EN PAILLERS | Entraide, Annonces, Initiatives"

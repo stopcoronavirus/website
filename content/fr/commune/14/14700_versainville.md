@@ -1,4 +1,3 @@
-
 ---
 title: "14700 - VERSAINVILLE | Entraide, Annonces, Initiatives"
 description: "14700 - VERSAINVILLE | Entraide, Annonces, Initiatives"

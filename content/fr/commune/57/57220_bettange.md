@@ -1,4 +1,3 @@
-
 ---
 title: "57220 - BETTANGE | Entraide, Annonces, Initiatives"
 description: "57220 - BETTANGE | Entraide, Annonces, Initiatives"

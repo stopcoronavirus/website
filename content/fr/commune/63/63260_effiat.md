@@ -1,4 +1,3 @@
-
 ---
 title: "63260 - EFFIAT | Entraide, Annonces, Initiatives"
 description: "63260 - EFFIAT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "03270 - MARIOL | Entraide, Annonces, Initiatives"
 description: "03270 - MARIOL | Entraide, Annonces, Initiatives"

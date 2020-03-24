@@ -1,4 +1,3 @@
-
 ---
 title: "26170 - LE POET EN PERCIP | Entraide, Annonces, Initiatives"
 description: "26170 - LE POET EN PERCIP | Entraide, Annonces, Initiatives"

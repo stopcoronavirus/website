@@ -1,4 +1,3 @@
-
 ---
 title: "58230 - LAVAULT DE FRETOY | Entraide, Annonces, Initiatives"
 description: "58230 - LAVAULT DE FRETOY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "77450 - VIGNELY | Entraide, Annonces, Initiatives"
 description: "77450 - VIGNELY | Entraide, Annonces, Initiatives"

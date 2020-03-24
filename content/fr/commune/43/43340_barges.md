@@ -1,4 +1,3 @@
-
 ---
 title: "43340 - BARGES | Entraide, Annonces, Initiatives"
 description: "43340 - BARGES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "70130 - FERRIERES LES RAY | Entraide, Annonces, Initiatives"
 description: "70130 - FERRIERES LES RAY | Entraide, Annonces, Initiatives"

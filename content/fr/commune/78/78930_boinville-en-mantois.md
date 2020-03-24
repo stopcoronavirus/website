@@ -1,4 +1,3 @@
-
 ---
 title: "78930 - BOINVILLE EN MANTOIS | Entraide, Annonces, Initiatives"
 description: "78930 - BOINVILLE EN MANTOIS | Entraide, Annonces, Initiatives"

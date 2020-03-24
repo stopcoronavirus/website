@@ -1,4 +1,3 @@
-
 ---
 title: "71300 - ST BERAIN SOUS SANVIGNES | Entraide, Annonces, Initiatives"
 description: "71300 - ST BERAIN SOUS SANVIGNES | Entraide, Annonces, Initiatives"

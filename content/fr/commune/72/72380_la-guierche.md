@@ -1,4 +1,3 @@
-
 ---
 title: "72380 - LA GUIERCHE | Entraide, Annonces, Initiatives"
 description: "72380 - LA GUIERCHE | Entraide, Annonces, Initiatives"

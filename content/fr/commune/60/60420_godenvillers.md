@@ -1,4 +1,3 @@
-
 ---
 title: "60420 - GODENVILLERS | Entraide, Annonces, Initiatives"
 description: "60420 - GODENVILLERS | Entraide, Annonces, Initiatives"

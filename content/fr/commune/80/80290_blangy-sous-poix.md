@@ -1,4 +1,3 @@
-
 ---
 title: "80290 - BLANGY SOUS POIX | Entraide, Annonces, Initiatives"
 description: "80290 - BLANGY SOUS POIX | Entraide, Annonces, Initiatives"

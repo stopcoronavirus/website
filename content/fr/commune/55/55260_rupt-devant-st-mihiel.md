@@ -1,4 +1,3 @@
-
 ---
 title: "55260 - RUPT DEVANT ST MIHIEL | Entraide, Annonces, Initiatives"
 description: "55260 - RUPT DEVANT ST MIHIEL | Entraide, Annonces, Initiatives"

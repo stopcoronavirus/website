@@ -1,4 +1,3 @@
-
 ---
 title: "80470 - FERRIERES | Entraide, Annonces, Initiatives"
 description: "80470 - FERRIERES | Entraide, Annonces, Initiatives"

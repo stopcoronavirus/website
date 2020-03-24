@@ -1,4 +1,3 @@
-
 ---
 title: "18390 - ST MICHEL DE VOLANGIS | Entraide, Annonces, Initiatives"
 description: "18390 - ST MICHEL DE VOLANGIS | Entraide, Annonces, Initiatives"

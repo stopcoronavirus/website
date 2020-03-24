@@ -1,4 +1,3 @@
-
 ---
 title: "62360 - LA CAPELLE LES BOULOGNE | Entraide, Annonces, Initiatives"
 description: "62360 - LA CAPELLE LES BOULOGNE | Entraide, Annonces, Initiatives"

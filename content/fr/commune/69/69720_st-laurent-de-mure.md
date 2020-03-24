@@ -1,4 +1,3 @@
-
 ---
 title: "69720 - ST LAURENT DE MURE | Entraide, Annonces, Initiatives"
 description: "69720 - ST LAURENT DE MURE | Entraide, Annonces, Initiatives"

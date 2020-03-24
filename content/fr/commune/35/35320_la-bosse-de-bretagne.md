@@ -1,4 +1,3 @@
-
 ---
 title: "35320 - LA BOSSE DE BRETAGNE | Entraide, Annonces, Initiatives"
 description: "35320 - LA BOSSE DE BRETAGNE | Entraide, Annonces, Initiatives"

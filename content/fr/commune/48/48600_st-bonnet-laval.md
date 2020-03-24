@@ -1,4 +1,3 @@
-
 ---
 title: "48600 - ST BONNET LAVAL | Entraide, Annonces, Initiatives"
 description: "48600 - ST BONNET LAVAL | Entraide, Annonces, Initiatives"

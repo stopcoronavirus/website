@@ -1,4 +1,3 @@
-
 ---
 title: "59700 - MARCQ EN BAROEUL | Entraide, Annonces, Initiatives"
 description: "59700 - MARCQ EN BAROEUL | Entraide, Annonces, Initiatives"

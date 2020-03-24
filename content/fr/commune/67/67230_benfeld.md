@@ -1,4 +1,3 @@
-
 ---
 title: "67230 - BENFELD | Entraide, Annonces, Initiatives"
 description: "67230 - BENFELD | Entraide, Annonces, Initiatives"

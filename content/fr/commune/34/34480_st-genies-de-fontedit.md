@@ -1,4 +1,3 @@
-
 ---
 title: "34480 - ST GENIES DE FONTEDIT | Entraide, Annonces, Initiatives"
 description: "34480 - ST GENIES DE FONTEDIT | Entraide, Annonces, Initiatives"

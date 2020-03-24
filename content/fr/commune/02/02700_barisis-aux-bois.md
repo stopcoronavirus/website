@@ -1,4 +1,3 @@
-
 ---
 title: "02700 - BARISIS AUX BOIS | Entraide, Annonces, Initiatives"
 description: "02700 - BARISIS AUX BOIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "80700 - VERPILLIERES | Entraide, Annonces, Initiatives"
 description: "80700 - VERPILLIERES | Entraide, Annonces, Initiatives"

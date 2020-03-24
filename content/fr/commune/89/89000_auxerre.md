@@ -1,4 +1,3 @@
-
 ---
 title: "89000 - AUXERRE | Entraide, Annonces, Initiatives"
 description: "89000 - AUXERRE | Entraide, Annonces, Initiatives"

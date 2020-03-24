@@ -1,4 +1,3 @@
-
 ---
 title: "36230 - MERS SUR INDRE | Entraide, Annonces, Initiatives"
 description: "36230 - MERS SUR INDRE | Entraide, Annonces, Initiatives"

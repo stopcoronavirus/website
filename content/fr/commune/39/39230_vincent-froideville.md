@@ -1,4 +1,3 @@
-
 ---
 title: "39230 - VINCENT FROIDEVILLE | Entraide, Annonces, Initiatives"
 description: "39230 - VINCENT FROIDEVILLE | Entraide, Annonces, Initiatives"

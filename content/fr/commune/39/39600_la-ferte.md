@@ -1,4 +1,3 @@
-
 ---
 title: "39600 - LA FERTE | Entraide, Annonces, Initiatives"
 description: "39600 - LA FERTE | Entraide, Annonces, Initiatives"

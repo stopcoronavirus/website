@@ -1,4 +1,3 @@
-
 ---
 title: "52250 - BAISSEY | Entraide, Annonces, Initiatives"
 description: "52250 - BAISSEY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "03250 - LE MAYET DE MONTAGNE | Entraide, Annonces, Initiatives"
 description: "03250 - LE MAYET DE MONTAGNE | Entraide, Annonces, Initiatives"

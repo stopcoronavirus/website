@@ -1,4 +1,3 @@
-
 ---
 title: "64300 - BAIGTS DE BEARN | Entraide, Annonces, Initiatives"
 description: "64300 - BAIGTS DE BEARN | Entraide, Annonces, Initiatives"

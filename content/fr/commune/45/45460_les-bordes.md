@@ -1,4 +1,3 @@
-
 ---
 title: "45460 - LES BORDES | Entraide, Annonces, Initiatives"
 description: "45460 - LES BORDES | Entraide, Annonces, Initiatives"

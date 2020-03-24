@@ -1,4 +1,3 @@
-
 ---
 title: "71270 - FRETTERANS | Entraide, Annonces, Initiatives"
 description: "71270 - FRETTERANS | Entraide, Annonces, Initiatives"

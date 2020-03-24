@@ -1,4 +1,3 @@
-
 ---
 title: "41270 - LA CHAPELLE VICOMTESSE | Entraide, Annonces, Initiatives"
 description: "41270 - LA CHAPELLE VICOMTESSE | Entraide, Annonces, Initiatives"

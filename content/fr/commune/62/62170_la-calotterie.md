@@ -1,4 +1,3 @@
-
 ---
 title: "62170 - LA CALOTTERIE | Entraide, Annonces, Initiatives"
 description: "62170 - LA CALOTTERIE | Entraide, Annonces, Initiatives"

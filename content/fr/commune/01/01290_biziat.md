@@ -1,4 +1,3 @@
-
 ---
 title: "01290 - BIZIAT | Entraide, Annonces, Initiatives"
 description: "01290 - BIZIAT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "22600 - ST BARNABE | Entraide, Annonces, Initiatives"
 description: "22600 - ST BARNABE | Entraide, Annonces, Initiatives"

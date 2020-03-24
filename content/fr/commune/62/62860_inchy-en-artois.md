@@ -1,4 +1,3 @@
-
 ---
 title: "62860 - INCHY EN ARTOIS | Entraide, Annonces, Initiatives"
 description: "62860 - INCHY EN ARTOIS | Entraide, Annonces, Initiatives"

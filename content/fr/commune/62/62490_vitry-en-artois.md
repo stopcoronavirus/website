@@ -1,4 +1,3 @@
-
 ---
 title: "62490 - VITRY EN ARTOIS | Entraide, Annonces, Initiatives"
 description: "62490 - VITRY EN ARTOIS | Entraide, Annonces, Initiatives"

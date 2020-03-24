@@ -1,4 +1,3 @@
-
 ---
 title: "08430 - MONDIGNY | Entraide, Annonces, Initiatives"
 description: "08430 - MONDIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "62250 - BAZINGHEN | Entraide, Annonces, Initiatives"
 description: "62250 - BAZINGHEN | Entraide, Annonces, Initiatives"

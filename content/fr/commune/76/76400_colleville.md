@@ -1,4 +1,3 @@
-
 ---
 title: "76400 - COLLEVILLE | Entraide, Annonces, Initiatives"
 description: "76400 - COLLEVILLE | Entraide, Annonces, Initiatives"

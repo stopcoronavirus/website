@@ -1,4 +1,3 @@
-
 ---
 title: "60480 - FROISSY | Entraide, Annonces, Initiatives"
 description: "60480 - FROISSY | Entraide, Annonces, Initiatives"

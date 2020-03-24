@@ -1,4 +1,3 @@
-
 ---
 title: "27220 - CHAVIGNY BAILLEUL | Entraide, Annonces, Initiatives"
 description: "27220 - CHAVIGNY BAILLEUL | Entraide, Annonces, Initiatives"

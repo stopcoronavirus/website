@@ -1,4 +1,3 @@
-
 ---
 title: "72430 - ST JEAN DU BOIS | Entraide, Annonces, Initiatives"
 description: "72430 - ST JEAN DU BOIS | Entraide, Annonces, Initiatives"

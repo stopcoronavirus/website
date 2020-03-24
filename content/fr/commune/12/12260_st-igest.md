@@ -1,4 +1,3 @@
-
 ---
 title: "12260 - ST IGEST | Entraide, Annonces, Initiatives"
 description: "12260 - ST IGEST | Entraide, Annonces, Initiatives"

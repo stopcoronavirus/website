@@ -1,4 +1,3 @@
-
 ---
 title: "60240 - JOUY SOUS THELLE | Entraide, Annonces, Initiatives"
 description: "60240 - JOUY SOUS THELLE | Entraide, Annonces, Initiatives"

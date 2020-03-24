@@ -1,4 +1,3 @@
-
 ---
 title: "22500 - PAIMPOL | Entraide, Annonces, Initiatives"
 description: "22500 - PAIMPOL | Entraide, Annonces, Initiatives"

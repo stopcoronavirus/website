@@ -1,4 +1,3 @@
-
 ---
 title: "78870 - BAILLY | Entraide, Annonces, Initiatives"
 description: "78870 - BAILLY | Entraide, Annonces, Initiatives"

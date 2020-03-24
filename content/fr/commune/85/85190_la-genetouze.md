@@ -1,4 +1,3 @@
-
 ---
 title: "85190 - LA GENETOUZE | Entraide, Annonces, Initiatives"
 description: "85190 - LA GENETOUZE | Entraide, Annonces, Initiatives"

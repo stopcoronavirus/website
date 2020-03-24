@@ -1,4 +1,3 @@
-
 ---
 title: "47360 - LAUGNAC | Entraide, Annonces, Initiatives"
 description: "47360 - LAUGNAC | Entraide, Annonces, Initiatives"

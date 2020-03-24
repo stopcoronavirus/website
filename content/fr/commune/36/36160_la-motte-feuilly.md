@@ -1,4 +1,3 @@
-
 ---
 title: "36160 - LA MOTTE FEUILLY | Entraide, Annonces, Initiatives"
 description: "36160 - LA MOTTE FEUILLY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "72170 - LE TRONCHET | Entraide, Annonces, Initiatives"
 description: "72170 - LE TRONCHET | Entraide, Annonces, Initiatives"

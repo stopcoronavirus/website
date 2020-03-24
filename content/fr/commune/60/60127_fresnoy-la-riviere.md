@@ -1,4 +1,3 @@
-
 ---
 title: "60127 - FRESNOY LA RIVIERE | Entraide, Annonces, Initiatives"
 description: "60127 - FRESNOY LA RIVIERE | Entraide, Annonces, Initiatives"

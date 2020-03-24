@@ -1,4 +1,3 @@
-
 ---
 title: "20225 - CATERI | Entraide, Annonces, Initiatives"
 description: "20225 - CATERI | Entraide, Annonces, Initiatives"

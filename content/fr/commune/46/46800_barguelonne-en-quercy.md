@@ -1,4 +1,3 @@
-
 ---
 title: "46800 - BARGUELONNE EN QUERCY | Entraide, Annonces, Initiatives"
 description: "46800 - BARGUELONNE EN QUERCY | Entraide, Annonces, Initiatives"

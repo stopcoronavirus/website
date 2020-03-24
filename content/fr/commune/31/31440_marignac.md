@@ -1,4 +1,3 @@
-
 ---
 title: "31440 - MARIGNAC | Entraide, Annonces, Initiatives"
 description: "31440 - MARIGNAC | Entraide, Annonces, Initiatives"

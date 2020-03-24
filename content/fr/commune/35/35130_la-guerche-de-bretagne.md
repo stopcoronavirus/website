@@ -1,4 +1,3 @@
-
 ---
 title: "35130 - LA GUERCHE DE BRETAGNE | Entraide, Annonces, Initiatives"
 description: "35130 - LA GUERCHE DE BRETAGNE | Entraide, Annonces, Initiatives"

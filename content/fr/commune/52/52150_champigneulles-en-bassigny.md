@@ -1,4 +1,3 @@
-
 ---
 title: "52150 - CHAMPIGNEULLES EN BASSIGNY | Entraide, Annonces, Initiatives"
 description: "52150 - CHAMPIGNEULLES EN BASSIGNY | Entraide, Annonces, Initiatives"

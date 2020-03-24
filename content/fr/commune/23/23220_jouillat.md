@@ -1,4 +1,3 @@
-
 ---
 title: "23220 - JOUILLAT | Entraide, Annonces, Initiatives"
 description: "23220 - JOUILLAT | Entraide, Annonces, Initiatives"

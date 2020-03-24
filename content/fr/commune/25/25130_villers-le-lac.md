@@ -1,4 +1,3 @@
-
 ---
 title: "25130 - VILLERS LE LAC | Entraide, Annonces, Initiatives"
 description: "25130 - VILLERS LE LAC | Entraide, Annonces, Initiatives"

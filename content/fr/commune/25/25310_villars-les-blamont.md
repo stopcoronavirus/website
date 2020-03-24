@@ -1,4 +1,3 @@
-
 ---
 title: "25310 - VILLARS LES BLAMONT | Entraide, Annonces, Initiatives"
 description: "25310 - VILLARS LES BLAMONT | Entraide, Annonces, Initiatives"

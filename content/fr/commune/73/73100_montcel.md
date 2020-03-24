@@ -1,4 +1,3 @@
-
 ---
 title: "73100 - MONTCEL | Entraide, Annonces, Initiatives"
 description: "73100 - MONTCEL | Entraide, Annonces, Initiatives"

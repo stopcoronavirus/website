@@ -1,4 +1,3 @@
-
 ---
 title: "21450 - JOURS LES BAIGNEUX | Entraide, Annonces, Initiatives"
 description: "21450 - JOURS LES BAIGNEUX | Entraide, Annonces, Initiatives"

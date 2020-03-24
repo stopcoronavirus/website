@@ -1,4 +1,3 @@
-
 ---
 title: "70110 - MONTJUSTIN ET VELOTTE | Entraide, Annonces, Initiatives"
 description: "70110 - MONTJUSTIN ET VELOTTE | Entraide, Annonces, Initiatives"

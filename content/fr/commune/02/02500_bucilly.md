@@ -1,4 +1,3 @@
-
 ---
 title: "02500 - BUCILLY | Entraide, Annonces, Initiatives"
 description: "02500 - BUCILLY | Entraide, Annonces, Initiatives"

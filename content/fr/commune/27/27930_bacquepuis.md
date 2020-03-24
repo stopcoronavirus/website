@@ -1,4 +1,3 @@
-
 ---
 title: "27930 - BACQUEPUIS | Entraide, Annonces, Initiatives"
 description: "27930 - BACQUEPUIS | Entraide, Annonces, Initiatives"

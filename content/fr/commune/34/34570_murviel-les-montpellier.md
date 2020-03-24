@@ -1,4 +1,3 @@
-
 ---
 title: "34570 - MURVIEL LES MONTPELLIER | Entraide, Annonces, Initiatives"
 description: "34570 - MURVIEL LES MONTPELLIER | Entraide, Annonces, Initiatives"

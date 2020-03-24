@@ -1,4 +1,3 @@
-
 ---
 title: "37160 - DESCARTES | Entraide, Annonces, Initiatives"
 description: "37160 - DESCARTES | Entraide, Annonces, Initiatives"

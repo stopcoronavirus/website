@@ -1,4 +1,3 @@
-
 ---
 title: "37120 - COURCOUE | Entraide, Annonces, Initiatives"
 description: "37120 - COURCOUE | Entraide, Annonces, Initiatives"

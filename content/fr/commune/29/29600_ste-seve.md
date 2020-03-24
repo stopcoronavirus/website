@@ -1,4 +1,3 @@
-
 ---
 title: "29600 - STE SEVE | Entraide, Annonces, Initiatives"
 description: "29600 - STE SEVE | Entraide, Annonces, Initiatives"

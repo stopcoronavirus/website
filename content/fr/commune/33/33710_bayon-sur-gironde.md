@@ -1,4 +1,3 @@
-
 ---
 title: "33710 - BAYON SUR GIRONDE | Entraide, Annonces, Initiatives"
 description: "33710 - BAYON SUR GIRONDE | Entraide, Annonces, Initiatives"

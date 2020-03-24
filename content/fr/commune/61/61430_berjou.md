@@ -1,4 +1,3 @@
-
 ---
 title: "61430 - BERJOU | Entraide, Annonces, Initiatives"
 description: "61430 - BERJOU | Entraide, Annonces, Initiatives"

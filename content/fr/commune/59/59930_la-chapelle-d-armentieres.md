@@ -1,4 +1,3 @@
-
 ---
 title: "59930 - LA CHAPELLE D ARMENTIERES | Entraide, Annonces, Initiatives"
 description: "59930 - LA CHAPELLE D ARMENTIERES | Entraide, Annonces, Initiatives"

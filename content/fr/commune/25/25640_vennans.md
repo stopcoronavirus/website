@@ -1,4 +1,3 @@
-
 ---
 title: "25640 - VENNANS | Entraide, Annonces, Initiatives"
 description: "25640 - VENNANS | Entraide, Annonces, Initiatives"

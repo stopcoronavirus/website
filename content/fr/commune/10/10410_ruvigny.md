@@ -1,4 +1,3 @@
-
 ---
 title: "10410 - RUVIGNY | Entraide, Annonces, Initiatives"
 description: "10410 - RUVIGNY | Entraide, Annonces, Initiatives"

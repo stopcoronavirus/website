@@ -1,4 +1,3 @@
-
 ---
 title: "24440 - RAMPIEUX | Entraide, Annonces, Initiatives"
 description: "24440 - RAMPIEUX | Entraide, Annonces, Initiatives"

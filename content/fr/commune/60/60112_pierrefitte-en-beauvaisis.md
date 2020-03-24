@@ -1,4 +1,3 @@
-
 ---
 title: "60112 - PIERREFITTE EN BEAUVAISIS | Entraide, Annonces, Initiatives"
 description: "60112 - PIERREFITTE EN BEAUVAISIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71350 - LES BORDES | Entraide, Annonces, Initiatives"
 description: "71350 - LES BORDES | Entraide, Annonces, Initiatives"

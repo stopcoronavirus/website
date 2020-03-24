@@ -1,4 +1,3 @@
-
 ---
 title: "69270 - ST ROMAIN AU MONT D OR | Entraide, Annonces, Initiatives"
 description: "69270 - ST ROMAIN AU MONT D OR | Entraide, Annonces, Initiatives"

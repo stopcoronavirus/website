@@ -1,4 +1,3 @@
-
 ---
 title: "18120 - MASSAY | Entraide, Annonces, Initiatives"
 description: "18120 - MASSAY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "48000 - BADAROUX | Entraide, Annonces, Initiatives"
 description: "48000 - BADAROUX | Entraide, Annonces, Initiatives"

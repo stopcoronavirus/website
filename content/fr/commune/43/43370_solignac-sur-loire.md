@@ -1,4 +1,3 @@
-
 ---
 title: "43370 - SOLIGNAC SUR LOIRE | Entraide, Annonces, Initiatives"
 description: "43370 - SOLIGNAC SUR LOIRE | Entraide, Annonces, Initiatives"

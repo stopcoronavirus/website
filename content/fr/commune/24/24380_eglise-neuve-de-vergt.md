@@ -1,4 +1,3 @@
-
 ---
 title: "24380 - EGLISE NEUVE DE VERGT | Entraide, Annonces, Initiatives"
 description: "24380 - EGLISE NEUVE DE VERGT | Entraide, Annonces, Initiatives"

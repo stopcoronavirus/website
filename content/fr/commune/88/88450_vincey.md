@@ -1,4 +1,3 @@
-
 ---
 title: "88450 - VINCEY | Entraide, Annonces, Initiatives"
 description: "88450 - VINCEY | Entraide, Annonces, Initiatives"

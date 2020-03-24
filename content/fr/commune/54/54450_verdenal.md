@@ -1,4 +1,3 @@
-
 ---
 title: "54450 - VERDENAL | Entraide, Annonces, Initiatives"
 description: "54450 - VERDENAL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "36500 - LA CHAPELLE ORTHEMALE | Entraide, Annonces, Initiatives"
 description: "36500 - LA CHAPELLE ORTHEMALE | Entraide, Annonces, Initiatives"

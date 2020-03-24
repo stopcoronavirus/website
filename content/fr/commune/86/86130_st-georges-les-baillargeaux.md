@@ -1,4 +1,3 @@
-
 ---
 title: "86130 - ST GEORGES LES BAILLARGEAUX | Entraide, Annonces, Initiatives"
 description: "86130 - ST GEORGES LES BAILLARGEAUX | Entraide, Annonces, Initiatives"

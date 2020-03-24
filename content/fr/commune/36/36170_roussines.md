@@ -1,4 +1,3 @@
-
 ---
 title: "36170 - ROUSSINES | Entraide, Annonces, Initiatives"
 description: "36170 - ROUSSINES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "53240 - ST GERMAIN LE FOUILLOUX | Entraide, Annonces, Initiatives"
 description: "53240 - ST GERMAIN LE FOUILLOUX | Entraide, Annonces, Initiatives"

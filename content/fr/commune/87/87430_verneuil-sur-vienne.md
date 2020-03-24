@@ -1,4 +1,3 @@
-
 ---
 title: "87430 - VERNEUIL SUR VIENNE | Entraide, Annonces, Initiatives"
 description: "87430 - VERNEUIL SUR VIENNE | Entraide, Annonces, Initiatives"

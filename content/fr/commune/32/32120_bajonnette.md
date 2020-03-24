@@ -1,4 +1,3 @@
-
 ---
 title: "32120 - BAJONNETTE | Entraide, Annonces, Initiatives"
 description: "32120 - BAJONNETTE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "34500 - BEZIERS | Entraide, Annonces, Initiatives"
 description: "34500 - BEZIERS | Entraide, Annonces, Initiatives"

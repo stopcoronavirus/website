@@ -1,4 +1,3 @@
-
 ---
 title: "43100 - BEAUMONT | Entraide, Annonces, Initiatives"
 description: "43100 - BEAUMONT | Entraide, Annonces, Initiatives"

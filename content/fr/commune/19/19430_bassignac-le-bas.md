@@ -1,4 +1,3 @@
-
 ---
 title: "19430 - BASSIGNAC LE BAS | Entraide, Annonces, Initiatives"
 description: "19430 - BASSIGNAC LE BAS | Entraide, Annonces, Initiatives"

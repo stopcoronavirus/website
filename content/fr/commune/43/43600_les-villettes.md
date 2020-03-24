@@ -1,4 +1,3 @@
-
 ---
 title: "43600 - LES VILLETTES | Entraide, Annonces, Initiatives"
 description: "43600 - LES VILLETTES | Entraide, Annonces, Initiatives"

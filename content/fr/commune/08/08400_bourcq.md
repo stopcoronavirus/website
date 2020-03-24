@@ -1,4 +1,3 @@
-
 ---
 title: "08400 - BOURCQ | Entraide, Annonces, Initiatives"
 description: "08400 - BOURCQ | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "25210 - LE BIZOT | Entraide, Annonces, Initiatives"
 description: "25210 - LE BIZOT | Entraide, Annonces, Initiatives"

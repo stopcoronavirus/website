@@ -1,4 +1,3 @@
-
 ---
 title: "07690 - VILLEVOCANCE | Entraide, Annonces, Initiatives"
 description: "07690 - VILLEVOCANCE | Entraide, Annonces, Initiatives"

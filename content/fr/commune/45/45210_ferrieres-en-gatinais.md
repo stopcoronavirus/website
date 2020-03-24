@@ -1,4 +1,3 @@
-
 ---
 title: "45210 - FERRIERES EN GATINAIS | Entraide, Annonces, Initiatives"
 description: "45210 - FERRIERES EN GATINAIS | Entraide, Annonces, Initiatives"

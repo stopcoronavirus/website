@@ -1,4 +1,3 @@
-
 ---
 title: "60240 - COURCELLES LES GISORS | Entraide, Annonces, Initiatives"
 description: "60240 - COURCELLES LES GISORS | Entraide, Annonces, Initiatives"

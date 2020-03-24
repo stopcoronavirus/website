@@ -1,4 +1,3 @@
-
 ---
 title: "41330 - CHAMPIGNY EN BEAUCE | Entraide, Annonces, Initiatives"
 description: "41330 - CHAMPIGNY EN BEAUCE | Entraide, Annonces, Initiatives"

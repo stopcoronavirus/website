@@ -1,4 +1,3 @@
-
 ---
 title: "68580 - FRIESEN | Entraide, Annonces, Initiatives"
 description: "68580 - FRIESEN | Entraide, Annonces, Initiatives"

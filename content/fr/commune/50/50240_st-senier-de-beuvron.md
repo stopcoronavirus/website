@@ -1,4 +1,3 @@
-
 ---
 title: "50240 - ST SENIER DE BEUVRON | Entraide, Annonces, Initiatives"
 description: "50240 - ST SENIER DE BEUVRON | Entraide, Annonces, Initiatives"

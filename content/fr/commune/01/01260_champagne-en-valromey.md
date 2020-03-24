@@ -1,4 +1,3 @@
-
 ---
 title: "01260 - CHAMPAGNE EN VALROMEY | Entraide, Annonces, Initiatives"
 description: "01260 - CHAMPAGNE EN VALROMEY | Entraide, Annonces, Initiatives"

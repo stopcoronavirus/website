@@ -1,4 +1,3 @@
-
 ---
 title: "45220 - ST FIRMIN DES BOIS | Entraide, Annonces, Initiatives"
 description: "45220 - ST FIRMIN DES BOIS | Entraide, Annonces, Initiatives"

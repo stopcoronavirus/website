@@ -1,4 +1,3 @@
-
 ---
 title: "62770 - BLANGY SUR TERNOISE | Entraide, Annonces, Initiatives"
 description: "62770 - BLANGY SUR TERNOISE | Entraide, Annonces, Initiatives"

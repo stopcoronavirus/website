@@ -1,4 +1,3 @@
-
 ---
 title: "52600 - COHONS | Entraide, Annonces, Initiatives"
 description: "52600 - COHONS | Entraide, Annonces, Initiatives"

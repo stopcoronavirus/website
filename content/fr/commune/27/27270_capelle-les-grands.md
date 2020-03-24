@@ -1,4 +1,3 @@
-
 ---
 title: "27270 - CAPELLE LES GRANDS | Entraide, Annonces, Initiatives"
 description: "27270 - CAPELLE LES GRANDS | Entraide, Annonces, Initiatives"

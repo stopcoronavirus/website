@@ -1,4 +1,3 @@
-
 ---
 title: "47310 - SERIGNAC SUR GARONNE | Entraide, Annonces, Initiatives"
 description: "47310 - SERIGNAC SUR GARONNE | Entraide, Annonces, Initiatives"

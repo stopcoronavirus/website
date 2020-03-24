@@ -1,4 +1,3 @@
-
 ---
 title: "31660 - BESSIERES | Entraide, Annonces, Initiatives"
 description: "31660 - BESSIERES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "36130 - COINGS | Entraide, Annonces, Initiatives"
 description: "36130 - COINGS | Entraide, Annonces, Initiatives"

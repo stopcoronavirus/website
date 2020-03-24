@@ -1,4 +1,3 @@
-
 ---
 title: "69430 - MARCHAMPT | Entraide, Annonces, Initiatives"
 description: "69430 - MARCHAMPT | Entraide, Annonces, Initiatives"

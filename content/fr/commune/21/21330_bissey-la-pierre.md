@@ -1,4 +1,3 @@
-
 ---
 title: "21330 - BISSEY LA PIERRE | Entraide, Annonces, Initiatives"
 description: "21330 - BISSEY LA PIERRE | Entraide, Annonces, Initiatives"

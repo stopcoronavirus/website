@@ -1,4 +1,3 @@
-
 ---
 title: "12300 - BOUILLAC | Entraide, Annonces, Initiatives"
 description: "12300 - BOUILLAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "62980 - VERMELLES | Entraide, Annonces, Initiatives"
 description: "62980 - VERMELLES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "74200 - MARGENCEL | Entraide, Annonces, Initiatives"
 description: "74200 - MARGENCEL | Entraide, Annonces, Initiatives"

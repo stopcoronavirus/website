@@ -1,4 +1,3 @@
-
 ---
 title: "02000 - MONS EN LAONNOIS | Entraide, Annonces, Initiatives"
 description: "02000 - MONS EN LAONNOIS | Entraide, Annonces, Initiatives"

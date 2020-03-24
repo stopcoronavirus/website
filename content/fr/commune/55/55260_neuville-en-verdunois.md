@@ -1,4 +1,3 @@
-
 ---
 title: "55260 - NEUVILLE EN VERDUNOIS | Entraide, Annonces, Initiatives"
 description: "55260 - NEUVILLE EN VERDUNOIS | Entraide, Annonces, Initiatives"

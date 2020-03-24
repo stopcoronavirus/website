@@ -1,4 +1,3 @@
-
 ---
 title: "79600 - MARNES | Entraide, Annonces, Initiatives"
 description: "79600 - MARNES | Entraide, Annonces, Initiatives"

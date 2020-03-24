@@ -1,4 +1,3 @@
-
 ---
 title: "17330 - VERGNE | Entraide, Annonces, Initiatives"
 description: "17330 - VERGNE | Entraide, Annonces, Initiatives"

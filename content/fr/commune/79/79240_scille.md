@@ -1,4 +1,3 @@
-
 ---
 title: "79240 - SCILLE | Entraide, Annonces, Initiatives"
 description: "79240 - SCILLE | Entraide, Annonces, Initiatives"

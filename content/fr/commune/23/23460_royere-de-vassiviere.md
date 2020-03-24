@@ -1,4 +1,3 @@
-
 ---
 title: "23460 - ROYERE DE VASSIVIERE | Entraide, Annonces, Initiatives"
 description: "23460 - ROYERE DE VASSIVIERE | Entraide, Annonces, Initiatives"

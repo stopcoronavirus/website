@@ -1,4 +1,3 @@
-
 ---
 title: "06750 - SERANON | Entraide, Annonces, Initiatives"
 description: "06750 - SERANON | Entraide, Annonces, Initiatives"

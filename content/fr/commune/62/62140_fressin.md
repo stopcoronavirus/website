@@ -1,4 +1,3 @@
-
 ---
 title: "62140 - FRESSIN | Entraide, Annonces, Initiatives"
 description: "62140 - FRESSIN | Entraide, Annonces, Initiatives"

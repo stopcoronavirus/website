@@ -1,4 +1,3 @@
-
 ---
 title: "19170 - BUGEAT | Entraide, Annonces, Initiatives"
 description: "19170 - BUGEAT | Entraide, Annonces, Initiatives"

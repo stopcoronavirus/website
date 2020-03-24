@@ -1,4 +1,3 @@
-
 ---
 title: "02400 - ETREPILLY | Entraide, Annonces, Initiatives"
 description: "02400 - ETREPILLY | Entraide, Annonces, Initiatives"

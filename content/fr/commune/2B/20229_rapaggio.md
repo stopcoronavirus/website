@@ -1,4 +1,3 @@
-
 ---
 title: "20229 - RAPAGGIO | Entraide, Annonces, Initiatives"
 description: "20229 - RAPAGGIO | Entraide, Annonces, Initiatives"

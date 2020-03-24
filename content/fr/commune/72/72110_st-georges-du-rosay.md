@@ -1,4 +1,3 @@
-
 ---
 title: "72110 - ST GEORGES DU ROSAY | Entraide, Annonces, Initiatives"
 description: "72110 - ST GEORGES DU ROSAY | Entraide, Annonces, Initiatives"

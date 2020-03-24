@@ -1,4 +1,3 @@
-
 ---
 title: "44000 - NANTES | Entraide, Annonces, Initiatives"
 description: "44000 - NANTES | Entraide, Annonces, Initiatives"

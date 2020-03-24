@@ -1,4 +1,3 @@
-
 ---
 title: "17170 - COURCON | Entraide, Annonces, Initiatives"
 description: "17170 - COURCON | Entraide, Annonces, Initiatives"

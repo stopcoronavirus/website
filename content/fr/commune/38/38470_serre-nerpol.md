@@ -1,4 +1,3 @@
-
 ---
 title: "38470 - SERRE NERPOL | Entraide, Annonces, Initiatives"
 description: "38470 - SERRE NERPOL | Entraide, Annonces, Initiatives"

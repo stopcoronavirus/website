@@ -1,4 +1,3 @@
-
 ---
 title: "26340 - VERCHENY | Entraide, Annonces, Initiatives"
 description: "26340 - VERCHENY | Entraide, Annonces, Initiatives"

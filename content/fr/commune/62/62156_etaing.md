@@ -1,4 +1,3 @@
-
 ---
 title: "62156 - ETAING | Entraide, Annonces, Initiatives"
 description: "62156 - ETAING | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "42600 - MAGNEUX HAUTE RIVE | Entraide, Annonces, Initiatives"
 description: "42600 - MAGNEUX HAUTE RIVE | Entraide, Annonces, Initiatives"

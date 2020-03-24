@@ -1,4 +1,3 @@
-
 ---
 title: "52190 - CHASSIGNY | Entraide, Annonces, Initiatives"
 description: "52190 - CHASSIGNY | Entraide, Annonces, Initiatives"

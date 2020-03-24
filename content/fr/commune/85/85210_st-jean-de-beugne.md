@@ -1,4 +1,3 @@
-
 ---
 title: "85210 - ST JEAN DE BEUGNE | Entraide, Annonces, Initiatives"
 description: "85210 - ST JEAN DE BEUGNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "17130 - COURPIGNAC | Entraide, Annonces, Initiatives"
 description: "17130 - COURPIGNAC | Entraide, Annonces, Initiatives"

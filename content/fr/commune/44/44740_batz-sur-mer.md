@@ -1,4 +1,3 @@
-
 ---
 title: "44740 - BATZ SUR MER | Entraide, Annonces, Initiatives"
 description: "44740 - BATZ SUR MER | Entraide, Annonces, Initiatives"

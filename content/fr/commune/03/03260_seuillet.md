@@ -1,4 +1,3 @@
-
 ---
 title: "03260 - SEUILLET | Entraide, Annonces, Initiatives"
 description: "03260 - SEUILLET | Entraide, Annonces, Initiatives"

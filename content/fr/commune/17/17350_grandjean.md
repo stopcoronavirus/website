@@ -1,4 +1,3 @@
-
 ---
 title: "17350 - GRANDJEAN | Entraide, Annonces, Initiatives"
 description: "17350 - GRANDJEAN | Entraide, Annonces, Initiatives"

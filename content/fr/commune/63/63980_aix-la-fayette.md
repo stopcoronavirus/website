@@ -1,4 +1,3 @@
-
 ---
 title: "63980 - AIX LA FAYETTE | Entraide, Annonces, Initiatives"
 description: "63980 - AIX LA FAYETTE | Entraide, Annonces, Initiatives"

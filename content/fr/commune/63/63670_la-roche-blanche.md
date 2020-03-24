@@ -1,4 +1,3 @@
-
 ---
 title: "63670 - LA ROCHE BLANCHE | Entraide, Annonces, Initiatives"
 description: "63670 - LA ROCHE BLANCHE | Entraide, Annonces, Initiatives"

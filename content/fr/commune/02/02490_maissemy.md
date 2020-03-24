@@ -1,4 +1,3 @@
-
 ---
 title: "02490 - MAISSEMY | Entraide, Annonces, Initiatives"
 description: "02490 - MAISSEMY | Entraide, Annonces, Initiatives"

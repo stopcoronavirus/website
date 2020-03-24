@@ -1,4 +1,3 @@
-
 ---
 title: "10400 - MARNAY SUR SEINE | Entraide, Annonces, Initiatives"
 description: "10400 - MARNAY SUR SEINE | Entraide, Annonces, Initiatives"

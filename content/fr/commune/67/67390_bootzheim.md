@@ -1,4 +1,3 @@
-
 ---
 title: "67390 - BOOTZHEIM | Entraide, Annonces, Initiatives"
 description: "67390 - BOOTZHEIM | Entraide, Annonces, Initiatives"

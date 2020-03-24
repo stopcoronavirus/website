@@ -1,4 +1,3 @@
-
 ---
 title: "54210 - MANONCOURT EN VERMOIS | Entraide, Annonces, Initiatives"
 description: "54210 - MANONCOURT EN VERMOIS | Entraide, Annonces, Initiatives"

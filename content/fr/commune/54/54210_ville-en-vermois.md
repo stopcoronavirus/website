@@ -1,4 +1,3 @@
-
 ---
 title: "54210 - VILLE EN VERMOIS | Entraide, Annonces, Initiatives"
 description: "54210 - VILLE EN VERMOIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "71350 - CHARNAY LES CHALON | Entraide, Annonces, Initiatives"
 description: "71350 - CHARNAY LES CHALON | Entraide, Annonces, Initiatives"

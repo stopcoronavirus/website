@@ -1,4 +1,3 @@
-
 ---
 title: "03400 - GENNETINES | Entraide, Annonces, Initiatives"
 description: "03400 - GENNETINES | Entraide, Annonces, Initiatives"

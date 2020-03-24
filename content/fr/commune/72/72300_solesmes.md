@@ -1,4 +1,3 @@
-
 ---
 title: "72300 - SOLESMES | Entraide, Annonces, Initiatives"
 description: "72300 - SOLESMES | Entraide, Annonces, Initiatives"

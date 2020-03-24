@@ -1,4 +1,3 @@
-
 ---
 title: "70360 - BUCEY LES TRAVES | Entraide, Annonces, Initiatives"
 description: "70360 - BUCEY LES TRAVES | Entraide, Annonces, Initiatives"

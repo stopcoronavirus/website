@@ -1,4 +1,3 @@
-
 ---
 title: "29310 - QUERRIEN | Entraide, Annonces, Initiatives"
 description: "29310 - QUERRIEN | Entraide, Annonces, Initiatives"

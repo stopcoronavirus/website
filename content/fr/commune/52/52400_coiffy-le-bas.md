@@ -1,4 +1,3 @@
-
 ---
 title: "52400 - COIFFY LE BAS | Entraide, Annonces, Initiatives"
 description: "52400 - COIFFY LE BAS | Entraide, Annonces, Initiatives"

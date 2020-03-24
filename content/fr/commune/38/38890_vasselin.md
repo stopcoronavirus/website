@@ -1,4 +1,3 @@
-
 ---
 title: "38890 - VASSELIN | Entraide, Annonces, Initiatives"
 description: "38890 - VASSELIN | Entraide, Annonces, Initiatives"

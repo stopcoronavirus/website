@@ -1,4 +1,3 @@
-
 ---
 title: "61130 - ST FULGENT DES ORMES | Entraide, Annonces, Initiatives"
 description: "61130 - ST FULGENT DES ORMES | Entraide, Annonces, Initiatives"

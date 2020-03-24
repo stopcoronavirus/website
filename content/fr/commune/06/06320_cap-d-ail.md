@@ -1,4 +1,3 @@
-
 ---
 title: "06320 - CAP D AIL | Entraide, Annonces, Initiatives"
 description: "06320 - CAP D AIL | Entraide, Annonces, Initiatives"

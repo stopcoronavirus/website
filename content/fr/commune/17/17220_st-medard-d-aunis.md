@@ -1,4 +1,3 @@
-
 ---
 title: "17220 - ST MEDARD D AUNIS | Entraide, Annonces, Initiatives"
 description: "17220 - ST MEDARD D AUNIS | Entraide, Annonces, Initiatives"

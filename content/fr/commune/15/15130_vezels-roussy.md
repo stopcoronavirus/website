@@ -1,4 +1,3 @@
-
 ---
 title: "15130 - VEZELS ROUSSY | Entraide, Annonces, Initiatives"
 description: "15130 - VEZELS ROUSSY | Entraide, Annonces, Initiatives"

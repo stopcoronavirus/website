@@ -1,4 +1,3 @@
-
 ---
 title: "35131 - CHARTRES DE BRETAGNE | Entraide, Annonces, Initiatives"
 description: "35131 - CHARTRES DE BRETAGNE | Entraide, Annonces, Initiatives"

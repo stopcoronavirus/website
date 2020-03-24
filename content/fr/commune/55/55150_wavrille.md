@@ -1,4 +1,3 @@
-
 ---
 title: "55150 - WAVRILLE | Entraide, Annonces, Initiatives"
 description: "55150 - WAVRILLE | Entraide, Annonces, Initiatives"

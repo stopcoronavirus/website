@@ -1,4 +1,3 @@
-
 ---
 title: "66820 - VERNET LES BAINS | Entraide, Annonces, Initiatives"
 description: "66820 - VERNET LES BAINS | Entraide, Annonces, Initiatives"

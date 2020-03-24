@@ -1,4 +1,3 @@
-
 ---
 title: "54550 - BAINVILLE SUR MADON | Entraide, Annonces, Initiatives"
 description: "54550 - BAINVILLE SUR MADON | Entraide, Annonces, Initiatives"

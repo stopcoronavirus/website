@@ -1,4 +1,3 @@
-
 ---
 title: "22230 - ILLIFAUT | Entraide, Annonces, Initiatives"
 description: "22230 - ILLIFAUT | Entraide, Annonces, Initiatives"

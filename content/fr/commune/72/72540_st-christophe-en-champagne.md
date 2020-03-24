@@ -1,4 +1,3 @@
-
 ---
 title: "72540 - ST CHRISTOPHE EN CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "72540 - ST CHRISTOPHE EN CHAMPAGNE | Entraide, Annonces, Initiatives"

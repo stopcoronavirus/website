@@ -1,4 +1,3 @@
-
 ---
 title: "77000 - LA ROCHETTE | Entraide, Annonces, Initiatives"
 description: "77000 - LA ROCHETTE | Entraide, Annonces, Initiatives"

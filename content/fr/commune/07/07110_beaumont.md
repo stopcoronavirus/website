@@ -1,4 +1,3 @@
-
 ---
 title: "07110 - BEAUMONT | Entraide, Annonces, Initiatives"
 description: "07110 - BEAUMONT | Entraide, Annonces, Initiatives"

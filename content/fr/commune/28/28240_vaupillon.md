@@ -1,4 +1,3 @@
-
 ---
 title: "28240 - VAUPILLON | Entraide, Annonces, Initiatives"
 description: "28240 - VAUPILLON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "76890 - BERTRIMONT | Entraide, Annonces, Initiatives"
 description: "76890 - BERTRIMONT | Entraide, Annonces, Initiatives"

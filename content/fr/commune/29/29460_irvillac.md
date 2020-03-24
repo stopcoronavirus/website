@@ -1,4 +1,3 @@
-
 ---
 title: "29460 - IRVILLAC | Entraide, Annonces, Initiatives"
 description: "29460 - IRVILLAC | Entraide, Annonces, Initiatives"

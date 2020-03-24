@@ -1,4 +1,3 @@
-
 ---
 title: "56130 - LA ROCHE BERNARD | Entraide, Annonces, Initiatives"
 description: "56130 - LA ROCHE BERNARD | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "37350 - LA GUERCHE | Entraide, Annonces, Initiatives"
 description: "37350 - LA GUERCHE | Entraide, Annonces, Initiatives"

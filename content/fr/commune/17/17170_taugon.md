@@ -1,4 +1,3 @@
-
 ---
 title: "17170 - TAUGON | Entraide, Annonces, Initiatives"
 description: "17170 - TAUGON | Entraide, Annonces, Initiatives"

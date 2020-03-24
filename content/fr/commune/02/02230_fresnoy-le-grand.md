@@ -1,4 +1,3 @@
-
 ---
 title: "02230 - FRESNOY LE GRAND | Entraide, Annonces, Initiatives"
 description: "02230 - FRESNOY LE GRAND | Entraide, Annonces, Initiatives"

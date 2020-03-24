@@ -1,4 +1,3 @@
-
 ---
 title: "44522 - LA ROCHE BLANCHE | Entraide, Annonces, Initiatives"
 description: "44522 - LA ROCHE BLANCHE | Entraide, Annonces, Initiatives"

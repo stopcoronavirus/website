@@ -1,4 +1,3 @@
-
 ---
 title: "10400 - TRAINEL | Entraide, Annonces, Initiatives"
 description: "10400 - TRAINEL | Entraide, Annonces, Initiatives"

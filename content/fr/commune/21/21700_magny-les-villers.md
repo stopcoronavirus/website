@@ -1,4 +1,3 @@
-
 ---
 title: "21700 - MAGNY LES VILLERS | Entraide, Annonces, Initiatives"
 description: "21700 - MAGNY LES VILLERS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "85120 - LA CHATAIGNERAIE | Entraide, Annonces, Initiatives"
 description: "85120 - LA CHATAIGNERAIE | Entraide, Annonces, Initiatives"

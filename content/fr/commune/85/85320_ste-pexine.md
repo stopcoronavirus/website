@@ -1,4 +1,3 @@
-
 ---
 title: "85320 - STE PEXINE | Entraide, Annonces, Initiatives"
 description: "85320 - STE PEXINE | Entraide, Annonces, Initiatives"

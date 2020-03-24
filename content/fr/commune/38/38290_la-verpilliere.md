@@ -1,4 +1,3 @@
-
 ---
 title: "38290 - LA VERPILLIERE | Entraide, Annonces, Initiatives"
 description: "38290 - LA VERPILLIERE | Entraide, Annonces, Initiatives"

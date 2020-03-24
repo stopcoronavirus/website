@@ -1,4 +1,3 @@
-
 ---
 title: "26150 - BARSAC | Entraide, Annonces, Initiatives"
 description: "26150 - BARSAC | Entraide, Annonces, Initiatives"

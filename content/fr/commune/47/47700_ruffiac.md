@@ -1,4 +1,3 @@
-
 ---
 title: "47700 - RUFFIAC | Entraide, Annonces, Initiatives"
 description: "47700 - RUFFIAC | Entraide, Annonces, Initiatives"

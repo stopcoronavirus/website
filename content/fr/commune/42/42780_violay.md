@@ -1,4 +1,3 @@
-
 ---
 title: "42780 - VIOLAY | Entraide, Annonces, Initiatives"
 description: "42780 - VIOLAY | Entraide, Annonces, Initiatives"

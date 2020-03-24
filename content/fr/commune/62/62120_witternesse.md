@@ -1,4 +1,3 @@
-
 ---
 title: "62120 - WITTERNESSE | Entraide, Annonces, Initiatives"
 description: "62120 - WITTERNESSE | Entraide, Annonces, Initiatives"

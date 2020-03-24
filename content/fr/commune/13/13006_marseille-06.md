@@ -1,4 +1,3 @@
-
 ---
 title: "13006 - MARSEILLE 06 | Entraide, Annonces, Initiatives"
 description: "13006 - MARSEILLE 06 | Entraide, Annonces, Initiatives"

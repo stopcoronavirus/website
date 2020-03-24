@@ -1,4 +1,3 @@
-
 ---
 title: "37120 - RICHELIEU | Entraide, Annonces, Initiatives"
 description: "37120 - RICHELIEU | Entraide, Annonces, Initiatives"

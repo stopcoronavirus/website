@@ -1,4 +1,3 @@
-
 ---
 title: "21140 - VIC DE CHASSENAY | Entraide, Annonces, Initiatives"
 description: "21140 - VIC DE CHASSENAY | Entraide, Annonces, Initiatives"

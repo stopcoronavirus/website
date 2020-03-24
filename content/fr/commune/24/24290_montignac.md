@@ -1,4 +1,3 @@
-
 ---
 title: "24290 - MONTIGNAC | Entraide, Annonces, Initiatives"
 description: "24290 - MONTIGNAC | Entraide, Annonces, Initiatives"

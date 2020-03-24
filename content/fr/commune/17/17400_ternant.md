@@ -1,4 +1,3 @@
-
 ---
 title: "17400 - TERNANT | Entraide, Annonces, Initiatives"
 description: "17400 - TERNANT | Entraide, Annonces, Initiatives"

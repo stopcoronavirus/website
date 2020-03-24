@@ -1,4 +1,3 @@
-
 ---
 title: "85110 - CHANTONNAY | Entraide, Annonces, Initiatives"
 description: "85110 - CHANTONNAY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "14650 - CARPIQUET | Entraide, Annonces, Initiatives"
 description: "14650 - CARPIQUET | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20290 - PENTA ACQUATELLA | Entraide, Annonces, Initiatives"
 description: "20290 - PENTA ACQUATELLA | Entraide, Annonces, Initiatives"

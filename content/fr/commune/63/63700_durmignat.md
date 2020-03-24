@@ -1,4 +1,3 @@
-
 ---
 title: "63700 - DURMIGNAT | Entraide, Annonces, Initiatives"
 description: "63700 - DURMIGNAT | Entraide, Annonces, Initiatives"

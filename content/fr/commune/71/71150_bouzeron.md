@@ -1,4 +1,3 @@
-
 ---
 title: "71150 - BOUZERON | Entraide, Annonces, Initiatives"
 description: "71150 - BOUZERON | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "70110 - BEVEUGE | Entraide, Annonces, Initiatives"
 description: "70110 - BEVEUGE | Entraide, Annonces, Initiatives"

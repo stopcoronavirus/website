@@ -1,4 +1,3 @@
-
 ---
 title: "74600 - ANNECY | Entraide, Annonces, Initiatives"
 description: "74600 - ANNECY | Entraide, Annonces, Initiatives"

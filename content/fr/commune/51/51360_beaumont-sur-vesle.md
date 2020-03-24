@@ -1,4 +1,3 @@
-
 ---
 title: "51360 - BEAUMONT SUR VESLE | Entraide, Annonces, Initiatives"
 description: "51360 - BEAUMONT SUR VESLE | Entraide, Annonces, Initiatives"

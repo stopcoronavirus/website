@@ -1,4 +1,3 @@
-
 ---
 title: "67470 - SCHAFFHOUSE PRES SELTZ | Entraide, Annonces, Initiatives"
 description: "67470 - SCHAFFHOUSE PRES SELTZ | Entraide, Annonces, Initiatives"

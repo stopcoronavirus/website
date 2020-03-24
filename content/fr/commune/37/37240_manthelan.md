@@ -1,4 +1,3 @@
-
 ---
 title: "37240 - MANTHELAN | Entraide, Annonces, Initiatives"
 description: "37240 - MANTHELAN | Entraide, Annonces, Initiatives"

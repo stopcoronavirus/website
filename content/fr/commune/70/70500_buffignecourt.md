@@ -1,4 +1,3 @@
-
 ---
 title: "70500 - BUFFIGNECOURT | Entraide, Annonces, Initiatives"
 description: "70500 - BUFFIGNECOURT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "25440 - LAVANS QUINGEY | Entraide, Annonces, Initiatives"
 description: "25440 - LAVANS QUINGEY | Entraide, Annonces, Initiatives"

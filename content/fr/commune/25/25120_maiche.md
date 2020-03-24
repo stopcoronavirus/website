@@ -1,4 +1,3 @@
-
 ---
 title: "25120 - MAICHE | Entraide, Annonces, Initiatives"
 description: "25120 - MAICHE | Entraide, Annonces, Initiatives"

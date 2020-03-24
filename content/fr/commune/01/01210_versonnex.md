@@ -1,4 +1,3 @@
-
 ---
 title: "01210 - VERSONNEX | Entraide, Annonces, Initiatives"
 description: "01210 - VERSONNEX | Entraide, Annonces, Initiatives"

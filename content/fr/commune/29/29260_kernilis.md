@@ -1,4 +1,3 @@
-
 ---
 title: "29260 - KERNILIS | Entraide, Annonces, Initiatives"
 description: "29260 - KERNILIS | Entraide, Annonces, Initiatives"

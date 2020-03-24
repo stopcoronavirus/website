@@ -1,4 +1,3 @@
-
 ---
 title: "51130 - VILLERS AUX BOIS | Entraide, Annonces, Initiatives"
 description: "51130 - VILLERS AUX BOIS | Entraide, Annonces, Initiatives"

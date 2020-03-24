@@ -1,4 +1,3 @@
-
 ---
 title: "02200 - BERZY LE SEC | Entraide, Annonces, Initiatives"
 description: "02200 - BERZY LE SEC | Entraide, Annonces, Initiatives"

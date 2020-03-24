@@ -1,4 +1,3 @@
-
 ---
 title: "66610 - VILLENEUVE LA RIVIERE | Entraide, Annonces, Initiatives"
 description: "66610 - VILLENEUVE LA RIVIERE | Entraide, Annonces, Initiatives"

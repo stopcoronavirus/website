@@ -1,4 +1,3 @@
-
 ---
 title: "72340 - MARCON | Entraide, Annonces, Initiatives"
 description: "72340 - MARCON | Entraide, Annonces, Initiatives"

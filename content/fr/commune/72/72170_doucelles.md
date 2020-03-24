@@ -1,4 +1,3 @@
-
 ---
 title: "72170 - DOUCELLES | Entraide, Annonces, Initiatives"
 description: "72170 - DOUCELLES | Entraide, Annonces, Initiatives"

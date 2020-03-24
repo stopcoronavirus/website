@@ -1,4 +1,3 @@
-
 ---
 title: "62159 - LAGNICOURT MARCEL | Entraide, Annonces, Initiatives"
 description: "62159 - LAGNICOURT MARCEL | Entraide, Annonces, Initiatives"

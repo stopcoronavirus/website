@@ -1,4 +1,3 @@
-
 ---
 title: "50800 - LA CHAPELLE CECELIN | Entraide, Annonces, Initiatives"
 description: "50800 - LA CHAPELLE CECELIN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "42380 - MERLE LEIGNEC | Entraide, Annonces, Initiatives"
 description: "42380 - MERLE LEIGNEC | Entraide, Annonces, Initiatives"

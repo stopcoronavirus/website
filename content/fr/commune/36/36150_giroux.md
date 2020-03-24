@@ -1,4 +1,3 @@
-
 ---
 title: "36150 - GIROUX | Entraide, Annonces, Initiatives"
 description: "36150 - GIROUX | Entraide, Annonces, Initiatives"

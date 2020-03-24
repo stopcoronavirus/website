@@ -1,4 +1,3 @@
-
 ---
 title: "87470 - PEYRAT LE CHATEAU | Entraide, Annonces, Initiatives"
 description: "87470 - PEYRAT LE CHATEAU | Entraide, Annonces, Initiatives"

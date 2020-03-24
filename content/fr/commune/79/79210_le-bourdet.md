@@ -1,4 +1,3 @@
-
 ---
 title: "79210 - LE BOURDET | Entraide, Annonces, Initiatives"
 description: "79210 - LE BOURDET | Entraide, Annonces, Initiatives"

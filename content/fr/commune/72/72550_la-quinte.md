@@ -1,4 +1,3 @@
-
 ---
 title: "72550 - LA QUINTE | Entraide, Annonces, Initiatives"
 description: "72550 - LA QUINTE | Entraide, Annonces, Initiatives"

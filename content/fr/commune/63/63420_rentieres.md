@@ -1,4 +1,3 @@
-
 ---
 title: "63420 - RENTIERES | Entraide, Annonces, Initiatives"
 description: "63420 - RENTIERES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "73660 - LA CHAPELLE | Entraide, Annonces, Initiatives"
 description: "73660 - LA CHAPELLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "52700 - ROCHEFORT SUR LA COTE | Entraide, Annonces, Initiatives"
 description: "52700 - ROCHEFORT SUR LA COTE | Entraide, Annonces, Initiatives"

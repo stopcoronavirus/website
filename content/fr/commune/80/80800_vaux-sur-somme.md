@@ -1,4 +1,3 @@
-
 ---
 title: "80800 - VAUX SUR SOMME | Entraide, Annonces, Initiatives"
 description: "80800 - VAUX SUR SOMME | Entraide, Annonces, Initiatives"

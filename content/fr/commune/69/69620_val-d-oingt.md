@@ -1,4 +1,3 @@
-
 ---
 title: "69620 - VAL D OINGT | Entraide, Annonces, Initiatives"
 description: "69620 - VAL D OINGT | Entraide, Annonces, Initiatives"

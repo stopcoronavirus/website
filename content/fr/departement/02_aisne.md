@@ -1,4 +1,3 @@
-
 ---
 title: "02 - Aisne"
 description: "02 - Aisne"

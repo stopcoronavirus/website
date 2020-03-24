@@ -1,4 +1,3 @@
-
 ---
 title: "46 - Lot"
 description: "46 - Lot"

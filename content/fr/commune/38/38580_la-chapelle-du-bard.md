@@ -1,4 +1,3 @@
-
 ---
 title: "38580 - LA CHAPELLE DU BARD | Entraide, Annonces, Initiatives"
 description: "38580 - LA CHAPELLE DU BARD | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "08390 - VERRIERES | Entraide, Annonces, Initiatives"
 description: "08390 - VERRIERES | Entraide, Annonces, Initiatives"

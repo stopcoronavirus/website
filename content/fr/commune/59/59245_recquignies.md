@@ -1,4 +1,3 @@
-
 ---
 title: "59245 - RECQUIGNIES | Entraide, Annonces, Initiatives"
 description: "59245 - RECQUIGNIES | Entraide, Annonces, Initiatives"

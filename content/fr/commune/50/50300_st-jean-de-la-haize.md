@@ -1,4 +1,3 @@
-
 ---
 title: "50300 - ST JEAN DE LA HAIZE | Entraide, Annonces, Initiatives"
 description: "50300 - ST JEAN DE LA HAIZE | Entraide, Annonces, Initiatives"

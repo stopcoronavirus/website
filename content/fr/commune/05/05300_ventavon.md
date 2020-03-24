@@ -1,4 +1,3 @@
-
 ---
 title: "05300 - VENTAVON | Entraide, Annonces, Initiatives"
 description: "05300 - VENTAVON | Entraide, Annonces, Initiatives"

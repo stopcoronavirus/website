@@ -1,4 +1,3 @@
-
 ---
 title: "61110 - VERRIERES | Entraide, Annonces, Initiatives"
 description: "61110 - VERRIERES | Entraide, Annonces, Initiatives"

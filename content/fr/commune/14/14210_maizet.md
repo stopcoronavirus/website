@@ -1,4 +1,3 @@
-
 ---
 title: "14210 - MAIZET | Entraide, Annonces, Initiatives"
 description: "14210 - MAIZET | Entraide, Annonces, Initiatives"

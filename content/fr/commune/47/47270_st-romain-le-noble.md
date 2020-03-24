@@ -1,4 +1,3 @@
-
 ---
 title: "47270 - ST ROMAIN LE NOBLE | Entraide, Annonces, Initiatives"
 description: "47270 - ST ROMAIN LE NOBLE | Entraide, Annonces, Initiatives"

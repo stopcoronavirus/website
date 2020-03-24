@@ -1,4 +1,3 @@
-
 ---
 title: "45270 - CHAPELON | Entraide, Annonces, Initiatives"
 description: "45270 - CHAPELON | Entraide, Annonces, Initiatives"

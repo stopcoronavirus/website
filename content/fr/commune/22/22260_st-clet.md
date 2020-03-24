@@ -1,4 +1,3 @@
-
 ---
 title: "22260 - ST CLET | Entraide, Annonces, Initiatives"
 description: "22260 - ST CLET | Entraide, Annonces, Initiatives"

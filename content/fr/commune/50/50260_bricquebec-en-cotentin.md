@@ -1,4 +1,3 @@
-
 ---
 title: "50260 - BRICQUEBEC EN COTENTIN | Entraide, Annonces, Initiatives"
 description: "50260 - BRICQUEBEC EN COTENTIN | Entraide, Annonces, Initiatives"

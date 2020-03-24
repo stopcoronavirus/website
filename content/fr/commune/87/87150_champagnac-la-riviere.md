@@ -1,4 +1,3 @@
-
 ---
 title: "87150 - CHAMPAGNAC LA RIVIERE | Entraide, Annonces, Initiatives"
 description: "87150 - CHAMPAGNAC LA RIVIERE | Entraide, Annonces, Initiatives"

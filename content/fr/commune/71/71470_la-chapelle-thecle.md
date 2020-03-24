@@ -1,4 +1,3 @@
-
 ---
 title: "71470 - LA CHAPELLE THECLE | Entraide, Annonces, Initiatives"
 description: "71470 - LA CHAPELLE THECLE | Entraide, Annonces, Initiatives"

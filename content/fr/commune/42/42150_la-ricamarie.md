@@ -1,4 +1,3 @@
-
 ---
 title: "42150 - LA RICAMARIE | Entraide, Annonces, Initiatives"
 description: "42150 - LA RICAMARIE | Entraide, Annonces, Initiatives"

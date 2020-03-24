@@ -1,4 +1,3 @@
-
 ---
 title: "88150 - VILLONCOURT | Entraide, Annonces, Initiatives"
 description: "88150 - VILLONCOURT | Entraide, Annonces, Initiatives"

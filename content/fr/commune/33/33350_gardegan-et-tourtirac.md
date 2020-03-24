@@ -1,4 +1,3 @@
-
 ---
 title: "33350 - GARDEGAN ET TOURTIRAC | Entraide, Annonces, Initiatives"
 description: "33350 - GARDEGAN ET TOURTIRAC | Entraide, Annonces, Initiatives"

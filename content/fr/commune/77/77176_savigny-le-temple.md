@@ -1,4 +1,3 @@
-
 ---
 title: "77176 - SAVIGNY LE TEMPLE | Entraide, Annonces, Initiatives"
 description: "77176 - SAVIGNY LE TEMPLE | Entraide, Annonces, Initiatives"

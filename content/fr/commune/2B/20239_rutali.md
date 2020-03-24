@@ -1,4 +1,3 @@
-
 ---
 title: "20239 - RUTALI | Entraide, Annonces, Initiatives"
 description: "20239 - RUTALI | Entraide, Annonces, Initiatives"

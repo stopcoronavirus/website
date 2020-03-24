@@ -1,4 +1,3 @@
-
 ---
 title: "30600 - VAUVERT | Entraide, Annonces, Initiatives"
 description: "30600 - VAUVERT | Entraide, Annonces, Initiatives"

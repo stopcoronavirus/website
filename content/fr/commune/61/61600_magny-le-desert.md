@@ -1,4 +1,3 @@
-
 ---
 title: "61600 - MAGNY LE DESERT | Entraide, Annonces, Initiatives"
 description: "61600 - MAGNY LE DESERT | Entraide, Annonces, Initiatives"

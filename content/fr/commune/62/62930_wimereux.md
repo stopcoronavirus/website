@@ -1,4 +1,3 @@
-
 ---
 title: "62930 - WIMEREUX | Entraide, Annonces, Initiatives"
 description: "62930 - WIMEREUX | Entraide, Annonces, Initiatives"

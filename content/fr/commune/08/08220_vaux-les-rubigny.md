@@ -1,4 +1,3 @@
-
 ---
 title: "08220 - VAUX LES RUBIGNY | Entraide, Annonces, Initiatives"
 description: "08220 - VAUX LES RUBIGNY | Entraide, Annonces, Initiatives"

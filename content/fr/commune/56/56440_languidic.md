@@ -1,4 +1,3 @@
-
 ---
 title: "56440 - LANGUIDIC | Entraide, Annonces, Initiatives"
 description: "56440 - LANGUIDIC | Entraide, Annonces, Initiatives"

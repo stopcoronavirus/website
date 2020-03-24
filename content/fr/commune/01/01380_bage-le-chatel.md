@@ -1,4 +1,3 @@
-
 ---
 title: "01380 - BAGE LE CHATEL | Entraide, Annonces, Initiatives"
 description: "01380 - BAGE LE CHATEL | Entraide, Annonces, Initiatives"

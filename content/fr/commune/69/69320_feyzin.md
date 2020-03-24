@@ -1,4 +1,3 @@
-
 ---
 title: "69320 - FEYZIN | Entraide, Annonces, Initiatives"
 description: "69320 - FEYZIN | Entraide, Annonces, Initiatives"

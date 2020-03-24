@@ -1,4 +1,3 @@
-
 ---
 title: "03420 - LA PETITE MARCHE | Entraide, Annonces, Initiatives"
 description: "03420 - LA PETITE MARCHE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "02160 - BOUFFIGNEREUX | Entraide, Annonces, Initiatives"
 description: "02160 - BOUFFIGNEREUX | Entraide, Annonces, Initiatives"

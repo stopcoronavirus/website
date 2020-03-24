@@ -1,4 +1,3 @@
-
 ---
 title: "79400 - NANTEUIL | Entraide, Annonces, Initiatives"
 description: "79400 - NANTEUIL | Entraide, Annonces, Initiatives"

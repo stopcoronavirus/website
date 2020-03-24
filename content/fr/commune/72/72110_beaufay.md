@@ -1,4 +1,3 @@
-
 ---
 title: "72110 - BEAUFAY | Entraide, Annonces, Initiatives"
 description: "72110 - BEAUFAY | Entraide, Annonces, Initiatives"

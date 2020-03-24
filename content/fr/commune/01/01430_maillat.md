@@ -1,4 +1,3 @@
-
 ---
 title: "01430 - MAILLAT | Entraide, Annonces, Initiatives"
 description: "01430 - MAILLAT | Entraide, Annonces, Initiatives"

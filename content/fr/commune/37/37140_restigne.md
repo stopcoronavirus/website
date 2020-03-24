@@ -1,4 +1,3 @@
-
 ---
 title: "37140 - RESTIGNE | Entraide, Annonces, Initiatives"
 description: "37140 - RESTIGNE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "30120 - LE VIGAN | Entraide, Annonces, Initiatives"
 description: "30120 - LE VIGAN | Entraide, Annonces, Initiatives"

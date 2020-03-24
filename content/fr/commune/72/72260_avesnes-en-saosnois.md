@@ -1,4 +1,3 @@
-
 ---
 title: "72260 - AVESNES EN SAOSNOIS | Entraide, Annonces, Initiatives"
 description: "72260 - AVESNES EN SAOSNOIS | Entraide, Annonces, Initiatives"

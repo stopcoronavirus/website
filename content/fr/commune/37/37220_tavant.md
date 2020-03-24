@@ -1,4 +1,3 @@
-
 ---
 title: "37220 - TAVANT | Entraide, Annonces, Initiatives"
 description: "37220 - TAVANT | Entraide, Annonces, Initiatives"

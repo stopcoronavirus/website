@@ -1,4 +1,3 @@
-
 ---
 title: "88150 - CAPAVENIR VOSGES | Entraide, Annonces, Initiatives"
 description: "88150 - CAPAVENIR VOSGES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "79310 - VERRUYES | Entraide, Annonces, Initiatives"
 description: "79310 - VERRUYES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "83500 - LA SEYNE SUR MER | Entraide, Annonces, Initiatives"
 description: "83500 - LA SEYNE SUR MER | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20230 - TAGLIO ISOLACCIO | Entraide, Annonces, Initiatives"
 description: "20230 - TAGLIO ISOLACCIO | Entraide, Annonces, Initiatives"

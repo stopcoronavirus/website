@@ -1,4 +1,3 @@
-
 ---
 title: "60170 - BAILLY | Entraide, Annonces, Initiatives"
 description: "60170 - BAILLY | Entraide, Annonces, Initiatives"

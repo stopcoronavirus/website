@@ -1,4 +1,3 @@
-
 ---
 title: "85240 - XANTON CHASSENON | Entraide, Annonces, Initiatives"
 description: "85240 - XANTON CHASSENON | Entraide, Annonces, Initiatives"

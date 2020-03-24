@@ -1,4 +1,3 @@
-
 ---
 title: "80200 - CLERY SUR SOMME | Entraide, Annonces, Initiatives"
 description: "80200 - CLERY SUR SOMME | Entraide, Annonces, Initiatives"

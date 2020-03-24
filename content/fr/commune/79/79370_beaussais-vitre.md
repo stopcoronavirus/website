@@ -1,4 +1,3 @@
-
 ---
 title: "79370 - BEAUSSAIS VITRE | Entraide, Annonces, Initiatives"
 description: "79370 - BEAUSSAIS VITRE | Entraide, Annonces, Initiatives"

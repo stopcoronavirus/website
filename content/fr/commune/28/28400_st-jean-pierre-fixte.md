@@ -1,4 +1,3 @@
-
 ---
 title: "28400 - ST JEAN PIERRE FIXTE | Entraide, Annonces, Initiatives"
 description: "28400 - ST JEAN PIERRE FIXTE | Entraide, Annonces, Initiatives"

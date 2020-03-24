@@ -1,4 +1,3 @@
-
 ---
 title: "21150 - HAUTEROCHE | Entraide, Annonces, Initiatives"
 description: "21150 - HAUTEROCHE | Entraide, Annonces, Initiatives"

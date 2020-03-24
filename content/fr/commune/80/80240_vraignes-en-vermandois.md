@@ -1,4 +1,3 @@
-
 ---
 title: "80240 - VRAIGNES EN VERMANDOIS | Entraide, Annonces, Initiatives"
 description: "80240 - VRAIGNES EN VERMANDOIS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "16350 - LE VIEUX CERIER | Entraide, Annonces, Initiatives"
 description: "16350 - LE VIEUX CERIER | Entraide, Annonces, Initiatives"

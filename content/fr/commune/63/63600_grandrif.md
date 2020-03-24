@@ -1,4 +1,3 @@
-
 ---
 title: "63600 - GRANDRIF | Entraide, Annonces, Initiatives"
 description: "63600 - GRANDRIF | Entraide, Annonces, Initiatives"

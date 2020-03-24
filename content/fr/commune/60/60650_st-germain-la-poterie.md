@@ -1,4 +1,3 @@
-
 ---
 title: "60650 - ST GERMAIN LA POTERIE | Entraide, Annonces, Initiatives"
 description: "60650 - ST GERMAIN LA POTERIE | Entraide, Annonces, Initiatives"

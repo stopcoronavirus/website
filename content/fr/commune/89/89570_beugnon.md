@@ -1,4 +1,3 @@
-
 ---
 title: "89570 - BEUGNON | Entraide, Annonces, Initiatives"
 description: "89570 - BEUGNON | Entraide, Annonces, Initiatives"

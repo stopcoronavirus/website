@@ -1,4 +1,3 @@
-
 ---
 title: "81600 - AUSSAC | Entraide, Annonces, Initiatives"
 description: "81600 - AUSSAC | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "54170 - BARISEY LA COTE | Entraide, Annonces, Initiatives"
 description: "54170 - BARISEY LA COTE | Entraide, Annonces, Initiatives"

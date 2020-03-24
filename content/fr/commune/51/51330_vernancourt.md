@@ -1,4 +1,3 @@
-
 ---
 title: "51330 - VERNANCOURT | Entraide, Annonces, Initiatives"
 description: "51330 - VERNANCOURT | Entraide, Annonces, Initiatives"

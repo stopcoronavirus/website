@@ -1,4 +1,3 @@
-
 ---
 title: "80160 - VELENNES | Entraide, Annonces, Initiatives"
 description: "80160 - VELENNES | Entraide, Annonces, Initiatives"

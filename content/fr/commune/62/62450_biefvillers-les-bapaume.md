@@ -1,4 +1,3 @@
-
 ---
 title: "62450 - BIEFVILLERS LES BAPAUME | Entraide, Annonces, Initiatives"
 description: "62450 - BIEFVILLERS LES BAPAUME | Entraide, Annonces, Initiatives"

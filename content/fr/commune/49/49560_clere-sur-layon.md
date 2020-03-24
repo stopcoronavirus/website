@@ -1,4 +1,3 @@
-
 ---
 title: "49560 - CLERE SUR LAYON | Entraide, Annonces, Initiatives"
 description: "49560 - CLERE SUR LAYON | Entraide, Annonces, Initiatives"

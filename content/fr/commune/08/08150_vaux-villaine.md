@@ -1,4 +1,3 @@
-
 ---
 title: "08150 - VAUX VILLAINE | Entraide, Annonces, Initiatives"
 description: "08150 - VAUX VILLAINE | Entraide, Annonces, Initiatives"

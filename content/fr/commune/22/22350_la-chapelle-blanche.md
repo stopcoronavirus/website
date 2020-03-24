@@ -1,4 +1,3 @@
-
 ---
 title: "22350 - LA CHAPELLE BLANCHE | Entraide, Annonces, Initiatives"
 description: "22350 - LA CHAPELLE BLANCHE | Entraide, Annonces, Initiatives"

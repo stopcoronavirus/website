@@ -1,4 +1,3 @@
-
 ---
 title: "61470 - LE BOSC RENOULT | Entraide, Annonces, Initiatives"
 description: "61470 - LE BOSC RENOULT | Entraide, Annonces, Initiatives"

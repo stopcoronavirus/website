@@ -1,4 +1,3 @@
-
 ---
 title: "63260 - ST GENES DU RETZ | Entraide, Annonces, Initiatives"
 description: "63260 - ST GENES DU RETZ | Entraide, Annonces, Initiatives"

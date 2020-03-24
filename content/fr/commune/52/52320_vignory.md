@@ -1,4 +1,3 @@
-
 ---
 title: "52320 - VIGNORY | Entraide, Annonces, Initiatives"
 description: "52320 - VIGNORY | Entraide, Annonces, Initiatives"

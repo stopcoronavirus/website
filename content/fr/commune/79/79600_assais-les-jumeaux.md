@@ -1,4 +1,3 @@
-
 ---
 title: "79600 - ASSAIS LES JUMEAUX | Entraide, Annonces, Initiatives"
 description: "79600 - ASSAIS LES JUMEAUX | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60220 - FORMERIE | Entraide, Annonces, Initiatives"
 description: "60220 - FORMERIE | Entraide, Annonces, Initiatives"

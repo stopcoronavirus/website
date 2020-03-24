@@ -1,4 +1,3 @@
-
 ---
 title: "76980 - VEULES LES ROSES | Entraide, Annonces, Initiatives"
 description: "76980 - VEULES LES ROSES | Entraide, Annonces, Initiatives"

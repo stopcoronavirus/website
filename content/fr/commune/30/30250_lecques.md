@@ -1,4 +1,3 @@
-
 ---
 title: "30250 - LECQUES | Entraide, Annonces, Initiatives"
 description: "30250 - LECQUES | Entraide, Annonces, Initiatives"

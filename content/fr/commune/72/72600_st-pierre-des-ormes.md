@@ -1,4 +1,3 @@
-
 ---
 title: "72600 - ST PIERRE DES ORMES | Entraide, Annonces, Initiatives"
 description: "72600 - ST PIERRE DES ORMES | Entraide, Annonces, Initiatives"

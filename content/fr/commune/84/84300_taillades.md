@@ -1,4 +1,3 @@
-
 ---
 title: "84300 - TAILLADES | Entraide, Annonces, Initiatives"
 description: "84300 - TAILLADES | Entraide, Annonces, Initiatives"

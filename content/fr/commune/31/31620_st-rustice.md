@@ -1,4 +1,3 @@
-
 ---
 title: "31620 - ST RUSTICE | Entraide, Annonces, Initiatives"
 description: "31620 - ST RUSTICE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "87620 - SEREILHAC | Entraide, Annonces, Initiatives"
 description: "87620 - SEREILHAC | Entraide, Annonces, Initiatives"

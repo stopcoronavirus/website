@@ -1,4 +1,3 @@
-
 ---
 title: "69560 - ST ROMAIN EN GAL | Entraide, Annonces, Initiatives"
 description: "69560 - ST ROMAIN EN GAL | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "54620 - BASLIEUX | Entraide, Annonces, Initiatives"
 description: "54620 - BASLIEUX | Entraide, Annonces, Initiatives"

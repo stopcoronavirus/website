@@ -1,4 +1,3 @@
-
 ---
 title: "62231 - COQUELLES | Entraide, Annonces, Initiatives"
 description: "62231 - COQUELLES | Entraide, Annonces, Initiatives"

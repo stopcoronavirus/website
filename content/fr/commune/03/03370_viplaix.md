@@ -1,4 +1,3 @@
-
 ---
 title: "03370 - VIPLAIX | Entraide, Annonces, Initiatives"
 description: "03370 - VIPLAIX | Entraide, Annonces, Initiatives"

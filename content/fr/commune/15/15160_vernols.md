@@ -1,4 +1,3 @@
-
 ---
 title: "15160 - VERNOLS | Entraide, Annonces, Initiatives"
 description: "15160 - VERNOLS | Entraide, Annonces, Initiatives"

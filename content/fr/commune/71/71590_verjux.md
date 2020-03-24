@@ -1,4 +1,3 @@
-
 ---
 title: "71590 - VERJUX | Entraide, Annonces, Initiatives"
 description: "71590 - VERJUX | Entraide, Annonces, Initiatives"

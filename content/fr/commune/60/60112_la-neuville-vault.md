@@ -1,4 +1,3 @@
-
 ---
 title: "60112 - LA NEUVILLE VAULT | Entraide, Annonces, Initiatives"
 description: "60112 - LA NEUVILLE VAULT | Entraide, Annonces, Initiatives"

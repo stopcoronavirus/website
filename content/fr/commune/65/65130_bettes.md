@@ -1,4 +1,3 @@
-
 ---
 title: "65130 - BETTES | Entraide, Annonces, Initiatives"
 description: "65130 - BETTES | Entraide, Annonces, Initiatives"

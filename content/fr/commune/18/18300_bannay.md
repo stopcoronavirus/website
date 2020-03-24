@@ -1,4 +1,3 @@
-
 ---
 title: "18300 - BANNAY | Entraide, Annonces, Initiatives"
 description: "18300 - BANNAY | Entraide, Annonces, Initiatives"

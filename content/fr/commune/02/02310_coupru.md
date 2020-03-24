@@ -1,4 +1,3 @@
-
 ---
 title: "02310 - COUPRU | Entraide, Annonces, Initiatives"
 description: "02310 - COUPRU | Entraide, Annonces, Initiatives"

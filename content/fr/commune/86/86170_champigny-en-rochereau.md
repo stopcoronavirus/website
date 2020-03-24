@@ -1,4 +1,3 @@
-
 ---
 title: "86170 - CHAMPIGNY EN ROCHEREAU | Entraide, Annonces, Initiatives"
 description: "86170 - CHAMPIGNY EN ROCHEREAU | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "07310 - LA ROCHETTE | Entraide, Annonces, Initiatives"
 description: "07310 - LA ROCHETTE | Entraide, Annonces, Initiatives"

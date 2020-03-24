@@ -1,4 +1,3 @@
-
 ---
 title: "71440 - VERISSEY | Entraide, Annonces, Initiatives"
 description: "71440 - VERISSEY | Entraide, Annonces, Initiatives"

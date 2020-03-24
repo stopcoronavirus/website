@@ -1,4 +1,3 @@
-
 ---
 title: "20141 - MARIGNANA | Entraide, Annonces, Initiatives"
 description: "20141 - MARIGNANA | Entraide, Annonces, Initiatives"

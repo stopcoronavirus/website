@@ -1,4 +1,3 @@
-
 ---
 title: "01340 - ATTIGNAT | Entraide, Annonces, Initiatives"
 description: "01340 - ATTIGNAT | Entraide, Annonces, Initiatives"

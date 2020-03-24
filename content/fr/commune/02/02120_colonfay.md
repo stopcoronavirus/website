@@ -1,4 +1,3 @@
-
 ---
 title: "02120 - COLONFAY | Entraide, Annonces, Initiatives"
 description: "02120 - COLONFAY | Entraide, Annonces, Initiatives"

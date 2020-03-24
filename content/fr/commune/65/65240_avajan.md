@@ -1,4 +1,3 @@
-
 ---
 title: "65240 - AVAJAN | Entraide, Annonces, Initiatives"
 description: "65240 - AVAJAN | Entraide, Annonces, Initiatives"

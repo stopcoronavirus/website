@@ -1,4 +1,3 @@
-
 ---
 title: "72130 - FRESNAY SUR SARTHE | Entraide, Annonces, Initiatives"
 description: "72130 - FRESNAY SUR SARTHE | Entraide, Annonces, Initiatives"

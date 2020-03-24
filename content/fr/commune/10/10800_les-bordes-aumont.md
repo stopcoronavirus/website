@@ -1,4 +1,3 @@
-
 ---
 title: "10800 - LES BORDES AUMONT | Entraide, Annonces, Initiatives"
 description: "10800 - LES BORDES AUMONT | Entraide, Annonces, Initiatives"

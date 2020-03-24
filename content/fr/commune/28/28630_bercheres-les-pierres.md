@@ -1,4 +1,3 @@
-
 ---
 title: "28630 - BERCHERES LES PIERRES | Entraide, Annonces, Initiatives"
 description: "28630 - BERCHERES LES PIERRES | Entraide, Annonces, Initiatives"

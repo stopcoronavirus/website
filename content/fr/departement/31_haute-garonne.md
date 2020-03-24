@@ -1,4 +1,3 @@
-
 ---
 title: "31 - Haute-Garonne"
 description: "31 - Haute-Garonne"

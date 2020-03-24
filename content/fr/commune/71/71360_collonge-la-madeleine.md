@@ -1,4 +1,3 @@
-
 ---
 title: "71360 - COLLONGE LA MADELEINE | Entraide, Annonces, Initiatives"
 description: "71360 - COLLONGE LA MADELEINE | Entraide, Annonces, Initiatives"

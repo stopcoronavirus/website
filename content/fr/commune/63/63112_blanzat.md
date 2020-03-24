@@ -1,4 +1,3 @@
-
 ---
 title: "63112 - BLANZAT | Entraide, Annonces, Initiatives"
 description: "63112 - BLANZAT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "16250 - PLASSAC ROUFFIAC | Entraide, Annonces, Initiatives"
 description: "16250 - PLASSAC ROUFFIAC | Entraide, Annonces, Initiatives"

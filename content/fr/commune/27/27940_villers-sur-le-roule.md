@@ -1,4 +1,3 @@
-
 ---
 title: "27940 - VILLERS SUR LE ROULE | Entraide, Annonces, Initiatives"
 description: "27940 - VILLERS SUR LE ROULE | Entraide, Annonces, Initiatives"

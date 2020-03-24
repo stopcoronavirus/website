@@ -1,4 +1,3 @@
-
 ---
 title: "36400 - VERNEUIL SUR IGNERAIE | Entraide, Annonces, Initiatives"
 description: "36400 - VERNEUIL SUR IGNERAIE | Entraide, Annonces, Initiatives"

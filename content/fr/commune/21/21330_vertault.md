@@ -1,4 +1,3 @@
-
 ---
 title: "21330 - VERTAULT | Entraide, Annonces, Initiatives"
 description: "21330 - VERTAULT | Entraide, Annonces, Initiatives"

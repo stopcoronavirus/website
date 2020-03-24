@@ -1,4 +1,3 @@
-
 ---
 title: "76450 - BOSVILLE | Entraide, Annonces, Initiatives"
 description: "76450 - BOSVILLE | Entraide, Annonces, Initiatives"

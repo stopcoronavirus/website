@@ -1,4 +1,3 @@
-
 ---
 title: "36110 - FRANCILLON | Entraide, Annonces, Initiatives"
 description: "36110 - FRANCILLON | Entraide, Annonces, Initiatives"

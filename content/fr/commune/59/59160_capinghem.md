@@ -1,4 +1,3 @@
-
 ---
 title: "59160 - CAPINGHEM | Entraide, Annonces, Initiatives"
 description: "59160 - CAPINGHEM | Entraide, Annonces, Initiatives"

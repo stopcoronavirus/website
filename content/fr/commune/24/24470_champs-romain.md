@@ -1,4 +1,3 @@
-
 ---
 title: "24470 - CHAMPS ROMAIN | Entraide, Annonces, Initiatives"
 description: "24470 - CHAMPS ROMAIN | Entraide, Annonces, Initiatives"

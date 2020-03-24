@@ -1,4 +1,3 @@
-
 ---
 title: "63120 - SERMENTIZON | Entraide, Annonces, Initiatives"
 description: "63120 - SERMENTIZON | Entraide, Annonces, Initiatives"

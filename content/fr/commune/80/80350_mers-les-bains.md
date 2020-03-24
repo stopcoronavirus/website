@@ -1,4 +1,3 @@
-
 ---
 title: "80350 - MERS LES BAINS | Entraide, Annonces, Initiatives"
 description: "80350 - MERS LES BAINS | Entraide, Annonces, Initiatives"

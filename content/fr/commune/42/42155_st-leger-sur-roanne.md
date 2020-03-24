@@ -1,4 +1,3 @@
-
 ---
 title: "42155 - ST LEGER SUR ROANNE | Entraide, Annonces, Initiatives"
 description: "42155 - ST LEGER SUR ROANNE | Entraide, Annonces, Initiatives"

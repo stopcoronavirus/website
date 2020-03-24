@@ -1,4 +1,3 @@
-
 ---
 title: "29253 - ILE DE BATZ | Entraide, Annonces, Initiatives"
 description: "29253 - ILE DE BATZ | Entraide, Annonces, Initiatives"

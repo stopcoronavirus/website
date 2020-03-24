@@ -1,4 +1,3 @@
-
 ---
 title: "29560 - LANDEVENNEC | Entraide, Annonces, Initiatives"
 description: "29560 - LANDEVENNEC | Entraide, Annonces, Initiatives"

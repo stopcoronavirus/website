@@ -1,4 +1,3 @@
-
 ---
 title: "43150 - FREYCENET LA CUCHE | Entraide, Annonces, Initiatives"
 description: "43150 - FREYCENET LA CUCHE | Entraide, Annonces, Initiatives"

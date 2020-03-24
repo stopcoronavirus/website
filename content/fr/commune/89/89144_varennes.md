@@ -1,4 +1,3 @@
-
 ---
 title: "89144 - VARENNES | Entraide, Annonces, Initiatives"
 description: "89144 - VARENNES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "59310 - FAUMONT | Entraide, Annonces, Initiatives"
 description: "59310 - FAUMONT | Entraide, Annonces, Initiatives"

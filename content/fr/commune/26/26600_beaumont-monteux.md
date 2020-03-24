@@ -1,4 +1,3 @@
-
 ---
 title: "26600 - BEAUMONT MONTEUX | Entraide, Annonces, Initiatives"
 description: "26600 - BEAUMONT MONTEUX | Entraide, Annonces, Initiatives"

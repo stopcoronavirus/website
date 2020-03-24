@@ -1,4 +1,3 @@
-
 ---
 title: "87700 - BEYNAC | Entraide, Annonces, Initiatives"
 description: "87700 - BEYNAC | Entraide, Annonces, Initiatives"

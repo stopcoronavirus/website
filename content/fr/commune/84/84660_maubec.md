@@ -1,4 +1,3 @@
-
 ---
 title: "84660 - MAUBEC | Entraide, Annonces, Initiatives"
 description: "84660 - MAUBEC | Entraide, Annonces, Initiatives"

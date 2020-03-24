@@ -1,4 +1,3 @@
-
 ---
 title: "73130 - NOTRE DAME DU CRUET | Entraide, Annonces, Initiatives"
 description: "73130 - NOTRE DAME DU CRUET | Entraide, Annonces, Initiatives"

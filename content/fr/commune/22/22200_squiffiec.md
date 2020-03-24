@@ -1,4 +1,3 @@
-
 ---
 title: "22200 - SQUIFFIEC | Entraide, Annonces, Initiatives"
 description: "22200 - SQUIFFIEC | Entraide, Annonces, Initiatives"

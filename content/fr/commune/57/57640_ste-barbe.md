@@ -1,4 +1,3 @@
-
 ---
 title: "57640 - STE BARBE | Entraide, Annonces, Initiatives"
 description: "57640 - STE BARBE | Entraide, Annonces, Initiatives"

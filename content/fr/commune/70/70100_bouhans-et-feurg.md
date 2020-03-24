@@ -1,4 +1,3 @@
-
 ---
 title: "70100 - BOUHANS ET FEURG | Entraide, Annonces, Initiatives"
 description: "70100 - BOUHANS ET FEURG | Entraide, Annonces, Initiatives"

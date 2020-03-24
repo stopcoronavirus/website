@@ -1,4 +1,3 @@
-
 ---
 title: "55100 - VERDUN | Entraide, Annonces, Initiatives"
 description: "55100 - VERDUN | Entraide, Annonces, Initiatives"

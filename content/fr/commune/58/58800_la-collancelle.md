@@ -1,4 +1,3 @@
-
 ---
 title: "58800 - LA COLLANCELLE | Entraide, Annonces, Initiatives"
 description: "58800 - LA COLLANCELLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "55300 - SEUZEY | Entraide, Annonces, Initiatives"
 description: "55300 - SEUZEY | Entraide, Annonces, Initiatives"

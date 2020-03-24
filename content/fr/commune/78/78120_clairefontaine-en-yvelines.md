@@ -1,4 +1,3 @@
-
 ---
 title: "78120 - CLAIREFONTAINE EN YVELINES | Entraide, Annonces, Initiatives"
 description: "78120 - CLAIREFONTAINE EN YVELINES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "82240 - LAVAURETTE | Entraide, Annonces, Initiatives"
 description: "82240 - LAVAURETTE | Entraide, Annonces, Initiatives"

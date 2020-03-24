@@ -1,4 +1,3 @@
-
 ---
 title: "23200 - ST MARC A FRONGIER | Entraide, Annonces, Initiatives"
 description: "23200 - ST MARC A FRONGIER | Entraide, Annonces, Initiatives"

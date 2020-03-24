@@ -1,4 +1,3 @@
-
 ---
 title: "25330 - AMATHAY VESIGNEUX | Entraide, Annonces, Initiatives"
 description: "25330 - AMATHAY VESIGNEUX | Entraide, Annonces, Initiatives"

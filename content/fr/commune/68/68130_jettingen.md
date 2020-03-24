@@ -1,4 +1,3 @@
-
 ---
 title: "68130 - JETTINGEN | Entraide, Annonces, Initiatives"
 description: "68130 - JETTINGEN | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "60540 - BORNEL | Entraide, Annonces, Initiatives"
 description: "60540 - BORNEL | Entraide, Annonces, Initiatives"

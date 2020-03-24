@@ -1,4 +1,3 @@
-
 ---
 title: "39130 - CHARCIER | Entraide, Annonces, Initiatives"
 description: "39130 - CHARCIER | Entraide, Annonces, Initiatives"

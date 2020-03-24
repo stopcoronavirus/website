@@ -1,4 +1,3 @@
-
 ---
 title: "61160 - ECORCHES | Entraide, Annonces, Initiatives"
 description: "61160 - ECORCHES | Entraide, Annonces, Initiatives"

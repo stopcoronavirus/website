@@ -1,4 +1,3 @@
-
 ---
 title: "31870 - BEAUMONT SUR LEZE | Entraide, Annonces, Initiatives"
 description: "31870 - BEAUMONT SUR LEZE | Entraide, Annonces, Initiatives"

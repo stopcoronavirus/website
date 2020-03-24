@@ -1,4 +1,3 @@
-
 ---
 title: "46240 - COEUR DE CAUSSE | Entraide, Annonces, Initiatives"
 description: "46240 - COEUR DE CAUSSE | Entraide, Annonces, Initiatives"

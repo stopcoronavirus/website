@@ -1,4 +1,3 @@
-
 ---
 title: "08270 - WASIGNY | Entraide, Annonces, Initiatives"
 description: "08270 - WASIGNY | Entraide, Annonces, Initiatives"

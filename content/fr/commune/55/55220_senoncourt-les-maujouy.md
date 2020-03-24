@@ -1,4 +1,3 @@
-
 ---
 title: "55220 - SENONCOURT LES MAUJOUY | Entraide, Annonces, Initiatives"
 description: "55220 - SENONCOURT LES MAUJOUY | Entraide, Annonces, Initiatives"

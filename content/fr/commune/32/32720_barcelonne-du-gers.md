@@ -1,4 +1,3 @@
-
 ---
 title: "32720 - BARCELONNE DU GERS | Entraide, Annonces, Initiatives"
 description: "32720 - BARCELONNE DU GERS | Entraide, Annonces, Initiatives"

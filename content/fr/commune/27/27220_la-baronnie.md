@@ -1,4 +1,3 @@
-
 ---
 title: "27220 - LA BARONNIE | Entraide, Annonces, Initiatives"
 description: "27220 - LA BARONNIE | Entraide, Annonces, Initiatives"

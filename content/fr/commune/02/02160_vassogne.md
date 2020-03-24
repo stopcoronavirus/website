@@ -1,4 +1,3 @@
-
 ---
 title: "02160 - VASSOGNE | Entraide, Annonces, Initiatives"
 description: "02160 - VASSOGNE | Entraide, Annonces, Initiatives"

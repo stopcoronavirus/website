@@ -1,4 +1,3 @@
-
 ---
 title: "85600 - MONTAIGU VENDEE | Entraide, Annonces, Initiatives"
 description: "85600 - MONTAIGU VENDEE | Entraide, Annonces, Initiatives"

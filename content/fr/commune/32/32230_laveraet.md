@@ -1,4 +1,3 @@
-
 ---
 title: "32230 - LAVERAET | Entraide, Annonces, Initiatives"
 description: "32230 - LAVERAET | Entraide, Annonces, Initiatives"

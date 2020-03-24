@@ -1,4 +1,3 @@
-
 ---
 title: "08220 - SEVIGNY WALEPPE | Entraide, Annonces, Initiatives"
 description: "08220 - SEVIGNY WALEPPE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "43320 - ST VIDAL | Entraide, Annonces, Initiatives"
 description: "43320 - ST VIDAL | Entraide, Annonces, Initiatives"

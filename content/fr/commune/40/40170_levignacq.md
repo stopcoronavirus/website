@@ -1,4 +1,3 @@
-
 ---
 title: "40170 - LEVIGNACQ | Entraide, Annonces, Initiatives"
 description: "40170 - LEVIGNACQ | Entraide, Annonces, Initiatives"

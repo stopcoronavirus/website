@@ -1,4 +1,3 @@
-
 ---
 title: "14290 - CERNAY | Entraide, Annonces, Initiatives"
 description: "14290 - CERNAY | Entraide, Annonces, Initiatives"

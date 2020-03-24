@@ -1,4 +1,3 @@
-
 ---
 title: "88130 - BATTEXEY | Entraide, Annonces, Initiatives"
 description: "88130 - BATTEXEY | Entraide, Annonces, Initiatives"

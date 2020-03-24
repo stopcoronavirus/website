@@ -1,4 +1,3 @@
-
 ---
 title: "55100 - BETHELAINVILLE | Entraide, Annonces, Initiatives"
 description: "55100 - BETHELAINVILLE | Entraide, Annonces, Initiatives"

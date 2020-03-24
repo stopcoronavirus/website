@@ -1,4 +1,3 @@
-
 ---
 title: "31220 - MARIGNAC LASPEYRES | Entraide, Annonces, Initiatives"
 description: "31220 - MARIGNAC LASPEYRES | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "82600 - BOUILLAC | Entraide, Annonces, Initiatives"
 description: "82600 - BOUILLAC | Entraide, Annonces, Initiatives"

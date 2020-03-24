@@ -1,4 +1,3 @@
-
 ---
 title: "81270 - LABASTIDE ROUAIROUX | Entraide, Annonces, Initiatives"
 description: "81270 - LABASTIDE ROUAIROUX | Entraide, Annonces, Initiatives"

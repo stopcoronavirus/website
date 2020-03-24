@@ -1,4 +1,3 @@
-
 ---
 title: "42390 - VILLARS | Entraide, Annonces, Initiatives"
 description: "42390 - VILLARS | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "50270 - BAUBIGNY | Entraide, Annonces, Initiatives"
 description: "50270 - BAUBIGNY | Entraide, Annonces, Initiatives"

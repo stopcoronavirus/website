@@ -1,4 +1,3 @@
-
 ---
 title: "72310 - LA CHAPELLE HUON | Entraide, Annonces, Initiatives"
 description: "72310 - LA CHAPELLE HUON | Entraide, Annonces, Initiatives"

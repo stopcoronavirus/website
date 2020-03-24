@@ -1,4 +1,3 @@
-
 ---
 title: "38350 - COGNET | Entraide, Annonces, Initiatives"
 description: "38350 - COGNET | Entraide, Annonces, Initiatives"

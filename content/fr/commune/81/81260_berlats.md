@@ -1,4 +1,3 @@
-
 ---
 title: "81260 - BERLATS | Entraide, Annonces, Initiatives"
 description: "81260 - BERLATS | Entraide, Annonces, Initiatives"

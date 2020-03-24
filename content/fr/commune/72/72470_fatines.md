@@ -1,4 +1,3 @@
-
 ---
 title: "72470 - FATINES | Entraide, Annonces, Initiatives"
 description: "72470 - FATINES | Entraide, Annonces, Initiatives"

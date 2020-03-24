@@ -1,4 +1,3 @@
-
 ---
 title: "09700 - LABATUT | Entraide, Annonces, Initiatives"
 description: "09700 - LABATUT | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "20253 - BARBAGGIO | Entraide, Annonces, Initiatives"
 description: "20253 - BARBAGGIO | Entraide, Annonces, Initiatives"

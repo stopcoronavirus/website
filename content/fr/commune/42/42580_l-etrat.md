@@ -1,4 +1,3 @@
-
 ---
 title: "42580 - L ETRAT | Entraide, Annonces, Initiatives"
 description: "42580 - L ETRAT | Entraide, Annonces, Initiatives"

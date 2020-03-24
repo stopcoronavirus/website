@@ -1,4 +1,3 @@
-
 ---
 title: "88100 - COINCHES | Entraide, Annonces, Initiatives"
 description: "88100 - COINCHES | Entraide, Annonces, Initiatives"

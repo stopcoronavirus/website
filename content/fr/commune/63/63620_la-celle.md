@@ -1,4 +1,3 @@
-
 ---
 title: "63620 - LA CELLE | Entraide, Annonces, Initiatives"
 description: "63620 - LA CELLE | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "26150 - MARIGNAC EN DIOIS | Entraide, Annonces, Initiatives"
 description: "26150 - MARIGNAC EN DIOIS | Entraide, Annonces, Initiatives"

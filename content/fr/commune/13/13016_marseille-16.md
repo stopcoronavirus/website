@@ -1,4 +1,3 @@
-
 ---
 title: "13016 - MARSEILLE 16 | Entraide, Annonces, Initiatives"
 description: "13016 - MARSEILLE 16 | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "50760 - BARFLEUR | Entraide, Annonces, Initiatives"
 description: "50760 - BARFLEUR | Entraide, Annonces, Initiatives"

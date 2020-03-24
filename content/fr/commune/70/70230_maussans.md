@@ -1,4 +1,3 @@
-
 ---
 title: "70230 - MAUSSANS | Entraide, Annonces, Initiatives"
 description: "70230 - MAUSSANS | Entraide, Annonces, Initiatives"

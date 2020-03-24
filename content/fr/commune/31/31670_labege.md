@@ -1,4 +1,3 @@
-
 ---
 title: "31670 - LABEGE | Entraide, Annonces, Initiatives"
 description: "31670 - LABEGE | Entraide, Annonces, Initiatives"

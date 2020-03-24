@@ -1,4 +1,3 @@
-
 ---
 title: "60860 - VILLERS SUR BONNIERES | Entraide, Annonces, Initiatives"
 description: "60860 - VILLERS SUR BONNIERES | Entraide, Annonces, Initiatives"

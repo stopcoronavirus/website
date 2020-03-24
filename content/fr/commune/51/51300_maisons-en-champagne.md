@@ -1,4 +1,3 @@
-
 ---
 title: "51300 - MAISONS EN CHAMPAGNE | Entraide, Annonces, Initiatives"
 description: "51300 - MAISONS EN CHAMPAGNE | Entraide, Annonces, Initiatives"

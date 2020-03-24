@@ -1,4 +1,3 @@
-
 ---
 title: "62420 - BILLY MONTIGNY | Entraide, Annonces, Initiatives"
 description: "62420 - BILLY MONTIGNY | Entraide, Annonces, Initiatives"

@@ -1,4 +1,3 @@
-
 ---
 title: "87600 - VAYRES | Entraide, Annonces, Initiatives"
 description: "87600 - VAYRES | Entraide, Annonces, Initiatives"

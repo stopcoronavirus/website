@@ -1,4 +1,3 @@
-
 ---
 title: "47 - Lot-et-Garonne"
 description: "47 - Lot-et-Garonne"

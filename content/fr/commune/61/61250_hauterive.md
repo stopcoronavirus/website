@@ -1,4 +1,3 @@
-
 ---
 title: "61250 - HAUTERIVE | Entraide, Annonces, Initiatives"
 description: "61250 - HAUTERIVE | Entraide, Annonces, Initiatives"

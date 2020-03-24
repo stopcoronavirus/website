@@ -1,4 +1,3 @@
-
 ---
 title: "49260 - ARTANNES SUR THOUET | Entraide, Annonces, Initiatives"
 description: "49260 - ARTANNES SUR THOUET | Entraide, Annonces, Initiatives"

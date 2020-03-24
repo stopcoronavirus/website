@@ -6,9 +6,15 @@ variables:
 pages:
   stage: deploy
   script:
-  - hugo --source "./" --destination "public/"
+    - mkdir .public
+    - hugo --source "./" --destination ".public/"
+    - echo ".PUBLIC"
+    - ls .public
+    - mv .public public
+    - echo "PUBLIC"
+    - ls public
   artifacts:
     paths:
     - public
   only:
-  - master
+    - master

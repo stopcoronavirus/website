@@ -6,7 +6,7 @@ variables:
 pages:
   stage: deploy
   script:
-    - hugo --source "./" --destination "public/"
+    - hugo --source "./" --destination "public"
   artifacts:
     paths:
     - public

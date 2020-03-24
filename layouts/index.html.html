@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>StopCoronavirus.Tech</title>
+    <title>Accueil – StopCoronavirus.Tech</title>
     
 
 
@@ -35,9 +35,9 @@
 <meta property="og:site_name" content="StopCoronavirus.Tech">
 <meta property="og:title" content="Accueil">
 <meta property="og:url" content="https://www.stopcoronavirus.tech/">
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.68.2" />
+<meta name="generator" content="Hugo 0.67.1" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://www.stopcoronavirus.tech/">
@@ -64,8 +64,10 @@
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
+    "headline": "Accueil",
+    "datePublished": "2020-01-26T04:15:05+09:00",
+    "dateModified": "2020-01-26T04:15:05+09:00",
     "url" : "https://www.stopcoronavirus.tech/",
-    "name": "Accueil",
     "description": "Entraide, Annonces, Initiatives pour la gestion du COVID-19",
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -107,7 +109,7 @@
     <div class="menu">
   <h6 class="menu__label">
     
-      StopCoronavirus.Tech
+      Accueil
     
   </h6>
 </div>
@@ -197,7 +199,7 @@
           <span id="navMenuMobile" class="hide">
   <button id="navCollapseBtn" class="navbar__dropdown--title" aria-label="Section Menu" data-dir="ltr">
     
-      StopCoronavirus.Tech
+      page
     
     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path fill="currentColor" d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg>
   </button>
@@ -322,24 +324,142 @@
 </script>
 
         
-  <div class="top">
-  <header class="header home__banner--wrapper">
+ <div class="top">
+  <div class="header__wrapper bgcolor__header">
     <div class="divider">
       <div class="lmr">
+        <h2 class="title">Accueil</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="header__wrapper bgcolor__breadcrumb">
+    <div class="divider">
+      <div class="lmr flexbox">
+        
+        <div class="grow"></div>
         
       </div>
     </div>
-  </header>
+  </div>
 </div>
 
         
   <div class="mid">
-  <main class="main">
+  <div class="divider">
     
-  </main>
+    <nav id="single-menu" class="l" data-dir="ltr">
+      
+    </nav>
+
+    <article id="list-main" class="m" data-dir="ltr">
+      
+      <div class="single" data-display="block">
   
+
+  <article class="single__contents" data-dir="ltr">
+    <h1 id="entraide-annonces-et-initiatives-pour-la-gestion-du-covid-19">Entraide, annonces et initiatives pour la gestion du COVID-19</h1>
+<h4 id="introduction">Introduction</h4>
+<p><em>Bienvenue</em>.</p>
+<p><em>Dans le cadre de la gestion du COVID-19, deux outils sont proposés pour <strong>chaque commune</strong> et <strong>chaque département</strong>:</em></p>
+<ul>
+<li>un <strong>canal d&rsquo;entraide</strong></li>
+<li>un <strong>document participatif</strong> qui recense les <em>annonces et initiatives</em></li>
+</ul>
+<p><em>Ceux-ci sont <strong>dédiés à votre commune</strong> et servent à gérer les URGENCES, faites-en bon usage.</em></p>
+<p>Pour commencer, rendez-vous sur la page de <a href="/departements"><strong>VOTRE COMMUNE en cliquant sur ce lien</strong></a>.</p>
+<h4 id="confidentialité">Confidentialité</h4>
+<p>Ces outils sont en accès public, ils sont hébergés de pairs à pairs de manière décentralisée.<br />
+Chacun de vos navigateurs enregistre ce qu&rsquo;il voit et le transmet à ceux qui sont connectés au même document.<br />
+Ne publiez pas d&rsquo;informations sensibles.</p>
+
+  </article>
+</div>
+      
+
+      
+    </article>
+    
+    <section id="list-side" class="r" data-dir="ltr">
+      
+    </section>
+
+  </div>
 </div>
 
+
+
+
+
+<script defer src="/js/helper/getParents.min.js"></script>
+
+<script defer src="/js/helper/closest.min.js"></script>
+
+<script defer src="/js/helper/prev.min.js"></script>
+
+<script defer src="/js/helper/prop.min.js"></script>
+
+<script defer src="/js/helper/fadeinout.min.js"></script>
+
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    'use strict';
+    
+    
+    var tables = document.querySelectorAll('.single__contents > table');
+    for (let i = 0; i < tables.length; i++) {
+      var table = tables[i];
+      var wrapper = document.createElement('div');
+      wrapper.className = 'table-wrapper';
+      table.parentElement.replaceChild(wrapper, table);
+      wrapper.appendChild(table);
+    }
+    
+  });
+</script>
+<script>
+  var listSide = document.getElementById('list-side');
+  var listMain = document.getElementById('list-main');
+  var singleMenu = document.getElementById('single-menu');
+
+  enquire.register("screen and (max-width:1280px)", {
+    match: function () {
+      listSide.className = 'r';
+      listMain.className = 'm';
+      singleMenu.className = 'l';
+    },
+    unmatch: function () {
+      listSide.className = 'r';
+      listMain.className = 'm';
+      singleMenu.className = 'l';
+    },
+  }).register("screen and (max-width:960px)", {
+    match: function () {
+      listSide.className = 'hide';
+      listMain.className = 'mr';
+      singleMenu.className = 'l';
+    },
+    unmatch: function () {
+      listSide.className = 'r';
+      listMain.className = 'm';
+      singleMenu.className = 'l';
+    },
+  }).register("screen and (max-width:600px)", {
+    match: function () {
+      listSide.className = 'hide';
+      listMain.className = 'lmr';
+      singleMenu.className = 'hide';
+    },
+    unmatch: function () {
+      listSide.className = 'hide';
+      listMain.className = 'mr';
+      singleMenu.className = 'l';
+      
+    },
+  });
+</script>
 
         
 <div class="bot">

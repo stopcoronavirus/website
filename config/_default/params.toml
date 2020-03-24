@@ -9,8 +9,8 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 
 enableSearch = false
 enableLangChange = false
-enableDarkMode = true
-enableBreadcrumb = true
+enableDarkMode = false
+enableBreadcrumb = false
 enableToc = false
 enableMenu = false
 enableNavbar = true

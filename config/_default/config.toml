@@ -3,7 +3,7 @@ title = "StopCoronavirus.Tech"
 theme = "zdoc"
 
 defaultContentLanguage = "fr"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = false
 
 copyright = "Licence CC0"
@@ -26,12 +26,12 @@ lineNos = true
 lineNumbersInTable = true
 noClasses = false
 [markup.tableOfContents]
-endLevel = 4
+endLevel = 1
 ordered = false
-startLevel = 2
+startLevel = 1
 
 [outputs]
 home = ["HTML"]
 
-[taxonomies]
-tag = "stop,coronavirus,tech"
+#[taxonomies]
+#tag = "stop,coronavirus,tech"

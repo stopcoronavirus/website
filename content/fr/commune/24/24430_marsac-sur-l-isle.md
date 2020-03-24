@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24430 	- MARSAC SUR L ISLE](https://docs.stopcoronavirus.tech/r/markdown/24430_marsac-sur-l-isle/4XTTMA9waqoyQEbHkM5uWzBzUbCpbW4GbQzbKXLQGF1JVjAu4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24430 	- MARSAC SUR L ISLE](https://docs.stopcoronavirus.tech/w/markdown/24430_marsac-sur-l-isle/4XTTMA9waqoyQEbHkM5uWzBzUbCpbW4GbQzbKXLQGF1JVjAu4-K3TgUGqQFgoTrni9kfVw4Bf5KV7LVgsWPt6mYe6sPkgPsThTRGNLbkUQYT9omdVS1eB8WxttBXnYhFFr12Br2Wb9YymwhNKdtUyfxBRb4Wft5FGY4nqNP7zTV3CierAGCDvzZJG6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24430 	- MARSAC SUR L ISLE](https://docs.stopcoronavirus.tech/#/r/markdown/24430_marsac-sur-l-isle/4XTTMA9waqoyQEbHkM5uWzBzUbCpbW4GbQzbKXLQGF1JVjAu4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24430 	- MARSAC SUR L ISLE](https://docs.stopcoronavirus.tech/#/w/markdown/24430_marsac-sur-l-isle/4XTTMA9waqoyQEbHkM5uWzBzUbCpbW4GbQzbKXLQGF1JVjAu4-K3TgUGqQFgoTrni9kfVw4Bf5KV7LVgsWPt6mYe6sPkgPsThTRGNLbkUQYT9omdVS1eB8WxttBXnYhFFr12Br2Wb9YymwhNKdtUyfxBRb4Wft5FGY4nqNP7zTV3CierAGCDvzZJG6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

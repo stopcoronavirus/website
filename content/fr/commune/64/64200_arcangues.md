@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 64200 	- ARCANGUES](https://docs.stopcoronavirus.tech/r/markdown/64200_arcangues/4XTTMH8uSQjR8e2WCgVChTzEBS7JDGVn2Krn1c1R7EZH62XC6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64200 	- ARCANGUES](https://docs.stopcoronavirus.tech/w/markdown/64200_arcangues/4XTTMH8uSQjR8e2WCgVChTzEBS7JDGVn2Krn1c1R7EZH62XC6-K3TgUdnfM4rMkQFv166N5ReBhqLYj7CUbEzazjpLZ3vpAaisK5tV7HXAHsK2n7kUDhBrt2e4xYNfH1zNCRBxi6i4YGqZ15kyrRGu1JpPB3Q3KvQG3G9QAGNT79qTaegaeqedMAQz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64200 	- ARCANGUES](https://docs.stopcoronavirus.tech/#/r/markdown/64200_arcangues/4XTTMH8uSQjR8e2WCgVChTzEBS7JDGVn2Krn1c1R7EZH62XC6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64200 	- ARCANGUES](https://docs.stopcoronavirus.tech/#/w/markdown/64200_arcangues/4XTTMH8uSQjR8e2WCgVChTzEBS7JDGVn2Krn1c1R7EZH62XC6-K3TgUdnfM4rMkQFv166N5ReBhqLYj7CUbEzazjpLZ3vpAaisK5tV7HXAHsK2n7kUDhBrt2e4xYNfH1zNCRBxi6i4YGqZ15kyrRGu1JpPB3Q3KvQG3G9QAGNT79qTaegaeqedMAQz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

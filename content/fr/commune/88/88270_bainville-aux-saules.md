@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88270 	- BAINVILLE AUX SAULES](https://docs.stopcoronavirus.tech/r/markdown/88270_bainville-aux-saules/4XTTM7WWEkXAuELZziwC9xSSQRgyMBzg2JCTbt9GxRYPH68Hs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88270 	- BAINVILLE AUX SAULES](https://docs.stopcoronavirus.tech/w/markdown/88270_bainville-aux-saules/4XTTM7WWEkXAuELZziwC9xSSQRgyMBzg2JCTbt9GxRYPH68Hs-K3TgURwGSC3LdqJX2vimuRrfnzRY8xvvscL5WKUDewxYhCTN9XjJrBi6pVuHdbU1u5K1vkdWMcPvRwaxhc8JYsVjx8KRWqyPs5PHWy1J2RdYfW8Gs3suo4zfB9nCT6AvZmpM6JwF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88270 	- BAINVILLE AUX SAULES](https://docs.stopcoronavirus.tech/#/r/markdown/88270_bainville-aux-saules/4XTTM7WWEkXAuELZziwC9xSSQRgyMBzg2JCTbt9GxRYPH68Hs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88270 	- BAINVILLE AUX SAULES](https://docs.stopcoronavirus.tech/#/w/markdown/88270_bainville-aux-saules/4XTTM7WWEkXAuELZziwC9xSSQRgyMBzg2JCTbt9GxRYPH68Hs-K3TgURwGSC3LdqJX2vimuRrfnzRY8xvvscL5WKUDewxYhCTN9XjJrBi6pVuHdbU1u5K1vkdWMcPvRwaxhc8JYsVjx8KRWqyPs5PHWy1J2RdYfW8Gs3suo4zfB9nCT6AvZmpM6JwF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42610 	- ST GEORGES HAUTE VILLE](https://docs.stopcoronavirus.tech/r/markdown/42610_st-georges-haute-ville/4XTTMDaHESSmo28ee8jEC4RFzvXYtrdXEJEaFQxo9LCRzTgJc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42610 	- ST GEORGES HAUTE VILLE](https://docs.stopcoronavirus.tech/w/markdown/42610_st-georges-haute-ville/4XTTMDaHESSmo28ee8jEC4RFzvXYtrdXEJEaFQxo9LCRzTgJc-K3TgU9JeKk3S9QjqEuCKbWcXByh4izjf8HpjrgoRX1qG9bins2tSi6F2fZZrrYckmYRERcfEXxNSMPCQxVHf588ChZ2H1bExWKb8a7sCJBPLRHbD8zFMNnk5zLgFrC8vUEVGAEz4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42610 	- ST GEORGES HAUTE VILLE](https://docs.stopcoronavirus.tech/#/r/markdown/42610_st-georges-haute-ville/4XTTMDaHESSmo28ee8jEC4RFzvXYtrdXEJEaFQxo9LCRzTgJc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42610 	- ST GEORGES HAUTE VILLE](https://docs.stopcoronavirus.tech/#/w/markdown/42610_st-georges-haute-ville/4XTTMDaHESSmo28ee8jEC4RFzvXYtrdXEJEaFQxo9LCRzTgJc-K3TgU9JeKk3S9QjqEuCKbWcXByh4izjf8HpjrgoRX1qG9bins2tSi6F2fZZrrYckmYRERcfEXxNSMPCQxVHf588ChZ2H1bExWKb8a7sCJBPLRHbD8zFMNnk5zLgFrC8vUEVGAEz4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

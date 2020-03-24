@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30170 	- DURFORT ET ST MARTIN DE SOSSENAC](https://docs.stopcoronavirus.tech/r/markdown/30170_durfort-et-st-martin-de-sossenac/4XTTMAGwr6xNB9YZ8vw4ax5bMEhzY4Cj7B3A5wVySLtLWe6nB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30170 	- DURFORT ET ST MARTIN DE SOSSENAC](https://docs.stopcoronavirus.tech/w/markdown/30170_durfort-et-st-martin-de-sossenac/4XTTMAGwr6xNB9YZ8vw4ax5bMEhzY4Cj7B3A5wVySLtLWe6nB-K3TgUSLHKDk5biDSLvzQePmra9NWg4jmeE1xySGyXweJDPnyhY6S5bd9EN9UMrVcUY6obm547fPAcn9EPqYd6TKRHLrm7NmrhFGbcqmgwx3KEZYBYneUYk9tLrdKqrAqSKZ1dAtw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30170 	- DURFORT ET ST MARTIN DE SOSSENAC](https://docs.stopcoronavirus.tech/#/r/markdown/30170_durfort-et-st-martin-de-sossenac/4XTTMAGwr6xNB9YZ8vw4ax5bMEhzY4Cj7B3A5wVySLtLWe6nB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30170 	- DURFORT ET ST MARTIN DE SOSSENAC](https://docs.stopcoronavirus.tech/#/w/markdown/30170_durfort-et-st-martin-de-sossenac/4XTTMAGwr6xNB9YZ8vw4ax5bMEhzY4Cj7B3A5wVySLtLWe6nB-K3TgUSLHKDk5biDSLvzQePmra9NWg4jmeE1xySGyXweJDPnyhY6S5bd9EN9UMrVcUY6obm547fPAcn9EPqYd6TKRHLrm7NmrhFGbcqmgwx3KEZYBYneUYk9tLrdKqrAqSKZ1dAtw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

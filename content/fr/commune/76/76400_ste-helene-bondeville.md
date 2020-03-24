@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76400 	- STE HELENE BONDEVILLE](https://docs.stopcoronavirus.tech/r/markdown/76400_ste-helene-bondeville/4XTTM5oMJdB8vfz2ao6ta7FJAn97Y8cGiiPuJ4CPxf4rhVjEM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76400 	- STE HELENE BONDEVILLE](https://docs.stopcoronavirus.tech/w/markdown/76400_ste-helene-bondeville/4XTTM5oMJdB8vfz2ao6ta7FJAn97Y8cGiiPuJ4CPxf4rhVjEM-K3TgUik8ctnbJgd5mUSYvQ9abubY5dAc851Wtu9QTUb1a97NnjTsGxsrPVQwBDy8Nbk2AfNSarTu7Cg6DbqosDECobj5Xrq6z56YEEMQVfxnHzFfEjzQUJ7NFrvyfyLrJ5RLDtww) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76400 	- STE HELENE BONDEVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/76400_ste-helene-bondeville/4XTTM5oMJdB8vfz2ao6ta7FJAn97Y8cGiiPuJ4CPxf4rhVjEM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76400 	- STE HELENE BONDEVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/76400_ste-helene-bondeville/4XTTM5oMJdB8vfz2ao6ta7FJAn97Y8cGiiPuJ4CPxf4rhVjEM-K3TgUik8ctnbJgd5mUSYvQ9abubY5dAc851Wtu9QTUb1a97NnjTsGxsrPVQwBDy8Nbk2AfNSarTu7Cg6DbqosDECobj5Xrq6z56YEEMQVfxnHzFfEjzQUJ7NFrvyfyLrJ5RLDtww) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

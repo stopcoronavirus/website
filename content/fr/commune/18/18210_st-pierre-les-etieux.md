@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18210 	- ST PIERRE LES ETIEUX](https://docs.stopcoronavirus.tech/r/markdown/18210_st-pierre-les-etieux/4XTTM7wMMNRgk1q9jCZUxxGDEh3Ts52KnefWtimGo3Gyvx65t) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18210 	- ST PIERRE LES ETIEUX](https://docs.stopcoronavirus.tech/w/markdown/18210_st-pierre-les-etieux/4XTTM7wMMNRgk1q9jCZUxxGDEh3Ts52KnefWtimGo3Gyvx65t-K3TgUpSJM65W67sV6p1mAdEv8YrPGzcpNmK4mxKcyFYnMMF8QZFdMDA8unsC8c61o6exAyjbMGQS3BNSP4xALGfR5PVSC6ZdCoDzYmEFk7nWpvWuEM6fmLikyRCvVSzhPjmmUf1g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18210 	- ST PIERRE LES ETIEUX](https://docs.stopcoronavirus.tech/#/r/markdown/18210_st-pierre-les-etieux/4XTTM7wMMNRgk1q9jCZUxxGDEh3Ts52KnefWtimGo3Gyvx65t) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18210 	- ST PIERRE LES ETIEUX](https://docs.stopcoronavirus.tech/#/w/markdown/18210_st-pierre-les-etieux/4XTTM7wMMNRgk1q9jCZUxxGDEh3Ts52KnefWtimGo3Gyvx65t-K3TgUpSJM65W67sV6p1mAdEv8YrPGzcpNmK4mxKcyFYnMMF8QZFdMDA8unsC8c61o6exAyjbMGQS3BNSP4xALGfR5PVSC6ZdCoDzYmEFk7nWpvWuEM6fmLikyRCvVSzhPjmmUf1g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

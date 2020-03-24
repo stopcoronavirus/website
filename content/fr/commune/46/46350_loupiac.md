@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 46350 	- LOUPIAC](https://docs.stopcoronavirus.tech/r/markdown/46350_loupiac/4XTTM3AfWeasKadW5eZ23xPiQzozPAc85yyASfcKWfPqkp72A) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46350 	- LOUPIAC](https://docs.stopcoronavirus.tech/w/markdown/46350_loupiac/4XTTM3AfWeasKadW5eZ23xPiQzozPAc85yyASfcKWfPqkp72A-K3TgUdFcfZ5phPDy7qxtBJ8TcikNA1T4N4FKrCTCKaGYUTeNq6Y41Yr6YmpuXARM1VSZUgaHNfEBR7Y3NiudSo6XwWdhGno4jiuzRm3HEWVuyZ6y6Qjcoew21itqvSdVT8svS1ia) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46350 	- LOUPIAC](https://docs.stopcoronavirus.tech/#/r/markdown/46350_loupiac/4XTTM3AfWeasKadW5eZ23xPiQzozPAc85yyASfcKWfPqkp72A) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46350 	- LOUPIAC](https://docs.stopcoronavirus.tech/#/w/markdown/46350_loupiac/4XTTM3AfWeasKadW5eZ23xPiQzozPAc85yyASfcKWfPqkp72A-K3TgUdFcfZ5phPDy7qxtBJ8TcikNA1T4N4FKrCTCKaGYUTeNq6Y41Yr6YmpuXARM1VSZUgaHNfEBR7Y3NiudSo6XwWdhGno4jiuzRm3HEWVuyZ6y6Qjcoew21itqvSdVT8svS1ia) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

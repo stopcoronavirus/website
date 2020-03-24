@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 26260 	- BATHERNAY](https://docs.stopcoronavirus.tech/r/markdown/26260_bathernay/4XTTMCxWcTZ8FYoNS9YKMmiBX7zzxpNSUcUuDPEqZdgB9t3nx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26260 	- BATHERNAY](https://docs.stopcoronavirus.tech/w/markdown/26260_bathernay/4XTTMCxWcTZ8FYoNS9YKMmiBX7zzxpNSUcUuDPEqZdgB9t3nx-K3TgTjNT4SDJAwJmumPmUHL5gvpPkgZ8acCxSurfKtPteQee9GaM8UavVHy53ABNxnfdV5ysQirAVxR4WdjTsWG6SWVdUhnemWF92mqAZ7tnQqVoFrMs5g37cdf1Xm8p9fhm3pgg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26260 	- BATHERNAY](https://docs.stopcoronavirus.tech/#/r/markdown/26260_bathernay/4XTTMCxWcTZ8FYoNS9YKMmiBX7zzxpNSUcUuDPEqZdgB9t3nx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26260 	- BATHERNAY](https://docs.stopcoronavirus.tech/#/w/markdown/26260_bathernay/4XTTMCxWcTZ8FYoNS9YKMmiBX7zzxpNSUcUuDPEqZdgB9t3nx-K3TgTjNT4SDJAwJmumPmUHL5gvpPkgZ8acCxSurfKtPteQee9GaM8UavVHy53ABNxnfdV5ysQirAVxR4WdjTsWG6SWVdUhnemWF92mqAZ7tnQqVoFrMs5g37cdf1Xm8p9fhm3pgg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

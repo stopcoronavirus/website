@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28700 	- OINVILLE SOUS AUNEAU](https://docs.stopcoronavirus.tech/r/markdown/28700_oinville-sous-auneau/4XTTMDDVt7HYQDiT213LZjcoYYpDEvFovFCFULEGPWzVttZNL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28700 	- OINVILLE SOUS AUNEAU](https://docs.stopcoronavirus.tech/w/markdown/28700_oinville-sous-auneau/4XTTMDDVt7HYQDiT213LZjcoYYpDEvFovFCFULEGPWzVttZNL-K3TgUc4YL3uQcFMyjQ41Gv3AAZW2LGuhZXTUXNTvLxT3Het8YiPiSLkWoKhwkq4v4DeZqxVudxh3p1hKgSaTZw9Gi36yp1gwhw6Wy7zmiCvg3Y2supQUVji2B8BVKDRZA42vVVw2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28700 	- OINVILLE SOUS AUNEAU](https://docs.stopcoronavirus.tech/#/r/markdown/28700_oinville-sous-auneau/4XTTMDDVt7HYQDiT213LZjcoYYpDEvFovFCFULEGPWzVttZNL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28700 	- OINVILLE SOUS AUNEAU](https://docs.stopcoronavirus.tech/#/w/markdown/28700_oinville-sous-auneau/4XTTMDDVt7HYQDiT213LZjcoYYpDEvFovFCFULEGPWzVttZNL-K3TgUc4YL3uQcFMyjQ41Gv3AAZW2LGuhZXTUXNTvLxT3Het8YiPiSLkWoKhwkq4v4DeZqxVudxh3p1hKgSaTZw9Gi36yp1gwhw6Wy7zmiCvg3Y2supQUVji2B8BVKDRZA42vVVw2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

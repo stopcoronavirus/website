@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 46170 	- CASTELNAU MONTRATIER STE ALAUZIE](https://docs.stopcoronavirus.tech/r/markdown/46170_castelnau-montratier-ste-alauzie/4XTTMCTBKABSu8ou2CNa28w4GZ6pjYZzwmCvzZB14aWrPsKiW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46170 	- CASTELNAU MONTRATIER STE ALAUZIE](https://docs.stopcoronavirus.tech/w/markdown/46170_castelnau-montratier-ste-alauzie/4XTTMCTBKABSu8ou2CNa28w4GZ6pjYZzwmCvzZB14aWrPsKiW-K3TgUBVGRLq4c59jBAcUs1CDBEzvsnzMDvpVz4ghcy6BLYmL6E81xYhG9RBMJd7zK4wDuGgiffi7fhocLqbuAEuKKrv2PFtvnGQHjMU23j3zPN7GaXKewT816Z1AEQdTohS47eRU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46170 	- CASTELNAU MONTRATIER STE ALAUZIE](https://docs.stopcoronavirus.tech/#/r/markdown/46170_castelnau-montratier-ste-alauzie/4XTTMCTBKABSu8ou2CNa28w4GZ6pjYZzwmCvzZB14aWrPsKiW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46170 	- CASTELNAU MONTRATIER STE ALAUZIE](https://docs.stopcoronavirus.tech/#/w/markdown/46170_castelnau-montratier-ste-alauzie/4XTTMCTBKABSu8ou2CNa28w4GZ6pjYZzwmCvzZB14aWrPsKiW-K3TgUBVGRLq4c59jBAcUs1CDBEzvsnzMDvpVz4ghcy6BLYmL6E81xYhG9RBMJd7zK4wDuGgiffi7fhocLqbuAEuKKrv2PFtvnGQHjMU23j3zPN7GaXKewT816Z1AEQdTohS47eRU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

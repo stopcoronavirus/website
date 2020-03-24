@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36120 	- SASSIERGES ST GERMAIN](https://docs.stopcoronavirus.tech/r/markdown/36120_sassierges-st-germain/4XTTM2tDenEgr28RRnv8sK7cH3KkgGEB9VtAGHUyUYygrGp48) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36120 	- SASSIERGES ST GERMAIN](https://docs.stopcoronavirus.tech/w/markdown/36120_sassierges-st-germain/4XTTM2tDenEgr28RRnv8sK7cH3KkgGEB9VtAGHUyUYygrGp48-K3TgUbYdcnfeZPTCWkqcxL8bfQopP5bVjq6MYotbmfzukuxVCVBG9UKSYRNeZGJyixApfVLBxAGXAWDrf3i6UdJHvGxba3XNAoV8p6pgrpMYDiqyU5ysPqpbTRPUbi7GJDAHtQKr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36120 	- SASSIERGES ST GERMAIN](https://docs.stopcoronavirus.tech/#/r/markdown/36120_sassierges-st-germain/4XTTM2tDenEgr28RRnv8sK7cH3KkgGEB9VtAGHUyUYygrGp48) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36120 	- SASSIERGES ST GERMAIN](https://docs.stopcoronavirus.tech/#/w/markdown/36120_sassierges-st-germain/4XTTM2tDenEgr28RRnv8sK7cH3KkgGEB9VtAGHUyUYygrGp48-K3TgUbYdcnfeZPTCWkqcxL8bfQopP5bVjq6MYotbmfzukuxVCVBG9UKSYRNeZGJyixApfVLBxAGXAWDrf3i6UdJHvGxba3XNAoV8p6pgrpMYDiqyU5ysPqpbTRPUbi7GJDAHtQKr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09140 	- SENTENAC D OUST](https://docs.stopcoronavirus.tech/r/markdown/09140_sentenac-d-oust/4XTTM9d4r3LH6f95yD4hmyW7NviDM5eCUJYuKyNjQTF7FJ6MS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09140 	- SENTENAC D OUST](https://docs.stopcoronavirus.tech/w/markdown/09140_sentenac-d-oust/4XTTM9d4r3LH6f95yD4hmyW7NviDM5eCUJYuKyNjQTF7FJ6MS-K3TgUt7Y9SdJLBThNYkLQwZQGnU2nXHEZ1VwvVh7pSfKrbxKq61deiNUU8scuLACcrM9kYXDEsZXFaRjYhRSNv7WBewF8bbHJiCoebjA7sApw5enAuRPQ9XXcgHNVCqZhqWEN8gL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09140 	- SENTENAC D OUST](https://docs.stopcoronavirus.tech/#/r/markdown/09140_sentenac-d-oust/4XTTM9d4r3LH6f95yD4hmyW7NviDM5eCUJYuKyNjQTF7FJ6MS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09140 	- SENTENAC D OUST](https://docs.stopcoronavirus.tech/#/w/markdown/09140_sentenac-d-oust/4XTTM9d4r3LH6f95yD4hmyW7NviDM5eCUJYuKyNjQTF7FJ6MS-K3TgUt7Y9SdJLBThNYkLQwZQGnU2nXHEZ1VwvVh7pSfKrbxKq61deiNUU8scuLACcrM9kYXDEsZXFaRjYhRSNv7WBewF8bbHJiCoebjA7sApw5enAuRPQ9XXcgHNVCqZhqWEN8gL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19300 	- PERET BEL AIR](https://docs.stopcoronavirus.tech/r/markdown/19300_peret-bel-air/4XTTM63G9t8krwzWy2gk2avhQ8hZbiKtgNwEcYPHj3mk5DL15) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19300 	- PERET BEL AIR](https://docs.stopcoronavirus.tech/w/markdown/19300_peret-bel-air/4XTTM63G9t8krwzWy2gk2avhQ8hZbiKtgNwEcYPHj3mk5DL15-K3TgUmM3QQ4ABLAafKfc8KR9gdLmMmiYDvdPAPEv9E2MF3x5rnFJhR4vqomWXyr5bYGfmqeNRbUNrVA2c6p9MzweMKW2voU7ihmc8yAC9xqxyw4Qgw5m5A4u2QPhtS9dWQoG5R4K) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19300 	- PERET BEL AIR](https://docs.stopcoronavirus.tech/#/r/markdown/19300_peret-bel-air/4XTTM63G9t8krwzWy2gk2avhQ8hZbiKtgNwEcYPHj3mk5DL15) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19300 	- PERET BEL AIR](https://docs.stopcoronavirus.tech/#/w/markdown/19300_peret-bel-air/4XTTM63G9t8krwzWy2gk2avhQ8hZbiKtgNwEcYPHj3mk5DL15-K3TgUmM3QQ4ABLAafKfc8KR9gdLmMmiYDvdPAPEv9E2MF3x5rnFJhR4vqomWXyr5bYGfmqeNRbUNrVA2c6p9MzweMKW2voU7ihmc8yAC9xqxyw4Qgw5m5A4u2QPhtS9dWQoG5R4K) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

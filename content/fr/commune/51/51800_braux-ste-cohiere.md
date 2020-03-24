@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51800 	- BRAUX STE COHIERE](https://docs.stopcoronavirus.tech/r/markdown/51800_braux-ste-cohiere/4XTTMGBGjpD9sV7PLXJome3PWxSkVnjVJFsbUW8XDnLiAW6LJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51800 	- BRAUX STE COHIERE](https://docs.stopcoronavirus.tech/w/markdown/51800_braux-ste-cohiere/4XTTMGBGjpD9sV7PLXJome3PWxSkVnjVJFsbUW8XDnLiAW6LJ-K3TgUQnrJGLoFFoEP6L2wJmjm2JS4PyaA1LNBXb8hdhGVGETGkT9v3HELf9WdgeEUBE5zQJmrqBek12KGx3kGN4iaxQ7pDoz2S8RuGmJPujGjW1s6BYv8Q2gis9TPNtFMaumR9HC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51800 	- BRAUX STE COHIERE](https://docs.stopcoronavirus.tech/#/r/markdown/51800_braux-ste-cohiere/4XTTMGBGjpD9sV7PLXJome3PWxSkVnjVJFsbUW8XDnLiAW6LJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51800 	- BRAUX STE COHIERE](https://docs.stopcoronavirus.tech/#/w/markdown/51800_braux-ste-cohiere/4XTTMGBGjpD9sV7PLXJome3PWxSkVnjVJFsbUW8XDnLiAW6LJ-K3TgUQnrJGLoFFoEP6L2wJmjm2JS4PyaA1LNBXb8hdhGVGETGkT9v3HELf9WdgeEUBE5zQJmrqBek12KGx3kGN4iaxQ7pDoz2S8RuGmJPujGjW1s6BYv8Q2gis9TPNtFMaumR9HC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 04230 	- ST ETIENNE LES ORGUES](https://docs.stopcoronavirus.tech/r/markdown/04230_st-etienne-les-orgues/4XTTM9oBev3jaGH2Gd4XrmcyhfPodhSVvtocNbcX4bx554T4f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04230 	- ST ETIENNE LES ORGUES](https://docs.stopcoronavirus.tech/w/markdown/04230_st-etienne-les-orgues/4XTTM9oBev3jaGH2Gd4XrmcyhfPodhSVvtocNbcX4bx554T4f-K3TgUjRgCjEvJssigBeno1g1pjzmYHRZ3tq4THk4WCeKW2HAGxsEBGZUFSQ8CjBf2nAJD164ZqtZqfa667ufHV4aL7ZWcb38wB9sA9L38xzrDtqN27McPBecbpPJL4GopVgnczro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 04230 	- ST ETIENNE LES ORGUES](https://docs.stopcoronavirus.tech/#/r/markdown/04230_st-etienne-les-orgues/4XTTM9oBev3jaGH2Gd4XrmcyhfPodhSVvtocNbcX4bx554T4f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 04230 	- ST ETIENNE LES ORGUES](https://docs.stopcoronavirus.tech/#/w/markdown/04230_st-etienne-les-orgues/4XTTM9oBev3jaGH2Gd4XrmcyhfPodhSVvtocNbcX4bx554T4f-K3TgUjRgCjEvJssigBeno1g1pjzmYHRZ3tq4THk4WCeKW2HAGxsEBGZUFSQ8CjBf2nAJD164ZqtZqfa667ufHV4aL7ZWcb38wB9sA9L38xzrDtqN27McPBecbpPJL4GopVgnczro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

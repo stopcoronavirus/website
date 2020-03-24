@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 66220 	- ST PAUL DE FENOUILLET](https://docs.stopcoronavirus.tech/r/markdown/66220_st-paul-de-fenouillet/4XTTM4ahfAKnqcUDRx7NRazFdn5qysXDPFvJk7cR7FTQYfEfE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66220 	- ST PAUL DE FENOUILLET](https://docs.stopcoronavirus.tech/w/markdown/66220_st-paul-de-fenouillet/4XTTM4ahfAKnqcUDRx7NRazFdn5qysXDPFvJk7cR7FTQYfEfE-K3TgTi9nKvErqEzrQkRQhTpk7y7iaJDQfEhDNKteHWk4XqEMSw3oCixHUiaV1Vd2Lk1yPvmYMqHYCyUThJaf9Cvqq84mKYHMidgpsR1T1dodLMR82jqB7WhBrR8Zs6TEbnnWgLB6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 66220 	- ST PAUL DE FENOUILLET](https://docs.stopcoronavirus.tech/#/r/markdown/66220_st-paul-de-fenouillet/4XTTM4ahfAKnqcUDRx7NRazFdn5qysXDPFvJk7cR7FTQYfEfE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 66220 	- ST PAUL DE FENOUILLET](https://docs.stopcoronavirus.tech/#/w/markdown/66220_st-paul-de-fenouillet/4XTTM4ahfAKnqcUDRx7NRazFdn5qysXDPFvJk7cR7FTQYfEfE-K3TgTi9nKvErqEzrQkRQhTpk7y7iaJDQfEhDNKteHWk4XqEMSw3oCixHUiaV1Vd2Lk1yPvmYMqHYCyUThJaf9Cvqq84mKYHMidgpsR1T1dodLMR82jqB7WhBrR8Zs6TEbnnWgLB6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

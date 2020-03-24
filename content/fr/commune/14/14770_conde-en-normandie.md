@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14770 	- CONDE EN NORMANDIE](https://docs.stopcoronavirus.tech/r/markdown/14770_conde-en-normandie/4XTTM54E9P2M8XmAxNxVekPBeq4ASzBzcEfcrUf6HVr3qrQVL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14770 	- CONDE EN NORMANDIE](https://docs.stopcoronavirus.tech/w/markdown/14770_conde-en-normandie/4XTTM54E9P2M8XmAxNxVekPBeq4ASzBzcEfcrUf6HVr3qrQVL-K3TgUqr8nuBNJiLE57onaegvcZBZB1boTGVPQdumfsuk8AVFWytPt9bwKe2P5Fyqyu3fCcHqayMpWtbM7q96Xjr9J4L5MQ1KXWdTq9F5ojGJmgX9nYzEQP5nvyYBQAaoZF9EaR9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14770 	- CONDE EN NORMANDIE](https://docs.stopcoronavirus.tech/#/r/markdown/14770_conde-en-normandie/4XTTM54E9P2M8XmAxNxVekPBeq4ASzBzcEfcrUf6HVr3qrQVL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14770 	- CONDE EN NORMANDIE](https://docs.stopcoronavirus.tech/#/w/markdown/14770_conde-en-normandie/4XTTM54E9P2M8XmAxNxVekPBeq4ASzBzcEfcrUf6HVr3qrQVL-K3TgUqr8nuBNJiLE57onaegvcZBZB1boTGVPQdumfsuk8AVFWytPt9bwKe2P5Fyqyu3fCcHqayMpWtbM7q96Xjr9J4L5MQ1KXWdTq9F5ojGJmgX9nYzEQP5nvyYBQAaoZF9EaR9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07190 	- ST ETIENNE DE SERRE](https://docs.stopcoronavirus.tech/r/markdown/07190_st-etienne-de-serre/4XTTMJ1Zs6cfWo74VNyrx7TKZyVXV5F8pADXXS3pKPquHSkM9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07190 	- ST ETIENNE DE SERRE](https://docs.stopcoronavirus.tech/w/markdown/07190_st-etienne-de-serre/4XTTMJ1Zs6cfWo74VNyrx7TKZyVXV5F8pADXXS3pKPquHSkM9-K3TgU89GnEsKNK9PEXYcH1PgD2GEdKeZbogRPrqu2yyi35a1uD4W5C6N3PA1MT2eTt4hH6EjQp2YaaLKqKo2DPZHUGDmjqEgKGumwQvfdCJD9N3SkBbKuowVH4PR5Vn2PGSgJAFV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07190 	- ST ETIENNE DE SERRE](https://docs.stopcoronavirus.tech/#/r/markdown/07190_st-etienne-de-serre/4XTTMJ1Zs6cfWo74VNyrx7TKZyVXV5F8pADXXS3pKPquHSkM9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07190 	- ST ETIENNE DE SERRE](https://docs.stopcoronavirus.tech/#/w/markdown/07190_st-etienne-de-serre/4XTTMJ1Zs6cfWo74VNyrx7TKZyVXV5F8pADXXS3pKPquHSkM9-K3TgU89GnEsKNK9PEXYcH1PgD2GEdKeZbogRPrqu2yyi35a1uD4W5C6N3PA1MT2eTt4hH6EjQp2YaaLKqKo2DPZHUGDmjqEgKGumwQvfdCJD9N3SkBbKuowVH4PR5Vn2PGSgJAFV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42740 	- LA TERRASSE SUR DORLAY](https://docs.stopcoronavirus.tech/r/markdown/42740_la-terrasse-sur-dorlay/4XTTM1QhG9Wci1THHME4hLbaiq48uaDJH6epsVjtkcXxJVDvC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42740 	- LA TERRASSE SUR DORLAY](https://docs.stopcoronavirus.tech/w/markdown/42740_la-terrasse-sur-dorlay/4XTTM1QhG9Wci1THHME4hLbaiq48uaDJH6epsVjtkcXxJVDvC-K3TgUWjP1MLtGZzHKGpDHk31dbCuzKPhSsVwAU4AxcGcpNrehwd7VwJpM8xeSJtc7GUxYkPXUwzS3hqBPLf7K31kntJmupYnmTKXNat6iss8z2McPSbxcz94KeksTRSgQvNJZ4Yk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42740 	- LA TERRASSE SUR DORLAY](https://docs.stopcoronavirus.tech/#/r/markdown/42740_la-terrasse-sur-dorlay/4XTTM1QhG9Wci1THHME4hLbaiq48uaDJH6epsVjtkcXxJVDvC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42740 	- LA TERRASSE SUR DORLAY](https://docs.stopcoronavirus.tech/#/w/markdown/42740_la-terrasse-sur-dorlay/4XTTM1QhG9Wci1THHME4hLbaiq48uaDJH6epsVjtkcXxJVDvC-K3TgUWjP1MLtGZzHKGpDHk31dbCuzKPhSsVwAU4AxcGcpNrehwd7VwJpM8xeSJtc7GUxYkPXUwzS3hqBPLf7K31kntJmupYnmTKXNat6iss8z2McPSbxcz94KeksTRSgQvNJZ4Yk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

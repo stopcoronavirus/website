@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69440 	- ST ANDRE LA COTE](https://docs.stopcoronavirus.tech/r/markdown/69440_st-andre-la-cote/4XTTMEVY385SbHviS4YZTMpfaZBpP8wtMLV2JRAjKawh88vhB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69440 	- ST ANDRE LA COTE](https://docs.stopcoronavirus.tech/w/markdown/69440_st-andre-la-cote/4XTTMEVY385SbHviS4YZTMpfaZBpP8wtMLV2JRAjKawh88vhB-K3TgTmJJXqgJuBEL7arCr3FQjxkHQkHv6E8BrV8RMVCBAiE4tyFo5cLfdexRZnJDbikYMDx6xxaBNPT5jnTKxWvbUFqPYkkwoQjZbvMc4jp1WV5SontmRp9N5xzctvsHJMF3YWpd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69440 	- ST ANDRE LA COTE](https://docs.stopcoronavirus.tech/#/r/markdown/69440_st-andre-la-cote/4XTTMEVY385SbHviS4YZTMpfaZBpP8wtMLV2JRAjKawh88vhB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69440 	- ST ANDRE LA COTE](https://docs.stopcoronavirus.tech/#/w/markdown/69440_st-andre-la-cote/4XTTMEVY385SbHviS4YZTMpfaZBpP8wtMLV2JRAjKawh88vhB-K3TgTmJJXqgJuBEL7arCr3FQjxkHQkHv6E8BrV8RMVCBAiE4tyFo5cLfdexRZnJDbikYMDx6xxaBNPT5jnTKxWvbUFqPYkkwoQjZbvMc4jp1WV5SontmRp9N5xzctvsHJMF3YWpd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

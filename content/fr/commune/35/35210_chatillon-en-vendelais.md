@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 35210 	- CHATILLON EN VENDELAIS](https://docs.stopcoronavirus.tech/r/markdown/35210_chatillon-en-vendelais/4XTTMBQfvA244pRrs3yeswPv1RdGKxUb8pBZz7TiVGyHQ1pgP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35210 	- CHATILLON EN VENDELAIS](https://docs.stopcoronavirus.tech/w/markdown/35210_chatillon-en-vendelais/4XTTMBQfvA244pRrs3yeswPv1RdGKxUb8pBZz7TiVGyHQ1pgP-K3TgTtCANavFC6sbtkr1KBNKiwqtA97i7FD6x5TpUVFcQWUTd6uC6Lr9pmsxCf3rwf7JdVMKeXRq27EBnH3TSg3ohEZzU7YcbxUHA5fSLobr7Aa4cc8rqZwznaXwWRVHqD4cNkqu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35210 	- CHATILLON EN VENDELAIS](https://docs.stopcoronavirus.tech/#/r/markdown/35210_chatillon-en-vendelais/4XTTMBQfvA244pRrs3yeswPv1RdGKxUb8pBZz7TiVGyHQ1pgP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35210 	- CHATILLON EN VENDELAIS](https://docs.stopcoronavirus.tech/#/w/markdown/35210_chatillon-en-vendelais/4XTTMBQfvA244pRrs3yeswPv1RdGKxUb8pBZz7TiVGyHQ1pgP-K3TgTtCANavFC6sbtkr1KBNKiwqtA97i7FD6x5TpUVFcQWUTd6uC6Lr9pmsxCf3rwf7JdVMKeXRq27EBnH3TSg3ohEZzU7YcbxUHA5fSLobr7Aa4cc8rqZwznaXwWRVHqD4cNkqu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

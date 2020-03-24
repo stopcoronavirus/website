@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 45650 	- ST JEAN LE BLANC](https://docs.stopcoronavirus.tech/r/markdown/45650_st-jean-le-blanc/4XTTM6KPWuuQ9qh8dqwe7mQoXQqJGoPmCukTzScD1eQfbTZ8d) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45650 	- ST JEAN LE BLANC](https://docs.stopcoronavirus.tech/w/markdown/45650_st-jean-le-blanc/4XTTM6KPWuuQ9qh8dqwe7mQoXQqJGoPmCukTzScD1eQfbTZ8d-K3TgUD95zX7X1VZ7ecg6oosRgDmdc6fpLLCLHX5WXczPak257SdUE8xJAUkoDedpjWSA41txoD7Yg763FThEhJcv4JXLwVi3tZ4nqSJdnNoGqcwvz3wDJxWCXTZb3puC8bu3ykXs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45650 	- ST JEAN LE BLANC](https://docs.stopcoronavirus.tech/#/r/markdown/45650_st-jean-le-blanc/4XTTM6KPWuuQ9qh8dqwe7mQoXQqJGoPmCukTzScD1eQfbTZ8d) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45650 	- ST JEAN LE BLANC](https://docs.stopcoronavirus.tech/#/w/markdown/45650_st-jean-le-blanc/4XTTM6KPWuuQ9qh8dqwe7mQoXQqJGoPmCukTzScD1eQfbTZ8d-K3TgUD95zX7X1VZ7ecg6oosRgDmdc6fpLLCLHX5WXczPak257SdUE8xJAUkoDedpjWSA41txoD7Yg763FThEhJcv4JXLwVi3tZ4nqSJdnNoGqcwvz3wDJxWCXTZb3puC8bu3ykXs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14680 	- BRETTEVILLE SUR LAIZE](https://docs.stopcoronavirus.tech/r/markdown/14680_bretteville-sur-laize/4XTTM4aBf9kyNYmvoCCsKgwh8ea53HueUirp3Wxgw9vVwmfz7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14680 	- BRETTEVILLE SUR LAIZE](https://docs.stopcoronavirus.tech/w/markdown/14680_bretteville-sur-laize/4XTTM4aBf9kyNYmvoCCsKgwh8ea53HueUirp3Wxgw9vVwmfz7-K3TgUoDMR1mR3ekLYeaXMU2NDGPiBNcxUJY6gYipoms44Kwu4sBE8j82xMGjSGggd1zorxBuWKhvxVuY8K31uZQjMg7onrnP9LX1NwwoMEjPkTeXxNoAS1DoUrXKKzX3ZCNjN8oR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14680 	- BRETTEVILLE SUR LAIZE](https://docs.stopcoronavirus.tech/#/r/markdown/14680_bretteville-sur-laize/4XTTM4aBf9kyNYmvoCCsKgwh8ea53HueUirp3Wxgw9vVwmfz7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14680 	- BRETTEVILLE SUR LAIZE](https://docs.stopcoronavirus.tech/#/w/markdown/14680_bretteville-sur-laize/4XTTM4aBf9kyNYmvoCCsKgwh8ea53HueUirp3Wxgw9vVwmfz7-K3TgUoDMR1mR3ekLYeaXMU2NDGPiBNcxUJY6gYipoms44Kwu4sBE8j82xMGjSGggd1zorxBuWKhvxVuY8K31uZQjMg7onrnP9LX1NwwoMEjPkTeXxNoAS1DoUrXKKzX3ZCNjN8oR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

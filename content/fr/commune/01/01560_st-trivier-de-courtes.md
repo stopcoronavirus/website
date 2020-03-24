@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01560 	- ST TRIVIER DE COURTES](https://docs.stopcoronavirus.tech/r/markdown/01560_st-trivier-de-courtes/4XTTMHxjJu9CMWh2QrJJhis9XzS1aHHV3Go3URqLH8iLiQxdQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01560 	- ST TRIVIER DE COURTES](https://docs.stopcoronavirus.tech/w/markdown/01560_st-trivier-de-courtes/4XTTMHxjJu9CMWh2QrJJhis9XzS1aHHV3Go3URqLH8iLiQxdQ-K3TgUCfBksUHR92ePR9r4NcirHeZq9m3zn4zCZciDQ7TDHTSWTRd9LtvMyuek6KRTaWX23mevtRb11FYBr5iu5nuA1RwtuUsQTqN9vFCUjpTj8D1EWGZbiKhfo4DQd6aVqWZTB6A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01560 	- ST TRIVIER DE COURTES](https://docs.stopcoronavirus.tech/#/r/markdown/01560_st-trivier-de-courtes/4XTTMHxjJu9CMWh2QrJJhis9XzS1aHHV3Go3URqLH8iLiQxdQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01560 	- ST TRIVIER DE COURTES](https://docs.stopcoronavirus.tech/#/w/markdown/01560_st-trivier-de-courtes/4XTTMHxjJu9CMWh2QrJJhis9XzS1aHHV3Go3URqLH8iLiQxdQ-K3TgUCfBksUHR92ePR9r4NcirHeZq9m3zn4zCZciDQ7TDHTSWTRd9LtvMyuek6KRTaWX23mevtRb11FYBr5iu5nuA1RwtuUsQTqN9vFCUjpTj8D1EWGZbiKhfo4DQd6aVqWZTB6A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

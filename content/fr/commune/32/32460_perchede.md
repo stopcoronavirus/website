@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32460 	- PERCHEDE](https://docs.stopcoronavirus.tech/r/markdown/32460_perchede/4XTTM6bTHjKHXU7S1GfhWebjNf8uudisx7K2yPCDxVu9YCQr2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32460 	- PERCHEDE](https://docs.stopcoronavirus.tech/w/markdown/32460_perchede/4XTTM6bTHjKHXU7S1GfhWebjNf8uudisx7K2yPCDxVu9YCQr2-K3TgU2D8pacNCdFhKVwMWRc6yBn1ixMJ7VEAA8aF2N2kf3AcXPQqcyoaipZWtLCse8CoTL5J7SiicFXE8JT9VeVfgADeoAsciTgPAf1jzJKUpkNmuKjmjnrwWc1disaKQYzjtT4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32460 	- PERCHEDE](https://docs.stopcoronavirus.tech/#/r/markdown/32460_perchede/4XTTM6bTHjKHXU7S1GfhWebjNf8uudisx7K2yPCDxVu9YCQr2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32460 	- PERCHEDE](https://docs.stopcoronavirus.tech/#/w/markdown/32460_perchede/4XTTM6bTHjKHXU7S1GfhWebjNf8uudisx7K2yPCDxVu9YCQr2-K3TgU2D8pacNCdFhKVwMWRc6yBn1ixMJ7VEAA8aF2N2kf3AcXPQqcyoaipZWtLCse8CoTL5J7SiicFXE8JT9VeVfgADeoAsciTgPAf1jzJKUpkNmuKjmjnrwWc1disaKQYzjtT4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

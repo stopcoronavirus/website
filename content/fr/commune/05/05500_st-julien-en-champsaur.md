@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 05500 	- ST JULIEN EN CHAMPSAUR](https://docs.stopcoronavirus.tech/r/markdown/05500_st-julien-en-champsaur/4XTTMCrYoRVZprtyGpWJbLBc7w7fMa5VMDfQB7WVWEM6WSBx4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05500 	- ST JULIEN EN CHAMPSAUR](https://docs.stopcoronavirus.tech/w/markdown/05500_st-julien-en-champsaur/4XTTMCrYoRVZprtyGpWJbLBc7w7fMa5VMDfQB7WVWEM6WSBx4-K3TgUuNyWdfrXeBzyMZbioV71eZ7JGTk14iN9f5mVCBgne8pvrnNcTJHjTh2G3vF5NPTGypSDCvWHkAyRno1yXt8wqvL86inqTYJy1KTP1QhPQBZ3W4unJ57CpMSnaAAWJWAHwfN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05500 	- ST JULIEN EN CHAMPSAUR](https://docs.stopcoronavirus.tech/#/r/markdown/05500_st-julien-en-champsaur/4XTTMCrYoRVZprtyGpWJbLBc7w7fMa5VMDfQB7WVWEM6WSBx4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05500 	- ST JULIEN EN CHAMPSAUR](https://docs.stopcoronavirus.tech/#/w/markdown/05500_st-julien-en-champsaur/4XTTMCrYoRVZprtyGpWJbLBc7w7fMa5VMDfQB7WVWEM6WSBx4-K3TgUuNyWdfrXeBzyMZbioV71eZ7JGTk14iN9f5mVCBgne8pvrnNcTJHjTh2G3vF5NPTGypSDCvWHkAyRno1yXt8wqvL86inqTYJy1KTP1QhPQBZ3W4unJ57CpMSnaAAWJWAHwfN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

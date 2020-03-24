@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18800 	- FARGES EN SEPTAINE](https://docs.stopcoronavirus.tech/r/markdown/18800_farges-en-septaine/4XTTM6tntCnphw4pB7oYCSzuw7Yq5Je5ZkQVjHqbyUFvitgyc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18800 	- FARGES EN SEPTAINE](https://docs.stopcoronavirus.tech/w/markdown/18800_farges-en-septaine/4XTTM6tntCnphw4pB7oYCSzuw7Yq5Je5ZkQVjHqbyUFvitgyc-K3TgUTFnxbZAHQe6Wss7My94q5EDtRYoCw9BF2ukdXSdpC28nGYiKvV9jtjBZkMFC6FriTrzWEhiUidc6A6atd6sAr3pF5cR4uwBSFY8iwsYEYPm7BSgPZ9uNWYUYLeoEqSkah2e) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18800 	- FARGES EN SEPTAINE](https://docs.stopcoronavirus.tech/#/r/markdown/18800_farges-en-septaine/4XTTM6tntCnphw4pB7oYCSzuw7Yq5Je5ZkQVjHqbyUFvitgyc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18800 	- FARGES EN SEPTAINE](https://docs.stopcoronavirus.tech/#/w/markdown/18800_farges-en-septaine/4XTTM6tntCnphw4pB7oYCSzuw7Yq5Je5ZkQVjHqbyUFvitgyc-K3TgUTFnxbZAHQe6Wss7My94q5EDtRYoCw9BF2ukdXSdpC28nGYiKvV9jtjBZkMFC6FriTrzWEhiUidc6A6atd6sAr3pF5cR4uwBSFY8iwsYEYPm7BSgPZ9uNWYUYLeoEqSkah2e) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

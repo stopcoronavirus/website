@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 31430 	- ST ELIX LE CHATEAU](https://docs.stopcoronavirus.tech/r/markdown/31430_st-elix-le-chateau/4XTTM6sC6yndfTtyEK24wv7fBo24hJEYTaJEAz61Mq5r6gYrS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31430 	- ST ELIX LE CHATEAU](https://docs.stopcoronavirus.tech/w/markdown/31430_st-elix-le-chateau/4XTTM6sC6yndfTtyEK24wv7fBo24hJEYTaJEAz61Mq5r6gYrS-K3TgTxZbcntYCbgQJY1RwU8YT1zwE3tYNoxPoUba4Yp8sZe21QVcHEFyEVejfEYokQJM48j4PTpmSBbRp1Bi4v8ADY1ud8YnmN2EJQ5y8fcxLafSNSniLvjH7fxpVRVnoYNs29L2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31430 	- ST ELIX LE CHATEAU](https://docs.stopcoronavirus.tech/#/r/markdown/31430_st-elix-le-chateau/4XTTM6sC6yndfTtyEK24wv7fBo24hJEYTaJEAz61Mq5r6gYrS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31430 	- ST ELIX LE CHATEAU](https://docs.stopcoronavirus.tech/#/w/markdown/31430_st-elix-le-chateau/4XTTM6sC6yndfTtyEK24wv7fBo24hJEYTaJEAz61Mq5r6gYrS-K3TgTxZbcntYCbgQJY1RwU8YT1zwE3tYNoxPoUba4Yp8sZe21QVcHEFyEVejfEYokQJM48j4PTpmSBbRp1Bi4v8ADY1ud8YnmN2EJQ5y8fcxLafSNSniLvjH7fxpVRVnoYNs29L2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

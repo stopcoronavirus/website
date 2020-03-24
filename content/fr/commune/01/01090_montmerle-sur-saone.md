@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01090 	- MONTMERLE SUR SAONE](https://docs.stopcoronavirus.tech/r/markdown/01090_montmerle-sur-saone/4XTTMFSkJbNyzSW3XwzA8yCuw4eb7ZJDnuKgdnCcfhZPPtsJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01090 	- MONTMERLE SUR SAONE](https://docs.stopcoronavirus.tech/w/markdown/01090_montmerle-sur-saone/4XTTMFSkJbNyzSW3XwzA8yCuw4eb7ZJDnuKgdnCcfhZPPtsJq-K3TgUiKwkFHPgv48ALGW3VxWC4dMw3yNPxkL1kB2WAsLt3sntGfxegHp1RvJjQr5Sot1mLY5XC88FEf8LyheRgq8DMXXAeqrFravXpfjHSpa9MSLRcBCPhLS2FxxSJiUZK38bCcq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01090 	- MONTMERLE SUR SAONE](https://docs.stopcoronavirus.tech/#/r/markdown/01090_montmerle-sur-saone/4XTTMFSkJbNyzSW3XwzA8yCuw4eb7ZJDnuKgdnCcfhZPPtsJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01090 	- MONTMERLE SUR SAONE](https://docs.stopcoronavirus.tech/#/w/markdown/01090_montmerle-sur-saone/4XTTMFSkJbNyzSW3XwzA8yCuw4eb7ZJDnuKgdnCcfhZPPtsJq-K3TgUiKwkFHPgv48ALGW3VxWC4dMw3yNPxkL1kB2WAsLt3sntGfxegHp1RvJjQr5Sot1mLY5XC88FEf8LyheRgq8DMXXAeqrFravXpfjHSpa9MSLRcBCPhLS2FxxSJiUZK38bCcq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

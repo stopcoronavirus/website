@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33370 	- FARGUES ST HILAIRE](https://docs.stopcoronavirus.tech/r/markdown/33370_fargues-st-hilaire/4XTTMBn4yCc6zypHSCTWF1NkrbXPtTBBSHWT6VppaYwt5JKze) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33370 	- FARGUES ST HILAIRE](https://docs.stopcoronavirus.tech/w/markdown/33370_fargues-st-hilaire/4XTTMBn4yCc6zypHSCTWF1NkrbXPtTBBSHWT6VppaYwt5JKze-K3TgTt2J1CJbQYa4PRoM3iPX8tMDCciBC4hEGTXdvCTikYb6B2K48tbsPsQaet21k7tzZPDAxjfSkx6WEKAMxEBdtzJhjyfmiX5jFMJMD3oq21L1ScVxh9yLKBHXxwph1n3ahAQN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33370 	- FARGUES ST HILAIRE](https://docs.stopcoronavirus.tech/#/r/markdown/33370_fargues-st-hilaire/4XTTMBn4yCc6zypHSCTWF1NkrbXPtTBBSHWT6VppaYwt5JKze) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33370 	- FARGUES ST HILAIRE](https://docs.stopcoronavirus.tech/#/w/markdown/33370_fargues-st-hilaire/4XTTMBn4yCc6zypHSCTWF1NkrbXPtTBBSHWT6VppaYwt5JKze-K3TgTt2J1CJbQYa4PRoM3iPX8tMDCciBC4hEGTXdvCTikYb6B2K48tbsPsQaet21k7tzZPDAxjfSkx6WEKAMxEBdtzJhjyfmiX5jFMJMD3oq21L1ScVxh9yLKBHXxwph1n3ahAQN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

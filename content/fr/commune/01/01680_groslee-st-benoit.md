@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01680 	- GROSLEE ST BENOIT](https://docs.stopcoronavirus.tech/r/markdown/01680_groslee-st-benoit/4XTTMJ2dSZmAV8M3K4FrAKLeekgBDiJmi7mEeQ95xKrC3xU5G) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01680 	- GROSLEE ST BENOIT](https://docs.stopcoronavirus.tech/w/markdown/01680_groslee-st-benoit/4XTTMJ2dSZmAV8M3K4FrAKLeekgBDiJmi7mEeQ95xKrC3xU5G-K3TgUtbEWL1kUjuRHWmn8VxDMWgL8TPUoB7UoNbmjhDMdQ8Fsdhiimupak85ogUQ7rGtBK1x1Tzpf3xZ95z1XXpZRtziDymwHGB7v3q8paj7hNxjZ3cCXtc1Z53RMVnmV5yFrAkJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01680 	- GROSLEE ST BENOIT](https://docs.stopcoronavirus.tech/#/r/markdown/01680_groslee-st-benoit/4XTTMJ2dSZmAV8M3K4FrAKLeekgBDiJmi7mEeQ95xKrC3xU5G) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01680 	- GROSLEE ST BENOIT](https://docs.stopcoronavirus.tech/#/w/markdown/01680_groslee-st-benoit/4XTTMJ2dSZmAV8M3K4FrAKLeekgBDiJmi7mEeQ95xKrC3xU5G-K3TgUtbEWL1kUjuRHWmn8VxDMWgL8TPUoB7UoNbmjhDMdQ8Fsdhiimupak85ogUQ7rGtBK1x1Tzpf3xZ95z1XXpZRtziDymwHGB7v3q8paj7hNxjZ3cCXtc1Z53RMVnmV5yFrAkJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

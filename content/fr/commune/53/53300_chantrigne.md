@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53300 	- CHANTRIGNE](https://docs.stopcoronavirus.tech/r/markdown/53300_chantrigne/4XTTM8vGkE32ebVDTtJu6mQjM3pynL7vmghm6Jxw7No8Dr2yN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53300 	- CHANTRIGNE](https://docs.stopcoronavirus.tech/w/markdown/53300_chantrigne/4XTTM8vGkE32ebVDTtJu6mQjM3pynL7vmghm6Jxw7No8Dr2yN-K3TgUBDuwzPi5otzhaWDHjiRrXXFY7VaDXpbz3vg5JJmizLbuVmxwHwsbhicfWFDhNbQFywgWhNfe92HZpyquoX5BUZcchHfZHNsTkiHm1nmtwdXHF9SfMtng5C9vSv7jNjfKvRW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53300 	- CHANTRIGNE](https://docs.stopcoronavirus.tech/#/r/markdown/53300_chantrigne/4XTTM8vGkE32ebVDTtJu6mQjM3pynL7vmghm6Jxw7No8Dr2yN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53300 	- CHANTRIGNE](https://docs.stopcoronavirus.tech/#/w/markdown/53300_chantrigne/4XTTM8vGkE32ebVDTtJu6mQjM3pynL7vmghm6Jxw7No8Dr2yN-K3TgUBDuwzPi5otzhaWDHjiRrXXFY7VaDXpbz3vg5JJmizLbuVmxwHwsbhicfWFDhNbQFywgWhNfe92HZpyquoX5BUZcchHfZHNsTkiHm1nmtwdXHF9SfMtng5C9vSv7jNjfKvRW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

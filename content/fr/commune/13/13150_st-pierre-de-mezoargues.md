@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 13150 	- ST PIERRE DE MEZOARGUES](https://docs.stopcoronavirus.tech/r/markdown/13150_st-pierre-de-mezoargues/4XTTM9MzTTaiYC8Y98DJGRhde3Lvy5yfRwXrMQp3Mg81ffVC4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 13150 	- ST PIERRE DE MEZOARGUES](https://docs.stopcoronavirus.tech/w/markdown/13150_st-pierre-de-mezoargues/4XTTM9MzTTaiYC8Y98DJGRhde3Lvy5yfRwXrMQp3Mg81ffVC4-K3TgUx8t1N5Fp4Mxj7sxqKkq4PLUkj51ACsDZE1KJ8EC2qGx3oNy4DdQuLR2x52qe9TGQSqY3woJwAGD5x3hYzZEd8RFx4MXJnRGe1FNPjrxhr7rrq9F8Kdsi4ymT5SLT2unX79S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 13150 	- ST PIERRE DE MEZOARGUES](https://docs.stopcoronavirus.tech/#/r/markdown/13150_st-pierre-de-mezoargues/4XTTM9MzTTaiYC8Y98DJGRhde3Lvy5yfRwXrMQp3Mg81ffVC4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 13150 	- ST PIERRE DE MEZOARGUES](https://docs.stopcoronavirus.tech/#/w/markdown/13150_st-pierre-de-mezoargues/4XTTM9MzTTaiYC8Y98DJGRhde3Lvy5yfRwXrMQp3Mg81ffVC4-K3TgUx8t1N5Fp4Mxj7sxqKkq4PLUkj51ACsDZE1KJ8EC2qGx3oNy4DdQuLR2x52qe9TGQSqY3woJwAGD5x3hYzZEd8RFx4MXJnRGe1FNPjrxhr7rrq9F8Kdsi4ymT5SLT2unX79S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

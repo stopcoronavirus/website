@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14210 	- VACOGNES NEUILLY](https://docs.stopcoronavirus.tech/r/markdown/14210_vacognes-neuilly/4XTTM2GY8tThUE8MsZQXqL9z9xaN42vvoB8zfqfWAeFpbsXkx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14210 	- VACOGNES NEUILLY](https://docs.stopcoronavirus.tech/w/markdown/14210_vacognes-neuilly/4XTTM2GY8tThUE8MsZQXqL9z9xaN42vvoB8zfqfWAeFpbsXkx-K3TgTwGmBr5tCmC4KUqe13QvYe1xJY7yKnjWrHwJiHwJMs5GLHSukGbHwPzKYoST1mK1bpTs3nP3T2TKzBi93h2A54YBghpn7oECTtyAeD74zonzWmo98ePVjc3XKRNvBKj95k3W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14210 	- VACOGNES NEUILLY](https://docs.stopcoronavirus.tech/#/r/markdown/14210_vacognes-neuilly/4XTTM2GY8tThUE8MsZQXqL9z9xaN42vvoB8zfqfWAeFpbsXkx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14210 	- VACOGNES NEUILLY](https://docs.stopcoronavirus.tech/#/w/markdown/14210_vacognes-neuilly/4XTTM2GY8tThUE8MsZQXqL9z9xaN42vvoB8zfqfWAeFpbsXkx-K3TgTwGmBr5tCmC4KUqe13QvYe1xJY7yKnjWrHwJiHwJMs5GLHSukGbHwPzKYoST1mK1bpTs3nP3T2TKzBi93h2A54YBghpn7oECTtyAeD74zonzWmo98ePVjc3XKRNvBKj95k3W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

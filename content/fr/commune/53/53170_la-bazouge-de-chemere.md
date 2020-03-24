@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53170 	- LA BAZOUGE DE CHEMERE](https://docs.stopcoronavirus.tech/r/markdown/53170_la-bazouge-de-chemere/4XTTM4goA1XToxuBoWaA3ooRLjPs6kt19oiG1d3jxRFGvGnH7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53170 	- LA BAZOUGE DE CHEMERE](https://docs.stopcoronavirus.tech/w/markdown/53170_la-bazouge-de-chemere/4XTTM4goA1XToxuBoWaA3ooRLjPs6kt19oiG1d3jxRFGvGnH7-K3TgUuqK5G7qqhj64H4Us5pi7fgeuMbLUL9KNSjGA8wXicC6vquFepujGgMEfPK8bLL8rkg3xjhGSMmV7UCD2A4WT3nV4eV72Hbg4YnDHZx1aDkxchvNnySSqBe8DKvKBnmmU8bT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53170 	- LA BAZOUGE DE CHEMERE](https://docs.stopcoronavirus.tech/#/r/markdown/53170_la-bazouge-de-chemere/4XTTM4goA1XToxuBoWaA3ooRLjPs6kt19oiG1d3jxRFGvGnH7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53170 	- LA BAZOUGE DE CHEMERE](https://docs.stopcoronavirus.tech/#/w/markdown/53170_la-bazouge-de-chemere/4XTTM4goA1XToxuBoWaA3ooRLjPs6kt19oiG1d3jxRFGvGnH7-K3TgUuqK5G7qqhj64H4Us5pi7fgeuMbLUL9KNSjGA8wXicC6vquFepujGgMEfPK8bLL8rkg3xjhGSMmV7UCD2A4WT3nV4eV72Hbg4YnDHZx1aDkxchvNnySSqBe8DKvKBnmmU8bT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

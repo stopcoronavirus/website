@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 57410 	- ROHRBACH LES BITCHE](https://docs.stopcoronavirus.tech/r/markdown/57410_rohrbach-les-bitche/4XTTMECRCaynz71uXZyRx88gvr3ZzifeTMXkccRExZTcdFrbt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57410 	- ROHRBACH LES BITCHE](https://docs.stopcoronavirus.tech/w/markdown/57410_rohrbach-les-bitche/4XTTMECRCaynz71uXZyRx88gvr3ZzifeTMXkccRExZTcdFrbt-K3TgUiEziZSQoREEAUwbXBmeQSGNojXpjgTec5mhQ6pFZ5eyoV4SWafM529ZjK4wtBV4Pp4R4CFmFaiMXWhXfFV1YZnVYGGai3DaZTf9AkFgxk79X6zTXNcKZ8iiego6Xpwq6dKp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57410 	- ROHRBACH LES BITCHE](https://docs.stopcoronavirus.tech/#/r/markdown/57410_rohrbach-les-bitche/4XTTMECRCaynz71uXZyRx88gvr3ZzifeTMXkccRExZTcdFrbt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57410 	- ROHRBACH LES BITCHE](https://docs.stopcoronavirus.tech/#/w/markdown/57410_rohrbach-les-bitche/4XTTMECRCaynz71uXZyRx88gvr3ZzifeTMXkccRExZTcdFrbt-K3TgUiEziZSQoREEAUwbXBmeQSGNojXpjgTec5mhQ6pFZ5eyoV4SWafM529ZjK4wtBV4Pp4R4CFmFaiMXWhXfFV1YZnVYGGai3DaZTf9AkFgxk79X6zTXNcKZ8iiego6Xpwq6dKp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

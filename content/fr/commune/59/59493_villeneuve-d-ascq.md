@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59493 	- VILLENEUVE D ASCQ](https://docs.stopcoronavirus.tech/r/markdown/59493_villeneuve-d-ascq/4XTTMB9PxFbwpejxeKy5BR9GkXavQKUENK9io8CrKCC1GQcvP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59493 	- VILLENEUVE D ASCQ](https://docs.stopcoronavirus.tech/w/markdown/59493_villeneuve-d-ascq/4XTTMB9PxFbwpejxeKy5BR9GkXavQKUENK9io8CrKCC1GQcvP-K3TgU2kqgVXvXUjRwmyQgnzwxjotweNS43k9yRnhNajnR5yHZkQY1aDo1veNBKPH29sd8rCTgE2ihLY8VhPUCDu7Uwn1i2GKREbjB2bx6asuQ5uHF1KYsnErz72AoVka1gsm4515) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59493 	- VILLENEUVE D ASCQ](https://docs.stopcoronavirus.tech/#/r/markdown/59493_villeneuve-d-ascq/4XTTMB9PxFbwpejxeKy5BR9GkXavQKUENK9io8CrKCC1GQcvP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59493 	- VILLENEUVE D ASCQ](https://docs.stopcoronavirus.tech/#/w/markdown/59493_villeneuve-d-ascq/4XTTMB9PxFbwpejxeKy5BR9GkXavQKUENK9io8CrKCC1GQcvP-K3TgU2kqgVXvXUjRwmyQgnzwxjotweNS43k9yRnhNajnR5yHZkQY1aDo1veNBKPH29sd8rCTgE2ihLY8VhPUCDu7Uwn1i2GKREbjB2bx6asuQ5uHF1KYsnErz72AoVka1gsm4515) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

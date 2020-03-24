@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 46300 	- ST CIRQ SOUILLAGUET](https://docs.stopcoronavirus.tech/r/markdown/46300_st-cirq-souillaguet/4XTTMBnL2NH94w2ooc9mV28D6Hr1qhkEqMDLFQEqhkhEPUPWG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46300 	- ST CIRQ SOUILLAGUET](https://docs.stopcoronavirus.tech/w/markdown/46300_st-cirq-souillaguet/4XTTMBnL2NH94w2ooc9mV28D6Hr1qhkEqMDLFQEqhkhEPUPWG-K3TgUPyFZY3yxS6ycmi6MrAbt9PVACV8eMLVWLLF98UzhJJqcsqm2zLLDJejJ4Ah9aQD6XD8P2yyMskwG1jhqgWwJ52WbFacBacEQ6ChgSprPNcUsuA9Up9c6NeWc5GTUiT4URhS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46300 	- ST CIRQ SOUILLAGUET](https://docs.stopcoronavirus.tech/#/r/markdown/46300_st-cirq-souillaguet/4XTTMBnL2NH94w2ooc9mV28D6Hr1qhkEqMDLFQEqhkhEPUPWG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46300 	- ST CIRQ SOUILLAGUET](https://docs.stopcoronavirus.tech/#/w/markdown/46300_st-cirq-souillaguet/4XTTMBnL2NH94w2ooc9mV28D6Hr1qhkEqMDLFQEqhkhEPUPWG-K3TgUPyFZY3yxS6ycmi6MrAbt9PVACV8eMLVWLLF98UzhJJqcsqm2zLLDJejJ4Ah9aQD6XD8P2yyMskwG1jhqgWwJ52WbFacBacEQ6ChgSprPNcUsuA9Up9c6NeWc5GTUiT4URhS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

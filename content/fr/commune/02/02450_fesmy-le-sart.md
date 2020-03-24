@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02450 	- FESMY LE SART](https://docs.stopcoronavirus.tech/r/markdown/02450_fesmy-le-sart/4XTTM1gJ4mfHhduK7yTRzxD2eodR49xnfpZBy4NfaHXKEH61r) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02450 	- FESMY LE SART](https://docs.stopcoronavirus.tech/w/markdown/02450_fesmy-le-sart/4XTTM1gJ4mfHhduK7yTRzxD2eodR49xnfpZBy4NfaHXKEH61r-K3TgUuDgUHVRBT1m9fKg2xpZxmt7UG3NNqUCkfC4d2VDDKv7oqDjW5YKx7V2rMiwyPFJDcVc5KgrfMYbMQKAaoBYpff8c857bcb6Kd1qugwynLAc4dgxZ8e6B5gG2UVuw1ZYg2Wx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02450 	- FESMY LE SART](https://docs.stopcoronavirus.tech/#/r/markdown/02450_fesmy-le-sart/4XTTM1gJ4mfHhduK7yTRzxD2eodR49xnfpZBy4NfaHXKEH61r) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02450 	- FESMY LE SART](https://docs.stopcoronavirus.tech/#/w/markdown/02450_fesmy-le-sart/4XTTM1gJ4mfHhduK7yTRzxD2eodR49xnfpZBy4NfaHXKEH61r-K3TgUuDgUHVRBT1m9fKg2xpZxmt7UG3NNqUCkfC4d2VDDKv7oqDjW5YKx7V2rMiwyPFJDcVc5KgrfMYbMQKAaoBYpff8c857bcb6Kd1qugwynLAc4dgxZ8e6B5gG2UVuw1ZYg2Wx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

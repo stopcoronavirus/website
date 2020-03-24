@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02810 	- VEUILLY LA POTERIE](https://docs.stopcoronavirus.tech/r/markdown/02810_veuilly-la-poterie/4XTTMCj3pqpvS2cZ4oYxBRrRS57PTFFhs7jHbe8ZsE79pJT3s) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02810 	- VEUILLY LA POTERIE](https://docs.stopcoronavirus.tech/w/markdown/02810_veuilly-la-poterie/4XTTMCj3pqpvS2cZ4oYxBRrRS57PTFFhs7jHbe8ZsE79pJT3s-K3TgU49ekwt3KhVJPjyNkVNtQLuhRbsUfMCBY1Gf1yPrBkqu5XhnsSGcKisy1CrD2Q1jsE5RtQzTs8P91a1hx637QQNPejDzJa3vgvKeF1PTCqjJh2FDUmHyVjufCAFPie8hBh5o) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02810 	- VEUILLY LA POTERIE](https://docs.stopcoronavirus.tech/#/r/markdown/02810_veuilly-la-poterie/4XTTMCj3pqpvS2cZ4oYxBRrRS57PTFFhs7jHbe8ZsE79pJT3s) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02810 	- VEUILLY LA POTERIE](https://docs.stopcoronavirus.tech/#/w/markdown/02810_veuilly-la-poterie/4XTTMCj3pqpvS2cZ4oYxBRrRS57PTFFhs7jHbe8ZsE79pJT3s-K3TgU49ekwt3KhVJPjyNkVNtQLuhRbsUfMCBY1Gf1yPrBkqu5XhnsSGcKisy1CrD2Q1jsE5RtQzTs8P91a1hx637QQNPejDzJa3vgvKeF1PTCqjJh2FDUmHyVjufCAFPie8hBh5o) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89580 	- COULANGES LA VINEUSE](https://docs.stopcoronavirus.tech/r/markdown/89580_coulanges-la-vineuse/4XTTMGTdxoYn8fEsR5zZuVx5YKDWdpcTUBukHASBv9Q85yBdk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89580 	- COULANGES LA VINEUSE](https://docs.stopcoronavirus.tech/w/markdown/89580_coulanges-la-vineuse/4XTTMGTdxoYn8fEsR5zZuVx5YKDWdpcTUBukHASBv9Q85yBdk-K3TgUANj5JXPk9U2jJaTgJjM4jsqRv68puUJBZYmVNss9hMgnaTdvH924DrjBLbxw4jej4KGBnzV15jJUsx8PcvqMkxc2LLJcAJQriUp7prjgZ1WYLH2x5kFVJjvEFD4W5VrUyMk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89580 	- COULANGES LA VINEUSE](https://docs.stopcoronavirus.tech/#/r/markdown/89580_coulanges-la-vineuse/4XTTMGTdxoYn8fEsR5zZuVx5YKDWdpcTUBukHASBv9Q85yBdk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89580 	- COULANGES LA VINEUSE](https://docs.stopcoronavirus.tech/#/w/markdown/89580_coulanges-la-vineuse/4XTTMGTdxoYn8fEsR5zZuVx5YKDWdpcTUBukHASBv9Q85yBdk-K3TgUANj5JXPk9U2jJaTgJjM4jsqRv68puUJBZYmVNss9hMgnaTdvH924DrjBLbxw4jej4KGBnzV15jJUsx8PcvqMkxc2LLJcAJQriUp7prjgZ1WYLH2x5kFVJjvEFD4W5VrUyMk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

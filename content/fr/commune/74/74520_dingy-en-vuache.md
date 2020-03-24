@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 74520 	- DINGY EN VUACHE](https://docs.stopcoronavirus.tech/r/markdown/74520_dingy-en-vuache/4XTTM32q56c81nmj2251qw36kUm2EoyNPtBK4dJFfp1Fvt4kA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74520 	- DINGY EN VUACHE](https://docs.stopcoronavirus.tech/w/markdown/74520_dingy-en-vuache/4XTTM32q56c81nmj2251qw36kUm2EoyNPtBK4dJFfp1Fvt4kA-K3TgV7SK6HGWcqFjAxqC3cVkPRSX5mzcUaaCDB7TUU16TCPV2LkvLwRVt3irjQPWKEPmTkZCyzQiWVFyJCkG8hknJhw5M6D17MNF8c6k1riWKF329BDznehFVxohhULjKdqVvVSS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74520 	- DINGY EN VUACHE](https://docs.stopcoronavirus.tech/#/r/markdown/74520_dingy-en-vuache/4XTTM32q56c81nmj2251qw36kUm2EoyNPtBK4dJFfp1Fvt4kA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74520 	- DINGY EN VUACHE](https://docs.stopcoronavirus.tech/#/w/markdown/74520_dingy-en-vuache/4XTTM32q56c81nmj2251qw36kUm2EoyNPtBK4dJFfp1Fvt4kA-K3TgV7SK6HGWcqFjAxqC3cVkPRSX5mzcUaaCDB7TUU16TCPV2LkvLwRVt3irjQPWKEPmTkZCyzQiWVFyJCkG8hknJhw5M6D17MNF8c6k1riWKF329BDznehFVxohhULjKdqVvVSS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

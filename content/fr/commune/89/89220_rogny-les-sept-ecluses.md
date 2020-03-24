@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89220 	- ROGNY LES SEPT ECLUSES](https://docs.stopcoronavirus.tech/r/markdown/89220_rogny-les-sept-ecluses/4XTTMDrLeDLDaCefDmc6N5iVXrRgyvszCG9wQQ9WFVJnm9iXt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89220 	- ROGNY LES SEPT ECLUSES](https://docs.stopcoronavirus.tech/w/markdown/89220_rogny-les-sept-ecluses/4XTTMDrLeDLDaCefDmc6N5iVXrRgyvszCG9wQQ9WFVJnm9iXt-K3TgUTvJ8McLGkzLzvbbQbyKu8orpf4o7mBzvvLD8vwgfu6nXUvjNzzATHNkHz8VjQoU8wRrG3EnDegacUBGnbAa46r8FfvMk8CXh7fjQdEA7mc8BpWP2v7VrxdKG41tTbxvWMGv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89220 	- ROGNY LES SEPT ECLUSES](https://docs.stopcoronavirus.tech/#/r/markdown/89220_rogny-les-sept-ecluses/4XTTMDrLeDLDaCefDmc6N5iVXrRgyvszCG9wQQ9WFVJnm9iXt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89220 	- ROGNY LES SEPT ECLUSES](https://docs.stopcoronavirus.tech/#/w/markdown/89220_rogny-les-sept-ecluses/4XTTMDrLeDLDaCefDmc6N5iVXrRgyvszCG9wQQ9WFVJnm9iXt-K3TgUTvJ8McLGkzLzvbbQbyKu8orpf4o7mBzvvLD8vwgfu6nXUvjNzzATHNkHz8VjQoU8wRrG3EnDegacUBGnbAa46r8FfvMk8CXh7fjQdEA7mc8BpWP2v7VrxdKG41tTbxvWMGv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

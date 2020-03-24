@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91250 	- SAINTRY SUR SEINE](https://docs.stopcoronavirus.tech/r/markdown/91250_saintry-sur-seine/4XTTMDpEyZHndgWrz2v1erVA2QE9x1SX3Xc8P5Sn9mARvW9DS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91250 	- SAINTRY SUR SEINE](https://docs.stopcoronavirus.tech/w/markdown/91250_saintry-sur-seine/4XTTMDpEyZHndgWrz2v1erVA2QE9x1SX3Xc8P5Sn9mARvW9DS-K3TgUzM1A5mWGoT1zCz7RQtQj1Azsp8Aa7vDVFXAP7ioBN9TQLduYUdWu5SeswppXA6xH2tjpHf5jMu8FV9rF9i3MLnavzKKiWx62DjWLCbKdo2v83MF3rYCMvorVMuz2c8eS4tx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91250 	- SAINTRY SUR SEINE](https://docs.stopcoronavirus.tech/#/r/markdown/91250_saintry-sur-seine/4XTTMDpEyZHndgWrz2v1erVA2QE9x1SX3Xc8P5Sn9mARvW9DS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91250 	- SAINTRY SUR SEINE](https://docs.stopcoronavirus.tech/#/w/markdown/91250_saintry-sur-seine/4XTTMDpEyZHndgWrz2v1erVA2QE9x1SX3Xc8P5Sn9mARvW9DS-K3TgUzM1A5mWGoT1zCz7RQtQj1Azsp8Aa7vDVFXAP7ioBN9TQLduYUdWu5SeswppXA6xH2tjpHf5jMu8FV9rF9i3MLnavzKKiWx62DjWLCbKdo2v83MF3rYCMvorVMuz2c8eS4tx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

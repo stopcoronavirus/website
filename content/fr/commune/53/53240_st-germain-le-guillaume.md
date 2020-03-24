@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53240 	- ST GERMAIN LE GUILLAUME](https://docs.stopcoronavirus.tech/r/markdown/53240_st-germain-le-guillaume/4XTTMBnNVjfht7Xg9zT2H63ijT7kLQ9rQit7R4cPyP7ZujKRZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53240 	- ST GERMAIN LE GUILLAUME](https://docs.stopcoronavirus.tech/w/markdown/53240_st-germain-le-guillaume/4XTTMBnNVjfht7Xg9zT2H63ijT7kLQ9rQit7R4cPyP7ZujKRZ-K3TgUwVv2oPkjkdUPuKTdeN2TSk9qc48kdi1o4CN8abb893dFpiKgw9QUkX4Ybf3MhUXdsJGgXuHSBvCcSP5o159a7LxtgadLA4JbsiVnrR3rChrWhdEpAsg1MDLUgDrsaqidy5q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53240 	- ST GERMAIN LE GUILLAUME](https://docs.stopcoronavirus.tech/#/r/markdown/53240_st-germain-le-guillaume/4XTTMBnNVjfht7Xg9zT2H63ijT7kLQ9rQit7R4cPyP7ZujKRZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53240 	- ST GERMAIN LE GUILLAUME](https://docs.stopcoronavirus.tech/#/w/markdown/53240_st-germain-le-guillaume/4XTTMBnNVjfht7Xg9zT2H63ijT7kLQ9rQit7R4cPyP7ZujKRZ-K3TgUwVv2oPkjkdUPuKTdeN2TSk9qc48kdi1o4CN8abb893dFpiKgw9QUkX4Ybf3MhUXdsJGgXuHSBvCcSP5o159a7LxtgadLA4JbsiVnrR3rChrWhdEpAsg1MDLUgDrsaqidy5q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

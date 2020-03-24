@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 35235 	- THORIGNE FOUILLARD](https://docs.stopcoronavirus.tech/r/markdown/35235_thorigne-fouillard/4XTTM8zLpC8MRA8RYMaHWdtJr55ELrjDuQNrJxArdVUVA4ZwC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35235 	- THORIGNE FOUILLARD](https://docs.stopcoronavirus.tech/w/markdown/35235_thorigne-fouillard/4XTTM8zLpC8MRA8RYMaHWdtJr55ELrjDuQNrJxArdVUVA4ZwC-K3TgUKEY7w4idH5H6JztAFqQV3YAygabbYmzNgMzyFeXqUPy89KnbesECzAsay6UyHt6QZ3BK1Lqv7VMRqMTmDYrBKYQ5YCczYHr1HsvdWA1pHkzrvE7L3Z6ZYpS2YG5J3gC5rVc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35235 	- THORIGNE FOUILLARD](https://docs.stopcoronavirus.tech/#/r/markdown/35235_thorigne-fouillard/4XTTM8zLpC8MRA8RYMaHWdtJr55ELrjDuQNrJxArdVUVA4ZwC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35235 	- THORIGNE FOUILLARD](https://docs.stopcoronavirus.tech/#/w/markdown/35235_thorigne-fouillard/4XTTM8zLpC8MRA8RYMaHWdtJr55ELrjDuQNrJxArdVUVA4ZwC-K3TgUKEY7w4idH5H6JztAFqQV3YAygabbYmzNgMzyFeXqUPy89KnbesECzAsay6UyHt6QZ3BK1Lqv7VMRqMTmDYrBKYQ5YCczYHr1HsvdWA1pHkzrvE7L3Z6ZYpS2YG5J3gC5rVc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

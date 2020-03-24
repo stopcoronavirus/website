@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80134 	- HANGEST EN SANTERRE](https://docs.stopcoronavirus.tech/r/markdown/80134_hangest-en-santerre/4XTTMEcdig9dE7XZNy9pNPJPRni8YKLkULsz6sP3PWUnqp9yM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80134 	- HANGEST EN SANTERRE](https://docs.stopcoronavirus.tech/w/markdown/80134_hangest-en-santerre/4XTTMEcdig9dE7XZNy9pNPJPRni8YKLkULsz6sP3PWUnqp9yM-K3TgV57kWPgDB89TpX1y3BwfXjViWK3f7JER7KxCWmSsyA4AfrSmbtAQ1ggpopyyGKo95CkoX2A4xEDhRQz3cqzKAovSmwiyN7GY77UJ9yZvAhVjckpDq7mtuNMYbwa6Ff1KmYSP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80134 	- HANGEST EN SANTERRE](https://docs.stopcoronavirus.tech/#/r/markdown/80134_hangest-en-santerre/4XTTMEcdig9dE7XZNy9pNPJPRni8YKLkULsz6sP3PWUnqp9yM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80134 	- HANGEST EN SANTERRE](https://docs.stopcoronavirus.tech/#/w/markdown/80134_hangest-en-santerre/4XTTMEcdig9dE7XZNy9pNPJPRni8YKLkULsz6sP3PWUnqp9yM-K3TgV57kWPgDB89TpX1y3BwfXjViWK3f7JER7KxCWmSsyA4AfrSmbtAQ1ggpopyyGKo95CkoX2A4xEDhRQz3cqzKAovSmwiyN7GY77UJ9yZvAhVjckpDq7mtuNMYbwa6Ff1KmYSP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

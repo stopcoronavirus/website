@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24140 	- CLERMONT DE BEAUREGARD](https://docs.stopcoronavirus.tech/r/markdown/24140_clermont-de-beauregard/4XTTMG15ETDJvwdpPqrRNGWPDPYCTMe6p9VKP7eztdSg1EQyi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24140 	- CLERMONT DE BEAUREGARD](https://docs.stopcoronavirus.tech/w/markdown/24140_clermont-de-beauregard/4XTTMG15ETDJvwdpPqrRNGWPDPYCTMe6p9VKP7eztdSg1EQyi-K3TgV5heKZT7G7WBr94BH4AtcPdh3R9V9CkAgbt4fRcvXU1LE1mcM9nvLf66DAqxg3RvcStyK8rTqSKebVtKdjogZuUEzmgCYtxia7qwcGqJzkG1Nn1xaxFyzFFPrdqpFTErgdXS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24140 	- CLERMONT DE BEAUREGARD](https://docs.stopcoronavirus.tech/#/r/markdown/24140_clermont-de-beauregard/4XTTMG15ETDJvwdpPqrRNGWPDPYCTMe6p9VKP7eztdSg1EQyi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24140 	- CLERMONT DE BEAUREGARD](https://docs.stopcoronavirus.tech/#/w/markdown/24140_clermont-de-beauregard/4XTTMG15ETDJvwdpPqrRNGWPDPYCTMe6p9VKP7eztdSg1EQyi-K3TgV5heKZT7G7WBr94BH4AtcPdh3R9V9CkAgbt4fRcvXU1LE1mcM9nvLf66DAqxg3RvcStyK8rTqSKebVtKdjogZuUEzmgCYtxia7qwcGqJzkG1Nn1xaxFyzFFPrdqpFTErgdXS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

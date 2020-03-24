@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20250 	- SANTA LUCIA DI MERCURIO](https://docs.stopcoronavirus.tech/r/markdown/20250_santa-lucia-di-mercurio/4XTTM7hTns7JVm72dNGHsuCvgzWUVx4oGm3Fb1NwWZx9p39am) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20250 	- SANTA LUCIA DI MERCURIO](https://docs.stopcoronavirus.tech/w/markdown/20250_santa-lucia-di-mercurio/4XTTM7hTns7JVm72dNGHsuCvgzWUVx4oGm3Fb1NwWZx9p39am-K3TgUbFixYVL5xLkHd6ZRAkgAY8ZaKMyfqwJYWNd2fYwtppbH86FA8o4hqLUVWdgh5uGeAbTC5VPQc79HGjJgyzmTRUofQQyd6uz2UenR7qAEghAHwhgEBe1eR2Tv4AyMnQeVqHP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20250 	- SANTA LUCIA DI MERCURIO](https://docs.stopcoronavirus.tech/#/r/markdown/20250_santa-lucia-di-mercurio/4XTTM7hTns7JVm72dNGHsuCvgzWUVx4oGm3Fb1NwWZx9p39am) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20250 	- SANTA LUCIA DI MERCURIO](https://docs.stopcoronavirus.tech/#/w/markdown/20250_santa-lucia-di-mercurio/4XTTM7hTns7JVm72dNGHsuCvgzWUVx4oGm3Fb1NwWZx9p39am-K3TgUbFixYVL5xLkHd6ZRAkgAY8ZaKMyfqwJYWNd2fYwtppbH86FA8o4hqLUVWdgh5uGeAbTC5VPQc79HGjJgyzmTRUofQQyd6uz2UenR7qAEghAHwhgEBe1eR2Tv4AyMnQeVqHP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

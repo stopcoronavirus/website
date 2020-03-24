@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 66230 	- PRATS DE MOLLO LA PRESTE](https://docs.stopcoronavirus.tech/r/markdown/66230_prats-de-mollo-la-preste/4XTTMENwWYaiY6YWnNWHJm1D9UfLCsTNd6LbMqNEG1nLVtU1y) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66230 	- PRATS DE MOLLO LA PRESTE](https://docs.stopcoronavirus.tech/w/markdown/66230_prats-de-mollo-la-preste/4XTTMENwWYaiY6YWnNWHJm1D9UfLCsTNd6LbMqNEG1nLVtU1y-K3TgTtDWZoG6AR3awL8ekcf7v6aVWFXih6nfTZhm5CbRDAD1n52HLJeupPNvQtJBM7Ghm6z2gmYq7kvbfJRWYZZsmsWK1gHSrbLcjoPe7ZfPiPko4DpGCtJWZFkvG6BkGHdBDFLP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 66230 	- PRATS DE MOLLO LA PRESTE](https://docs.stopcoronavirus.tech/#/r/markdown/66230_prats-de-mollo-la-preste/4XTTMENwWYaiY6YWnNWHJm1D9UfLCsTNd6LbMqNEG1nLVtU1y) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 66230 	- PRATS DE MOLLO LA PRESTE](https://docs.stopcoronavirus.tech/#/w/markdown/66230_prats-de-mollo-la-preste/4XTTMENwWYaiY6YWnNWHJm1D9UfLCsTNd6LbMqNEG1nLVtU1y-K3TgTtDWZoG6AR3awL8ekcf7v6aVWFXih6nfTZhm5CbRDAD1n52HLJeupPNvQtJBM7Ghm6z2gmYq7kvbfJRWYZZsmsWK1gHSrbLcjoPe7ZfPiPko4DpGCtJWZFkvG6BkGHdBDFLP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

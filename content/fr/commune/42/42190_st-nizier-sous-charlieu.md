@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42190 	- ST NIZIER SOUS CHARLIEU](https://docs.stopcoronavirus.tech/r/markdown/42190_st-nizier-sous-charlieu/4XTTM4wP41z2RSYiNysnjy2LSfzFU7ZzjiQbTDKzUdf5ANDcs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42190 	- ST NIZIER SOUS CHARLIEU](https://docs.stopcoronavirus.tech/w/markdown/42190_st-nizier-sous-charlieu/4XTTM4wP41z2RSYiNysnjy2LSfzFU7ZzjiQbTDKzUdf5ANDcs-K3TgUCWSoFtjeqWunFMGDff9A7eVmeqirK4naLMvjoYVhubfCptUdPT1oSFe6LnmrYDUkqZtMjM1xw7VEbXZ1vwSbfDLW4uWzRxpBKj9jr5WYQ97coin9h8rENiaw5EB8gefYRtb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42190 	- ST NIZIER SOUS CHARLIEU](https://docs.stopcoronavirus.tech/#/r/markdown/42190_st-nizier-sous-charlieu/4XTTM4wP41z2RSYiNysnjy2LSfzFU7ZzjiQbTDKzUdf5ANDcs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42190 	- ST NIZIER SOUS CHARLIEU](https://docs.stopcoronavirus.tech/#/w/markdown/42190_st-nizier-sous-charlieu/4XTTM4wP41z2RSYiNysnjy2LSfzFU7ZzjiQbTDKzUdf5ANDcs-K3TgUCWSoFtjeqWunFMGDff9A7eVmeqirK4naLMvjoYVhubfCptUdPT1oSFe6LnmrYDUkqZtMjM1xw7VEbXZ1vwSbfDLW4uWzRxpBKj9jr5WYQ97coin9h8rENiaw5EB8gefYRtb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

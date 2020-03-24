@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27120 	- BOISSET LES PREVANCHES](https://docs.stopcoronavirus.tech/r/markdown/27120_boisset-les-prevanches/4XTTMFnCwc2mCBhNMa5M66Xr5ZWDkTVhpx7Nx7WgqBbNUrR4k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27120 	- BOISSET LES PREVANCHES](https://docs.stopcoronavirus.tech/w/markdown/27120_boisset-les-prevanches/4XTTMFnCwc2mCBhNMa5M66Xr5ZWDkTVhpx7Nx7WgqBbNUrR4k-K3TgUyWp5qfFKyAP3gvFa8hGrkfjbfUiQTEkXgEHndoac3FGJHYCaX4k2LUov9asMoeHHPkzF6k8Leoq7BsceycSiLjYSF8d1PzVVyLVfawHYjtoPpH5wupZGnjH4C8kqgiqcpMv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27120 	- BOISSET LES PREVANCHES](https://docs.stopcoronavirus.tech/#/r/markdown/27120_boisset-les-prevanches/4XTTMFnCwc2mCBhNMa5M66Xr5ZWDkTVhpx7Nx7WgqBbNUrR4k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27120 	- BOISSET LES PREVANCHES](https://docs.stopcoronavirus.tech/#/w/markdown/27120_boisset-les-prevanches/4XTTMFnCwc2mCBhNMa5M66Xr5ZWDkTVhpx7Nx7WgqBbNUrR4k-K3TgUyWp5qfFKyAP3gvFa8hGrkfjbfUiQTEkXgEHndoac3FGJHYCaX4k2LUov9asMoeHHPkzF6k8Leoq7BsceycSiLjYSF8d1PzVVyLVfawHYjtoPpH5wupZGnjH4C8kqgiqcpMv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

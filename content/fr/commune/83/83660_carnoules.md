@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83660 	- CARNOULES](https://docs.stopcoronavirus.tech/r/markdown/83660_carnoules/4XTTM8avXtmWQX83aRKepzoXQMbFXdBaVans2n6xUgAMFYEVf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83660 	- CARNOULES](https://docs.stopcoronavirus.tech/w/markdown/83660_carnoules/4XTTM8avXtmWQX83aRKepzoXQMbFXdBaVans2n6xUgAMFYEVf-K3TgU3YD8rAPd6cfHniWpkv8T8H5vLCD2jvZNGk3fL8mno13y61NJGpatHqs6Xy42ycHeuAucKS8uKjGS1B65wNcfdwMc7x4n68B11Mr44vVjhrYoCePWUmDvV3zCxzvVAvj14py) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83660 	- CARNOULES](https://docs.stopcoronavirus.tech/#/r/markdown/83660_carnoules/4XTTM8avXtmWQX83aRKepzoXQMbFXdBaVans2n6xUgAMFYEVf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83660 	- CARNOULES](https://docs.stopcoronavirus.tech/#/w/markdown/83660_carnoules/4XTTM8avXtmWQX83aRKepzoXQMbFXdBaVans2n6xUgAMFYEVf-K3TgU3YD8rAPd6cfHniWpkv8T8H5vLCD2jvZNGk3fL8mno13y61NJGpatHqs6Xy42ycHeuAucKS8uKjGS1B65wNcfdwMc7x4n68B11Mr44vVjhrYoCePWUmDvV3zCxzvVAvj14py) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

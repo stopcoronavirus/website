@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77510 	- ST DENIS LES REBAIS](https://docs.stopcoronavirus.tech/r/markdown/77510_st-denis-les-rebais/4XTTM2sAXZKZbDpRH34K3uzUM4XNTZpL6NhtujrGLhxj3BY2a) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77510 	- ST DENIS LES REBAIS](https://docs.stopcoronavirus.tech/w/markdown/77510_st-denis-les-rebais/4XTTM2sAXZKZbDpRH34K3uzUM4XNTZpL6NhtujrGLhxj3BY2a-K3TgUue9BGLVnQhXjoatwdxWs6U6dPcf9PDzWC5SAdjHeZF1jG2bhoSTZ8sJrkAJz28Ado1sVmtjJVN8DHron6ujSsKy9m7XkfnxKs78ydAUS4KCQphAyi3oMvUNCTcfZoHtBxwp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77510 	- ST DENIS LES REBAIS](https://docs.stopcoronavirus.tech/#/r/markdown/77510_st-denis-les-rebais/4XTTM2sAXZKZbDpRH34K3uzUM4XNTZpL6NhtujrGLhxj3BY2a) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77510 	- ST DENIS LES REBAIS](https://docs.stopcoronavirus.tech/#/w/markdown/77510_st-denis-les-rebais/4XTTM2sAXZKZbDpRH34K3uzUM4XNTZpL6NhtujrGLhxj3BY2a-K3TgUue9BGLVnQhXjoatwdxWs6U6dPcf9PDzWC5SAdjHeZF1jG2bhoSTZ8sJrkAJz28Ado1sVmtjJVN8DHron6ujSsKy9m7XkfnxKs78ydAUS4KCQphAyi3oMvUNCTcfZoHtBxwp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

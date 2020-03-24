@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 04280 	- CERESTE](https://docs.stopcoronavirus.tech/r/markdown/04280_cereste/4XTTM2zktqbTKQvC9hRtS1E79N9EBDsgyfchBAWRfY88xNZKM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04280 	- CERESTE](https://docs.stopcoronavirus.tech/w/markdown/04280_cereste/4XTTM2zktqbTKQvC9hRtS1E79N9EBDsgyfchBAWRfY88xNZKM-K3TgUGAo1kAj1oUSNW9wxU3zWh3m9JZqDzw2b1Sqxz4HnxpgS2QwDBU9bL8LYaDLs2e8neYxNN1KLthyuRHHp9MnbnHKvYa5fweVaiCL3bk3GjVKAARAJmBm9v7Z3Q8W56fxGoSP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 04280 	- CERESTE](https://docs.stopcoronavirus.tech/#/r/markdown/04280_cereste/4XTTM2zktqbTKQvC9hRtS1E79N9EBDsgyfchBAWRfY88xNZKM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 04280 	- CERESTE](https://docs.stopcoronavirus.tech/#/w/markdown/04280_cereste/4XTTM2zktqbTKQvC9hRtS1E79N9EBDsgyfchBAWRfY88xNZKM-K3TgUGAo1kAj1oUSNW9wxU3zWh3m9JZqDzw2b1Sqxz4HnxpgS2QwDBU9bL8LYaDLs2e8neYxNN1KLthyuRHHp9MnbnHKvYa5fweVaiCL3bk3GjVKAARAJmBm9v7Z3Q8W56fxGoSP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

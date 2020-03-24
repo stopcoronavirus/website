@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51340 	- ST LUMIER LA POPULEUSE](https://docs.stopcoronavirus.tech/r/markdown/51340_st-lumier-la-populeuse/4XTTMD1Uftv79SdqUHXQgwGcAVsSYc4K31aLo9azmNDsM321v) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51340 	- ST LUMIER LA POPULEUSE](https://docs.stopcoronavirus.tech/w/markdown/51340_st-lumier-la-populeuse/4XTTMD1Uftv79SdqUHXQgwGcAVsSYc4K31aLo9azmNDsM321v-K3TgU6PgchXueKmvXUicV9dPLLLWw1T47fp1XdjKzjWR2eTUDZYgXzX8HmhZAweSLvGDDvDABiJxL1uAmCLVoKmvZvGUXDwsEhhHXLnCRJJ4R5bxtwfSjvkKWssQukZA1E6udUac) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51340 	- ST LUMIER LA POPULEUSE](https://docs.stopcoronavirus.tech/#/r/markdown/51340_st-lumier-la-populeuse/4XTTMD1Uftv79SdqUHXQgwGcAVsSYc4K31aLo9azmNDsM321v) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51340 	- ST LUMIER LA POPULEUSE](https://docs.stopcoronavirus.tech/#/w/markdown/51340_st-lumier-la-populeuse/4XTTMD1Uftv79SdqUHXQgwGcAVsSYc4K31aLo9azmNDsM321v-K3TgU6PgchXueKmvXUicV9dPLLLWw1T47fp1XdjKzjWR2eTUDZYgXzX8HmhZAweSLvGDDvDABiJxL1uAmCLVoKmvZvGUXDwsEhhHXLnCRJJ4R5bxtwfSjvkKWssQukZA1E6udUac) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

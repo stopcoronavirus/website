@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 05500 	- LA MOTTE EN CHAMPSAUR](https://docs.stopcoronavirus.tech/r/markdown/05500_la-motte-en-champsaur/4XTTM3CyVH8P5p9ViveBxZQ4aZxC75i3xBP4MnEDvJYV8KkLA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05500 	- LA MOTTE EN CHAMPSAUR](https://docs.stopcoronavirus.tech/w/markdown/05500_la-motte-en-champsaur/4XTTM3CyVH8P5p9ViveBxZQ4aZxC75i3xBP4MnEDvJYV8KkLA-K3TgV7PtkSw7HMTVus8wU1mEwnk68YbU34Usp1nMZi9mCBjGW941C337oHb75sFx5LiTgoUtcLYpYM7ShuyDXvZqVz17W57LPEVfjPL16PeXtNxpbYp2Zrwg43CjrrzCx2akRrpA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05500 	- LA MOTTE EN CHAMPSAUR](https://docs.stopcoronavirus.tech/#/r/markdown/05500_la-motte-en-champsaur/4XTTM3CyVH8P5p9ViveBxZQ4aZxC75i3xBP4MnEDvJYV8KkLA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05500 	- LA MOTTE EN CHAMPSAUR](https://docs.stopcoronavirus.tech/#/w/markdown/05500_la-motte-en-champsaur/4XTTM3CyVH8P5p9ViveBxZQ4aZxC75i3xBP4MnEDvJYV8KkLA-K3TgV7PtkSw7HMTVus8wU1mEwnk68YbU34Usp1nMZi9mCBjGW941C337oHb75sFx5LiTgoUtcLYpYM7ShuyDXvZqVz17W57LPEVfjPL16PeXtNxpbYp2Zrwg43CjrrzCx2akRrpA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

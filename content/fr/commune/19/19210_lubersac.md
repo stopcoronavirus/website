@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19210 	- LUBERSAC](https://docs.stopcoronavirus.tech/r/markdown/19210_lubersac/4XTTMG1qyAv63mbYcF9LgdEjW2erFTjbMpC1K6whWrPnJAib1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19210 	- LUBERSAC](https://docs.stopcoronavirus.tech/w/markdown/19210_lubersac/4XTTMG1qyAv63mbYcF9LgdEjW2erFTjbMpC1K6whWrPnJAib1-K3TgUdkge3zEc5EDCNvsS5GAZbjFTHmGD625x3NTWPJsTNjRfrCb9DyRvVftRnCt68zkxHqDAUdtCDHGDQhLPPB7qRqBX5Erh7b7LdxNgZkmcEyAoBk4EAWpg3b69tVGhoB8xqCB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19210 	- LUBERSAC](https://docs.stopcoronavirus.tech/#/r/markdown/19210_lubersac/4XTTMG1qyAv63mbYcF9LgdEjW2erFTjbMpC1K6whWrPnJAib1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19210 	- LUBERSAC](https://docs.stopcoronavirus.tech/#/w/markdown/19210_lubersac/4XTTMG1qyAv63mbYcF9LgdEjW2erFTjbMpC1K6whWrPnJAib1-K3TgUdkge3zEc5EDCNvsS5GAZbjFTHmGD625x3NTWPJsTNjRfrCb9DyRvVftRnCt68zkxHqDAUdtCDHGDQhLPPB7qRqBX5Erh7b7LdxNgZkmcEyAoBk4EAWpg3b69tVGhoB8xqCB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 90400 	- TREVENANS](https://docs.stopcoronavirus.tech/r/markdown/90400_trevenans/4XTTMBbzNrxWgmEhhHNiGPyrUSvvazmgqCjawp8x6V9T66wiL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90400 	- TREVENANS](https://docs.stopcoronavirus.tech/w/markdown/90400_trevenans/4XTTMBbzNrxWgmEhhHNiGPyrUSvvazmgqCjawp8x6V9T66wiL-K3TgTpqzPcYMXoihDUfFt9iJPYKrZHKxa67MbBuMxDoSyhSvdsQEocPxX96gAHoMDox5iqzZogMe81rrx9ibWvQJfD4fejLFfrTbsyS2gWEx7BA6zaCjafvTgYumUA3QBQ2Xy7Zv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 90400 	- TREVENANS](https://docs.stopcoronavirus.tech/#/r/markdown/90400_trevenans/4XTTMBbzNrxWgmEhhHNiGPyrUSvvazmgqCjawp8x6V9T66wiL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 90400 	- TREVENANS](https://docs.stopcoronavirus.tech/#/w/markdown/90400_trevenans/4XTTMBbzNrxWgmEhhHNiGPyrUSvvazmgqCjawp8x6V9T66wiL-K3TgTpqzPcYMXoihDUfFt9iJPYKrZHKxa67MbBuMxDoSyhSvdsQEocPxX96gAHoMDox5iqzZogMe81rrx9ibWvQJfD4fejLFfrTbsyS2gWEx7BA6zaCjafvTgYumUA3QBQ2Xy7Zv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

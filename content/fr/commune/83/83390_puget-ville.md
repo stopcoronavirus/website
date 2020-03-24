@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83390 	- PUGET VILLE](https://docs.stopcoronavirus.tech/r/markdown/83390_puget-ville/4XTTM5ZeSjzXGEZYLqGRkC4wepWyTpbmo4Hwc1j5CeHd6rbmJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83390 	- PUGET VILLE](https://docs.stopcoronavirus.tech/w/markdown/83390_puget-ville/4XTTM5ZeSjzXGEZYLqGRkC4wepWyTpbmo4Hwc1j5CeHd6rbmJ-K3TgUMG6GuqKk8cYDnqBRuRyhfPBncEjiRrCyU4rHgXzquu3nRe4yh39NAf7VN3R5Yd1PqrQo2FBicgsZUncmgJdskUHt5knuDb9j1oFfDK6bycQscdj4pTNEwrchGN5kcD4r6si) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83390 	- PUGET VILLE](https://docs.stopcoronavirus.tech/#/r/markdown/83390_puget-ville/4XTTM5ZeSjzXGEZYLqGRkC4wepWyTpbmo4Hwc1j5CeHd6rbmJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83390 	- PUGET VILLE](https://docs.stopcoronavirus.tech/#/w/markdown/83390_puget-ville/4XTTM5ZeSjzXGEZYLqGRkC4wepWyTpbmo4Hwc1j5CeHd6rbmJ-K3TgUMG6GuqKk8cYDnqBRuRyhfPBncEjiRrCyU4rHgXzquu3nRe4yh39NAf7VN3R5Yd1PqrQo2FBicgsZUncmgJdskUHt5knuDb9j1oFfDK6bycQscdj4pTNEwrchGN5kcD4r6si) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

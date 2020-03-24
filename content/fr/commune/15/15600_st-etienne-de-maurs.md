@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15600 	- ST ETIENNE DE MAURS](https://docs.stopcoronavirus.tech/r/markdown/15600_st-etienne-de-maurs/4XTTMCrknE5cRhfkZAmq5BR1RsYa4mqCbYrUEBEsz53ydfrTd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15600 	- ST ETIENNE DE MAURS](https://docs.stopcoronavirus.tech/w/markdown/15600_st-etienne-de-maurs/4XTTMCrknE5cRhfkZAmq5BR1RsYa4mqCbYrUEBEsz53ydfrTd-K3TgTuTqb216E3bct4edjsxoP2ckW81BX9EvnSKMSv6m2PMH9vD6nFDd4QXx78f4aoavmfodRiWmci23FuBQNt8aJ5Liy8CbzxMKF3CWoHWS4xRA7MBaEBNWiuvQquACfuEgmVUX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15600 	- ST ETIENNE DE MAURS](https://docs.stopcoronavirus.tech/#/r/markdown/15600_st-etienne-de-maurs/4XTTMCrknE5cRhfkZAmq5BR1RsYa4mqCbYrUEBEsz53ydfrTd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15600 	- ST ETIENNE DE MAURS](https://docs.stopcoronavirus.tech/#/w/markdown/15600_st-etienne-de-maurs/4XTTMCrknE5cRhfkZAmq5BR1RsYa4mqCbYrUEBEsz53ydfrTd-K3TgTuTqb216E3bct4edjsxoP2ckW81BX9EvnSKMSv6m2PMH9vD6nFDd4QXx78f4aoavmfodRiWmci23FuBQNt8aJ5Liy8CbzxMKF3CWoHWS4xRA7MBaEBNWiuvQquACfuEgmVUX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

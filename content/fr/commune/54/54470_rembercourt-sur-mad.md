@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 54470 	- REMBERCOURT SUR MAD](https://docs.stopcoronavirus.tech/r/markdown/54470_rembercourt-sur-mad/4XTTM8NzRNqDeWfHUigQZj5yYubaeUd7S3QTH5z4AX3wx2sWd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54470 	- REMBERCOURT SUR MAD](https://docs.stopcoronavirus.tech/w/markdown/54470_rembercourt-sur-mad/4XTTM8NzRNqDeWfHUigQZj5yYubaeUd7S3QTH5z4AX3wx2sWd-K3TgUkuiZLQ4vD1CSnDR8CuVJG2poh4p1TdASK354d6KVDmBmjTdTYbtXwhxGmyxJVuHvEDH3Xwg225doWTvoMf81tWGQZKS3dZNgkmVk7RYqogmSRVi1Do5cEE15V6hbsmrtmsB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54470 	- REMBERCOURT SUR MAD](https://docs.stopcoronavirus.tech/#/r/markdown/54470_rembercourt-sur-mad/4XTTM8NzRNqDeWfHUigQZj5yYubaeUd7S3QTH5z4AX3wx2sWd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54470 	- REMBERCOURT SUR MAD](https://docs.stopcoronavirus.tech/#/w/markdown/54470_rembercourt-sur-mad/4XTTM8NzRNqDeWfHUigQZj5yYubaeUd7S3QTH5z4AX3wx2sWd-K3TgUkuiZLQ4vD1CSnDR8CuVJG2poh4p1TdASK354d6KVDmBmjTdTYbtXwhxGmyxJVuHvEDH3Xwg225doWTvoMf81tWGQZKS3dZNgkmVk7RYqogmSRVi1Do5cEE15V6hbsmrtmsB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

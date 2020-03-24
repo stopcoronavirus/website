@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14860 	- BAVENT](https://docs.stopcoronavirus.tech/r/markdown/14860_bavent/4XTTM34rvetAg7d2bDJHJEQdXX4TK5ewJvi6t4Av3kr9VrMzN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14860 	- BAVENT](https://docs.stopcoronavirus.tech/w/markdown/14860_bavent/4XTTM34rvetAg7d2bDJHJEQdXX4TK5ewJvi6t4Av3kr9VrMzN-K3TgUr8ot8f2dtuycZ2PtTSX5BwtKcvvpqkRkf6qRJZWiwLGfVHsydHzjeyqXTC3ruMLciUNp8DrwPRPbFdufp8GE9EWbfQ2FgnLit9wvTFLdj1uJiE1Kh1XtDXAePTeYg1cRUJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14860 	- BAVENT](https://docs.stopcoronavirus.tech/#/r/markdown/14860_bavent/4XTTM34rvetAg7d2bDJHJEQdXX4TK5ewJvi6t4Av3kr9VrMzN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14860 	- BAVENT](https://docs.stopcoronavirus.tech/#/w/markdown/14860_bavent/4XTTM34rvetAg7d2bDJHJEQdXX4TK5ewJvi6t4Av3kr9VrMzN-K3TgUr8ot8f2dtuycZ2PtTSX5BwtKcvvpqkRkf6qRJZWiwLGfVHsydHzjeyqXTC3ruMLciUNp8DrwPRPbFdufp8GE9EWbfQ2FgnLit9wvTFLdj1uJiE1Kh1XtDXAePTeYg1cRUJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

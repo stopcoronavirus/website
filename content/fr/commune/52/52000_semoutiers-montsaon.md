@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 52000 	- SEMOUTIERS MONTSAON](https://docs.stopcoronavirus.tech/r/markdown/52000_semoutiers-montsaon/4XTTMH5NZn4coZsJbVZuEVafegZ6E7gVix1xxLrG2bLQ9hT8g) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52000 	- SEMOUTIERS MONTSAON](https://docs.stopcoronavirus.tech/w/markdown/52000_semoutiers-montsaon/4XTTMH5NZn4coZsJbVZuEVafegZ6E7gVix1xxLrG2bLQ9hT8g-K3TgUqeuT9BvaY2Skeaz3Li5LqpoA76TXDfxC7gQT3BHfNMUJEhdBqBVNuy2CSgnyJW1dLpqqDGucyxHa5whx7ySaSbp4YxeyfnMS96pvwm5QToLhLcgw2a5F6qGJUmWbfzNmbmv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52000 	- SEMOUTIERS MONTSAON](https://docs.stopcoronavirus.tech/#/r/markdown/52000_semoutiers-montsaon/4XTTMH5NZn4coZsJbVZuEVafegZ6E7gVix1xxLrG2bLQ9hT8g) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52000 	- SEMOUTIERS MONTSAON](https://docs.stopcoronavirus.tech/#/w/markdown/52000_semoutiers-montsaon/4XTTMH5NZn4coZsJbVZuEVafegZ6E7gVix1xxLrG2bLQ9hT8g-K3TgUqeuT9BvaY2Skeaz3Li5LqpoA76TXDfxC7gQT3BHfNMUJEhdBqBVNuy2CSgnyJW1dLpqqDGucyxHa5whx7ySaSbp4YxeyfnMS96pvwm5QToLhLcgw2a5F6qGJUmWbfzNmbmv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

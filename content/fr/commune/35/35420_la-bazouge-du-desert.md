@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 35420 	- LA BAZOUGE DU DESERT](https://docs.stopcoronavirus.tech/r/markdown/35420_la-bazouge-du-desert/4XTTM7vBNbisT2Dcb7Rq8uBgsKbT17p1f5DC3eFPhZx4D3oN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35420 	- LA BAZOUGE DU DESERT](https://docs.stopcoronavirus.tech/w/markdown/35420_la-bazouge-du-desert/4XTTM7vBNbisT2Dcb7Rq8uBgsKbT17p1f5DC3eFPhZx4D3oN4-K3TgU9MVwAwxGzuNf4wKdcR1QQcDNtYfKDgfMz55e3weJryZfZScsZpZNwN5szy1Gw23BrJHuBoEqA5gtsraw8JDqe2AspvLemo264LXoLjt9NrG4AD78EwSCJ5bAm4TXvsJ5q9n) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35420 	- LA BAZOUGE DU DESERT](https://docs.stopcoronavirus.tech/#/r/markdown/35420_la-bazouge-du-desert/4XTTM7vBNbisT2Dcb7Rq8uBgsKbT17p1f5DC3eFPhZx4D3oN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35420 	- LA BAZOUGE DU DESERT](https://docs.stopcoronavirus.tech/#/w/markdown/35420_la-bazouge-du-desert/4XTTM7vBNbisT2Dcb7Rq8uBgsKbT17p1f5DC3eFPhZx4D3oN4-K3TgU9MVwAwxGzuNf4wKdcR1QQcDNtYfKDgfMz55e3weJryZfZScsZpZNwN5szy1Gw23BrJHuBoEqA5gtsraw8JDqe2AspvLemo264LXoLjt9NrG4AD78EwSCJ5bAm4TXvsJ5q9n) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 61560 	- ST AUBIN DE COURTERAIE](https://docs.stopcoronavirus.tech/r/markdown/61560_st-aubin-de-courteraie/4XTTMDJsFYM1wVdczd7XeujBtzjbq7Dh86ByJn3qaswhb9zWb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61560 	- ST AUBIN DE COURTERAIE](https://docs.stopcoronavirus.tech/w/markdown/61560_st-aubin-de-courteraie/4XTTMDJsFYM1wVdczd7XeujBtzjbq7Dh86ByJn3qaswhb9zWb-K3TgU29qKrLw2s4Rkd3PqChg2V3K6gjR2k6jHJ6UAJnDxGT7wR8HhDAKq93r36a3xoGU1LwigMpGDLh8JVCFsP35x6GoxoRMWWefeSvfj49MjXWovdTfKjmgVUvjkwgH1LzdCQ15) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61560 	- ST AUBIN DE COURTERAIE](https://docs.stopcoronavirus.tech/#/r/markdown/61560_st-aubin-de-courteraie/4XTTMDJsFYM1wVdczd7XeujBtzjbq7Dh86ByJn3qaswhb9zWb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61560 	- ST AUBIN DE COURTERAIE](https://docs.stopcoronavirus.tech/#/w/markdown/61560_st-aubin-de-courteraie/4XTTMDJsFYM1wVdczd7XeujBtzjbq7Dh86ByJn3qaswhb9zWb-K3TgU29qKrLw2s4Rkd3PqChg2V3K6gjR2k6jHJ6UAJnDxGT7wR8HhDAKq93r36a3xoGU1LwigMpGDLh8JVCFsP35x6GoxoRMWWefeSvfj49MjXWovdTfKjmgVUvjkwgH1LzdCQ15) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

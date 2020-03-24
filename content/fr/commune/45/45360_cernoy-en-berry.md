@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 45360 	- CERNOY EN BERRY](https://docs.stopcoronavirus.tech/r/markdown/45360_cernoy-en-berry/4XTTMA3xEk8TqUyng3bP8BNZ5SrNf64Sr9nBLtZx7HHhNj5MT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45360 	- CERNOY EN BERRY](https://docs.stopcoronavirus.tech/w/markdown/45360_cernoy-en-berry/4XTTMA3xEk8TqUyng3bP8BNZ5SrNf64Sr9nBLtZx7HHhNj5MT-K3TgU5iLyzYqT6rNhTX4HRFJv5K9ga2t3sp6LMDUQkKtGE9n7p9YtuBrULyqCgN7hWqFuKQwgQZfU29jZMyB5kMGZwe5WXmD3xWPK2Q8NPxX9z2a1zXAFsMCaqLAeAdRssjtKZHs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45360 	- CERNOY EN BERRY](https://docs.stopcoronavirus.tech/#/r/markdown/45360_cernoy-en-berry/4XTTMA3xEk8TqUyng3bP8BNZ5SrNf64Sr9nBLtZx7HHhNj5MT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45360 	- CERNOY EN BERRY](https://docs.stopcoronavirus.tech/#/w/markdown/45360_cernoy-en-berry/4XTTMA3xEk8TqUyng3bP8BNZ5SrNf64Sr9nBLtZx7HHhNj5MT-K3TgU5iLyzYqT6rNhTX4HRFJv5K9ga2t3sp6LMDUQkKtGE9n7p9YtuBrULyqCgN7hWqFuKQwgQZfU29jZMyB5kMGZwe5WXmD3xWPK2Q8NPxX9z2a1zXAFsMCaqLAeAdRssjtKZHs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

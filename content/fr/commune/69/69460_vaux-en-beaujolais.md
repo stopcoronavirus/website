@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69460 	- VAUX EN BEAUJOLAIS](https://docs.stopcoronavirus.tech/r/markdown/69460_vaux-en-beaujolais/4XTTMBQrnb18AzKVoktDRLzquFAYor7HRH44bQNRJh1x5sBSV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69460 	- VAUX EN BEAUJOLAIS](https://docs.stopcoronavirus.tech/w/markdown/69460_vaux-en-beaujolais/4XTTMBQrnb18AzKVoktDRLzquFAYor7HRH44bQNRJh1x5sBSV-K3TgU9jAtyV3v5kg3B4sfVcSBVjna7cnbEZkFRths5ny25qdDqd6YqyovoiJufcJRWBTggGM3ATiqVNpmqGc4aULWQTmr23o8P7UfS6hEtfR9YNqjP6hBcyzCXLMsPHs7Las7E6y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69460 	- VAUX EN BEAUJOLAIS](https://docs.stopcoronavirus.tech/#/r/markdown/69460_vaux-en-beaujolais/4XTTMBQrnb18AzKVoktDRLzquFAYor7HRH44bQNRJh1x5sBSV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69460 	- VAUX EN BEAUJOLAIS](https://docs.stopcoronavirus.tech/#/w/markdown/69460_vaux-en-beaujolais/4XTTMBQrnb18AzKVoktDRLzquFAYor7HRH44bQNRJh1x5sBSV-K3TgU9jAtyV3v5kg3B4sfVcSBVjna7cnbEZkFRths5ny25qdDqd6YqyovoiJufcJRWBTggGM3ATiqVNpmqGc4aULWQTmr23o8P7UfS6hEtfR9YNqjP6hBcyzCXLMsPHs7Las7E6y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

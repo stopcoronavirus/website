@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08270 	- CORNY MACHEROMENIL](https://docs.stopcoronavirus.tech/r/markdown/08270_corny-macheromenil/4XTTMFKKT95M6oeRbgpGv9YhUhY5ra8TboXMzLJde1rTgLmNm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08270 	- CORNY MACHEROMENIL](https://docs.stopcoronavirus.tech/w/markdown/08270_corny-macheromenil/4XTTMFKKT95M6oeRbgpGv9YhUhY5ra8TboXMzLJde1rTgLmNm-K3TgUULZjTEunisG6wzTosoZ3Zooyb6e8ZtdL2Lpaf6Ry4dThhz1YkifK6vYLTeNg6SVccGAW69xxNUBgmq7TtLezcRmnziySCorwgiQFdpDCdfTpZqm9fqMqJrtJyphmggngcvH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08270 	- CORNY MACHEROMENIL](https://docs.stopcoronavirus.tech/#/r/markdown/08270_corny-macheromenil/4XTTMFKKT95M6oeRbgpGv9YhUhY5ra8TboXMzLJde1rTgLmNm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08270 	- CORNY MACHEROMENIL](https://docs.stopcoronavirus.tech/#/w/markdown/08270_corny-macheromenil/4XTTMFKKT95M6oeRbgpGv9YhUhY5ra8TboXMzLJde1rTgLmNm-K3TgUULZjTEunisG6wzTosoZ3Zooyb6e8ZtdL2Lpaf6Ry4dThhz1YkifK6vYLTeNg6SVccGAW69xxNUBgmq7TtLezcRmnziySCorwgiQFdpDCdfTpZqm9fqMqJrtJyphmggngcvH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

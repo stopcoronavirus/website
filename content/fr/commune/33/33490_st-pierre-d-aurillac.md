@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33490 	- ST PIERRE D AURILLAC](https://docs.stopcoronavirus.tech/r/markdown/33490_st-pierre-d-aurillac/4XTTM68ofFCKSR6Fbyn2irBjFwefqzBmBoDVvN3wDJDc9DrM1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33490 	- ST PIERRE D AURILLAC](https://docs.stopcoronavirus.tech/w/markdown/33490_st-pierre-d-aurillac/4XTTM68ofFCKSR6Fbyn2irBjFwefqzBmBoDVvN3wDJDc9DrM1-K3TgUFfnfG2RqpTH5qDd3R6VUaPnJZzrxvCmNKJoUJXWvFujDoMCjgtTWfZHrncAUdsGTW2YgMGct3TtHN161CG592xtgL4Pksw4NAUA34GAvKA7CnLeY7VJGFx42N72yLoMaC8b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33490 	- ST PIERRE D AURILLAC](https://docs.stopcoronavirus.tech/#/r/markdown/33490_st-pierre-d-aurillac/4XTTM68ofFCKSR6Fbyn2irBjFwefqzBmBoDVvN3wDJDc9DrM1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33490 	- ST PIERRE D AURILLAC](https://docs.stopcoronavirus.tech/#/w/markdown/33490_st-pierre-d-aurillac/4XTTM68ofFCKSR6Fbyn2irBjFwefqzBmBoDVvN3wDJDc9DrM1-K3TgUFfnfG2RqpTH5qDd3R6VUaPnJZzrxvCmNKJoUJXWvFujDoMCjgtTWfZHrncAUdsGTW2YgMGct3TtHN161CG592xtgL4Pksw4NAUA34GAvKA7CnLeY7VJGFx42N72yLoMaC8b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

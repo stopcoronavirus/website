@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27220 	- ST GERMAIN DE FRESNEY](https://docs.stopcoronavirus.tech/r/markdown/27220_st-germain-de-fresney/4XTTMDVZJmyHwdfjemh4y8PwKTxb1Jewn9tXG7eZEf52xGcGb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27220 	- ST GERMAIN DE FRESNEY](https://docs.stopcoronavirus.tech/w/markdown/27220_st-germain-de-fresney/4XTTMDVZJmyHwdfjemh4y8PwKTxb1Jewn9tXG7eZEf52xGcGb-K3TgU8JYheSiMTZQM96vxhegoNFvg65Ukh9cbS77bzyG68w19gYbaS5xpedHdxPZ9wziGYjQLajzh7x5ijeX671QPKNr2fLeSWcnBDBHHSBev4Fzx8cR4xisLckWe2gotgdkUsmu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27220 	- ST GERMAIN DE FRESNEY](https://docs.stopcoronavirus.tech/#/r/markdown/27220_st-germain-de-fresney/4XTTMDVZJmyHwdfjemh4y8PwKTxb1Jewn9tXG7eZEf52xGcGb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27220 	- ST GERMAIN DE FRESNEY](https://docs.stopcoronavirus.tech/#/w/markdown/27220_st-germain-de-fresney/4XTTMDVZJmyHwdfjemh4y8PwKTxb1Jewn9tXG7eZEf52xGcGb-K3TgU8JYheSiMTZQM96vxhegoNFvg65Ukh9cbS77bzyG68w19gYbaS5xpedHdxPZ9wziGYjQLajzh7x5ijeX671QPKNr2fLeSWcnBDBHHSBev4Fzx8cR4xisLckWe2gotgdkUsmu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

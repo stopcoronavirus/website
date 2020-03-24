@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 11240 	- ROUTIER](https://docs.stopcoronavirus.tech/r/markdown/11240_routier/4XTTMCdiziCndmTieQsL6qu1F2YUPpZHCtpt2D7WYUvLnmuG1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11240 	- ROUTIER](https://docs.stopcoronavirus.tech/w/markdown/11240_routier/4XTTMCdiziCndmTieQsL6qu1F2YUPpZHCtpt2D7WYUvLnmuG1-K3TgUSzNTsT1aik6cLyv4iEcfbFqSktzkLijQHp9eEjd1yG3cHBTpMzYVHP2F29morRvivSNiBfWJNtkk4DAPnUbHh8ogkLF3tA7ww36fz7i42kMXrp38nbyNFgZujNWaBfiSfR7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 11240 	- ROUTIER](https://docs.stopcoronavirus.tech/#/r/markdown/11240_routier/4XTTMCdiziCndmTieQsL6qu1F2YUPpZHCtpt2D7WYUvLnmuG1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 11240 	- ROUTIER](https://docs.stopcoronavirus.tech/#/w/markdown/11240_routier/4XTTMCdiziCndmTieQsL6qu1F2YUPpZHCtpt2D7WYUvLnmuG1-K3TgUSzNTsT1aik6cLyv4iEcfbFqSktzkLijQHp9eEjd1yG3cHBTpMzYVHP2F29morRvivSNiBfWJNtkk4DAPnUbHh8ogkLF3tA7ww36fz7i42kMXrp38nbyNFgZujNWaBfiSfR7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 11 	- Aude](https://docs.stopcoronavirus.tech/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11 	- Aude](https://docs.stopcoronavirus.tech/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 11 	- Aude](https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 11 	- Aude](https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

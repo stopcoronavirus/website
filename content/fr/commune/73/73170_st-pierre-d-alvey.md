@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 73170 	- ST PIERRE D ALVEY](https://docs.stopcoronavirus.tech/r/markdown/73170_st-pierre-d-alvey/4XTTM5gwAwQ9ttsMDVbCi2fipuQunuvrskNJ6CuaJRoPAU6hT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73170 	- ST PIERRE D ALVEY](https://docs.stopcoronavirus.tech/w/markdown/73170_st-pierre-d-alvey/4XTTM5gwAwQ9ttsMDVbCi2fipuQunuvrskNJ6CuaJRoPAU6hT-K3TgU7YUmKuS311os6F1MMJPTx9RkHdoCmYkaDaH83Cy49c9yyXN8iR9n5pxdmAEN23jYsuwCZsuUF2Py21mnLkpkaW3u4XhfvqfNFasKeD73GuNEt4nmKCYC7zCQVVE65h8nLFP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73170 	- ST PIERRE D ALVEY](https://docs.stopcoronavirus.tech/#/r/markdown/73170_st-pierre-d-alvey/4XTTM5gwAwQ9ttsMDVbCi2fipuQunuvrskNJ6CuaJRoPAU6hT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73170 	- ST PIERRE D ALVEY](https://docs.stopcoronavirus.tech/#/w/markdown/73170_st-pierre-d-alvey/4XTTM5gwAwQ9ttsMDVbCi2fipuQunuvrskNJ6CuaJRoPAU6hT-K3TgU7YUmKuS311os6F1MMJPTx9RkHdoCmYkaDaH83Cy49c9yyXN8iR9n5pxdmAEN23jYsuwCZsuUF2Py21mnLkpkaW3u4XhfvqfNFasKeD73GuNEt4nmKCYC7zCQVVE65h8nLFP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

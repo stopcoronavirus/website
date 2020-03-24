@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38142 	- CLAVANS EN HAUT OISANS](https://docs.stopcoronavirus.tech/r/markdown/38142_clavans-en-haut-oisans/4XTTM9gQNhaHD2CoPX5xgrQAhziTN1zMrUQaMfD2s1GpY9sj1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38142 	- CLAVANS EN HAUT OISANS](https://docs.stopcoronavirus.tech/w/markdown/38142_clavans-en-haut-oisans/4XTTM9gQNhaHD2CoPX5xgrQAhziTN1zMrUQaMfD2s1GpY9sj1-K3TgUZtVSc5euQK5ZhvpEAFQrMS5qNvTTyfGve6ViYudFFwwKd1vwYKMvELiQ2s45b7DGcQvYiugWhDNqUS9LWcPwyLTJv2XriFNe1xqfy33zhs3gZSMBxw8QRTYE2cKDWA8nxkB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38142 	- CLAVANS EN HAUT OISANS](https://docs.stopcoronavirus.tech/#/r/markdown/38142_clavans-en-haut-oisans/4XTTM9gQNhaHD2CoPX5xgrQAhziTN1zMrUQaMfD2s1GpY9sj1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38142 	- CLAVANS EN HAUT OISANS](https://docs.stopcoronavirus.tech/#/w/markdown/38142_clavans-en-haut-oisans/4XTTM9gQNhaHD2CoPX5xgrQAhziTN1zMrUQaMfD2s1GpY9sj1-K3TgUZtVSc5euQK5ZhvpEAFQrMS5qNvTTyfGve6ViYudFFwwKd1vwYKMvELiQ2s45b7DGcQvYiugWhDNqUS9LWcPwyLTJv2XriFNe1xqfy33zhs3gZSMBxw8QRTYE2cKDWA8nxkB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

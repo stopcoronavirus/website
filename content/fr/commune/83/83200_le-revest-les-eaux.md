@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83200 	- LE REVEST LES EAUX](https://docs.stopcoronavirus.tech/r/markdown/83200_le-revest-les-eaux/4XTTM4QkNa83yRT4ki21nFXi68DRkaL3kHCXgCavq2kTrJyB5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83200 	- LE REVEST LES EAUX](https://docs.stopcoronavirus.tech/w/markdown/83200_le-revest-les-eaux/4XTTM4QkNa83yRT4ki21nFXi68DRkaL3kHCXgCavq2kTrJyB5-K3TgTytLVH3ZmruWJ8osBn9bXt6H1VUGDzHWJMT733szUae3Jz5ikCuM27ktvUWiLdxkrDQR3pgivKxXfZjpnsrQhFFyWLJpYcFQfKEKJ6hurqg3htDhkd92XV45NoeZxCDYUYvT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83200 	- LE REVEST LES EAUX](https://docs.stopcoronavirus.tech/#/r/markdown/83200_le-revest-les-eaux/4XTTM4QkNa83yRT4ki21nFXi68DRkaL3kHCXgCavq2kTrJyB5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83200 	- LE REVEST LES EAUX](https://docs.stopcoronavirus.tech/#/w/markdown/83200_le-revest-les-eaux/4XTTM4QkNa83yRT4ki21nFXi68DRkaL3kHCXgCavq2kTrJyB5-K3TgTytLVH3ZmruWJ8osBn9bXt6H1VUGDzHWJMT733szUae3Jz5ikCuM27ktvUWiLdxkrDQR3pgivKxXfZjpnsrQhFFyWLJpYcFQfKEKJ6hurqg3htDhkd92XV45NoeZxCDYUYvT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07520 	- ST PIERRE SUR DOUX](https://docs.stopcoronavirus.tech/r/markdown/07520_st-pierre-sur-doux/4XTTMHupyDeNqyqWg9jZkx3sSPxzqX2b3Z6sKeUE9ySVsxJVc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07520 	- ST PIERRE SUR DOUX](https://docs.stopcoronavirus.tech/w/markdown/07520_st-pierre-sur-doux/4XTTMHupyDeNqyqWg9jZkx3sSPxzqX2b3Z6sKeUE9ySVsxJVc-K3TgUAu8i7ufoXYMEdp8hCw76KQtEHKc7QbPoNkUb2Rgh5ph38aSVvVKAA8osUwsCNHUUT3DNRPArNgE4SXMUTaLiVRgyebGESvmR8gTKUxjNUESSQe36tvnTDfaJrSfaghdJA54) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07520 	- ST PIERRE SUR DOUX](https://docs.stopcoronavirus.tech/#/r/markdown/07520_st-pierre-sur-doux/4XTTMHupyDeNqyqWg9jZkx3sSPxzqX2b3Z6sKeUE9ySVsxJVc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07520 	- ST PIERRE SUR DOUX](https://docs.stopcoronavirus.tech/#/w/markdown/07520_st-pierre-sur-doux/4XTTMHupyDeNqyqWg9jZkx3sSPxzqX2b3Z6sKeUE9ySVsxJVc-K3TgUAu8i7ufoXYMEdp8hCw76KQtEHKc7QbPoNkUb2Rgh5ph38aSVvVKAA8osUwsCNHUUT3DNRPArNgE4SXMUTaLiVRgyebGESvmR8gTKUxjNUESSQe36tvnTDfaJrSfaghdJA54) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

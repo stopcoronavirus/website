@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 74500 	- THOLLON LES MEMISES](https://docs.stopcoronavirus.tech/r/markdown/74500_thollon-les-memises/4XTTM8WZLQQJdffr3rPWH3ifpXek77EF2u4s5JotS2WWMvnyn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74500 	- THOLLON LES MEMISES](https://docs.stopcoronavirus.tech/w/markdown/74500_thollon-les-memises/4XTTM8WZLQQJdffr3rPWH3ifpXek77EF2u4s5JotS2WWMvnyn-K3TgUX6YoQGZoLxwQFSh3hkg2vUjeub3Cr8KCStDTLGwRSkF5pmHVYNmuiPPpAVt2Jegc7oRsxXtAoPvG34rU339m7YDGmAMYY5ztk6DDocA5aTK6WkVxMqYdBvSgNkSsAvw1KQU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74500 	- THOLLON LES MEMISES](https://docs.stopcoronavirus.tech/#/r/markdown/74500_thollon-les-memises/4XTTM8WZLQQJdffr3rPWH3ifpXek77EF2u4s5JotS2WWMvnyn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74500 	- THOLLON LES MEMISES](https://docs.stopcoronavirus.tech/#/w/markdown/74500_thollon-les-memises/4XTTM8WZLQQJdffr3rPWH3ifpXek77EF2u4s5JotS2WWMvnyn-K3TgUX6YoQGZoLxwQFSh3hkg2vUjeub3Cr8KCStDTLGwRSkF5pmHVYNmuiPPpAVt2Jegc7oRsxXtAoPvG34rU339m7YDGmAMYY5ztk6DDocA5aTK6WkVxMqYdBvSgNkSsAvw1KQU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

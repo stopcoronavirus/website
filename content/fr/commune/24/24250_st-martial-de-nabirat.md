@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24250 	- ST MARTIAL DE NABIRAT](https://docs.stopcoronavirus.tech/r/markdown/24250_st-martial-de-nabirat/4XTTMHPgoMDQzLgCk3o4N9zgamiVF9926CqwjxruxSWX5o1PK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24250 	- ST MARTIAL DE NABIRAT](https://docs.stopcoronavirus.tech/w/markdown/24250_st-martial-de-nabirat/4XTTMHPgoMDQzLgCk3o4N9zgamiVF9926CqwjxruxSWX5o1PK-K3TgUxLNLicMpZGjzcMNx31KgzBP8fGjewsGdpDSdZdRQN1TS8KD6L5iHg3fGqVh9N3pgFm5mjtviyvWRLh4YWVLVAqWDvGEoSKE1ARkWF4vUqsNBtX6sX8UnWCiNDH8VeY23EPo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24250 	- ST MARTIAL DE NABIRAT](https://docs.stopcoronavirus.tech/#/r/markdown/24250_st-martial-de-nabirat/4XTTMHPgoMDQzLgCk3o4N9zgamiVF9926CqwjxruxSWX5o1PK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24250 	- ST MARTIAL DE NABIRAT](https://docs.stopcoronavirus.tech/#/w/markdown/24250_st-martial-de-nabirat/4XTTMHPgoMDQzLgCk3o4N9zgamiVF9926CqwjxruxSWX5o1PK-K3TgUxLNLicMpZGjzcMNx31KgzBP8fGjewsGdpDSdZdRQN1TS8KD6L5iHg3fGqVh9N3pgFm5mjtviyvWRLh4YWVLVAqWDvGEoSKE1ARkWF4vUqsNBtX6sX8UnWCiNDH8VeY23EPo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

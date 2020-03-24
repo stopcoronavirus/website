@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19230 	- TROCHE](https://docs.stopcoronavirus.tech/r/markdown/19230_troche/4XTTM4KjtRtNcDjXqhEA14UatZFR1jku5V6M4ozaoJeWiXQEY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19230 	- TROCHE](https://docs.stopcoronavirus.tech/w/markdown/19230_troche/4XTTM4KjtRtNcDjXqhEA14UatZFR1jku5V6M4ozaoJeWiXQEY-K3TgUXZ81gCrpw7sX7ra66iQnu4ZrTQW5HxqGQ2MqPU7KRHuBz482WcaCb7N6GFkH6qSUhRk6qTkpqKvHZ37eaYxYPRyKSFyUvKyHY59kBJ1tzG6D4gV1qYoLsVwmHXwg4QwqBVn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19230 	- TROCHE](https://docs.stopcoronavirus.tech/#/r/markdown/19230_troche/4XTTM4KjtRtNcDjXqhEA14UatZFR1jku5V6M4ozaoJeWiXQEY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19230 	- TROCHE](https://docs.stopcoronavirus.tech/#/w/markdown/19230_troche/4XTTM4KjtRtNcDjXqhEA14UatZFR1jku5V6M4ozaoJeWiXQEY-K3TgUXZ81gCrpw7sX7ra66iQnu4ZrTQW5HxqGQ2MqPU7KRHuBz482WcaCb7N6GFkH6qSUhRk6qTkpqKvHZ37eaYxYPRyKSFyUvKyHY59kBJ1tzG6D4gV1qYoLsVwmHXwg4QwqBVn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

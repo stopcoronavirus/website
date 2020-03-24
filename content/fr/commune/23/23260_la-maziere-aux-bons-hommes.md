@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23260 	- LA MAZIERE AUX BONS HOMMES](https://docs.stopcoronavirus.tech/r/markdown/23260_la-maziere-aux-bons-hommes/4XTTMHYaY93jWUX7Ej8zCyDzqHNN3UQBKCJyCjpMWLH8jAtQh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23260 	- LA MAZIERE AUX BONS HOMMES](https://docs.stopcoronavirus.tech/w/markdown/23260_la-maziere-aux-bons-hommes/4XTTMHYaY93jWUX7Ej8zCyDzqHNN3UQBKCJyCjpMWLH8jAtQh-K3TgV1kaTaq15Jy7w9djn2awZqq7YFcsuSxGxPQsZ1e4d4Hh3JSKUy4t8u8M2KgSmVGCbDihPBhqz8FEgBZHdzHcP2qoKvQWRV4FfYL3PN1QEEvYw3T4QVUR8iyZsZsAZPXp8PmT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23260 	- LA MAZIERE AUX BONS HOMMES](https://docs.stopcoronavirus.tech/#/r/markdown/23260_la-maziere-aux-bons-hommes/4XTTMHYaY93jWUX7Ej8zCyDzqHNN3UQBKCJyCjpMWLH8jAtQh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23260 	- LA MAZIERE AUX BONS HOMMES](https://docs.stopcoronavirus.tech/#/w/markdown/23260_la-maziere-aux-bons-hommes/4XTTMHYaY93jWUX7Ej8zCyDzqHNN3UQBKCJyCjpMWLH8jAtQh-K3TgV1kaTaq15Jy7w9djn2awZqq7YFcsuSxGxPQsZ1e4d4Hh3JSKUy4t8u8M2KgSmVGCbDihPBhqz8FEgBZHdzHcP2qoKvQWRV4FfYL3PN1QEEvYw3T4QVUR8iyZsZsAZPXp8PmT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

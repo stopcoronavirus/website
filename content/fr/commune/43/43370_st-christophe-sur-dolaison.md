@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 43370 	- ST CHRISTOPHE SUR DOLAISON](https://docs.stopcoronavirus.tech/r/markdown/43370_st-christophe-sur-dolaison/4XTTM9WC8hfB4Px63CfaBQ6xNt8SxdKY7J7JJ1J26DnwQdu3a) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43370 	- ST CHRISTOPHE SUR DOLAISON](https://docs.stopcoronavirus.tech/w/markdown/43370_st-christophe-sur-dolaison/4XTTM9WC8hfB4Px63CfaBQ6xNt8SxdKY7J7JJ1J26DnwQdu3a-K3TgTjgu4DSt9irdvS6D84fNdcDGVnBzZgdmkGsbBiNfMG4zTuoUUmuMdRSQ2GYx7Rostz2dZVvmFhqX7dkJ1seBbSFfedb9CoB2sY677pS5y9MCffhU1LsibY69K3tULgyRtsdE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43370 	- ST CHRISTOPHE SUR DOLAISON](https://docs.stopcoronavirus.tech/#/r/markdown/43370_st-christophe-sur-dolaison/4XTTM9WC8hfB4Px63CfaBQ6xNt8SxdKY7J7JJ1J26DnwQdu3a) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43370 	- ST CHRISTOPHE SUR DOLAISON](https://docs.stopcoronavirus.tech/#/w/markdown/43370_st-christophe-sur-dolaison/4XTTM9WC8hfB4Px63CfaBQ6xNt8SxdKY7J7JJ1J26DnwQdu3a-K3TgTjgu4DSt9irdvS6D84fNdcDGVnBzZgdmkGsbBiNfMG4zTuoUUmuMdRSQ2GYx7Rostz2dZVvmFhqX7dkJ1seBbSFfedb9CoB2sY677pS5y9MCffhU1LsibY69K3tULgyRtsdE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

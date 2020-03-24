@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83380 	- ROQUEBRUNE SUR ARGENS](https://docs.stopcoronavirus.tech/r/markdown/83380_roquebrune-sur-argens/4XTTMCtfWyyCMakK9gQoPrLMyBEvaG65LEH6G9DtYdZACELr9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83380 	- ROQUEBRUNE SUR ARGENS](https://docs.stopcoronavirus.tech/w/markdown/83380_roquebrune-sur-argens/4XTTMCtfWyyCMakK9gQoPrLMyBEvaG65LEH6G9DtYdZACELr9-K3TgUHafq3bvXkjhCqXPt2Wu79dt9XsmYEAnueEaBrKndcGq2rNuJGW6A2oqvGd5JFmhcCphtXjQYXBvGs2B5w73ancnQXD9ktEkX151HYg9PT82dTVThkPmimb6CtHW5ctLTKfb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83380 	- ROQUEBRUNE SUR ARGENS](https://docs.stopcoronavirus.tech/#/r/markdown/83380_roquebrune-sur-argens/4XTTMCtfWyyCMakK9gQoPrLMyBEvaG65LEH6G9DtYdZACELr9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83380 	- ROQUEBRUNE SUR ARGENS](https://docs.stopcoronavirus.tech/#/w/markdown/83380_roquebrune-sur-argens/4XTTMCtfWyyCMakK9gQoPrLMyBEvaG65LEH6G9DtYdZACELr9-K3TgUHafq3bvXkjhCqXPt2Wu79dt9XsmYEAnueEaBrKndcGq2rNuJGW6A2oqvGd5JFmhcCphtXjQYXBvGs2B5w73ancnQXD9ktEkX151HYg9PT82dTVThkPmimb6CtHW5ctLTKfb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

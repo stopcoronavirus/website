@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18140 	- LA CHAPELLE MONTLINARD](https://docs.stopcoronavirus.tech/r/markdown/18140_la-chapelle-montlinard/4XTTMFrnvZJ6BpewGtfhgfZ8n8RwBhzK6uTbDecPhqb251zAD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18140 	- LA CHAPELLE MONTLINARD](https://docs.stopcoronavirus.tech/w/markdown/18140_la-chapelle-montlinard/4XTTMFrnvZJ6BpewGtfhgfZ8n8RwBhzK6uTbDecPhqb251zAD-K3TgU9yZKXTPWGvPajR5XStxxCVQnyNQ1WbwLA9DK4jZz12zT5aeH7i7ezC8GDfvt2vPgipQpfv382kK2qa4ZDPGMzv6Sm9sef4h8QhyW1UUtP63hAmRzRcbFDandEos7oZikjN9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18140 	- LA CHAPELLE MONTLINARD](https://docs.stopcoronavirus.tech/#/r/markdown/18140_la-chapelle-montlinard/4XTTMFrnvZJ6BpewGtfhgfZ8n8RwBhzK6uTbDecPhqb251zAD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18140 	- LA CHAPELLE MONTLINARD](https://docs.stopcoronavirus.tech/#/w/markdown/18140_la-chapelle-montlinard/4XTTMFrnvZJ6BpewGtfhgfZ8n8RwBhzK6uTbDecPhqb251zAD-K3TgU9yZKXTPWGvPajR5XStxxCVQnyNQ1WbwLA9DK4jZz12zT5aeH7i7ezC8GDfvt2vPgipQpfv382kK2qa4ZDPGMzv6Sm9sef4h8QhyW1UUtP63hAmRzRcbFDandEos7oZikjN9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

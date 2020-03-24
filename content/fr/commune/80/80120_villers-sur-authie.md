@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80120 	- VILLERS SUR AUTHIE](https://docs.stopcoronavirus.tech/r/markdown/80120_villers-sur-authie/4XTTM3Ww6XJ9B1Q7GiN1fuiiiBY1yXjwGYgVK8w8LV4mWLsqg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80120 	- VILLERS SUR AUTHIE](https://docs.stopcoronavirus.tech/w/markdown/80120_villers-sur-authie/4XTTM3Ww6XJ9B1Q7GiN1fuiiiBY1yXjwGYgVK8w8LV4mWLsqg-K3TgUEsp2SGyf44jnZpYf6G1x1wCv2NjwnaBty7hWXCXBqo4UzdHEBe9YXnB2621BLSSwb9NvCvBmjdQtStBCSDVTuDMFCaJwh7NJzxobpWmbC7e1nAHjkwav8uw5cQmvcvd66Xp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80120 	- VILLERS SUR AUTHIE](https://docs.stopcoronavirus.tech/#/r/markdown/80120_villers-sur-authie/4XTTM3Ww6XJ9B1Q7GiN1fuiiiBY1yXjwGYgVK8w8LV4mWLsqg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80120 	- VILLERS SUR AUTHIE](https://docs.stopcoronavirus.tech/#/w/markdown/80120_villers-sur-authie/4XTTM3Ww6XJ9B1Q7GiN1fuiiiBY1yXjwGYgVK8w8LV4mWLsqg-K3TgUEsp2SGyf44jnZpYf6G1x1wCv2NjwnaBty7hWXCXBqo4UzdHEBe9YXnB2621BLSSwb9NvCvBmjdQtStBCSDVTuDMFCaJwh7NJzxobpWmbC7e1nAHjkwav8uw5cQmvcvd66Xp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

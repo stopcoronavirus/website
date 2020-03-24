@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 43200 	- ST JULIEN DU PINET](https://docs.stopcoronavirus.tech/r/markdown/43200_st-julien-du-pinet/4XTTMAALB78nMy5Ma5wbKKTNAXBXqfvaKJbLfLDx9S9Bszb4K) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43200 	- ST JULIEN DU PINET](https://docs.stopcoronavirus.tech/w/markdown/43200_st-julien-du-pinet/4XTTMAALB78nMy5Ma5wbKKTNAXBXqfvaKJbLfLDx9S9Bszb4K-K3TgUAWCMT4A9oZ7MVpKQXKgNrnpAXemyZKiq4jgFhSH77EWGxBQHqQyhDNN2T16RWkt4SVhiAhtGwkLEXz5sSC8r1ScasMhCQqnC8nNapeFB529Gji7WmSDR4XiPU2TDVNEZN2s) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43200 	- ST JULIEN DU PINET](https://docs.stopcoronavirus.tech/#/r/markdown/43200_st-julien-du-pinet/4XTTMAALB78nMy5Ma5wbKKTNAXBXqfvaKJbLfLDx9S9Bszb4K) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43200 	- ST JULIEN DU PINET](https://docs.stopcoronavirus.tech/#/w/markdown/43200_st-julien-du-pinet/4XTTMAALB78nMy5Ma5wbKKTNAXBXqfvaKJbLfLDx9S9Bszb4K-K3TgUAWCMT4A9oZ7MVpKQXKgNrnpAXemyZKiq4jgFhSH77EWGxBQHqQyhDNN2T16RWkt4SVhiAhtGwkLEXz5sSC8r1ScasMhCQqnC8nNapeFB529Gji7WmSDR4XiPU2TDVNEZN2s) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

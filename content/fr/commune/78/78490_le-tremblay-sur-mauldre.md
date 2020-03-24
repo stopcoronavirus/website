@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 78490 	- LE TREMBLAY SUR MAULDRE](https://docs.stopcoronavirus.tech/r/markdown/78490_le-tremblay-sur-mauldre/4XTTMFNhqC9Vw5MJ6E7MMLUurQVPdwsbpFjMo5mWNsCpyRS88) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78490 	- LE TREMBLAY SUR MAULDRE](https://docs.stopcoronavirus.tech/w/markdown/78490_le-tremblay-sur-mauldre/4XTTMFNhqC9Vw5MJ6E7MMLUurQVPdwsbpFjMo5mWNsCpyRS88-K3TgUuAnMZbMvce97HdxxgqTxUFCSgxe3iyou41TUgmjdtU9fQuiabnqsE56jHhc6x3t6msEPLJta6XMLiDXRL24z9Lmx8rVYkAxKfAz4Ps3nY54qanMJJ8P7w7iKVdBuHFRCPig) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78490 	- LE TREMBLAY SUR MAULDRE](https://docs.stopcoronavirus.tech/#/r/markdown/78490_le-tremblay-sur-mauldre/4XTTMFNhqC9Vw5MJ6E7MMLUurQVPdwsbpFjMo5mWNsCpyRS88) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78490 	- LE TREMBLAY SUR MAULDRE](https://docs.stopcoronavirus.tech/#/w/markdown/78490_le-tremblay-sur-mauldre/4XTTMFNhqC9Vw5MJ6E7MMLUurQVPdwsbpFjMo5mWNsCpyRS88-K3TgUuAnMZbMvce97HdxxgqTxUFCSgxe3iyou41TUgmjdtU9fQuiabnqsE56jHhc6x3t6msEPLJta6XMLiDXRL24z9Lmx8rVYkAxKfAz4Ps3nY54qanMJJ8P7w7iKVdBuHFRCPig) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

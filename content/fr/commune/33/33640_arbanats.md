@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33640 	- ARBANATS](https://docs.stopcoronavirus.tech/r/markdown/33640_arbanats/4XTTMAm3P991Vqk2i6skqPMYTXDdFxUQhtFoE99PaU6BmT6ZK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33640 	- ARBANATS](https://docs.stopcoronavirus.tech/w/markdown/33640_arbanats/4XTTMAm3P991Vqk2i6skqPMYTXDdFxUQhtFoE99PaU6BmT6ZK-K3TgUGBpWucTNt8d5KNL5qq1Z7yRPjWXeXtSYF4xXnhC1Wi6H5qZiKaL3q1MzjU3Yc8eKh2UDh6wCyJ5aZukkq8V6fnbDQsQawJjYmf6DRU5je6S3ZPZgbbSXKUPu8AC9vr7TyRw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33640 	- ARBANATS](https://docs.stopcoronavirus.tech/#/r/markdown/33640_arbanats/4XTTMAm3P991Vqk2i6skqPMYTXDdFxUQhtFoE99PaU6BmT6ZK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33640 	- ARBANATS](https://docs.stopcoronavirus.tech/#/w/markdown/33640_arbanats/4XTTMAm3P991Vqk2i6skqPMYTXDdFxUQhtFoE99PaU6BmT6ZK-K3TgUGBpWucTNt8d5KNL5qq1Z7yRPjWXeXtSYF4xXnhC1Wi6H5qZiKaL3q1MzjU3Yc8eKh2UDh6wCyJ5aZukkq8V6fnbDQsQawJjYmf6DRU5je6S3ZPZgbbSXKUPu8AC9vr7TyRw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

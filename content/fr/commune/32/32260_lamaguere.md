@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32260 	- LAMAGUERE](https://docs.stopcoronavirus.tech/r/markdown/32260_lamaguere/4XTTMFNLkpy5aNja4HmMt9vrqWUeWkpM43LD9FfWrLP5cQmXP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32260 	- LAMAGUERE](https://docs.stopcoronavirus.tech/w/markdown/32260_lamaguere/4XTTMFNLkpy5aNja4HmMt9vrqWUeWkpM43LD9FfWrLP5cQmXP-K3TgTn4mdkfmpvgeKhkkDMF1P6jeA6XqJtNDbjpCpceR436HWzcV7PZMMYDazgBzb2eDxK1W7o54N42MAmc9AdtapkQc3vy4gEqJ2Q6xwWYjKPpRp4xh3EBv9SJuQwzk4aRtEpyP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32260 	- LAMAGUERE](https://docs.stopcoronavirus.tech/#/r/markdown/32260_lamaguere/4XTTMFNLkpy5aNja4HmMt9vrqWUeWkpM43LD9FfWrLP5cQmXP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32260 	- LAMAGUERE](https://docs.stopcoronavirus.tech/#/w/markdown/32260_lamaguere/4XTTMFNLkpy5aNja4HmMt9vrqWUeWkpM43LD9FfWrLP5cQmXP-K3TgTn4mdkfmpvgeKhkkDMF1P6jeA6XqJtNDbjpCpceR436HWzcV7PZMMYDazgBzb2eDxK1W7o54N42MAmc9AdtapkQc3vy4gEqJ2Q6xwWYjKPpRp4xh3EBv9SJuQwzk4aRtEpyP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

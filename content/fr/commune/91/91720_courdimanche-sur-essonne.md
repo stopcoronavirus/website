@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91720 	- COURDIMANCHE SUR ESSONNE](https://docs.stopcoronavirus.tech/r/markdown/91720_courdimanche-sur-essonne/4XTTMAZMGnnar862aF9JjrQFk5y2rrrGyvMArCNFRGhzstFvq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91720 	- COURDIMANCHE SUR ESSONNE](https://docs.stopcoronavirus.tech/w/markdown/91720_courdimanche-sur-essonne/4XTTMAZMGnnar862aF9JjrQFk5y2rrrGyvMArCNFRGhzstFvq-K3TgUPU2cvaMVZhGJoCaRhYY3YgBtxAp27jSxW436KEc2um5UJ2b7Tsb8JjxKVikwxF3TAUCt73Mi1qtDHKpFDZXsirWYtF8PDt96G1LxDtbDbpiQZbXmef8wNbGHDShUVoLpjCu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91720 	- COURDIMANCHE SUR ESSONNE](https://docs.stopcoronavirus.tech/#/r/markdown/91720_courdimanche-sur-essonne/4XTTMAZMGnnar862aF9JjrQFk5y2rrrGyvMArCNFRGhzstFvq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91720 	- COURDIMANCHE SUR ESSONNE](https://docs.stopcoronavirus.tech/#/w/markdown/91720_courdimanche-sur-essonne/4XTTMAZMGnnar862aF9JjrQFk5y2rrrGyvMArCNFRGhzstFvq-K3TgUPU2cvaMVZhGJoCaRhYY3YgBtxAp27jSxW436KEc2um5UJ2b7Tsb8JjxKVikwxF3TAUCt73Mi1qtDHKpFDZXsirWYtF8PDt96G1LxDtbDbpiQZbXmef8wNbGHDShUVoLpjCu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

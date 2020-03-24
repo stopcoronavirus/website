@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 26310 	- LA BATIE DES FONDS](https://docs.stopcoronavirus.tech/r/markdown/26310_la-batie-des-fonds/4XTTMEUEqeZ5SrFbKQDcGgC3GqbzrfTisr9g1M8SvFbcJ8XTe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26310 	- LA BATIE DES FONDS](https://docs.stopcoronavirus.tech/w/markdown/26310_la-batie-des-fonds/4XTTMEUEqeZ5SrFbKQDcGgC3GqbzrfTisr9g1M8SvFbcJ8XTe-K3TgUFSn6h2Ag4VN54QV5Es1oAyqoC8HHTpZ1kE7pjCEQnbZqELQjSBbSUKZCWUGwcBxSA7Jwa3HUSFS4ArGjiCe56va1oTBoufN9J4C8mmQgjb9zn51ByHVtLJBC2kYj4M9AEfr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26310 	- LA BATIE DES FONDS](https://docs.stopcoronavirus.tech/#/r/markdown/26310_la-batie-des-fonds/4XTTMEUEqeZ5SrFbKQDcGgC3GqbzrfTisr9g1M8SvFbcJ8XTe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26310 	- LA BATIE DES FONDS](https://docs.stopcoronavirus.tech/#/w/markdown/26310_la-batie-des-fonds/4XTTMEUEqeZ5SrFbKQDcGgC3GqbzrfTisr9g1M8SvFbcJ8XTe-K3TgUFSn6h2Ag4VN54QV5Es1oAyqoC8HHTpZ1kE7pjCEQnbZqELQjSBbSUKZCWUGwcBxSA7Jwa3HUSFS4ArGjiCe56va1oTBoufN9J4C8mmQgjb9zn51ByHVtLJBC2kYj4M9AEfr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

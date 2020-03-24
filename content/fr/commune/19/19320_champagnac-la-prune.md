@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19320 	- CHAMPAGNAC LA PRUNE](https://docs.stopcoronavirus.tech/r/markdown/19320_champagnac-la-prune/4XTTM9qP31RjraAoH7bPghFRNRKFBBvmjv755hZ2yASGGmQE7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19320 	- CHAMPAGNAC LA PRUNE](https://docs.stopcoronavirus.tech/w/markdown/19320_champagnac-la-prune/4XTTM9qP31RjraAoH7bPghFRNRKFBBvmjv755hZ2yASGGmQE7-K3TgUpgVF45d9x2ZXXebBLNswvu91gKg6S1A97LLh9HH8V7mSdr1DVsvhfi54PdP6Dcfdeht1PHi4k9a7tadvC5kN7NW3PyxToNeoQhTpEBH4Q77cDfpwxr1n46wiWx4D4cPVrq1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19320 	- CHAMPAGNAC LA PRUNE](https://docs.stopcoronavirus.tech/#/r/markdown/19320_champagnac-la-prune/4XTTM9qP31RjraAoH7bPghFRNRKFBBvmjv755hZ2yASGGmQE7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19320 	- CHAMPAGNAC LA PRUNE](https://docs.stopcoronavirus.tech/#/w/markdown/19320_champagnac-la-prune/4XTTM9qP31RjraAoH7bPghFRNRKFBBvmjv755hZ2yASGGmQE7-K3TgUpgVF45d9x2ZXXebBLNswvu91gKg6S1A97LLh9HH8V7mSdr1DVsvhfi54PdP6Dcfdeht1PHi4k9a7tadvC5kN7NW3PyxToNeoQhTpEBH4Q77cDfpwxr1n46wiWx4D4cPVrq1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

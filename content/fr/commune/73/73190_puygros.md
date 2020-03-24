@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 73190 	- PUYGROS](https://docs.stopcoronavirus.tech/r/markdown/73190_puygros/4XTTM4r47B8JJ211PAt4iRxrwqVT5dSUqWrR8kSE4sp7LKmpH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73190 	- PUYGROS](https://docs.stopcoronavirus.tech/w/markdown/73190_puygros/4XTTM4r47B8JJ211PAt4iRxrwqVT5dSUqWrR8kSE4sp7LKmpH-K3TgUbMzRKQfXCUZce8v1EfotJKJpAUyXgcAxT1o2USU2DnJ7sh5pEEttdn5quYjB5zKrmQLRJtQyEM9rmG5Vze7Y8kVbYAvgwBWdEni9qjyCgUiWtEDHXjnGcUsp9Ggasi63Bk1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73190 	- PUYGROS](https://docs.stopcoronavirus.tech/#/r/markdown/73190_puygros/4XTTM4r47B8JJ211PAt4iRxrwqVT5dSUqWrR8kSE4sp7LKmpH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73190 	- PUYGROS](https://docs.stopcoronavirus.tech/#/w/markdown/73190_puygros/4XTTM4r47B8JJ211PAt4iRxrwqVT5dSUqWrR8kSE4sp7LKmpH-K3TgUbMzRKQfXCUZce8v1EfotJKJpAUyXgcAxT1o2USU2DnJ7sh5pEEttdn5quYjB5zKrmQLRJtQyEM9rmG5Vze7Y8kVbYAvgwBWdEni9qjyCgUiWtEDHXjnGcUsp9Ggasi63Bk1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

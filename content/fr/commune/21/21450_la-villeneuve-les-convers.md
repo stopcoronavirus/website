@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21450 	- LA VILLENEUVE LES CONVERS](https://docs.stopcoronavirus.tech/r/markdown/21450_la-villeneuve-les-convers/4XTTMAXZQuwDzfrP4yiNZyjRvtKsTaMiJWV5VYKZqf3QCzZqm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21450 	- LA VILLENEUVE LES CONVERS](https://docs.stopcoronavirus.tech/w/markdown/21450_la-villeneuve-les-convers/4XTTMAXZQuwDzfrP4yiNZyjRvtKsTaMiJWV5VYKZqf3QCzZqm-K3TgV3cYQPnZ9x919goNwZ3sHoNdRyaTAcJTBMJEePhRLNwHcDghT3jFU9YQkikDTGcZizjiqQgofNHYJitd1GMtvBiDZLXhoyKU9gteyxhRDdrQ2LR31RsC73mt8JrVHEvMc5wZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21450 	- LA VILLENEUVE LES CONVERS](https://docs.stopcoronavirus.tech/#/r/markdown/21450_la-villeneuve-les-convers/4XTTMAXZQuwDzfrP4yiNZyjRvtKsTaMiJWV5VYKZqf3QCzZqm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21450 	- LA VILLENEUVE LES CONVERS](https://docs.stopcoronavirus.tech/#/w/markdown/21450_la-villeneuve-les-convers/4XTTMAXZQuwDzfrP4yiNZyjRvtKsTaMiJWV5VYKZqf3QCzZqm-K3TgV3cYQPnZ9x919goNwZ3sHoNdRyaTAcJTBMJEePhRLNwHcDghT3jFU9YQkikDTGcZizjiqQgofNHYJitd1GMtvBiDZLXhoyKU9gteyxhRDdrQ2LR31RsC73mt8JrVHEvMc5wZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

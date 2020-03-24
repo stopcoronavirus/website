@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02860 	- NEUVILLE SUR AILETTE](https://docs.stopcoronavirus.tech/r/markdown/02860_neuville-sur-ailette/4XTTM5oFQwzdv25Y7PXgdP3r9vm5t41u2MFCoHJJhYPosG6JD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02860 	- NEUVILLE SUR AILETTE](https://docs.stopcoronavirus.tech/w/markdown/02860_neuville-sur-ailette/4XTTM5oFQwzdv25Y7PXgdP3r9vm5t41u2MFCoHJJhYPosG6JD-K3TgULLtDioC9yU2jcxHmVtyqoB1d9WrLCupxskAvKLkC2FmH9t2qtZY5rg1W6HzqDC59f9S5y8nX3D2qzijeAsB3iUfbpmY74hrZ1kVdhony74ypiVTnHfNrfN6kTZKUt998mbP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02860 	- NEUVILLE SUR AILETTE](https://docs.stopcoronavirus.tech/#/r/markdown/02860_neuville-sur-ailette/4XTTM5oFQwzdv25Y7PXgdP3r9vm5t41u2MFCoHJJhYPosG6JD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02860 	- NEUVILLE SUR AILETTE](https://docs.stopcoronavirus.tech/#/w/markdown/02860_neuville-sur-ailette/4XTTM5oFQwzdv25Y7PXgdP3r9vm5t41u2MFCoHJJhYPosG6JD-K3TgULLtDioC9yU2jcxHmVtyqoB1d9WrLCupxskAvKLkC2FmH9t2qtZY5rg1W6HzqDC59f9S5y8nX3D2qzijeAsB3iUfbpmY74hrZ1kVdhony74ypiVTnHfNrfN6kTZKUt998mbP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

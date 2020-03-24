@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81570 	- VIELMUR SUR AGOUT](https://docs.stopcoronavirus.tech/r/markdown/81570_vielmur-sur-agout/4XTTMDQyECUYDzNvh4VwcP6j3aehMPnCG2MtunbeqB9NFHqjP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81570 	- VIELMUR SUR AGOUT](https://docs.stopcoronavirus.tech/w/markdown/81570_vielmur-sur-agout/4XTTMDQyECUYDzNvh4VwcP6j3aehMPnCG2MtunbeqB9NFHqjP-K3TgUQdd16f69cNfskdsQCBSgjBR2QFqQfUbvADyotvqykC9ykGrS2a37ro1sDHrXxLPYuFZFkVbTcjWZDAdoS7uCaNuVGeXcgbKcm3H3J7C8HaHnwh9np635qdwHH33Czm8HxXb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81570 	- VIELMUR SUR AGOUT](https://docs.stopcoronavirus.tech/#/r/markdown/81570_vielmur-sur-agout/4XTTMDQyECUYDzNvh4VwcP6j3aehMPnCG2MtunbeqB9NFHqjP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81570 	- VIELMUR SUR AGOUT](https://docs.stopcoronavirus.tech/#/w/markdown/81570_vielmur-sur-agout/4XTTMDQyECUYDzNvh4VwcP6j3aehMPnCG2MtunbeqB9NFHqjP-K3TgUQdd16f69cNfskdsQCBSgjBR2QFqQfUbvADyotvqykC9ykGrS2a37ro1sDHrXxLPYuFZFkVbTcjWZDAdoS7uCaNuVGeXcgbKcm3H3J7C8HaHnwh9np635qdwHH33Czm8HxXb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

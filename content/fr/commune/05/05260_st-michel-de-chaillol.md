@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 05260 	- ST MICHEL DE CHAILLOL](https://docs.stopcoronavirus.tech/r/markdown/05260_st-michel-de-chaillol/4XTTM5YPJkugbDaa2Q6SkzBbtAHLonBJEkivgMuPdFRu6EE8d) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05260 	- ST MICHEL DE CHAILLOL](https://docs.stopcoronavirus.tech/w/markdown/05260_st-michel-de-chaillol/4XTTM5YPJkugbDaa2Q6SkzBbtAHLonBJEkivgMuPdFRu6EE8d-K3TgTjrJX5X7ZzCPd7sbeqEq1pM3X7UgoqsJ1noGFq7dJXGaaECNr3vwL4RNrqggeqFZjoCpzF2oUxrXYLA1Ycfkr72xRsnUddZwCp6qEN4AeuC7aFQx9xmrWcfNmgJZLZ4mPvBX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05260 	- ST MICHEL DE CHAILLOL](https://docs.stopcoronavirus.tech/#/r/markdown/05260_st-michel-de-chaillol/4XTTM5YPJkugbDaa2Q6SkzBbtAHLonBJEkivgMuPdFRu6EE8d) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05260 	- ST MICHEL DE CHAILLOL](https://docs.stopcoronavirus.tech/#/w/markdown/05260_st-michel-de-chaillol/4XTTM5YPJkugbDaa2Q6SkzBbtAHLonBJEkivgMuPdFRu6EE8d-K3TgTjrJX5X7ZzCPd7sbeqEq1pM3X7UgoqsJ1noGFq7dJXGaaECNr3vwL4RNrqggeqFZjoCpzF2oUxrXYLA1Ycfkr72xRsnUddZwCp6qEN4AeuC7aFQx9xmrWcfNmgJZLZ4mPvBX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

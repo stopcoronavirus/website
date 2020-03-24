@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 55100 	- FLEURY DEVANT DOUAUMONT](https://docs.stopcoronavirus.tech/r/markdown/55100_fleury-devant-douaumont/4XTTM1gmkrLST8JVFUXHsmXwCiC14EvFQ7ceA3sZ2yVDUXGs1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55100 	- FLEURY DEVANT DOUAUMONT](https://docs.stopcoronavirus.tech/w/markdown/55100_fleury-devant-douaumont/4XTTM1gmkrLST8JVFUXHsmXwCiC14EvFQ7ceA3sZ2yVDUXGs1-K3TgTovXAhMFstvH8Gi4ctHDRLk9Pfdn9YMBRKeuXWKrh8TRCPmRUPRxVfrPwYtNsskF62LwiKw5oqXV8pQyWTc9meQ5CQRhwZBhAnrwoD2V4zr9Lap3KXz2CFszaCNJHvaDNQPq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55100 	- FLEURY DEVANT DOUAUMONT](https://docs.stopcoronavirus.tech/#/r/markdown/55100_fleury-devant-douaumont/4XTTM1gmkrLST8JVFUXHsmXwCiC14EvFQ7ceA3sZ2yVDUXGs1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55100 	- FLEURY DEVANT DOUAUMONT](https://docs.stopcoronavirus.tech/#/w/markdown/55100_fleury-devant-douaumont/4XTTM1gmkrLST8JVFUXHsmXwCiC14EvFQ7ceA3sZ2yVDUXGs1-K3TgTovXAhMFstvH8Gi4ctHDRLk9Pfdn9YMBRKeuXWKrh8TRCPmRUPRxVfrPwYtNsskF62LwiKw5oqXV8pQyWTc9meQ5CQRhwZBhAnrwoD2V4zr9Lap3KXz2CFszaCNJHvaDNQPq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

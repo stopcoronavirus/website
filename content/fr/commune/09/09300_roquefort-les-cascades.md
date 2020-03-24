@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09300 	- ROQUEFORT LES CASCADES](https://docs.stopcoronavirus.tech/r/markdown/09300_roquefort-les-cascades/4XTTM9bodKCFzfRZkT9yA9GtFgymnwoKEXqZF43w9ebSBhZQX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09300 	- ROQUEFORT LES CASCADES](https://docs.stopcoronavirus.tech/w/markdown/09300_roquefort-les-cascades/4XTTM9bodKCFzfRZkT9yA9GtFgymnwoKEXqZF43w9ebSBhZQX-K3TgU2Xen5Uk5hEXdGastMvCP2avzeuN3ffFu9WP98FyZ8tZNEAdWgvhQf3rHAXwVnM3DKyUDNBUpoiXxmoQkQcBg1tHWFyGFwU2uZN2XK1u7dZWLuwLRzEYGVNBieoSeYcurQh1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09300 	- ROQUEFORT LES CASCADES](https://docs.stopcoronavirus.tech/#/r/markdown/09300_roquefort-les-cascades/4XTTM9bodKCFzfRZkT9yA9GtFgymnwoKEXqZF43w9ebSBhZQX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09300 	- ROQUEFORT LES CASCADES](https://docs.stopcoronavirus.tech/#/w/markdown/09300_roquefort-les-cascades/4XTTM9bodKCFzfRZkT9yA9GtFgymnwoKEXqZF43w9ebSBhZQX-K3TgU2Xen5Uk5hEXdGastMvCP2avzeuN3ffFu9WP98FyZ8tZNEAdWgvhQf3rHAXwVnM3DKyUDNBUpoiXxmoQkQcBg1tHWFyGFwU2uZN2XK1u7dZWLuwLRzEYGVNBieoSeYcurQh1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

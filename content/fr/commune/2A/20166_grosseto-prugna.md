@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20166 	- GROSSETO PRUGNA](https://docs.stopcoronavirus.tech/r/markdown/20166_grosseto-prugna/4XTTMBT7yMg8wutxr31ZHNF9WGnBHojzD33AgtJzxxv2xnTtU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20166 	- GROSSETO PRUGNA](https://docs.stopcoronavirus.tech/w/markdown/20166_grosseto-prugna/4XTTMBT7yMg8wutxr31ZHNF9WGnBHojzD33AgtJzxxv2xnTtU-K3TgUFXi7jREqyFnp1bBKakg9enHM5CnZLkf61GDwEwUY6EeFVDwSkPTdV8MtAuE9LUK2pepvtSADT52Vri51JEQHwnn1nDz664frukHsNM8dAxQL12W4T9qzJpaje5XgotPEicp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20166 	- GROSSETO PRUGNA](https://docs.stopcoronavirus.tech/#/r/markdown/20166_grosseto-prugna/4XTTMBT7yMg8wutxr31ZHNF9WGnBHojzD33AgtJzxxv2xnTtU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20166 	- GROSSETO PRUGNA](https://docs.stopcoronavirus.tech/#/w/markdown/20166_grosseto-prugna/4XTTMBT7yMg8wutxr31ZHNF9WGnBHojzD33AgtJzxxv2xnTtU-K3TgUFXi7jREqyFnp1bBKakg9enHM5CnZLkf61GDwEwUY6EeFVDwSkPTdV8MtAuE9LUK2pepvtSADT52Vri51JEQHwnn1nDz664frukHsNM8dAxQL12W4T9qzJpaje5XgotPEicp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 78470 	- ST REMY LES CHEVREUSE](https://docs.stopcoronavirus.tech/r/markdown/78470_st-remy-les-chevreuse/4XTTMJ2sGJ5BCG7zrw1k9bFf7ukygTgqPom1jpGy2zQH8Ssmj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78470 	- ST REMY LES CHEVREUSE](https://docs.stopcoronavirus.tech/w/markdown/78470_st-remy-les-chevreuse/4XTTMJ2sGJ5BCG7zrw1k9bFf7ukygTgqPom1jpGy2zQH8Ssmj-K3TgUSheyJeeZPP2VG28zMFuwHaASJAGhzsNnAiacjpi67wbJJmi5JmU6AA3VBqHNf3ZdQrLsT9w83vY2PKMjr9dbogBnb3j8dXwLHAsoCELQFRiMLTAqwS8vGTidXo3mVr5zPq3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78470 	- ST REMY LES CHEVREUSE](https://docs.stopcoronavirus.tech/#/r/markdown/78470_st-remy-les-chevreuse/4XTTMJ2sGJ5BCG7zrw1k9bFf7ukygTgqPom1jpGy2zQH8Ssmj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78470 	- ST REMY LES CHEVREUSE](https://docs.stopcoronavirus.tech/#/w/markdown/78470_st-remy-les-chevreuse/4XTTMJ2sGJ5BCG7zrw1k9bFf7ukygTgqPom1jpGy2zQH8Ssmj-K3TgUSheyJeeZPP2VG28zMFuwHaASJAGhzsNnAiacjpi67wbJJmi5JmU6AA3VBqHNf3ZdQrLsT9w83vY2PKMjr9dbogBnb3j8dXwLHAsoCELQFRiMLTAqwS8vGTidXo3mVr5zPq3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

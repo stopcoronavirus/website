@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 82800 	- PUYGAILLARD DE QUERCY](https://docs.stopcoronavirus.tech/r/markdown/82800_puygaillard-de-quercy/4XTTM5uqnNwkPAMyvLMCiK9qZR8rGNTs7FVYaHXZg4KD82sPd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82800 	- PUYGAILLARD DE QUERCY](https://docs.stopcoronavirus.tech/w/markdown/82800_puygaillard-de-quercy/4XTTM5uqnNwkPAMyvLMCiK9qZR8rGNTs7FVYaHXZg4KD82sPd-K3TgTeUH44FaJN5iGtYDauNBS4zj4onPzh7oZpdmrtcgXLpc69wJJstP1GypaRNauEYaNkUqJ3Q4CGw6e7xswGivdmKwF1p9HLHsyPRaX4Cex4cp8KZSsaeAEduU117jqXXfFTbM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 82800 	- PUYGAILLARD DE QUERCY](https://docs.stopcoronavirus.tech/#/r/markdown/82800_puygaillard-de-quercy/4XTTM5uqnNwkPAMyvLMCiK9qZR8rGNTs7FVYaHXZg4KD82sPd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 82800 	- PUYGAILLARD DE QUERCY](https://docs.stopcoronavirus.tech/#/w/markdown/82800_puygaillard-de-quercy/4XTTM5uqnNwkPAMyvLMCiK9qZR8rGNTs7FVYaHXZg4KD82sPd-K3TgTeUH44FaJN5iGtYDauNBS4zj4onPzh7oZpdmrtcgXLpc69wJJstP1GypaRNauEYaNkUqJ3Q4CGw6e7xswGivdmKwF1p9HLHsyPRaX4Cex4cp8KZSsaeAEduU117jqXXfFTbM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

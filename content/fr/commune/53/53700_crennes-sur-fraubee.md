@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53700 	- CRENNES SUR FRAUBEE](https://docs.stopcoronavirus.tech/r/markdown/53700_crennes-sur-fraubee/4XTTM1kjA8KX4WjQbBHwDRdjJwou6hghFMQdLEGALGsuY3jLV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53700 	- CRENNES SUR FRAUBEE](https://docs.stopcoronavirus.tech/w/markdown/53700_crennes-sur-fraubee/4XTTM1kjA8KX4WjQbBHwDRdjJwou6hghFMQdLEGALGsuY3jLV-K3TgUQ8Nv1B6r7Rgwu59mtyxFDWaaemFfL19zeDjYUXgbopnquBLpe4KnsxLvtxHZEcnJXFvrjt39WpjanCiFbRi2BegPbg3Et1gF9BXv1C3J2oU5qU1sFyhsk1sbuWbYvrtJ3aR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53700 	- CRENNES SUR FRAUBEE](https://docs.stopcoronavirus.tech/#/r/markdown/53700_crennes-sur-fraubee/4XTTM1kjA8KX4WjQbBHwDRdjJwou6hghFMQdLEGALGsuY3jLV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53700 	- CRENNES SUR FRAUBEE](https://docs.stopcoronavirus.tech/#/w/markdown/53700_crennes-sur-fraubee/4XTTM1kjA8KX4WjQbBHwDRdjJwou6hghFMQdLEGALGsuY3jLV-K3TgUQ8Nv1B6r7Rgwu59mtyxFDWaaemFfL19zeDjYUXgbopnquBLpe4KnsxLvtxHZEcnJXFvrjt39WpjanCiFbRi2BegPbg3Et1gF9BXv1C3J2oU5qU1sFyhsk1sbuWbYvrtJ3aR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

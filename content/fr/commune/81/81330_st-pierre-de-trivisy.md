@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81330 	- ST PIERRE DE TRIVISY](https://docs.stopcoronavirus.tech/r/markdown/81330_st-pierre-de-trivisy/4XTTM1Zf3i8Hsk6FEHZFW1taoYMgq2ha3nnifopnRMk256c9z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81330 	- ST PIERRE DE TRIVISY](https://docs.stopcoronavirus.tech/w/markdown/81330_st-pierre-de-trivisy/4XTTM1Zf3i8Hsk6FEHZFW1taoYMgq2ha3nnifopnRMk256c9z-K3TgV85b2aVFZ78aUhnYC5nVoy7JHXcg2bvoX9ghX6t25tFiZdfoAgG9WgWMyzm5eL45HpSHoh6ayzkwryWue5AJBBZnnbD9yvgFvcH1ue7DCn2QWu1jZNwdsiN2ghzwXKvKmaTv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81330 	- ST PIERRE DE TRIVISY](https://docs.stopcoronavirus.tech/#/r/markdown/81330_st-pierre-de-trivisy/4XTTM1Zf3i8Hsk6FEHZFW1taoYMgq2ha3nnifopnRMk256c9z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81330 	- ST PIERRE DE TRIVISY](https://docs.stopcoronavirus.tech/#/w/markdown/81330_st-pierre-de-trivisy/4XTTM1Zf3i8Hsk6FEHZFW1taoYMgq2ha3nnifopnRMk256c9z-K3TgV85b2aVFZ78aUhnYC5nVoy7JHXcg2bvoX9ghX6t25tFiZdfoAgG9WgWMyzm5eL45HpSHoh6ayzkwryWue5AJBBZnnbD9yvgFvcH1ue7DCn2QWu1jZNwdsiN2ghzwXKvKmaTv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

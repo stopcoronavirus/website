@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91830 	- LE COUDRAY MONTCEAUX](https://docs.stopcoronavirus.tech/r/markdown/91830_le-coudray-montceaux/4XTTM54RVzSY39xXnJwo1rwSHQXQnngoa7ruzHUXrBNXRw9Bz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91830 	- LE COUDRAY MONTCEAUX](https://docs.stopcoronavirus.tech/w/markdown/91830_le-coudray-montceaux/4XTTM54RVzSY39xXnJwo1rwSHQXQnngoa7ruzHUXrBNXRw9Bz-K3TgUfMaFSxwwKKko5pyEwyaRVKvenLLN4MshtY6KZG9HCb4xQEiiDtvgKu68nNmfBxrtVnsvkxpbG16Rw6B9wH6XxSmGWJV3m71xZdcUHiYnHY6pmVdQMLsbM7qdrrJxUB5TMDv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91830 	- LE COUDRAY MONTCEAUX](https://docs.stopcoronavirus.tech/#/r/markdown/91830_le-coudray-montceaux/4XTTM54RVzSY39xXnJwo1rwSHQXQnngoa7ruzHUXrBNXRw9Bz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91830 	- LE COUDRAY MONTCEAUX](https://docs.stopcoronavirus.tech/#/w/markdown/91830_le-coudray-montceaux/4XTTM54RVzSY39xXnJwo1rwSHQXQnngoa7ruzHUXrBNXRw9Bz-K3TgUfMaFSxwwKKko5pyEwyaRVKvenLLN4MshtY6KZG9HCb4xQEiiDtvgKu68nNmfBxrtVnsvkxpbG16Rw6B9wH6XxSmGWJV3m71xZdcUHiYnHY6pmVdQMLsbM7qdrrJxUB5TMDv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

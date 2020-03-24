@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 78730 	- STE MESME](https://docs.stopcoronavirus.tech/r/markdown/78730_ste-mesme/4XTTM5imT82ge79xuEp5DD3EkXnnYoVLjpPG6um6U2qrcBok1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78730 	- STE MESME](https://docs.stopcoronavirus.tech/w/markdown/78730_ste-mesme/4XTTM5imT82ge79xuEp5DD3EkXnnYoVLjpPG6um6U2qrcBok1-K3TgTxKRAhEESFk2GFNemdDc68gjv9vwyxMcy4hdoPa9V4ERrWe4HX5ynigJou9imUvyyDmTowBskcRy8wg4UP8DvksU93zSGLwGoYbPXx6zrRmX7gHTyLHgkiicomxW4LrSfw5w) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78730 	- STE MESME](https://docs.stopcoronavirus.tech/#/r/markdown/78730_ste-mesme/4XTTM5imT82ge79xuEp5DD3EkXnnYoVLjpPG6um6U2qrcBok1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78730 	- STE MESME](https://docs.stopcoronavirus.tech/#/w/markdown/78730_ste-mesme/4XTTM5imT82ge79xuEp5DD3EkXnnYoVLjpPG6um6U2qrcBok1-K3TgTxKRAhEESFk2GFNemdDc68gjv9vwyxMcy4hdoPa9V4ERrWe4HX5ynigJou9imUvyyDmTowBskcRy8wg4UP8DvksU93zSGLwGoYbPXx6zrRmX7gHTyLHgkiicomxW4LrSfw5w) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

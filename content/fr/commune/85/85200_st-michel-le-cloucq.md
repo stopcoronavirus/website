@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85200 	- ST MICHEL LE CLOUCQ](https://docs.stopcoronavirus.tech/r/markdown/85200_st-michel-le-cloucq/4XTTMBWSBk5fmb3toMNgKYt6nWDH1xiuLmZRPVFAqQF8qy2NT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85200 	- ST MICHEL LE CLOUCQ](https://docs.stopcoronavirus.tech/w/markdown/85200_st-michel-le-cloucq/4XTTMBWSBk5fmb3toMNgKYt6nWDH1xiuLmZRPVFAqQF8qy2NT-K3TgUJ52X8ef1VJNHmYKdKrgVDkuAE8hdZgA2A6B3iZngEJ8wYykqbwF7AEA7xyKRrY9yoB54j3ZagHgscytPKsjau6kDWqdimBsJTGoD878aYVnE55Npex72FusFS4JMouic81V) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85200 	- ST MICHEL LE CLOUCQ](https://docs.stopcoronavirus.tech/#/r/markdown/85200_st-michel-le-cloucq/4XTTMBWSBk5fmb3toMNgKYt6nWDH1xiuLmZRPVFAqQF8qy2NT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85200 	- ST MICHEL LE CLOUCQ](https://docs.stopcoronavirus.tech/#/w/markdown/85200_st-michel-le-cloucq/4XTTMBWSBk5fmb3toMNgKYt6nWDH1xiuLmZRPVFAqQF8qy2NT-K3TgUJ52X8ef1VJNHmYKdKrgVDkuAE8hdZgA2A6B3iZngEJ8wYykqbwF7AEA7xyKRrY9yoB54j3ZagHgscytPKsjau6kDWqdimBsJTGoD878aYVnE55Npex72FusFS4JMouic81V) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

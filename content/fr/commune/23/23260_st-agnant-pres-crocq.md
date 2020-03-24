@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23260 	- ST AGNANT PRES CROCQ](https://docs.stopcoronavirus.tech/r/markdown/23260_st-agnant-pres-crocq/4XTTM3Qc2tKJsyeQ4YZkenbbH9Dfr5Yk4VTrWifNGHkVxrVyo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23260 	- ST AGNANT PRES CROCQ](https://docs.stopcoronavirus.tech/w/markdown/23260_st-agnant-pres-crocq/4XTTM3Qc2tKJsyeQ4YZkenbbH9Dfr5Yk4VTrWifNGHkVxrVyo-K3TgUstRDsgdLuCDEDC2w9nKNNg2rhB2nDvH7Xgt3eDxF58AdsfjU8wWfxP6khWNA5bseyFrDea8W74n2pT1iEBHrydjJDLVUJp44Ke4DnaaUjTRq5hMGPF1wBUAYeEMdBz2XfJM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23260 	- ST AGNANT PRES CROCQ](https://docs.stopcoronavirus.tech/#/r/markdown/23260_st-agnant-pres-crocq/4XTTM3Qc2tKJsyeQ4YZkenbbH9Dfr5Yk4VTrWifNGHkVxrVyo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23260 	- ST AGNANT PRES CROCQ](https://docs.stopcoronavirus.tech/#/w/markdown/23260_st-agnant-pres-crocq/4XTTM3Qc2tKJsyeQ4YZkenbbH9Dfr5Yk4VTrWifNGHkVxrVyo-K3TgUstRDsgdLuCDEDC2w9nKNNg2rhB2nDvH7Xgt3eDxF58AdsfjU8wWfxP6khWNA5bseyFrDea8W74n2pT1iEBHrydjJDLVUJp44Ke4DnaaUjTRq5hMGPF1wBUAYeEMdBz2XfJM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70300 	- ESBOZ BREST](https://docs.stopcoronavirus.tech/r/markdown/70300_esboz-brest/4XTTMJCW93jwsyCmpFW8DLBukNPv7DaQDky5g2vk3bi9FJEUb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70300 	- ESBOZ BREST](https://docs.stopcoronavirus.tech/w/markdown/70300_esboz-brest/4XTTMJCW93jwsyCmpFW8DLBukNPv7DaQDky5g2vk3bi9FJEUb-K3TgV7mhZ211tC339nN7m1oS1svR6JiBeA7WFTcUucn8u2c4VH8npQjYWbovB9EBkaAs5YueM9V2tpLaqr3w98pG5c4PzsmtHyTnbrwfzG5RPYer8PYZrShYoNFWXLJx1ZXAqNK5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70300 	- ESBOZ BREST](https://docs.stopcoronavirus.tech/#/r/markdown/70300_esboz-brest/4XTTMJCW93jwsyCmpFW8DLBukNPv7DaQDky5g2vk3bi9FJEUb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70300 	- ESBOZ BREST](https://docs.stopcoronavirus.tech/#/w/markdown/70300_esboz-brest/4XTTMJCW93jwsyCmpFW8DLBukNPv7DaQDky5g2vk3bi9FJEUb-K3TgV7mhZ211tC339nN7m1oS1svR6JiBeA7WFTcUucn8u2c4VH8npQjYWbovB9EBkaAs5YueM9V2tpLaqr3w98pG5c4PzsmtHyTnbrwfzG5RPYer8PYZrShYoNFWXLJx1ZXAqNK5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

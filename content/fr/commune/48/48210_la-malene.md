@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48210 	- LA MALENE](https://docs.stopcoronavirus.tech/r/markdown/48210_la-malene/4XTTM9nphHw6Fbye1PST3MAH7zmRi3NMFZ8sPDNRFouRGZyC3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48210 	- LA MALENE](https://docs.stopcoronavirus.tech/w/markdown/48210_la-malene/4XTTM9nphHw6Fbye1PST3MAH7zmRi3NMFZ8sPDNRFouRGZyC3-K3TgUHZFji5ZkUV6YbXFrvCzniW8FYUJW8RQVKk74ZrfspmUmBTvXJjcg7cemhkSPheaWYXhHS5SCmqWUm51rjX9ETcaSAgh9efF9bc1tWUQgUM5UWrvdTLitGTe5swDB5en2WYX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48210 	- LA MALENE](https://docs.stopcoronavirus.tech/#/r/markdown/48210_la-malene/4XTTM9nphHw6Fbye1PST3MAH7zmRi3NMFZ8sPDNRFouRGZyC3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48210 	- LA MALENE](https://docs.stopcoronavirus.tech/#/w/markdown/48210_la-malene/4XTTM9nphHw6Fbye1PST3MAH7zmRi3NMFZ8sPDNRFouRGZyC3-K3TgUHZFji5ZkUV6YbXFrvCzniW8FYUJW8RQVKk74ZrfspmUmBTvXJjcg7cemhkSPheaWYXhHS5SCmqWUm51rjX9ETcaSAgh9efF9bc1tWUQgUM5UWrvdTLitGTe5swDB5en2WYX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01300 	- ST GERMAIN LES PAROISSES](https://docs.stopcoronavirus.tech/r/markdown/01300_st-germain-les-paroisses/4XTTMCAbaLXVwBAYvYrzuqmjWnfzXtThNku3DBy8t198jePrf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01300 	- ST GERMAIN LES PAROISSES](https://docs.stopcoronavirus.tech/w/markdown/01300_st-germain-les-paroisses/4XTTMCAbaLXVwBAYvYrzuqmjWnfzXtThNku3DBy8t198jePrf-K3TgV6npN6yRvMs7P7Z7msm115367C9qqPqq9EYkPFfD7CeTcE9jAwZENUM1dwFqA4aCe8V6uCXuofimBbxQo3qoR9FWm2ycHt7Lfa6MSVdwYzhzmTEnhWgtBzqMHBRY1KLCDXNw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01300 	- ST GERMAIN LES PAROISSES](https://docs.stopcoronavirus.tech/#/r/markdown/01300_st-germain-les-paroisses/4XTTMCAbaLXVwBAYvYrzuqmjWnfzXtThNku3DBy8t198jePrf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01300 	- ST GERMAIN LES PAROISSES](https://docs.stopcoronavirus.tech/#/w/markdown/01300_st-germain-les-paroisses/4XTTMCAbaLXVwBAYvYrzuqmjWnfzXtThNku3DBy8t198jePrf-K3TgV6npN6yRvMs7P7Z7msm115367C9qqPqq9EYkPFfD7CeTcE9jAwZENUM1dwFqA4aCe8V6uCXuofimBbxQo3qoR9FWm2ycHt7Lfa6MSVdwYzhzmTEnhWgtBzqMHBRY1KLCDXNw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

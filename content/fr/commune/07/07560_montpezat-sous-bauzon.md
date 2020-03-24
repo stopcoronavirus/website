@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07560 	- MONTPEZAT SOUS BAUZON](https://docs.stopcoronavirus.tech/r/markdown/07560_montpezat-sous-bauzon/4XTTMHP7Tpi8KGqSkh9yRoe7aZrz4K4zyRDL4UffYAaLkSgs8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07560 	- MONTPEZAT SOUS BAUZON](https://docs.stopcoronavirus.tech/w/markdown/07560_montpezat-sous-bauzon/4XTTMHP7Tpi8KGqSkh9yRoe7aZrz4K4zyRDL4UffYAaLkSgs8-K3TgUPoBFxk6LKB5JT7tPGk1rzHcCGAawVri9uY4dGLPTBMWevjpR9TPufnK3BkbMtM5WJBrvwk7dMjouqzf3W2GJqRgzhpPCZRMSu32ZRvuWXF1jgCquN4WvkMu3YJ2YDZXVLMU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07560 	- MONTPEZAT SOUS BAUZON](https://docs.stopcoronavirus.tech/#/r/markdown/07560_montpezat-sous-bauzon/4XTTMHP7Tpi8KGqSkh9yRoe7aZrz4K4zyRDL4UffYAaLkSgs8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07560 	- MONTPEZAT SOUS BAUZON](https://docs.stopcoronavirus.tech/#/w/markdown/07560_montpezat-sous-bauzon/4XTTMHP7Tpi8KGqSkh9yRoe7aZrz4K4zyRDL4UffYAaLkSgs8-K3TgUPoBFxk6LKB5JT7tPGk1rzHcCGAawVri9uY4dGLPTBMWevjpR9TPufnK3BkbMtM5WJBrvwk7dMjouqzf3W2GJqRgzhpPCZRMSu32ZRvuWXF1jgCquN4WvkMu3YJ2YDZXVLMU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

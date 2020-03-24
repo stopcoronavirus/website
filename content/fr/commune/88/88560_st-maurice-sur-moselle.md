@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88560 	- ST MAURICE SUR MOSELLE](https://docs.stopcoronavirus.tech/r/markdown/88560_st-maurice-sur-moselle/4XTTMHLEJPJJBggURYKq6pzRkh7KKphbPeUG57Rj1zhVJrfiS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88560 	- ST MAURICE SUR MOSELLE](https://docs.stopcoronavirus.tech/w/markdown/88560_st-maurice-sur-moselle/4XTTMHLEJPJJBggURYKq6pzRkh7KKphbPeUG57Rj1zhVJrfiS-K3TgU7hP5Te4f7QaSxPgCNg5Mv2ANoFQgfv9LHu1YuVS1kczNnaUCGZTn8jL6NAsukcJ43R6LGE6K1mVLeUMZ3hZNjjAFcQn91cgxCAkZkEnqQY9L2sfTvwPzQUn5dCDrH62j4DG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88560 	- ST MAURICE SUR MOSELLE](https://docs.stopcoronavirus.tech/#/r/markdown/88560_st-maurice-sur-moselle/4XTTMHLEJPJJBggURYKq6pzRkh7KKphbPeUG57Rj1zhVJrfiS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88560 	- ST MAURICE SUR MOSELLE](https://docs.stopcoronavirus.tech/#/w/markdown/88560_st-maurice-sur-moselle/4XTTMHLEJPJJBggURYKq6pzRkh7KKphbPeUG57Rj1zhVJrfiS-K3TgU7hP5Te4f7QaSxPgCNg5Mv2ANoFQgfv9LHu1YuVS1kczNnaUCGZTn8jL6NAsukcJ43R6LGE6K1mVLeUMZ3hZNjjAFcQn91cgxCAkZkEnqQY9L2sfTvwPzQUn5dCDrH62j4DG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

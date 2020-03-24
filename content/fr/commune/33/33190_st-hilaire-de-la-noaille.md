@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33190 	- ST HILAIRE DE LA NOAILLE](https://docs.stopcoronavirus.tech/r/markdown/33190_st-hilaire-de-la-noaille/4XTTMBenNmEimHZBb9hfySwGKXaeFGCt13aW4cWK91PCoKj2s) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33190 	- ST HILAIRE DE LA NOAILLE](https://docs.stopcoronavirus.tech/w/markdown/33190_st-hilaire-de-la-noaille/4XTTMBenNmEimHZBb9hfySwGKXaeFGCt13aW4cWK91PCoKj2s-K3TgTnrkUJoCNEJSd31ZfbE3UDyGPQs3cM1JZ9j1VZkfWYBGSdj3vBd7WpyaWtBGYNcNyDXFxJMenUtVQ8zn9WKkeC7aFQWGP5mTFzRY3UaWYsv5wSG5pHHgs74TyNNmbwhxbmJT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33190 	- ST HILAIRE DE LA NOAILLE](https://docs.stopcoronavirus.tech/#/r/markdown/33190_st-hilaire-de-la-noaille/4XTTMBenNmEimHZBb9hfySwGKXaeFGCt13aW4cWK91PCoKj2s) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33190 	- ST HILAIRE DE LA NOAILLE](https://docs.stopcoronavirus.tech/#/w/markdown/33190_st-hilaire-de-la-noaille/4XTTMBenNmEimHZBb9hfySwGKXaeFGCt13aW4cWK91PCoKj2s-K3TgTnrkUJoCNEJSd31ZfbE3UDyGPQs3cM1JZ9j1VZkfWYBGSdj3vBd7WpyaWtBGYNcNyDXFxJMenUtVQ8zn9WKkeC7aFQWGP5mTFzRY3UaWYsv5wSG5pHHgs74TyNNmbwhxbmJT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

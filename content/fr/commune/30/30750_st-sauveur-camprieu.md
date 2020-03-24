@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30750 	- ST SAUVEUR CAMPRIEU](https://docs.stopcoronavirus.tech/r/markdown/30750_st-sauveur-camprieu/4XTTMDKQJAD1v3XWyGEcirHEnbUrAjv5gh4s7ChjipoqzKB7t) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30750 	- ST SAUVEUR CAMPRIEU](https://docs.stopcoronavirus.tech/w/markdown/30750_st-sauveur-camprieu/4XTTMDKQJAD1v3XWyGEcirHEnbUrAjv5gh4s7ChjipoqzKB7t-K3TgUTVhqoTgsKG3H3yjHcQ4V29SYSnbHgDrQ6ngFXLTuaiJvJ4Y1AGoLLknDynniKGAjiFotVdrXQCP1ow9h7XhVyJ9yha9TRsEK3hXd2aEpqsnEAvstABCyiQoEP8MQh4Pn2eA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30750 	- ST SAUVEUR CAMPRIEU](https://docs.stopcoronavirus.tech/#/r/markdown/30750_st-sauveur-camprieu/4XTTMDKQJAD1v3XWyGEcirHEnbUrAjv5gh4s7ChjipoqzKB7t) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30750 	- ST SAUVEUR CAMPRIEU](https://docs.stopcoronavirus.tech/#/w/markdown/30750_st-sauveur-camprieu/4XTTMDKQJAD1v3XWyGEcirHEnbUrAjv5gh4s7ChjipoqzKB7t-K3TgUTVhqoTgsKG3H3yjHcQ4V29SYSnbHgDrQ6ngFXLTuaiJvJ4Y1AGoLLknDynniKGAjiFotVdrXQCP1ow9h7XhVyJ9yha9TRsEK3hXd2aEpqsnEAvstABCyiQoEP8MQh4Pn2eA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

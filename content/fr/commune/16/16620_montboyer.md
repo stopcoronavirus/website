@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16620 	- MONTBOYER](https://docs.stopcoronavirus.tech/r/markdown/16620_montboyer/4XTTM3uUp6gveFevc6NicCmQDzBD1Do97MAGR9rPmCZCscoTV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16620 	- MONTBOYER](https://docs.stopcoronavirus.tech/w/markdown/16620_montboyer/4XTTM3uUp6gveFevc6NicCmQDzBD1Do97MAGR9rPmCZCscoTV-K3TgU1w7pDh3p7Y6gs8A8epLU9R6LT39AD4NkRPyQYJKDL9beBkUdAS1oXYHu6CRRARfqJGWV7XDAw3WXpC2aqi3u7GjPBfjspuJK5hTjLVi5QonaWH7nSL16sDKB9KhpSG4FwFm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16620 	- MONTBOYER](https://docs.stopcoronavirus.tech/#/r/markdown/16620_montboyer/4XTTM3uUp6gveFevc6NicCmQDzBD1Do97MAGR9rPmCZCscoTV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16620 	- MONTBOYER](https://docs.stopcoronavirus.tech/#/w/markdown/16620_montboyer/4XTTM3uUp6gveFevc6NicCmQDzBD1Do97MAGR9rPmCZCscoTV-K3TgU1w7pDh3p7Y6gs8A8epLU9R6LT39AD4NkRPyQYJKDL9beBkUdAS1oXYHu6CRRARfqJGWV7XDAw3WXpC2aqi3u7GjPBfjspuJK5hTjLVi5QonaWH7nSL16sDKB9KhpSG4FwFm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

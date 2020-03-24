@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 55270 	- CIERGES SOUS MONTFAUCON](https://docs.stopcoronavirus.tech/r/markdown/55270_cierges-sous-montfaucon/4XTTM84zJp9mzAoBVZmc3vkUG7Rs2ie7uKGvaiNtvSUUj4ZhG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55270 	- CIERGES SOUS MONTFAUCON](https://docs.stopcoronavirus.tech/w/markdown/55270_cierges-sous-montfaucon/4XTTM84zJp9mzAoBVZmc3vkUG7Rs2ie7uKGvaiNtvSUUj4ZhG-K3TgTyFNMkGTPhdJRCshSP9DLcmoUovKRfKUD7EuQ12b4nh1LxQreQS2P7j6E3kAyv5miZ5FZznpqsfspPF9VAkeJYxQtxXY9MjtDzZb6H1UyTnuoKvk1zBKptYzG923gZM73Us8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55270 	- CIERGES SOUS MONTFAUCON](https://docs.stopcoronavirus.tech/#/r/markdown/55270_cierges-sous-montfaucon/4XTTM84zJp9mzAoBVZmc3vkUG7Rs2ie7uKGvaiNtvSUUj4ZhG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55270 	- CIERGES SOUS MONTFAUCON](https://docs.stopcoronavirus.tech/#/w/markdown/55270_cierges-sous-montfaucon/4XTTM84zJp9mzAoBVZmc3vkUG7Rs2ie7uKGvaiNtvSUUj4ZhG-K3TgTyFNMkGTPhdJRCshSP9DLcmoUovKRfKUD7EuQ12b4nh1LxQreQS2P7j6E3kAyv5miZ5FZznpqsfspPF9VAkeJYxQtxXY9MjtDzZb6H1UyTnuoKvk1zBKptYzG923gZM73Us8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

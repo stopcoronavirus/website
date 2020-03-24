@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89520 	- MOUTIERS EN PUISAYE](https://docs.stopcoronavirus.tech/r/markdown/89520_moutiers-en-puisaye/4XTTM1obBqq8hfsCuaKXLrMLC9pHutYUC6CWnQeygZS8t8S9r) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89520 	- MOUTIERS EN PUISAYE](https://docs.stopcoronavirus.tech/w/markdown/89520_moutiers-en-puisaye/4XTTM1obBqq8hfsCuaKXLrMLC9pHutYUC6CWnQeygZS8t8S9r-K3TgU1nr6qJFgRjk85b1pVc8eHkBiJYR5vSVntgFeWZuAdb9jCy91u8ayHbS8e2F67huWJAv7bPwFt9iorVNWJNvYKK5Pv3Ts2QUMKCqgku9ExQ3mCYakYbi3qk8Z1T54EJJEe8k) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89520 	- MOUTIERS EN PUISAYE](https://docs.stopcoronavirus.tech/#/r/markdown/89520_moutiers-en-puisaye/4XTTM1obBqq8hfsCuaKXLrMLC9pHutYUC6CWnQeygZS8t8S9r) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89520 	- MOUTIERS EN PUISAYE](https://docs.stopcoronavirus.tech/#/w/markdown/89520_moutiers-en-puisaye/4XTTM1obBqq8hfsCuaKXLrMLC9pHutYUC6CWnQeygZS8t8S9r-K3TgU1nr6qJFgRjk85b1pVc8eHkBiJYR5vSVntgFeWZuAdb9jCy91u8ayHbS8e2F67huWJAv7bPwFt9iorVNWJNvYKK5Pv3Ts2QUMKCqgku9ExQ3mCYakYbi3qk8Z1T54EJJEe8k) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

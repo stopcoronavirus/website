@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10700 	- ST REMY SOUS BARBUISE](https://docs.stopcoronavirus.tech/r/markdown/10700_st-remy-sous-barbuise/4XTTM4bYet7X8TmB86NdcJaWqWiX8MBxKjgspPWxoN9A2ZEbn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10700 	- ST REMY SOUS BARBUISE](https://docs.stopcoronavirus.tech/w/markdown/10700_st-remy-sous-barbuise/4XTTM4bYet7X8TmB86NdcJaWqWiX8MBxKjgspPWxoN9A2ZEbn-K3TgV4JYcyT73tDBZsN8Aqo95UTYy6GVLCGiARKvEhEST7uvcYdYsis9YMQLeVHa2y68Enf4aqEZqLpK8dkdt9mihyrQ8vMm6GDdPJSwyAK8dWXTyAqu3cvvUNfZzJu9hckbU9kG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10700 	- ST REMY SOUS BARBUISE](https://docs.stopcoronavirus.tech/#/r/markdown/10700_st-remy-sous-barbuise/4XTTM4bYet7X8TmB86NdcJaWqWiX8MBxKjgspPWxoN9A2ZEbn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10700 	- ST REMY SOUS BARBUISE](https://docs.stopcoronavirus.tech/#/w/markdown/10700_st-remy-sous-barbuise/4XTTM4bYet7X8TmB86NdcJaWqWiX8MBxKjgspPWxoN9A2ZEbn-K3TgV4JYcyT73tDBZsN8Aqo95UTYy6GVLCGiARKvEhEST7uvcYdYsis9YMQLeVHa2y68Enf4aqEZqLpK8dkdt9mihyrQ8vMm6GDdPJSwyAK8dWXTyAqu3cvvUNfZzJu9hckbU9kG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19320 	- ST MARTIN LA MEANNE](https://docs.stopcoronavirus.tech/r/markdown/19320_st-martin-la-meanne/4XTTM4wcGKC8KX4FcoZgZGZ4z86YQJGp7xtW5aZtkpb6SC8BP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19320 	- ST MARTIN LA MEANNE](https://docs.stopcoronavirus.tech/w/markdown/19320_st-martin-la-meanne/4XTTM4wcGKC8KX4FcoZgZGZ4z86YQJGp7xtW5aZtkpb6SC8BP-K3TgU8BvfzeyBdAfg2pVyFPa8MMksS3AiuuaF85Djr1ey93MepFGucz8pjiKPpf2kK6v7VuCthK623N5HJbrmMRydhmzVksXyWcw3AdsyFZEncdMEG8GbyTxCY25PU2BcL7pRGz9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19320 	- ST MARTIN LA MEANNE](https://docs.stopcoronavirus.tech/#/r/markdown/19320_st-martin-la-meanne/4XTTM4wcGKC8KX4FcoZgZGZ4z86YQJGp7xtW5aZtkpb6SC8BP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19320 	- ST MARTIN LA MEANNE](https://docs.stopcoronavirus.tech/#/w/markdown/19320_st-martin-la-meanne/4XTTM4wcGKC8KX4FcoZgZGZ4z86YQJGp7xtW5aZtkpb6SC8BP-K3TgU8BvfzeyBdAfg2pVyFPa8MMksS3AiuuaF85Djr1ey93MepFGucz8pjiKPpf2kK6v7VuCthK623N5HJbrmMRydhmzVksXyWcw3AdsyFZEncdMEG8GbyTxCY25PU2BcL7pRGz9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

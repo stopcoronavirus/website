@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50360 	- PICAUVILLE](https://docs.stopcoronavirus.tech/r/markdown/50360_picauville/4XTTMEkrTcpRDbiXxfR3CaoKWVk2tZ2Aic8Xd7XH9R5EyCeUV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50360 	- PICAUVILLE](https://docs.stopcoronavirus.tech/w/markdown/50360_picauville/4XTTMEkrTcpRDbiXxfR3CaoKWVk2tZ2Aic8Xd7XH9R5EyCeUV-K3TgTrn6NStf2HtDLtFYYjCiaNntw9RbfG9vVfCqPV8E7azBX8WteifeKqm53yzeM1fherxoR15osc7j5UQN4xZ3zqPpYrtwiSk6f15ckc9miX6H5P8eYiPGbyeAM9mYnjwJKdAD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50360 	- PICAUVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/50360_picauville/4XTTMEkrTcpRDbiXxfR3CaoKWVk2tZ2Aic8Xd7XH9R5EyCeUV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50360 	- PICAUVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/50360_picauville/4XTTMEkrTcpRDbiXxfR3CaoKWVk2tZ2Aic8Xd7XH9R5EyCeUV-K3TgTrn6NStf2HtDLtFYYjCiaNntw9RbfG9vVfCqPV8E7azBX8WteifeKqm53yzeM1fherxoR15osc7j5UQN4xZ3zqPpYrtwiSk6f15ckc9miX6H5P8eYiPGbyeAM9mYnjwJKdAD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

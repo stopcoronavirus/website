@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50510 	- ST SAUVEUR LA POMMERAYE](https://docs.stopcoronavirus.tech/r/markdown/50510_st-sauveur-la-pommeraye/4XTTM3koARdhgVBMNPnKUqNQqnT4eQeWauR8hMkVTYdGj9M4Q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50510 	- ST SAUVEUR LA POMMERAYE](https://docs.stopcoronavirus.tech/w/markdown/50510_st-sauveur-la-pommeraye/4XTTM3koARdhgVBMNPnKUqNQqnT4eQeWauR8hMkVTYdGj9M4Q-K3TgUh7c1bmmDepSgkeM5jDNTy5Z8V6dBcBdi61gkJAnRqrezdVvu5Vq59y77Enu6GkYxcyWC5nDT58KJko7GpJTp26CDcrAxsmYhKRtLJkcs6WD3TXa7rw8TaiXTpzfEBuPL4YC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50510 	- ST SAUVEUR LA POMMERAYE](https://docs.stopcoronavirus.tech/#/r/markdown/50510_st-sauveur-la-pommeraye/4XTTM3koARdhgVBMNPnKUqNQqnT4eQeWauR8hMkVTYdGj9M4Q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50510 	- ST SAUVEUR LA POMMERAYE](https://docs.stopcoronavirus.tech/#/w/markdown/50510_st-sauveur-la-pommeraye/4XTTM3koARdhgVBMNPnKUqNQqnT4eQeWauR8hMkVTYdGj9M4Q-K3TgUh7c1bmmDepSgkeM5jDNTy5Z8V6dBcBdi61gkJAnRqrezdVvu5Vq59y77Enu6GkYxcyWC5nDT58KJko7GpJTp26CDcrAxsmYhKRtLJkcs6WD3TXa7rw8TaiXTpzfEBuPL4YC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

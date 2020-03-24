@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02540 	- VENDIERES](https://docs.stopcoronavirus.tech/r/markdown/02540_vendieres/4XTTMB1ks2VXAeT3fBXCiRdHMv1v29Zysdo7ph6kTQfKqeK4X) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02540 	- VENDIERES](https://docs.stopcoronavirus.tech/w/markdown/02540_vendieres/4XTTMB1ks2VXAeT3fBXCiRdHMv1v29Zysdo7ph6kTQfKqeK4X-K3TgUmuzXnqZmZVipZFn7u1u8ksshKNoMnPkC7ighwNDuQeme1PTmHHJnZinYS3yZRhV3vWo98bxMBWGEYDiLKCh9Dc4NhSoSDiTHoRaFbxqcFdABaF53xnAQgBPfSLC7MY8arC3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02540 	- VENDIERES](https://docs.stopcoronavirus.tech/#/r/markdown/02540_vendieres/4XTTMB1ks2VXAeT3fBXCiRdHMv1v29Zysdo7ph6kTQfKqeK4X) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02540 	- VENDIERES](https://docs.stopcoronavirus.tech/#/w/markdown/02540_vendieres/4XTTMB1ks2VXAeT3fBXCiRdHMv1v29Zysdo7ph6kTQfKqeK4X-K3TgUmuzXnqZmZVipZFn7u1u8ksshKNoMnPkC7ighwNDuQeme1PTmHHJnZinYS3yZRhV3vWo98bxMBWGEYDiLKCh9Dc4NhSoSDiTHoRaFbxqcFdABaF53xnAQgBPfSLC7MY8arC3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

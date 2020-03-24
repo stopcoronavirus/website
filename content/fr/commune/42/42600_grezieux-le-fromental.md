@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42600 	- GREZIEUX LE FROMENTAL](https://docs.stopcoronavirus.tech/r/markdown/42600_grezieux-le-fromental/4XTTM7oHfqnBNH1VRMX1b1VdArBLExG1ymt65Ei9vDQsR8V5N) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42600 	- GREZIEUX LE FROMENTAL](https://docs.stopcoronavirus.tech/w/markdown/42600_grezieux-le-fromental/4XTTM7oHfqnBNH1VRMX1b1VdArBLExG1ymt65Ei9vDQsR8V5N-K3TgUECNZNxW3F5MyuRc8jMsWzUHqcMCGuRHULLqFg9Tg2a4hcKkgdJs6RzJAdtLaeG21wCgwH8i8zWK5rcPhsUibRy7xfwyZVZw6cHB4GZNjG1po5gd5UhSYxb4A6SwZr79Kync) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42600 	- GREZIEUX LE FROMENTAL](https://docs.stopcoronavirus.tech/#/r/markdown/42600_grezieux-le-fromental/4XTTM7oHfqnBNH1VRMX1b1VdArBLExG1ymt65Ei9vDQsR8V5N) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42600 	- GREZIEUX LE FROMENTAL](https://docs.stopcoronavirus.tech/#/w/markdown/42600_grezieux-le-fromental/4XTTM7oHfqnBNH1VRMX1b1VdArBLExG1ymt65Ei9vDQsR8V5N-K3TgUECNZNxW3F5MyuRc8jMsWzUHqcMCGuRHULLqFg9Tg2a4hcKkgdJs6RzJAdtLaeG21wCgwH8i8zWK5rcPhsUibRy7xfwyZVZw6cHB4GZNjG1po5gd5UhSYxb4A6SwZr79Kync) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

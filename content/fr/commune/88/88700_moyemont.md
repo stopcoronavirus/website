@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88700 	- MOYEMONT](https://docs.stopcoronavirus.tech/r/markdown/88700_moyemont/4XTTMAohduEfhmh6DaBBEbTU3eKK1fDyW3VLi8pgc9LQmTH3E) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88700 	- MOYEMONT](https://docs.stopcoronavirus.tech/w/markdown/88700_moyemont/4XTTMAohduEfhmh6DaBBEbTU3eKK1fDyW3VLi8pgc9LQmTH3E-K3TgV5TRE5Ax35MiGxsZmaLtzpRLW18Sgoatf78DMLKpvdjws8AjGV8WuV2svSBEeFvWVdQYf5vM7CJsV44JK51GmD5Bdatp6u7ec8sjF6oqiNCdhzKxbfBpbS6F5rx5cvW7t1Bv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88700 	- MOYEMONT](https://docs.stopcoronavirus.tech/#/r/markdown/88700_moyemont/4XTTMAohduEfhmh6DaBBEbTU3eKK1fDyW3VLi8pgc9LQmTH3E) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88700 	- MOYEMONT](https://docs.stopcoronavirus.tech/#/w/markdown/88700_moyemont/4XTTMAohduEfhmh6DaBBEbTU3eKK1fDyW3VLi8pgc9LQmTH3E-K3TgV5TRE5Ax35MiGxsZmaLtzpRLW18Sgoatf78DMLKpvdjws8AjGV8WuV2svSBEeFvWVdQYf5vM7CJsV44JK51GmD5Bdatp6u7ec8sjF6oqiNCdhzKxbfBpbS6F5rx5cvW7t1Bv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

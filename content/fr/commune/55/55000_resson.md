@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 55000 	- RESSON](https://docs.stopcoronavirus.tech/r/markdown/55000_resson/4XTTM28WqW4DjgDnbkZzQAje3FirUmMBoYG6J5U2LkBgSRSSv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55000 	- RESSON](https://docs.stopcoronavirus.tech/w/markdown/55000_resson/4XTTM28WqW4DjgDnbkZzQAje3FirUmMBoYG6J5U2LkBgSRSSv-K3TgU1DLcrZiyThayvZg8AaftkB1sacjupZiBdNAiMXkmKzTa2QmJwoMKF63vJXeipp3dBr6LcQJ1YvTFC1LhPjhe5bfvZNU52Pp1EnykALdigs641QKrFzkCcipo7eu8ta8bp4i) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55000 	- RESSON](https://docs.stopcoronavirus.tech/#/r/markdown/55000_resson/4XTTM28WqW4DjgDnbkZzQAje3FirUmMBoYG6J5U2LkBgSRSSv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55000 	- RESSON](https://docs.stopcoronavirus.tech/#/w/markdown/55000_resson/4XTTM28WqW4DjgDnbkZzQAje3FirUmMBoYG6J5U2LkBgSRSSv-K3TgU1DLcrZiyThayvZg8AaftkB1sacjupZiBdNAiMXkmKzTa2QmJwoMKF63vJXeipp3dBr6LcQJ1YvTFC1LhPjhe5bfvZNU52Pp1EnykALdigs641QKrFzkCcipo7eu8ta8bp4i) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

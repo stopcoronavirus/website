@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 61600 	- LA MOTTE FOUQUET](https://docs.stopcoronavirus.tech/r/markdown/61600_la-motte-fouquet/4XTTMB7Ep5FAjv8ZEzjcEsrLU4fFu2ovPBM6eMCgmLM37EE7P) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61600 	- LA MOTTE FOUQUET](https://docs.stopcoronavirus.tech/w/markdown/61600_la-motte-fouquet/4XTTMB7Ep5FAjv8ZEzjcEsrLU4fFu2ovPBM6eMCgmLM37EE7P-K3TgTdRZEE7xnQX8uZ2hWK7LmMk91BSdNpwuEuSPB4eLBBq5jja9B124Ch6X6uyq56uoWxY5WSVg6dvJi2GSQ8A31wyeh8JKXN46jwKJWqr5Qw7GrLxmv2f7SCBhyBS1UWcxWNuT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61600 	- LA MOTTE FOUQUET](https://docs.stopcoronavirus.tech/#/r/markdown/61600_la-motte-fouquet/4XTTMB7Ep5FAjv8ZEzjcEsrLU4fFu2ovPBM6eMCgmLM37EE7P) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61600 	- LA MOTTE FOUQUET](https://docs.stopcoronavirus.tech/#/w/markdown/61600_la-motte-fouquet/4XTTMB7Ep5FAjv8ZEzjcEsrLU4fFu2ovPBM6eMCgmLM37EE7P-K3TgTdRZEE7xnQX8uZ2hWK7LmMk91BSdNpwuEuSPB4eLBBq5jja9B124Ch6X6uyq56uoWxY5WSVg6dvJi2GSQ8A31wyeh8JKXN46jwKJWqr5Qw7GrLxmv2f7SCBhyBS1UWcxWNuT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

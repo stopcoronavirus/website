@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10100 	- OSSEY LES TROIS MAISONS](https://docs.stopcoronavirus.tech/r/markdown/10100_ossey-les-trois-maisons/4XTTMHqwT3tSyj419drs7TP4ADA5RMsRMsdki1RA2pdsjrEuq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10100 	- OSSEY LES TROIS MAISONS](https://docs.stopcoronavirus.tech/w/markdown/10100_ossey-les-trois-maisons/4XTTMHqwT3tSyj419drs7TP4ADA5RMsRMsdki1RA2pdsjrEuq-K3TgUm2bdHpneNFun1iFXBkPSeo4WhJ6crfarpajCkWeJZoubp7sMsrfRekAgSv9pyhkbprsM3Hiqgm7brMJZMpNtrqcw3PeB8j6NR46zRfdnsKiF9csGoqHaKjfcSFtxKk2p2iX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10100 	- OSSEY LES TROIS MAISONS](https://docs.stopcoronavirus.tech/#/r/markdown/10100_ossey-les-trois-maisons/4XTTMHqwT3tSyj419drs7TP4ADA5RMsRMsdki1RA2pdsjrEuq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10100 	- OSSEY LES TROIS MAISONS](https://docs.stopcoronavirus.tech/#/w/markdown/10100_ossey-les-trois-maisons/4XTTMHqwT3tSyj419drs7TP4ADA5RMsRMsdki1RA2pdsjrEuq-K3TgUm2bdHpneNFun1iFXBkPSeo4WhJ6crfarpajCkWeJZoubp7sMsrfRekAgSv9pyhkbprsM3Hiqgm7brMJZMpNtrqcw3PeB8j6NR46zRfdnsKiF9csGoqHaKjfcSFtxKk2p2iX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07160 	- ST CIERGE SOUS LE CHEYLARD](https://docs.stopcoronavirus.tech/r/markdown/07160_st-cierge-sous-le-cheylard/4XTTMAq5tYVMEKd9wCLTbJTnKBfmn99QTkU1gQPFzZTK76ZB8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07160 	- ST CIERGE SOUS LE CHEYLARD](https://docs.stopcoronavirus.tech/w/markdown/07160_st-cierge-sous-le-cheylard/4XTTMAq5tYVMEKd9wCLTbJTnKBfmn99QTkU1gQPFzZTK76ZB8-K3TgUEJbZvZxco2MqCcbECb4BVe7oWsw7rFyNivpEKKB8VR3z7UT47yMLd1uop8oLyK28q9N8dxB7QSc1V7Tr7fvymherqV8bDKmLRue9NuW7awCx4ApxcnZay2LsWivBSqJ2zhg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07160 	- ST CIERGE SOUS LE CHEYLARD](https://docs.stopcoronavirus.tech/#/r/markdown/07160_st-cierge-sous-le-cheylard/4XTTMAq5tYVMEKd9wCLTbJTnKBfmn99QTkU1gQPFzZTK76ZB8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07160 	- ST CIERGE SOUS LE CHEYLARD](https://docs.stopcoronavirus.tech/#/w/markdown/07160_st-cierge-sous-le-cheylard/4XTTMAq5tYVMEKd9wCLTbJTnKBfmn99QTkU1gQPFzZTK76ZB8-K3TgUEJbZvZxco2MqCcbECb4BVe7oWsw7rFyNivpEKKB8VR3z7UT47yMLd1uop8oLyK28q9N8dxB7QSc1V7Tr7fvymherqV8bDKmLRue9NuW7awCx4ApxcnZay2LsWivBSqJ2zhg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

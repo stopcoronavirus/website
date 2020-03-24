@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 41100 	- AREINES](https://docs.stopcoronavirus.tech/r/markdown/41100_areines/4XTTM536fgv7EjqLfmXUvsJkcsC4DnKwv3VhRqRPa5ewpxDAT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 41100 	- AREINES](https://docs.stopcoronavirus.tech/w/markdown/41100_areines/4XTTM536fgv7EjqLfmXUvsJkcsC4DnKwv3VhRqRPa5ewpxDAT-K3TgUFoFGswpR2ADvSeZxjmskdJY7GikiL4AGd6NQ2mV6B4UXadqQNHjm39rLfDaxrKYhcLy8ztZk5UD6vmQX69ewsT5GRSHStdAWTfYhNqzr4fG3dBWgg6nouMkSGCPSBTjtZJj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 41100 	- AREINES](https://docs.stopcoronavirus.tech/#/r/markdown/41100_areines/4XTTM536fgv7EjqLfmXUvsJkcsC4DnKwv3VhRqRPa5ewpxDAT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 41100 	- AREINES](https://docs.stopcoronavirus.tech/#/w/markdown/41100_areines/4XTTM536fgv7EjqLfmXUvsJkcsC4DnKwv3VhRqRPa5ewpxDAT-K3TgUFoFGswpR2ADvSeZxjmskdJY7GikiL4AGd6NQ2mV6B4UXadqQNHjm39rLfDaxrKYhcLy8ztZk5UD6vmQX69ewsT5GRSHStdAWTfYhNqzr4fG3dBWgg6nouMkSGCPSBTjtZJj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/#/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/#/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27310 	- HONGUEMARE GUENOUVILLE](https://docs.stopcoronavirus.tech/r/markdown/27310_honguemare-guenouville/4XTTMCarJ8nX4YjTJM5twodqnP33aBGYfhr5NfQ7XJJPLpRKk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27310 	- HONGUEMARE GUENOUVILLE](https://docs.stopcoronavirus.tech/w/markdown/27310_honguemare-guenouville/4XTTMCarJ8nX4YjTJM5twodqnP33aBGYfhr5NfQ7XJJPLpRKk-K3TgUFbd7hvGYfW2kuoK4VjyC91NHmaDt5Yfj9jLPHpR3Mgx4MeaAtACXa8S2YZwJFU1g3syH3LiZnzXq9m7VyqYxuJKYhdX4BbmH7Ynu6ksYK41qWTwiUrkF1zHNN1ZRdZY5Wv2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27310 	- HONGUEMARE GUENOUVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/27310_honguemare-guenouville/4XTTMCarJ8nX4YjTJM5twodqnP33aBGYfhr5NfQ7XJJPLpRKk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27310 	- HONGUEMARE GUENOUVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/27310_honguemare-guenouville/4XTTMCarJ8nX4YjTJM5twodqnP33aBGYfhr5NfQ7XJJPLpRKk-K3TgUFbd7hvGYfW2kuoK4VjyC91NHmaDt5Yfj9jLPHpR3Mgx4MeaAtACXa8S2YZwJFU1g3syH3LiZnzXq9m7VyqYxuJKYhdX4BbmH7Ynu6ksYK41qWTwiUrkF1zHNN1ZRdZY5Wv2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

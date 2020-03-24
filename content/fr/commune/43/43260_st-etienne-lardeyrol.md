@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 43260 	- ST ETIENNE LARDEYROL](https://docs.stopcoronavirus.tech/r/markdown/43260_st-etienne-lardeyrol/4XTTMFJA7m4trq4d11YG828GgxkqR2B9VpATp9YzPnrjWYT5D) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43260 	- ST ETIENNE LARDEYROL](https://docs.stopcoronavirus.tech/w/markdown/43260_st-etienne-lardeyrol/4XTTMFJA7m4trq4d11YG828GgxkqR2B9VpATp9YzPnrjWYT5D-K3TgUhoQwhop6aoF3E3t2AsLx3qsYZenSkj2ZjB5vFXj8Bpk6PZeNxxdxqtDhAT5h8VTVs8onFKX5QHvHDU6SVPnsEENocW5MHkfUQncDJbgaE4rYjzZ4FQzVvrvzTxCgCssa7tP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43260 	- ST ETIENNE LARDEYROL](https://docs.stopcoronavirus.tech/#/r/markdown/43260_st-etienne-lardeyrol/4XTTMFJA7m4trq4d11YG828GgxkqR2B9VpATp9YzPnrjWYT5D) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43260 	- ST ETIENNE LARDEYROL](https://docs.stopcoronavirus.tech/#/w/markdown/43260_st-etienne-lardeyrol/4XTTMFJA7m4trq4d11YG828GgxkqR2B9VpATp9YzPnrjWYT5D-K3TgUhoQwhop6aoF3E3t2AsLx3qsYZenSkj2ZjB5vFXj8Bpk6PZeNxxdxqtDhAT5h8VTVs8onFKX5QHvHDU6SVPnsEENocW5MHkfUQncDJbgaE4rYjzZ4FQzVvrvzTxCgCssa7tP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

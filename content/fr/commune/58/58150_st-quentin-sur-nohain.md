@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 58150 	- ST QUENTIN SUR NOHAIN](https://docs.stopcoronavirus.tech/r/markdown/58150_st-quentin-sur-nohain/4XTTM5LWSp8mDs19jR43sy7ex8uJ6mCALTLEP1SfM473vUPST) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58150 	- ST QUENTIN SUR NOHAIN](https://docs.stopcoronavirus.tech/w/markdown/58150_st-quentin-sur-nohain/4XTTM5LWSp8mDs19jR43sy7ex8uJ6mCALTLEP1SfM473vUPST-K3TgU4jYrsJR2bNfFh65e1gDcPjbFtMo8A9SP22nEPWiVTB93kRvv2B4bpdpg1aoUyWcmsunMtYQz9wtPSdRK8Hus88qZkDajd1WmJwxmwqAj7DdddopRZJmWPonjxpVH5Tb1sFH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58150 	- ST QUENTIN SUR NOHAIN](https://docs.stopcoronavirus.tech/#/r/markdown/58150_st-quentin-sur-nohain/4XTTM5LWSp8mDs19jR43sy7ex8uJ6mCALTLEP1SfM473vUPST) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58150 	- ST QUENTIN SUR NOHAIN](https://docs.stopcoronavirus.tech/#/w/markdown/58150_st-quentin-sur-nohain/4XTTM5LWSp8mDs19jR43sy7ex8uJ6mCALTLEP1SfM473vUPST-K3TgU4jYrsJR2bNfFh65e1gDcPjbFtMo8A9SP22nEPWiVTB93kRvv2B4bpdpg1aoUyWcmsunMtYQz9wtPSdRK8Hus88qZkDajd1WmJwxmwqAj7DdddopRZJmWPonjxpVH5Tb1sFH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

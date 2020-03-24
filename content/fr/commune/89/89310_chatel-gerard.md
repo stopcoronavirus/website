@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89310 	- CHATEL GERARD](https://docs.stopcoronavirus.tech/r/markdown/89310_chatel-gerard/4XTTM2vJkqGZ9kjWvXgXo2w1X3yxC63evMfV9riJBC8mZ7xzv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89310 	- CHATEL GERARD](https://docs.stopcoronavirus.tech/w/markdown/89310_chatel-gerard/4XTTM2vJkqGZ9kjWvXgXo2w1X3yxC63evMfV9riJBC8mZ7xzv-K3TgUPKMBxLBVkCVKR4YpeJMGbiSe6HFxWpiKJrygPFf4H7WHbfw9CjQm7i1VzzYUDsZ8gXMZWc5TmbGGDS1NwNPwqZXMgC2GxocjctacuLyVKJS8fbxBYY3WWnaXZcH4uLzjCLr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89310 	- CHATEL GERARD](https://docs.stopcoronavirus.tech/#/r/markdown/89310_chatel-gerard/4XTTM2vJkqGZ9kjWvXgXo2w1X3yxC63evMfV9riJBC8mZ7xzv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89310 	- CHATEL GERARD](https://docs.stopcoronavirus.tech/#/w/markdown/89310_chatel-gerard/4XTTM2vJkqGZ9kjWvXgXo2w1X3yxC63evMfV9riJBC8mZ7xzv-K3TgUPKMBxLBVkCVKR4YpeJMGbiSe6HFxWpiKJrygPFf4H7WHbfw9CjQm7i1VzzYUDsZ8gXMZWc5TmbGGDS1NwNPwqZXMgC2GxocjctacuLyVKJS8fbxBYY3WWnaXZcH4uLzjCLr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

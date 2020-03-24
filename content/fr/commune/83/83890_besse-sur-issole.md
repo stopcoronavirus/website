@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83890 	- BESSE SUR ISSOLE](https://docs.stopcoronavirus.tech/r/markdown/83890_besse-sur-issole/4XTTM7XmaJ9drdRgA1mUh8ACFof694QoMsL1TGX4L8cGwpf3k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83890 	- BESSE SUR ISSOLE](https://docs.stopcoronavirus.tech/w/markdown/83890_besse-sur-issole/4XTTM7XmaJ9drdRgA1mUh8ACFof694QoMsL1TGX4L8cGwpf3k-K3TgUxupN1TPDyteg12df4GvtvKu31EEa776cCdEPdxuN4XvZFb6Hb1nLUuDthUdJUbvQKSQFurXK9eK26xohAPH7jpT1yoqmPtKBzjGVaUKL2kFTSoVnLhJrFBPVcGSE2unDsZQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83890 	- BESSE SUR ISSOLE](https://docs.stopcoronavirus.tech/#/r/markdown/83890_besse-sur-issole/4XTTM7XmaJ9drdRgA1mUh8ACFof694QoMsL1TGX4L8cGwpf3k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83890 	- BESSE SUR ISSOLE](https://docs.stopcoronavirus.tech/#/w/markdown/83890_besse-sur-issole/4XTTM7XmaJ9drdRgA1mUh8ACFof694QoMsL1TGX4L8cGwpf3k-K3TgUxupN1TPDyteg12df4GvtvKu31EEa776cCdEPdxuN4XvZFb6Hb1nLUuDthUdJUbvQKSQFurXK9eK26xohAPH7jpT1yoqmPtKBzjGVaUKL2kFTSoVnLhJrFBPVcGSE2unDsZQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

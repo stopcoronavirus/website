@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 49123 	- INGRANDES LE FRESNE SUR LOIRE](https://docs.stopcoronavirus.tech/r/markdown/49123_ingrandes-le-fresne-sur-loire/4XTTMJ4SnKyBd7Cki3yiPLDTzZyoWhpBivCKrD1Y8nvYMUWhh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49123 	- INGRANDES LE FRESNE SUR LOIRE](https://docs.stopcoronavirus.tech/w/markdown/49123_ingrandes-le-fresne-sur-loire/4XTTMJ4SnKyBd7Cki3yiPLDTzZyoWhpBivCKrD1Y8nvYMUWhh-K3TgUSguhqYk7qZMoHRDQWU3aCJu7eW83WsWzLs9N3tGUTpPYPVF8ahRzwEL9rHpMZZoBD8pZvevR4sDcDkwgTiP9EnwvJ3RfTWDPVgiDPxxLyMb9buneqvfXnwbnhAVArZ9Mw55) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49123 	- INGRANDES LE FRESNE SUR LOIRE](https://docs.stopcoronavirus.tech/#/r/markdown/49123_ingrandes-le-fresne-sur-loire/4XTTMJ4SnKyBd7Cki3yiPLDTzZyoWhpBivCKrD1Y8nvYMUWhh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49123 	- INGRANDES LE FRESNE SUR LOIRE](https://docs.stopcoronavirus.tech/#/w/markdown/49123_ingrandes-le-fresne-sur-loire/4XTTMJ4SnKyBd7Cki3yiPLDTzZyoWhpBivCKrD1Y8nvYMUWhh-K3TgUSguhqYk7qZMoHRDQWU3aCJu7eW83WsWzLs9N3tGUTpPYPVF8ahRzwEL9rHpMZZoBD8pZvevR4sDcDkwgTiP9EnwvJ3RfTWDPVgiDPxxLyMb9buneqvfXnwbnhAVArZ9Mw55) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

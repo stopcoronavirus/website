@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 63200 	- GIMEAUX](https://docs.stopcoronavirus.tech/r/markdown/63200_gimeaux/4XTTMFNxbk496BBzdEsqD6PCYbgUnYVTjwMNQMkPcpkRpgZZ8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63200 	- GIMEAUX](https://docs.stopcoronavirus.tech/w/markdown/63200_gimeaux/4XTTMFNxbk496BBzdEsqD6PCYbgUnYVTjwMNQMkPcpkRpgZZ8-K3TgU8mFY36N75YWmq9HsQ519TApGwGBhERRkTpZzDnQVYZu4M2ZPpWXq8JX8WocVhbJqdQbuam6gEyLZP3x8Y4ByuY5VNzKeqQVrgYhsUyxP2yY1fFu2kboW9cxyUr1cwmUt3ot) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63200 	- GIMEAUX](https://docs.stopcoronavirus.tech/#/r/markdown/63200_gimeaux/4XTTMFNxbk496BBzdEsqD6PCYbgUnYVTjwMNQMkPcpkRpgZZ8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63200 	- GIMEAUX](https://docs.stopcoronavirus.tech/#/w/markdown/63200_gimeaux/4XTTMFNxbk496BBzdEsqD6PCYbgUnYVTjwMNQMkPcpkRpgZZ8-K3TgU8mFY36N75YWmq9HsQ519TApGwGBhERRkTpZzDnQVYZu4M2ZPpWXq8JX8WocVhbJqdQbuam6gEyLZP3x8Y4ByuY5VNzKeqQVrgYhsUyxP2yY1fFu2kboW9cxyUr1cwmUt3ot) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

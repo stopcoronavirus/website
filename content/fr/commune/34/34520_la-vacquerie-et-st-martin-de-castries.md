@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 34520 	- LA VACQUERIE ET ST MARTIN DE CASTRIES](https://docs.stopcoronavirus.tech/r/markdown/34520_la-vacquerie-et-st-martin-de-castries/4XTTM4HXb8mPxxRrK2D7dkJ9nfcB8jnu1JvApx2YvAT2nhncQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34520 	- LA VACQUERIE ET ST MARTIN DE CASTRIES](https://docs.stopcoronavirus.tech/w/markdown/34520_la-vacquerie-et-st-martin-de-castries/4XTTM4HXb8mPxxRrK2D7dkJ9nfcB8jnu1JvApx2YvAT2nhncQ-K3TgV4ouPPqgJtUMSV3bhyeFK8CN9u3LMGqa4gknNbRXQz9DyC3UuS881hAsvnBxmtCvUW18UYH2zoyrHTFx9BepSRc8ERuYYvnLcrCDhPfP19rycyjLPUeeNNYruEDajHRWXPig) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34520 	- LA VACQUERIE ET ST MARTIN DE CASTRIES](https://docs.stopcoronavirus.tech/#/r/markdown/34520_la-vacquerie-et-st-martin-de-castries/4XTTM4HXb8mPxxRrK2D7dkJ9nfcB8jnu1JvApx2YvAT2nhncQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34520 	- LA VACQUERIE ET ST MARTIN DE CASTRIES](https://docs.stopcoronavirus.tech/#/w/markdown/34520_la-vacquerie-et-st-martin-de-castries/4XTTM4HXb8mPxxRrK2D7dkJ9nfcB8jnu1JvApx2YvAT2nhncQ-K3TgV4ouPPqgJtUMSV3bhyeFK8CN9u3LMGqa4gknNbRXQz9DyC3UuS881hAsvnBxmtCvUW18UYH2zoyrHTFx9BepSRc8ERuYYvnLcrCDhPfP19rycyjLPUeeNNYruEDajHRWXPig) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

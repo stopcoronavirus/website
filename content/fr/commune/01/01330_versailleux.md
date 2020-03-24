@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01330 	- VERSAILLEUX](https://docs.stopcoronavirus.tech/r/markdown/01330_versailleux/4XTTMBw4w3L35zPBGprP4VHqx72z8kFKhabHv2BWjLZbF1RHL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01330 	- VERSAILLEUX](https://docs.stopcoronavirus.tech/w/markdown/01330_versailleux/4XTTMBw4w3L35zPBGprP4VHqx72z8kFKhabHv2BWjLZbF1RHL-K3TgTcb7g6KrCJCeV6pwgJh9zuV3TUeK4U8YDJw2kmmJJDYDtizFTfC9szYK3YcVdkqA3Dfk4pz3fem1yF5or4UypaE8hji8rz5zWt46jzvVRM75ctcntSDNRwA1nsuSdSn2xiT4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01330 	- VERSAILLEUX](https://docs.stopcoronavirus.tech/#/r/markdown/01330_versailleux/4XTTMBw4w3L35zPBGprP4VHqx72z8kFKhabHv2BWjLZbF1RHL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01330 	- VERSAILLEUX](https://docs.stopcoronavirus.tech/#/w/markdown/01330_versailleux/4XTTMBw4w3L35zPBGprP4VHqx72z8kFKhabHv2BWjLZbF1RHL-K3TgTcb7g6KrCJCeV6pwgJh9zuV3TUeK4U8YDJw2kmmJJDYDtizFTfC9szYK3YcVdkqA3Dfk4pz3fem1yF5or4UypaE8hji8rz5zWt46jzvVRM75ctcntSDNRwA1nsuSdSn2xiT4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

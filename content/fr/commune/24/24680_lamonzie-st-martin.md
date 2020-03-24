@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24680 	- LAMONZIE ST MARTIN](https://docs.stopcoronavirus.tech/r/markdown/24680_lamonzie-st-martin/4XTTMBebGL6PAdM2WRHyhx8a14Vb35G5m2kEpHg5WbiEeVSU2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24680 	- LAMONZIE ST MARTIN](https://docs.stopcoronavirus.tech/w/markdown/24680_lamonzie-st-martin/4XTTMBebGL6PAdM2WRHyhx8a14Vb35G5m2kEpHg5WbiEeVSU2-K3TgUujGQZVgWRYHaopT6rD9zw2mTBGmPBF5uWKAUcYad4yPZBhwSr4xE77axqesW6R1KLvJsEoDSokVm3rtqL6Et4KGMULFLByum93hVT1Xom9r8yjZDFwxuVinnUu8egic1VCv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24680 	- LAMONZIE ST MARTIN](https://docs.stopcoronavirus.tech/#/r/markdown/24680_lamonzie-st-martin/4XTTMBebGL6PAdM2WRHyhx8a14Vb35G5m2kEpHg5WbiEeVSU2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24680 	- LAMONZIE ST MARTIN](https://docs.stopcoronavirus.tech/#/w/markdown/24680_lamonzie-st-martin/4XTTMBebGL6PAdM2WRHyhx8a14Vb35G5m2kEpHg5WbiEeVSU2-K3TgUujGQZVgWRYHaopT6rD9zw2mTBGmPBF5uWKAUcYad4yPZBhwSr4xE77axqesW6R1KLvJsEoDSokVm3rtqL6Et4KGMULFLByum93hVT1Xom9r8yjZDFwxuVinnUu8egic1VCv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

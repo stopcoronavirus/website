@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85390 	- MOUILLERON ST GERMAIN](https://docs.stopcoronavirus.tech/r/markdown/85390_mouilleron-st-germain/4XTTM9uQhKZdH4ADdYbRFCs5L37NRu7qMgzzyKtTtnafYEmvC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85390 	- MOUILLERON ST GERMAIN](https://docs.stopcoronavirus.tech/w/markdown/85390_mouilleron-st-germain/4XTTM9uQhKZdH4ADdYbRFCs5L37NRu7qMgzzyKtTtnafYEmvC-K3TgUkear6Wq5MtQUst8YfkMcKvi5qa8unfixNmhZmrQE1npy7eEHwf42r6YCHNFNda81fxsb4ZkzsQ4v7zuLBEeZwBRDF7hMtEvpk6CScdBT8SZo8YvRpxJD565iZ4wxNAukixc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85390 	- MOUILLERON ST GERMAIN](https://docs.stopcoronavirus.tech/#/r/markdown/85390_mouilleron-st-germain/4XTTM9uQhKZdH4ADdYbRFCs5L37NRu7qMgzzyKtTtnafYEmvC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85390 	- MOUILLERON ST GERMAIN](https://docs.stopcoronavirus.tech/#/w/markdown/85390_mouilleron-st-germain/4XTTM9uQhKZdH4ADdYbRFCs5L37NRu7qMgzzyKtTtnafYEmvC-K3TgUkear6Wq5MtQUst8YfkMcKvi5qa8unfixNmhZmrQE1npy7eEHwf42r6YCHNFNda81fxsb4ZkzsQ4v7zuLBEeZwBRDF7hMtEvpk6CScdBT8SZo8YvRpxJD565iZ4wxNAukixc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

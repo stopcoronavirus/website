@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 05350 	- CHATEAU VILLE VIEILLE](https://docs.stopcoronavirus.tech/r/markdown/05350_chateau-ville-vieille/4XTTM8zqvQvFE3LRm2fJCgYT7oSLCCi2WzyYZuFkDJRpkU83J) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05350 	- CHATEAU VILLE VIEILLE](https://docs.stopcoronavirus.tech/w/markdown/05350_chateau-ville-vieille/4XTTM8zqvQvFE3LRm2fJCgYT7oSLCCi2WzyYZuFkDJRpkU83J-K3TgUsmGsaB2EJtpvQt6zW8KcEuZC7Bcjvc9DsBJxmehTiSPohtdLVLDKjJcN2WtVY7GyHdPTuwjrUUT4Bx11m61wAH3tYi6B8qx5tYeZXo7dscKRTQX5HuYPpLtBcw8xJTVLBKN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05350 	- CHATEAU VILLE VIEILLE](https://docs.stopcoronavirus.tech/#/r/markdown/05350_chateau-ville-vieille/4XTTM8zqvQvFE3LRm2fJCgYT7oSLCCi2WzyYZuFkDJRpkU83J) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05350 	- CHATEAU VILLE VIEILLE](https://docs.stopcoronavirus.tech/#/w/markdown/05350_chateau-ville-vieille/4XTTM8zqvQvFE3LRm2fJCgYT7oSLCCi2WzyYZuFkDJRpkU83J-K3TgUsmGsaB2EJtpvQt6zW8KcEuZC7Bcjvc9DsBJxmehTiSPohtdLVLDKjJcN2WtVY7GyHdPTuwjrUUT4Bx11m61wAH3tYi6B8qx5tYeZXo7dscKRTQX5HuYPpLtBcw8xJTVLBKN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

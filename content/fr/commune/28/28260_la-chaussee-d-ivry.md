@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28260 	- LA CHAUSSEE D IVRY](https://docs.stopcoronavirus.tech/r/markdown/28260_la-chaussee-d-ivry/4XTTMALdTELz6oafLaJoFn7h4zkcQBAE9DCYzUPVjB9htS2f5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28260 	- LA CHAUSSEE D IVRY](https://docs.stopcoronavirus.tech/w/markdown/28260_la-chaussee-d-ivry/4XTTMALdTELz6oafLaJoFn7h4zkcQBAE9DCYzUPVjB9htS2f5-K3TgUcPJYMLfAmhs6edw4wYjVgL4VR2wCKWi1tf7vJNYqraCJogkELumD4pbhXjJQvwKYjAPG6AKwiAMhUzsJfgHXeoTXgarsJo9rZM8T7iuGjMkJX8S6qYXxU6wz91eGSuqS9W3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28260 	- LA CHAUSSEE D IVRY](https://docs.stopcoronavirus.tech/#/r/markdown/28260_la-chaussee-d-ivry/4XTTMALdTELz6oafLaJoFn7h4zkcQBAE9DCYzUPVjB9htS2f5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28260 	- LA CHAUSSEE D IVRY](https://docs.stopcoronavirus.tech/#/w/markdown/28260_la-chaussee-d-ivry/4XTTMALdTELz6oafLaJoFn7h4zkcQBAE9DCYzUPVjB9htS2f5-K3TgUcPJYMLfAmhs6edw4wYjVgL4VR2wCKWi1tf7vJNYqraCJogkELumD4pbhXjJQvwKYjAPG6AKwiAMhUzsJfgHXeoTXgarsJo9rZM8T7iuGjMkJX8S6qYXxU6wz91eGSuqS9W3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

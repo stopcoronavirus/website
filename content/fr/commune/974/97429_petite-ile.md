@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97429 	- PETITE ILE](https://docs.stopcoronavirus.tech/r/markdown/97429_petite-ile/4XTTMEmZtg74ijWkVDQftzmKoHpUJYekkWNfLSPoKiL9yRsj9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97429 	- PETITE ILE](https://docs.stopcoronavirus.tech/w/markdown/97429_petite-ile/4XTTMEmZtg74ijWkVDQftzmKoHpUJYekkWNfLSPoKiL9yRsj9-K3TgUsrw76auFdog9TdEYjPQRcbzpzJpQGsQDeVYe7gpXZ7NDd81nZBCYtmPg9foitR3FGJ5uGcVej3ips1obmexjxWa5aN84RASaE3yVMt7W3feS8FhCXoxnoL7Wkf8n8kxK1b1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 97429 	- PETITE ILE](https://docs.stopcoronavirus.tech/#/r/markdown/97429_petite-ile/4XTTMEmZtg74ijWkVDQftzmKoHpUJYekkWNfLSPoKiL9yRsj9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 97429 	- PETITE ILE](https://docs.stopcoronavirus.tech/#/w/markdown/97429_petite-ile/4XTTMEmZtg74ijWkVDQftzmKoHpUJYekkWNfLSPoKiL9yRsj9-K3TgUsrw76auFdog9TdEYjPQRcbzpzJpQGsQDeVYe7gpXZ7NDd81nZBCYtmPg9foitR3FGJ5uGcVej3ips1obmexjxWa5aN84RASaE3yVMt7W3feS8FhCXoxnoL7Wkf8n8kxK1b1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 974 	- La Réunion](https://docs.stopcoronavirus.tech/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 974 	- La Réunion](https://docs.stopcoronavirus.tech/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 974 	- La Réunion](https://docs.stopcoronavirus.tech/#/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 974 	- La Réunion](https://docs.stopcoronavirus.tech/#/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

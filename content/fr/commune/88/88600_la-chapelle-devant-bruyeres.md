@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88600 	- LA CHAPELLE DEVANT BRUYERES](https://docs.stopcoronavirus.tech/r/markdown/88600_la-chapelle-devant-bruyeres/4XTTM9U2DCuEmrXzb34WpxNjY4KeW8MZBgnCGE6KDe1uua7yM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88600 	- LA CHAPELLE DEVANT BRUYERES](https://docs.stopcoronavirus.tech/w/markdown/88600_la-chapelle-devant-bruyeres/4XTTM9U2DCuEmrXzb34WpxNjY4KeW8MZBgnCGE6KDe1uua7yM-K3TgTcpanLFQbfSbZ7k8QXPpgPrqcw2VikZ39K5XALsPaSEm1dggdfBGfqVkpAXexRGbf4YC8XqTitQrQw61SKjsWDe4sSPbaDTZCX8fjp5j4DUTyUV1BEEQGeTaZbMQDZYRev9R) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88600 	- LA CHAPELLE DEVANT BRUYERES](https://docs.stopcoronavirus.tech/#/r/markdown/88600_la-chapelle-devant-bruyeres/4XTTM9U2DCuEmrXzb34WpxNjY4KeW8MZBgnCGE6KDe1uua7yM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88600 	- LA CHAPELLE DEVANT BRUYERES](https://docs.stopcoronavirus.tech/#/w/markdown/88600_la-chapelle-devant-bruyeres/4XTTM9U2DCuEmrXzb34WpxNjY4KeW8MZBgnCGE6KDe1uua7yM-K3TgTcpanLFQbfSbZ7k8QXPpgPrqcw2VikZ39K5XALsPaSEm1dggdfBGfqVkpAXexRGbf4YC8XqTitQrQw61SKjsWDe4sSPbaDTZCX8fjp5j4DUTyUV1BEEQGeTaZbMQDZYRev9R) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

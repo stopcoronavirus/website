@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07380 	- ST CIRGUES DE PRADES](https://docs.stopcoronavirus.tech/r/markdown/07380_st-cirgues-de-prades/4XTTM7oSnnEdM4KDH5Rrbutk8kA3vkAa7CMRQLsx4mUVkt816) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07380 	- ST CIRGUES DE PRADES](https://docs.stopcoronavirus.tech/w/markdown/07380_st-cirgues-de-prades/4XTTM7oSnnEdM4KDH5Rrbutk8kA3vkAa7CMRQLsx4mUVkt816-K3TgTdGq9DM325uy5oX87xGodiaHpdmRZDhGHwcq88QdASEYDXxdrbWf6NaVfXChqTN2vAYJja63VcWRdHJnru4VRCpwoASsWLkXpQ3Zn874D5MsJoMJBJzy6kevNcjybXJBGG48) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07380 	- ST CIRGUES DE PRADES](https://docs.stopcoronavirus.tech/#/r/markdown/07380_st-cirgues-de-prades/4XTTM7oSnnEdM4KDH5Rrbutk8kA3vkAa7CMRQLsx4mUVkt816) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07380 	- ST CIRGUES DE PRADES](https://docs.stopcoronavirus.tech/#/w/markdown/07380_st-cirgues-de-prades/4XTTM7oSnnEdM4KDH5Rrbutk8kA3vkAa7CMRQLsx4mUVkt816-K3TgTdGq9DM325uy5oX87xGodiaHpdmRZDhGHwcq88QdASEYDXxdrbWf6NaVfXChqTN2vAYJja63VcWRdHJnru4VRCpwoASsWLkXpQ3Zn874D5MsJoMJBJzy6kevNcjybXJBGG48) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 25870 	- CUSSEY SUR L OGNON](https://docs.stopcoronavirus.tech/r/markdown/25870_cussey-sur-l-ognon/4XTTMFo2WH2frV44HBGFfMh1VjWRGtbo7hEMURRDUtMA8yvQk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25870 	- CUSSEY SUR L OGNON](https://docs.stopcoronavirus.tech/w/markdown/25870_cussey-sur-l-ognon/4XTTMFo2WH2frV44HBGFfMh1VjWRGtbo7hEMURRDUtMA8yvQk-K3TgUNFQNXqrj5yEoL7N4BAegvXcaksTaM26gVAG9BRhGVPJw1Z9Jc1jA6iE58fPZv5hHEByUqWK1YVkUCQRG5RLFcSHwXgeb4CELor1q6ZCJTfezCJ4pHANqY8Qav9KJj9wiZ9E) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25870 	- CUSSEY SUR L OGNON](https://docs.stopcoronavirus.tech/#/r/markdown/25870_cussey-sur-l-ognon/4XTTMFo2WH2frV44HBGFfMh1VjWRGtbo7hEMURRDUtMA8yvQk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25870 	- CUSSEY SUR L OGNON](https://docs.stopcoronavirus.tech/#/w/markdown/25870_cussey-sur-l-ognon/4XTTMFo2WH2frV44HBGFfMh1VjWRGtbo7hEMURRDUtMA8yvQk-K3TgUNFQNXqrj5yEoL7N4BAegvXcaksTaM26gVAG9BRhGVPJw1Z9Jc1jA6iE58fPZv5hHEByUqWK1YVkUCQRG5RLFcSHwXgeb4CELor1q6ZCJTfezCJ4pHANqY8Qav9KJj9wiZ9E) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07510 	- MAZAN L ABBAYE](https://docs.stopcoronavirus.tech/r/markdown/07510_mazan-l-abbaye/4XTTMGSNv71A9zCyD2y7L7KrGAiGx6rcyiB9s3a4ZwzbPMPvr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07510 	- MAZAN L ABBAYE](https://docs.stopcoronavirus.tech/w/markdown/07510_mazan-l-abbaye/4XTTMGSNv71A9zCyD2y7L7KrGAiGx6rcyiB9s3a4ZwzbPMPvr-K3TgUHxEs6TVpUEUCj58zyGBSfdLuebUn4i4WA1Jkb8aopgwQPnytrtseY3R3n4L3PKUEyRZMg3KcLrhCb2h91FKW1x5K2JqHKdpmtWWT4RkKaWKG8e5icFSNBFGYtnPB5K3gnsk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07510 	- MAZAN L ABBAYE](https://docs.stopcoronavirus.tech/#/r/markdown/07510_mazan-l-abbaye/4XTTMGSNv71A9zCyD2y7L7KrGAiGx6rcyiB9s3a4ZwzbPMPvr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07510 	- MAZAN L ABBAYE](https://docs.stopcoronavirus.tech/#/w/markdown/07510_mazan-l-abbaye/4XTTMGSNv71A9zCyD2y7L7KrGAiGx6rcyiB9s3a4ZwzbPMPvr-K3TgUHxEs6TVpUEUCj58zyGBSfdLuebUn4i4WA1Jkb8aopgwQPnytrtseY3R3n4L3PKUEyRZMg3KcLrhCb2h91FKW1x5K2JqHKdpmtWWT4RkKaWKG8e5icFSNBFGYtnPB5K3gnsk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

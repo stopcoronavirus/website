@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 46330 	- LENTILLAC DU CAUSSE](https://docs.stopcoronavirus.tech/r/markdown/46330_lentillac-du-causse/4XTTM2AMiFN6r5g4V9h8XwxmJXwtG5Dp8sgFkBVrFe7F5n3g1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46330 	- LENTILLAC DU CAUSSE](https://docs.stopcoronavirus.tech/w/markdown/46330_lentillac-du-causse/4XTTM2AMiFN6r5g4V9h8XwxmJXwtG5Dp8sgFkBVrFe7F5n3g1-K3TgUq4ZuF1hK9BuvxCjiCYkpQtnYQWiwepMfzTXmB5HCQyTUGg9fgm95Eu2fNxQD5rM49pG5Awo5JLWhDvrEMsTk3LxGAsr8qmEa37q4CsSY41AhefJhYiAcXsXxsZ2MAKTRMBs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46330 	- LENTILLAC DU CAUSSE](https://docs.stopcoronavirus.tech/#/r/markdown/46330_lentillac-du-causse/4XTTM2AMiFN6r5g4V9h8XwxmJXwtG5Dp8sgFkBVrFe7F5n3g1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46330 	- LENTILLAC DU CAUSSE](https://docs.stopcoronavirus.tech/#/w/markdown/46330_lentillac-du-causse/4XTTM2AMiFN6r5g4V9h8XwxmJXwtG5Dp8sgFkBVrFe7F5n3g1-K3TgUq4ZuF1hK9BuvxCjiCYkpQtnYQWiwepMfzTXmB5HCQyTUGg9fgm95Eu2fNxQD5rM49pG5Awo5JLWhDvrEMsTk3LxGAsr8qmEa37q4CsSY41AhefJhYiAcXsXxsZ2MAKTRMBs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

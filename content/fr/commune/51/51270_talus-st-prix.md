@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51270 	- TALUS ST PRIX](https://docs.stopcoronavirus.tech/r/markdown/51270_talus-st-prix/4XTTM1v5HNupQGfetG8orY4JUBHFLCLRYSkaB2rsTnP4LG6KV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51270 	- TALUS ST PRIX](https://docs.stopcoronavirus.tech/w/markdown/51270_talus-st-prix/4XTTM1v5HNupQGfetG8orY4JUBHFLCLRYSkaB2rsTnP4LG6KV-K3TgUo1PF2L3dVF4y8eeoc9fhCAQCHPZ2p2Aw8cEntVQjzPZ5Lu6c4eYZS5HYCwCn5YAJf1uNnLKefXiPTgAbfmVukZ3d5CcEGCRuzcPUyNFWLtUk84A49Aka2E1quvTLuTHxPbh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51270 	- TALUS ST PRIX](https://docs.stopcoronavirus.tech/#/r/markdown/51270_talus-st-prix/4XTTM1v5HNupQGfetG8orY4JUBHFLCLRYSkaB2rsTnP4LG6KV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51270 	- TALUS ST PRIX](https://docs.stopcoronavirus.tech/#/w/markdown/51270_talus-st-prix/4XTTM1v5HNupQGfetG8orY4JUBHFLCLRYSkaB2rsTnP4LG6KV-K3TgUo1PF2L3dVF4y8eeoc9fhCAQCHPZ2p2Aw8cEntVQjzPZ5Lu6c4eYZS5HYCwCn5YAJf1uNnLKefXiPTgAbfmVukZ3d5CcEGCRuzcPUyNFWLtUk84A49Aka2E1quvTLuTHxPbh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

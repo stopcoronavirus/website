@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81240 	- ST AMANS VALTORET](https://docs.stopcoronavirus.tech/r/markdown/81240_st-amans-valtoret/4XTTM5RNezpnGAVwMve4Yj8RBBuvpje7BDuV7xNvjkgGfChAk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81240 	- ST AMANS VALTORET](https://docs.stopcoronavirus.tech/w/markdown/81240_st-amans-valtoret/4XTTM5RNezpnGAVwMve4Yj8RBBuvpje7BDuV7xNvjkgGfChAk-K3TgU4J6ZnT1ukru7xX6iBeyQgbj34yu3dPbRmcN1bVs3uPaktxvGh9x8iUQ2zM24Kg5JG3r3EJ3YQeyCRnBvgDfd73seRSfvncx3FbjvHKD7MTRKbyYR4SpTPS8mBWJchPaoQDS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81240 	- ST AMANS VALTORET](https://docs.stopcoronavirus.tech/#/r/markdown/81240_st-amans-valtoret/4XTTM5RNezpnGAVwMve4Yj8RBBuvpje7BDuV7xNvjkgGfChAk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81240 	- ST AMANS VALTORET](https://docs.stopcoronavirus.tech/#/w/markdown/81240_st-amans-valtoret/4XTTM5RNezpnGAVwMve4Yj8RBBuvpje7BDuV7xNvjkgGfChAk-K3TgU4J6ZnT1ukru7xX6iBeyQgbj34yu3dPbRmcN1bVs3uPaktxvGh9x8iUQ2zM24Kg5JG3r3EJ3YQeyCRnBvgDfd73seRSfvncx3FbjvHKD7MTRKbyYR4SpTPS8mBWJchPaoQDS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

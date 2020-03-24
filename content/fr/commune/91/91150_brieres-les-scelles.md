@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91150 	- BRIERES LES SCELLES](https://docs.stopcoronavirus.tech/r/markdown/91150_brieres-les-scelles/4XTTM6XCgWZR1wF28Ph3Mko76FGXjRuknPxjth2UTUXyXG9TE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91150 	- BRIERES LES SCELLES](https://docs.stopcoronavirus.tech/w/markdown/91150_brieres-les-scelles/4XTTM6XCgWZR1wF28Ph3Mko76FGXjRuknPxjth2UTUXyXG9TE-K3TgUq9ZqDiT7BMKgtn7PVgrpALq868CEzQQPPkJEGWsxSb6cjWsY7qppu8dZyraex8fUbSs3sgqqXEugFc2CxUfinrvaKowW3VuL5naUpA2Zsrc7hN9bW7mqEb9HEoeGQ25hp6k) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91150 	- BRIERES LES SCELLES](https://docs.stopcoronavirus.tech/#/r/markdown/91150_brieres-les-scelles/4XTTM6XCgWZR1wF28Ph3Mko76FGXjRuknPxjth2UTUXyXG9TE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91150 	- BRIERES LES SCELLES](https://docs.stopcoronavirus.tech/#/w/markdown/91150_brieres-les-scelles/4XTTM6XCgWZR1wF28Ph3Mko76FGXjRuknPxjth2UTUXyXG9TE-K3TgUq9ZqDiT7BMKgtn7PVgrpALq868CEzQQPPkJEGWsxSb6cjWsY7qppu8dZyraex8fUbSs3sgqqXEugFc2CxUfinrvaKowW3VuL5naUpA2Zsrc7hN9bW7mqEb9HEoeGQ25hp6k) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16390 	- PILLAC](https://docs.stopcoronavirus.tech/r/markdown/16390_pillac/4XTTMAS7NeWB58vvheowWLjquU2MvMq8j5RqJ5uvLFJhPw98z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16390 	- PILLAC](https://docs.stopcoronavirus.tech/w/markdown/16390_pillac/4XTTMAS7NeWB58vvheowWLjquU2MvMq8j5RqJ5uvLFJhPw98z-K3TgUf6W2E66EnbFNZ9dgEfBRDctwxnZopAdKp6iL3Cfbp1BUkysSG42DdAChTfCbh2V666oc74cAJuQTnsVt8atLYWDD435GaGA74e9PPF4nZpN4jRy8JXb8vGNQZi7qk7pGXqY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16390 	- PILLAC](https://docs.stopcoronavirus.tech/#/r/markdown/16390_pillac/4XTTMAS7NeWB58vvheowWLjquU2MvMq8j5RqJ5uvLFJhPw98z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16390 	- PILLAC](https://docs.stopcoronavirus.tech/#/w/markdown/16390_pillac/4XTTMAS7NeWB58vvheowWLjquU2MvMq8j5RqJ5uvLFJhPw98z-K3TgUf6W2E66EnbFNZ9dgEfBRDctwxnZopAdKp6iL3Cfbp1BUkysSG42DdAChTfCbh2V666oc74cAJuQTnsVt8atLYWDD435GaGA74e9PPF4nZpN4jRy8JXb8vGNQZi7qk7pGXqY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

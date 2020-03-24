@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50370 	- ST GEORGES DE LIVOYE](https://docs.stopcoronavirus.tech/r/markdown/50370_st-georges-de-livoye/4XTTMBo8t5RKvxVMu1zYxN5eSR4hqwyAbgFnur7SJQ7Z7xriC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50370 	- ST GEORGES DE LIVOYE](https://docs.stopcoronavirus.tech/w/markdown/50370_st-georges-de-livoye/4XTTMBo8t5RKvxVMu1zYxN5eSR4hqwyAbgFnur7SJQ7Z7xriC-K3TgUqWUNknGmnXT4tZbY5w1nm2CicR9ZBNb5RLgeN9h6N9n1Qrg5qHXDLjeC5ixJRkjDdq8ViFjWHNbpueTTUvqDnecaHN6E32pB6qSYaMZ2KJGr7PFXTapenDtTaCBf1YuV67a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50370 	- ST GEORGES DE LIVOYE](https://docs.stopcoronavirus.tech/#/r/markdown/50370_st-georges-de-livoye/4XTTMBo8t5RKvxVMu1zYxN5eSR4hqwyAbgFnur7SJQ7Z7xriC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50370 	- ST GEORGES DE LIVOYE](https://docs.stopcoronavirus.tech/#/w/markdown/50370_st-georges-de-livoye/4XTTMBo8t5RKvxVMu1zYxN5eSR4hqwyAbgFnur7SJQ7Z7xriC-K3TgUqWUNknGmnXT4tZbY5w1nm2CicR9ZBNb5RLgeN9h6N9n1Qrg5qHXDLjeC5ixJRkjDdq8ViFjWHNbpueTTUvqDnecaHN6E32pB6qSYaMZ2KJGr7PFXTapenDtTaCBf1YuV67a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28500 	- BOISSY EN DROUAIS](https://docs.stopcoronavirus.tech/r/markdown/28500_boissy-en-drouais/4XTTMDuQmMhwL5jbkXHmeZsGi3dfVLiTnzYSMKa7TDuXrcX4w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28500 	- BOISSY EN DROUAIS](https://docs.stopcoronavirus.tech/w/markdown/28500_boissy-en-drouais/4XTTMDuQmMhwL5jbkXHmeZsGi3dfVLiTnzYSMKa7TDuXrcX4w-K3TgTqBakZKhZoC4Bg9UWiWyjRGSxGLoEiD3m4y1kZdXy65j9hna3d4yFFSsJCeM1pq5mdF2ELLxcAwqv35m4G7aqwrSTzahssqLMoJ5aEhqWTb93GYKrJD7M1iLvyVXgxj34Fdm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28500 	- BOISSY EN DROUAIS](https://docs.stopcoronavirus.tech/#/r/markdown/28500_boissy-en-drouais/4XTTMDuQmMhwL5jbkXHmeZsGi3dfVLiTnzYSMKa7TDuXrcX4w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28500 	- BOISSY EN DROUAIS](https://docs.stopcoronavirus.tech/#/w/markdown/28500_boissy-en-drouais/4XTTMDuQmMhwL5jbkXHmeZsGi3dfVLiTnzYSMKa7TDuXrcX4w-K3TgTqBakZKhZoC4Bg9UWiWyjRGSxGLoEiD3m4y1kZdXy65j9hna3d4yFFSsJCeM1pq5mdF2ELLxcAwqv35m4G7aqwrSTzahssqLMoJ5aEhqWTb93GYKrJD7M1iLvyVXgxj34Fdm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10340 	- BAGNEUX LA FOSSE](https://docs.stopcoronavirus.tech/r/markdown/10340_bagneux-la-fosse/4XTTM71JP9EkYJfayd2RZNr2z9ke5B98G3SoJVsJvrF4AA3gb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10340 	- BAGNEUX LA FOSSE](https://docs.stopcoronavirus.tech/w/markdown/10340_bagneux-la-fosse/4XTTM71JP9EkYJfayd2RZNr2z9ke5B98G3SoJVsJvrF4AA3gb-K3TgTvSmbd4byGrKMcuRc4S8d4cWVi1yqaVq9N9h4JneHukicQCmvSn54HShT5jErLF92xjxPiuadftu4iXvTCC1BJ1S3qgmcwB5obc1e71CTfb9QuCTWNpU3Tk23m4LD1EvqAuV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10340 	- BAGNEUX LA FOSSE](https://docs.stopcoronavirus.tech/#/r/markdown/10340_bagneux-la-fosse/4XTTM71JP9EkYJfayd2RZNr2z9ke5B98G3SoJVsJvrF4AA3gb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10340 	- BAGNEUX LA FOSSE](https://docs.stopcoronavirus.tech/#/w/markdown/10340_bagneux-la-fosse/4XTTM71JP9EkYJfayd2RZNr2z9ke5B98G3SoJVsJvrF4AA3gb-K3TgTvSmbd4byGrKMcuRc4S8d4cWVi1yqaVq9N9h4JneHukicQCmvSn54HShT5jErLF92xjxPiuadftu4iXvTCC1BJ1S3qgmcwB5obc1e71CTfb9QuCTWNpU3Tk23m4LD1EvqAuV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 98822 	- POINDIMIE](https://docs.stopcoronavirus.tech/r/markdown/98822_poindimie/4XTTM8yxM2nGkQAzzJSN97N5T7vpxitadWHn8xrVUCDc9TojC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 98822 	- POINDIMIE](https://docs.stopcoronavirus.tech/w/markdown/98822_poindimie/4XTTM8yxM2nGkQAzzJSN97N5T7vpxitadWHn8xrVUCDc9TojC-K3TgULD9arz1NhnkCDdszfGQA9eDxrMZayGY4L3U7BcfgxfFHSU23ApJMWcCxY67DSKfZBsxD9mEty5XV8SiaQxzT6GsDvK2DDtMpUgg2qNgCLRKmN5vk3dpp2ybiovypYE9fsr6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 98822 	- POINDIMIE](https://docs.stopcoronavirus.tech/#/r/markdown/98822_poindimie/4XTTM8yxM2nGkQAzzJSN97N5T7vpxitadWHn8xrVUCDc9TojC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 98822 	- POINDIMIE](https://docs.stopcoronavirus.tech/#/w/markdown/98822_poindimie/4XTTM8yxM2nGkQAzzJSN97N5T7vpxitadWHn8xrVUCDc9TojC-K3TgULD9arz1NhnkCDdszfGQA9eDxrMZayGY4L3U7BcfgxfFHSU23ApJMWcCxY67DSKfZBsxD9mEty5XV8SiaQxzT6GsDvK2DDtMpUgg2qNgCLRKmN5vk3dpp2ybiovypYE9fsr6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 988 	- Nouvelle-Calédonie](https://docs.stopcoronavirus.tech/r/markdown/988_nouvelle-caledonie/4XTTMDdtAxs3VwsqhtzibNXZkHeCrdovAN2epCLYxbueu5po9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 988 	- Nouvelle-Calédonie](https://docs.stopcoronavirus.tech/w/markdown/988_nouvelle-caledonie/4XTTMDdtAxs3VwsqhtzibNXZkHeCrdovAN2epCLYxbueu5po9-K3TgTt3BJyMtJ7QGnunZdLAvLBZwusGrtrENwmJMEqDfaVJZvTmaeZYpaXTD6T4sogWpGww4wc9zqoNzFaTeAXyVZzjmNZ1qyqSx7GWtYAow9rcwTpKzJxF3gMx3CuLmc13dYDGb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 988 	- Nouvelle-Calédonie](https://docs.stopcoronavirus.tech/#/r/markdown/988_nouvelle-caledonie/4XTTMDdtAxs3VwsqhtzibNXZkHeCrdovAN2epCLYxbueu5po9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 988 	- Nouvelle-Calédonie](https://docs.stopcoronavirus.tech/#/w/markdown/988_nouvelle-caledonie/4XTTMDdtAxs3VwsqhtzibNXZkHeCrdovAN2epCLYxbueu5po9-K3TgTt3BJyMtJ7QGnunZdLAvLBZwusGrtrENwmJMEqDfaVJZvTmaeZYpaXTD6T4sogWpGww4wc9zqoNzFaTeAXyVZzjmNZ1qyqSx7GWtYAow9rcwTpKzJxF3gMx3CuLmc13dYDGb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

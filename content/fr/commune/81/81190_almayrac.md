@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81190 	- ALMAYRAC](https://docs.stopcoronavirus.tech/r/markdown/81190_almayrac/4XTTMBVNkx5kD8wAmNdPFZTyZi7hqz4n3y4v7Npmhp8BpiRwN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81190 	- ALMAYRAC](https://docs.stopcoronavirus.tech/w/markdown/81190_almayrac/4XTTMBVNkx5kD8wAmNdPFZTyZi7hqz4n3y4v7Npmhp8BpiRwN-K3TgTuw3Do1MKedYYmENs4VKfzWjUkM58aY6Q7Nshf3paou4LeyGe2c8FTKhpn7Rr5gL8phqT9Jx2yE4AV73U7pzxeJcJaWN59LyKQ67HAzeFgBuTmnUbEtK7QLXFUcyBAG8Dcp8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81190 	- ALMAYRAC](https://docs.stopcoronavirus.tech/#/r/markdown/81190_almayrac/4XTTMBVNkx5kD8wAmNdPFZTyZi7hqz4n3y4v7Npmhp8BpiRwN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81190 	- ALMAYRAC](https://docs.stopcoronavirus.tech/#/w/markdown/81190_almayrac/4XTTMBVNkx5kD8wAmNdPFZTyZi7hqz4n3y4v7Npmhp8BpiRwN-K3TgTuw3Do1MKedYYmENs4VKfzWjUkM58aY6Q7Nshf3paou4LeyGe2c8FTKhpn7Rr5gL8phqT9Jx2yE4AV73U7pzxeJcJaWN59LyKQ67HAzeFgBuTmnUbEtK7QLXFUcyBAG8Dcp8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

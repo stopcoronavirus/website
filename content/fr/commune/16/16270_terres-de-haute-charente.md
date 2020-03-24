@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16270 	- TERRES DE HAUTE CHARENTE](https://docs.stopcoronavirus.tech/r/markdown/16270_terres-de-haute-charente/4XTTMAJgvz7TVFruZ9setj2PbAFd5iUEcKSMyb3gfvNZhSzWY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16270 	- TERRES DE HAUTE CHARENTE](https://docs.stopcoronavirus.tech/w/markdown/16270_terres-de-haute-charente/4XTTMAJgvz7TVFruZ9setj2PbAFd5iUEcKSMyb3gfvNZhSzWY-K3TgUeY6X7k35wUzWT5aMcZ56HFjNt5DRTSi2oJSZ6UzkffwmrvPY2GU3Jcgj8RSnvWUZrWF1noHJuXDxPopZKChTf5WNYPh7qF5yM6VsuN5P9uMAroPsHp5CEEZHhbS82D8NoVN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16270 	- TERRES DE HAUTE CHARENTE](https://docs.stopcoronavirus.tech/#/r/markdown/16270_terres-de-haute-charente/4XTTMAJgvz7TVFruZ9setj2PbAFd5iUEcKSMyb3gfvNZhSzWY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16270 	- TERRES DE HAUTE CHARENTE](https://docs.stopcoronavirus.tech/#/w/markdown/16270_terres-de-haute-charente/4XTTMAJgvz7TVFruZ9setj2PbAFd5iUEcKSMyb3gfvNZhSzWY-K3TgUeY6X7k35wUzWT5aMcZ56HFjNt5DRTSi2oJSZ6UzkffwmrvPY2GU3Jcgj8RSnvWUZrWF1noHJuXDxPopZKChTf5WNYPh7qF5yM6VsuN5P9uMAroPsHp5CEEZHhbS82D8NoVN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

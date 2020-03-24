@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60350 	- ST PIERRE LES BITRY](https://docs.stopcoronavirus.tech/r/markdown/60350_st-pierre-les-bitry/4XTTMFrjhhX7Gbbc5px27XQmoZbnH3XxC11KDJrz2TRHhetWe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60350 	- ST PIERRE LES BITRY](https://docs.stopcoronavirus.tech/w/markdown/60350_st-pierre-les-bitry/4XTTMFrjhhX7Gbbc5px27XQmoZbnH3XxC11KDJrz2TRHhetWe-K3TgTm93vqAthNUkDksRUWikEeXud849jFuvUDPcTRobzh13ymGMorsr19ESaF9ncWTbJMD3HF1eHBXjek1dJGy3nzqp614qMY7TD37R7iCEWRTUiW9MY39SL3XJBCbAMU6aHmsx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60350 	- ST PIERRE LES BITRY](https://docs.stopcoronavirus.tech/#/r/markdown/60350_st-pierre-les-bitry/4XTTMFrjhhX7Gbbc5px27XQmoZbnH3XxC11KDJrz2TRHhetWe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60350 	- ST PIERRE LES BITRY](https://docs.stopcoronavirus.tech/#/w/markdown/60350_st-pierre-les-bitry/4XTTMFrjhhX7Gbbc5px27XQmoZbnH3XxC11KDJrz2TRHhetWe-K3TgTm93vqAthNUkDksRUWikEeXud849jFuvUDPcTRobzh13ymGMorsr19ESaF9ncWTbJMD3HF1eHBXjek1dJGy3nzqp614qMY7TD37R7iCEWRTUiW9MY39SL3XJBCbAMU6aHmsx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

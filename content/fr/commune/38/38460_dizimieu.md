@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38460 	- DIZIMIEU](https://docs.stopcoronavirus.tech/r/markdown/38460_dizimieu/4XTTM1SyVnAdgD5v6BkCmQURY2Hb7P95B7XHt45gkvkvb3DnC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38460 	- DIZIMIEU](https://docs.stopcoronavirus.tech/w/markdown/38460_dizimieu/4XTTM1SyVnAdgD5v6BkCmQURY2Hb7P95B7XHt45gkvkvb3DnC-K3TgTu6yTcKkU2h1suFLTpjVt6cjvYdqcq3SvDV8dZVqB7seCiRoZfVYwF79hyVkyiu2atEbQC1gQ45cEE6PDBjzx5XB7x5o35QrQUcTMSNN6Qqo8ZroN3RvnE9MkKurRxg9yp8k) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38460 	- DIZIMIEU](https://docs.stopcoronavirus.tech/#/r/markdown/38460_dizimieu/4XTTM1SyVnAdgD5v6BkCmQURY2Hb7P95B7XHt45gkvkvb3DnC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38460 	- DIZIMIEU](https://docs.stopcoronavirus.tech/#/w/markdown/38460_dizimieu/4XTTM1SyVnAdgD5v6BkCmQURY2Hb7P95B7XHt45gkvkvb3DnC-K3TgTu6yTcKkU2h1suFLTpjVt6cjvYdqcq3SvDV8dZVqB7seCiRoZfVYwF79hyVkyiu2atEbQC1gQ45cEE6PDBjzx5XB7x5o35QrQUcTMSNN6Qqo8ZroN3RvnE9MkKurRxg9yp8k) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

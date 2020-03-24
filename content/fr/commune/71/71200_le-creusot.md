@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71200 	- LE CREUSOT](https://docs.stopcoronavirus.tech/r/markdown/71200_le-creusot/4XTTM6YtyiQ38iZjCg55TF2NpkorW4GBur7Vy2qwxmaw6GxFF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71200 	- LE CREUSOT](https://docs.stopcoronavirus.tech/w/markdown/71200_le-creusot/4XTTM6YtyiQ38iZjCg55TF2NpkorW4GBur7Vy2qwxmaw6GxFF-K3TgTrDJQGjHbyEeQxncNQu7hUT7EkBH6peYgfzbPcm53wLcA8etrXaG361U1Za6DZR5Nwc3MVEUTDdT1zZvkktt18ThMXmuLWLik4zsD4nScwn5h6WbdKeZ2aeEk4XF7FVEY4eh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71200 	- LE CREUSOT](https://docs.stopcoronavirus.tech/#/r/markdown/71200_le-creusot/4XTTM6YtyiQ38iZjCg55TF2NpkorW4GBur7Vy2qwxmaw6GxFF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71200 	- LE CREUSOT](https://docs.stopcoronavirus.tech/#/w/markdown/71200_le-creusot/4XTTM6YtyiQ38iZjCg55TF2NpkorW4GBur7Vy2qwxmaw6GxFF-K3TgTrDJQGjHbyEeQxncNQu7hUT7EkBH6peYgfzbPcm53wLcA8etrXaG361U1Za6DZR5Nwc3MVEUTDdT1zZvkktt18ThMXmuLWLik4zsD4nScwn5h6WbdKeZ2aeEk4XF7FVEY4eh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

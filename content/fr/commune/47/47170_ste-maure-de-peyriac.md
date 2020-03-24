@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 47170 	- STE MAURE DE PEYRIAC](https://docs.stopcoronavirus.tech/r/markdown/47170_ste-maure-de-peyriac/4XTTM7CfA8HrW3a4Pxr6yKY6VFZzLa8sVVMwth5EPVPqEq5Xh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47170 	- STE MAURE DE PEYRIAC](https://docs.stopcoronavirus.tech/w/markdown/47170_ste-maure-de-peyriac/4XTTM7CfA8HrW3a4Pxr6yKY6VFZzLa8sVVMwth5EPVPqEq5Xh-K3TgTrGza2XGdLkwCAzaNW7EtbUaDtnKvMQkj5bzdqztxXjXhbVRzNBhEEHoXxUdFo8Ntxuh3C7K5PVmdMWr2Rp7GntL1A8aS2M1VrbzZ4zd8nkPrKCZY6KDCzTy3ejQUsrMRLgs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47170 	- STE MAURE DE PEYRIAC](https://docs.stopcoronavirus.tech/#/r/markdown/47170_ste-maure-de-peyriac/4XTTM7CfA8HrW3a4Pxr6yKY6VFZzLa8sVVMwth5EPVPqEq5Xh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47170 	- STE MAURE DE PEYRIAC](https://docs.stopcoronavirus.tech/#/w/markdown/47170_ste-maure-de-peyriac/4XTTM7CfA8HrW3a4Pxr6yKY6VFZzLa8sVVMwth5EPVPqEq5Xh-K3TgTrGza2XGdLkwCAzaNW7EtbUaDtnKvMQkj5bzdqztxXjXhbVRzNBhEEHoXxUdFo8Ntxuh3C7K5PVmdMWr2Rp7GntL1A8aS2M1VrbzZ4zd8nkPrKCZY6KDCzTy3ejQUsrMRLgs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

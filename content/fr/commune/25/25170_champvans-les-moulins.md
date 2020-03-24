@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 25170 	- CHAMPVANS LES MOULINS](https://docs.stopcoronavirus.tech/r/markdown/25170_champvans-les-moulins/4XTTMD97qtGC5Fva7isKrFvon2j8K9LZ9AM1tVdRkG75qcNSj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25170 	- CHAMPVANS LES MOULINS](https://docs.stopcoronavirus.tech/w/markdown/25170_champvans-les-moulins/4XTTMD97qtGC5Fva7isKrFvon2j8K9LZ9AM1tVdRkG75qcNSj-K3TgUniKqTbfCad5LfCYKqEm4kWTBYqtAoa7qPxoym768BWX3akDsEVCZo6nVuJv6NC69Mo2NLWfURF6HjBCVN32c4MkDz5EYgA46pyHZryrZsBktfzTyE5VJiaP2qq3Q7Ehkmhh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25170 	- CHAMPVANS LES MOULINS](https://docs.stopcoronavirus.tech/#/r/markdown/25170_champvans-les-moulins/4XTTMD97qtGC5Fva7isKrFvon2j8K9LZ9AM1tVdRkG75qcNSj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25170 	- CHAMPVANS LES MOULINS](https://docs.stopcoronavirus.tech/#/w/markdown/25170_champvans-les-moulins/4XTTMD97qtGC5Fva7isKrFvon2j8K9LZ9AM1tVdRkG75qcNSj-K3TgUniKqTbfCad5LfCYKqEm4kWTBYqtAoa7qPxoym768BWX3akDsEVCZo6nVuJv6NC69Mo2NLWfURF6HjBCVN32c4MkDz5EYgA46pyHZryrZsBktfzTyE5VJiaP2qq3Q7Ehkmhh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

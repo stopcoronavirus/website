@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86270 	- COUSSAY LES BOIS](https://docs.stopcoronavirus.tech/r/markdown/86270_coussay-les-bois/4XTTMCg8GuiUCTAejsJLnDmrtuY6o9n1kK2FrP2rM9aVQQk7S) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86270 	- COUSSAY LES BOIS](https://docs.stopcoronavirus.tech/w/markdown/86270_coussay-les-bois/4XTTMCg8GuiUCTAejsJLnDmrtuY6o9n1kK2FrP2rM9aVQQk7S-K3TgUxxwziPz4ZwvAysozoJkeRtCVFQ3s9vy4dZzsWngMV5VYm7CXoJi4hGsNcykSnkdnhVa181QC9wcwsQFmY9kLN5WXeGWyKrBqFofegUinTDdty6Eyu7wrsfNJRT2796AK8u6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86270 	- COUSSAY LES BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/86270_coussay-les-bois/4XTTMCg8GuiUCTAejsJLnDmrtuY6o9n1kK2FrP2rM9aVQQk7S) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86270 	- COUSSAY LES BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/86270_coussay-les-bois/4XTTMCg8GuiUCTAejsJLnDmrtuY6o9n1kK2FrP2rM9aVQQk7S-K3TgUxxwziPz4ZwvAysozoJkeRtCVFQ3s9vy4dZzsWngMV5VYm7CXoJi4hGsNcykSnkdnhVa181QC9wcwsQFmY9kLN5WXeGWyKrBqFofegUinTDdty6Eyu7wrsfNJRT2796AK8u6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

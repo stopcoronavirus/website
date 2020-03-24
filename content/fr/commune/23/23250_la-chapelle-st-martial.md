@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23250 	- LA CHAPELLE ST MARTIAL](https://docs.stopcoronavirus.tech/r/markdown/23250_la-chapelle-st-martial/4XTTM3pgDHDg5kyXr1hpd93dTDwHtXcxN5YJrpG3CayaeTBd8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23250 	- LA CHAPELLE ST MARTIAL](https://docs.stopcoronavirus.tech/w/markdown/23250_la-chapelle-st-martial/4XTTM3pgDHDg5kyXr1hpd93dTDwHtXcxN5YJrpG3CayaeTBd8-K3TgTjDc2oj93iTnHEDu86kDUy4udawAs4FnpaCwDw7EkqVkuo6TtrjANrTQbDZqo3uoDteV7sXUZQ8B3etGUu2gBmyAtixhMf4WhVMbmtA2JVC2u5wiYMPz5TRaBCywoMvqjVBt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23250 	- LA CHAPELLE ST MARTIAL](https://docs.stopcoronavirus.tech/#/r/markdown/23250_la-chapelle-st-martial/4XTTM3pgDHDg5kyXr1hpd93dTDwHtXcxN5YJrpG3CayaeTBd8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23250 	- LA CHAPELLE ST MARTIAL](https://docs.stopcoronavirus.tech/#/w/markdown/23250_la-chapelle-st-martial/4XTTM3pgDHDg5kyXr1hpd93dTDwHtXcxN5YJrpG3CayaeTBd8-K3TgTjDc2oj93iTnHEDu86kDUy4udawAs4FnpaCwDw7EkqVkuo6TtrjANrTQbDZqo3uoDteV7sXUZQ8B3etGUu2gBmyAtixhMf4WhVMbmtA2JVC2u5wiYMPz5TRaBCywoMvqjVBt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

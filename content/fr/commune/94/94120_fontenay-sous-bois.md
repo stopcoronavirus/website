@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 94120 	- FONTENAY SOUS BOIS](https://docs.stopcoronavirus.tech/r/markdown/94120_fontenay-sous-bois/4XTTMGWvRjmaHoK3WLKxNBjRXuP2ddaGGfXZzwbwQ9vUd6Uo9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94120 	- FONTENAY SOUS BOIS](https://docs.stopcoronavirus.tech/w/markdown/94120_fontenay-sous-bois/4XTTMGWvRjmaHoK3WLKxNBjRXuP2ddaGGfXZzwbwQ9vUd6Uo9-K3TgUZoJyzmVKwrgg8tpRvK99BY7VWgrG8ewVr7ZaT1S9f5pCXMVWyUDyZHDEVmgD4zNDuQyshURwMcah6tm12UEcGqG5ofz8qJQkkye4boWc3uQPhCTp7HCXbxJmT4NVxWg7Fmy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 94120 	- FONTENAY SOUS BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/94120_fontenay-sous-bois/4XTTMGWvRjmaHoK3WLKxNBjRXuP2ddaGGfXZzwbwQ9vUd6Uo9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 94120 	- FONTENAY SOUS BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/94120_fontenay-sous-bois/4XTTMGWvRjmaHoK3WLKxNBjRXuP2ddaGGfXZzwbwQ9vUd6Uo9-K3TgUZoJyzmVKwrgg8tpRvK99BY7VWgrG8ewVr7ZaT1S9f5pCXMVWyUDyZHDEVmgD4zNDuQyshURwMcah6tm12UEcGqG5ofz8qJQkkye4boWc3uQPhCTp7HCXbxJmT4NVxWg7Fmy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

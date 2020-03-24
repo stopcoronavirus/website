@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21410 	- ST JEAN DE BOEUF](https://docs.stopcoronavirus.tech/r/markdown/21410_st-jean-de-boeuf/4XTTM3ky48jDKC255dxH19Y2rJkH7JnbNZtMaxi25kGGcq9TA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21410 	- ST JEAN DE BOEUF](https://docs.stopcoronavirus.tech/w/markdown/21410_st-jean-de-boeuf/4XTTM3ky48jDKC255dxH19Y2rJkH7JnbNZtMaxi25kGGcq9TA-K3TgUrD8N1RQM7SUKeRSmc3tnFdaznJafv1CLj4oL4sB6x5HaHXFaJjYjq4NYdssLs3vV2org4y2uBjtYhn287DHX5n4D1yhpfGHeks1hnuH2JJAi4s7eUS4w4jTomaZzfJGUsoa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21410 	- ST JEAN DE BOEUF](https://docs.stopcoronavirus.tech/#/r/markdown/21410_st-jean-de-boeuf/4XTTM3ky48jDKC255dxH19Y2rJkH7JnbNZtMaxi25kGGcq9TA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21410 	- ST JEAN DE BOEUF](https://docs.stopcoronavirus.tech/#/w/markdown/21410_st-jean-de-boeuf/4XTTM3ky48jDKC255dxH19Y2rJkH7JnbNZtMaxi25kGGcq9TA-K3TgUrD8N1RQM7SUKeRSmc3tnFdaznJafv1CLj4oL4sB6x5HaHXFaJjYjq4NYdssLs3vV2org4y2uBjtYhn287DHX5n4D1yhpfGHeks1hnuH2JJAi4s7eUS4w4jTomaZzfJGUsoa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

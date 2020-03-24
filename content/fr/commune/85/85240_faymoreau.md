@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85240 	- FAYMOREAU](https://docs.stopcoronavirus.tech/r/markdown/85240_faymoreau/4XTTMG1UnT5aNR4Pp3NzW4XtfEkTySo6HnhPXhNnWGoArwT1T) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85240 	- FAYMOREAU](https://docs.stopcoronavirus.tech/w/markdown/85240_faymoreau/4XTTMG1UnT5aNR4Pp3NzW4XtfEkTySo6HnhPXhNnWGoArwT1T-K3TgUgXw6rSiBxpMKGrfNiwoTvfz1SZwaiesQ1Y6NDRkwAV46WPDD7hY2UVopeR2KuhRbEy6PpQ7rGZ2hLynFwFBqksiWr9qXgTuNseRCcDCvvbKxtDumnQDZ9wBKR5TS8eiS2T3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85240 	- FAYMOREAU](https://docs.stopcoronavirus.tech/#/r/markdown/85240_faymoreau/4XTTMG1UnT5aNR4Pp3NzW4XtfEkTySo6HnhPXhNnWGoArwT1T) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85240 	- FAYMOREAU](https://docs.stopcoronavirus.tech/#/w/markdown/85240_faymoreau/4XTTMG1UnT5aNR4Pp3NzW4XtfEkTySo6HnhPXhNnWGoArwT1T-K3TgUgXw6rSiBxpMKGrfNiwoTvfz1SZwaiesQ1Y6NDRkwAV46WPDD7hY2UVopeR2KuhRbEy6PpQ7rGZ2hLynFwFBqksiWr9qXgTuNseRCcDCvvbKxtDumnQDZ9wBKR5TS8eiS2T3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

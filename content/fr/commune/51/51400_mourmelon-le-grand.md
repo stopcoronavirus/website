@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51400 	- MOURMELON LE GRAND](https://docs.stopcoronavirus.tech/r/markdown/51400_mourmelon-le-grand/4XTTMD4dBQ9WHXzuMtGE6MmhZV6TaYFwZz2zQfxMMLQnZMwNR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51400 	- MOURMELON LE GRAND](https://docs.stopcoronavirus.tech/w/markdown/51400_mourmelon-le-grand/4XTTMD4dBQ9WHXzuMtGE6MmhZV6TaYFwZz2zQfxMMLQnZMwNR-K3TgV11tPECL7YP2uXPjET8s5QLiPu5QnhTkH3FWGp7ieAYCRVsmvLW2LJjr1c9QRNv2BKVmBQgfQ5csQYt8wzBbrtf5Ys81vSpEToa2MW421X8uzqhLssGGnd8zUU4sHDrxC34u) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51400 	- MOURMELON LE GRAND](https://docs.stopcoronavirus.tech/#/r/markdown/51400_mourmelon-le-grand/4XTTMD4dBQ9WHXzuMtGE6MmhZV6TaYFwZz2zQfxMMLQnZMwNR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51400 	- MOURMELON LE GRAND](https://docs.stopcoronavirus.tech/#/w/markdown/51400_mourmelon-le-grand/4XTTMD4dBQ9WHXzuMtGE6MmhZV6TaYFwZz2zQfxMMLQnZMwNR-K3TgV11tPECL7YP2uXPjET8s5QLiPu5QnhTkH3FWGp7ieAYCRVsmvLW2LJjr1c9QRNv2BKVmBQgfQ5csQYt8wzBbrtf5Ys81vSpEToa2MW421X8uzqhLssGGnd8zUU4sHDrxC34u) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

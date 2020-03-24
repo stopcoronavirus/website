@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48210 	- GORGES DU TARN CAUSSES](https://docs.stopcoronavirus.tech/r/markdown/48210_gorges-du-tarn-causses/4XTTMGKWhAknmJeZUc1CtCLdMksyDSyBv9MRfRU1H33APsCT6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48210 	- GORGES DU TARN CAUSSES](https://docs.stopcoronavirus.tech/w/markdown/48210_gorges-du-tarn-causses/4XTTMGKWhAknmJeZUc1CtCLdMksyDSyBv9MRfRU1H33APsCT6-K3TgUjGW5gbNQRYu23h8ArCxAoDLemMDF6ZM6xecszdFsZprK8CRLKnBFfrre92xDo9iUYpRzqMtFrJvjtjaGsByADuQBwyjaNFmpqVyKm4d2K11hZiUyMkTAsC2Rk9ggoV3Df56) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48210 	- GORGES DU TARN CAUSSES](https://docs.stopcoronavirus.tech/#/r/markdown/48210_gorges-du-tarn-causses/4XTTMGKWhAknmJeZUc1CtCLdMksyDSyBv9MRfRU1H33APsCT6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48210 	- GORGES DU TARN CAUSSES](https://docs.stopcoronavirus.tech/#/w/markdown/48210_gorges-du-tarn-causses/4XTTMGKWhAknmJeZUc1CtCLdMksyDSyBv9MRfRU1H33APsCT6-K3TgUjGW5gbNQRYu23h8ArCxAoDLemMDF6ZM6xecszdFsZprK8CRLKnBFfrre92xDo9iUYpRzqMtFrJvjtjaGsByADuQBwyjaNFmpqVyKm4d2K11hZiUyMkTAsC2Rk9ggoV3Df56) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

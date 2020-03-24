@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 78440 	- MONTALET LE BOIS](https://docs.stopcoronavirus.tech/r/markdown/78440_montalet-le-bois/4XTTM1XAcqzvDoFSX8aKAZhQUCJcfwTJapghBGcae3gv6yxbw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78440 	- MONTALET LE BOIS](https://docs.stopcoronavirus.tech/w/markdown/78440_montalet-le-bois/4XTTM1XAcqzvDoFSX8aKAZhQUCJcfwTJapghBGcae3gv6yxbw-K3TgUKwEVjy42crZ8Hm4bCfFLKyeJ5c8C4JMZ8zNhf1aTG1Jx5inR3UyijY79NKxUvT3tin9guRPRoc9EHhdhTAUTcGTCNRuxrCNyFZyx1mqGaarhYjRLvexajpRjocV5uLEf7KB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78440 	- MONTALET LE BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/78440_montalet-le-bois/4XTTM1XAcqzvDoFSX8aKAZhQUCJcfwTJapghBGcae3gv6yxbw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78440 	- MONTALET LE BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/78440_montalet-le-bois/4XTTM1XAcqzvDoFSX8aKAZhQUCJcfwTJapghBGcae3gv6yxbw-K3TgUKwEVjy42crZ8Hm4bCfFLKyeJ5c8C4JMZ8zNhf1aTG1Jx5inR3UyijY79NKxUvT3tin9guRPRoc9EHhdhTAUTcGTCNRuxrCNyFZyx1mqGaarhYjRLvexajpRjocV5uLEf7KB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

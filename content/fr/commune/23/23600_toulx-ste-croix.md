@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23600 	- TOULX STE CROIX](https://docs.stopcoronavirus.tech/r/markdown/23600_toulx-ste-croix/4XTTM5h3rjLdomZg1Db5epinb7Uu2WpCjd7pvKMiL5jnjiv1k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23600 	- TOULX STE CROIX](https://docs.stopcoronavirus.tech/w/markdown/23600_toulx-ste-croix/4XTTM5h3rjLdomZg1Db5epinb7Uu2WpCjd7pvKMiL5jnjiv1k-K3TgTfcatCf5pvMQkNjEYWTBtceXxPKDMqH7AxDfiMeYRhXCYowsPX88bdp88QoaLQUz9vKbehFasCVKpxePoRtDZyoLkpvK5rsrJJthDMa7pWHDnWoNnJoUFnxacUYm4h1bmLK8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23600 	- TOULX STE CROIX](https://docs.stopcoronavirus.tech/#/r/markdown/23600_toulx-ste-croix/4XTTM5h3rjLdomZg1Db5epinb7Uu2WpCjd7pvKMiL5jnjiv1k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23600 	- TOULX STE CROIX](https://docs.stopcoronavirus.tech/#/w/markdown/23600_toulx-ste-croix/4XTTM5h3rjLdomZg1Db5epinb7Uu2WpCjd7pvKMiL5jnjiv1k-K3TgTfcatCf5pvMQkNjEYWTBtceXxPKDMqH7AxDfiMeYRhXCYowsPX88bdp88QoaLQUz9vKbehFasCVKpxePoRtDZyoLkpvK5rsrJJthDMa7pWHDnWoNnJoUFnxacUYm4h1bmLK8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 87140 	- NANTIAT](https://docs.stopcoronavirus.tech/r/markdown/87140_nantiat/4XTTM69gHHmijjTuyWELFjC5UMwv1Z6bZmzxDGYrzT9jPzx1V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87140 	- NANTIAT](https://docs.stopcoronavirus.tech/w/markdown/87140_nantiat/4XTTM69gHHmijjTuyWELFjC5UMwv1Z6bZmzxDGYrzT9jPzx1V-K3TgTg19Mm4sun8puuFwaXdKP3tmbzEAjqYCt5ZhFDgwLGgV5NZdPiGXmpw4JpzGB5a4c9uN9c8VahvUo24eNtyae6a91YHN8o4T13e6zGZ37shupazHy1cyXLDLYMSYiPibFiWT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 87140 	- NANTIAT](https://docs.stopcoronavirus.tech/#/r/markdown/87140_nantiat/4XTTM69gHHmijjTuyWELFjC5UMwv1Z6bZmzxDGYrzT9jPzx1V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 87140 	- NANTIAT](https://docs.stopcoronavirus.tech/#/w/markdown/87140_nantiat/4XTTM69gHHmijjTuyWELFjC5UMwv1Z6bZmzxDGYrzT9jPzx1V-K3TgTg19Mm4sun8puuFwaXdKP3tmbzEAjqYCt5ZhFDgwLGgV5NZdPiGXmpw4JpzGB5a4c9uN9c8VahvUo24eNtyae6a91YHN8o4T13e6zGZ37shupazHy1cyXLDLYMSYiPibFiWT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

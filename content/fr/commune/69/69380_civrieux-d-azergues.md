@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69380 	- CIVRIEUX D AZERGUES](https://docs.stopcoronavirus.tech/r/markdown/69380_civrieux-d-azergues/4XTTMBRYqH1JgDYvup9Tc8Sek3EiSp33hYsYCpBhUt34bVzzm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69380 	- CIVRIEUX D AZERGUES](https://docs.stopcoronavirus.tech/w/markdown/69380_civrieux-d-azergues/4XTTMBRYqH1JgDYvup9Tc8Sek3EiSp33hYsYCpBhUt34bVzzm-K3TgUiqs9uUnr2uKBZKhBgYSk8BenYZ89YX8yZDNiDn6quFt8hwd1hBW6B1dNTjZnSLdVBuUJoWhNTF6wDuRRxBTnHjwZmdqy3XUKfxwF9v8Q8ZS34V2SP3WxNb64fdw4Xqrs74M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69380 	- CIVRIEUX D AZERGUES](https://docs.stopcoronavirus.tech/#/r/markdown/69380_civrieux-d-azergues/4XTTMBRYqH1JgDYvup9Tc8Sek3EiSp33hYsYCpBhUt34bVzzm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69380 	- CIVRIEUX D AZERGUES](https://docs.stopcoronavirus.tech/#/w/markdown/69380_civrieux-d-azergues/4XTTMBRYqH1JgDYvup9Tc8Sek3EiSp33hYsYCpBhUt34bVzzm-K3TgUiqs9uUnr2uKBZKhBgYSk8BenYZ89YX8yZDNiDn6quFt8hwd1hBW6B1dNTjZnSLdVBuUJoWhNTF6wDuRRxBTnHjwZmdqy3XUKfxwF9v8Q8ZS34V2SP3WxNb64fdw4Xqrs74M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

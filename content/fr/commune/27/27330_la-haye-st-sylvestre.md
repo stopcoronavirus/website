@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27330 	- LA HAYE ST SYLVESTRE](https://docs.stopcoronavirus.tech/r/markdown/27330_la-haye-st-sylvestre/4XTTMG1qytNvggpzkmucfzqzPgp4Kt8DVnpYK2DdKZzdeJB8f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27330 	- LA HAYE ST SYLVESTRE](https://docs.stopcoronavirus.tech/w/markdown/27330_la-haye-st-sylvestre/4XTTMG1qytNvggpzkmucfzqzPgp4Kt8DVnpYK2DdKZzdeJB8f-K3TgTttHLirJHVvjr8Xqpo22hikCnNgcoNqHzxcCXoZP34oZvEC81Zqm9WnWgY92cC3mZJe6a6Y5mEogY5LZH5bTEapMHcBqeEKdPbk3gvcRzMtYq1oe4CvRfTAUJwb1DEusQkBM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27330 	- LA HAYE ST SYLVESTRE](https://docs.stopcoronavirus.tech/#/r/markdown/27330_la-haye-st-sylvestre/4XTTMG1qytNvggpzkmucfzqzPgp4Kt8DVnpYK2DdKZzdeJB8f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27330 	- LA HAYE ST SYLVESTRE](https://docs.stopcoronavirus.tech/#/w/markdown/27330_la-haye-st-sylvestre/4XTTMG1qytNvggpzkmucfzqzPgp4Kt8DVnpYK2DdKZzdeJB8f-K3TgTttHLirJHVvjr8Xqpo22hikCnNgcoNqHzxcCXoZP34oZvEC81Zqm9WnWgY92cC3mZJe6a6Y5mEogY5LZH5bTEapMHcBqeEKdPbk3gvcRzMtYq1oe4CvRfTAUJwb1DEusQkBM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

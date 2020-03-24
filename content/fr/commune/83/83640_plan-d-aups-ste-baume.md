@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83640 	- PLAN D AUPS STE BAUME](https://docs.stopcoronavirus.tech/r/markdown/83640_plan-d-aups-ste-baume/4XTTM2uoJuJwXM7sTfDP7wbxjzg56K5y4V2Rw8RHZ1MkMymSe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83640 	- PLAN D AUPS STE BAUME](https://docs.stopcoronavirus.tech/w/markdown/83640_plan-d-aups-ste-baume/4XTTM2uoJuJwXM7sTfDP7wbxjzg56K5y4V2Rw8RHZ1MkMymSe-K3TgTxpZXw98RJvo4BTrtqJo4CpUfjg5kRmfhx3FMWYf4xPSVQVLChwq7bLgPLAxyMU3yQVZPj9Js4qsqFP158pfmYszkGDaBpD12kcs4H3kvqoDLYim2j6rbvJbov2erHkGHtyt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83640 	- PLAN D AUPS STE BAUME](https://docs.stopcoronavirus.tech/#/r/markdown/83640_plan-d-aups-ste-baume/4XTTM2uoJuJwXM7sTfDP7wbxjzg56K5y4V2Rw8RHZ1MkMymSe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83640 	- PLAN D AUPS STE BAUME](https://docs.stopcoronavirus.tech/#/w/markdown/83640_plan-d-aups-ste-baume/4XTTM2uoJuJwXM7sTfDP7wbxjzg56K5y4V2Rw8RHZ1MkMymSe-K3TgTxpZXw98RJvo4BTrtqJo4CpUfjg5kRmfhx3FMWYf4xPSVQVLChwq7bLgPLAxyMU3yQVZPj9Js4qsqFP158pfmYszkGDaBpD12kcs4H3kvqoDLYim2j6rbvJbov2erHkGHtyt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

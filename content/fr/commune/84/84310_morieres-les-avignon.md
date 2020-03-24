@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84310 	- MORIERES LES AVIGNON](https://docs.stopcoronavirus.tech/r/markdown/84310_morieres-les-avignon/4XTTM22zhvvA2bEtyJtM5eaTJwfNQvZXsEvQ3cXSfr3BEdtVm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84310 	- MORIERES LES AVIGNON](https://docs.stopcoronavirus.tech/w/markdown/84310_morieres-les-avignon/4XTTM22zhvvA2bEtyJtM5eaTJwfNQvZXsEvQ3cXSfr3BEdtVm-K3TgU4K4egJu8qU6kFcUCVF7rsv99m5GuaQ4VBMKxrpUzxZTpQMitVrbZb5SrMiQXcM56XEBCcWFSPE7kugksxabzbQ76phAX9TiWVA4RSLM98K39mT7FViKTLndEKob8jqn3gWs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84310 	- MORIERES LES AVIGNON](https://docs.stopcoronavirus.tech/#/r/markdown/84310_morieres-les-avignon/4XTTM22zhvvA2bEtyJtM5eaTJwfNQvZXsEvQ3cXSfr3BEdtVm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84310 	- MORIERES LES AVIGNON](https://docs.stopcoronavirus.tech/#/w/markdown/84310_morieres-les-avignon/4XTTM22zhvvA2bEtyJtM5eaTJwfNQvZXsEvQ3cXSfr3BEdtVm-K3TgU4K4egJu8qU6kFcUCVF7rsv99m5GuaQ4VBMKxrpUzxZTpQMitVrbZb5SrMiQXcM56XEBCcWFSPE7kugksxabzbQ76phAX9TiWVA4RSLM98K39mT7FViKTLndEKob8jqn3gWs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

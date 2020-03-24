@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60130 	- BRUNVILLERS LA MOTTE](https://docs.stopcoronavirus.tech/r/markdown/60130_brunvillers-la-motte/4XTTMJD8QvJhbb5nqQ1n6LFPvN9gNquGJTKV5bc1yqibgdMyt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60130 	- BRUNVILLERS LA MOTTE](https://docs.stopcoronavirus.tech/w/markdown/60130_brunvillers-la-motte/4XTTMJD8QvJhbb5nqQ1n6LFPvN9gNquGJTKV5bc1yqibgdMyt-K3TgTfrae3xiiYuJWmJrqgV4jWYVtdpHULxpNfgywq2bpsBykjXfsciZn5dQ2MLJ8s2rB8cN8w8L5MerFc1YnUpCBaL5Z9fpb8hSxptBRPGVCYJzzJVqwspqnmCeJXMPF9rQoH8n) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60130 	- BRUNVILLERS LA MOTTE](https://docs.stopcoronavirus.tech/#/r/markdown/60130_brunvillers-la-motte/4XTTMJD8QvJhbb5nqQ1n6LFPvN9gNquGJTKV5bc1yqibgdMyt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60130 	- BRUNVILLERS LA MOTTE](https://docs.stopcoronavirus.tech/#/w/markdown/60130_brunvillers-la-motte/4XTTMJD8QvJhbb5nqQ1n6LFPvN9gNquGJTKV5bc1yqibgdMyt-K3TgTfrae3xiiYuJWmJrqgV4jWYVtdpHULxpNfgywq2bpsBykjXfsciZn5dQ2MLJ8s2rB8cN8w8L5MerFc1YnUpCBaL5Z9fpb8hSxptBRPGVCYJzzJVqwspqnmCeJXMPF9rQoH8n) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

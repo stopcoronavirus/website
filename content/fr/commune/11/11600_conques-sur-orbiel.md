@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 11600 	- CONQUES SUR ORBIEL](https://docs.stopcoronavirus.tech/r/markdown/11600_conques-sur-orbiel/4XTTM21m2ArYx3dB2wDhjgGrDj1NLTgdBk3L7xRvJkUfnrAmZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11600 	- CONQUES SUR ORBIEL](https://docs.stopcoronavirus.tech/w/markdown/11600_conques-sur-orbiel/4XTTM21m2ArYx3dB2wDhjgGrDj1NLTgdBk3L7xRvJkUfnrAmZ-K3TgTz4Sw8MXJwEyq2yeqP8sUZ9USkF6Jy6RTVqrbPsS2n9XJdjgKDCZPrJUpCKXsnXRoT23gZ7XhspHCqvxY6jmpCAuJP9UyDN9smJLciRbsmjdJcVc6xMkFcR4TgWSGsgxBW75) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 11600 	- CONQUES SUR ORBIEL](https://docs.stopcoronavirus.tech/#/r/markdown/11600_conques-sur-orbiel/4XTTM21m2ArYx3dB2wDhjgGrDj1NLTgdBk3L7xRvJkUfnrAmZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 11600 	- CONQUES SUR ORBIEL](https://docs.stopcoronavirus.tech/#/w/markdown/11600_conques-sur-orbiel/4XTTM21m2ArYx3dB2wDhjgGrDj1NLTgdBk3L7xRvJkUfnrAmZ-K3TgTz4Sw8MXJwEyq2yeqP8sUZ9USkF6Jy6RTVqrbPsS2n9XJdjgKDCZPrJUpCKXsnXRoT23gZ7XhspHCqvxY6jmpCAuJP9UyDN9smJLciRbsmjdJcVc6xMkFcR4TgWSGsgxBW75) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 11 	- Aude](https://docs.stopcoronavirus.tech/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11 	- Aude](https://docs.stopcoronavirus.tech/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 11 	- Aude](https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 11 	- Aude](https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

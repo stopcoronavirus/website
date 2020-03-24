@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70190 	- AULX LES CROMARY](https://docs.stopcoronavirus.tech/r/markdown/70190_aulx-les-cromary/4XTTM2MGEgM4WL3iweEDyV83t99gTcvDbXoZW59A5KJLK6dWg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70190 	- AULX LES CROMARY](https://docs.stopcoronavirus.tech/w/markdown/70190_aulx-les-cromary/4XTTM2MGEgM4WL3iweEDyV83t99gTcvDbXoZW59A5KJLK6dWg-K3TgUpeEZCRZX93EJHN7zht8HvqboPEEmPSD62cyGsbDWQoqqE9k2HmdrfRyTBFcYfRMXCp7BfdQerR36t1C6TPqKZUuzmT2MmX8tC3jWYF6QsAMQZG5KLsKyUuJFPuRu3eYbKwn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70190 	- AULX LES CROMARY](https://docs.stopcoronavirus.tech/#/r/markdown/70190_aulx-les-cromary/4XTTM2MGEgM4WL3iweEDyV83t99gTcvDbXoZW59A5KJLK6dWg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70190 	- AULX LES CROMARY](https://docs.stopcoronavirus.tech/#/w/markdown/70190_aulx-les-cromary/4XTTM2MGEgM4WL3iweEDyV83t99gTcvDbXoZW59A5KJLK6dWg-K3TgUpeEZCRZX93EJHN7zht8HvqboPEEmPSD62cyGsbDWQoqqE9k2HmdrfRyTBFcYfRMXCp7BfdQerR36t1C6TPqKZUuzmT2MmX8tC3jWYF6QsAMQZG5KLsKyUuJFPuRu3eYbKwn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

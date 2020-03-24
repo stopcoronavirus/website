@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12160 	- CAMBOULAZET](https://docs.stopcoronavirus.tech/r/markdown/12160_camboulazet/4XTTM3woFX2bSuG7HhNkbHhxEsiDHRhMRNcAuEWWcEY9MSV31) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12160 	- CAMBOULAZET](https://docs.stopcoronavirus.tech/w/markdown/12160_camboulazet/4XTTM3woFX2bSuG7HhNkbHhxEsiDHRhMRNcAuEWWcEY9MSV31-K3TgU4HM822M14X6EPzBCYkz6Y7Ny2vFK5bVhnwQikD81P1o2t7LVZxm9YWYhse6FSNYwDWhqn55YWgcAFWp1g4icRcoggF6dtcafU3fM3BxjeDzGQUVdNLDo9kKmxK4iRDvQtMq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12160 	- CAMBOULAZET](https://docs.stopcoronavirus.tech/#/r/markdown/12160_camboulazet/4XTTM3woFX2bSuG7HhNkbHhxEsiDHRhMRNcAuEWWcEY9MSV31) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12160 	- CAMBOULAZET](https://docs.stopcoronavirus.tech/#/w/markdown/12160_camboulazet/4XTTM3woFX2bSuG7HhNkbHhxEsiDHRhMRNcAuEWWcEY9MSV31-K3TgU4HM822M14X6EPzBCYkz6Y7Ny2vFK5bVhnwQikD81P1o2t7LVZxm9YWYhse6FSNYwDWhqn55YWgcAFWp1g4icRcoggF6dtcafU3fM3BxjeDzGQUVdNLDo9kKmxK4iRDvQtMq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

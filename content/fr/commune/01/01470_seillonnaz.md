@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01470 	- SEILLONNAZ](https://docs.stopcoronavirus.tech/r/markdown/01470_seillonnaz/4XTTMGeEFzqXmgoLfGCcgjz6UdHNxqdFsWv1oaCqbmjSKC8eD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01470 	- SEILLONNAZ](https://docs.stopcoronavirus.tech/w/markdown/01470_seillonnaz/4XTTMGeEFzqXmgoLfGCcgjz6UdHNxqdFsWv1oaCqbmjSKC8eD-K3TgTmhj9WpbsNHknMTEmb8um4HUSpEtdhDSpavf1eDvMCBaUc3UxMeX6nqZQd6n8pFs1LfUN6G4ouneEu6BHXAypQCmqBwD6ZymftYwS2zQCkNiiRrGCQ3L6QzrWioNf3qWcJAm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01470 	- SEILLONNAZ](https://docs.stopcoronavirus.tech/#/r/markdown/01470_seillonnaz/4XTTMGeEFzqXmgoLfGCcgjz6UdHNxqdFsWv1oaCqbmjSKC8eD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01470 	- SEILLONNAZ](https://docs.stopcoronavirus.tech/#/w/markdown/01470_seillonnaz/4XTTMGeEFzqXmgoLfGCcgjz6UdHNxqdFsWv1oaCqbmjSKC8eD-K3TgTmhj9WpbsNHknMTEmb8um4HUSpEtdhDSpavf1eDvMCBaUc3UxMeX6nqZQd6n8pFs1LfUN6G4ouneEu6BHXAypQCmqBwD6ZymftYwS2zQCkNiiRrGCQ3L6QzrWioNf3qWcJAm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

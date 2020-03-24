@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 93380 	- PIERREFITTE SUR SEINE](https://docs.stopcoronavirus.tech/r/markdown/93380_pierrefitte-sur-seine/4XTTMDxBDs2aCNC12biUxbKFZDpSeFPzcj6XXrbtMNaPY3M2k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93380 	- PIERREFITTE SUR SEINE](https://docs.stopcoronavirus.tech/w/markdown/93380_pierrefitte-sur-seine/4XTTMDxBDs2aCNC12biUxbKFZDpSeFPzcj6XXrbtMNaPY3M2k-K3TgUUH76MRA95MvjFzyW6uhwJ2x3BNp9anta3vWUcTKN2VMLmFUyZqMD74B48tDZJDhwoF9TN4Z9Hr4MbEhNADZmfzeSa1X85uF11nGdEcuK5UUTRKxGM5PfFn1cDVygqCG9eAg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 93380 	- PIERREFITTE SUR SEINE](https://docs.stopcoronavirus.tech/#/r/markdown/93380_pierrefitte-sur-seine/4XTTMDxBDs2aCNC12biUxbKFZDpSeFPzcj6XXrbtMNaPY3M2k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 93380 	- PIERREFITTE SUR SEINE](https://docs.stopcoronavirus.tech/#/w/markdown/93380_pierrefitte-sur-seine/4XTTMDxBDs2aCNC12biUxbKFZDpSeFPzcj6XXrbtMNaPY3M2k-K3TgUUH76MRA95MvjFzyW6uhwJ2x3BNp9anta3vWUcTKN2VMLmFUyZqMD74B48tDZJDhwoF9TN4Z9Hr4MbEhNADZmfzeSa1X85uF11nGdEcuK5UUTRKxGM5PfFn1cDVygqCG9eAg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

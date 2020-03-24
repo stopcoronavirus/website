@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60120 	- LE MESNIL ST FIRMIN](https://docs.stopcoronavirus.tech/r/markdown/60120_le-mesnil-st-firmin/4XTTM3iLCW6venhwM9LeNQkURJ31TU5RnVxMUC9RdvFZwKAXY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60120 	- LE MESNIL ST FIRMIN](https://docs.stopcoronavirus.tech/w/markdown/60120_le-mesnil-st-firmin/4XTTM3iLCW6venhwM9LeNQkURJ31TU5RnVxMUC9RdvFZwKAXY-K3TgUn4CcvUZfYgbsN4pEd65X9qD5d3z311LRWJcigV5efW99dmATebUjUDn1LZgVDzQCdhmEjhFABQkGpK9TJRVD6JvJf5nGRHihm4G2Dc7WxZ5xtVz1H6F5aiU4G1itryHJDwC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60120 	- LE MESNIL ST FIRMIN](https://docs.stopcoronavirus.tech/#/r/markdown/60120_le-mesnil-st-firmin/4XTTM3iLCW6venhwM9LeNQkURJ31TU5RnVxMUC9RdvFZwKAXY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60120 	- LE MESNIL ST FIRMIN](https://docs.stopcoronavirus.tech/#/w/markdown/60120_le-mesnil-st-firmin/4XTTM3iLCW6venhwM9LeNQkURJ31TU5RnVxMUC9RdvFZwKAXY-K3TgUn4CcvUZfYgbsN4pEd65X9qD5d3z311LRWJcigV5efW99dmATebUjUDn1LZgVDzQCdhmEjhFABQkGpK9TJRVD6JvJf5nGRHihm4G2Dc7WxZ5xtVz1H6F5aiU4G1itryHJDwC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

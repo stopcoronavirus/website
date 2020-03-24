@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71310 	- SERRIGNY EN BRESSE](https://docs.stopcoronavirus.tech/r/markdown/71310_serrigny-en-bresse/4XTTM6hLJaRNoH5dy7EwTYyqtgs14KQujVd567Xb8N5mE8pGS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71310 	- SERRIGNY EN BRESSE](https://docs.stopcoronavirus.tech/w/markdown/71310_serrigny-en-bresse/4XTTM6hLJaRNoH5dy7EwTYyqtgs14KQujVd567Xb8N5mE8pGS-K3TgUihn5Y1PEcCbvPvnFKaEucU9794AmRSWt6Q5yjm8Roo3JoXRzSjNzo1JdWjrahfPPaHeibP8skeQA1WZieftSAyGY1dKyJaJoPezqMSDqMP7GjTLBAw1FuCzdKWizMnexhpv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71310 	- SERRIGNY EN BRESSE](https://docs.stopcoronavirus.tech/#/r/markdown/71310_serrigny-en-bresse/4XTTM6hLJaRNoH5dy7EwTYyqtgs14KQujVd567Xb8N5mE8pGS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71310 	- SERRIGNY EN BRESSE](https://docs.stopcoronavirus.tech/#/w/markdown/71310_serrigny-en-bresse/4XTTM6hLJaRNoH5dy7EwTYyqtgs14KQujVd567Xb8N5mE8pGS-K3TgUihn5Y1PEcCbvPvnFKaEucU9794AmRSWt6Q5yjm8Roo3JoXRzSjNzo1JdWjrahfPPaHeibP8skeQA1WZieftSAyGY1dKyJaJoPezqMSDqMP7GjTLBAw1FuCzdKWizMnexhpv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

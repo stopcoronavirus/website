@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 61400 	- ST HILAIRE LE CHATEL](https://docs.stopcoronavirus.tech/r/markdown/61400_st-hilaire-le-chatel/4XTTM1xjopZjKQDNZW875DjpS4Jv2g876dEXgHN2o3ffwwYqR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61400 	- ST HILAIRE LE CHATEL](https://docs.stopcoronavirus.tech/w/markdown/61400_st-hilaire-le-chatel/4XTTM1xjopZjKQDNZW875DjpS4Jv2g876dEXgHN2o3ffwwYqR-K3TgUiHADJLRwv8vxF8i9FV7cTK2mWnPEeT7ArNUfBsjLtJxahoVBLpfq2oy59ZhgUHusmU9AsvWiUmnak9nQyX6ja2sFFrkY8JhNbjnevTmg8BUCWcJZLQ5acw7eQuqdFP9X94f) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61400 	- ST HILAIRE LE CHATEL](https://docs.stopcoronavirus.tech/#/r/markdown/61400_st-hilaire-le-chatel/4XTTM1xjopZjKQDNZW875DjpS4Jv2g876dEXgHN2o3ffwwYqR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61400 	- ST HILAIRE LE CHATEL](https://docs.stopcoronavirus.tech/#/w/markdown/61400_st-hilaire-le-chatel/4XTTM1xjopZjKQDNZW875DjpS4Jv2g876dEXgHN2o3ffwwYqR-K3TgUiHADJLRwv8vxF8i9FV7cTK2mWnPEeT7ArNUfBsjLtJxahoVBLpfq2oy59ZhgUHusmU9AsvWiUmnak9nQyX6ja2sFFrkY8JhNbjnevTmg8BUCWcJZLQ5acw7eQuqdFP9X94f) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

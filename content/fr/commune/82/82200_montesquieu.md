@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 82200 	- MONTESQUIEU](https://docs.stopcoronavirus.tech/r/markdown/82200_montesquieu/4XTTM8doBYi8njXnxP3cb7qsGuYYy4Y2gmbXaYzFwFhQ4292e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82200 	- MONTESQUIEU](https://docs.stopcoronavirus.tech/w/markdown/82200_montesquieu/4XTTM8doBYi8njXnxP3cb7qsGuYYy4Y2gmbXaYzFwFhQ4292e-K3TgTww31YBKsBPM9dY7rSdnaQEKbH5xGXJZApXYHFiqgUYFMqnLHMYyA178R62HmN3xGJcpCiZXCa3bc7wL9NRuVxuQNMJkDupcef62V29DR6hPopp6voY5VyQ331FYcywZLu42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 82200 	- MONTESQUIEU](https://docs.stopcoronavirus.tech/#/r/markdown/82200_montesquieu/4XTTM8doBYi8njXnxP3cb7qsGuYYy4Y2gmbXaYzFwFhQ4292e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 82200 	- MONTESQUIEU](https://docs.stopcoronavirus.tech/#/w/markdown/82200_montesquieu/4XTTM8doBYi8njXnxP3cb7qsGuYYy4Y2gmbXaYzFwFhQ4292e-K3TgTww31YBKsBPM9dY7rSdnaQEKbH5xGXJZApXYHFiqgUYFMqnLHMYyA178R62HmN3xGJcpCiZXCa3bc7wL9NRuVxuQNMJkDupcef62V29DR6hPopp6voY5VyQ331FYcywZLu42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

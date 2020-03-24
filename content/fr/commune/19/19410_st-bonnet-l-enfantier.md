@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19410 	- ST BONNET L ENFANTIER](https://docs.stopcoronavirus.tech/r/markdown/19410_st-bonnet-l-enfantier/4XTTMGMvw14zR7bD6T3FhnRu93TAjuSPsJWhg7TS2AacXVGjQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19410 	- ST BONNET L ENFANTIER](https://docs.stopcoronavirus.tech/w/markdown/19410_st-bonnet-l-enfantier/4XTTMGMvw14zR7bD6T3FhnRu93TAjuSPsJWhg7TS2AacXVGjQ-K3TgUtrMLn2gkMH6W7GNbNi88zBAXqu4ULK9SrYxGLPGemHYA7HWPoboTGpaECoJEPgShiu4bAbTmVBE6HsT4CyWVUAU6k2A9nYCamDEUN3BrjBHETwoBrVEkagjT5pqLdybKaiz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19410 	- ST BONNET L ENFANTIER](https://docs.stopcoronavirus.tech/#/r/markdown/19410_st-bonnet-l-enfantier/4XTTMGMvw14zR7bD6T3FhnRu93TAjuSPsJWhg7TS2AacXVGjQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19410 	- ST BONNET L ENFANTIER](https://docs.stopcoronavirus.tech/#/w/markdown/19410_st-bonnet-l-enfantier/4XTTMGMvw14zR7bD6T3FhnRu93TAjuSPsJWhg7TS2AacXVGjQ-K3TgUtrMLn2gkMH6W7GNbNi88zBAXqu4ULK9SrYxGLPGemHYA7HWPoboTGpaECoJEPgShiu4bAbTmVBE6HsT4CyWVUAU6k2A9nYCamDEUN3BrjBHETwoBrVEkagjT5pqLdybKaiz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 25920 	- MOUTHIER HAUTE PIERRE](https://docs.stopcoronavirus.tech/r/markdown/25920_mouthier-haute-pierre/4XTTM91KCyyKPaBQjapAR1RW1aDR5BoKtEnDS78rLMM5MmCJ1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25920 	- MOUTHIER HAUTE PIERRE](https://docs.stopcoronavirus.tech/w/markdown/25920_mouthier-haute-pierre/4XTTM91KCyyKPaBQjapAR1RW1aDR5BoKtEnDS78rLMM5MmCJ1-K3TgU9VLf9ZzktJkN9E5CaZSQ2BfGP5HpovZqNCr78P46EXfGuZrN3aR1jeWk3MHSisbRt2JPBt1wHDBXfgv4zDvftZXHxkj9XJZPxoxVbqhJD44wssiezGeA8g1kcA1qazEHpvy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25920 	- MOUTHIER HAUTE PIERRE](https://docs.stopcoronavirus.tech/#/r/markdown/25920_mouthier-haute-pierre/4XTTM91KCyyKPaBQjapAR1RW1aDR5BoKtEnDS78rLMM5MmCJ1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25920 	- MOUTHIER HAUTE PIERRE](https://docs.stopcoronavirus.tech/#/w/markdown/25920_mouthier-haute-pierre/4XTTM91KCyyKPaBQjapAR1RW1aDR5BoKtEnDS78rLMM5MmCJ1-K3TgU9VLf9ZzktJkN9E5CaZSQ2BfGP5HpovZqNCr78P46EXfGuZrN3aR1jeWk3MHSisbRt2JPBt1wHDBXfgv4zDvftZXHxkj9XJZPxoxVbqhJD44wssiezGeA8g1kcA1qazEHpvy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

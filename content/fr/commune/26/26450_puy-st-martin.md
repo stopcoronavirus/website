@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 26450 	- PUY ST MARTIN](https://docs.stopcoronavirus.tech/r/markdown/26450_puy-st-martin/4XTTM4TL8wskyi779S3fDsXGp1SpR4ZHfKeTs4VzRqgmwSoEH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26450 	- PUY ST MARTIN](https://docs.stopcoronavirus.tech/w/markdown/26450_puy-st-martin/4XTTM4TL8wskyi779S3fDsXGp1SpR4ZHfKeTs4VzRqgmwSoEH-K3TgTrv1vdTyqV2ZaqvatVxNijz3jgHrzGQy9okKQN3M3iw1XQGVRifkFE6RyrQ6W9svY375QjK8KnPUum4FmvfheNgWp5XREreGDMavX6UDckyKANv23rRu9LrZaHccQp9KFmFP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26450 	- PUY ST MARTIN](https://docs.stopcoronavirus.tech/#/r/markdown/26450_puy-st-martin/4XTTM4TL8wskyi779S3fDsXGp1SpR4ZHfKeTs4VzRqgmwSoEH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26450 	- PUY ST MARTIN](https://docs.stopcoronavirus.tech/#/w/markdown/26450_puy-st-martin/4XTTM4TL8wskyi779S3fDsXGp1SpR4ZHfKeTs4VzRqgmwSoEH-K3TgTrv1vdTyqV2ZaqvatVxNijz3jgHrzGQy9okKQN3M3iw1XQGVRifkFE6RyrQ6W9svY375QjK8KnPUum4FmvfheNgWp5XREreGDMavX6UDckyKANv23rRu9LrZaHccQp9KFmFP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

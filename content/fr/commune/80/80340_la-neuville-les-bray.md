@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80340 	- LA NEUVILLE LES BRAY](https://docs.stopcoronavirus.tech/r/markdown/80340_la-neuville-les-bray/4XTTMARLRHbkyQ6xZ3rG3iepceXXmVoW5Q3YBtYjAngUTqgxX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80340 	- LA NEUVILLE LES BRAY](https://docs.stopcoronavirus.tech/w/markdown/80340_la-neuville-les-bray/4XTTMARLRHbkyQ6xZ3rG3iepceXXmVoW5Q3YBtYjAngUTqgxX-K3TgTru6ciu1HPfJar61j2mXccC5mQTWPHq4Tm86V8sLDgEog7zhdHRYDGz3LpoqU1F5kCn6G3Ayu8TCvaMWy5Co4JRwJMK9dYp53cTg8UkaN5ZcRVqrSq3AtqtZzUfDDgQvfZGB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80340 	- LA NEUVILLE LES BRAY](https://docs.stopcoronavirus.tech/#/r/markdown/80340_la-neuville-les-bray/4XTTMARLRHbkyQ6xZ3rG3iepceXXmVoW5Q3YBtYjAngUTqgxX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80340 	- LA NEUVILLE LES BRAY](https://docs.stopcoronavirus.tech/#/w/markdown/80340_la-neuville-les-bray/4XTTMARLRHbkyQ6xZ3rG3iepceXXmVoW5Q3YBtYjAngUTqgxX-K3TgTru6ciu1HPfJar61j2mXccC5mQTWPHq4Tm86V8sLDgEog7zhdHRYDGz3LpoqU1F5kCn6G3Ayu8TCvaMWy5Co4JRwJMK9dYp53cTg8UkaN5ZcRVqrSq3AtqtZzUfDDgQvfZGB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

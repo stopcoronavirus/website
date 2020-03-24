@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 35610 	- SOUGEAL](https://docs.stopcoronavirus.tech/r/markdown/35610_sougeal/4XTTMEubt16edR8jDaNP9VfpFaCzpCGVPEa93Vhms3AU4FP5p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35610 	- SOUGEAL](https://docs.stopcoronavirus.tech/w/markdown/35610_sougeal/4XTTMEubt16edR8jDaNP9VfpFaCzpCGVPEa93Vhms3AU4FP5p-K3TgU2GzuYQhjFpc5Pz2LfdALgvRmHgZS2ewtaDKToxictge78jMKLxmVA8DQpznwc83uS9JRZLq7fbQP76QoUJBrybBW5tWckjSP9cMPHqd5g6yHR2YYC7CEpmzs3r5FX1kRdHG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35610 	- SOUGEAL](https://docs.stopcoronavirus.tech/#/r/markdown/35610_sougeal/4XTTMEubt16edR8jDaNP9VfpFaCzpCGVPEa93Vhms3AU4FP5p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35610 	- SOUGEAL](https://docs.stopcoronavirus.tech/#/w/markdown/35610_sougeal/4XTTMEubt16edR8jDaNP9VfpFaCzpCGVPEa93Vhms3AU4FP5p-K3TgU2GzuYQhjFpc5Pz2LfdALgvRmHgZS2ewtaDKToxictge78jMKLxmVA8DQpznwc83uS9JRZLq7fbQP76QoUJBrybBW5tWckjSP9cMPHqd5g6yHR2YYC7CEpmzs3r5FX1kRdHG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

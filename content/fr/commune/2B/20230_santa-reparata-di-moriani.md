@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20230 	- SANTA REPARATA DI MORIANI](https://docs.stopcoronavirus.tech/r/markdown/20230_santa-reparata-di-moriani/4XTTM3A2HTxbersymKx4cS87RXk7xCBEe6vTAfdFqK9hp5CFX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20230 	- SANTA REPARATA DI MORIANI](https://docs.stopcoronavirus.tech/w/markdown/20230_santa-reparata-di-moriani/4XTTM3A2HTxbersymKx4cS87RXk7xCBEe6vTAfdFqK9hp5CFX-K3TgTuQjRUQhgnnSXAX8SF8wdQTUNDuBhETszBahMevVbuNeE1gAoR1UVuxaQbtwiuqfhJS8nnBxQQ3TbNtq2z9Y37tgZJECaydg5ZeyiQ5ZVERa7fNxp8dcrUFPZqHuSLJx7uXB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20230 	- SANTA REPARATA DI MORIANI](https://docs.stopcoronavirus.tech/#/r/markdown/20230_santa-reparata-di-moriani/4XTTM3A2HTxbersymKx4cS87RXk7xCBEe6vTAfdFqK9hp5CFX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20230 	- SANTA REPARATA DI MORIANI](https://docs.stopcoronavirus.tech/#/w/markdown/20230_santa-reparata-di-moriani/4XTTM3A2HTxbersymKx4cS87RXk7xCBEe6vTAfdFqK9hp5CFX-K3TgTuQjRUQhgnnSXAX8SF8wdQTUNDuBhETszBahMevVbuNeE1gAoR1UVuxaQbtwiuqfhJS8nnBxQQ3TbNtq2z9Y37tgZJECaydg5ZeyiQ5ZVERa7fNxp8dcrUFPZqHuSLJx7uXB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

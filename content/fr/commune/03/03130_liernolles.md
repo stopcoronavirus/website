@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 03130 	- LIERNOLLES](https://docs.stopcoronavirus.tech/r/markdown/03130_liernolles/4XTTM9aduexXhpqqzjvhY2KcP9f9eUyztAbbDyaD3F8ES5T9P) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03130 	- LIERNOLLES](https://docs.stopcoronavirus.tech/w/markdown/03130_liernolles/4XTTM9aduexXhpqqzjvhY2KcP9f9eUyztAbbDyaD3F8ES5T9P-K3TgUx1iGpU9UB3tLBPXLY9wrPnFbWHzgK8v64sJzcmgH1GJqubv2hH8n9mKwrfGyQ7xPJ62PuwHzf57nmxx9bnv5JGNCajYyBbCWMua5XaBX2Rf1e5WtnZoLSP6APbML2kj2cnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03130 	- LIERNOLLES](https://docs.stopcoronavirus.tech/#/r/markdown/03130_liernolles/4XTTM9aduexXhpqqzjvhY2KcP9f9eUyztAbbDyaD3F8ES5T9P) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03130 	- LIERNOLLES](https://docs.stopcoronavirus.tech/#/w/markdown/03130_liernolles/4XTTM9aduexXhpqqzjvhY2KcP9f9eUyztAbbDyaD3F8ES5T9P-K3TgUx1iGpU9UB3tLBPXLY9wrPnFbWHzgK8v64sJzcmgH1GJqubv2hH8n9mKwrfGyQ7xPJ62PuwHzf57nmxx9bnv5JGNCajYyBbCWMua5XaBX2Rf1e5WtnZoLSP6APbML2kj2cnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 68960 	- ILLTAL](https://docs.stopcoronavirus.tech/r/markdown/68960_illtal/4XTTMBsrB8JDDByKM487eeJLkvfcmbHKgzMT1UDq1xtNfRuhB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68960 	- ILLTAL](https://docs.stopcoronavirus.tech/w/markdown/68960_illtal/4XTTMBsrB8JDDByKM487eeJLkvfcmbHKgzMT1UDq1xtNfRuhB-K3TgUGG4JUhwtZtVBndohbqGfcwB7fFB4iJAcV52VFaSDfRThL9bQZE1cZMipL6NeYwtgEDn5FXY8LfrcFCosWaHcr3Mp7AGpd8GYypLQRoF7qHVJ5SxJ5NXUkc8LjdJ5e6eb6Am) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 68960 	- ILLTAL](https://docs.stopcoronavirus.tech/#/r/markdown/68960_illtal/4XTTMBsrB8JDDByKM487eeJLkvfcmbHKgzMT1UDq1xtNfRuhB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 68960 	- ILLTAL](https://docs.stopcoronavirus.tech/#/w/markdown/68960_illtal/4XTTMBsrB8JDDByKM487eeJLkvfcmbHKgzMT1UDq1xtNfRuhB-K3TgUGG4JUhwtZtVBndohbqGfcwB7fFB4iJAcV52VFaSDfRThL9bQZE1cZMipL6NeYwtgEDn5FXY8LfrcFCosWaHcr3Mp7AGpd8GYypLQRoF7qHVJ5SxJ5NXUkc8LjdJ5e6eb6Am) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

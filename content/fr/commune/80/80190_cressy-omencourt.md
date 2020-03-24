@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80190 	- CRESSY OMENCOURT](https://docs.stopcoronavirus.tech/r/markdown/80190_cressy-omencourt/4XTTMGA6QKvBgS1iibX8shXrrgzNcNaGMKo2azTWMMickLwEL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80190 	- CRESSY OMENCOURT](https://docs.stopcoronavirus.tech/w/markdown/80190_cressy-omencourt/4XTTMGA6QKvBgS1iibX8shXrrgzNcNaGMKo2azTWMMickLwEL-K3TgUDBTj4whA1C1reR4xcHE3cB1YrPBGZwvmzfZVVWnQ8iG5XJmbyCxGE9pWxZv1i7AGUqwLJBp9sAF5XEftLH6Jd6TsZbK76YSQwXT2bBZg8gkaUBVCWvG6Fb8TxhEXwpp5Bek) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80190 	- CRESSY OMENCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/80190_cressy-omencourt/4XTTMGA6QKvBgS1iibX8shXrrgzNcNaGMKo2azTWMMickLwEL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80190 	- CRESSY OMENCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/80190_cressy-omencourt/4XTTMGA6QKvBgS1iibX8shXrrgzNcNaGMKo2azTWMMickLwEL-K3TgUDBTj4whA1C1reR4xcHE3cB1YrPBGZwvmzfZVVWnQ8iG5XJmbyCxGE9pWxZv1i7AGUqwLJBp9sAF5XEftLH6Jd6TsZbK76YSQwXT2bBZg8gkaUBVCWvG6Fb8TxhEXwpp5Bek) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

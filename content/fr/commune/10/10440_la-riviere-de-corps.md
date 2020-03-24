@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10440 	- LA RIVIERE DE CORPS](https://docs.stopcoronavirus.tech/r/markdown/10440_la-riviere-de-corps/4XTTMErTKVA81X3BrmkHZu7tE784LK3ixtCrnqwfpMffntsv3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10440 	- LA RIVIERE DE CORPS](https://docs.stopcoronavirus.tech/w/markdown/10440_la-riviere-de-corps/4XTTMErTKVA81X3BrmkHZu7tE784LK3ixtCrnqwfpMffntsv3-K3TgU455xhRbG7WEcA3gQtmvWUpQw6PGd43fHRQJRMMEdH8uSaA4PJDp6A8B9E4SAWmuAwuoto1qfeK9U2qhgowCybYfhk4BY6EuUkwJnozZVbbnPs9MhfyHHXK9JxvN3VxgchKR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10440 	- LA RIVIERE DE CORPS](https://docs.stopcoronavirus.tech/#/r/markdown/10440_la-riviere-de-corps/4XTTMErTKVA81X3BrmkHZu7tE784LK3ixtCrnqwfpMffntsv3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10440 	- LA RIVIERE DE CORPS](https://docs.stopcoronavirus.tech/#/w/markdown/10440_la-riviere-de-corps/4XTTMErTKVA81X3BrmkHZu7tE784LK3ixtCrnqwfpMffntsv3-K3TgU455xhRbG7WEcA3gQtmvWUpQw6PGd43fHRQJRMMEdH8uSaA4PJDp6A8B9E4SAWmuAwuoto1qfeK9U2qhgowCybYfhk4BY6EuUkwJnozZVbbnPs9MhfyHHXK9JxvN3VxgchKR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

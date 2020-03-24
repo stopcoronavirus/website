@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 05800 	- ST JACQUES EN VALGODEMARD](https://docs.stopcoronavirus.tech/r/markdown/05800_st-jacques-en-valgodemard/4XTTMCHckCguQYBpP9gY45ZFHXFiPCBybyZv1mnyevVLMdD27) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05800 	- ST JACQUES EN VALGODEMARD](https://docs.stopcoronavirus.tech/w/markdown/05800_st-jacques-en-valgodemard/4XTTMCHckCguQYBpP9gY45ZFHXFiPCBybyZv1mnyevVLMdD27-K3TgUPQLa64u7Bub4Jhw6F6msHuEqJmtni3S45BLpZkCU6RXbvDiS6qNmsQDY1UGTwkxjeDGNxN2YjEegpBBVAK8KRg5CFYo5nR88ShwzNhYQkPM9g1AXpHzjo6hn5VRevEKbahm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05800 	- ST JACQUES EN VALGODEMARD](https://docs.stopcoronavirus.tech/#/r/markdown/05800_st-jacques-en-valgodemard/4XTTMCHckCguQYBpP9gY45ZFHXFiPCBybyZv1mnyevVLMdD27) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05800 	- ST JACQUES EN VALGODEMARD](https://docs.stopcoronavirus.tech/#/w/markdown/05800_st-jacques-en-valgodemard/4XTTMCHckCguQYBpP9gY45ZFHXFiPCBybyZv1mnyevVLMdD27-K3TgUPQLa64u7Bub4Jhw6F6msHuEqJmtni3S45BLpZkCU6RXbvDiS6qNmsQDY1UGTwkxjeDGNxN2YjEegpBBVAK8KRg5CFYo5nR88ShwzNhYQkPM9g1AXpHzjo6hn5VRevEKbahm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

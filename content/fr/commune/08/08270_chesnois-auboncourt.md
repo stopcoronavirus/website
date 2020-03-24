@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08270 	- CHESNOIS AUBONCOURT](https://docs.stopcoronavirus.tech/r/markdown/08270_chesnois-auboncourt/4XTTMCqGJ6DJQGS2f8jZsryJE69q54hpSdHKaUXpd36eesm9L) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08270 	- CHESNOIS AUBONCOURT](https://docs.stopcoronavirus.tech/w/markdown/08270_chesnois-auboncourt/4XTTMCqGJ6DJQGS2f8jZsryJE69q54hpSdHKaUXpd36eesm9L-K3TgTqtHiE9QP9oVaCdQ34kEddUhCb42Mk2kpwy9LQKbi49fRoDQoiAbLf8HCMzdfTGh6jHET3M4nCjsBAGAVicYb7M8uu7jQmw3EeJYprJAftR9HZ4P4Wtdfuhkq21F8PkQX6uQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08270 	- CHESNOIS AUBONCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/08270_chesnois-auboncourt/4XTTMCqGJ6DJQGS2f8jZsryJE69q54hpSdHKaUXpd36eesm9L) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08270 	- CHESNOIS AUBONCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/08270_chesnois-auboncourt/4XTTMCqGJ6DJQGS2f8jZsryJE69q54hpSdHKaUXpd36eesm9L-K3TgTqtHiE9QP9oVaCdQ34kEddUhCb42Mk2kpwy9LQKbi49fRoDQoiAbLf8HCMzdfTGh6jHET3M4nCjsBAGAVicYb7M8uu7jQmw3EeJYprJAftR9HZ4P4Wtdfuhkq21F8PkQX6uQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

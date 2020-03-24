@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42670 	- BELLEROCHE](https://docs.stopcoronavirus.tech/r/markdown/42670_belleroche/4XTTM7XSLtv3RJUhLbAFZp2Zt4rSyqSSSa5jn7UztKNaBKTYC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42670 	- BELLEROCHE](https://docs.stopcoronavirus.tech/w/markdown/42670_belleroche/4XTTM7XSLtv3RJUhLbAFZp2Zt4rSyqSSSa5jn7UztKNaBKTYC-K3TgUfm2qgfzx2zpcfeHEF1E9kHpudfBzNEeqtpLrirLHaKXeoytanvE4SxDLyqwmpn6cp7ZFvjarnhm6cbVA2DQVyGRvsX5kPVGhK61URzV6AEynny46VyGCzrFwf6p3kL6uyAG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42670 	- BELLEROCHE](https://docs.stopcoronavirus.tech/#/r/markdown/42670_belleroche/4XTTM7XSLtv3RJUhLbAFZp2Zt4rSyqSSSa5jn7UztKNaBKTYC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42670 	- BELLEROCHE](https://docs.stopcoronavirus.tech/#/w/markdown/42670_belleroche/4XTTM7XSLtv3RJUhLbAFZp2Zt4rSyqSSSa5jn7UztKNaBKTYC-K3TgUfm2qgfzx2zpcfeHEF1E9kHpudfBzNEeqtpLrirLHaKXeoytanvE4SxDLyqwmpn6cp7ZFvjarnhm6cbVA2DQVyGRvsX5kPVGhK61URzV6AEynny46VyGCzrFwf6p3kL6uyAG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

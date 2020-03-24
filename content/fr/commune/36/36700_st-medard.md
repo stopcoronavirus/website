@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36700 	- ST MEDARD](https://docs.stopcoronavirus.tech/r/markdown/36700_st-medard/4XTTM1vsofQGf8LMk8Z5KaP2GaN2vDBMZcBDWsrzVS6Chb18g) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36700 	- ST MEDARD](https://docs.stopcoronavirus.tech/w/markdown/36700_st-medard/4XTTM1vsofQGf8LMk8Z5KaP2GaN2vDBMZcBDWsrzVS6Chb18g-K3TgUt5t6dHTQbpDuHr1MJG369DA3ZiRfZ88GmTLXXhct8rroBYRWA2ehbBHpG7ptbDko7DgxUfMYdeLrN6wMP4b3qu3GUNrwPv4dE91swZW9ihyUSPvK3ZpXLa5GAaq6tBAa5e4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36700 	- ST MEDARD](https://docs.stopcoronavirus.tech/#/r/markdown/36700_st-medard/4XTTM1vsofQGf8LMk8Z5KaP2GaN2vDBMZcBDWsrzVS6Chb18g) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36700 	- ST MEDARD](https://docs.stopcoronavirus.tech/#/w/markdown/36700_st-medard/4XTTM1vsofQGf8LMk8Z5KaP2GaN2vDBMZcBDWsrzVS6Chb18g-K3TgUt5t6dHTQbpDuHr1MJG369DA3ZiRfZ88GmTLXXhct8rroBYRWA2ehbBHpG7ptbDko7DgxUfMYdeLrN6wMP4b3qu3GUNrwPv4dE91swZW9ihyUSPvK3ZpXLa5GAaq6tBAa5e4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

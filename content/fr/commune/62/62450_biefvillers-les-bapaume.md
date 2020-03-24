@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 62450 	- BIEFVILLERS LES BAPAUME](https://docs.stopcoronavirus.tech/r/markdown/62450_biefvillers-les-bapaume/4XTTM6X8UzzcDzJyknT4kxa7xB3PqBLiGVu23Yo3YwPwTxvGD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62450 	- BIEFVILLERS LES BAPAUME](https://docs.stopcoronavirus.tech/w/markdown/62450_biefvillers-les-bapaume/4XTTM6X8UzzcDzJyknT4kxa7xB3PqBLiGVu23Yo3YwPwTxvGD-K3TgTfwAQeYt6ontapZbj6NTRaneTFZCbUanSeek2yTYYMc7SJaYh2qiHBsZLuWUYKKNDDzSVAtPfQiVH6v7H39u2o1T3G97p1ZJZ5SmCpqPR6mErrQVUKY5JFrehpuwBrBYdy7K) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 62450 	- BIEFVILLERS LES BAPAUME](https://docs.stopcoronavirus.tech/#/r/markdown/62450_biefvillers-les-bapaume/4XTTM6X8UzzcDzJyknT4kxa7xB3PqBLiGVu23Yo3YwPwTxvGD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 62450 	- BIEFVILLERS LES BAPAUME](https://docs.stopcoronavirus.tech/#/w/markdown/62450_biefvillers-les-bapaume/4XTTM6X8UzzcDzJyknT4kxa7xB3PqBLiGVu23Yo3YwPwTxvGD-K3TgTfwAQeYt6ontapZbj6NTRaneTFZCbUanSeek2yTYYMc7SJaYh2qiHBsZLuWUYKKNDDzSVAtPfQiVH6v7H39u2o1T3G97p1ZJZ5SmCpqPR6mErrQVUKY5JFrehpuwBrBYdy7K) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

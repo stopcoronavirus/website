@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85400 	- STE GEMME LA PLAINE](https://docs.stopcoronavirus.tech/r/markdown/85400_ste-gemme-la-plaine/4XTTM55PRK7kqhUqSo3BV6mU654fWdHaG8LTNuyp59UcnUeQj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85400 	- STE GEMME LA PLAINE](https://docs.stopcoronavirus.tech/w/markdown/85400_ste-gemme-la-plaine/4XTTM55PRK7kqhUqSo3BV6mU654fWdHaG8LTNuyp59UcnUeQj-K3TgUDmzax2wgiVis2rd9UBxm4GwnBRti5qFm1LSPG3Gwo3ULfDccEnnHAJf5hFHnmumjJmjo6zWuuQ4bP4MpctjGmzRwJJyUFER7jDEZoqGAYj266Ku48mcf3eL361kb1RL4Sqq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85400 	- STE GEMME LA PLAINE](https://docs.stopcoronavirus.tech/#/r/markdown/85400_ste-gemme-la-plaine/4XTTM55PRK7kqhUqSo3BV6mU654fWdHaG8LTNuyp59UcnUeQj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85400 	- STE GEMME LA PLAINE](https://docs.stopcoronavirus.tech/#/w/markdown/85400_ste-gemme-la-plaine/4XTTM55PRK7kqhUqSo3BV6mU654fWdHaG8LTNuyp59UcnUeQj-K3TgUDmzax2wgiVis2rd9UBxm4GwnBRti5qFm1LSPG3Gwo3ULfDccEnnHAJf5hFHnmumjJmjo6zWuuQ4bP4MpctjGmzRwJJyUFER7jDEZoqGAYj266Ku48mcf3eL361kb1RL4Sqq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

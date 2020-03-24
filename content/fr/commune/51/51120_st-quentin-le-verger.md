@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51120 	- ST QUENTIN LE VERGER](https://docs.stopcoronavirus.tech/r/markdown/51120_st-quentin-le-verger/4XTTMFQ3aEsaV8WzZsc4ofrNsyppwapFJm8X3F7o8uaYSZxhf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51120 	- ST QUENTIN LE VERGER](https://docs.stopcoronavirus.tech/w/markdown/51120_st-quentin-le-verger/4XTTMFQ3aEsaV8WzZsc4ofrNsyppwapFJm8X3F7o8uaYSZxhf-K3TgUEezYHnFosGqoqPHV8ipuyvMzPNyNVHJgPyZP4mpWb7P8ky79YGPQYqYUsacK45R6R9xTXK4fTT57GBFtat6UFSiUz2VSWJZMtpkVcP5z7ab1iH1vGWm5QsXYz6gCFYgqvQh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51120 	- ST QUENTIN LE VERGER](https://docs.stopcoronavirus.tech/#/r/markdown/51120_st-quentin-le-verger/4XTTMFQ3aEsaV8WzZsc4ofrNsyppwapFJm8X3F7o8uaYSZxhf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51120 	- ST QUENTIN LE VERGER](https://docs.stopcoronavirus.tech/#/w/markdown/51120_st-quentin-le-verger/4XTTMFQ3aEsaV8WzZsc4ofrNsyppwapFJm8X3F7o8uaYSZxhf-K3TgUEezYHnFosGqoqPHV8ipuyvMzPNyNVHJgPyZP4mpWb7P8ky79YGPQYqYUsacK45R6R9xTXK4fTT57GBFtat6UFSiUz2VSWJZMtpkVcP5z7ab1iH1vGWm5QsXYz6gCFYgqvQh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

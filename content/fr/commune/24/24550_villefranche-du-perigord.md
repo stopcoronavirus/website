@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24550 	- VILLEFRANCHE DU PERIGORD](https://docs.stopcoronavirus.tech/r/markdown/24550_villefranche-du-perigord/4XTTM2xLWgZmC6HxzA2rN5F6Z6MSZJGhmLooNjCKrvZPb4Mkf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24550 	- VILLEFRANCHE DU PERIGORD](https://docs.stopcoronavirus.tech/w/markdown/24550_villefranche-du-perigord/4XTTM2xLWgZmC6HxzA2rN5F6Z6MSZJGhmLooNjCKrvZPb4Mkf-K3TgUY8fy8WDTNfUbTxvX8oEjWdGPJPg1UXRzZQNzfbtSf4qv36n6ztomvtaQnPa6N9vWKLDY5Had9pxZJxAS4Qy3bgGfDdgXLwfCeESyA6ido16d8DXbHBNcF8Byd25rm4PwppT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24550 	- VILLEFRANCHE DU PERIGORD](https://docs.stopcoronavirus.tech/#/r/markdown/24550_villefranche-du-perigord/4XTTM2xLWgZmC6HxzA2rN5F6Z6MSZJGhmLooNjCKrvZPb4Mkf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24550 	- VILLEFRANCHE DU PERIGORD](https://docs.stopcoronavirus.tech/#/w/markdown/24550_villefranche-du-perigord/4XTTM2xLWgZmC6HxzA2rN5F6Z6MSZJGhmLooNjCKrvZPb4Mkf-K3TgUY8fy8WDTNfUbTxvX8oEjWdGPJPg1UXRzZQNzfbtSf4qv36n6ztomvtaQnPa6N9vWKLDY5Had9pxZJxAS4Qy3bgGfDdgXLwfCeESyA6ido16d8DXbHBNcF8Byd25rm4PwppT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

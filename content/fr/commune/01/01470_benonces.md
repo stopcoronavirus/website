@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01470 	- BENONCES](https://docs.stopcoronavirus.tech/r/markdown/01470_benonces/4XTTM38NshHDkvkDF7mbCDLpGVHVmwxEg7D6xzcTkarousUQB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01470 	- BENONCES](https://docs.stopcoronavirus.tech/w/markdown/01470_benonces/4XTTM38NshHDkvkDF7mbCDLpGVHVmwxEg7D6xzcTkarousUQB-K3TgUgUPd54oogqSDv9dJ9S6m5Hmddm8iR5ts4j9XjLuQZaqasRfUPNczZ1kwkuWcW45Rz5NEgpXC5A68SAV9N27HfbAtHAqgxN2tcBxDXhMSTrBQ7TWweRmpceVa7bUxJ44SiAP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01470 	- BENONCES](https://docs.stopcoronavirus.tech/#/r/markdown/01470_benonces/4XTTM38NshHDkvkDF7mbCDLpGVHVmwxEg7D6xzcTkarousUQB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01470 	- BENONCES](https://docs.stopcoronavirus.tech/#/w/markdown/01470_benonces/4XTTM38NshHDkvkDF7mbCDLpGVHVmwxEg7D6xzcTkarousUQB-K3TgUgUPd54oogqSDv9dJ9S6m5Hmddm8iR5ts4j9XjLuQZaqasRfUPNczZ1kwkuWcW45Rz5NEgpXC5A68SAV9N27HfbAtHAqgxN2tcBxDXhMSTrBQ7TWweRmpceVa7bUxJ44SiAP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

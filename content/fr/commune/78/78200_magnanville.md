@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 78200 	- MAGNANVILLE](https://docs.stopcoronavirus.tech/r/markdown/78200_magnanville/4XTTMHvoLEcTMQWW6nMJ1hvjABCkbNt12u4XdrXDSL8vEcXe9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78200 	- MAGNANVILLE](https://docs.stopcoronavirus.tech/w/markdown/78200_magnanville/4XTTMHvoLEcTMQWW6nMJ1hvjABCkbNt12u4XdrXDSL8vEcXe9-K3TgTr4qMy2kmFLfMmtXXib6WatdjyFhzSU7A9ZAtsXfgWc1a848sNUouZFZXZbdAy2iNVQMEsm3Jrk9wtqEtw2ioT6qcf4xyqY9ALjnxJnU9Bx8aRTnh7JVAKPwXeQBRVmVSJyF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78200 	- MAGNANVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/78200_magnanville/4XTTMHvoLEcTMQWW6nMJ1hvjABCkbNt12u4XdrXDSL8vEcXe9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78200 	- MAGNANVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/78200_magnanville/4XTTMHvoLEcTMQWW6nMJ1hvjABCkbNt12u4XdrXDSL8vEcXe9-K3TgTr4qMy2kmFLfMmtXXib6WatdjyFhzSU7A9ZAtsXfgWc1a848sNUouZFZXZbdAy2iNVQMEsm3Jrk9wtqEtw2ioT6qcf4xyqY9ALjnxJnU9Bx8aRTnh7JVAKPwXeQBRVmVSJyF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

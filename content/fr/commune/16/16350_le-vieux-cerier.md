@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16350 	- LE VIEUX CERIER](https://docs.stopcoronavirus.tech/r/markdown/16350_le-vieux-cerier/4XTTM3EnL89d35tBVeH7ZP4QEQpMKfKoduGTY7oeW8v3BXgKS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16350 	- LE VIEUX CERIER](https://docs.stopcoronavirus.tech/w/markdown/16350_le-vieux-cerier/4XTTM3EnL89d35tBVeH7ZP4QEQpMKfKoduGTY7oeW8v3BXgKS-K3TgTvf1PRa8c8AMYSqCfRvGHakjs8bg5ABxhECcsgbmvT3Y22fHaQf6Vib2yyJaV1R6tNJ8xwpjpCZM8KvTRUKt8HhUa4XeNfJaFX11amWrkzt81sExgC3DUDueyJNZnt5NgAVv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16350 	- LE VIEUX CERIER](https://docs.stopcoronavirus.tech/#/r/markdown/16350_le-vieux-cerier/4XTTM3EnL89d35tBVeH7ZP4QEQpMKfKoduGTY7oeW8v3BXgKS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16350 	- LE VIEUX CERIER](https://docs.stopcoronavirus.tech/#/w/markdown/16350_le-vieux-cerier/4XTTM3EnL89d35tBVeH7ZP4QEQpMKfKoduGTY7oeW8v3BXgKS-K3TgTvf1PRa8c8AMYSqCfRvGHakjs8bg5ABxhECcsgbmvT3Y22fHaQf6Vib2yyJaV1R6tNJ8xwpjpCZM8KvTRUKt8HhUa4XeNfJaFX11amWrkzt81sExgC3DUDueyJNZnt5NgAVv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

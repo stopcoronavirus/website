@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36100 	- ST AOUSTRILLE](https://docs.stopcoronavirus.tech/r/markdown/36100_st-aoustrille/4XTTM7CA94Qtps5CQ5RcmXe49JNevcUZxGMYzzas62ECN4X1e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36100 	- ST AOUSTRILLE](https://docs.stopcoronavirus.tech/w/markdown/36100_st-aoustrille/4XTTM7CA94Qtps5CQ5RcmXe49JNevcUZxGMYzzas62ECN4X1e-K3TgUnqhQ33Q8axVYRvgnoE3sYBkWbpWRjhVUvrjmcRsNLYH8TQjpnU9MY14CLjea45eRfpnFncvRa2UrGSVmKaJwq7vZbXK5b2W6YYhTp4EMjND3B2ghu48BfdhNj4TeWsDTYCU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36100 	- ST AOUSTRILLE](https://docs.stopcoronavirus.tech/#/r/markdown/36100_st-aoustrille/4XTTM7CA94Qtps5CQ5RcmXe49JNevcUZxGMYzzas62ECN4X1e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36100 	- ST AOUSTRILLE](https://docs.stopcoronavirus.tech/#/w/markdown/36100_st-aoustrille/4XTTM7CA94Qtps5CQ5RcmXe49JNevcUZxGMYzzas62ECN4X1e-K3TgUnqhQ33Q8axVYRvgnoE3sYBkWbpWRjhVUvrjmcRsNLYH8TQjpnU9MY14CLjea45eRfpnFncvRa2UrGSVmKaJwq7vZbXK5b2W6YYhTp4EMjND3B2ghu48BfdhNj4TeWsDTYCU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

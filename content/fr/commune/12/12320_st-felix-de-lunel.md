@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12320 	- ST FELIX DE LUNEL](https://docs.stopcoronavirus.tech/r/markdown/12320_st-felix-de-lunel/4XTTM8bvTJQGU6GaCXqcwVH7ZZKotTD9xrn2kzPbGXs2gSJyR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12320 	- ST FELIX DE LUNEL](https://docs.stopcoronavirus.tech/w/markdown/12320_st-felix-de-lunel/4XTTM8bvTJQGU6GaCXqcwVH7ZZKotTD9xrn2kzPbGXs2gSJyR-K3TgToBfxqfuEasezmQB451N23fLm4LMAMzDL9fmuQBJANNNuWb6cg81JtcQfGGcNKn8en4HtGboLgTzmWXdNYdi2R7Nw9ghGV9TGsW2wQny2hX5dTQQTYtyXDEciFMVTDdBzPC7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12320 	- ST FELIX DE LUNEL](https://docs.stopcoronavirus.tech/#/r/markdown/12320_st-felix-de-lunel/4XTTM8bvTJQGU6GaCXqcwVH7ZZKotTD9xrn2kzPbGXs2gSJyR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12320 	- ST FELIX DE LUNEL](https://docs.stopcoronavirus.tech/#/w/markdown/12320_st-felix-de-lunel/4XTTM8bvTJQGU6GaCXqcwVH7ZZKotTD9xrn2kzPbGXs2gSJyR-K3TgToBfxqfuEasezmQB451N23fLm4LMAMzDL9fmuQBJANNNuWb6cg81JtcQfGGcNKn8en4HtGboLgTzmWXdNYdi2R7Nw9ghGV9TGsW2wQny2hX5dTQQTYtyXDEciFMVTDdBzPC7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

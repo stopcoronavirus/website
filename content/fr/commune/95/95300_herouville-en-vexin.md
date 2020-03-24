@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 95300 	- HEROUVILLE EN VEXIN](https://docs.stopcoronavirus.tech/r/markdown/95300_herouville-en-vexin/4XTTM8h2Wp9Wo1X1fUXh45oL6Dj5nH1ZMtDmdFXdKW54yH1ts) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95300 	- HEROUVILLE EN VEXIN](https://docs.stopcoronavirus.tech/w/markdown/95300_herouville-en-vexin/4XTTM8h2Wp9Wo1X1fUXh45oL6Dj5nH1ZMtDmdFXdKW54yH1ts-K3TgTxxwbxULiiip2zApgEtaeozTmpSio99bpavZSMfnLFyCKzbJuhQtSvu2S9aQ6mumb3Q7Zoww5uUSqqZbHzF8pSKABphkiu28cW1GdB3XiDXdNmQRJwkng4DRJ8CtkPqnwT1y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95300 	- HEROUVILLE EN VEXIN](https://docs.stopcoronavirus.tech/#/r/markdown/95300_herouville-en-vexin/4XTTM8h2Wp9Wo1X1fUXh45oL6Dj5nH1ZMtDmdFXdKW54yH1ts) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95300 	- HEROUVILLE EN VEXIN](https://docs.stopcoronavirus.tech/#/w/markdown/95300_herouville-en-vexin/4XTTM8h2Wp9Wo1X1fUXh45oL6Dj5nH1ZMtDmdFXdKW54yH1ts-K3TgTxxwbxULiiip2zApgEtaeozTmpSio99bpavZSMfnLFyCKzbJuhQtSvu2S9aQ6mumb3Q7Zoww5uUSqqZbHzF8pSKABphkiu28cW1GdB3XiDXdNmQRJwkng4DRJ8CtkPqnwT1y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

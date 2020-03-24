@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38160 	- ST PIERRE DE CHERENNES](https://docs.stopcoronavirus.tech/r/markdown/38160_st-pierre-de-cherennes/4XTTM9KJfhdRkKeC9rGNsFCpGcNpAdHDgdsxDmJZPv77LPUfh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38160 	- ST PIERRE DE CHERENNES](https://docs.stopcoronavirus.tech/w/markdown/38160_st-pierre-de-cherennes/4XTTM9KJfhdRkKeC9rGNsFCpGcNpAdHDgdsxDmJZPv77LPUfh-K3TgUNPzMAGf8K7GVMZYV6Ed41WBWsw6r9ovW72pnKKzhLvqZuKDmW7ahd2xV2E2wjCW4nzFhvsKxhc5Nwo9RJQhGKZVTaSbnUBeV3NLpoKmWgDv7EXnQYHj8oCzncD6GBQN1V2P) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38160 	- ST PIERRE DE CHERENNES](https://docs.stopcoronavirus.tech/#/r/markdown/38160_st-pierre-de-cherennes/4XTTM9KJfhdRkKeC9rGNsFCpGcNpAdHDgdsxDmJZPv77LPUfh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38160 	- ST PIERRE DE CHERENNES](https://docs.stopcoronavirus.tech/#/w/markdown/38160_st-pierre-de-cherennes/4XTTM9KJfhdRkKeC9rGNsFCpGcNpAdHDgdsxDmJZPv77LPUfh-K3TgUNPzMAGf8K7GVMZYV6Ed41WBWsw6r9ovW72pnKKzhLvqZuKDmW7ahd2xV2E2wjCW4nzFhvsKxhc5Nwo9RJQhGKZVTaSbnUBeV3NLpoKmWgDv7EXnQYHj8oCzncD6GBQN1V2P) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

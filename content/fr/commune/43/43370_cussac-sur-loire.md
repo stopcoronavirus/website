@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 43370 	- CUSSAC SUR LOIRE](https://docs.stopcoronavirus.tech/r/markdown/43370_cussac-sur-loire/4XTTM33HsGRmduZPiSKvo9Wh5Yq8ncWz6sWeEZAHf7jys7BPd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43370 	- CUSSAC SUR LOIRE](https://docs.stopcoronavirus.tech/w/markdown/43370_cussac-sur-loire/4XTTM33HsGRmduZPiSKvo9Wh5Yq8ncWz6sWeEZAHf7jys7BPd-K3TgUU7vdrr4qWX2JWkPTAegLLRvvLavSQnhDTK94GhKNwktGpT1EwD4vq1afXu6Bcn7MNiWrECtav4BXMdsoC1o9RgzYfSPo3cPrYTLyUbGHEvW8F5mXtrEHs6JMh8yoa176PtB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43370 	- CUSSAC SUR LOIRE](https://docs.stopcoronavirus.tech/#/r/markdown/43370_cussac-sur-loire/4XTTM33HsGRmduZPiSKvo9Wh5Yq8ncWz6sWeEZAHf7jys7BPd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43370 	- CUSSAC SUR LOIRE](https://docs.stopcoronavirus.tech/#/w/markdown/43370_cussac-sur-loire/4XTTM33HsGRmduZPiSKvo9Wh5Yq8ncWz6sWeEZAHf7jys7BPd-K3TgUU7vdrr4qWX2JWkPTAegLLRvvLavSQnhDTK94GhKNwktGpT1EwD4vq1afXu6Bcn7MNiWrECtav4BXMdsoC1o9RgzYfSPo3cPrYTLyUbGHEvW8F5mXtrEHs6JMh8yoa176PtB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

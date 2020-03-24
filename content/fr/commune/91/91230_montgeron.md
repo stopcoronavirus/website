@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91230 	- MONTGERON](https://docs.stopcoronavirus.tech/r/markdown/91230_montgeron/4XTTMHhvVKemshj2NhbAFc237b4c65Q2GQTqeKLzrNUqDd6W1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91230 	- MONTGERON](https://docs.stopcoronavirus.tech/w/markdown/91230_montgeron/4XTTMHhvVKemshj2NhbAFc237b4c65Q2GQTqeKLzrNUqDd6W1-K3TgU5vtuRZcJoF5w1wEruyKetuoq28aq1xWJnhTPtaYeQiNyvWCPLYH4nUbxm6vq3d1nBVTL25CAGCugoGAYCT7Eyw5vGZa94rqX6ay8yzUv85r5NxHJqjq3edtQe9m58q5uK25) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91230 	- MONTGERON](https://docs.stopcoronavirus.tech/#/r/markdown/91230_montgeron/4XTTMHhvVKemshj2NhbAFc237b4c65Q2GQTqeKLzrNUqDd6W1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91230 	- MONTGERON](https://docs.stopcoronavirus.tech/#/w/markdown/91230_montgeron/4XTTMHhvVKemshj2NhbAFc237b4c65Q2GQTqeKLzrNUqDd6W1-K3TgU5vtuRZcJoF5w1wEruyKetuoq28aq1xWJnhTPtaYeQiNyvWCPLYH4nUbxm6vq3d1nBVTL25CAGCugoGAYCT7Eyw5vGZa94rqX6ay8yzUv85r5NxHJqjq3edtQe9m58q5uK25) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

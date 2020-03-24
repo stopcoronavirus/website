@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 79700 	- ST PIERRE DES ECHAUBROGNES](https://docs.stopcoronavirus.tech/r/markdown/79700_st-pierre-des-echaubrognes/4XTTMC8ovsB99QDpYjDTWPzNSPdtXEvcRPixVaM1SnM9WLUUa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79700 	- ST PIERRE DES ECHAUBROGNES](https://docs.stopcoronavirus.tech/w/markdown/79700_st-pierre-des-echaubrognes/4XTTMC8ovsB99QDpYjDTWPzNSPdtXEvcRPixVaM1SnM9WLUUa-K3TgTzmT6coVZ9KKphY5fj6KPLmR7XpoPVAd651LwWFUz2yfRfkWSQ6CtahKLH7Zu8YYAUSXMABku7ocEZgxG1AaSNEpc8Eof36Y9C5cUZWRLvULSjGWYJdUAA1GigpWnFHRbEjk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79700 	- ST PIERRE DES ECHAUBROGNES](https://docs.stopcoronavirus.tech/#/r/markdown/79700_st-pierre-des-echaubrognes/4XTTMC8ovsB99QDpYjDTWPzNSPdtXEvcRPixVaM1SnM9WLUUa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79700 	- ST PIERRE DES ECHAUBROGNES](https://docs.stopcoronavirus.tech/#/w/markdown/79700_st-pierre-des-echaubrognes/4XTTMC8ovsB99QDpYjDTWPzNSPdtXEvcRPixVaM1SnM9WLUUa-K3TgTzmT6coVZ9KKphY5fj6KPLmR7XpoPVAd651LwWFUz2yfRfkWSQ6CtahKLH7Zu8YYAUSXMABku7ocEZgxG1AaSNEpc8Eof36Y9C5cUZWRLvULSjGWYJdUAA1GigpWnFHRbEjk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

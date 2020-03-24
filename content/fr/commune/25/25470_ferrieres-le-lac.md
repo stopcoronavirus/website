@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 25470 	- FERRIERES LE LAC](https://docs.stopcoronavirus.tech/r/markdown/25470_ferrieres-le-lac/4XTTMCmBWoD1nwUmU8VxbTZw7duWecg1upufSAfigVALVCpTC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25470 	- FERRIERES LE LAC](https://docs.stopcoronavirus.tech/w/markdown/25470_ferrieres-le-lac/4XTTMCmBWoD1nwUmU8VxbTZw7duWecg1upufSAfigVALVCpTC-K3TgUy4hQZ1UEwP4RrP7Vm9ykhddHDDDutRxfWpR4ovt6zHq89KDirHvemYdbpLAzRB6zRJSVSqmDsh2h6TSeG5HeoG5JzN4BJJDFDhmsiBkHyy2aiiikgN2Fse5LwQ2cEgb37Mt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25470 	- FERRIERES LE LAC](https://docs.stopcoronavirus.tech/#/r/markdown/25470_ferrieres-le-lac/4XTTMCmBWoD1nwUmU8VxbTZw7duWecg1upufSAfigVALVCpTC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25470 	- FERRIERES LE LAC](https://docs.stopcoronavirus.tech/#/w/markdown/25470_ferrieres-le-lac/4XTTMCmBWoD1nwUmU8VxbTZw7duWecg1upufSAfigVALVCpTC-K3TgUy4hQZ1UEwP4RrP7Vm9ykhddHDDDutRxfWpR4ovt6zHq89KDirHvemYdbpLAzRB6zRJSVSqmDsh2h6TSeG5HeoG5JzN4BJJDFDhmsiBkHyy2aiiikgN2Fse5LwQ2cEgb37Mt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83500 	- LA SEYNE SUR MER](https://docs.stopcoronavirus.tech/r/markdown/83500_la-seyne-sur-mer/4XTTMEcREGaghK2WoDBnLdf5DVfyoehbzSSBpPvToNDwu596Z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83500 	- LA SEYNE SUR MER](https://docs.stopcoronavirus.tech/w/markdown/83500_la-seyne-sur-mer/4XTTMEcREGaghK2WoDBnLdf5DVfyoehbzSSBpPvToNDwu596Z-K3TgU6Wev93rpoxyDTjZovPyXuA936hyjMR6D3DL8iXhqXRGmA3GHvy1k7EsGkwFjAmjAsC6Fq6tJT1SZq8koUUqWHz88vTkg3dJhXKq6JgrfniVyW8v7Kfv2Dx8JfrEs5auvD8M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83500 	- LA SEYNE SUR MER](https://docs.stopcoronavirus.tech/#/r/markdown/83500_la-seyne-sur-mer/4XTTMEcREGaghK2WoDBnLdf5DVfyoehbzSSBpPvToNDwu596Z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83500 	- LA SEYNE SUR MER](https://docs.stopcoronavirus.tech/#/w/markdown/83500_la-seyne-sur-mer/4XTTMEcREGaghK2WoDBnLdf5DVfyoehbzSSBpPvToNDwu596Z-K3TgU6Wev93rpoxyDTjZovPyXuA936hyjMR6D3DL8iXhqXRGmA3GHvy1k7EsGkwFjAmjAsC6Fq6tJT1SZq8koUUqWHz88vTkg3dJhXKq6JgrfniVyW8v7Kfv2Dx8JfrEs5auvD8M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21420 	- PERNAND VERGELESSES](https://docs.stopcoronavirus.tech/r/markdown/21420_pernand-vergelesses/4XTTMC4sYfYC9PVGh56JWWyirGn3zLYkVyH7eR7ekdsvYC6Cd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21420 	- PERNAND VERGELESSES](https://docs.stopcoronavirus.tech/w/markdown/21420_pernand-vergelesses/4XTTMC4sYfYC9PVGh56JWWyirGn3zLYkVyH7eR7ekdsvYC6Cd-K3TgU5s76YYfH3TggzpNqLKqiVVNRaxKLQa24wnNU32oDJzkSDucmdkFmsxPK7q4M3KXhmiVn1xTRBevNgXpNw7FrNjYZ3UVAciu8F8Kzs1pf9T7HyZZZrqK8qyvYLEZkdTUrNaR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21420 	- PERNAND VERGELESSES](https://docs.stopcoronavirus.tech/#/r/markdown/21420_pernand-vergelesses/4XTTMC4sYfYC9PVGh56JWWyirGn3zLYkVyH7eR7ekdsvYC6Cd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21420 	- PERNAND VERGELESSES](https://docs.stopcoronavirus.tech/#/w/markdown/21420_pernand-vergelesses/4XTTMC4sYfYC9PVGh56JWWyirGn3zLYkVyH7eR7ekdsvYC6Cd-K3TgU5s76YYfH3TggzpNqLKqiVVNRaxKLQa24wnNU32oDJzkSDucmdkFmsxPK7q4M3KXhmiVn1xTRBevNgXpNw7FrNjYZ3UVAciu8F8Kzs1pf9T7HyZZZrqK8qyvYLEZkdTUrNaR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

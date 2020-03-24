@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33220 	- PORT STE FOY ET PONCHAPT](https://docs.stopcoronavirus.tech/r/markdown/33220_port-ste-foy-et-ponchapt/4XTTM5dofxENV52H6SsridSWvCi99mCGVFU5EXd8oAnwN5Pss) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33220 	- PORT STE FOY ET PONCHAPT](https://docs.stopcoronavirus.tech/w/markdown/33220_port-ste-foy-et-ponchapt/4XTTM5dofxENV52H6SsridSWvCi99mCGVFU5EXd8oAnwN5Pss-K3TgUTdmR1AarmEsjCG1XbK2P3mH5PZTdJmSJYU6XG9e2zzUMPuqm3RnRXLHxm9fhE48AsvYwJaQUYaCWWxe3u6Fw5gawvctFLxYubgtJcHk5MfLrR6jPDMCnVE4eRWC28cioKtR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33220 	- PORT STE FOY ET PONCHAPT](https://docs.stopcoronavirus.tech/#/r/markdown/33220_port-ste-foy-et-ponchapt/4XTTM5dofxENV52H6SsridSWvCi99mCGVFU5EXd8oAnwN5Pss) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33220 	- PORT STE FOY ET PONCHAPT](https://docs.stopcoronavirus.tech/#/w/markdown/33220_port-ste-foy-et-ponchapt/4XTTM5dofxENV52H6SsridSWvCi99mCGVFU5EXd8oAnwN5Pss-K3TgUTdmR1AarmEsjCG1XbK2P3mH5PZTdJmSJYU6XG9e2zzUMPuqm3RnRXLHxm9fhE48AsvYwJaQUYaCWWxe3u6Fw5gawvctFLxYubgtJcHk5MfLrR6jPDMCnVE4eRWC28cioKtR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

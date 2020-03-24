@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16140 	- RANVILLE BREUILLAUD](https://docs.stopcoronavirus.tech/r/markdown/16140_ranville-breuillaud/4XTTMFXmSTxW5a7ucwrkde9Jc8SZ4nqebu7tAs5A5AatPvW2b) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16140 	- RANVILLE BREUILLAUD](https://docs.stopcoronavirus.tech/w/markdown/16140_ranville-breuillaud/4XTTMFXmSTxW5a7ucwrkde9Jc8SZ4nqebu7tAs5A5AatPvW2b-K3TgUcbXA49uMWDekrhbbZY7wiLHQ5G8LuSuSp3TvusXt7pxZKUH7Cw7nGFxMeJ6ajYPMwuZsobnPozHUp7iVPkAc5TVz9jWe9UbyY7JmX7YdLb1DcC8K5sJFKraCbsSWFNnFakw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16140 	- RANVILLE BREUILLAUD](https://docs.stopcoronavirus.tech/#/r/markdown/16140_ranville-breuillaud/4XTTMFXmSTxW5a7ucwrkde9Jc8SZ4nqebu7tAs5A5AatPvW2b) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16140 	- RANVILLE BREUILLAUD](https://docs.stopcoronavirus.tech/#/w/markdown/16140_ranville-breuillaud/4XTTMFXmSTxW5a7ucwrkde9Jc8SZ4nqebu7tAs5A5AatPvW2b-K3TgUcbXA49uMWDekrhbbZY7wiLHQ5G8LuSuSp3TvusXt7pxZKUH7Cw7nGFxMeJ6ajYPMwuZsobnPozHUp7iVPkAc5TVz9jWe9UbyY7JmX7YdLb1DcC8K5sJFKraCbsSWFNnFakw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

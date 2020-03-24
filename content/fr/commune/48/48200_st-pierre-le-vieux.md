@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48200 	- ST PIERRE LE VIEUX](https://docs.stopcoronavirus.tech/r/markdown/48200_st-pierre-le-vieux/4XTTM1CibMwHjBRnt39nkStGq5JV9t9hV9EPpG61uX673m8u8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48200 	- ST PIERRE LE VIEUX](https://docs.stopcoronavirus.tech/w/markdown/48200_st-pierre-le-vieux/4XTTM1CibMwHjBRnt39nkStGq5JV9t9hV9EPpG61uX673m8u8-K3TgTfe9CYrN5x2mAZ6zyj9XnDA219yQ7cmRfSv8s92WpL4cuof4Um9qd6pL8GH8rGDbMDFt2SZCbsD7qwieJboWqJR9AUPBVnzjboDPtxoPkLHg6LNeoJRWa8vdzM4Usnu37MEz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48200 	- ST PIERRE LE VIEUX](https://docs.stopcoronavirus.tech/#/r/markdown/48200_st-pierre-le-vieux/4XTTM1CibMwHjBRnt39nkStGq5JV9t9hV9EPpG61uX673m8u8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48200 	- ST PIERRE LE VIEUX](https://docs.stopcoronavirus.tech/#/w/markdown/48200_st-pierre-le-vieux/4XTTM1CibMwHjBRnt39nkStGq5JV9t9hV9EPpG61uX673m8u8-K3TgTfe9CYrN5x2mAZ6zyj9XnDA219yQ7cmRfSv8s92WpL4cuof4Um9qd6pL8GH8rGDbMDFt2SZCbsD7qwieJboWqJR9AUPBVnzjboDPtxoPkLHg6LNeoJRWa8vdzM4Usnu37MEz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

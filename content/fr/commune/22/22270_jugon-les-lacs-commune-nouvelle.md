@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 22270 	- JUGON LES LACS COMMUNE NOUVELLE](https://docs.stopcoronavirus.tech/r/markdown/22270_jugon-les-lacs-commune-nouvelle/4XTTM7xTyBipnA7aJp5sW17sVRX4BNZhQXMT1nK9V3X2b8CRu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22270 	- JUGON LES LACS COMMUNE NOUVELLE](https://docs.stopcoronavirus.tech/w/markdown/22270_jugon-les-lacs-commune-nouvelle/4XTTM7xTyBipnA7aJp5sW17sVRX4BNZhQXMT1nK9V3X2b8CRu-K3TgTxufZyAiWBesEw3BBZuA8C1Lq56V3oBkjP4BeVr57Rbj9ey75rqCDUnjsUdD28GorQdpomz5sQDeoPmwuXmSNumM9mcDDVnXiwjomxCZy8v8U6MZd1Wkjd45cMnqx5cwYmHZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 22270 	- JUGON LES LACS COMMUNE NOUVELLE](https://docs.stopcoronavirus.tech/#/r/markdown/22270_jugon-les-lacs-commune-nouvelle/4XTTM7xTyBipnA7aJp5sW17sVRX4BNZhQXMT1nK9V3X2b8CRu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 22270 	- JUGON LES LACS COMMUNE NOUVELLE](https://docs.stopcoronavirus.tech/#/w/markdown/22270_jugon-les-lacs-commune-nouvelle/4XTTM7xTyBipnA7aJp5sW17sVRX4BNZhQXMT1nK9V3X2b8CRu-K3TgTxufZyAiWBesEw3BBZuA8C1Lq56V3oBkjP4BeVr57Rbj9ey75rqCDUnjsUdD28GorQdpomz5sQDeoPmwuXmSNumM9mcDDVnXiwjomxCZy8v8U6MZd1Wkjd45cMnqx5cwYmHZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

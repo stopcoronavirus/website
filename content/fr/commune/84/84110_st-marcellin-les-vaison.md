@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84110 	- ST MARCELLIN LES VAISON](https://docs.stopcoronavirus.tech/r/markdown/84110_st-marcellin-les-vaison/4XTTMDXKK3LyvvXX8WouoTczW1kdfqJikZhGB2oH32D9a7Gj2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84110 	- ST MARCELLIN LES VAISON](https://docs.stopcoronavirus.tech/w/markdown/84110_st-marcellin-les-vaison/4XTTMDXKK3LyvvXX8WouoTczW1kdfqJikZhGB2oH32D9a7Gj2-K3TgTvTHN4aX3TWJx98hRJTDYjF51qnxNTW8Adi6byHQ1UHngBZWNqeCVVqt7GDP3QtpB6VAYuB3EpWnYqtD1diaVz3tGrpumY5p5VNx1yEgdyZU1cN68M7xbYmnuiCqe9UmAaE4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84110 	- ST MARCELLIN LES VAISON](https://docs.stopcoronavirus.tech/#/r/markdown/84110_st-marcellin-les-vaison/4XTTMDXKK3LyvvXX8WouoTczW1kdfqJikZhGB2oH32D9a7Gj2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84110 	- ST MARCELLIN LES VAISON](https://docs.stopcoronavirus.tech/#/w/markdown/84110_st-marcellin-les-vaison/4XTTMDXKK3LyvvXX8WouoTczW1kdfqJikZhGB2oH32D9a7Gj2-K3TgTvTHN4aX3TWJx98hRJTDYjF51qnxNTW8Adi6byHQ1UHngBZWNqeCVVqt7GDP3QtpB6VAYuB3EpWnYqtD1diaVz3tGrpumY5p5VNx1yEgdyZU1cN68M7xbYmnuiCqe9UmAaE4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

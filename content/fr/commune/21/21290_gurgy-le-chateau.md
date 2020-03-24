@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21290 	- GURGY LE CHATEAU](https://docs.stopcoronavirus.tech/r/markdown/21290_gurgy-le-chateau/4XTTMDxS1fZwAAi4MMD9sC9hPYRdZs4VNrnxGpWSeuZLXjTcp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21290 	- GURGY LE CHATEAU](https://docs.stopcoronavirus.tech/w/markdown/21290_gurgy-le-chateau/4XTTMDxS1fZwAAi4MMD9sC9hPYRdZs4VNrnxGpWSeuZLXjTcp-K3TgUffyF7ZrzYtPntM4cwJeGv6nqpQ8TTXwPmk9eh7vqbyxz98ddJ35rJa32A2EX67MiNFLy8sDTKHMbyWG3jW2Hw2VsHhabfUhjHmrNDTR74VM9D9S5c4ofU1hY2krp4Af2e7W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21290 	- GURGY LE CHATEAU](https://docs.stopcoronavirus.tech/#/r/markdown/21290_gurgy-le-chateau/4XTTMDxS1fZwAAi4MMD9sC9hPYRdZs4VNrnxGpWSeuZLXjTcp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21290 	- GURGY LE CHATEAU](https://docs.stopcoronavirus.tech/#/w/markdown/21290_gurgy-le-chateau/4XTTMDxS1fZwAAi4MMD9sC9hPYRdZs4VNrnxGpWSeuZLXjTcp-K3TgUffyF7ZrzYtPntM4cwJeGv6nqpQ8TTXwPmk9eh7vqbyxz98ddJ35rJa32A2EX67MiNFLy8sDTKHMbyWG3jW2Hw2VsHhabfUhjHmrNDTR74VM9D9S5c4ofU1hY2krp4Af2e7W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

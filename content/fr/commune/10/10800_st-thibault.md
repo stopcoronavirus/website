@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10800 	- ST THIBAULT](https://docs.stopcoronavirus.tech/r/markdown/10800_st-thibault/4XTTM2yyeRpJnUTmYVtzuUBGm331vACG59JcuvSyDo7knjGDa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10800 	- ST THIBAULT](https://docs.stopcoronavirus.tech/w/markdown/10800_st-thibault/4XTTM2yyeRpJnUTmYVtzuUBGm331vACG59JcuvSyDo7knjGDa-K3TgUswAFXEyR4Rhb9Af9Y5giDQT3HSHqvsjAZ7unnd3MvaKCiUartxBLrEr1QvCd4VhqeUdYqCXfS19fCe8nj61sKcniw5gJpgF7Xe9QYfYgimAfTnHdxmkMfkx72op9pTXM4rp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10800 	- ST THIBAULT](https://docs.stopcoronavirus.tech/#/r/markdown/10800_st-thibault/4XTTM2yyeRpJnUTmYVtzuUBGm331vACG59JcuvSyDo7knjGDa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10800 	- ST THIBAULT](https://docs.stopcoronavirus.tech/#/w/markdown/10800_st-thibault/4XTTM2yyeRpJnUTmYVtzuUBGm331vACG59JcuvSyDo7knjGDa-K3TgUswAFXEyR4Rhb9Af9Y5giDQT3HSHqvsjAZ7unnd3MvaKCiUartxBLrEr1QvCd4VhqeUdYqCXfS19fCe8nj61sKcniw5gJpgF7Xe9QYfYgimAfTnHdxmkMfkx72op9pTXM4rp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

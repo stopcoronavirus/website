@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30430 	- ST JEAN DE MARUEJOLS ET AVEJAN](https://docs.stopcoronavirus.tech/r/markdown/30430_st-jean-de-maruejols-et-avejan/4XTTMF3uGt9ePXfjQdi4Bj7hkgkNugPE9BDZZzR2tL1czzVaS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30430 	- ST JEAN DE MARUEJOLS ET AVEJAN](https://docs.stopcoronavirus.tech/w/markdown/30430_st-jean-de-maruejols-et-avejan/4XTTMF3uGt9ePXfjQdi4Bj7hkgkNugPE9BDZZzR2tL1czzVaS-K3TgUuPAniNJqW9Up1WGktuzwtdDFdoHh54n7GjAkBJ3oPZPNbfXeKEXzvCp6ADdGMqhPgNaNAjTs2VVUUc2YaXLWgW6Y4VFWeo64FXjDWWxtkmb5yhrPVf5HMKEVFD8gMWN4cY2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30430 	- ST JEAN DE MARUEJOLS ET AVEJAN](https://docs.stopcoronavirus.tech/#/r/markdown/30430_st-jean-de-maruejols-et-avejan/4XTTMF3uGt9ePXfjQdi4Bj7hkgkNugPE9BDZZzR2tL1czzVaS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30430 	- ST JEAN DE MARUEJOLS ET AVEJAN](https://docs.stopcoronavirus.tech/#/w/markdown/30430_st-jean-de-maruejols-et-avejan/4XTTMF3uGt9ePXfjQdi4Bj7hkgkNugPE9BDZZzR2tL1czzVaS-K3TgUuPAniNJqW9Up1WGktuzwtdDFdoHh54n7GjAkBJ3oPZPNbfXeKEXzvCp6ADdGMqhPgNaNAjTs2VVUUc2YaXLWgW6Y4VFWeo64FXjDWWxtkmb5yhrPVf5HMKEVFD8gMWN4cY2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

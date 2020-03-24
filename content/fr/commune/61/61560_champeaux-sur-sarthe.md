@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 61560 	- CHAMPEAUX SUR SARTHE](https://docs.stopcoronavirus.tech/r/markdown/61560_champeaux-sur-sarthe/4XTTMDXHborbHiX7LxKyZ1HMem4cAhWi1t4EMERKRaakFDMsK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61560 	- CHAMPEAUX SUR SARTHE](https://docs.stopcoronavirus.tech/w/markdown/61560_champeaux-sur-sarthe/4XTTMDXHborbHiX7LxKyZ1HMem4cAhWi1t4EMERKRaakFDMsK-K3TgUsBThxB2gs9cZBYM3BT1oiUnhPoCpYcP4uzmNocsrk5aznbXo5Fdau1BUueLvq5dpG9dzFEX4FonizPPfVVKCiAwqfJr7qHzbvar1taakedHdLcKNMK8sMUD4PmyTnQRqWbo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61560 	- CHAMPEAUX SUR SARTHE](https://docs.stopcoronavirus.tech/#/r/markdown/61560_champeaux-sur-sarthe/4XTTMDXHborbHiX7LxKyZ1HMem4cAhWi1t4EMERKRaakFDMsK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61560 	- CHAMPEAUX SUR SARTHE](https://docs.stopcoronavirus.tech/#/w/markdown/61560_champeaux-sur-sarthe/4XTTMDXHborbHiX7LxKyZ1HMem4cAhWi1t4EMERKRaakFDMsK-K3TgUsBThxB2gs9cZBYM3BT1oiUnhPoCpYcP4uzmNocsrk5aznbXo5Fdau1BUueLvq5dpG9dzFEX4FonizPPfVVKCiAwqfJr7qHzbvar1taakedHdLcKNMK8sMUD4PmyTnQRqWbo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

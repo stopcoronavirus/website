@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85770 	- LE GUE DE VELLUIRE](https://docs.stopcoronavirus.tech/r/markdown/85770_le-gue-de-velluire/4XTTM7hsREQTQdPm7BZUyE7eR84wiWfcjEaPSDGiSUVnoLKsY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85770 	- LE GUE DE VELLUIRE](https://docs.stopcoronavirus.tech/w/markdown/85770_le-gue-de-velluire/4XTTM7hsREQTQdPm7BZUyE7eR84wiWfcjEaPSDGiSUVnoLKsY-K3TgV762SJ3WpJ66WTFagxmxah1MNCnwwfcr24DSFMsaWDkvHJh74tfsyJrpGrgnSDFcGHYn5t3jBcHTWDPL2oF8SUpbAcsRbMWBaAFsFEGMVNtBfu6C26GqENPuc3PUpsjgNYPc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85770 	- LE GUE DE VELLUIRE](https://docs.stopcoronavirus.tech/#/r/markdown/85770_le-gue-de-velluire/4XTTM7hsREQTQdPm7BZUyE7eR84wiWfcjEaPSDGiSUVnoLKsY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85770 	- LE GUE DE VELLUIRE](https://docs.stopcoronavirus.tech/#/w/markdown/85770_le-gue-de-velluire/4XTTM7hsREQTQdPm7BZUyE7eR84wiWfcjEaPSDGiSUVnoLKsY-K3TgV762SJ3WpJ66WTFagxmxah1MNCnwwfcr24DSFMsaWDkvHJh74tfsyJrpGrgnSDFcGHYn5t3jBcHTWDPL2oF8SUpbAcsRbMWBaAFsFEGMVNtBfu6C26GqENPuc3PUpsjgNYPc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

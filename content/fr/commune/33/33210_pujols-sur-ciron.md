@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33210 	- PUJOLS SUR CIRON](https://docs.stopcoronavirus.tech/r/markdown/33210_pujols-sur-ciron/4XTTMDTBEYB9Y9RK6pnbGz4Hw1vN8okzpNVev8Efv6Zdpb7Ua) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33210 	- PUJOLS SUR CIRON](https://docs.stopcoronavirus.tech/w/markdown/33210_pujols-sur-ciron/4XTTMDTBEYB9Y9RK6pnbGz4Hw1vN8okzpNVev8Efv6Zdpb7Ua-K3TgTi8Lov3qmEhv2a8eoPrj8LjDXFDgYVfCY9sLQPbpQ5iUDx42Y8ds2AnU6QU86ehnwD3K2nKnEqjvJgjVoxUt9UAwdQmedrSpxNZ3jUiZh8mFFss8ts5NfUmer91wYjgzmdBt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33210 	- PUJOLS SUR CIRON](https://docs.stopcoronavirus.tech/#/r/markdown/33210_pujols-sur-ciron/4XTTMDTBEYB9Y9RK6pnbGz4Hw1vN8okzpNVev8Efv6Zdpb7Ua) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33210 	- PUJOLS SUR CIRON](https://docs.stopcoronavirus.tech/#/w/markdown/33210_pujols-sur-ciron/4XTTMDTBEYB9Y9RK6pnbGz4Hw1vN8okzpNVev8Efv6Zdpb7Ua-K3TgTi8Lov3qmEhv2a8eoPrj8LjDXFDgYVfCY9sLQPbpQ5iUDx42Y8ds2AnU6QU86ehnwD3K2nKnEqjvJgjVoxUt9UAwdQmedrSpxNZ3jUiZh8mFFss8ts5NfUmer91wYjgzmdBt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

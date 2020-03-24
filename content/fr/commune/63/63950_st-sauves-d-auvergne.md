@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 63950 	- ST SAUVES D AUVERGNE](https://docs.stopcoronavirus.tech/r/markdown/63950_st-sauves-d-auvergne/4XTTM96kwAmuayvFWKgjjq999deJKduuDyG92QrwcppHAW5Au) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63950 	- ST SAUVES D AUVERGNE](https://docs.stopcoronavirus.tech/w/markdown/63950_st-sauves-d-auvergne/4XTTM96kwAmuayvFWKgjjq999deJKduuDyG92QrwcppHAW5Au-K3TgUSYeykBXjAiZfbyHmqw5bGjymP75xotPa4ez4XiZm4kyM1JJN6bFcu429mAoHH4wBA5z9ChBW98i1eFbnypSXggcxvynfDXGaEgung67NH8CedoJpLp3nUzeQStBGyUourXP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63950 	- ST SAUVES D AUVERGNE](https://docs.stopcoronavirus.tech/#/r/markdown/63950_st-sauves-d-auvergne/4XTTM96kwAmuayvFWKgjjq999deJKduuDyG92QrwcppHAW5Au) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63950 	- ST SAUVES D AUVERGNE](https://docs.stopcoronavirus.tech/#/w/markdown/63950_st-sauves-d-auvergne/4XTTM96kwAmuayvFWKgjjq999deJKduuDyG92QrwcppHAW5Au-K3TgUSYeykBXjAiZfbyHmqw5bGjymP75xotPa4ez4XiZm4kyM1JJN6bFcu429mAoHH4wBA5z9ChBW98i1eFbnypSXggcxvynfDXGaEgung67NH8CedoJpLp3nUzeQStBGyUourXP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

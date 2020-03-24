@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59267 	- CANTAING SUR ESCAUT](https://docs.stopcoronavirus.tech/r/markdown/59267_cantaing-sur-escaut/4XTTMGewZ2NX4W9cT1y5xnxEB79k81eN98UUjMhUUW7CyVRAV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59267 	- CANTAING SUR ESCAUT](https://docs.stopcoronavirus.tech/w/markdown/59267_cantaing-sur-escaut/4XTTMGewZ2NX4W9cT1y5xnxEB79k81eN98UUjMhUUW7CyVRAV-K3TgUerv269RMJDvjRPDBdVdNQ78P55MKLtz9NtCsU3DwkzXvKTJjVyjMhVzYt79kJCKBLWMEsauc5mH1R2ZQfiXReFBUqyFqnkrdwYu7GFdsuSQ64Vrg9VGQsbBJN7A4Qtm8iCD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59267 	- CANTAING SUR ESCAUT](https://docs.stopcoronavirus.tech/#/r/markdown/59267_cantaing-sur-escaut/4XTTMGewZ2NX4W9cT1y5xnxEB79k81eN98UUjMhUUW7CyVRAV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59267 	- CANTAING SUR ESCAUT](https://docs.stopcoronavirus.tech/#/w/markdown/59267_cantaing-sur-escaut/4XTTMGewZ2NX4W9cT1y5xnxEB79k81eN98UUjMhUUW7CyVRAV-K3TgUerv269RMJDvjRPDBdVdNQ78P55MKLtz9NtCsU3DwkzXvKTJjVyjMhVzYt79kJCKBLWMEsauc5mH1R2ZQfiXReFBUqyFqnkrdwYu7GFdsuSQ64Vrg9VGQsbBJN7A4Qtm8iCD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

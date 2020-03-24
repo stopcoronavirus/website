@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24160 	- PREYSSAC D EXCIDEUIL](https://docs.stopcoronavirus.tech/r/markdown/24160_preyssac-d-excideuil/4XTTMFXy62bq1Ypm4U3tNSWDbEfZWTH7JiNpHnfXGp2DNfD9e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24160 	- PREYSSAC D EXCIDEUIL](https://docs.stopcoronavirus.tech/w/markdown/24160_preyssac-d-excideuil/4XTTMFXy62bq1Ypm4U3tNSWDbEfZWTH7JiNpHnfXGp2DNfD9e-K3TgUY4yJgoZNZss489eH8UtrZ945Az4fZBUpum41Fhar1EmXDgM2Em63bYtBbRwe2XSTJ2uDCkEzeS37CqXThRRNJsLL93BycGri1E6AU1ZNHbMY2sQ34bXAjmSMhRHAvW41cUC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24160 	- PREYSSAC D EXCIDEUIL](https://docs.stopcoronavirus.tech/#/r/markdown/24160_preyssac-d-excideuil/4XTTMFXy62bq1Ypm4U3tNSWDbEfZWTH7JiNpHnfXGp2DNfD9e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24160 	- PREYSSAC D EXCIDEUIL](https://docs.stopcoronavirus.tech/#/w/markdown/24160_preyssac-d-excideuil/4XTTMFXy62bq1Ypm4U3tNSWDbEfZWTH7JiNpHnfXGp2DNfD9e-K3TgUY4yJgoZNZss489eH8UtrZ945Az4fZBUpum41Fhar1EmXDgM2Em63bYtBbRwe2XSTJ2uDCkEzeS37CqXThRRNJsLL93BycGri1E6AU1ZNHbMY2sQ34bXAjmSMhRHAvW41cUC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

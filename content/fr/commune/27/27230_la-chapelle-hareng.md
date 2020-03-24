@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27230 	- LA CHAPELLE HARENG](https://docs.stopcoronavirus.tech/r/markdown/27230_la-chapelle-hareng/4XTTM4nRooxMRruTEVR9o1iPoD3uwFGvDWyZeZs85KsXpDLu7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27230 	- LA CHAPELLE HARENG](https://docs.stopcoronavirus.tech/w/markdown/27230_la-chapelle-hareng/4XTTM4nRooxMRruTEVR9o1iPoD3uwFGvDWyZeZs85KsXpDLu7-K3TgTvDa9iMxT9uF6CDEJH2MDtXZRMZpf4a8dxeM8xvPUi4AwAehG4LiRSh3t3rBnUtC6JfMM1DpUame6iqtd3RHhukmPqcmNqaRUsNGZCCqyiSagfvSwpi1qRAauedGxx77P4nV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27230 	- LA CHAPELLE HARENG](https://docs.stopcoronavirus.tech/#/r/markdown/27230_la-chapelle-hareng/4XTTM4nRooxMRruTEVR9o1iPoD3uwFGvDWyZeZs85KsXpDLu7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27230 	- LA CHAPELLE HARENG](https://docs.stopcoronavirus.tech/#/w/markdown/27230_la-chapelle-hareng/4XTTM4nRooxMRruTEVR9o1iPoD3uwFGvDWyZeZs85KsXpDLu7-K3TgTvDa9iMxT9uF6CDEJH2MDtXZRMZpf4a8dxeM8xvPUi4AwAehG4LiRSh3t3rBnUtC6JfMM1DpUame6iqtd3RHhukmPqcmNqaRUsNGZCCqyiSagfvSwpi1qRAauedGxx77P4nV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

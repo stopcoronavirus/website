@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14280 	- ST GERMAIN LA BLANCHE HERBE](https://docs.stopcoronavirus.tech/r/markdown/14280_st-germain-la-blanche-herbe/4XTTM4cNagzk6JTNbeAuijvFFNJbDwnStKcxpgGxPTTY3Kn64) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14280 	- ST GERMAIN LA BLANCHE HERBE](https://docs.stopcoronavirus.tech/w/markdown/14280_st-germain-la-blanche-herbe/4XTTM4cNagzk6JTNbeAuijvFFNJbDwnStKcxpgGxPTTY3Kn64-K3TgUs4jTBiw2FcEpm55iUN53LR9qgT83ZRtqJf9oQjtarjBpUcsJoT6y28WKEoDz5HgGVUox4UwrVCnD1JzkBY77MqWR2AZxsSWMpNsDttVJ2iqHJsANbLDksferC7WeV4nK9UC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14280 	- ST GERMAIN LA BLANCHE HERBE](https://docs.stopcoronavirus.tech/#/r/markdown/14280_st-germain-la-blanche-herbe/4XTTM4cNagzk6JTNbeAuijvFFNJbDwnStKcxpgGxPTTY3Kn64) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14280 	- ST GERMAIN LA BLANCHE HERBE](https://docs.stopcoronavirus.tech/#/w/markdown/14280_st-germain-la-blanche-herbe/4XTTM4cNagzk6JTNbeAuijvFFNJbDwnStKcxpgGxPTTY3Kn64-K3TgUs4jTBiw2FcEpm55iUN53LR9qgT83ZRtqJf9oQjtarjBpUcsJoT6y28WKEoDz5HgGVUox4UwrVCnD1JzkBY77MqWR2AZxsSWMpNsDttVJ2iqHJsANbLDksferC7WeV4nK9UC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

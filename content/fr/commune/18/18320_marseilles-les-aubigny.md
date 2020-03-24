@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18320 	- MARSEILLES LES AUBIGNY](https://docs.stopcoronavirus.tech/r/markdown/18320_marseilles-les-aubigny/4XTTM5CY2TgJPm2Yh1TUsDb2UtKPxevJwakq8FWLyqj2yVUET) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18320 	- MARSEILLES LES AUBIGNY](https://docs.stopcoronavirus.tech/w/markdown/18320_marseilles-les-aubigny/4XTTM5CY2TgJPm2Yh1TUsDb2UtKPxevJwakq8FWLyqj2yVUET-K3TgUDoEuCtJ4frT24XuXzWjsPq1BXXZcd3t1gJPqSDJtPLku63ThWR2Ff2E3wicDM6dJpyVEvs2PPtddMbcb3BVwzvCTqkb1W6CWD49r2AqTXvPhHjSuD7rU3Zos1V1XcSimYHD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18320 	- MARSEILLES LES AUBIGNY](https://docs.stopcoronavirus.tech/#/r/markdown/18320_marseilles-les-aubigny/4XTTM5CY2TgJPm2Yh1TUsDb2UtKPxevJwakq8FWLyqj2yVUET) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18320 	- MARSEILLES LES AUBIGNY](https://docs.stopcoronavirus.tech/#/w/markdown/18320_marseilles-les-aubigny/4XTTM5CY2TgJPm2Yh1TUsDb2UtKPxevJwakq8FWLyqj2yVUET-K3TgUDoEuCtJ4frT24XuXzWjsPq1BXXZcd3t1gJPqSDJtPLku63ThWR2Ff2E3wicDM6dJpyVEvs2PPtddMbcb3BVwzvCTqkb1W6CWD49r2AqTXvPhHjSuD7rU3Zos1V1XcSimYHD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

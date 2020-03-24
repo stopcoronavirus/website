@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30132 	- CAISSARGUES](https://docs.stopcoronavirus.tech/r/markdown/30132_caissargues/4XTTMBwGyC2NUTS3aCRKMZ6vo5p4qd9VEaKf8JcM8WhbtTfKn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30132 	- CAISSARGUES](https://docs.stopcoronavirus.tech/w/markdown/30132_caissargues/4XTTMBwGyC2NUTS3aCRKMZ6vo5p4qd9VEaKf8JcM8WhbtTfKn-K3TgTeJYhdxjEK6oCpbmHGiPsRF9ghxhLjXvXgSWYWZDQK8VQX61T9io9rB35ZUojhoXAQmmHYwRQN5zL6Wa3GiDoUBpjtkykN95HokREL6mTNpnkJ7ud1abT9ChmRftJhqHRM7n) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30132 	- CAISSARGUES](https://docs.stopcoronavirus.tech/#/r/markdown/30132_caissargues/4XTTMBwGyC2NUTS3aCRKMZ6vo5p4qd9VEaKf8JcM8WhbtTfKn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30132 	- CAISSARGUES](https://docs.stopcoronavirus.tech/#/w/markdown/30132_caissargues/4XTTMBwGyC2NUTS3aCRKMZ6vo5p4qd9VEaKf8JcM8WhbtTfKn-K3TgTeJYhdxjEK6oCpbmHGiPsRF9ghxhLjXvXgSWYWZDQK8VQX61T9io9rB35ZUojhoXAQmmHYwRQN5zL6Wa3GiDoUBpjtkykN95HokREL6mTNpnkJ7ud1abT9ChmRftJhqHRM7n) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

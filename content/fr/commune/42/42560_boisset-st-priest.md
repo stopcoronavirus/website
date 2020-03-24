@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42560 	- BOISSET ST PRIEST](https://docs.stopcoronavirus.tech/r/markdown/42560_boisset-st-priest/4XTTMAviYRH6hcKwqw5k7fg9yu5XkDqXxPNwo5xN3HguQuqMh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42560 	- BOISSET ST PRIEST](https://docs.stopcoronavirus.tech/w/markdown/42560_boisset-st-priest/4XTTMAviYRH6hcKwqw5k7fg9yu5XkDqXxPNwo5xN3HguQuqMh-K3TgTwWr6tcaFh2ZkWpWwNtFi7gJm4nTRtdvv3t8H2QSiHfr7sDbKPAa52vQ8Ni1MtDpDCebpMPJAGBoygekZcXD1Cr5fbYUJ6Yhop4pqKui1hutQPJdgQtPu23xZNAFq8XaEUkX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42560 	- BOISSET ST PRIEST](https://docs.stopcoronavirus.tech/#/r/markdown/42560_boisset-st-priest/4XTTMAviYRH6hcKwqw5k7fg9yu5XkDqXxPNwo5xN3HguQuqMh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42560 	- BOISSET ST PRIEST](https://docs.stopcoronavirus.tech/#/w/markdown/42560_boisset-st-priest/4XTTMAviYRH6hcKwqw5k7fg9yu5XkDqXxPNwo5xN3HguQuqMh-K3TgTwWr6tcaFh2ZkWpWwNtFi7gJm4nTRtdvv3t8H2QSiHfr7sDbKPAa52vQ8Ni1MtDpDCebpMPJAGBoygekZcXD1Cr5fbYUJ6Yhop4pqKui1hutQPJdgQtPu23xZNAFq8XaEUkX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

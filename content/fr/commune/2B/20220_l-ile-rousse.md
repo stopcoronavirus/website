@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20220 	- L ILE ROUSSE](https://docs.stopcoronavirus.tech/r/markdown/20220_l-ile-rousse/4XTTMDM9fvSm6Rq5Kz3iv1tPLyEtUu4Ns5bo7epjpT7pwSZ4e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20220 	- L ILE ROUSSE](https://docs.stopcoronavirus.tech/w/markdown/20220_l-ile-rousse/4XTTMDM9fvSm6Rq5Kz3iv1tPLyEtUu4Ns5bo7epjpT7pwSZ4e-K3TgTkx9dPpCaRBL8yGoygCey7pfXa2jgSFovUw2mPXp1iVxGsPRFY7enSLpTcyDQz16Gz55EXNSn8rJoZbbj4F8aRBZ6HMuFjPFna3uPiWw9Gjp3ZisAbs1z3YvKgGsDkGtvx1g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20220 	- L ILE ROUSSE](https://docs.stopcoronavirus.tech/#/r/markdown/20220_l-ile-rousse/4XTTMDM9fvSm6Rq5Kz3iv1tPLyEtUu4Ns5bo7epjpT7pwSZ4e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20220 	- L ILE ROUSSE](https://docs.stopcoronavirus.tech/#/w/markdown/20220_l-ile-rousse/4XTTMDM9fvSm6Rq5Kz3iv1tPLyEtUu4Ns5bo7epjpT7pwSZ4e-K3TgTkx9dPpCaRBL8yGoygCey7pfXa2jgSFovUw2mPXp1iVxGsPRFY7enSLpTcyDQz16Gz55EXNSn8rJoZbbj4F8aRBZ6HMuFjPFna3uPiWw9Gjp3ZisAbs1z3YvKgGsDkGtvx1g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

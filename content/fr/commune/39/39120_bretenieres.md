@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 39120 	- BRETENIERES](https://docs.stopcoronavirus.tech/r/markdown/39120_bretenieres/4XTTM4gfHo2yxbruphfhCHxCgBfS4mjnNQKzcJM3i3iqewjjR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39120 	- BRETENIERES](https://docs.stopcoronavirus.tech/w/markdown/39120_bretenieres/4XTTM4gfHo2yxbruphfhCHxCgBfS4mjnNQKzcJM3i3iqewjjR-K3TgUWwbtBpFbizJ89hB3Tqoo1dt5ET6njjGzpfycN6EmWBo1fWbDPPVa8oo8QW4pGdho5mFBDebxygKJmZZo2hpt5og62ut5YT4wtZ4QeoBKoywaHFiqD7qJcWFT7kZ7JrNKipT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39120 	- BRETENIERES](https://docs.stopcoronavirus.tech/#/r/markdown/39120_bretenieres/4XTTM4gfHo2yxbruphfhCHxCgBfS4mjnNQKzcJM3i3iqewjjR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39120 	- BRETENIERES](https://docs.stopcoronavirus.tech/#/w/markdown/39120_bretenieres/4XTTM4gfHo2yxbruphfhCHxCgBfS4mjnNQKzcJM3i3iqewjjR-K3TgUWwbtBpFbizJ89hB3Tqoo1dt5ET6njjGzpfycN6EmWBo1fWbDPPVa8oo8QW4pGdho5mFBDebxygKJmZZo2hpt5og62ut5YT4wtZ4QeoBKoywaHFiqD7qJcWFT7kZ7JrNKipT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36600 	- VILLENTROIS FAVEROLLES EN BERRY](https://docs.stopcoronavirus.tech/r/markdown/36600_villentrois-faverolles-en-berry/4XTTMDgAnxBwzZqj9fSsksmdp9MDYXcwRPCd8u71QUxbXGUQm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36600 	- VILLENTROIS FAVEROLLES EN BERRY](https://docs.stopcoronavirus.tech/w/markdown/36600_villentrois-faverolles-en-berry/4XTTMDgAnxBwzZqj9fSsksmdp9MDYXcwRPCd8u71QUxbXGUQm-K3TgUwh3AhKEXFGvx9cFiNgkN4rNF3mgT9rX1cX8RjttkT5sSBWHNthGTXqc3oCUAcEJPFfVHaAJPMyCVh9VH4npEp2cJz1nwE33jYYx2GhpEm17EcX73sRNxAaxVu5MeLecMTem) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36600 	- VILLENTROIS FAVEROLLES EN BERRY](https://docs.stopcoronavirus.tech/#/r/markdown/36600_villentrois-faverolles-en-berry/4XTTMDgAnxBwzZqj9fSsksmdp9MDYXcwRPCd8u71QUxbXGUQm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36600 	- VILLENTROIS FAVEROLLES EN BERRY](https://docs.stopcoronavirus.tech/#/w/markdown/36600_villentrois-faverolles-en-berry/4XTTMDgAnxBwzZqj9fSsksmdp9MDYXcwRPCd8u71QUxbXGUQm-K3TgUwh3AhKEXFGvx9cFiNgkN4rNF3mgT9rX1cX8RjttkT5sSBWHNthGTXqc3oCUAcEJPFfVHaAJPMyCVh9VH4npEp2cJz1nwE33jYYx2GhpEm17EcX73sRNxAaxVu5MeLecMTem) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

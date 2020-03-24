@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53440 	- MARCILLE LA VILLE](https://docs.stopcoronavirus.tech/r/markdown/53440_marcille-la-ville/4XTTM8diVp7kD54D5R38iM74qmE7UHSFaLNiJ8vk8PiC6tEqT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53440 	- MARCILLE LA VILLE](https://docs.stopcoronavirus.tech/w/markdown/53440_marcille-la-ville/4XTTM8diVp7kD54D5R38iM74qmE7UHSFaLNiJ8vk8PiC6tEqT-K3TgTgMwurwYzMtTzChkbQyNBVwCxbX8nkSW89tuGFTijakevcX2JUfD5z1mbUBSbX94rN2VjitEob2hctReztiwLuiXoBotFr2XxTqmWwwS8NCE1dSyMriJrmfZZ3UJxT2dNaQu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53440 	- MARCILLE LA VILLE](https://docs.stopcoronavirus.tech/#/r/markdown/53440_marcille-la-ville/4XTTM8diVp7kD54D5R38iM74qmE7UHSFaLNiJ8vk8PiC6tEqT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53440 	- MARCILLE LA VILLE](https://docs.stopcoronavirus.tech/#/w/markdown/53440_marcille-la-ville/4XTTM8diVp7kD54D5R38iM74qmE7UHSFaLNiJ8vk8PiC6tEqT-K3TgTgMwurwYzMtTzChkbQyNBVwCxbX8nkSW89tuGFTijakevcX2JUfD5z1mbUBSbX94rN2VjitEob2hctReztiwLuiXoBotFr2XxTqmWwwS8NCE1dSyMriJrmfZZ3UJxT2dNaQu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

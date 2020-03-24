@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71960 	- FUISSE](https://docs.stopcoronavirus.tech/r/markdown/71960_fuisse/4XTTM1gzwi9boYorbcpYWhuMmnBACLscDxj9WBaT9xFqUmsMc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71960 	- FUISSE](https://docs.stopcoronavirus.tech/w/markdown/71960_fuisse/4XTTM1gzwi9boYorbcpYWhuMmnBACLscDxj9WBaT9xFqUmsMc-K3TgV3B8x79Pmow9zyA355v7QjD6CJKjLZpjZntMtRQkvJv9Tzpt1uAWLk8qfhi4jtCPrXDBMUAeqoLwFicdgEYbvL4rzMFAkRhWMq6nCZ58q6ihQ6PBJV7fXJEvCwM9DMXnrUdQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71960 	- FUISSE](https://docs.stopcoronavirus.tech/#/r/markdown/71960_fuisse/4XTTM1gzwi9boYorbcpYWhuMmnBACLscDxj9WBaT9xFqUmsMc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71960 	- FUISSE](https://docs.stopcoronavirus.tech/#/w/markdown/71960_fuisse/4XTTM1gzwi9boYorbcpYWhuMmnBACLscDxj9WBaT9xFqUmsMc-K3TgV3B8x79Pmow9zyA355v7QjD6CJKjLZpjZntMtRQkvJv9Tzpt1uAWLk8qfhi4jtCPrXDBMUAeqoLwFicdgEYbvL4rzMFAkRhWMq6nCZ58q6ihQ6PBJV7fXJEvCwM9DMXnrUdQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

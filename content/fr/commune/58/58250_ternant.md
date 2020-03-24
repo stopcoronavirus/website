@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 58250 	- TERNANT](https://docs.stopcoronavirus.tech/r/markdown/58250_ternant/4XTTMBgoD21B2Ki2QRAZtNE5cXAykYWBg1GPbtkpfMrg1BWQB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58250 	- TERNANT](https://docs.stopcoronavirus.tech/w/markdown/58250_ternant/4XTTMBgoD21B2Ki2QRAZtNE5cXAykYWBg1GPbtkpfMrg1BWQB-K3TgTt44cgwqz7Z61qigaxbstUj1aRWsM199FKri3pMtGUWk4QtH2d1UQtrDRgo2DXhoBT9HNCqdT8hS9dcz6DKaQwHevD9wVud9sx22C2q32DwfrxHNzgpE2MKQm3BoBcSsoCwD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58250 	- TERNANT](https://docs.stopcoronavirus.tech/#/r/markdown/58250_ternant/4XTTMBgoD21B2Ki2QRAZtNE5cXAykYWBg1GPbtkpfMrg1BWQB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58250 	- TERNANT](https://docs.stopcoronavirus.tech/#/w/markdown/58250_ternant/4XTTMBgoD21B2Ki2QRAZtNE5cXAykYWBg1GPbtkpfMrg1BWQB-K3TgTt44cgwqz7Z61qigaxbstUj1aRWsM199FKri3pMtGUWk4QtH2d1UQtrDRgo2DXhoBT9HNCqdT8hS9dcz6DKaQwHevD9wVud9sx22C2q32DwfrxHNzgpE2MKQm3BoBcSsoCwD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

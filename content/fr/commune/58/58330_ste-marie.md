@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 58330 	- STE MARIE](https://docs.stopcoronavirus.tech/r/markdown/58330_ste-marie/4XTTMDZ85V2vAkmMC421PQPEy1ZmBAdY1h4kUS1cWN6CRdpGU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58330 	- STE MARIE](https://docs.stopcoronavirus.tech/w/markdown/58330_ste-marie/4XTTMDZ85V2vAkmMC421PQPEy1ZmBAdY1h4kUS1cWN6CRdpGU-K3TgU5zUusGgt9ea58cjceNDmapFCwRCP5XSZ69H2rMyRSVKgwc6Usc7LM1Tc2Z8RYXPrFuGFML2XmpowYxnBEjKZ9Uv5cGh5sfKvvFBwgThxLWZCNtuAxEw45DtkSn8Ss5C2HnL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58330 	- STE MARIE](https://docs.stopcoronavirus.tech/#/r/markdown/58330_ste-marie/4XTTMDZ85V2vAkmMC421PQPEy1ZmBAdY1h4kUS1cWN6CRdpGU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58330 	- STE MARIE](https://docs.stopcoronavirus.tech/#/w/markdown/58330_ste-marie/4XTTMDZ85V2vAkmMC421PQPEy1ZmBAdY1h4kUS1cWN6CRdpGU-K3TgU5zUusGgt9ea58cjceNDmapFCwRCP5XSZ69H2rMyRSVKgwc6Usc7LM1Tc2Z8RYXPrFuGFML2XmpowYxnBEjKZ9Uv5cGh5sfKvvFBwgThxLWZCNtuAxEw45DtkSn8Ss5C2HnL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

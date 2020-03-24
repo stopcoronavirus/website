@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88700 	- ROMONT](https://docs.stopcoronavirus.tech/r/markdown/88700_romont/4XTTM6c5uvSfHQ3AwPUPCZaMVw4A67J1iG8Q2f3LMvRexxjpH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88700 	- ROMONT](https://docs.stopcoronavirus.tech/w/markdown/88700_romont/4XTTM6c5uvSfHQ3AwPUPCZaMVw4A67J1iG8Q2f3LMvRexxjpH-K3TgUHu82kkwbVpwdZvomvg71yfpMSZLmsk82eSa9mqxDU4hyj4ZQhMWZPbrXjpxoSpdzJbR3XhNVZ94UVjpmzTB4LTPhPKohGP35dgaqoLPebFj57x9fJ5EpqYA5aPgoKEiuApD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88700 	- ROMONT](https://docs.stopcoronavirus.tech/#/r/markdown/88700_romont/4XTTM6c5uvSfHQ3AwPUPCZaMVw4A67J1iG8Q2f3LMvRexxjpH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88700 	- ROMONT](https://docs.stopcoronavirus.tech/#/w/markdown/88700_romont/4XTTM6c5uvSfHQ3AwPUPCZaMVw4A67J1iG8Q2f3LMvRexxjpH-K3TgUHu82kkwbVpwdZvomvg71yfpMSZLmsk82eSa9mqxDU4hyj4ZQhMWZPbrXjpxoSpdzJbR3XhNVZ94UVjpmzTB4LTPhPKohGP35dgaqoLPebFj57x9fJ5EpqYA5aPgoKEiuApD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28290 	- COMMUNE NOUVELLE D ARROU](https://docs.stopcoronavirus.tech/r/markdown/28290_commune-nouvelle-d-arrou/4XTTMGJ1AE3Gjtprmv2PxBc2AzAKi6P2RQT6qZEtB7WJa2vrg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28290 	- COMMUNE NOUVELLE D ARROU](https://docs.stopcoronavirus.tech/w/markdown/28290_commune-nouvelle-d-arrou/4XTTMGJ1AE3Gjtprmv2PxBc2AzAKi6P2RQT6qZEtB7WJa2vrg-K3TgTqYcMVbN4nmpyvuvXaUJvNrLav2o6iite7JicDtzx56ckvKkMXXm33sU2Fy9fiZv72cDKTTV5h4jbyJ1pbHnL61CW89WQz7L5y5SemYxHbpdV6NRZ3DvZwxapNtP2qJneidi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28290 	- COMMUNE NOUVELLE D ARROU](https://docs.stopcoronavirus.tech/#/r/markdown/28290_commune-nouvelle-d-arrou/4XTTMGJ1AE3Gjtprmv2PxBc2AzAKi6P2RQT6qZEtB7WJa2vrg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28290 	- COMMUNE NOUVELLE D ARROU](https://docs.stopcoronavirus.tech/#/w/markdown/28290_commune-nouvelle-d-arrou/4XTTMGJ1AE3Gjtprmv2PxBc2AzAKi6P2RQT6qZEtB7WJa2vrg-K3TgTqYcMVbN4nmpyvuvXaUJvNrLav2o6iite7JicDtzx56ckvKkMXXm33sU2Fy9fiZv72cDKTTV5h4jbyJ1pbHnL61CW89WQz7L5y5SemYxHbpdV6NRZ3DvZwxapNtP2qJneidi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

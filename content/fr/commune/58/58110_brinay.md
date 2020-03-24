@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 58110 	- BRINAY](https://docs.stopcoronavirus.tech/r/markdown/58110_brinay/4XTTMG862hjyaKdwwMm99ihJRL9UbNNmyt6YUEqhu5XTUGXd6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58110 	- BRINAY](https://docs.stopcoronavirus.tech/w/markdown/58110_brinay/4XTTMG862hjyaKdwwMm99ihJRL9UbNNmyt6YUEqhu5XTUGXd6-K3TgUJpeQ5un7WN2DatUNWBDVQNq4VG16QxJju1Jn4AsGB5C8GEi4M9YFQQgsb8LPiEAk56VoUzAZMtUbL6sh4G4qHo3xcsjEz92FNv2WZaczwzu8EfYT9w1tnYBtSidNU1SYSTW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58110 	- BRINAY](https://docs.stopcoronavirus.tech/#/r/markdown/58110_brinay/4XTTMG862hjyaKdwwMm99ihJRL9UbNNmyt6YUEqhu5XTUGXd6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58110 	- BRINAY](https://docs.stopcoronavirus.tech/#/w/markdown/58110_brinay/4XTTMG862hjyaKdwwMm99ihJRL9UbNNmyt6YUEqhu5XTUGXd6-K3TgUJpeQ5un7WN2DatUNWBDVQNq4VG16QxJju1Jn4AsGB5C8GEi4M9YFQQgsb8LPiEAk56VoUzAZMtUbL6sh4G4qHo3xcsjEz92FNv2WZaczwzu8EfYT9w1tnYBtSidNU1SYSTW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

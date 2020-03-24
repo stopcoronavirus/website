@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85800 	- GIVRAND](https://docs.stopcoronavirus.tech/r/markdown/85800_givrand/4XTTMGZHZk6EpEYEgBzhx7JzdEbvhYdLEGQ8pyhrvU4XGFWYZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85800 	- GIVRAND](https://docs.stopcoronavirus.tech/w/markdown/85800_givrand/4XTTMGZHZk6EpEYEgBzhx7JzdEbvhYdLEGQ8pyhrvU4XGFWYZ-K3TgUGWs6iQ4SAvknym5gdaW2PGTAta8yfpCd1cSPXUxzi1Kgh9hs4hyVwsFwdUsb6UqWrV1Mb7BM2q9MpzNtpJdHQRd5Rt9LnUgiS48XSum5uYtvU9S3Jjit5vpiqRnZEBNhsKo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85800 	- GIVRAND](https://docs.stopcoronavirus.tech/#/r/markdown/85800_givrand/4XTTMGZHZk6EpEYEgBzhx7JzdEbvhYdLEGQ8pyhrvU4XGFWYZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85800 	- GIVRAND](https://docs.stopcoronavirus.tech/#/w/markdown/85800_givrand/4XTTMGZHZk6EpEYEgBzhx7JzdEbvhYdLEGQ8pyhrvU4XGFWYZ-K3TgUGWs6iQ4SAvknym5gdaW2PGTAta8yfpCd1cSPXUxzi1Kgh9hs4hyVwsFwdUsb6UqWrV1Mb7BM2q9MpzNtpJdHQRd5Rt9LnUgiS48XSum5uYtvU9S3Jjit5vpiqRnZEBNhsKo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

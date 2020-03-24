@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 74540 	- VIUZ LA CHIESAZ](https://docs.stopcoronavirus.tech/r/markdown/74540_viuz-la-chiesaz/4XTTM8Tr2esTGLM6L7Zyc46uE5NontmkySFgsbuVJcZdCPbEj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74540 	- VIUZ LA CHIESAZ](https://docs.stopcoronavirus.tech/w/markdown/74540_viuz-la-chiesaz/4XTTM8Tr2esTGLM6L7Zyc46uE5NontmkySFgsbuVJcZdCPbEj-K3TgUWx9fqhqrVD9CpnDSWYXHMxk73ijVT1nQGD86HUD5TeR77NxH5PdL75rWbUcJvYB8m8oA1UN4HkpdQEDDttQJF84tyyAZZHDKVivQ6d5Ksvq1bXRKA7ceUrbjAS7yDF2mG6P) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74540 	- VIUZ LA CHIESAZ](https://docs.stopcoronavirus.tech/#/r/markdown/74540_viuz-la-chiesaz/4XTTM8Tr2esTGLM6L7Zyc46uE5NontmkySFgsbuVJcZdCPbEj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74540 	- VIUZ LA CHIESAZ](https://docs.stopcoronavirus.tech/#/w/markdown/74540_viuz-la-chiesaz/4XTTM8Tr2esTGLM6L7Zyc46uE5NontmkySFgsbuVJcZdCPbEj-K3TgUWx9fqhqrVD9CpnDSWYXHMxk73ijVT1nQGD86HUD5TeR77NxH5PdL75rWbUcJvYB8m8oA1UN4HkpdQEDDttQJF84tyyAZZHDKVivQ6d5Ksvq1bXRKA7ceUrbjAS7yDF2mG6P) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

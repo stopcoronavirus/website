@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 43500 	- ST PAL DE CHALENCON](https://docs.stopcoronavirus.tech/r/markdown/43500_st-pal-de-chalencon/4XTTM6AhgWJ3tQbefEhtYgvdBFpSrLWP7LpzYytnn4LVzBnPb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43500 	- ST PAL DE CHALENCON](https://docs.stopcoronavirus.tech/w/markdown/43500_st-pal-de-chalencon/4XTTM6AhgWJ3tQbefEhtYgvdBFpSrLWP7LpzYytnn4LVzBnPb-K3TgUvqY5S49R2CZkn1KXY6dXcd8RhgRCufRR7YjMsGFBSbwFeFKFNLtBJaCa1RPSqfPs55SxQQA3HXH78f7D76RPTrW61KC4a2Woka6rDW9pJDaNRUGh6ygAS7D3fAJZTyY7uH3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43500 	- ST PAL DE CHALENCON](https://docs.stopcoronavirus.tech/#/r/markdown/43500_st-pal-de-chalencon/4XTTM6AhgWJ3tQbefEhtYgvdBFpSrLWP7LpzYytnn4LVzBnPb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43500 	- ST PAL DE CHALENCON](https://docs.stopcoronavirus.tech/#/w/markdown/43500_st-pal-de-chalencon/4XTTM6AhgWJ3tQbefEhtYgvdBFpSrLWP7LpzYytnn4LVzBnPb-K3TgUvqY5S49R2CZkn1KXY6dXcd8RhgRCufRR7YjMsGFBSbwFeFKFNLtBJaCa1RPSqfPs55SxQQA3HXH78f7D76RPTrW61KC4a2Woka6rDW9pJDaNRUGh6ygAS7D3fAJZTyY7uH3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

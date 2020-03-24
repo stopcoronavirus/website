@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27400 	- HOUETTEVILLE](https://docs.stopcoronavirus.tech/r/markdown/27400_houetteville/4XTTMFuHeJVTx1t7u273RdSbYWaDnp4bn8pzzSd4NBvz7Ymff) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27400 	- HOUETTEVILLE](https://docs.stopcoronavirus.tech/w/markdown/27400_houetteville/4XTTMFuHeJVTx1t7u273RdSbYWaDnp4bn8pzzSd4NBvz7Ymff-K3TgUUYoPA9MnMMrKMbJw8HHQK7exZZzTTSVgbv1XXss5JCuYQxmpWsU5ZDE99oyg4MkvozYECGJZ9hKv89FXMFtRkB6QM9B9GjJqBZspE86WD1p6peeZt3P4Bu7kRHDCoR1PnZ7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27400 	- HOUETTEVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/27400_houetteville/4XTTMFuHeJVTx1t7u273RdSbYWaDnp4bn8pzzSd4NBvz7Ymff) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27400 	- HOUETTEVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/27400_houetteville/4XTTMFuHeJVTx1t7u273RdSbYWaDnp4bn8pzzSd4NBvz7Ymff-K3TgUUYoPA9MnMMrKMbJw8HHQK7exZZzTTSVgbv1XXss5JCuYQxmpWsU5ZDE99oyg4MkvozYECGJZ9hKv89FXMFtRkB6QM9B9GjJqBZspE86WD1p6peeZt3P4Bu7kRHDCoR1PnZ7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71430 	- ST BONNET DE VIEILLE VIGNE](https://docs.stopcoronavirus.tech/r/markdown/71430_st-bonnet-de-vieille-vigne/4XTTMDKkS5yiiJs1z8p9uABeqwdfWNq5BCQsGRYMnmshjJ1NS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71430 	- ST BONNET DE VIEILLE VIGNE](https://docs.stopcoronavirus.tech/w/markdown/71430_st-bonnet-de-vieille-vigne/4XTTMDKkS5yiiJs1z8p9uABeqwdfWNq5BCQsGRYMnmshjJ1NS-K3TgUivGaJS1hw4sisoTcvPkpgU1gs3z9a5TMXFiGy81PgvHZcSh3EN2uqsYUb9kgtmuSYsEjZYMsGQPByEPakFGZJgebLGVBFURYFeLy1Wy53pmpSCXied1r4WBrmseyxiRguBQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71430 	- ST BONNET DE VIEILLE VIGNE](https://docs.stopcoronavirus.tech/#/r/markdown/71430_st-bonnet-de-vieille-vigne/4XTTMDKkS5yiiJs1z8p9uABeqwdfWNq5BCQsGRYMnmshjJ1NS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71430 	- ST BONNET DE VIEILLE VIGNE](https://docs.stopcoronavirus.tech/#/w/markdown/71430_st-bonnet-de-vieille-vigne/4XTTMDKkS5yiiJs1z8p9uABeqwdfWNq5BCQsGRYMnmshjJ1NS-K3TgUivGaJS1hw4sisoTcvPkpgU1gs3z9a5TMXFiGy81PgvHZcSh3EN2uqsYUb9kgtmuSYsEjZYMsGQPByEPakFGZJgebLGVBFURYFeLy1Wy53pmpSCXied1r4WBrmseyxiRguBQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

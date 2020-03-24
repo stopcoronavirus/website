@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36230 	- NEUVY ST SEPULCHRE](https://docs.stopcoronavirus.tech/r/markdown/36230_neuvy-st-sepulchre/4XTTM58yQ5y9HCwK9WVH29AvCJ3CDPGL8nCqMeXNmUHTASaNs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36230 	- NEUVY ST SEPULCHRE](https://docs.stopcoronavirus.tech/w/markdown/36230_neuvy-st-sepulchre/4XTTM58yQ5y9HCwK9WVH29AvCJ3CDPGL8nCqMeXNmUHTASaNs-K3TgUndQpQeDMHyYH4xtW5j3hZdLkCmaK2FJAMDaJ6dttavBEgsRfdGBPTBBLsJecZ8649v4dvvjpsTpWNwSHFXAAXXyFgDVTv2pXGX58b6udZ2rjfWGpTRbZKGhow6oMui7x6RM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36230 	- NEUVY ST SEPULCHRE](https://docs.stopcoronavirus.tech/#/r/markdown/36230_neuvy-st-sepulchre/4XTTM58yQ5y9HCwK9WVH29AvCJ3CDPGL8nCqMeXNmUHTASaNs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36230 	- NEUVY ST SEPULCHRE](https://docs.stopcoronavirus.tech/#/w/markdown/36230_neuvy-st-sepulchre/4XTTM58yQ5y9HCwK9WVH29AvCJ3CDPGL8nCqMeXNmUHTASaNs-K3TgUndQpQeDMHyYH4xtW5j3hZdLkCmaK2FJAMDaJ6dttavBEgsRfdGBPTBBLsJecZ8649v4dvvjpsTpWNwSHFXAAXXyFgDVTv2pXGX58b6udZ2rjfWGpTRbZKGhow6oMui7x6RM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60250 	- MOUCHY LE CHATEL](https://docs.stopcoronavirus.tech/r/markdown/60250_mouchy-le-chatel/4XTTM2vda7LLmww7xuhVZTh79VVT5sYTbA4V8b1ZNCKDhtv6L) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60250 	- MOUCHY LE CHATEL](https://docs.stopcoronavirus.tech/w/markdown/60250_mouchy-le-chatel/4XTTM2vda7LLmww7xuhVZTh79VVT5sYTbA4V8b1ZNCKDhtv6L-K3TgUkjoiWCE9WZaUMz6ZC4oCQtkT1b4WBeHLp1GdDrbjDvQDtY5ZaHtwgTUuvQiXRVB8BUXai5KnCdaS1HNAuUpxtdAZJSjFDKBgXarCMhZwzChCqdQ3i68DbDX7M69VXzNdCmE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60250 	- MOUCHY LE CHATEL](https://docs.stopcoronavirus.tech/#/r/markdown/60250_mouchy-le-chatel/4XTTM2vda7LLmww7xuhVZTh79VVT5sYTbA4V8b1ZNCKDhtv6L) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60250 	- MOUCHY LE CHATEL](https://docs.stopcoronavirus.tech/#/w/markdown/60250_mouchy-le-chatel/4XTTM2vda7LLmww7xuhVZTh79VVT5sYTbA4V8b1ZNCKDhtv6L-K3TgUkjoiWCE9WZaUMz6ZC4oCQtkT1b4WBeHLp1GdDrbjDvQDtY5ZaHtwgTUuvQiXRVB8BUXai5KnCdaS1HNAuUpxtdAZJSjFDKBgXarCMhZwzChCqdQ3i68DbDX7M69VXzNdCmE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

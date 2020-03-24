@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 34220 	- VERRERIES DE MOUSSANS](https://docs.stopcoronavirus.tech/r/markdown/34220_verreries-de-moussans/4XTTM4EBcYWsQ7TKoqNz6muLwYSt4BRydDjELP6fASvkf5Yw4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34220 	- VERRERIES DE MOUSSANS](https://docs.stopcoronavirus.tech/w/markdown/34220_verreries-de-moussans/4XTTM4EBcYWsQ7TKoqNz6muLwYSt4BRydDjELP6fASvkf5Yw4-K3TgUqk6N8APAF8kDcdsWdy1G9pDsnFSxPUs6Q19zsaVdxZWsfXBqsoJ5CQagiizFufzyL9eAJAGyyQu7nQSrxPGg3c8wzV7F4GzALtfFJcwkaDiUciZzNFwcV9zo7v8wgVU9rmp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34220 	- VERRERIES DE MOUSSANS](https://docs.stopcoronavirus.tech/#/r/markdown/34220_verreries-de-moussans/4XTTM4EBcYWsQ7TKoqNz6muLwYSt4BRydDjELP6fASvkf5Yw4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34220 	- VERRERIES DE MOUSSANS](https://docs.stopcoronavirus.tech/#/w/markdown/34220_verreries-de-moussans/4XTTM4EBcYWsQ7TKoqNz6muLwYSt4BRydDjELP6fASvkf5Yw4-K3TgUqk6N8APAF8kDcdsWdy1G9pDsnFSxPUs6Q19zsaVdxZWsfXBqsoJ5CQagiizFufzyL9eAJAGyyQu7nQSrxPGg3c8wzV7F4GzALtfFJcwkaDiUciZzNFwcV9zo7v8wgVU9rmp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 63190 	- ST JEAN D HEURS](https://docs.stopcoronavirus.tech/r/markdown/63190_st-jean-d-heurs/4XTTMBd2H3Rek6L36bRPjNQ92nVnTAGAapf6fHnMbhW2iRaps) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63190 	- ST JEAN D HEURS](https://docs.stopcoronavirus.tech/w/markdown/63190_st-jean-d-heurs/4XTTMBd2H3Rek6L36bRPjNQ92nVnTAGAapf6fHnMbhW2iRaps-K3TgU5mgA3BQMPGnLV12uDxJJB7a63hu374GADL2xPHZLezo7WzUrJtLFXMz3SikWfmzjF9aY6ehvLsDaYTJjQv2zs6xSQH2JsRGgbnCNUpXj8c5tmsRDBXFxgXqtcLAJxfWfAWP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63190 	- ST JEAN D HEURS](https://docs.stopcoronavirus.tech/#/r/markdown/63190_st-jean-d-heurs/4XTTMBd2H3Rek6L36bRPjNQ92nVnTAGAapf6fHnMbhW2iRaps) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63190 	- ST JEAN D HEURS](https://docs.stopcoronavirus.tech/#/w/markdown/63190_st-jean-d-heurs/4XTTMBd2H3Rek6L36bRPjNQ92nVnTAGAapf6fHnMbhW2iRaps-K3TgU5mgA3BQMPGnLV12uDxJJB7a63hu374GADL2xPHZLezo7WzUrJtLFXMz3SikWfmzjF9aY6ehvLsDaYTJjQv2zs6xSQH2JsRGgbnCNUpXj8c5tmsRDBXFxgXqtcLAJxfWfAWP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33750 	- ST QUENTIN DE BARON](https://docs.stopcoronavirus.tech/r/markdown/33750_st-quentin-de-baron/4XTTM2EteU39Byc73Ck4v5tmhgcw6QUS3c83k83xG8Hee3qWC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33750 	- ST QUENTIN DE BARON](https://docs.stopcoronavirus.tech/w/markdown/33750_st-quentin-de-baron/4XTTM2EteU39Byc73Ck4v5tmhgcw6QUS3c83k83xG8Hee3qWC-K3TgUsMHYFhPSv69pZaKCNeCWam7MFzetibuGZR4agaP3AbKMwNvF7kZXEyAAHyKXnb8HgcrhvsDJihxp2p2jYPWV9f4qXSreDij13xQ8JCoVAcYA5k2oK2rhQbkUosb1bxFLRLx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33750 	- ST QUENTIN DE BARON](https://docs.stopcoronavirus.tech/#/r/markdown/33750_st-quentin-de-baron/4XTTM2EteU39Byc73Ck4v5tmhgcw6QUS3c83k83xG8Hee3qWC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33750 	- ST QUENTIN DE BARON](https://docs.stopcoronavirus.tech/#/w/markdown/33750_st-quentin-de-baron/4XTTM2EteU39Byc73Ck4v5tmhgcw6QUS3c83k83xG8Hee3qWC-K3TgUsMHYFhPSv69pZaKCNeCWam7MFzetibuGZR4agaP3AbKMwNvF7kZXEyAAHyKXnb8HgcrhvsDJihxp2p2jYPWV9f4qXSreDij13xQ8JCoVAcYA5k2oK2rhQbkUosb1bxFLRLx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33590 	- ST VIVIEN DE MEDOC](https://docs.stopcoronavirus.tech/r/markdown/33590_st-vivien-de-medoc/4XTTM6dFv8vsBWnpSjb13o8Vh8yAa72BaoUDtvxLwppxgKV65) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33590 	- ST VIVIEN DE MEDOC](https://docs.stopcoronavirus.tech/w/markdown/33590_st-vivien-de-medoc/4XTTM6dFv8vsBWnpSjb13o8Vh8yAa72BaoUDtvxLwppxgKV65-K3TgU1G3p8LG1b4wLfC5e4S23uMDAaicgduNMv2w6tVLXVX3XzqATTJ87vB6p7c983kShL3T4jMkEkE6AUfPk79UXxb12NQB5FTADfKxcRPtBLXpm1AvYerYBANbFxBLDcX9kDVw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33590 	- ST VIVIEN DE MEDOC](https://docs.stopcoronavirus.tech/#/r/markdown/33590_st-vivien-de-medoc/4XTTM6dFv8vsBWnpSjb13o8Vh8yAa72BaoUDtvxLwppxgKV65) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33590 	- ST VIVIEN DE MEDOC](https://docs.stopcoronavirus.tech/#/w/markdown/33590_st-vivien-de-medoc/4XTTM6dFv8vsBWnpSjb13o8Vh8yAa72BaoUDtvxLwppxgKV65-K3TgU1G3p8LG1b4wLfC5e4S23uMDAaicgduNMv2w6tVLXVX3XzqATTJ87vB6p7c983kShL3T4jMkEkE6AUfPk79UXxb12NQB5FTADfKxcRPtBLXpm1AvYerYBANbFxBLDcX9kDVw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

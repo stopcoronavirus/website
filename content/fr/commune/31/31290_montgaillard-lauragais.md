@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 31290 	- MONTGAILLARD LAURAGAIS](https://docs.stopcoronavirus.tech/r/markdown/31290_montgaillard-lauragais/4XTTMCSgrUUGGPJLcqW9pDxzGYcgZzpmqsxeYkQxbYseqzwvf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31290 	- MONTGAILLARD LAURAGAIS](https://docs.stopcoronavirus.tech/w/markdown/31290_montgaillard-lauragais/4XTTMCSgrUUGGPJLcqW9pDxzGYcgZzpmqsxeYkQxbYseqzwvf-K3TgUERG2j8qQHj9zXSp4XAs1p1a46fHsePcXnBaF9f4Y26GHMpzuMyz4Q4LsTB6aRpvJfAn5PVdK81QJH3vXozFCHn7Y9sr2iNMd8dQaRyJgvGpTs8KsB9JvMaCcT1q3HojVpsR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31290 	- MONTGAILLARD LAURAGAIS](https://docs.stopcoronavirus.tech/#/r/markdown/31290_montgaillard-lauragais/4XTTMCSgrUUGGPJLcqW9pDxzGYcgZzpmqsxeYkQxbYseqzwvf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31290 	- MONTGAILLARD LAURAGAIS](https://docs.stopcoronavirus.tech/#/w/markdown/31290_montgaillard-lauragais/4XTTMCSgrUUGGPJLcqW9pDxzGYcgZzpmqsxeYkQxbYseqzwvf-K3TgUERG2j8qQHj9zXSp4XAs1p1a46fHsePcXnBaF9f4Y26GHMpzuMyz4Q4LsTB6aRpvJfAn5PVdK81QJH3vXozFCHn7Y9sr2iNMd8dQaRyJgvGpTs8KsB9JvMaCcT1q3HojVpsR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

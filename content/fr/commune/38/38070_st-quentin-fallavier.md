@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38070 	- ST QUENTIN FALLAVIER](https://docs.stopcoronavirus.tech/r/markdown/38070_st-quentin-fallavier/4XTTM5wstng8qc6BWcDsb8vn9MATYme4wm4M8HmTBU4dN4o8R) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38070 	- ST QUENTIN FALLAVIER](https://docs.stopcoronavirus.tech/w/markdown/38070_st-quentin-fallavier/4XTTM5wstng8qc6BWcDsb8vn9MATYme4wm4M8HmTBU4dN4o8R-K3TgTxaU1eZybsnf7pQR7Qw3mArYejU2g8CAW7qHCh8iuTGVeNmdhnLhyeU8fvcn5QP7qAWxpdSQ8zKLeBX7MGRn837NXZKJABNiAZjhVGtfzctAu1Fokg9fJNoVs9VcoSM3PXYZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38070 	- ST QUENTIN FALLAVIER](https://docs.stopcoronavirus.tech/#/r/markdown/38070_st-quentin-fallavier/4XTTM5wstng8qc6BWcDsb8vn9MATYme4wm4M8HmTBU4dN4o8R) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38070 	- ST QUENTIN FALLAVIER](https://docs.stopcoronavirus.tech/#/w/markdown/38070_st-quentin-fallavier/4XTTM5wstng8qc6BWcDsb8vn9MATYme4wm4M8HmTBU4dN4o8R-K3TgTxaU1eZybsnf7pQR7Qw3mArYejU2g8CAW7qHCh8iuTGVeNmdhnLhyeU8fvcn5QP7qAWxpdSQ8zKLeBX7MGRn837NXZKJABNiAZjhVGtfzctAu1Fokg9fJNoVs9VcoSM3PXYZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

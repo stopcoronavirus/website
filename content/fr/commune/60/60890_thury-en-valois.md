@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60890 	- THURY EN VALOIS](https://docs.stopcoronavirus.tech/r/markdown/60890_thury-en-valois/4XTTM9tvRERqxPuiKR628f8EiyMiA2Zqaxre5sXZguhR4Qtnd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60890 	- THURY EN VALOIS](https://docs.stopcoronavirus.tech/w/markdown/60890_thury-en-valois/4XTTM9tvRERqxPuiKR628f8EiyMiA2Zqaxre5sXZguhR4Qtnd-K3TgTusBYv3Q5tBcK47NV8tBKLVgWMhuJE4QM9tKKWPXHxhb8f6qRfuqpNEcM7Eqgsd4wZSLh6qBGw5qLvU88uGGX4nQv9YaeW3R5nnfXgMkX6jqNucLtqFddwYcgpsYfKfRP9zH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60890 	- THURY EN VALOIS](https://docs.stopcoronavirus.tech/#/r/markdown/60890_thury-en-valois/4XTTM9tvRERqxPuiKR628f8EiyMiA2Zqaxre5sXZguhR4Qtnd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60890 	- THURY EN VALOIS](https://docs.stopcoronavirus.tech/#/w/markdown/60890_thury-en-valois/4XTTM9tvRERqxPuiKR628f8EiyMiA2Zqaxre5sXZguhR4Qtnd-K3TgTusBYv3Q5tBcK47NV8tBKLVgWMhuJE4QM9tKKWPXHxhb8f6qRfuqpNEcM7Eqgsd4wZSLh6qBGw5qLvU88uGGX4nQv9YaeW3R5nnfXgMkX6jqNucLtqFddwYcgpsYfKfRP9zH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

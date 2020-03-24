@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24460 	- SORGES ET LIGUEUX EN PERIGORD](https://docs.stopcoronavirus.tech/r/markdown/24460_sorges-et-ligueux-en-perigord/4XTTM9CDfvSm1txTF9GS7FNtBEvbGWp764e5crbK7dfJCeyN7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24460 	- SORGES ET LIGUEUX EN PERIGORD](https://docs.stopcoronavirus.tech/w/markdown/24460_sorges-et-ligueux-en-perigord/4XTTM9CDfvSm1txTF9GS7FNtBEvbGWp764e5crbK7dfJCeyN7-K3TgUMNig2by4eP1JMDU86S9uZmNGUzuDZMAp5zeGSb7V3pFhfrJ566Ga6dzYS2tnKJDHWz9D56k4ghKAEdKN9JMRhD529wi7bSm3jnXDBfAuZkdm3fQsdH1Gaw3fNdhvLHZZ52w) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24460 	- SORGES ET LIGUEUX EN PERIGORD](https://docs.stopcoronavirus.tech/#/r/markdown/24460_sorges-et-ligueux-en-perigord/4XTTM9CDfvSm1txTF9GS7FNtBEvbGWp764e5crbK7dfJCeyN7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24460 	- SORGES ET LIGUEUX EN PERIGORD](https://docs.stopcoronavirus.tech/#/w/markdown/24460_sorges-et-ligueux-en-perigord/4XTTM9CDfvSm1txTF9GS7FNtBEvbGWp764e5crbK7dfJCeyN7-K3TgUMNig2by4eP1JMDU86S9uZmNGUzuDZMAp5zeGSb7V3pFhfrJ566Ga6dzYS2tnKJDHWz9D56k4ghKAEdKN9JMRhD529wi7bSm3jnXDBfAuZkdm3fQsdH1Gaw3fNdhvLHZZ52w) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

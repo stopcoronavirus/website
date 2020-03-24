@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 56220 	- ST JACUT LES PINS](https://docs.stopcoronavirus.tech/r/markdown/56220_st-jacut-les-pins/4XTTMHi8SJTX96FbZ5DM1UMsGAswHDQDojte3EFUHUVJnP7xQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56220 	- ST JACUT LES PINS](https://docs.stopcoronavirus.tech/w/markdown/56220_st-jacut-les-pins/4XTTMHi8SJTX96FbZ5DM1UMsGAswHDQDojte3EFUHUVJnP7xQ-K3TgURcA1ssdUtemrZoZcvwd1de6dN4YherEWz2LZ1MTVCjCYDexh8uq5LVuZz5FXCiMv13LZjZUiF8RKz6z7jriLxSKd3mHAGemHCL4aRQ1tawULri2ijkGr5XrTbLsxxzEiYrx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56220 	- ST JACUT LES PINS](https://docs.stopcoronavirus.tech/#/r/markdown/56220_st-jacut-les-pins/4XTTMHi8SJTX96FbZ5DM1UMsGAswHDQDojte3EFUHUVJnP7xQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56220 	- ST JACUT LES PINS](https://docs.stopcoronavirus.tech/#/w/markdown/56220_st-jacut-les-pins/4XTTMHi8SJTX96FbZ5DM1UMsGAswHDQDojte3EFUHUVJnP7xQ-K3TgURcA1ssdUtemrZoZcvwd1de6dN4YherEWz2LZ1MTVCjCYDexh8uq5LVuZz5FXCiMv13LZjZUiF8RKz6z7jriLxSKd3mHAGemHCL4aRQ1tawULri2ijkGr5XrTbLsxxzEiYrx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

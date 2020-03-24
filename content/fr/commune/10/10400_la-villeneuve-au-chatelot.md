@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10400 	- LA VILLENEUVE AU CHATELOT](https://docs.stopcoronavirus.tech/r/markdown/10400_la-villeneuve-au-chatelot/4XTTM6gogJyzWazVPy53AmqrwKc7JBaQeVYqEsSEZSmfKWKN7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10400 	- LA VILLENEUVE AU CHATELOT](https://docs.stopcoronavirus.tech/w/markdown/10400_la-villeneuve-au-chatelot/4XTTM6gogJyzWazVPy53AmqrwKc7JBaQeVYqEsSEZSmfKWKN7-K3TgUZbkERAvb9Xtj7HpJqr57GyaN2fmSrcgWgpDfgUJPuhA6ntYpSJDRXBAc2K7de1HF5iKLcXUHwsLGiJa3uKP9cfzEyb1MMFc8S1HGxbDJDmhTTAC3zmkxx7w8robpAmEFxUX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10400 	- LA VILLENEUVE AU CHATELOT](https://docs.stopcoronavirus.tech/#/r/markdown/10400_la-villeneuve-au-chatelot/4XTTM6gogJyzWazVPy53AmqrwKc7JBaQeVYqEsSEZSmfKWKN7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10400 	- LA VILLENEUVE AU CHATELOT](https://docs.stopcoronavirus.tech/#/w/markdown/10400_la-villeneuve-au-chatelot/4XTTM6gogJyzWazVPy53AmqrwKc7JBaQeVYqEsSEZSmfKWKN7-K3TgUZbkERAvb9Xtj7HpJqr57GyaN2fmSrcgWgpDfgUJPuhA6ntYpSJDRXBAc2K7de1HF5iKLcXUHwsLGiJa3uKP9cfzEyb1MMFc8S1HGxbDJDmhTTAC3zmkxx7w8robpAmEFxUX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

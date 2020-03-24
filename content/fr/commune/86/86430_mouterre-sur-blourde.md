@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86430 	- MOUTERRE SUR BLOURDE](https://docs.stopcoronavirus.tech/r/markdown/86430_mouterre-sur-blourde/4XTTM6NFQci6db1UnEGeNGL39GAr2Jgyd6oxLEt17cYHL6EUr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86430 	- MOUTERRE SUR BLOURDE](https://docs.stopcoronavirus.tech/w/markdown/86430_mouterre-sur-blourde/4XTTM6NFQci6db1UnEGeNGL39GAr2Jgyd6oxLEt17cYHL6EUr-K3TgUr6NbuiowDUG355HwQsfhTbJPXezxqJ6P8VmrG7R8GbtyDgvUJqcqFgS8FbpwN3zFjR9JNuW2fQ2yB1isVLz3wodzGZ4BtzUzqXzpbBzuWKxtfdFpWt8BqAhAJtmrDGab5xN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86430 	- MOUTERRE SUR BLOURDE](https://docs.stopcoronavirus.tech/#/r/markdown/86430_mouterre-sur-blourde/4XTTM6NFQci6db1UnEGeNGL39GAr2Jgyd6oxLEt17cYHL6EUr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86430 	- MOUTERRE SUR BLOURDE](https://docs.stopcoronavirus.tech/#/w/markdown/86430_mouterre-sur-blourde/4XTTM6NFQci6db1UnEGeNGL39GAr2Jgyd6oxLEt17cYHL6EUr-K3TgUr6NbuiowDUG355HwQsfhTbJPXezxqJ6P8VmrG7R8GbtyDgvUJqcqFgS8FbpwN3zFjR9JNuW2fQ2yB1isVLz3wodzGZ4BtzUzqXzpbBzuWKxtfdFpWt8BqAhAJtmrDGab5xN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

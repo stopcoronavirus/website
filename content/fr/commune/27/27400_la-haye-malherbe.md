@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27400 	- LA HAYE MALHERBE](https://docs.stopcoronavirus.tech/r/markdown/27400_la-haye-malherbe/4XTTM6RxwKJEYQqagjRXD8SfcBjePrhQMywiGc9ZtGJ4PCpYY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27400 	- LA HAYE MALHERBE](https://docs.stopcoronavirus.tech/w/markdown/27400_la-haye-malherbe/4XTTM6RxwKJEYQqagjRXD8SfcBjePrhQMywiGc9ZtGJ4PCpYY-K3TgV8LHmxCNUVwQZmeSexEvkgr9qeLUJBbeUQZoqF6CVowcUh9Jui7a7GPAffb6eafj6foSqwhNLCgwnGDmzAdEYTpQySNcYfcb9poBRQ2FM6xcjBgJx8XMp9ykofC8i9FLTivt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27400 	- LA HAYE MALHERBE](https://docs.stopcoronavirus.tech/#/r/markdown/27400_la-haye-malherbe/4XTTM6RxwKJEYQqagjRXD8SfcBjePrhQMywiGc9ZtGJ4PCpYY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27400 	- LA HAYE MALHERBE](https://docs.stopcoronavirus.tech/#/w/markdown/27400_la-haye-malherbe/4XTTM6RxwKJEYQqagjRXD8SfcBjePrhQMywiGc9ZtGJ4PCpYY-K3TgV8LHmxCNUVwQZmeSexEvkgr9qeLUJBbeUQZoqF6CVowcUh9Jui7a7GPAffb6eafj6foSqwhNLCgwnGDmzAdEYTpQySNcYfcb9poBRQ2FM6xcjBgJx8XMp9ykofC8i9FLTivt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

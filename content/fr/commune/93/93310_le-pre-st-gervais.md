@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 93310 	- LE PRE ST GERVAIS](https://docs.stopcoronavirus.tech/r/markdown/93310_le-pre-st-gervais/4XTTM9DqyUdRH3dyZUvzAtRgZLtwRNTBtm4hxDvVVtm7fxeCc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93310 	- LE PRE ST GERVAIS](https://docs.stopcoronavirus.tech/w/markdown/93310_le-pre-st-gervais/4XTTM9DqyUdRH3dyZUvzAtRgZLtwRNTBtm4hxDvVVtm7fxeCc-K3TgUdRLUaoZP5jeDmxnAjbJi1YhsJNC8u4vdQEUjaRbb74SLpMB7hoEcvc2Jzqh1kpmD9VhgAgCAodwPUTkHn8dg6Lf7DKwCrDaFrQvyLeBHsRC7fmCrRyX7XHqchM7HBBcBWse) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 93310 	- LE PRE ST GERVAIS](https://docs.stopcoronavirus.tech/#/r/markdown/93310_le-pre-st-gervais/4XTTM9DqyUdRH3dyZUvzAtRgZLtwRNTBtm4hxDvVVtm7fxeCc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 93310 	- LE PRE ST GERVAIS](https://docs.stopcoronavirus.tech/#/w/markdown/93310_le-pre-st-gervais/4XTTM9DqyUdRH3dyZUvzAtRgZLtwRNTBtm4hxDvVVtm7fxeCc-K3TgUdRLUaoZP5jeDmxnAjbJi1YhsJNC8u4vdQEUjaRbb74SLpMB7hoEcvc2Jzqh1kpmD9VhgAgCAodwPUTkHn8dg6Lf7DKwCrDaFrQvyLeBHsRC7fmCrRyX7XHqchM7HBBcBWse) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

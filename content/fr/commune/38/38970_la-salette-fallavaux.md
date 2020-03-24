@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38970 	- LA SALETTE FALLAVAUX](https://docs.stopcoronavirus.tech/r/markdown/38970_la-salette-fallavaux/4XTTMDWbXQVGUxZZq6hTSLvqDaKx3PYRiMXirWkDRfx7kLTFc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38970 	- LA SALETTE FALLAVAUX](https://docs.stopcoronavirus.tech/w/markdown/38970_la-salette-fallavaux/4XTTMDWbXQVGUxZZq6hTSLvqDaKx3PYRiMXirWkDRfx7kLTFc-K3TgTi4fNWNfm8AE9goKeo4na5Ct7K2AM6puE3NKUd8CSFseiibsprooY9wQApmpGzo4Q2pDkh8mTDsNvKCgfuUiSHuNmg4fRVDJ12s5qxYT8L4jL4fVcQskoNFUj3GfL93SnNuC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38970 	- LA SALETTE FALLAVAUX](https://docs.stopcoronavirus.tech/#/r/markdown/38970_la-salette-fallavaux/4XTTMDWbXQVGUxZZq6hTSLvqDaKx3PYRiMXirWkDRfx7kLTFc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38970 	- LA SALETTE FALLAVAUX](https://docs.stopcoronavirus.tech/#/w/markdown/38970_la-salette-fallavaux/4XTTMDWbXQVGUxZZq6hTSLvqDaKx3PYRiMXirWkDRfx7kLTFc-K3TgTi4fNWNfm8AE9goKeo4na5Ct7K2AM6puE3NKUd8CSFseiibsprooY9wQApmpGzo4Q2pDkh8mTDsNvKCgfuUiSHuNmg4fRVDJ12s5qxYT8L4jL4fVcQskoNFUj3GfL93SnNuC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

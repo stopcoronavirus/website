@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84830 	- SERIGNAN DU COMTAT](https://docs.stopcoronavirus.tech/r/markdown/84830_serignan-du-comtat/4XTTM3SXFzqnsrrkcdMW8c1GmGAJxDkM2PXvzFtN2NQF9nvte) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84830 	- SERIGNAN DU COMTAT](https://docs.stopcoronavirus.tech/w/markdown/84830_serignan-du-comtat/4XTTM3SXFzqnsrrkcdMW8c1GmGAJxDkM2PXvzFtN2NQF9nvte-K3TgUjFm7FrxDCEA6VmpTGpDyFsNGc5aoyVruBy7tdixPZFDUQrnFj1PCe7vA8nGpvJUsPaQo9GkZQdp4LurNdKqJkqGrEoDJH5LJvU16zi1uuHYaQuc1SKUfKsLRUcuRd2M9eBQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84830 	- SERIGNAN DU COMTAT](https://docs.stopcoronavirus.tech/#/r/markdown/84830_serignan-du-comtat/4XTTM3SXFzqnsrrkcdMW8c1GmGAJxDkM2PXvzFtN2NQF9nvte) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84830 	- SERIGNAN DU COMTAT](https://docs.stopcoronavirus.tech/#/w/markdown/84830_serignan-du-comtat/4XTTM3SXFzqnsrrkcdMW8c1GmGAJxDkM2PXvzFtN2NQF9nvte-K3TgUjFm7FrxDCEA6VmpTGpDyFsNGc5aoyVruBy7tdixPZFDUQrnFj1PCe7vA8nGpvJUsPaQo9GkZQdp4LurNdKqJkqGrEoDJH5LJvU16zi1uuHYaQuc1SKUfKsLRUcuRd2M9eBQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

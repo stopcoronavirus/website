@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42210 	- ST ANDRE LE PUY](https://docs.stopcoronavirus.tech/r/markdown/42210_st-andre-le-puy/4XTTM8FQyVkXQiTU2E47uiy1s6kx7uZ54tyEmRdqQoBKJbxv8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42210 	- ST ANDRE LE PUY](https://docs.stopcoronavirus.tech/w/markdown/42210_st-andre-le-puy/4XTTM8FQyVkXQiTU2E47uiy1s6kx7uZ54tyEmRdqQoBKJbxv8-K3TgUawP3UVxdEqonZBf5vjZXMWg8bbduXjuDWMWccn27AvNRiEBRoxkLTV8d4aPdDCQExYNWepAto36aZfocU5xpWNDkymwuF9t9imU6q9M9679spy97Vjfd3uLf2h53e4kx8C4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42210 	- ST ANDRE LE PUY](https://docs.stopcoronavirus.tech/#/r/markdown/42210_st-andre-le-puy/4XTTM8FQyVkXQiTU2E47uiy1s6kx7uZ54tyEmRdqQoBKJbxv8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42210 	- ST ANDRE LE PUY](https://docs.stopcoronavirus.tech/#/w/markdown/42210_st-andre-le-puy/4XTTM8FQyVkXQiTU2E47uiy1s6kx7uZ54tyEmRdqQoBKJbxv8-K3TgUawP3UVxdEqonZBf5vjZXMWg8bbduXjuDWMWccn27AvNRiEBRoxkLTV8d4aPdDCQExYNWepAto36aZfocU5xpWNDkymwuF9t9imU6q9M9679spy97Vjfd3uLf2h53e4kx8C4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

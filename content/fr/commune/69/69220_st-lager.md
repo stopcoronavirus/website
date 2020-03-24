@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69220 	- ST LAGER](https://docs.stopcoronavirus.tech/r/markdown/69220_st-lager/4XTTM4AyJFtbnvvpiAY5P7UDxa11Vt66XWPeQvJd73xp4EsvE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69220 	- ST LAGER](https://docs.stopcoronavirus.tech/w/markdown/69220_st-lager/4XTTM4AyJFtbnvvpiAY5P7UDxa11Vt66XWPeQvJd73xp4EsvE-K3TgTfuphNu3nLFQ3MP3QZHR6gxA18j7hTxhPJYUCEMHpftEgYcXH2q89CqYzxZPP3wJVh8DxH7i8ocfDmMTdVTvhzcBksYtqsQ6R87v96kmweCEfxeRPwRzKpfPDt1pVD3HXUte) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69220 	- ST LAGER](https://docs.stopcoronavirus.tech/#/r/markdown/69220_st-lager/4XTTM4AyJFtbnvvpiAY5P7UDxa11Vt66XWPeQvJd73xp4EsvE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69220 	- ST LAGER](https://docs.stopcoronavirus.tech/#/w/markdown/69220_st-lager/4XTTM4AyJFtbnvvpiAY5P7UDxa11Vt66XWPeQvJd73xp4EsvE-K3TgTfuphNu3nLFQ3MP3QZHR6gxA18j7hTxhPJYUCEMHpftEgYcXH2q89CqYzxZPP3wJVh8DxH7i8ocfDmMTdVTvhzcBksYtqsQ6R87v96kmweCEfxeRPwRzKpfPDt1pVD3HXUte) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

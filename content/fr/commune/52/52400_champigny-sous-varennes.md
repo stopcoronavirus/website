@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 52400 	- CHAMPIGNY SOUS VARENNES](https://docs.stopcoronavirus.tech/r/markdown/52400_champigny-sous-varennes/4XTTM1BJb68ACvQKVy3dwFV6JfTTqXXnzc6KvjQfYspUbZnwj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52400 	- CHAMPIGNY SOUS VARENNES](https://docs.stopcoronavirus.tech/w/markdown/52400_champigny-sous-varennes/4XTTM1BJb68ACvQKVy3dwFV6JfTTqXXnzc6KvjQfYspUbZnwj-K3TgTeGeRiVFSC4vNPcEraS4mMop1rQ5VC27q3oNZiC7i7BvLmNacJtre2SxVvtESWz57QKaJyVU2wS4Ez62RMn46P8wmMR9UqfZtEG8z4CUDQXCDqj3Fux1jDszafnwiMYkWdry) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52400 	- CHAMPIGNY SOUS VARENNES](https://docs.stopcoronavirus.tech/#/r/markdown/52400_champigny-sous-varennes/4XTTM1BJb68ACvQKVy3dwFV6JfTTqXXnzc6KvjQfYspUbZnwj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52400 	- CHAMPIGNY SOUS VARENNES](https://docs.stopcoronavirus.tech/#/w/markdown/52400_champigny-sous-varennes/4XTTM1BJb68ACvQKVy3dwFV6JfTTqXXnzc6KvjQfYspUbZnwj-K3TgTeGeRiVFSC4vNPcEraS4mMop1rQ5VC27q3oNZiC7i7BvLmNacJtre2SxVvtESWz57QKaJyVU2wS4Ez62RMn46P8wmMR9UqfZtEG8z4CUDQXCDqj3Fux1jDszafnwiMYkWdry) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

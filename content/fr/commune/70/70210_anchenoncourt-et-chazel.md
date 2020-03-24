@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70210 	- ANCHENONCOURT ET CHAZEL](https://docs.stopcoronavirus.tech/r/markdown/70210_anchenoncourt-et-chazel/4XTTMCk5dDSgn4XL51yccWTMAdJ5AwkxWRFdz4mJTYXgMVGCv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70210 	- ANCHENONCOURT ET CHAZEL](https://docs.stopcoronavirus.tech/w/markdown/70210_anchenoncourt-et-chazel/4XTTMCk5dDSgn4XL51yccWTMAdJ5AwkxWRFdz4mJTYXgMVGCv-K3TgUKvuhEycGRKNeFpT6mdNJFcf7msohNxM463xd6g1tdHR1AfEHw338e92Hu4yVwAL2CPGSW6t1U3RPSyzwuFT7yydamy1M9JUBTu3SxjPU4uYE2znu3hMYrPzdHMQXQX2Z21U) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70210 	- ANCHENONCOURT ET CHAZEL](https://docs.stopcoronavirus.tech/#/r/markdown/70210_anchenoncourt-et-chazel/4XTTMCk5dDSgn4XL51yccWTMAdJ5AwkxWRFdz4mJTYXgMVGCv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70210 	- ANCHENONCOURT ET CHAZEL](https://docs.stopcoronavirus.tech/#/w/markdown/70210_anchenoncourt-et-chazel/4XTTMCk5dDSgn4XL51yccWTMAdJ5AwkxWRFdz4mJTYXgMVGCv-K3TgUKvuhEycGRKNeFpT6mdNJFcf7msohNxM463xd6g1tdHR1AfEHw338e92Hu4yVwAL2CPGSW6t1U3RPSyzwuFT7yydamy1M9JUBTu3SxjPU4uYE2znu3hMYrPzdHMQXQX2Z21U) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

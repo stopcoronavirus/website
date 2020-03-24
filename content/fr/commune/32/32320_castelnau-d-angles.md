@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32320 	- CASTELNAU D ANGLES](https://docs.stopcoronavirus.tech/r/markdown/32320_castelnau-d-angles/4XTTM7qr6TsLV2WqjyAjf5tYe3nMh5MMutLbChu9xnja6jrB4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32320 	- CASTELNAU D ANGLES](https://docs.stopcoronavirus.tech/w/markdown/32320_castelnau-d-angles/4XTTM7qr6TsLV2WqjyAjf5tYe3nMh5MMutLbChu9xnja6jrB4-K3TgUUz9jaPddS5m8WQmiENs6F8jA6Qww6hpVpeB6cPNH5zfHfZ3gWXQ7asQA1hHJ4Ys1PK4KebAgUp4uCDrne93oiJBEBD6h6JVxAZXWFsRB5oLDYE9MDcZ64zKVsRsDEo26xEe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32320 	- CASTELNAU D ANGLES](https://docs.stopcoronavirus.tech/#/r/markdown/32320_castelnau-d-angles/4XTTM7qr6TsLV2WqjyAjf5tYe3nMh5MMutLbChu9xnja6jrB4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32320 	- CASTELNAU D ANGLES](https://docs.stopcoronavirus.tech/#/w/markdown/32320_castelnau-d-angles/4XTTM7qr6TsLV2WqjyAjf5tYe3nMh5MMutLbChu9xnja6jrB4-K3TgUUz9jaPddS5m8WQmiENs6F8jA6Qww6hpVpeB6cPNH5zfHfZ3gWXQ7asQA1hHJ4Ys1PK4KebAgUp4uCDrne93oiJBEBD6h6JVxAZXWFsRB5oLDYE9MDcZ64zKVsRsDEo26xEe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

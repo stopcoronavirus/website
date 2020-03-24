@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 17360 	- LA GENETOUZE](https://docs.stopcoronavirus.tech/r/markdown/17360_la-genetouze/4XTTM42WqFRcLFPWopPe5ni4Xrxb6F5qkdLvm73MWQZtJb1qB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17360 	- LA GENETOUZE](https://docs.stopcoronavirus.tech/w/markdown/17360_la-genetouze/4XTTM42WqFRcLFPWopPe5ni4Xrxb6F5qkdLvm73MWQZtJb1qB-K3TgU9WCTGuqPDmx1tZGs7pCiEz89r5ETsKdjVcSDFTT4TAoR52WwYBjtZ1MKUx9qARugK5qGdqKmBWCB97mxnprFCvQfHfGWxcAf6QtZWdYrTt48NeXsohqx2KShXoWYWZ6JmbF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17360 	- LA GENETOUZE](https://docs.stopcoronavirus.tech/#/r/markdown/17360_la-genetouze/4XTTM42WqFRcLFPWopPe5ni4Xrxb6F5qkdLvm73MWQZtJb1qB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17360 	- LA GENETOUZE](https://docs.stopcoronavirus.tech/#/w/markdown/17360_la-genetouze/4XTTM42WqFRcLFPWopPe5ni4Xrxb6F5qkdLvm73MWQZtJb1qB-K3TgU9WCTGuqPDmx1tZGs7pCiEz89r5ETsKdjVcSDFTT4TAoR52WwYBjtZ1MKUx9qARugK5qGdqKmBWCB97mxnprFCvQfHfGWxcAf6QtZWdYrTt48NeXsohqx2KShXoWYWZ6JmbF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

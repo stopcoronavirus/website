@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89420 	- ST ANDRE EN TERRE PLAINE](https://docs.stopcoronavirus.tech/r/markdown/89420_st-andre-en-terre-plaine/4XTTM82QckioVx3puP5aFkgiJGvhC8gHB4s8xNYH4WA4hDiwm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89420 	- ST ANDRE EN TERRE PLAINE](https://docs.stopcoronavirus.tech/w/markdown/89420_st-andre-en-terre-plaine/4XTTM82QckioVx3puP5aFkgiJGvhC8gHB4s8xNYH4WA4hDiwm-K3TgTpEcfcaJ6X2K19YW5TWq69LJPT1gWvdtRtznUtnD71BXDpjAFNyRaHton5Wrggd9oih5ZmiDirL1Gw7HdwMBBCPcR32MyMNvbLmbzDXtk7rY3D32zGqb4FpqAX3VAWKyAnz7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89420 	- ST ANDRE EN TERRE PLAINE](https://docs.stopcoronavirus.tech/#/r/markdown/89420_st-andre-en-terre-plaine/4XTTM82QckioVx3puP5aFkgiJGvhC8gHB4s8xNYH4WA4hDiwm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89420 	- ST ANDRE EN TERRE PLAINE](https://docs.stopcoronavirus.tech/#/w/markdown/89420_st-andre-en-terre-plaine/4XTTM82QckioVx3puP5aFkgiJGvhC8gHB4s8xNYH4WA4hDiwm-K3TgTpEcfcaJ6X2K19YW5TWq69LJPT1gWvdtRtznUtnD71BXDpjAFNyRaHton5Wrggd9oih5ZmiDirL1Gw7HdwMBBCPcR32MyMNvbLmbzDXtk7rY3D32zGqb4FpqAX3VAWKyAnz7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

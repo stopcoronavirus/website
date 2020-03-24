@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 56580 	- CREDIN](https://docs.stopcoronavirus.tech/r/markdown/56580_credin/4XTTM1o1uixRTqG6rKFhiCMKcyMYGNhSdwJbShVBdiNcV8h1U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56580 	- CREDIN](https://docs.stopcoronavirus.tech/w/markdown/56580_credin/4XTTM1o1uixRTqG6rKFhiCMKcyMYGNhSdwJbShVBdiNcV8h1U-K3TgUvDQGgvhiLkrV6pwo7QWhSJF4GWFLgizh59dB1S8YG5mJcengeuop2EU4m98SwTFucLo9Vjh4zpN51Ld7UodAvuo9Zd7Mn5kk6AJXJu1b7VT1FsLusEPdzZPw6MPmQdxBoVc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56580 	- CREDIN](https://docs.stopcoronavirus.tech/#/r/markdown/56580_credin/4XTTM1o1uixRTqG6rKFhiCMKcyMYGNhSdwJbShVBdiNcV8h1U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56580 	- CREDIN](https://docs.stopcoronavirus.tech/#/w/markdown/56580_credin/4XTTM1o1uixRTqG6rKFhiCMKcyMYGNhSdwJbShVBdiNcV8h1U-K3TgUvDQGgvhiLkrV6pwo7QWhSJF4GWFLgizh59dB1S8YG5mJcengeuop2EU4m98SwTFucLo9Vjh4zpN51Ld7UodAvuo9Zd7Mn5kk6AJXJu1b7VT1FsLusEPdzZPw6MPmQdxBoVc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

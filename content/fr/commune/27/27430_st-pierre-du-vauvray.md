@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27430 	- ST PIERRE DU VAUVRAY](https://docs.stopcoronavirus.tech/r/markdown/27430_st-pierre-du-vauvray/4XTTM6k3nnyE1BZeKGak5PwJdemWFDSv5XCUqvzMZ47mQKazv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27430 	- ST PIERRE DU VAUVRAY](https://docs.stopcoronavirus.tech/w/markdown/27430_st-pierre-du-vauvray/4XTTM6k3nnyE1BZeKGak5PwJdemWFDSv5XCUqvzMZ47mQKazv-K3TgUFJJtmx8qJSBhREBm65QeNEHvtcML6nWicmSQzz6ZsrHQBVb6VdAwSU3jyufsUQSrDDVrf227J5R7PdUEv73DByQ8UxApNJYobe4mgDtZZwA2DTkNz5dCLUh9DazVwHRgrLz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27430 	- ST PIERRE DU VAUVRAY](https://docs.stopcoronavirus.tech/#/r/markdown/27430_st-pierre-du-vauvray/4XTTM6k3nnyE1BZeKGak5PwJdemWFDSv5XCUqvzMZ47mQKazv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27430 	- ST PIERRE DU VAUVRAY](https://docs.stopcoronavirus.tech/#/w/markdown/27430_st-pierre-du-vauvray/4XTTM6k3nnyE1BZeKGak5PwJdemWFDSv5XCUqvzMZ47mQKazv-K3TgUFJJtmx8qJSBhREBm65QeNEHvtcML6nWicmSQzz6ZsrHQBVb6VdAwSU3jyufsUQSrDDVrf227J5R7PdUEv73DByQ8UxApNJYobe4mgDtZZwA2DTkNz5dCLUh9DazVwHRgrLz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

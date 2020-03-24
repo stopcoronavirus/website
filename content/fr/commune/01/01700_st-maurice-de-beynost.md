@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01700 	- ST MAURICE DE BEYNOST](https://docs.stopcoronavirus.tech/r/markdown/01700_st-maurice-de-beynost/4XTTM2uWaYyoN5Qz696NVjrjVkmBpTX7dcH5FyS5vdhZoEwLb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01700 	- ST MAURICE DE BEYNOST](https://docs.stopcoronavirus.tech/w/markdown/01700_st-maurice-de-beynost/4XTTM2uWaYyoN5Qz696NVjrjVkmBpTX7dcH5FyS5vdhZoEwLb-K3TgU2b4KnL8mfMCCauTPNAYY7Tk8pmxxpsUATagoNQEBgogxpJLkgE6pMpz6TYEPybuGeUZC3qB22KNYAUTB4qRvWYQE9xoPj6k9jkhVWb1H517gU7a877uos6vbQtsAn3b4T43) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01700 	- ST MAURICE DE BEYNOST](https://docs.stopcoronavirus.tech/#/r/markdown/01700_st-maurice-de-beynost/4XTTM2uWaYyoN5Qz696NVjrjVkmBpTX7dcH5FyS5vdhZoEwLb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01700 	- ST MAURICE DE BEYNOST](https://docs.stopcoronavirus.tech/#/w/markdown/01700_st-maurice-de-beynost/4XTTM2uWaYyoN5Qz696NVjrjVkmBpTX7dcH5FyS5vdhZoEwLb-K3TgU2b4KnL8mfMCCauTPNAYY7Tk8pmxxpsUATagoNQEBgogxpJLkgE6pMpz6TYEPybuGeUZC3qB22KNYAUTB4qRvWYQE9xoPj6k9jkhVWb1H517gU7a877uos6vbQtsAn3b4T43) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

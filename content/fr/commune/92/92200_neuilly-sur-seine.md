@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 92200 	- NEUILLY SUR SEINE](https://docs.stopcoronavirus.tech/r/markdown/92200_neuilly-sur-seine/4XTTM1xvkAv4gZBtmqU1rjfu2SHinxUm6C1Pc1tFrUg28KM2s) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92200 	- NEUILLY SUR SEINE](https://docs.stopcoronavirus.tech/w/markdown/92200_neuilly-sur-seine/4XTTM1xvkAv4gZBtmqU1rjfu2SHinxUm6C1Pc1tFrUg28KM2s-K3TgUDt2cs2RaLCyVk6bN2EpUzeeckcHfwPgtqqKJ6WHzqUa3Q7qCuxusYJv2ywErEfHmjRLzqZEAtKE3XLTQZ7BQAAzPvX9Sy1i6PtuThLrvn72JXLgffGeMzh5fS1jSzLYp2L3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 92200 	- NEUILLY SUR SEINE](https://docs.stopcoronavirus.tech/#/r/markdown/92200_neuilly-sur-seine/4XTTM1xvkAv4gZBtmqU1rjfu2SHinxUm6C1Pc1tFrUg28KM2s) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 92200 	- NEUILLY SUR SEINE](https://docs.stopcoronavirus.tech/#/w/markdown/92200_neuilly-sur-seine/4XTTM1xvkAv4gZBtmqU1rjfu2SHinxUm6C1Pc1tFrUg28KM2s-K3TgUDt2cs2RaLCyVk6bN2EpUzeeckcHfwPgtqqKJ6WHzqUa3Q7qCuxusYJv2ywErEfHmjRLzqZEAtKE3XLTQZ7BQAAzPvX9Sy1i6PtuThLrvn72JXLgffGeMzh5fS1jSzLYp2L3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

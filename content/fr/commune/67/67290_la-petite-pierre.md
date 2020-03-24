@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 67290 	- LA PETITE PIERRE](https://docs.stopcoronavirus.tech/r/markdown/67290_la-petite-pierre/4XTTM9jDXdtkYcuWmDJAPbupGjwFVduTTKTF3J3rQzj9cAERv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 67290 	- LA PETITE PIERRE](https://docs.stopcoronavirus.tech/w/markdown/67290_la-petite-pierre/4XTTM9jDXdtkYcuWmDJAPbupGjwFVduTTKTF3J3rQzj9cAERv-K3TgUb9e91B1p148ZzUY3vHhiqoxGZBFBDMryPCpk1sgbhmrYxGy6ptwZDPfBPRuLDyxc5Ki6sbTvD94SNaaUqbwoeLWsr81h4jo2Pe6s3MSbps1C1pnPiJYtKdiEwnydYVxq6Pr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 67290 	- LA PETITE PIERRE](https://docs.stopcoronavirus.tech/#/r/markdown/67290_la-petite-pierre/4XTTM9jDXdtkYcuWmDJAPbupGjwFVduTTKTF3J3rQzj9cAERv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 67290 	- LA PETITE PIERRE](https://docs.stopcoronavirus.tech/#/w/markdown/67290_la-petite-pierre/4XTTM9jDXdtkYcuWmDJAPbupGjwFVduTTKTF3J3rQzj9cAERv-K3TgUb9e91B1p148ZzUY3vHhiqoxGZBFBDMryPCpk1sgbhmrYxGy6ptwZDPfBPRuLDyxc5Ki6sbTvD94SNaaUqbwoeLWsr81h4jo2Pe6s3MSbps1C1pnPiJYtKdiEwnydYVxq6Pr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/r/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/w/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24-K3TgU9W9pVWN9ZNXuC5pEDp9v136JmAD3LgUx7xHTmm86fi3KvoJhwqQEXKguZSba62YFt5ik1qbdAF4H61TCwnd1buQJ4xQb84agy6uR7khoqjUGRmD9k4LfibwRBtWd7j9RhhW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/#/r/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/#/w/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24-K3TgU9W9pVWN9ZNXuC5pEDp9v136JmAD3LgUx7xHTmm86fi3KvoJhwqQEXKguZSba62YFt5ik1qbdAF4H61TCwnd1buQJ4xQb84agy6uR7khoqjUGRmD9k4LfibwRBtWd7j9RhhW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

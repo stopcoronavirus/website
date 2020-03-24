@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 57630 	- HARAUCOURT SUR SEILLE](https://docs.stopcoronavirus.tech/r/markdown/57630_haraucourt-sur-seille/4XTTMBxg75n8mjVb2fAoquW3PYqJ9fSZL2amQQx9EpFLUepFG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57630 	- HARAUCOURT SUR SEILLE](https://docs.stopcoronavirus.tech/w/markdown/57630_haraucourt-sur-seille/4XTTMBxg75n8mjVb2fAoquW3PYqJ9fSZL2amQQx9EpFLUepFG-K3TgUnXVotx6DZc1raqrMU2PM2eNhZut5SzirCPE1ZwAWWnECzdL4A5bXHrHxidTL3Xzo8f7RzvGzqhGWYgakCX4LeJMBRiT53higiy8oRP7aXhuKLbBMHs5JESQezcq62xMvpDt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57630 	- HARAUCOURT SUR SEILLE](https://docs.stopcoronavirus.tech/#/r/markdown/57630_haraucourt-sur-seille/4XTTMBxg75n8mjVb2fAoquW3PYqJ9fSZL2amQQx9EpFLUepFG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57630 	- HARAUCOURT SUR SEILLE](https://docs.stopcoronavirus.tech/#/w/markdown/57630_haraucourt-sur-seille/4XTTMBxg75n8mjVb2fAoquW3PYqJ9fSZL2amQQx9EpFLUepFG-K3TgUnXVotx6DZc1raqrMU2PM2eNhZut5SzirCPE1ZwAWWnECzdL4A5bXHrHxidTL3Xzo8f7RzvGzqhGWYgakCX4LeJMBRiT53higiy8oRP7aXhuKLbBMHs5JESQezcq62xMvpDt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

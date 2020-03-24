@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 56730 	- ST GILDAS DE RHUYS](https://docs.stopcoronavirus.tech/r/markdown/56730_st-gildas-de-rhuys/4XTTM24GEf3b3biU8im2h4E3jPAtDdJoKbBNmGLJL61N7apGk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56730 	- ST GILDAS DE RHUYS](https://docs.stopcoronavirus.tech/w/markdown/56730_st-gildas-de-rhuys/4XTTM24GEf3b3biU8im2h4E3jPAtDdJoKbBNmGLJL61N7apGk-K3TgUd2Wx7DyP8Jw8ZX4zuQeZtGpbA8zh3SY5TJWVPmCegPCCN2bwQ4voZRtj7ryo2peRx2N3MvocLbqB9BztEo2fBaC7phMjAPDJQ4ear6h8HzQKig8jv1RtpxEoY7txFaBjrag) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56730 	- ST GILDAS DE RHUYS](https://docs.stopcoronavirus.tech/#/r/markdown/56730_st-gildas-de-rhuys/4XTTM24GEf3b3biU8im2h4E3jPAtDdJoKbBNmGLJL61N7apGk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56730 	- ST GILDAS DE RHUYS](https://docs.stopcoronavirus.tech/#/w/markdown/56730_st-gildas-de-rhuys/4XTTM24GEf3b3biU8im2h4E3jPAtDdJoKbBNmGLJL61N7apGk-K3TgUd2Wx7DyP8Jw8ZX4zuQeZtGpbA8zh3SY5TJWVPmCegPCCN2bwQ4voZRtj7ryo2peRx2N3MvocLbqB9BztEo2fBaC7phMjAPDJQ4ear6h8HzQKig8jv1RtpxEoY7txFaBjrag) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

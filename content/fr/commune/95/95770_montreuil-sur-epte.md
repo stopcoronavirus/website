@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 95770 	- MONTREUIL SUR EPTE](https://docs.stopcoronavirus.tech/r/markdown/95770_montreuil-sur-epte/4XTTM9ZM9jDHfpT1cL6EpYZNG3z4McZjs2avjg4uBgkn2Rjbr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95770 	- MONTREUIL SUR EPTE](https://docs.stopcoronavirus.tech/w/markdown/95770_montreuil-sur-epte/4XTTM9ZM9jDHfpT1cL6EpYZNG3z4McZjs2avjg4uBgkn2Rjbr-K3TgTdWuex1CydYgLryzZb5eKMnD9WZBv8fU9VS5jMBcwiupZQGVNui9cojYS6y4445cnZD4r6M9L4tBr8tQEy4KD7G4MPUVeFqVYVqhHSpTtzkCwRG8XQTBX51XEtS4PGCQVkeY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95770 	- MONTREUIL SUR EPTE](https://docs.stopcoronavirus.tech/#/r/markdown/95770_montreuil-sur-epte/4XTTM9ZM9jDHfpT1cL6EpYZNG3z4McZjs2avjg4uBgkn2Rjbr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95770 	- MONTREUIL SUR EPTE](https://docs.stopcoronavirus.tech/#/w/markdown/95770_montreuil-sur-epte/4XTTM9ZM9jDHfpT1cL6EpYZNG3z4McZjs2avjg4uBgkn2Rjbr-K3TgTdWuex1CydYgLryzZb5eKMnD9WZBv8fU9VS5jMBcwiupZQGVNui9cojYS6y4445cnZD4r6M9L4tBr8tQEy4KD7G4MPUVeFqVYVqhHSpTtzkCwRG8XQTBX51XEtS4PGCQVkeY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19200 	- ST PARDOUX LE VIEUX](https://docs.stopcoronavirus.tech/r/markdown/19200_st-pardoux-le-vieux/4XTTM3mZ8DwVdGjgjkKvyFCmQE5w3FTMU8EVhCRbE1XYmrkmK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19200 	- ST PARDOUX LE VIEUX](https://docs.stopcoronavirus.tech/w/markdown/19200_st-pardoux-le-vieux/4XTTM3mZ8DwVdGjgjkKvyFCmQE5w3FTMU8EVhCRbE1XYmrkmK-K3TgUGYkS8F8TiaBTevUX3S1jQYas8S9vVUYvbWUBk1fuvtuRm1ghb1yefkRedbM7scjUB1w7ZjbYCFy1uUMYGBq4yKXEpXzgFgz44qgudCTNcuB5CMDaur2yQGwbz2Zd6jzniC5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19200 	- ST PARDOUX LE VIEUX](https://docs.stopcoronavirus.tech/#/r/markdown/19200_st-pardoux-le-vieux/4XTTM3mZ8DwVdGjgjkKvyFCmQE5w3FTMU8EVhCRbE1XYmrkmK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19200 	- ST PARDOUX LE VIEUX](https://docs.stopcoronavirus.tech/#/w/markdown/19200_st-pardoux-le-vieux/4XTTM3mZ8DwVdGjgjkKvyFCmQE5w3FTMU8EVhCRbE1XYmrkmK-K3TgUGYkS8F8TiaBTevUX3S1jQYas8S9vVUYvbWUBk1fuvtuRm1ghb1yefkRedbM7scjUB1w7ZjbYCFy1uUMYGBq4yKXEpXzgFgz44qgudCTNcuB5CMDaur2yQGwbz2Zd6jzniC5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

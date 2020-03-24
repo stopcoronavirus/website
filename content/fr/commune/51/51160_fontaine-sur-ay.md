@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51160 	- FONTAINE SUR AY](https://docs.stopcoronavirus.tech/r/markdown/51160_fontaine-sur-ay/4XTTM9V54Dexj7cD7p5q9XiUQcQuRWrLz1bQfXVAas2ZxUJiA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51160 	- FONTAINE SUR AY](https://docs.stopcoronavirus.tech/w/markdown/51160_fontaine-sur-ay/4XTTM9V54Dexj7cD7p5q9XiUQcQuRWrLz1bQfXVAas2ZxUJiA-K3TgU7D1xd46AdHNey7wkLeUhZ5eWtHpkakcoJyqpdKoMYanyLTx8LCcH1Be4FEo7vrSxxS8MvVpDoe6ocbN9LnpvnXWLd1Vkzgpmxeuwic9Cb6xna7Qgjg3cczufnabTL1g32Nz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51160 	- FONTAINE SUR AY](https://docs.stopcoronavirus.tech/#/r/markdown/51160_fontaine-sur-ay/4XTTM9V54Dexj7cD7p5q9XiUQcQuRWrLz1bQfXVAas2ZxUJiA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51160 	- FONTAINE SUR AY](https://docs.stopcoronavirus.tech/#/w/markdown/51160_fontaine-sur-ay/4XTTM9V54Dexj7cD7p5q9XiUQcQuRWrLz1bQfXVAas2ZxUJiA-K3TgU7D1xd46AdHNey7wkLeUhZ5eWtHpkakcoJyqpdKoMYanyLTx8LCcH1Be4FEo7vrSxxS8MvVpDoe6ocbN9LnpvnXWLd1Vkzgpmxeuwic9Cb6xna7Qgjg3cczufnabTL1g32Nz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

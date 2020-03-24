@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97220 	- LA TRINITE](https://docs.stopcoronavirus.tech/r/markdown/97220_la-trinite/4XTTMBCAmS9bkvap1Lqtouzk97W7om1q6QZwi3gcbaquLaN9K) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97220 	- LA TRINITE](https://docs.stopcoronavirus.tech/w/markdown/97220_la-trinite/4XTTMBCAmS9bkvap1Lqtouzk97W7om1q6QZwi3gcbaquLaN9K-K3TgUvckXYPYop2VkUsHxTfqP4WzUAqHciLf1HGY9fSnjj4z8LfyQGnkP9TcixGdYQ4oYaLxNJQZ1XE3BX6R82SQw5ygBg9FRb5VakLBBUP42Fsp23XxeKKJzsvzBKqLjm3mEoCq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 97220 	- LA TRINITE](https://docs.stopcoronavirus.tech/#/r/markdown/97220_la-trinite/4XTTMBCAmS9bkvap1Lqtouzk97W7om1q6QZwi3gcbaquLaN9K) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 97220 	- LA TRINITE](https://docs.stopcoronavirus.tech/#/w/markdown/97220_la-trinite/4XTTMBCAmS9bkvap1Lqtouzk97W7om1q6QZwi3gcbaquLaN9K-K3TgUvckXYPYop2VkUsHxTfqP4WzUAqHciLf1HGY9fSnjj4z8LfyQGnkP9TcixGdYQ4oYaLxNJQZ1XE3BX6R82SQw5ygBg9FRb5VakLBBUP42Fsp23XxeKKJzsvzBKqLjm3mEoCq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 972 	- Martinique](https://docs.stopcoronavirus.tech/r/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 972 	- Martinique](https://docs.stopcoronavirus.tech/w/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo-K3TgUeaxrptm9NswN2JSgXE3aKS9HKQgEZZxfKsdUeDs9w3MK5eeUTz8x8PBEEF3j1uCcfT9q4aM46ZnJH1PtFEse18Xf51n2ioUCkkCxop5a751j1HQ3bKXvk9CsEq3Wcvzm9gm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 972 	- Martinique](https://docs.stopcoronavirus.tech/#/r/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 972 	- Martinique](https://docs.stopcoronavirus.tech/#/w/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo-K3TgUeaxrptm9NswN2JSgXE3aKS9HKQgEZZxfKsdUeDs9w3MK5eeUTz8x8PBEEF3j1uCcfT9q4aM46ZnJH1PtFEse18Xf51n2ioUCkkCxop5a751j1HQ3bKXvk9CsEq3Wcvzm9gm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

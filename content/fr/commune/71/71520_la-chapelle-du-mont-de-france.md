@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71520 	- LA CHAPELLE DU MONT DE FRANCE](https://docs.stopcoronavirus.tech/r/markdown/71520_la-chapelle-du-mont-de-france/4XTTMAdZZsWHdfAq15BTedDmSfiGwdespQXXwyqSpdZwH6MD3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71520 	- LA CHAPELLE DU MONT DE FRANCE](https://docs.stopcoronavirus.tech/w/markdown/71520_la-chapelle-du-mont-de-france/4XTTMAdZZsWHdfAq15BTedDmSfiGwdespQXXwyqSpdZwH6MD3-K3TgUy7e98DEmc13vbkt8t4YavCk1zjHzGcmhFfgEJcFW3XW2C9niVmLGs15XGMBA4xhkWBBDMhdV4N7mzBBGC8eGUhvnUhEZ7ukddkZgZdRnwtZsEtSoyj4zvg6xR3hcpfmZ2d7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71520 	- LA CHAPELLE DU MONT DE FRANCE](https://docs.stopcoronavirus.tech/#/r/markdown/71520_la-chapelle-du-mont-de-france/4XTTMAdZZsWHdfAq15BTedDmSfiGwdespQXXwyqSpdZwH6MD3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71520 	- LA CHAPELLE DU MONT DE FRANCE](https://docs.stopcoronavirus.tech/#/w/markdown/71520_la-chapelle-du-mont-de-france/4XTTMAdZZsWHdfAq15BTedDmSfiGwdespQXXwyqSpdZwH6MD3-K3TgUy7e98DEmc13vbkt8t4YavCk1zjHzGcmhFfgEJcFW3XW2C9niVmLGs15XGMBA4xhkWBBDMhdV4N7mzBBGC8eGUhvnUhEZ7ukddkZgZdRnwtZsEtSoyj4zvg6xR3hcpfmZ2d7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

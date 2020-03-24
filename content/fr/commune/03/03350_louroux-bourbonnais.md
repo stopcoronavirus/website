@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 03350 	- LOUROUX BOURBONNAIS](https://docs.stopcoronavirus.tech/r/markdown/03350_louroux-bourbonnais/4XTTM3qu8BN7bCKf6GYXS1FFPX6WUyeqpSujk6Bj8oHXcwfy2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03350 	- LOUROUX BOURBONNAIS](https://docs.stopcoronavirus.tech/w/markdown/03350_louroux-bourbonnais/4XTTM3qu8BN7bCKf6GYXS1FFPX6WUyeqpSujk6Bj8oHXcwfy2-K3TgUMWzCfweF8bTf4wpo3812JVeEJDwLhAbfUzU5SJtmsYYsZK7BPKiSJMXrAt8EddXjDNd4HvvixiWmDSvZDm3EbajQNQEFkraZDAgmLCDyx5oT84uAYNApF31pv2L5tWxm6Lx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03350 	- LOUROUX BOURBONNAIS](https://docs.stopcoronavirus.tech/#/r/markdown/03350_louroux-bourbonnais/4XTTM3qu8BN7bCKf6GYXS1FFPX6WUyeqpSujk6Bj8oHXcwfy2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03350 	- LOUROUX BOURBONNAIS](https://docs.stopcoronavirus.tech/#/w/markdown/03350_louroux-bourbonnais/4XTTM3qu8BN7bCKf6GYXS1FFPX6WUyeqpSujk6Bj8oHXcwfy2-K3TgUMWzCfweF8bTf4wpo3812JVeEJDwLhAbfUzU5SJtmsYYsZK7BPKiSJMXrAt8EddXjDNd4HvvixiWmDSvZDm3EbajQNQEFkraZDAgmLCDyx5oT84uAYNApF31pv2L5tWxm6Lx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

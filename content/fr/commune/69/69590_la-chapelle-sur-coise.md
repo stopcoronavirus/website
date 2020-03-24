@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69590 	- LA CHAPELLE SUR COISE](https://docs.stopcoronavirus.tech/r/markdown/69590_la-chapelle-sur-coise/4XTTMJ9rt6vvq28fJrykbK3c7Gue3FoZDQmrFpvjCKDh55r2B) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69590 	- LA CHAPELLE SUR COISE](https://docs.stopcoronavirus.tech/w/markdown/69590_la-chapelle-sur-coise/4XTTMJ9rt6vvq28fJrykbK3c7Gue3FoZDQmrFpvjCKDh55r2B-K3TgTh4hVuw14wLLFQDmptHSdLnyazzafG2gg4abWViPkk9eA5YChxPdX15UYvdHxeVt94jLcnUjTtM2J64qPJKg2MVYDT5drjiuZGLWboza7r1eCuQpxMo2PhgLqdbxN7J9Cfyh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69590 	- LA CHAPELLE SUR COISE](https://docs.stopcoronavirus.tech/#/r/markdown/69590_la-chapelle-sur-coise/4XTTMJ9rt6vvq28fJrykbK3c7Gue3FoZDQmrFpvjCKDh55r2B) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69590 	- LA CHAPELLE SUR COISE](https://docs.stopcoronavirus.tech/#/w/markdown/69590_la-chapelle-sur-coise/4XTTMJ9rt6vvq28fJrykbK3c7Gue3FoZDQmrFpvjCKDh55r2B-K3TgTh4hVuw14wLLFQDmptHSdLnyazzafG2gg4abWViPkk9eA5YChxPdX15UYvdHxeVt94jLcnUjTtM2J64qPJKg2MVYDT5drjiuZGLWboza7r1eCuQpxMo2PhgLqdbxN7J9Cfyh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

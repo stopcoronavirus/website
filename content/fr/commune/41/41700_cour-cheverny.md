@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 41700 	- COUR CHEVERNY](https://docs.stopcoronavirus.tech/r/markdown/41700_cour-cheverny/4XTTM1ULFoBtqN21LSZRvzJJpWTaPAGQgku3v7fQJB8x3GzHu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 41700 	- COUR CHEVERNY](https://docs.stopcoronavirus.tech/w/markdown/41700_cour-cheverny/4XTTM1ULFoBtqN21LSZRvzJJpWTaPAGQgku3v7fQJB8x3GzHu-K3TgUAX7QDBYZFboc4khUXPjjcTf3sXv8CoyuDfsLz52t1uvD6jyv4DiHhXemzzz85ZBH21Yvt2ruAXDkCnSUbzdG3MPmsKGRCSgE5M9AKekZ3cXyU2PLZEa54F7BPdt2xopqk9d) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 41700 	- COUR CHEVERNY](https://docs.stopcoronavirus.tech/#/r/markdown/41700_cour-cheverny/4XTTM1ULFoBtqN21LSZRvzJJpWTaPAGQgku3v7fQJB8x3GzHu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 41700 	- COUR CHEVERNY](https://docs.stopcoronavirus.tech/#/w/markdown/41700_cour-cheverny/4XTTM1ULFoBtqN21LSZRvzJJpWTaPAGQgku3v7fQJB8x3GzHu-K3TgUAX7QDBYZFboc4khUXPjjcTf3sXv8CoyuDfsLz52t1uvD6jyv4DiHhXemzzz85ZBH21Yvt2ruAXDkCnSUbzdG3MPmsKGRCSgE5M9AKekZ3cXyU2PLZEa54F7BPdt2xopqk9d) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/#/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/#/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

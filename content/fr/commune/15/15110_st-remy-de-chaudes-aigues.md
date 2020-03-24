@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15110 	- ST REMY DE CHAUDES AIGUES](https://docs.stopcoronavirus.tech/r/markdown/15110_st-remy-de-chaudes-aigues/4XTTM5SkH7yAyggtk9U1uyUA2pjnTZnU7KgGiWa8qgPjD7hN8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15110 	- ST REMY DE CHAUDES AIGUES](https://docs.stopcoronavirus.tech/w/markdown/15110_st-remy-de-chaudes-aigues/4XTTM5SkH7yAyggtk9U1uyUA2pjnTZnU7KgGiWa8qgPjD7hN8-K3TgUspkBKv65xcFvCbuBN5dT4WkLetcTDJNU71AtV3gCfw3ayRaCwjbgHJz31J7NAXKo22s53pV7rU8c1SUrNkhnDgLhP5Br1wT9PQGGLAnsHBTZsiU3Fj7vdJu6avT2quE1Bzx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15110 	- ST REMY DE CHAUDES AIGUES](https://docs.stopcoronavirus.tech/#/r/markdown/15110_st-remy-de-chaudes-aigues/4XTTM5SkH7yAyggtk9U1uyUA2pjnTZnU7KgGiWa8qgPjD7hN8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15110 	- ST REMY DE CHAUDES AIGUES](https://docs.stopcoronavirus.tech/#/w/markdown/15110_st-remy-de-chaudes-aigues/4XTTM5SkH7yAyggtk9U1uyUA2pjnTZnU7KgGiWa8qgPjD7hN8-K3TgUspkBKv65xcFvCbuBN5dT4WkLetcTDJNU71AtV3gCfw3ayRaCwjbgHJz31J7NAXKo22s53pV7rU8c1SUrNkhnDgLhP5Br1wT9PQGGLAnsHBTZsiU3Fj7vdJu6avT2quE1Bzx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

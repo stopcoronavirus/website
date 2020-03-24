@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 44690 	- LA HAIE FOUASSIERE](https://docs.stopcoronavirus.tech/r/markdown/44690_la-haie-fouassiere/4XTTM6RX5iCbFD2wQyUCHkBFf2JZxwrJx4Rwm1D7hojGycazR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 44690 	- LA HAIE FOUASSIERE](https://docs.stopcoronavirus.tech/w/markdown/44690_la-haie-fouassiere/4XTTM6RX5iCbFD2wQyUCHkBFf2JZxwrJx4Rwm1D7hojGycazR-K3TgUCgvotkuX35BTfHjtEY35STYxXbJgGDRiW4GXrYNdtfuwptYZ6dDgqiPdponDBqsRr8edSxJCdn3o1W2L4VQgsH8r3ExPuEKiBBZT4USzDWtK1bYn7FqejYsGKSLZfNqcRzV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 44690 	- LA HAIE FOUASSIERE](https://docs.stopcoronavirus.tech/#/r/markdown/44690_la-haie-fouassiere/4XTTM6RX5iCbFD2wQyUCHkBFf2JZxwrJx4Rwm1D7hojGycazR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 44690 	- LA HAIE FOUASSIERE](https://docs.stopcoronavirus.tech/#/w/markdown/44690_la-haie-fouassiere/4XTTM6RX5iCbFD2wQyUCHkBFf2JZxwrJx4Rwm1D7hojGycazR-K3TgUCgvotkuX35BTfHjtEY35STYxXbJgGDRiW4GXrYNdtfuwptYZ6dDgqiPdponDBqsRr8edSxJCdn3o1W2L4VQgsH8r3ExPuEKiBBZT4USzDWtK1bYn7FqejYsGKSLZfNqcRzV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

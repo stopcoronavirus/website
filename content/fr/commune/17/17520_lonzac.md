@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 17520 	- LONZAC](https://docs.stopcoronavirus.tech/r/markdown/17520_lonzac/4XTTM4yWw2vdiwpGHtGomQBTey2dGe4j1jSWxLpV7PMvALUMG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17520 	- LONZAC](https://docs.stopcoronavirus.tech/w/markdown/17520_lonzac/4XTTM4yWw2vdiwpGHtGomQBTey2dGe4j1jSWxLpV7PMvALUMG-K3TgUKNaLWVGfAoRPvrNUT2tS8yZaD2unrKRdCUjB5JfmU3DuKENzTPZPe2GDHJ5eRUs1d7LBjEGEXDvpfQMUKrJamrasA8hb93fXC2CJRfh8dnwYAVSEQb5n26TRkt3sefYQ5Nr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17520 	- LONZAC](https://docs.stopcoronavirus.tech/#/r/markdown/17520_lonzac/4XTTM4yWw2vdiwpGHtGomQBTey2dGe4j1jSWxLpV7PMvALUMG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17520 	- LONZAC](https://docs.stopcoronavirus.tech/#/w/markdown/17520_lonzac/4XTTM4yWw2vdiwpGHtGomQBTey2dGe4j1jSWxLpV7PMvALUMG-K3TgUKNaLWVGfAoRPvrNUT2tS8yZaD2unrKRdCUjB5JfmU3DuKENzTPZPe2GDHJ5eRUs1d7LBjEGEXDvpfQMUKrJamrasA8hb93fXC2CJRfh8dnwYAVSEQb5n26TRkt3sefYQ5Nr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

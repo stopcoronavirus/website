@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 68500 	- RIMBACH PRES GUEBWILLER](https://docs.stopcoronavirus.tech/r/markdown/68500_rimbach-pres-guebwiller/4XTTMJ6N77VCmA5WrS4BnN28Eo7efZioHvXf3tMnHzcGs8bWS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68500 	- RIMBACH PRES GUEBWILLER](https://docs.stopcoronavirus.tech/w/markdown/68500_rimbach-pres-guebwiller/4XTTMJ6N77VCmA5WrS4BnN28Eo7efZioHvXf3tMnHzcGs8bWS-K3TgUV46nVrLaodSZAUKA23eQGyoPQ3TQTeeXWt6EsyfVDaJoGWYJnD6eWryC6XJRzhtkDkb8awxg9UoGH4Uk7trzoSErPGkLFWxtsB8FCvTccnFME23MeCW3F7WJMzA2AMqq13Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 68500 	- RIMBACH PRES GUEBWILLER](https://docs.stopcoronavirus.tech/#/r/markdown/68500_rimbach-pres-guebwiller/4XTTMJ6N77VCmA5WrS4BnN28Eo7efZioHvXf3tMnHzcGs8bWS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 68500 	- RIMBACH PRES GUEBWILLER](https://docs.stopcoronavirus.tech/#/w/markdown/68500_rimbach-pres-guebwiller/4XTTMJ6N77VCmA5WrS4BnN28Eo7efZioHvXf3tMnHzcGs8bWS-K3TgUV46nVrLaodSZAUKA23eQGyoPQ3TQTeeXWt6EsyfVDaJoGWYJnD6eWryC6XJRzhtkDkb8awxg9UoGH4Uk7trzoSErPGkLFWxtsB8FCvTccnFME23MeCW3F7WJMzA2AMqq13Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

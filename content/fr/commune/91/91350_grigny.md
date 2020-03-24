@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91350 	- GRIGNY](https://docs.stopcoronavirus.tech/r/markdown/91350_grigny/4XTTM1FcNdb99ATgiiWBpm5TGMZsZ4bbUH8u1qxiLbyJEVRM3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91350 	- GRIGNY](https://docs.stopcoronavirus.tech/w/markdown/91350_grigny/4XTTM1FcNdb99ATgiiWBpm5TGMZsZ4bbUH8u1qxiLbyJEVRM3-K3TgUDpxWNPx55SWujWzGwGVyzGZeJ1CGNe3jiEdEcmzMDSTA55dQNGhWGVpdGdqPyFc4je8mVSH57pUHeuNpFtmb6A2heWDKeA7CTxFaQLkKEaBUQxzESxLPwdfRjRnnxUvZvDX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91350 	- GRIGNY](https://docs.stopcoronavirus.tech/#/r/markdown/91350_grigny/4XTTM1FcNdb99ATgiiWBpm5TGMZsZ4bbUH8u1qxiLbyJEVRM3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91350 	- GRIGNY](https://docs.stopcoronavirus.tech/#/w/markdown/91350_grigny/4XTTM1FcNdb99ATgiiWBpm5TGMZsZ4bbUH8u1qxiLbyJEVRM3-K3TgUDpxWNPx55SWujWzGwGVyzGZeJ1CGNe3jiEdEcmzMDSTA55dQNGhWGVpdGdqPyFc4je8mVSH57pUHeuNpFtmb6A2heWDKeA7CTxFaQLkKEaBUQxzESxLPwdfRjRnnxUvZvDX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

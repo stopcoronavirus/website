@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08240 	- NOUART](https://docs.stopcoronavirus.tech/r/markdown/08240_nouart/4XTTM6G3NWkXY7j2jbdRxuGy8rJnY354xn2ZbshQnxBGnSAhP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08240 	- NOUART](https://docs.stopcoronavirus.tech/w/markdown/08240_nouart/4XTTM6G3NWkXY7j2jbdRxuGy8rJnY354xn2ZbshQnxBGnSAhP-K3TgTmT4Croos1fWJB89VNv9kzncv5jLiodGGogJZZw5pvU6BQE88ThTMYyyVRsmUmE7sJpUFmBm5QceYyVi5A53bBBYMd7TR8cWm276bTpwVZcZAWbNtkHu76BWs9VJhbGP45dK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08240 	- NOUART](https://docs.stopcoronavirus.tech/#/r/markdown/08240_nouart/4XTTM6G3NWkXY7j2jbdRxuGy8rJnY354xn2ZbshQnxBGnSAhP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08240 	- NOUART](https://docs.stopcoronavirus.tech/#/w/markdown/08240_nouart/4XTTM6G3NWkXY7j2jbdRxuGy8rJnY354xn2ZbshQnxBGnSAhP-K3TgTmT4Croos1fWJB89VNv9kzncv5jLiodGGogJZZw5pvU6BQE88ThTMYyyVRsmUmE7sJpUFmBm5QceYyVi5A53bBBYMd7TR8cWm276bTpwVZcZAWbNtkHu76BWs9VJhbGP45dK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

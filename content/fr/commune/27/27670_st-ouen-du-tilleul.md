@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27670 	- ST OUEN DU TILLEUL](https://docs.stopcoronavirus.tech/r/markdown/27670_st-ouen-du-tilleul/4XTTMCcYPM1TKDhTVagzoAuPtBBHbhJTxXZ81R9XMvgDZoMDR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27670 	- ST OUEN DU TILLEUL](https://docs.stopcoronavirus.tech/w/markdown/27670_st-ouen-du-tilleul/4XTTMCcYPM1TKDhTVagzoAuPtBBHbhJTxXZ81R9XMvgDZoMDR-K3TgTr7omY8ZjyREerwPnB3g22a7mgFNQBcEEyq2rqSnTYZcFXfg1FNDWfndHv6ir87XRcetqzpGPNsFLnvrpSEKGrRsnZB3L64sd3vm2w5Lq4CqVc9nZra6RZtzUyiCmUTfdFW7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27670 	- ST OUEN DU TILLEUL](https://docs.stopcoronavirus.tech/#/r/markdown/27670_st-ouen-du-tilleul/4XTTMCcYPM1TKDhTVagzoAuPtBBHbhJTxXZ81R9XMvgDZoMDR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27670 	- ST OUEN DU TILLEUL](https://docs.stopcoronavirus.tech/#/w/markdown/27670_st-ouen-du-tilleul/4XTTMCcYPM1TKDhTVagzoAuPtBBHbhJTxXZ81R9XMvgDZoMDR-K3TgTr7omY8ZjyREerwPnB3g22a7mgFNQBcEEyq2rqSnTYZcFXfg1FNDWfndHv6ir87XRcetqzpGPNsFLnvrpSEKGrRsnZB3L64sd3vm2w5Lq4CqVc9nZra6RZtzUyiCmUTfdFW7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

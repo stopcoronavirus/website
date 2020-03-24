@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 68290 	- SICKERT](https://docs.stopcoronavirus.tech/r/markdown/68290_sickert/4XTTMASeHsxabFbEQqn9VhD9GsN5VtRBYTejhPYq2mhnXf7Bq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68290 	- SICKERT](https://docs.stopcoronavirus.tech/w/markdown/68290_sickert/4XTTMASeHsxabFbEQqn9VhD9GsN5VtRBYTejhPYq2mhnXf7Bq-K3TgURZAqnuYzw8HVXUavvducjPu57hEpD9SBR2h7gFv5bcL8hwGXczQ2eKu8JAD8BDzYohePYkphmcBCtWSaDm3hFNnnJUbZzYYgmDXr8UvJWfMwLzfzgi4o6jGbxVbwDWdTzWw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 68290 	- SICKERT](https://docs.stopcoronavirus.tech/#/r/markdown/68290_sickert/4XTTMASeHsxabFbEQqn9VhD9GsN5VtRBYTejhPYq2mhnXf7Bq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 68290 	- SICKERT](https://docs.stopcoronavirus.tech/#/w/markdown/68290_sickert/4XTTMASeHsxabFbEQqn9VhD9GsN5VtRBYTejhPYq2mhnXf7Bq-K3TgURZAqnuYzw8HVXUavvducjPu57hEpD9SBR2h7gFv5bcL8hwGXczQ2eKu8JAD8BDzYohePYkphmcBCtWSaDm3hFNnnJUbZzYYgmDXr8UvJWfMwLzfzgi4o6jGbxVbwDWdTzWw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02600 	- COYOLLES](https://docs.stopcoronavirus.tech/r/markdown/02600_coyolles/4XTTMETiD2r29PRG4FP1miTz3ENs4rsp88itdJ6GneYoTYTyx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02600 	- COYOLLES](https://docs.stopcoronavirus.tech/w/markdown/02600_coyolles/4XTTMETiD2r29PRG4FP1miTz3ENs4rsp88itdJ6GneYoTYTyx-K3TgTxEozFBFUoGxuhQ1eNPEzAZcpE4dPLqb2f2PA3s4dhgLoNf1uix8JcwPmeCqULmxh4U4NErcwqCZszKK9TTcW31pDNfcfeW33Ff9kAk6xf9jGKLXbFqT1FHe1M5mVszAkL9c) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02600 	- COYOLLES](https://docs.stopcoronavirus.tech/#/r/markdown/02600_coyolles/4XTTMETiD2r29PRG4FP1miTz3ENs4rsp88itdJ6GneYoTYTyx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02600 	- COYOLLES](https://docs.stopcoronavirus.tech/#/w/markdown/02600_coyolles/4XTTMETiD2r29PRG4FP1miTz3ENs4rsp88itdJ6GneYoTYTyx-K3TgTxEozFBFUoGxuhQ1eNPEzAZcpE4dPLqb2f2PA3s4dhgLoNf1uix8JcwPmeCqULmxh4U4NErcwqCZszKK9TTcW31pDNfcfeW33Ff9kAk6xf9jGKLXbFqT1FHe1M5mVszAkL9c) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

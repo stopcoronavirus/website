@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24290 	- ST LEON SUR VEZERE](https://docs.stopcoronavirus.tech/r/markdown/24290_st-leon-sur-vezere/4XTTM8ruYCDzaKNphvfnFu3ge9Bh9MiUHEtT36WadtzHx8nLt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24290 	- ST LEON SUR VEZERE](https://docs.stopcoronavirus.tech/w/markdown/24290_st-leon-sur-vezere/4XTTM8ruYCDzaKNphvfnFu3ge9Bh9MiUHEtT36WadtzHx8nLt-K3TgU8LEnWxEkVaEKcdt5BHXPFa3nAH6Q43E8EdNbVffqFb8989pMpitUvfLSuFjd67EVJKmeP9KZMGAZVh5Xnk44HF1wdxgVjijewSrXktr6yaiPTvZUSfdGPgPQ6yHx2yqkRZ6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24290 	- ST LEON SUR VEZERE](https://docs.stopcoronavirus.tech/#/r/markdown/24290_st-leon-sur-vezere/4XTTM8ruYCDzaKNphvfnFu3ge9Bh9MiUHEtT36WadtzHx8nLt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24290 	- ST LEON SUR VEZERE](https://docs.stopcoronavirus.tech/#/w/markdown/24290_st-leon-sur-vezere/4XTTM8ruYCDzaKNphvfnFu3ge9Bh9MiUHEtT36WadtzHx8nLt-K3TgU8LEnWxEkVaEKcdt5BHXPFa3nAH6Q43E8EdNbVffqFb8989pMpitUvfLSuFjd67EVJKmeP9KZMGAZVh5Xnk44HF1wdxgVjijewSrXktr6yaiPTvZUSfdGPgPQ6yHx2yqkRZ6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

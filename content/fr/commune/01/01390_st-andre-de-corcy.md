@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01390 	- ST ANDRE DE CORCY](https://docs.stopcoronavirus.tech/r/markdown/01390_st-andre-de-corcy/4XTTM8agjjgyh3C3sof6DgAyXpQcKZu4S6Jo2ZJpZp3rVonp8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01390 	- ST ANDRE DE CORCY](https://docs.stopcoronavirus.tech/w/markdown/01390_st-andre-de-corcy/4XTTM8agjjgyh3C3sof6DgAyXpQcKZu4S6Jo2ZJpZp3rVonp8-K3TgUfSzNwxj6sx8jZoDWC2iVdxJSyN2Q82hApsF9X5ieVbQRKDxHC9tMn6QqiUZXMoXVNPbrt1jaLv1R73VX4DBFThMMQ9uHv2KEwpqLep2fN17iGhakMmES7SEUEmRQyFNUx5e) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01390 	- ST ANDRE DE CORCY](https://docs.stopcoronavirus.tech/#/r/markdown/01390_st-andre-de-corcy/4XTTM8agjjgyh3C3sof6DgAyXpQcKZu4S6Jo2ZJpZp3rVonp8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01390 	- ST ANDRE DE CORCY](https://docs.stopcoronavirus.tech/#/w/markdown/01390_st-andre-de-corcy/4XTTM8agjjgyh3C3sof6DgAyXpQcKZu4S6Jo2ZJpZp3rVonp8-K3TgUfSzNwxj6sx8jZoDWC2iVdxJSyN2Q82hApsF9X5ieVbQRKDxHC9tMn6QqiUZXMoXVNPbrt1jaLv1R73VX4DBFThMMQ9uHv2KEwpqLep2fN17iGhakMmES7SEUEmRQyFNUx5e) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

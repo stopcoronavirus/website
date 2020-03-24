@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 72340 	- LA CHARTRE SUR LE LOIR](https://docs.stopcoronavirus.tech/r/markdown/72340_la-chartre-sur-le-loir/4XTTMBd3hptKZTASjsYcqwcsBoowp9NBzMvSLNH2fAf37pKa4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72340 	- LA CHARTRE SUR LE LOIR](https://docs.stopcoronavirus.tech/w/markdown/72340_la-chartre-sur-le-loir/4XTTMBd3hptKZTASjsYcqwcsBoowp9NBzMvSLNH2fAf37pKa4-K3TgTfPzC7CoqsqUJxyonKnvkLm2aRXUEJ355WvxnWHBvGi9i3pSRUR1pZxYv7Ybp18ZDk4JmAMgydSNU5CmEmWNMsGs1p3QSpthcBFTTDAMYFTxAAVFn4t5Gic9nssbv9Pvjt8U) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72340 	- LA CHARTRE SUR LE LOIR](https://docs.stopcoronavirus.tech/#/r/markdown/72340_la-chartre-sur-le-loir/4XTTMBd3hptKZTASjsYcqwcsBoowp9NBzMvSLNH2fAf37pKa4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72340 	- LA CHARTRE SUR LE LOIR](https://docs.stopcoronavirus.tech/#/w/markdown/72340_la-chartre-sur-le-loir/4XTTMBd3hptKZTASjsYcqwcsBoowp9NBzMvSLNH2fAf37pKa4-K3TgTfPzC7CoqsqUJxyonKnvkLm2aRXUEJ355WvxnWHBvGi9i3pSRUR1pZxYv7Ybp18ZDk4JmAMgydSNU5CmEmWNMsGs1p3QSpthcBFTTDAMYFTxAAVFn4t5Gic9nssbv9Pvjt8U) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

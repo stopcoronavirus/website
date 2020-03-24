@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76540 	- THEUVILLE AUX MAILLOTS](https://docs.stopcoronavirus.tech/r/markdown/76540_theuville-aux-maillots/4XTTMDFD7sCu5cNRH7k8RNZ7GNFywsenyYPUppBFzGfLqNg8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76540 	- THEUVILLE AUX MAILLOTS](https://docs.stopcoronavirus.tech/w/markdown/76540_theuville-aux-maillots/4XTTMDFD7sCu5cNRH7k8RNZ7GNFywsenyYPUppBFzGfLqNg8o-K3TgUvssmotHy6SLBrvB9AoUAtiafdukmBgRbqmnLAwmuhJZD5suinmo4mS9StDdRFtLdTNqvtZT62RzX9BecJujxup3m6myoB7vB8XKSzTnL5nYFgWwVy4JsURwZBxDDoT4TZbu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76540 	- THEUVILLE AUX MAILLOTS](https://docs.stopcoronavirus.tech/#/r/markdown/76540_theuville-aux-maillots/4XTTMDFD7sCu5cNRH7k8RNZ7GNFywsenyYPUppBFzGfLqNg8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76540 	- THEUVILLE AUX MAILLOTS](https://docs.stopcoronavirus.tech/#/w/markdown/76540_theuville-aux-maillots/4XTTMDFD7sCu5cNRH7k8RNZ7GNFywsenyYPUppBFzGfLqNg8o-K3TgUvssmotHy6SLBrvB9AoUAtiafdukmBgRbqmnLAwmuhJZD5suinmo4mS9StDdRFtLdTNqvtZT62RzX9BecJujxup3m6myoB7vB8XKSzTnL5nYFgWwVy4JsURwZBxDDoT4TZbu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 64350 	- CASTILLON DE LEMBEYE](https://docs.stopcoronavirus.tech/r/markdown/64350_castillon-de-lembeye/4XTTM3KXo7Q9NTVB5R4KYX8nsP3MVUXEFubh9Zf5wZUYzdzC4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64350 	- CASTILLON DE LEMBEYE](https://docs.stopcoronavirus.tech/w/markdown/64350_castillon-de-lembeye/4XTTM3KXo7Q9NTVB5R4KYX8nsP3MVUXEFubh9Zf5wZUYzdzC4-K3TgUfEAaU15nEwpMj7Azvw8KB8U9QFmL3VdQL4TfG9qJNxG9zcarHwrhCifQDp5FrP5jh37JCV9qEtuJANSJxg8Beeck7FJJ8psPe1vMfkcfq5e39vwSf6MxNpAmLBcDKUAH3YQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64350 	- CASTILLON DE LEMBEYE](https://docs.stopcoronavirus.tech/#/r/markdown/64350_castillon-de-lembeye/4XTTM3KXo7Q9NTVB5R4KYX8nsP3MVUXEFubh9Zf5wZUYzdzC4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64350 	- CASTILLON DE LEMBEYE](https://docs.stopcoronavirus.tech/#/w/markdown/64350_castillon-de-lembeye/4XTTM3KXo7Q9NTVB5R4KYX8nsP3MVUXEFubh9Zf5wZUYzdzC4-K3TgUfEAaU15nEwpMj7Azvw8KB8U9QFmL3VdQL4TfG9qJNxG9zcarHwrhCifQDp5FrP5jh37JCV9qEtuJANSJxg8Beeck7FJJ8psPe1vMfkcfq5e39vwSf6MxNpAmLBcDKUAH3YQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 49140 	- LA CHAPELLE ST LAUD](https://docs.stopcoronavirus.tech/r/markdown/49140_la-chapelle-st-laud/4XTTM6GHrfmCYqXSKW4xN68PxHJWj7Qth8kKvSSe6sB8SRw7M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49140 	- LA CHAPELLE ST LAUD](https://docs.stopcoronavirus.tech/w/markdown/49140_la-chapelle-st-laud/4XTTM6GHrfmCYqXSKW4xN68PxHJWj7Qth8kKvSSe6sB8SRw7M-K3TgUYc1XP1hprqkPzbNoNbAcoowaSj6WMvJjj5H7YfQpojNCZdKRzFM19MyRado7WrAEvTQh4jX7aJe3Hxrok5WynwohrBfZooRHzyWTEVBSSgHFYnAs1f9jJpKrMamuNv89Hq9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49140 	- LA CHAPELLE ST LAUD](https://docs.stopcoronavirus.tech/#/r/markdown/49140_la-chapelle-st-laud/4XTTM6GHrfmCYqXSKW4xN68PxHJWj7Qth8kKvSSe6sB8SRw7M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49140 	- LA CHAPELLE ST LAUD](https://docs.stopcoronavirus.tech/#/w/markdown/49140_la-chapelle-st-laud/4XTTM6GHrfmCYqXSKW4xN68PxHJWj7Qth8kKvSSe6sB8SRw7M-K3TgUYc1XP1hprqkPzbNoNbAcoowaSj6WMvJjj5H7YfQpojNCZdKRzFM19MyRado7WrAEvTQh4jX7aJe3Hxrok5WynwohrBfZooRHzyWTEVBSSgHFYnAs1f9jJpKrMamuNv89Hq9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

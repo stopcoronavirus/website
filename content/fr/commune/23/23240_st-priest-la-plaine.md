@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23240 	- ST PRIEST LA PLAINE](https://docs.stopcoronavirus.tech/r/markdown/23240_st-priest-la-plaine/4XTTM5XA6nFwLS4YzPYcs6coP3B3MUDHn1jHZGRJhuX3Z9meZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23240 	- ST PRIEST LA PLAINE](https://docs.stopcoronavirus.tech/w/markdown/23240_st-priest-la-plaine/4XTTM5XA6nFwLS4YzPYcs6coP3B3MUDHn1jHZGRJhuX3Z9meZ-K3TgTnQxRrd1vyy4H5vLhA9X6UJSRKdB8ccW8H3RWEUakV4Ugnrrz6R35o7GoSt3DYJFmrqExmpFSt1zbByMM7pWwY6oP3sn3xRSQWfshHEBY9kCfv59dL55EGYihTgK3etEfS6m) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23240 	- ST PRIEST LA PLAINE](https://docs.stopcoronavirus.tech/#/r/markdown/23240_st-priest-la-plaine/4XTTM5XA6nFwLS4YzPYcs6coP3B3MUDHn1jHZGRJhuX3Z9meZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23240 	- ST PRIEST LA PLAINE](https://docs.stopcoronavirus.tech/#/w/markdown/23240_st-priest-la-plaine/4XTTM5XA6nFwLS4YzPYcs6coP3B3MUDHn1jHZGRJhuX3Z9meZ-K3TgTnQxRrd1vyy4H5vLhA9X6UJSRKdB8ccW8H3RWEUakV4Ugnrrz6R35o7GoSt3DYJFmrqExmpFSt1zbByMM7pWwY6oP3sn3xRSQWfshHEBY9kCfv59dL55EGYihTgK3etEfS6m) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86300 	- LEIGNES SUR FONTAINE](https://docs.stopcoronavirus.tech/r/markdown/86300_leignes-sur-fontaine/4XTTMEUd3DPPPHhcVFcr5M8p4DPQ7LrZAVivLtks2GZSJ5iEn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86300 	- LEIGNES SUR FONTAINE](https://docs.stopcoronavirus.tech/w/markdown/86300_leignes-sur-fontaine/4XTTMEUd3DPPPHhcVFcr5M8p4DPQ7LrZAVivLtks2GZSJ5iEn-K3TgThdf8kRvkos9BznD1ZDrB4uRdFwUgvUiKvKfUzHPcCGihm6ykR64FQ7fqxh358VAFgAGHTjNrzKdvzrsZo3tVhgiJ981Ws1DyC13Mb6PcS587WtHmbExLkGYchMtysWhE59k) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86300 	- LEIGNES SUR FONTAINE](https://docs.stopcoronavirus.tech/#/r/markdown/86300_leignes-sur-fontaine/4XTTMEUd3DPPPHhcVFcr5M8p4DPQ7LrZAVivLtks2GZSJ5iEn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86300 	- LEIGNES SUR FONTAINE](https://docs.stopcoronavirus.tech/#/w/markdown/86300_leignes-sur-fontaine/4XTTMEUd3DPPPHhcVFcr5M8p4DPQ7LrZAVivLtks2GZSJ5iEn-K3TgThdf8kRvkos9BznD1ZDrB4uRdFwUgvUiKvKfUzHPcCGihm6ykR64FQ7fqxh358VAFgAGHTjNrzKdvzrsZo3tVhgiJ981Ws1DyC13Mb6PcS587WtHmbExLkGYchMtysWhE59k) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

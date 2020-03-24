@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50750 	- STE SUZANNE SUR VIRE](https://docs.stopcoronavirus.tech/r/markdown/50750_ste-suzanne-sur-vire/4XTTM4WExxH4yNZpefARagRfYWNbTr3BvokrPM89LaDRrrjTd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50750 	- STE SUZANNE SUR VIRE](https://docs.stopcoronavirus.tech/w/markdown/50750_ste-suzanne-sur-vire/4XTTM4WExxH4yNZpefARagRfYWNbTr3BvokrPM89LaDRrrjTd-K3TgTu2B3VH3XCdFor7KaNGZDGCnnwoBToH4ke2PnBZ58ia4oeSWd8ZRso1S4v2BfQkhAVNh6TKU54fK5Jq4drS5t6Fvbkv1pmvURhLn9CzHXtEefP7eRiBzURnaUv2nwKQfc367) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50750 	- STE SUZANNE SUR VIRE](https://docs.stopcoronavirus.tech/#/r/markdown/50750_ste-suzanne-sur-vire/4XTTM4WExxH4yNZpefARagRfYWNbTr3BvokrPM89LaDRrrjTd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50750 	- STE SUZANNE SUR VIRE](https://docs.stopcoronavirus.tech/#/w/markdown/50750_ste-suzanne-sur-vire/4XTTM4WExxH4yNZpefARagRfYWNbTr3BvokrPM89LaDRrrjTd-K3TgTu2B3VH3XCdFor7KaNGZDGCnnwoBToH4ke2PnBZ58ia4oeSWd8ZRso1S4v2BfQkhAVNh6TKU54fK5Jq4drS5t6Fvbkv1pmvURhLn9CzHXtEefP7eRiBzURnaUv2nwKQfc367) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

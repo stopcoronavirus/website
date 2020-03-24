@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 45150 	- JARGEAU](https://docs.stopcoronavirus.tech/r/markdown/45150_jargeau/4XTTM27EaVjokv2ZvA83NHxNxtYfck22WoTHJx2va5EyTAP3a) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45150 	- JARGEAU](https://docs.stopcoronavirus.tech/w/markdown/45150_jargeau/4XTTM27EaVjokv2ZvA83NHxNxtYfck22WoTHJx2va5EyTAP3a-K3TgU73aW1przsciusjnASge1ExzJmc53kyLfsNmPj2PA4CNGzZgq77rtBifHFh4SVbAWJXHTLaaC6A7TgYTxPPpdD5b4jZtVWTLiGUQkhbdFZtc3HVpUAZn8TE61BpHbaNY6BGG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45150 	- JARGEAU](https://docs.stopcoronavirus.tech/#/r/markdown/45150_jargeau/4XTTM27EaVjokv2ZvA83NHxNxtYfck22WoTHJx2va5EyTAP3a) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45150 	- JARGEAU](https://docs.stopcoronavirus.tech/#/w/markdown/45150_jargeau/4XTTM27EaVjokv2ZvA83NHxNxtYfck22WoTHJx2va5EyTAP3a-K3TgU73aW1przsciusjnASge1ExzJmc53kyLfsNmPj2PA4CNGzZgq77rtBifHFh4SVbAWJXHTLaaC6A7TgYTxPPpdD5b4jZtVWTLiGUQkhbdFZtc3HVpUAZn8TE61BpHbaNY6BGG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

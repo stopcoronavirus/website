@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83210 	- SOLLIES PONT](https://docs.stopcoronavirus.tech/r/markdown/83210_sollies-pont/4XTTMFXUc9i8g9jPvUVAKttVfXjC2k6g7aQqFu3jKu4yUHuXB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83210 	- SOLLIES PONT](https://docs.stopcoronavirus.tech/w/markdown/83210_sollies-pont/4XTTMFXUc9i8g9jPvUVAKttVfXjC2k6g7aQqFu3jKu4yUHuXB-K3TgTgiREqNHkZ7FT7u8n1tAJw3Kd9uFRNKkAYe4PZJp2S1aSyjq8B6kJgN53FB2TY76Mt9THgaSELG1aS1JxB4u6ertEuCjK79FPG4Qho4qdjaxpp3LSkqJdK9q2UYcmaY1BgQu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83210 	- SOLLIES PONT](https://docs.stopcoronavirus.tech/#/r/markdown/83210_sollies-pont/4XTTMFXUc9i8g9jPvUVAKttVfXjC2k6g7aQqFu3jKu4yUHuXB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83210 	- SOLLIES PONT](https://docs.stopcoronavirus.tech/#/w/markdown/83210_sollies-pont/4XTTMFXUc9i8g9jPvUVAKttVfXjC2k6g7aQqFu3jKu4yUHuXB-K3TgTgiREqNHkZ7FT7u8n1tAJw3Kd9uFRNKkAYe4PZJp2S1aSyjq8B6kJgN53FB2TY76Mt9THgaSELG1aS1JxB4u6ertEuCjK79FPG4Qho4qdjaxpp3LSkqJdK9q2UYcmaY1BgQu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

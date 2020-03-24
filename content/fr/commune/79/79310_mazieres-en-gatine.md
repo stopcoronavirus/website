@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 79310 	- MAZIERES EN GATINE](https://docs.stopcoronavirus.tech/r/markdown/79310_mazieres-en-gatine/4XTTMAoNv6eMUCsNxT2jgJao2115yVNryh4MtoPNaUCzumu5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79310 	- MAZIERES EN GATINE](https://docs.stopcoronavirus.tech/w/markdown/79310_mazieres-en-gatine/4XTTMAoNv6eMUCsNxT2jgJao2115yVNryh4MtoPNaUCzumu5U-K3TgUvLoiUoXr28kQBYVMUd1vyS4Lj4WbCcibRY5ynmoDyqJ6wKH7Yw9aFW1QUaqkC7g8cKFzwBYzvCpcVt3q92eJWNWTShGkkAa6Yf5PiDYApnhcjSP3gPEiQxwWydsUAdHjibC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79310 	- MAZIERES EN GATINE](https://docs.stopcoronavirus.tech/#/r/markdown/79310_mazieres-en-gatine/4XTTMAoNv6eMUCsNxT2jgJao2115yVNryh4MtoPNaUCzumu5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79310 	- MAZIERES EN GATINE](https://docs.stopcoronavirus.tech/#/w/markdown/79310_mazieres-en-gatine/4XTTMAoNv6eMUCsNxT2jgJao2115yVNryh4MtoPNaUCzumu5U-K3TgUvLoiUoXr28kQBYVMUd1vyS4Lj4WbCcibRY5ynmoDyqJ6wKH7Yw9aFW1QUaqkC7g8cKFzwBYzvCpcVt3q92eJWNWTShGkkAa6Yf5PiDYApnhcjSP3gPEiQxwWydsUAdHjibC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

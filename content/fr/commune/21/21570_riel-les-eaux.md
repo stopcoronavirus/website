@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21570 	- RIEL LES EAUX](https://docs.stopcoronavirus.tech/r/markdown/21570_riel-les-eaux/4XTTM2QCU2xMi9S8s6uPSy4dEzJouk4SNbQZr7rfe612F4zSW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21570 	- RIEL LES EAUX](https://docs.stopcoronavirus.tech/w/markdown/21570_riel-les-eaux/4XTTM2QCU2xMi9S8s6uPSy4dEzJouk4SNbQZr7rfe612F4zSW-K3TgUyzy83nQWvSiCK8ZfHmoqB52c41qom69jXoRf7oqV78Bg9Hth6ZjnyX8qxeLRhDzVeDcZ4SZfrgf2oVGmJcc3TYQc3bcy9jVgLBotTKEAdj51JNLAnNQjPJno3NrX3H6ok6N) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21570 	- RIEL LES EAUX](https://docs.stopcoronavirus.tech/#/r/markdown/21570_riel-les-eaux/4XTTM2QCU2xMi9S8s6uPSy4dEzJouk4SNbQZr7rfe612F4zSW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21570 	- RIEL LES EAUX](https://docs.stopcoronavirus.tech/#/w/markdown/21570_riel-les-eaux/4XTTM2QCU2xMi9S8s6uPSy4dEzJouk4SNbQZr7rfe612F4zSW-K3TgUyzy83nQWvSiCK8ZfHmoqB52c41qom69jXoRf7oqV78Bg9Hth6ZjnyX8qxeLRhDzVeDcZ4SZfrgf2oVGmJcc3TYQc3bcy9jVgLBotTKEAdj51JNLAnNQjPJno3NrX3H6ok6N) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23210 	- MARSAC](https://docs.stopcoronavirus.tech/r/markdown/23210_marsac/4XTTM95xC1GEK41Dtj9N8ph3iVUczh2RRX5YGJEW1GeB5djYA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23210 	- MARSAC](https://docs.stopcoronavirus.tech/w/markdown/23210_marsac/4XTTM95xC1GEK41Dtj9N8ph3iVUczh2RRX5YGJEW1GeB5djYA-K3TgTnA6bM6Tq44Ci5pf5cZiHRiJttHBZkaxZy3VaxLCdQA67qRTqjqyENBVKkrtnzqUmDcuZNuvu8313EE8qGWynUtCPeac2PCCFkE2kpaKxhAmLmFuEaanEUiW7p4rVjkbwiYW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23210 	- MARSAC](https://docs.stopcoronavirus.tech/#/r/markdown/23210_marsac/4XTTM95xC1GEK41Dtj9N8ph3iVUczh2RRX5YGJEW1GeB5djYA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23210 	- MARSAC](https://docs.stopcoronavirus.tech/#/w/markdown/23210_marsac/4XTTM95xC1GEK41Dtj9N8ph3iVUczh2RRX5YGJEW1GeB5djYA-K3TgTnA6bM6Tq44Ci5pf5cZiHRiJttHBZkaxZy3VaxLCdQA67qRTqjqyENBVKkrtnzqUmDcuZNuvu8313EE8qGWynUtCPeac2PCCFkE2kpaKxhAmLmFuEaanEUiW7p4rVjkbwiYW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

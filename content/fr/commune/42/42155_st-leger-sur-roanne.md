@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42155 	- ST LEGER SUR ROANNE](https://docs.stopcoronavirus.tech/r/markdown/42155_st-leger-sur-roanne/4XTTM4Rn7vqjyY3nDSi4MVCWCLjJwP3X2vBXYPTBJsHmPwJxY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42155 	- ST LEGER SUR ROANNE](https://docs.stopcoronavirus.tech/w/markdown/42155_st-leger-sur-roanne/4XTTM4Rn7vqjyY3nDSi4MVCWCLjJwP3X2vBXYPTBJsHmPwJxY-K3TgU2DnFzA9ZemzqdRJAb1JcZFaWrxcCktGKqMhKcFNnuf1nVrRnqdFFLRHKEWVZQv6hd2L5whQpg1dWdE5qomhR3E2vwxtxPhEgCo5527EffZj9SGncKH6C5Pf1HkMx5KjwYEk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42155 	- ST LEGER SUR ROANNE](https://docs.stopcoronavirus.tech/#/r/markdown/42155_st-leger-sur-roanne/4XTTM4Rn7vqjyY3nDSi4MVCWCLjJwP3X2vBXYPTBJsHmPwJxY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42155 	- ST LEGER SUR ROANNE](https://docs.stopcoronavirus.tech/#/w/markdown/42155_st-leger-sur-roanne/4XTTM4Rn7vqjyY3nDSi4MVCWCLjJwP3X2vBXYPTBJsHmPwJxY-K3TgU2DnFzA9ZemzqdRJAb1JcZFaWrxcCktGKqMhKcFNnuf1nVrRnqdFFLRHKEWVZQv6hd2L5whQpg1dWdE5qomhR3E2vwxtxPhEgCo5527EffZj9SGncKH6C5Pf1HkMx5KjwYEk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

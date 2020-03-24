@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 39800 	- VAUX SUR POLIGNY](https://docs.stopcoronavirus.tech/r/markdown/39800_vaux-sur-poligny/4XTTMBZ3idYDkE3yh4PCZMkgg8bf2HZDw7VK3wwgEtybpfmot) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39800 	- VAUX SUR POLIGNY](https://docs.stopcoronavirus.tech/w/markdown/39800_vaux-sur-poligny/4XTTMBZ3idYDkE3yh4PCZMkgg8bf2HZDw7VK3wwgEtybpfmot-K3TgUTMFD4X2jB3gFnLr3s6Jrh3yoW1xa9LNLMsE8u1Dgdp8CSpGEuNoo7y2oKtLqUYcLNeQC6DSQ6gtSho98dTT13tTTrcwT7MLYVfgJ5EiQJ7kvt5nXUwrWGPjqrvxMMQ9zR2E) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39800 	- VAUX SUR POLIGNY](https://docs.stopcoronavirus.tech/#/r/markdown/39800_vaux-sur-poligny/4XTTMBZ3idYDkE3yh4PCZMkgg8bf2HZDw7VK3wwgEtybpfmot) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39800 	- VAUX SUR POLIGNY](https://docs.stopcoronavirus.tech/#/w/markdown/39800_vaux-sur-poligny/4XTTMBZ3idYDkE3yh4PCZMkgg8bf2HZDw7VK3wwgEtybpfmot-K3TgUTMFD4X2jB3gFnLr3s6Jrh3yoW1xa9LNLMsE8u1Dgdp8CSpGEuNoo7y2oKtLqUYcLNeQC6DSQ6gtSho98dTT13tTTrcwT7MLYVfgJ5EiQJ7kvt5nXUwrWGPjqrvxMMQ9zR2E) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

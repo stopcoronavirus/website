@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 54300 	- BIENVILLE LA PETITE](https://docs.stopcoronavirus.tech/r/markdown/54300_bienville-la-petite/4XTTM4HHd5Xg6SwNrWSKNWL21rnT5fdGsrUsYny7LyHVuuGBg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54300 	- BIENVILLE LA PETITE](https://docs.stopcoronavirus.tech/w/markdown/54300_bienville-la-petite/4XTTM4HHd5Xg6SwNrWSKNWL21rnT5fdGsrUsYny7LyHVuuGBg-K3TgUnZDZ5Y7nSv7KQ4zpAuoWHghyNDJx5DkJhtqCM9jYEABL7cDLvHEEWaJKrpeeZBP3aatzW8YQGvChd1qF3hBNmwYshzAM85TwBoVQdCWpiqW8aixgC2i8VFY4Tg6i7DdUfPU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54300 	- BIENVILLE LA PETITE](https://docs.stopcoronavirus.tech/#/r/markdown/54300_bienville-la-petite/4XTTM4HHd5Xg6SwNrWSKNWL21rnT5fdGsrUsYny7LyHVuuGBg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54300 	- BIENVILLE LA PETITE](https://docs.stopcoronavirus.tech/#/w/markdown/54300_bienville-la-petite/4XTTM4HHd5Xg6SwNrWSKNWL21rnT5fdGsrUsYny7LyHVuuGBg-K3TgUnZDZ5Y7nSv7KQ4zpAuoWHghyNDJx5DkJhtqCM9jYEABL7cDLvHEEWaJKrpeeZBP3aatzW8YQGvChd1qF3hBNmwYshzAM85TwBoVQdCWpiqW8aixgC2i8VFY4Tg6i7DdUfPU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

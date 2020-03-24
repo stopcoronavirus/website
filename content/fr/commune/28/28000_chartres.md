@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28000 	- CHARTRES](https://docs.stopcoronavirus.tech/r/markdown/28000_chartres/4XTTMCbsnPXoTQaMZE7QV3CMo7956jKjWx4Gpwm9VeDLm5d4H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28000 	- CHARTRES](https://docs.stopcoronavirus.tech/w/markdown/28000_chartres/4XTTMCbsnPXoTQaMZE7QV3CMo7956jKjWx4Gpwm9VeDLm5d4H-K3TgTiHo5w9WXkLSRkxEn6RwjkubtrUey9WiNKtu8zZDoj7x3Ry3dFFZKrkiRZNxAAofrzTmwrYcijYYX3VBZYhXG8x66ixWivmBEDN6E3nBpL89Aztb432vatzqHJYsqKuEWTem) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28000 	- CHARTRES](https://docs.stopcoronavirus.tech/#/r/markdown/28000_chartres/4XTTMCbsnPXoTQaMZE7QV3CMo7956jKjWx4Gpwm9VeDLm5d4H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28000 	- CHARTRES](https://docs.stopcoronavirus.tech/#/w/markdown/28000_chartres/4XTTMCbsnPXoTQaMZE7QV3CMo7956jKjWx4Gpwm9VeDLm5d4H-K3TgTiHo5w9WXkLSRkxEn6RwjkubtrUey9WiNKtu8zZDoj7x3Ry3dFFZKrkiRZNxAAofrzTmwrYcijYYX3VBZYhXG8x66ixWivmBEDN6E3nBpL89Aztb432vatzqHJYsqKuEWTem) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

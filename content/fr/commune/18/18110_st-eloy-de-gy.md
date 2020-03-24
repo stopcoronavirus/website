@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18110 	- ST ELOY DE GY](https://docs.stopcoronavirus.tech/r/markdown/18110_st-eloy-de-gy/4XTTM97DSnfMQrwTXhDQU15UJLfPXKdPS9JghZBtndwiFeJQR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18110 	- ST ELOY DE GY](https://docs.stopcoronavirus.tech/w/markdown/18110_st-eloy-de-gy/4XTTM97DSnfMQrwTXhDQU15UJLfPXKdPS9JghZBtndwiFeJQR-K3TgTuRVjm21k15uWb4uRpazU8LVDgNT6Uy5AexBLM5kXWtk6ivGSykSJDBHn5XCqpwH18Q61PqyJuP9yV4kwVzU46RkHVJa2CsCMNmSga9meRjjYg1myEYFadQ4gQFYEiyWmNch) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18110 	- ST ELOY DE GY](https://docs.stopcoronavirus.tech/#/r/markdown/18110_st-eloy-de-gy/4XTTM97DSnfMQrwTXhDQU15UJLfPXKdPS9JghZBtndwiFeJQR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18110 	- ST ELOY DE GY](https://docs.stopcoronavirus.tech/#/w/markdown/18110_st-eloy-de-gy/4XTTM97DSnfMQrwTXhDQU15UJLfPXKdPS9JghZBtndwiFeJQR-K3TgTuRVjm21k15uWb4uRpazU8LVDgNT6Uy5AexBLM5kXWtk6ivGSykSJDBHn5XCqpwH18Q61PqyJuP9yV4kwVzU46RkHVJa2CsCMNmSga9meRjjYg1myEYFadQ4gQFYEiyWmNch) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

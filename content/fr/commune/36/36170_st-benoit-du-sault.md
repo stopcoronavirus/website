@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36170 	- ST BENOIT DU SAULT](https://docs.stopcoronavirus.tech/r/markdown/36170_st-benoit-du-sault/4XTTM1NS5aUF7V5pE7dA3L6dWTtJMnMvShJeCieAXwuF27zng) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36170 	- ST BENOIT DU SAULT](https://docs.stopcoronavirus.tech/w/markdown/36170_st-benoit-du-sault/4XTTM1NS5aUF7V5pE7dA3L6dWTtJMnMvShJeCieAXwuF27zng-K3TgUHeyafq5reBdMTZ9uAHYEzqxURH1hgNH3C3mVkDwpxHKL888a2B9RzFXUDKRKiLPJ7rKcLtsFWpwPw7pXxEL18GJ8bsbAbcqGnz6veBZfa7aSSEDw1DWbSyqMDj9Ujm1cuuE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36170 	- ST BENOIT DU SAULT](https://docs.stopcoronavirus.tech/#/r/markdown/36170_st-benoit-du-sault/4XTTM1NS5aUF7V5pE7dA3L6dWTtJMnMvShJeCieAXwuF27zng) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36170 	- ST BENOIT DU SAULT](https://docs.stopcoronavirus.tech/#/w/markdown/36170_st-benoit-du-sault/4XTTM1NS5aUF7V5pE7dA3L6dWTtJMnMvShJeCieAXwuF27zng-K3TgUHeyafq5reBdMTZ9uAHYEzqxURH1hgNH3C3mVkDwpxHKL888a2B9RzFXUDKRKiLPJ7rKcLtsFWpwPw7pXxEL18GJ8bsbAbcqGnz6veBZfa7aSSEDw1DWbSyqMDj9Ujm1cuuE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

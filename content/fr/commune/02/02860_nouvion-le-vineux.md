@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02860 	- NOUVION LE VINEUX](https://docs.stopcoronavirus.tech/r/markdown/02860_nouvion-le-vineux/4XTTM9K1GW2gJifw987W9neonKYziMKj6pPrjCdSbo9zWLHz8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02860 	- NOUVION LE VINEUX](https://docs.stopcoronavirus.tech/w/markdown/02860_nouvion-le-vineux/4XTTM9K1GW2gJifw987W9neonKYziMKj6pPrjCdSbo9zWLHz8-K3TgUeYZQBazLrDr9PDf2XqZiaetwdDNL5M7NUgs3xYXqQ3cosfi2YBTaTX77DqtwxEsHhHTnQwShuRQAEiAejT8fNeDzm8WRZDRoVnxBDEj6gGiH5Dhr5XzfNVr6kypQsJx3RkU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02860 	- NOUVION LE VINEUX](https://docs.stopcoronavirus.tech/#/r/markdown/02860_nouvion-le-vineux/4XTTM9K1GW2gJifw987W9neonKYziMKj6pPrjCdSbo9zWLHz8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02860 	- NOUVION LE VINEUX](https://docs.stopcoronavirus.tech/#/w/markdown/02860_nouvion-le-vineux/4XTTM9K1GW2gJifw987W9neonKYziMKj6pPrjCdSbo9zWLHz8-K3TgUeYZQBazLrDr9PDf2XqZiaetwdDNL5M7NUgs3xYXqQ3cosfi2YBTaTX77DqtwxEsHhHTnQwShuRQAEiAejT8fNeDzm8WRZDRoVnxBDEj6gGiH5Dhr5XzfNVr6kypQsJx3RkU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23000 	- ST FIEL](https://docs.stopcoronavirus.tech/r/markdown/23000_st-fiel/4XTTMEW5kp9VVoP4JTTcPEpv2XTb8WmPMnnX9UqKMAioYaFKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23000 	- ST FIEL](https://docs.stopcoronavirus.tech/w/markdown/23000_st-fiel/4XTTMEW5kp9VVoP4JTTcPEpv2XTb8WmPMnnX9UqKMAioYaFKj-K3TgTiVTzwwVRjsauZDUN5WMJ7JkV1SbHdGa34Rv1FjtjPhXDDj6doytVBnZypvmKCeqXMczHgZfxpgdQ32Xr39wWm58szMNVWbAwdWkaNKShswKHwJzY6Vc2pDLJMPuTE6YykfP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23000 	- ST FIEL](https://docs.stopcoronavirus.tech/#/r/markdown/23000_st-fiel/4XTTMEW5kp9VVoP4JTTcPEpv2XTb8WmPMnnX9UqKMAioYaFKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23000 	- ST FIEL](https://docs.stopcoronavirus.tech/#/w/markdown/23000_st-fiel/4XTTMEW5kp9VVoP4JTTcPEpv2XTb8WmPMnnX9UqKMAioYaFKj-K3TgTiVTzwwVRjsauZDUN5WMJ7JkV1SbHdGa34Rv1FjtjPhXDDj6doytVBnZypvmKCeqXMczHgZfxpgdQ32Xr39wWm58szMNVWbAwdWkaNKShswKHwJzY6Vc2pDLJMPuTE6YykfP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

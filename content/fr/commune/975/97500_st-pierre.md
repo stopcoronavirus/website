@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97500 	- ST PIERRE](https://docs.stopcoronavirus.tech/r/markdown/97500_st-pierre/4XTTMEMrztzN4JPBEFiR8V9dgRWzTxbAKnTFmNjfDZAQZ3mJP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97500 	- ST PIERRE](https://docs.stopcoronavirus.tech/w/markdown/97500_st-pierre/4XTTMEMrztzN4JPBEFiR8V9dgRWzTxbAKnTFmNjfDZAQZ3mJP-K3TgUQYBVucNaay2nDSq3613V6x5H1BgAnvexnUoTd87dFLD4DkBvfMQDRia6mMEQDBtiGRPgjWZYmijoZELavhuX1Ci4bLfHdKUxwBXBVhQW1f47upxyVHCxSJ3N2kRv2WY5mVR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 97500 	- ST PIERRE](https://docs.stopcoronavirus.tech/#/r/markdown/97500_st-pierre/4XTTMEMrztzN4JPBEFiR8V9dgRWzTxbAKnTFmNjfDZAQZ3mJP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 97500 	- ST PIERRE](https://docs.stopcoronavirus.tech/#/w/markdown/97500_st-pierre/4XTTMEMrztzN4JPBEFiR8V9dgRWzTxbAKnTFmNjfDZAQZ3mJP-K3TgUQYBVucNaay2nDSq3613V6x5H1BgAnvexnUoTd87dFLD4DkBvfMQDRia6mMEQDBtiGRPgjWZYmijoZELavhuX1Ci4bLfHdKUxwBXBVhQW1f47upxyVHCxSJ3N2kRv2WY5mVR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 975 	- Saint-Pierre-et-Miquelon](https://docs.stopcoronavirus.tech/r/markdown/975_saint-pierre-et-miquelon/4XTTMER9sF7dM6txvW5veDyctjZooCH5rWPoHb2L4fVpTmumZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 975 	- Saint-Pierre-et-Miquelon](https://docs.stopcoronavirus.tech/w/markdown/975_saint-pierre-et-miquelon/4XTTMER9sF7dM6txvW5veDyctjZooCH5rWPoHb2L4fVpTmumZ-K3TgV16P5UzNdRtSZnFVgnQvGoEZkrbwboxjGRjXVmuMUjq1rUdycbg7fUrqdaCdZ2HsgRgqBEzsRrZRHfHCVjhRdXMEP2tP3u3KxwREo2E7ajW5Gca4FDsC7gewnWe59qaCmoxj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 975 	- Saint-Pierre-et-Miquelon](https://docs.stopcoronavirus.tech/#/r/markdown/975_saint-pierre-et-miquelon/4XTTMER9sF7dM6txvW5veDyctjZooCH5rWPoHb2L4fVpTmumZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 975 	- Saint-Pierre-et-Miquelon](https://docs.stopcoronavirus.tech/#/w/markdown/975_saint-pierre-et-miquelon/4XTTMER9sF7dM6txvW5veDyctjZooCH5rWPoHb2L4fVpTmumZ-K3TgV16P5UzNdRtSZnFVgnQvGoEZkrbwboxjGRjXVmuMUjq1rUdycbg7fUrqdaCdZ2HsgRgqBEzsRrZRHfHCVjhRdXMEP2tP3u3KxwREo2E7ajW5Gca4FDsC7gewnWe59qaCmoxj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70800 	- BOURGUIGNON LES CONFLANS](https://docs.stopcoronavirus.tech/r/markdown/70800_bourguignon-les-conflans/4XTTM41To3A8bCmHNvaHSkpFUwQoCE9pAk5kEfhgWb3Ded2Av) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70800 	- BOURGUIGNON LES CONFLANS](https://docs.stopcoronavirus.tech/w/markdown/70800_bourguignon-les-conflans/4XTTM41To3A8bCmHNvaHSkpFUwQoCE9pAk5kEfhgWb3Ded2Av-K3TgUZTJC7SPaA6BUaqdHZhcTTUTcdLAPGb3xNAwm8CJLqMu8FpBWSzFn5aPc4TiZE5XkMhABc6eUZZ8g7Ayfuu2R3gxv4czHW1NDLjH3X8RCmdVFLVqvqXenPJHCPW71pHatFGn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70800 	- BOURGUIGNON LES CONFLANS](https://docs.stopcoronavirus.tech/#/r/markdown/70800_bourguignon-les-conflans/4XTTM41To3A8bCmHNvaHSkpFUwQoCE9pAk5kEfhgWb3Ded2Av) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70800 	- BOURGUIGNON LES CONFLANS](https://docs.stopcoronavirus.tech/#/w/markdown/70800_bourguignon-les-conflans/4XTTM41To3A8bCmHNvaHSkpFUwQoCE9pAk5kEfhgWb3Ded2Av-K3TgUZTJC7SPaA6BUaqdHZhcTTUTcdLAPGb3xNAwm8CJLqMu8FpBWSzFn5aPc4TiZE5XkMhABc6eUZZ8g7Ayfuu2R3gxv4czHW1NDLjH3X8RCmdVFLVqvqXenPJHCPW71pHatFGn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

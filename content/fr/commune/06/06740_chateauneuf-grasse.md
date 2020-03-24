@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 06740 	- CHATEAUNEUF GRASSE](https://docs.stopcoronavirus.tech/r/markdown/06740_chateauneuf-grasse/4XTTMHgLdD3A6smkK2bgqFekzQUn184gqgYswnYoLjFq7UHy8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06740 	- CHATEAUNEUF GRASSE](https://docs.stopcoronavirus.tech/w/markdown/06740_chateauneuf-grasse/4XTTMHgLdD3A6smkK2bgqFekzQUn184gqgYswnYoLjFq7UHy8-K3TgUEFCGyvscbFB6F5qMbGesc23KMb3UC8Mih9j94Pj2fMNmbXNbXZb4KXfPcjn1swVpHu1HUuKuJKry5iyz58rzuWPPKxmMfiDN3bEEFeTc9BMHvvvQm3HiNj9jitPqb4yj1Rp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06740 	- CHATEAUNEUF GRASSE](https://docs.stopcoronavirus.tech/#/r/markdown/06740_chateauneuf-grasse/4XTTMHgLdD3A6smkK2bgqFekzQUn184gqgYswnYoLjFq7UHy8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06740 	- CHATEAUNEUF GRASSE](https://docs.stopcoronavirus.tech/#/w/markdown/06740_chateauneuf-grasse/4XTTMHgLdD3A6smkK2bgqFekzQUn184gqgYswnYoLjFq7UHy8-K3TgUEFCGyvscbFB6F5qMbGesc23KMb3UC8Mih9j94Pj2fMNmbXNbXZb4KXfPcjn1swVpHu1HUuKuJKry5iyz58rzuWPPKxmMfiDN3bEEFeTc9BMHvvvQm3HiNj9jitPqb4yj1Rp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

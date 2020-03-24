@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60320 	- BETHISY ST PIERRE](https://docs.stopcoronavirus.tech/r/markdown/60320_bethisy-st-pierre/4XTTM7e8ZN7Ft6gyLDmxPmYA7pB77J382QeqSM4tpTGrj11UD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60320 	- BETHISY ST PIERRE](https://docs.stopcoronavirus.tech/w/markdown/60320_bethisy-st-pierre/4XTTM7e8ZN7Ft6gyLDmxPmYA7pB77J382QeqSM4tpTGrj11UD-K3TgUA8n8e8kwGpVd5ftpjiQeWZkfxUtKBRcKbWsGQEaTQS8piz31aR8dDk2Zj7Q9ZnZPrUeSv6jK7QkvcWnnAy3cQV543ePd3WK5E2vN4pMPR6S3DVwrTsDQhkrkY7pkowvhS6u) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60320 	- BETHISY ST PIERRE](https://docs.stopcoronavirus.tech/#/r/markdown/60320_bethisy-st-pierre/4XTTM7e8ZN7Ft6gyLDmxPmYA7pB77J382QeqSM4tpTGrj11UD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60320 	- BETHISY ST PIERRE](https://docs.stopcoronavirus.tech/#/w/markdown/60320_bethisy-st-pierre/4XTTM7e8ZN7Ft6gyLDmxPmYA7pB77J382QeqSM4tpTGrj11UD-K3TgUA8n8e8kwGpVd5ftpjiQeWZkfxUtKBRcKbWsGQEaTQS8piz31aR8dDk2Zj7Q9ZnZPrUeSv6jK7QkvcWnnAy3cQV543ePd3WK5E2vN4pMPR6S3DVwrTsDQhkrkY7pkowvhS6u) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

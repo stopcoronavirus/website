@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 05500 	- AUBESSAGNE](https://docs.stopcoronavirus.tech/r/markdown/05500_aubessagne/4XTTM5XPi3a2pWFnuwgQZ8wBEmKC23x7qVKK8kdkB5krwHyDe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05500 	- AUBESSAGNE](https://docs.stopcoronavirus.tech/w/markdown/05500_aubessagne/4XTTM5XPi3a2pWFnuwgQZ8wBEmKC23x7qVKK8kdkB5krwHyDe-K3TgTjBq5GZHh1XffBBxRftHVvk9kEzPrmdKW6zeLR4aQ6ZfzNsf2HbZHSRFXivBQcacwWVMrLK585QfhiM4Ryq1NiiVey9SHos3EWd4LPzFN6jCjMbr5G3Tksq9ebbK44UmudgQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05500 	- AUBESSAGNE](https://docs.stopcoronavirus.tech/#/r/markdown/05500_aubessagne/4XTTM5XPi3a2pWFnuwgQZ8wBEmKC23x7qVKK8kdkB5krwHyDe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05500 	- AUBESSAGNE](https://docs.stopcoronavirus.tech/#/w/markdown/05500_aubessagne/4XTTM5XPi3a2pWFnuwgQZ8wBEmKC23x7qVKK8kdkB5krwHyDe-K3TgTjBq5GZHh1XffBBxRftHVvk9kEzPrmdKW6zeLR4aQ6ZfzNsf2HbZHSRFXivBQcacwWVMrLK585QfhiM4Ryq1NiiVey9SHos3EWd4LPzFN6jCjMbr5G3Tksq9ebbK44UmudgQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

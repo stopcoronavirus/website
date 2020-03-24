@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85580 	- ST DENIS DU PAYRE](https://docs.stopcoronavirus.tech/r/markdown/85580_st-denis-du-payre/4XTTM6fLe5teXK9krxCheTGGUNdEGSaF1vkSmb1VXf2eD9pZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85580 	- ST DENIS DU PAYRE](https://docs.stopcoronavirus.tech/w/markdown/85580_st-denis-du-payre/4XTTM6fLe5teXK9krxCheTGGUNdEGSaF1vkSmb1VXf2eD9pZv-K3TgTf3j8znsmqT4GGU9M259oiKrGLJB7Jv17aXg7u8YwXUoEXBgrBKaLEXj9HLUiGUHzMyNBnJgwyPyt1Ta5TyUPBnuGkyG6VKXHbkoag3ZEhvvHASAS3fe4Rf8Cxuiy6j66p24) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85580 	- ST DENIS DU PAYRE](https://docs.stopcoronavirus.tech/#/r/markdown/85580_st-denis-du-payre/4XTTM6fLe5teXK9krxCheTGGUNdEGSaF1vkSmb1VXf2eD9pZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85580 	- ST DENIS DU PAYRE](https://docs.stopcoronavirus.tech/#/w/markdown/85580_st-denis-du-payre/4XTTM6fLe5teXK9krxCheTGGUNdEGSaF1vkSmb1VXf2eD9pZv-K3TgTf3j8znsmqT4GGU9M259oiKrGLJB7Jv17aXg7u8YwXUoEXBgrBKaLEXj9HLUiGUHzMyNBnJgwyPyt1Ta5TyUPBnuGkyG6VKXHbkoag3ZEhvvHASAS3fe4Rf8Cxuiy6j66p24) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

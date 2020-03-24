@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53230 	- LA CHAPELLE CRAONNAISE](https://docs.stopcoronavirus.tech/r/markdown/53230_la-chapelle-craonnaise/4XTTM68pXN2sso3UGiJM4TsdE5EZJRGLtq6AKE3KHu9MUKFc7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53230 	- LA CHAPELLE CRAONNAISE](https://docs.stopcoronavirus.tech/w/markdown/53230_la-chapelle-craonnaise/4XTTM68pXN2sso3UGiJM4TsdE5EZJRGLtq6AKE3KHu9MUKFc7-K3TgUEw4E4JuYDciBHb8eUj1EuQDppVTjFYUh7Hoa3Dt7yswbDBtTw4F3zNGfdkHA38FDWvRbcv1XByeP6QNdTNNisDvYgFPEiKk5KPB2thvB7sUCckfs1bHggVWE21Rd7E3chcf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53230 	- LA CHAPELLE CRAONNAISE](https://docs.stopcoronavirus.tech/#/r/markdown/53230_la-chapelle-craonnaise/4XTTM68pXN2sso3UGiJM4TsdE5EZJRGLtq6AKE3KHu9MUKFc7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53230 	- LA CHAPELLE CRAONNAISE](https://docs.stopcoronavirus.tech/#/w/markdown/53230_la-chapelle-craonnaise/4XTTM68pXN2sso3UGiJM4TsdE5EZJRGLtq6AKE3KHu9MUKFc7-K3TgUEw4E4JuYDciBHb8eUj1EuQDppVTjFYUh7Hoa3Dt7yswbDBtTw4F3zNGfdkHA38FDWvRbcv1XByeP6QNdTNNisDvYgFPEiKk5KPB2thvB7sUCckfs1bHggVWE21Rd7E3chcf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

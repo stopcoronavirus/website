@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 46350 	- NADAILLAC DE ROUGE](https://docs.stopcoronavirus.tech/r/markdown/46350_nadaillac-de-rouge/4XTTM1VyhpAWoyGLgxd6e78SxHReKGBjCAjSc4hppNxZHDfjJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46350 	- NADAILLAC DE ROUGE](https://docs.stopcoronavirus.tech/w/markdown/46350_nadaillac-de-rouge/4XTTM1VyhpAWoyGLgxd6e78SxHReKGBjCAjSc4hppNxZHDfjJ-K3TgTuqUrUZG3x2CYBX1bP7gcmmX7MWFyGjN32N6ZjyWhQ6i6LKp2GTrf5yQ1FAjqqfVaps5Tkj1yAwZbRoLJaTCJE354PocWJQEHSghYwABJAGDE1pbvikSA7wsBEk4qkn4TJaG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46350 	- NADAILLAC DE ROUGE](https://docs.stopcoronavirus.tech/#/r/markdown/46350_nadaillac-de-rouge/4XTTM1VyhpAWoyGLgxd6e78SxHReKGBjCAjSc4hppNxZHDfjJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46350 	- NADAILLAC DE ROUGE](https://docs.stopcoronavirus.tech/#/w/markdown/46350_nadaillac-de-rouge/4XTTM1VyhpAWoyGLgxd6e78SxHReKGBjCAjSc4hppNxZHDfjJ-K3TgTuqUrUZG3x2CYBX1bP7gcmmX7MWFyGjN32N6ZjyWhQ6i6LKp2GTrf5yQ1FAjqqfVaps5Tkj1yAwZbRoLJaTCJE354PocWJQEHSghYwABJAGDE1pbvikSA7wsBEk4qkn4TJaG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

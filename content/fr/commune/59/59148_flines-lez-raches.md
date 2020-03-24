@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59148 	- FLINES LEZ RACHES](https://docs.stopcoronavirus.tech/r/markdown/59148_flines-lez-raches/4XTTMDisMAaxV7aiHnqRBviywHzYyqBLBgtDxq62eUH7MV23v) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59148 	- FLINES LEZ RACHES](https://docs.stopcoronavirus.tech/w/markdown/59148_flines-lez-raches/4XTTMDisMAaxV7aiHnqRBviywHzYyqBLBgtDxq62eUH7MV23v-K3TgUqaJwbLihPX3eWgXZ1xRP89Tejbv6JQx71aZDpxT7SWVPQgYopFTPkqVqkA9E231ng2F6TK3TYuNNWaRbq859WbbpTu7DozNJcY1htm3sYSfVFPReqy4acYH4YTx7myrz3o2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59148 	- FLINES LEZ RACHES](https://docs.stopcoronavirus.tech/#/r/markdown/59148_flines-lez-raches/4XTTMDisMAaxV7aiHnqRBviywHzYyqBLBgtDxq62eUH7MV23v) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59148 	- FLINES LEZ RACHES](https://docs.stopcoronavirus.tech/#/w/markdown/59148_flines-lez-raches/4XTTMDisMAaxV7aiHnqRBviywHzYyqBLBgtDxq62eUH7MV23v-K3TgUqaJwbLihPX3eWgXZ1xRP89Tejbv6JQx71aZDpxT7SWVPQgYopFTPkqVqkA9E231ng2F6TK3TYuNNWaRbq859WbbpTu7DozNJcY1htm3sYSfVFPReqy4acYH4YTx7myrz3o2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

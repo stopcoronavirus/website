@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 52150 	- BOURMONT ENTRE MEUSE ET MOUZON](https://docs.stopcoronavirus.tech/r/markdown/52150_bourmont-entre-meuse-et-mouzon/4XTTM2n7TS8c2qzAKVM3dBFki39vS2ECpKBorcxN1f6zaG64k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52150 	- BOURMONT ENTRE MEUSE ET MOUZON](https://docs.stopcoronavirus.tech/w/markdown/52150_bourmont-entre-meuse-et-mouzon/4XTTM2n7TS8c2qzAKVM3dBFki39vS2ECpKBorcxN1f6zaG64k-K3TgUFcdAySXcTAQ4WZcUi4NiPMS2H18xhm7wyFPSvioQRr9pXENu98HbtJDMDV6i8Qm6Q8SHpa6bvwJTk2RyKHHF451TeVG9644bHp41m67vRqN9yA91kLoiMdJXS4GjwYV9T2L) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52150 	- BOURMONT ENTRE MEUSE ET MOUZON](https://docs.stopcoronavirus.tech/#/r/markdown/52150_bourmont-entre-meuse-et-mouzon/4XTTM2n7TS8c2qzAKVM3dBFki39vS2ECpKBorcxN1f6zaG64k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52150 	- BOURMONT ENTRE MEUSE ET MOUZON](https://docs.stopcoronavirus.tech/#/w/markdown/52150_bourmont-entre-meuse-et-mouzon/4XTTM2n7TS8c2qzAKVM3dBFki39vS2ECpKBorcxN1f6zaG64k-K3TgUFcdAySXcTAQ4WZcUi4NiPMS2H18xhm7wyFPSvioQRr9pXENu98HbtJDMDV6i8Qm6Q8SHpa6bvwJTk2RyKHHF451TeVG9644bHp41m67vRqN9yA91kLoiMdJXS4GjwYV9T2L) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

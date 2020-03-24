@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84330 	- MODENE](https://docs.stopcoronavirus.tech/r/markdown/84330_modene/4XTTM3KTMoJM3yqhYeh69cNkwyEYtzK9c4Vp1Q5h6WfyhLz4E) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84330 	- MODENE](https://docs.stopcoronavirus.tech/w/markdown/84330_modene/4XTTM3KTMoJM3yqhYeh69cNkwyEYtzK9c4Vp1Q5h6WfyhLz4E-K3TgUTsXJKkdEFE1qw35b1ygsgU2MA9T2uhtrturxXTofTBw4DMwZghQMaSjLJ4y9fLrQr2E4RhcuSUeKaF5Kr9Zo4VVw7CTv94j3pHEZA4d6RfkYVEcve7F3uPLG8gz9UcsKk86) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84330 	- MODENE](https://docs.stopcoronavirus.tech/#/r/markdown/84330_modene/4XTTM3KTMoJM3yqhYeh69cNkwyEYtzK9c4Vp1Q5h6WfyhLz4E) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84330 	- MODENE](https://docs.stopcoronavirus.tech/#/w/markdown/84330_modene/4XTTM3KTMoJM3yqhYeh69cNkwyEYtzK9c4Vp1Q5h6WfyhLz4E-K3TgUTsXJKkdEFE1qw35b1ygsgU2MA9T2uhtrturxXTofTBw4DMwZghQMaSjLJ4y9fLrQr2E4RhcuSUeKaF5Kr9Zo4VVw7CTv94j3pHEZA4d6RfkYVEcve7F3uPLG8gz9UcsKk86) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

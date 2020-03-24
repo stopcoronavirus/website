@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81190 	- MIRANDOL BOURGNOUNAC](https://docs.stopcoronavirus.tech/r/markdown/81190_mirandol-bourgnounac/4XTTM8gfekXtLNQgm94jicU2HdhwUVe7DkSL6kNqPArZC35dB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81190 	- MIRANDOL BOURGNOUNAC](https://docs.stopcoronavirus.tech/w/markdown/81190_mirandol-bourgnounac/4XTTM8gfekXtLNQgm94jicU2HdhwUVe7DkSL6kNqPArZC35dB-K3TgTioQWVJakumjgRoqB8E6Q6SrckgK5LssMD9o2pjfzzRPNrYqoguthpzcUWngKJtWbUsGvBd6AsueM25kGmobT4SzHYTmf3huJyAxTi4Ja9hZu33FMyDJrqiSSmPasxujuceu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81190 	- MIRANDOL BOURGNOUNAC](https://docs.stopcoronavirus.tech/#/r/markdown/81190_mirandol-bourgnounac/4XTTM8gfekXtLNQgm94jicU2HdhwUVe7DkSL6kNqPArZC35dB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81190 	- MIRANDOL BOURGNOUNAC](https://docs.stopcoronavirus.tech/#/w/markdown/81190_mirandol-bourgnounac/4XTTM8gfekXtLNQgm94jicU2HdhwUVe7DkSL6kNqPArZC35dB-K3TgTioQWVJakumjgRoqB8E6Q6SrckgK5LssMD9o2pjfzzRPNrYqoguthpzcUWngKJtWbUsGvBd6AsueM25kGmobT4SzHYTmf3huJyAxTi4Ja9hZu33FMyDJrqiSSmPasxujuceu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

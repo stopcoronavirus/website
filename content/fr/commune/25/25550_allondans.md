@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 25550 	- ALLONDANS](https://docs.stopcoronavirus.tech/r/markdown/25550_allondans/4XTTM6fD9e12Kq3PoNGoLuQ7J4nJB2GDS4M6SJEvrsj7EEMxR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25550 	- ALLONDANS](https://docs.stopcoronavirus.tech/w/markdown/25550_allondans/4XTTM6fD9e12Kq3PoNGoLuQ7J4nJB2GDS4M6SJEvrsj7EEMxR-K3TgTtnVacjNQQpGmrhgvbWDWZRwQwzTU3YoB1UGFxUuCJzA3Y2dkEyRH45FEVHGhsn9tJJt9ovUXUuYZmxbtrv9ZjB2LPaFa6RK33MJtMckSsFkDhg8RhqELR9Bm4S6iUbKawK3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25550 	- ALLONDANS](https://docs.stopcoronavirus.tech/#/r/markdown/25550_allondans/4XTTM6fD9e12Kq3PoNGoLuQ7J4nJB2GDS4M6SJEvrsj7EEMxR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25550 	- ALLONDANS](https://docs.stopcoronavirus.tech/#/w/markdown/25550_allondans/4XTTM6fD9e12Kq3PoNGoLuQ7J4nJB2GDS4M6SJEvrsj7EEMxR-K3TgTtnVacjNQQpGmrhgvbWDWZRwQwzTU3YoB1UGFxUuCJzA3Y2dkEyRH45FEVHGhsn9tJJt9ovUXUuYZmxbtrv9ZjB2LPaFa6RK33MJtMckSsFkDhg8RhqELR9Bm4S6iUbKawK3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

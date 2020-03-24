@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77580 	- VOULANGIS](https://docs.stopcoronavirus.tech/r/markdown/77580_voulangis/4XTTM2WMK4NaqYiceQm1qarbUDwJ6sgqEQt4XZToV3vwU1iJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77580 	- VOULANGIS](https://docs.stopcoronavirus.tech/w/markdown/77580_voulangis/4XTTM2WMK4NaqYiceQm1qarbUDwJ6sgqEQt4XZToV3vwU1iJF-K3TgUqDtn38q4qkbQJNb3MLa76s2Gm3VRnF4XWnRmJ2fxVy4LVU6pncFsUE6HvbwUrKPiogrGwSevbcdHd2cu2682AA8WP3884B4L8tJQtVopqF7fV8iCrnHS9u5Pu4qtNQjBUdR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77580 	- VOULANGIS](https://docs.stopcoronavirus.tech/#/r/markdown/77580_voulangis/4XTTM2WMK4NaqYiceQm1qarbUDwJ6sgqEQt4XZToV3vwU1iJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77580 	- VOULANGIS](https://docs.stopcoronavirus.tech/#/w/markdown/77580_voulangis/4XTTM2WMK4NaqYiceQm1qarbUDwJ6sgqEQt4XZToV3vwU1iJF-K3TgUqDtn38q4qkbQJNb3MLa76s2Gm3VRnF4XWnRmJ2fxVy4LVU6pncFsUE6HvbwUrKPiogrGwSevbcdHd2cu2682AA8WP3884B4L8tJQtVopqF7fV8iCrnHS9u5Pu4qtNQjBUdR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

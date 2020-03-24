@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76170 	- LILLEBONNE](https://docs.stopcoronavirus.tech/r/markdown/76170_lillebonne/4XTTMBJpfsXQGSoRo3Ug8c1PYgMn6tCu1H8EQ4L49vzdojFGS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76170 	- LILLEBONNE](https://docs.stopcoronavirus.tech/w/markdown/76170_lillebonne/4XTTMBJpfsXQGSoRo3Ug8c1PYgMn6tCu1H8EQ4L49vzdojFGS-K3TgUhsurTcbCJ1prY2b3hWCAv69DouRFT5TePz42bdGPFj2jyqdxGQZaL5Tx96C4WQ5z4nD1CB122RgKFqZEvVP52uDWdZcQsMGNFJ8QibcuTNPiojhVk3asmGVFuvA8nywjpSr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76170 	- LILLEBONNE](https://docs.stopcoronavirus.tech/#/r/markdown/76170_lillebonne/4XTTMBJpfsXQGSoRo3Ug8c1PYgMn6tCu1H8EQ4L49vzdojFGS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76170 	- LILLEBONNE](https://docs.stopcoronavirus.tech/#/w/markdown/76170_lillebonne/4XTTMBJpfsXQGSoRo3Ug8c1PYgMn6tCu1H8EQ4L49vzdojFGS-K3TgUhsurTcbCJ1prY2b3hWCAv69DouRFT5TePz42bdGPFj2jyqdxGQZaL5Tx96C4WQ5z4nD1CB122RgKFqZEvVP52uDWdZcQsMGNFJ8QibcuTNPiojhVk3asmGVFuvA8nywjpSr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

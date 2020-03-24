@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36230 	- ST DENIS DE JOUHET](https://docs.stopcoronavirus.tech/r/markdown/36230_st-denis-de-jouhet/4XTTM8B3GDxNuaTDxD28EJSjpfHydPyt3zB6dG5DCGKgwyRyq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36230 	- ST DENIS DE JOUHET](https://docs.stopcoronavirus.tech/w/markdown/36230_st-denis-de-jouhet/4XTTM8B3GDxNuaTDxD28EJSjpfHydPyt3zB6dG5DCGKgwyRyq-K3TgV5Yt8diFSgCj8RJ9tvAz8hdo6NRWT3J7GKzU9VmykpkuqBZqTFwpeFJQWBc24iVKG48WNkHFd4guq7DyoiozeLLmdHAg3w5RHccrUpYBZxbh3kcRyHpgBVzP3yYtmnMuUAUf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36230 	- ST DENIS DE JOUHET](https://docs.stopcoronavirus.tech/#/r/markdown/36230_st-denis-de-jouhet/4XTTM8B3GDxNuaTDxD28EJSjpfHydPyt3zB6dG5DCGKgwyRyq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36230 	- ST DENIS DE JOUHET](https://docs.stopcoronavirus.tech/#/w/markdown/36230_st-denis-de-jouhet/4XTTM8B3GDxNuaTDxD28EJSjpfHydPyt3zB6dG5DCGKgwyRyq-K3TgV5Yt8diFSgCj8RJ9tvAz8hdo6NRWT3J7GKzU9VmykpkuqBZqTFwpeFJQWBc24iVKG48WNkHFd4guq7DyoiozeLLmdHAg3w5RHccrUpYBZxbh3kcRyHpgBVzP3yYtmnMuUAUf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

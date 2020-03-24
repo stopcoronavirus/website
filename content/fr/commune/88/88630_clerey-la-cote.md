@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88630 	- CLEREY LA COTE](https://docs.stopcoronavirus.tech/r/markdown/88630_clerey-la-cote/4XTTM4Eko8CphRrCHwXa5hHXDfSSZbykEy1w5D3K9KgGV7CSJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88630 	- CLEREY LA COTE](https://docs.stopcoronavirus.tech/w/markdown/88630_clerey-la-cote/4XTTM4Eko8CphRrCHwXa5hHXDfSSZbykEy1w5D3K9KgGV7CSJ-K3TgUVNHT8ZtDcxjQUNeFX8Afw3GTbnfcYgQdU15Lhzapw5znka7LJ51UPTHHq3mZ5R5c3AL4QNGAssvTCXt7zs9xsEjpbpjJioGptw2aetwJNcByCoMQec8GmMc4pcmjmQ43DRQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88630 	- CLEREY LA COTE](https://docs.stopcoronavirus.tech/#/r/markdown/88630_clerey-la-cote/4XTTM4Eko8CphRrCHwXa5hHXDfSSZbykEy1w5D3K9KgGV7CSJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88630 	- CLEREY LA COTE](https://docs.stopcoronavirus.tech/#/w/markdown/88630_clerey-la-cote/4XTTM4Eko8CphRrCHwXa5hHXDfSSZbykEy1w5D3K9KgGV7CSJ-K3TgUVNHT8ZtDcxjQUNeFX8Afw3GTbnfcYgQdU15Lhzapw5znka7LJ51UPTHHq3mZ5R5c3AL4QNGAssvTCXt7zs9xsEjpbpjJioGptw2aetwJNcByCoMQec8GmMc4pcmjmQ43DRQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

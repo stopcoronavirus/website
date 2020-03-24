@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08190 	- VIEUX LES ASFELD](https://docs.stopcoronavirus.tech/r/markdown/08190_vieux-les-asfeld/4XTTMF235g6t8W8QN21RiktXqXh7NNcayMsV8R5PLfntL4myf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08190 	- VIEUX LES ASFELD](https://docs.stopcoronavirus.tech/w/markdown/08190_vieux-les-asfeld/4XTTMF235g6t8W8QN21RiktXqXh7NNcayMsV8R5PLfntL4myf-K3TgUpL3B1Gr37J32mfkufU3HB1orEsrmVjxFJrThSYeiNJD524bEpKw8R1DB3wMgeS1JK8p34jPbjgqWkKUZqRkKDVkKgEqEXxsi1TV2VLtD5f8yu5WsJYqXNnBT3kU396GXP9f) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08190 	- VIEUX LES ASFELD](https://docs.stopcoronavirus.tech/#/r/markdown/08190_vieux-les-asfeld/4XTTMF235g6t8W8QN21RiktXqXh7NNcayMsV8R5PLfntL4myf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08190 	- VIEUX LES ASFELD](https://docs.stopcoronavirus.tech/#/w/markdown/08190_vieux-les-asfeld/4XTTMF235g6t8W8QN21RiktXqXh7NNcayMsV8R5PLfntL4myf-K3TgUpL3B1Gr37J32mfkufU3HB1orEsrmVjxFJrThSYeiNJD524bEpKw8R1DB3wMgeS1JK8p34jPbjgqWkKUZqRkKDVkKgEqEXxsi1TV2VLtD5f8yu5WsJYqXNnBT3kU396GXP9f) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

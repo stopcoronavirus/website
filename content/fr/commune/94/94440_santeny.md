@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 94440 	- SANTENY](https://docs.stopcoronavirus.tech/r/markdown/94440_santeny/4XTTMAVNAfTPdSkFAi23tBaqh7uq16fcbB9v9vfhdbGMGkEiX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94440 	- SANTENY](https://docs.stopcoronavirus.tech/w/markdown/94440_santeny/4XTTMAVNAfTPdSkFAi23tBaqh7uq16fcbB9v9vfhdbGMGkEiX-K3TgUpftLuWBztwyERdz8uibui7v9qcK5EG7NoP4GvEWUihDqYGgZNVaLzvdimH1ELh1aQf18ahgdoPBG1xFgPuJnYbjuQGQi16fvGnMc5ZBQt6QyuB7osWKpWgEksoGhq3BS9Kh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 94440 	- SANTENY](https://docs.stopcoronavirus.tech/#/r/markdown/94440_santeny/4XTTMAVNAfTPdSkFAi23tBaqh7uq16fcbB9v9vfhdbGMGkEiX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 94440 	- SANTENY](https://docs.stopcoronavirus.tech/#/w/markdown/94440_santeny/4XTTMAVNAfTPdSkFAi23tBaqh7uq16fcbB9v9vfhdbGMGkEiX-K3TgUpftLuWBztwyERdz8uibui7v9qcK5EG7NoP4GvEWUihDqYGgZNVaLzvdimH1ELh1aQf18ahgdoPBG1xFgPuJnYbjuQGQi16fvGnMc5ZBQt6QyuB7osWKpWgEksoGhq3BS9Kh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 61270 	- LE MENIL BERARD](https://docs.stopcoronavirus.tech/r/markdown/61270_le-menil-berard/4XTTMHjTWavfYcW4cnGYrKuTD3aaWRJh9tyW4JqZNjvv6abar) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61270 	- LE MENIL BERARD](https://docs.stopcoronavirus.tech/w/markdown/61270_le-menil-berard/4XTTMHjTWavfYcW4cnGYrKuTD3aaWRJh9tyW4JqZNjvv6abar-K3TgUAC7UZ87ZCvPMQJfd3eW2TSyBEi2mafdAnC31ZXFVyg4WjZbnf3tRM8QgVd8ooTMMY7PdWcy89BFFddcjb8CcX4X9mv7PnvW5n7G7uoGGcm2ncAFT5dC1dkz28SG7payQoQe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61270 	- LE MENIL BERARD](https://docs.stopcoronavirus.tech/#/r/markdown/61270_le-menil-berard/4XTTMHjTWavfYcW4cnGYrKuTD3aaWRJh9tyW4JqZNjvv6abar) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61270 	- LE MENIL BERARD](https://docs.stopcoronavirus.tech/#/w/markdown/61270_le-menil-berard/4XTTMHjTWavfYcW4cnGYrKuTD3aaWRJh9tyW4JqZNjvv6abar-K3TgUAC7UZ87ZCvPMQJfd3eW2TSyBEi2mafdAnC31ZXFVyg4WjZbnf3tRM8QgVd8ooTMMY7PdWcy89BFFddcjb8CcX4X9mv7PnvW5n7G7uoGGcm2ncAFT5dC1dkz28SG7payQoQe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

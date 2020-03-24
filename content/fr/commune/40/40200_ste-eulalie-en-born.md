@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 40200 	- STE EULALIE EN BORN](https://docs.stopcoronavirus.tech/r/markdown/40200_ste-eulalie-en-born/4XTTMChkEiHtUUSU2KTiMPp5SYakMQ1dwHUutxqc6Ydq8pHKo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40200 	- STE EULALIE EN BORN](https://docs.stopcoronavirus.tech/w/markdown/40200_ste-eulalie-en-born/4XTTMChkEiHtUUSU2KTiMPp5SYakMQ1dwHUutxqc6Ydq8pHKo-K3TgUGddjrf2epmVs6VxBWmRQs42zg5KidREzn4QHBCPVdGchCipWe8W2WVA6qmuGLeusR84vMWKg6QQGotYJhFyRsfhFm67iBsckfdFY757yGKDPyFXFPVhVGQqNg3pMsyM6TMK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 40200 	- STE EULALIE EN BORN](https://docs.stopcoronavirus.tech/#/r/markdown/40200_ste-eulalie-en-born/4XTTMChkEiHtUUSU2KTiMPp5SYakMQ1dwHUutxqc6Ydq8pHKo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 40200 	- STE EULALIE EN BORN](https://docs.stopcoronavirus.tech/#/w/markdown/40200_ste-eulalie-en-born/4XTTMChkEiHtUUSU2KTiMPp5SYakMQ1dwHUutxqc6Ydq8pHKo-K3TgUGddjrf2epmVs6VxBWmRQs42zg5KidREzn4QHBCPVdGchCipWe8W2WVA6qmuGLeusR84vMWKg6QQGotYJhFyRsfhFm67iBsckfdFY757yGKDPyFXFPVhVGQqNg3pMsyM6TMK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 40 	- Landes](https://docs.stopcoronavirus.tech/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40 	- Landes](https://docs.stopcoronavirus.tech/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 40 	- Landes](https://docs.stopcoronavirus.tech/#/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 40 	- Landes](https://docs.stopcoronavirus.tech/#/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

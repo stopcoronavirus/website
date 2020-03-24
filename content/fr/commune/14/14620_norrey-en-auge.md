@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14620 	- NORREY EN AUGE](https://docs.stopcoronavirus.tech/r/markdown/14620_norrey-en-auge/4XTTME9YUd3LHqNNW7Zyr3uS3jQAeuPKQTvGKEeF6ujLmEAUL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14620 	- NORREY EN AUGE](https://docs.stopcoronavirus.tech/w/markdown/14620_norrey-en-auge/4XTTME9YUd3LHqNNW7Zyr3uS3jQAeuPKQTvGKEeF6ujLmEAUL-K3TgUn8sL1Nvj5aYx1uKjdszjn8KHGmXXPGJ4YWQ5TDYaqcuPFXMDUMrXY2uRPUfgqvqdf3JvjcAgvLt22JHDpbiYLhJK3AKfzd676Kn7AMDHSitXwZGXiXAs5L4UVr9MJXGKDd6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14620 	- NORREY EN AUGE](https://docs.stopcoronavirus.tech/#/r/markdown/14620_norrey-en-auge/4XTTME9YUd3LHqNNW7Zyr3uS3jQAeuPKQTvGKEeF6ujLmEAUL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14620 	- NORREY EN AUGE](https://docs.stopcoronavirus.tech/#/w/markdown/14620_norrey-en-auge/4XTTME9YUd3LHqNNW7Zyr3uS3jQAeuPKQTvGKEeF6ujLmEAUL-K3TgUn8sL1Nvj5aYx1uKjdszjn8KHGmXXPGJ4YWQ5TDYaqcuPFXMDUMrXY2uRPUfgqvqdf3JvjcAgvLt22JHDpbiYLhJK3AKfzd676Kn7AMDHSitXwZGXiXAs5L4UVr9MJXGKDd6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

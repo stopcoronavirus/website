@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27340 	- LES DAMPS](https://docs.stopcoronavirus.tech/r/markdown/27340_les-damps/4XTTM8fmtacEgD3ctEkPrYT3QPFsgDTm6Cj7qJsajKLBANuYo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27340 	- LES DAMPS](https://docs.stopcoronavirus.tech/w/markdown/27340_les-damps/4XTTM8fmtacEgD3ctEkPrYT3QPFsgDTm6Cj7qJsajKLBANuYo-K3TgTdMYCVikMWhoE3PJm6X9V8a1w7EUUqGvzsTYB5DUkyWceraGYiLzVo3Eu5Q5GeYG36GpzZCq8TnF4WZPoTkMfzZjk8qovyritUVx6SdAqwVuwtWUy6fbvYcNnWmr2yLhmyto) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27340 	- LES DAMPS](https://docs.stopcoronavirus.tech/#/r/markdown/27340_les-damps/4XTTM8fmtacEgD3ctEkPrYT3QPFsgDTm6Cj7qJsajKLBANuYo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27340 	- LES DAMPS](https://docs.stopcoronavirus.tech/#/w/markdown/27340_les-damps/4XTTM8fmtacEgD3ctEkPrYT3QPFsgDTm6Cj7qJsajKLBANuYo-K3TgTdMYCVikMWhoE3PJm6X9V8a1w7EUUqGvzsTYB5DUkyWceraGYiLzVo3Eu5Q5GeYG36GpzZCq8TnF4WZPoTkMfzZjk8qovyritUVx6SdAqwVuwtWUy6fbvYcNnWmr2yLhmyto) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

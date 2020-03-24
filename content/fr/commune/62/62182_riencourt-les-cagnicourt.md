@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 62182 	- RIENCOURT LES CAGNICOURT](https://docs.stopcoronavirus.tech/r/markdown/62182_riencourt-les-cagnicourt/4XTTMGzfVrRr14R4wS3RJagoM5WkBQsiS9TZTKrNXYCjgPcVy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62182 	- RIENCOURT LES CAGNICOURT](https://docs.stopcoronavirus.tech/w/markdown/62182_riencourt-les-cagnicourt/4XTTMGzfVrRr14R4wS3RJagoM5WkBQsiS9TZTKrNXYCjgPcVy-K3TgU2Hdbuxw7WgzqayWfSMqSmxw4xe15iioKhMNZBpXJY9TyEPBKG3NPpSzLu3MLPVKkbkzgxbTmuS35Pyt3V1MhFW4V9jDQLY8NoMnRaL3JYNUc7KDN6MQF56cE8jmoPTDTs6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 62182 	- RIENCOURT LES CAGNICOURT](https://docs.stopcoronavirus.tech/#/r/markdown/62182_riencourt-les-cagnicourt/4XTTMGzfVrRr14R4wS3RJagoM5WkBQsiS9TZTKrNXYCjgPcVy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 62182 	- RIENCOURT LES CAGNICOURT](https://docs.stopcoronavirus.tech/#/w/markdown/62182_riencourt-les-cagnicourt/4XTTMGzfVrRr14R4wS3RJagoM5WkBQsiS9TZTKrNXYCjgPcVy-K3TgU2Hdbuxw7WgzqayWfSMqSmxw4xe15iioKhMNZBpXJY9TyEPBKG3NPpSzLu3MLPVKkbkzgxbTmuS35Pyt3V1MhFW4V9jDQLY8NoMnRaL3JYNUc7KDN6MQF56cE8jmoPTDTs6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

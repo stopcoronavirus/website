@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23250 	- JANAILLAT](https://docs.stopcoronavirus.tech/r/markdown/23250_janaillat/4XTTMA1XdbPbsuSKeeyKeJWYdRqJBrT7mnUCC6tQw1KwV4hn6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23250 	- JANAILLAT](https://docs.stopcoronavirus.tech/w/markdown/23250_janaillat/4XTTMA1XdbPbsuSKeeyKeJWYdRqJBrT7mnUCC6tQw1KwV4hn6-K3TgTvkAKsVmPXJWj7NFxxgR88tvpeU4Lj6tBmoe2sTNW4jZtmkT9jFrDRwdQJNorX3Zr5D6mQSJ8DQf7S5FTwzvFa9AFitfhpktrLUddLQ7xnLeyufiXDzWBG5mXaUnDKqVnqrn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23250 	- JANAILLAT](https://docs.stopcoronavirus.tech/#/r/markdown/23250_janaillat/4XTTMA1XdbPbsuSKeeyKeJWYdRqJBrT7mnUCC6tQw1KwV4hn6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23250 	- JANAILLAT](https://docs.stopcoronavirus.tech/#/w/markdown/23250_janaillat/4XTTMA1XdbPbsuSKeeyKeJWYdRqJBrT7mnUCC6tQw1KwV4hn6-K3TgTvkAKsVmPXJWj7NFxxgR88tvpeU4Lj6tBmoe2sTNW4jZtmkT9jFrDRwdQJNorX3Zr5D6mQSJ8DQf7S5FTwzvFa9AFitfhpktrLUddLQ7xnLeyufiXDzWBG5mXaUnDKqVnqrn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 26170 	- LA ROCHE SUR LE BUIS](https://docs.stopcoronavirus.tech/r/markdown/26170_la-roche-sur-le-buis/4XTTM5oRnJnBQHit3sjmLXLxKdofPAn1VEqqKPbr5MSAyY1ri) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26170 	- LA ROCHE SUR LE BUIS](https://docs.stopcoronavirus.tech/w/markdown/26170_la-roche-sur-le-buis/4XTTM5oRnJnBQHit3sjmLXLxKdofPAn1VEqqKPbr5MSAyY1ri-K3TgUvesJZrWMfWBjuh5zj4va78ccL41FGZwdU8NU1imCJdB5vYRmf1JsxMHPa2q1wwUZGvxxZt9CGnj2CZqNjN9fggt22yFh9K3ymorsYyRMtwJxnd75P6Nr1WB3k4saEjHdPN2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26170 	- LA ROCHE SUR LE BUIS](https://docs.stopcoronavirus.tech/#/r/markdown/26170_la-roche-sur-le-buis/4XTTM5oRnJnBQHit3sjmLXLxKdofPAn1VEqqKPbr5MSAyY1ri) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26170 	- LA ROCHE SUR LE BUIS](https://docs.stopcoronavirus.tech/#/w/markdown/26170_la-roche-sur-le-buis/4XTTM5oRnJnBQHit3sjmLXLxKdofPAn1VEqqKPbr5MSAyY1ri-K3TgUvesJZrWMfWBjuh5zj4va78ccL41FGZwdU8NU1imCJdB5vYRmf1JsxMHPa2q1wwUZGvxxZt9CGnj2CZqNjN9fggt22yFh9K3ymorsYyRMtwJxnd75P6Nr1WB3k4saEjHdPN2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

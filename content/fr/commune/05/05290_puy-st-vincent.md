@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 05290 	- PUY ST VINCENT](https://docs.stopcoronavirus.tech/r/markdown/05290_puy-st-vincent/4XTTMD4J323D7dwHMWBXmZ2jhKxMXCyFGc1mWGz9CZofg144e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05290 	- PUY ST VINCENT](https://docs.stopcoronavirus.tech/w/markdown/05290_puy-st-vincent/4XTTMD4J323D7dwHMWBXmZ2jhKxMXCyFGc1mWGz9CZofg144e-K3TgTns3N1xoMm1rZuenm6U57mNuaLSysgcm9TM4fyMD2WUNdgBWije4t1qpbvQaTyeSmBpD5bg4ce9EyJArzXJfc8vSCSM2o2en2hFCi75W2e7sh3jhgfWTKG644eVhuc4gjV2e) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05290 	- PUY ST VINCENT](https://docs.stopcoronavirus.tech/#/r/markdown/05290_puy-st-vincent/4XTTMD4J323D7dwHMWBXmZ2jhKxMXCyFGc1mWGz9CZofg144e) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05290 	- PUY ST VINCENT](https://docs.stopcoronavirus.tech/#/w/markdown/05290_puy-st-vincent/4XTTMD4J323D7dwHMWBXmZ2jhKxMXCyFGc1mWGz9CZofg144e-K3TgTns3N1xoMm1rZuenm6U57mNuaLSysgcm9TM4fyMD2WUNdgBWije4t1qpbvQaTyeSmBpD5bg4ce9EyJArzXJfc8vSCSM2o2en2hFCi75W2e7sh3jhgfWTKG644eVhuc4gjV2e) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

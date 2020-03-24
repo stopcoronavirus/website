@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28270 	- FESSANVILLIERS MATTANVILLIERS](https://docs.stopcoronavirus.tech/r/markdown/28270_fessanvilliers-mattanvilliers/4XTTM8oJPZZywUofnD7CghrWVVtkv4hatLuaGoavdCUgGPVKJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28270 	- FESSANVILLIERS MATTANVILLIERS](https://docs.stopcoronavirus.tech/w/markdown/28270_fessanvilliers-mattanvilliers/4XTTM8oJPZZywUofnD7CghrWVVtkv4hatLuaGoavdCUgGPVKJ-K3TgUihmMK4kSKhFyfdkE1NznXh4G5jJGGfT5qwALeEVDJa69rdBDniLV4KeJUN69r7NfLDpUEmu8ffwuth4QQw3Bc5CErTpURGPq43MXoP9PRzY1MCeFN52MLVxqk8GzSvAGxoe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28270 	- FESSANVILLIERS MATTANVILLIERS](https://docs.stopcoronavirus.tech/#/r/markdown/28270_fessanvilliers-mattanvilliers/4XTTM8oJPZZywUofnD7CghrWVVtkv4hatLuaGoavdCUgGPVKJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28270 	- FESSANVILLIERS MATTANVILLIERS](https://docs.stopcoronavirus.tech/#/w/markdown/28270_fessanvilliers-mattanvilliers/4XTTM8oJPZZywUofnD7CghrWVVtkv4hatLuaGoavdCUgGPVKJ-K3TgUihmMK4kSKhFyfdkE1NznXh4G5jJGGfT5qwALeEVDJa69rdBDniLV4KeJUN69r7NfLDpUEmu8ffwuth4QQw3Bc5CErTpURGPq43MXoP9PRzY1MCeFN52MLVxqk8GzSvAGxoe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

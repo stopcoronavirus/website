@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16340 	- L ISLE D ESPAGNAC](https://docs.stopcoronavirus.tech/r/markdown/16340_l-isle-d-espagnac/4XTTM4mbQWVWXdMJ29AJRPPMWZy38Uy7osv3e3NJKSB73tyNV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16340 	- L ISLE D ESPAGNAC](https://docs.stopcoronavirus.tech/w/markdown/16340_l-isle-d-espagnac/4XTTM4mbQWVWXdMJ29AJRPPMWZy38Uy7osv3e3NJKSB73tyNV-K3TgU46YE4JdKYxB5GFYyHXJenMqx6jN97p55y48qNRwHqjNNyGrGo8ZqFXWkJ2CKNDL4pYp2tFxgXMWYR9emMXT7P3ZHqAqn3mywc9eTLwEm7hC6QJh8Kv9pT5yLGaGsKGZiJqB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16340 	- L ISLE D ESPAGNAC](https://docs.stopcoronavirus.tech/#/r/markdown/16340_l-isle-d-espagnac/4XTTM4mbQWVWXdMJ29AJRPPMWZy38Uy7osv3e3NJKSB73tyNV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16340 	- L ISLE D ESPAGNAC](https://docs.stopcoronavirus.tech/#/w/markdown/16340_l-isle-d-espagnac/4XTTM4mbQWVWXdMJ29AJRPPMWZy38Uy7osv3e3NJKSB73tyNV-K3TgU46YE4JdKYxB5GFYyHXJenMqx6jN97p55y48qNRwHqjNNyGrGo8ZqFXWkJ2CKNDL4pYp2tFxgXMWYR9emMXT7P3ZHqAqn3mywc9eTLwEm7hC6QJh8Kv9pT5yLGaGsKGZiJqB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

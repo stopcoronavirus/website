@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42155 	- ST JEAN ST MAURICE SUR LOIRE](https://docs.stopcoronavirus.tech/r/markdown/42155_st-jean-st-maurice-sur-loire/4XTTM3KX4pPU3n8UENNLBE4vkGatbu6QFuR8zhpxP6cJFVjmw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42155 	- ST JEAN ST MAURICE SUR LOIRE](https://docs.stopcoronavirus.tech/w/markdown/42155_st-jean-st-maurice-sur-loire/4XTTM3KX4pPU3n8UENNLBE4vkGatbu6QFuR8zhpxP6cJFVjmw-K3TgUigdLpVJW31pk2KYJ2mhQMUhts8jHMoKTYswM6jsKZgH7FzFygGC63T3TepHd95UW8HncAZhm7p4KDSKx1a1eXC4JYNY2LSr23kbcSyfKnPAiygb8H36Bp4QrnXjegd6LRkH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42155 	- ST JEAN ST MAURICE SUR LOIRE](https://docs.stopcoronavirus.tech/#/r/markdown/42155_st-jean-st-maurice-sur-loire/4XTTM3KX4pPU3n8UENNLBE4vkGatbu6QFuR8zhpxP6cJFVjmw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42155 	- ST JEAN ST MAURICE SUR LOIRE](https://docs.stopcoronavirus.tech/#/w/markdown/42155_st-jean-st-maurice-sur-loire/4XTTM3KX4pPU3n8UENNLBE4vkGatbu6QFuR8zhpxP6cJFVjmw-K3TgUigdLpVJW31pk2KYJ2mhQMUhts8jHMoKTYswM6jsKZgH7FzFygGC63T3TepHd95UW8HncAZhm7p4KDSKx1a1eXC4JYNY2LSr23kbcSyfKnPAiygb8H36Bp4QrnXjegd6LRkH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

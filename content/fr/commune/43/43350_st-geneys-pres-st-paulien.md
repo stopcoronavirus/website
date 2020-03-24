@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 43350 	- ST GENEYS PRES ST PAULIEN](https://docs.stopcoronavirus.tech/r/markdown/43350_st-geneys-pres-st-paulien/4XTTMBCWnbsNoPmjwFUbrTyev5PtbaqjfTCjUHoj2awLXohhL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43350 	- ST GENEYS PRES ST PAULIEN](https://docs.stopcoronavirus.tech/w/markdown/43350_st-geneys-pres-st-paulien/4XTTMBCWnbsNoPmjwFUbrTyev5PtbaqjfTCjUHoj2awLXohhL-K3TgV7Vctsrp1mWH1jeqnD97RVK6XPxeTGX47QEYeXh3UNVZhyhwTcfHyx56D8TD4uoUfsFAsjnFPAZnLF7AxNdRGAWMPkqBoe1nga9qc7B15jsBj1qGjBLwFgpewE4LepKi5LZQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43350 	- ST GENEYS PRES ST PAULIEN](https://docs.stopcoronavirus.tech/#/r/markdown/43350_st-geneys-pres-st-paulien/4XTTMBCWnbsNoPmjwFUbrTyev5PtbaqjfTCjUHoj2awLXohhL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43350 	- ST GENEYS PRES ST PAULIEN](https://docs.stopcoronavirus.tech/#/w/markdown/43350_st-geneys-pres-st-paulien/4XTTMBCWnbsNoPmjwFUbrTyev5PtbaqjfTCjUHoj2awLXohhL-K3TgV7Vctsrp1mWH1jeqnD97RVK6XPxeTGX47QEYeXh3UNVZhyhwTcfHyx56D8TD4uoUfsFAsjnFPAZnLF7AxNdRGAWMPkqBoe1nga9qc7B15jsBj1qGjBLwFgpewE4LepKi5LZQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 34120 	- LEZIGNAN LA CEBE](https://docs.stopcoronavirus.tech/r/markdown/34120_lezignan-la-cebe/4XTTM7ENwk6JpJtxGxs171pW23BJRkSHVMYeb3FJ3SVWBZUr5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34120 	- LEZIGNAN LA CEBE](https://docs.stopcoronavirus.tech/w/markdown/34120_lezignan-la-cebe/4XTTM7ENwk6JpJtxGxs171pW23BJRkSHVMYeb3FJ3SVWBZUr5-K3TgV1guCHCkWBMpatmsMGZdvQr2k2w5NkJwGEN3MWbmvPWZ9pmu3Rnxy6z5Q7iBLjSVJtHxmzFmG78uzmbYhYsiEDDAv5sfJavauRK6xdEvdX97fGGbBYTDP9G437asvXacQ6cZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34120 	- LEZIGNAN LA CEBE](https://docs.stopcoronavirus.tech/#/r/markdown/34120_lezignan-la-cebe/4XTTM7ENwk6JpJtxGxs171pW23BJRkSHVMYeb3FJ3SVWBZUr5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34120 	- LEZIGNAN LA CEBE](https://docs.stopcoronavirus.tech/#/w/markdown/34120_lezignan-la-cebe/4XTTM7ENwk6JpJtxGxs171pW23BJRkSHVMYeb3FJ3SVWBZUr5-K3TgV1guCHCkWBMpatmsMGZdvQr2k2w5NkJwGEN3MWbmvPWZ9pmu3Rnxy6z5Q7iBLjSVJtHxmzFmG78uzmbYhYsiEDDAv5sfJavauRK6xdEvdX97fGGbBYTDP9G437asvXacQ6cZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

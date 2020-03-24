@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10290 	- MARCILLY LE HAYER](https://docs.stopcoronavirus.tech/r/markdown/10290_marcilly-le-hayer/4XTTM3nF4MN1LqEbZ5gYedtDT74tiEmx6JuhPvnxCtGDMmFAM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10290 	- MARCILLY LE HAYER](https://docs.stopcoronavirus.tech/w/markdown/10290_marcilly-le-hayer/4XTTM3nF4MN1LqEbZ5gYedtDT74tiEmx6JuhPvnxCtGDMmFAM-K3TgUio9CtJEzpZ49njQP19aZLNJ77BGDCHx6phsj9Fxr2yWVWxE7Ze7bYSgnvkNg4pGQjGJjNdh5mGKbaJjkDVPjM7vf6kv4eAveEUPVwcrNCbA3HgdfBzG55skwg3Atn1VGx77) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10290 	- MARCILLY LE HAYER](https://docs.stopcoronavirus.tech/#/r/markdown/10290_marcilly-le-hayer/4XTTM3nF4MN1LqEbZ5gYedtDT74tiEmx6JuhPvnxCtGDMmFAM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10290 	- MARCILLY LE HAYER](https://docs.stopcoronavirus.tech/#/w/markdown/10290_marcilly-le-hayer/4XTTM3nF4MN1LqEbZ5gYedtDT74tiEmx6JuhPvnxCtGDMmFAM-K3TgUio9CtJEzpZ49njQP19aZLNJ77BGDCHx6phsj9Fxr2yWVWxE7Ze7bYSgnvkNg4pGQjGJjNdh5mGKbaJjkDVPjM7vf6kv4eAveEUPVwcrNCbA3HgdfBzG55skwg3Atn1VGx77) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

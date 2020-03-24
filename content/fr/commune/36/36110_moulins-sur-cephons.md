@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36110 	- MOULINS SUR CEPHONS](https://docs.stopcoronavirus.tech/r/markdown/36110_moulins-sur-cephons/4XTTM6Cg114zcYU2JPft4dTHcLa1eavinQ1HzBh2Sv67JJ3Nb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36110 	- MOULINS SUR CEPHONS](https://docs.stopcoronavirus.tech/w/markdown/36110_moulins-sur-cephons/4XTTM6Cg114zcYU2JPft4dTHcLa1eavinQ1HzBh2Sv67JJ3Nb-K3TgUuSR6M7B5x9QQiVg1QhYQqs2XvUwDsesxvd2jQbwWU8q5q29a4qwiavnuQcvMT884FHzmnoTcTQPJq42ErpHnvaY5KekU4EK15543Pkio6fmbUty2XZZRnVP5VPxqPb5qkSo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36110 	- MOULINS SUR CEPHONS](https://docs.stopcoronavirus.tech/#/r/markdown/36110_moulins-sur-cephons/4XTTM6Cg114zcYU2JPft4dTHcLa1eavinQ1HzBh2Sv67JJ3Nb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36110 	- MOULINS SUR CEPHONS](https://docs.stopcoronavirus.tech/#/w/markdown/36110_moulins-sur-cephons/4XTTM6Cg114zcYU2JPft4dTHcLa1eavinQ1HzBh2Sv67JJ3Nb-K3TgUuSR6M7B5x9QQiVg1QhYQqs2XvUwDsesxvd2jQbwWU8q5q29a4qwiavnuQcvMT884FHzmnoTcTQPJq42ErpHnvaY5KekU4EK15543Pkio6fmbUty2XZZRnVP5VPxqPb5qkSo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

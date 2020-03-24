@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88500 	- GIRCOURT LES VIEVILLE](https://docs.stopcoronavirus.tech/r/markdown/88500_gircourt-les-vieville/4XTTM1wChRoj4oTvNnXLV9ezGafG7HyfAX4zGjFABYsPm7YcL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88500 	- GIRCOURT LES VIEVILLE](https://docs.stopcoronavirus.tech/w/markdown/88500_gircourt-les-vieville/4XTTM1wChRoj4oTvNnXLV9ezGafG7HyfAX4zGjFABYsPm7YcL-K3TgU99WRBdDSd9AakAQyR2t7jy4XmGvti4jYLvReqdsHGMwFAWoADPeiSiUXpAdbNBYPPr4mQjwGfarV6TMHGeZxVpR288QKSz1CK72nQX81W5UegpSKXhdVqQkzDqQ6tNXC14g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88500 	- GIRCOURT LES VIEVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/88500_gircourt-les-vieville/4XTTM1wChRoj4oTvNnXLV9ezGafG7HyfAX4zGjFABYsPm7YcL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88500 	- GIRCOURT LES VIEVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/88500_gircourt-les-vieville/4XTTM1wChRoj4oTvNnXLV9ezGafG7HyfAX4zGjFABYsPm7YcL-K3TgU99WRBdDSd9AakAQyR2t7jy4XmGvti4jYLvReqdsHGMwFAWoADPeiSiUXpAdbNBYPPr4mQjwGfarV6TMHGeZxVpR288QKSz1CK72nQX81W5UegpSKXhdVqQkzDqQ6tNXC14g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

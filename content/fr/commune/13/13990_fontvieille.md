@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 13990 	- FONTVIEILLE](https://docs.stopcoronavirus.tech/r/markdown/13990_fontvieille/4XTTMEiaWtTgGNdY76Nwyq6d46vbN4gmQquP2Vtk2pipeisUr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 13990 	- FONTVIEILLE](https://docs.stopcoronavirus.tech/w/markdown/13990_fontvieille/4XTTMEiaWtTgGNdY76Nwyq6d46vbN4gmQquP2Vtk2pipeisUr-K3TgUzTdb58iWBWGdBSnsy1e96DacJNKKkvfpDF4NG8dirQ2zahvn6zp8Zh84rLyxLNX93hj5s9zdQtHyUNodGwMswtBuEX2BgEXtMo36iv733jFY9JhAx7M4wyrUfEWN3pkT62a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 13990 	- FONTVIEILLE](https://docs.stopcoronavirus.tech/#/r/markdown/13990_fontvieille/4XTTMEiaWtTgGNdY76Nwyq6d46vbN4gmQquP2Vtk2pipeisUr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 13990 	- FONTVIEILLE](https://docs.stopcoronavirus.tech/#/w/markdown/13990_fontvieille/4XTTMEiaWtTgGNdY76Nwyq6d46vbN4gmQquP2Vtk2pipeisUr-K3TgUzTdb58iWBWGdBSnsy1e96DacJNKKkvfpDF4NG8dirQ2zahvn6zp8Zh84rLyxLNX93hj5s9zdQtHyUNodGwMswtBuEX2BgEXtMo36iv733jFY9JhAx7M4wyrUfEWN3pkT62a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

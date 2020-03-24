@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28240 	- ST MAURICE ST GERMAIN](https://docs.stopcoronavirus.tech/r/markdown/28240_st-maurice-st-germain/4XTTMBdxYMiiuFZpez72c2nG5j7CVNfYX1WYa8SMNFCqRp5Si) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28240 	- ST MAURICE ST GERMAIN](https://docs.stopcoronavirus.tech/w/markdown/28240_st-maurice-st-germain/4XTTMBdxYMiiuFZpez72c2nG5j7CVNfYX1WYa8SMNFCqRp5Si-K3TgUWro9L1DGMxHJexW95As1rphYbMSJ17eSzHjBV9RX4BSJ7Tq2uwoim1XGaqiyBpy2Vub9fdAzJkRDjbcpAXa5h6DDUfU7jsextLZT8QddBTxHZvF6vLvzqXBBKozibVASUvv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28240 	- ST MAURICE ST GERMAIN](https://docs.stopcoronavirus.tech/#/r/markdown/28240_st-maurice-st-germain/4XTTMBdxYMiiuFZpez72c2nG5j7CVNfYX1WYa8SMNFCqRp5Si) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28240 	- ST MAURICE ST GERMAIN](https://docs.stopcoronavirus.tech/#/w/markdown/28240_st-maurice-st-germain/4XTTMBdxYMiiuFZpez72c2nG5j7CVNfYX1WYa8SMNFCqRp5Si-K3TgUWro9L1DGMxHJexW95As1rphYbMSJ17eSzHjBV9RX4BSJ7Tq2uwoim1XGaqiyBpy2Vub9fdAzJkRDjbcpAXa5h6DDUfU7jsextLZT8QddBTxHZvF6vLvzqXBBKozibVASUvv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

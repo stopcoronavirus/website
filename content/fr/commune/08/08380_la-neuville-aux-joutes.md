@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08380 	- LA NEUVILLE AUX JOUTES](https://docs.stopcoronavirus.tech/r/markdown/08380_la-neuville-aux-joutes/4XTTM3LpHV5sgLEFYm7Jqyo33PpGbAJEpwXbwEuPgfxa1c97j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08380 	- LA NEUVILLE AUX JOUTES](https://docs.stopcoronavirus.tech/w/markdown/08380_la-neuville-aux-joutes/4XTTM3LpHV5sgLEFYm7Jqyo33PpGbAJEpwXbwEuPgfxa1c97j-K3TgUV9sdFQBVA5t2YhjmzTSWkmVuQz1VUXFoqxeMJtR1P9cUsknnAKj3bLN5MKvW2ojuDfVE1SzPWcLcsCqPTDDH1ADZsVDhwbNESU3EcL7QQkEEm5KZzegnL7ETCpkjpKjNAdj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08380 	- LA NEUVILLE AUX JOUTES](https://docs.stopcoronavirus.tech/#/r/markdown/08380_la-neuville-aux-joutes/4XTTM3LpHV5sgLEFYm7Jqyo33PpGbAJEpwXbwEuPgfxa1c97j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08380 	- LA NEUVILLE AUX JOUTES](https://docs.stopcoronavirus.tech/#/w/markdown/08380_la-neuville-aux-joutes/4XTTM3LpHV5sgLEFYm7Jqyo33PpGbAJEpwXbwEuPgfxa1c97j-K3TgUV9sdFQBVA5t2YhjmzTSWkmVuQz1VUXFoqxeMJtR1P9cUsknnAKj3bLN5MKvW2ojuDfVE1SzPWcLcsCqPTDDH1ADZsVDhwbNESU3EcL7QQkEEm5KZzegnL7ETCpkjpKjNAdj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

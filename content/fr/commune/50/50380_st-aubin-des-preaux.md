@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50380 	- ST AUBIN DES PREAUX](https://docs.stopcoronavirus.tech/r/markdown/50380_st-aubin-des-preaux/4XTTMGhgj1iAvWHQGieicW8jCdj41cXnRpzsrrFP2KnZqqSmz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50380 	- ST AUBIN DES PREAUX](https://docs.stopcoronavirus.tech/w/markdown/50380_st-aubin-des-preaux/4XTTMGhgj1iAvWHQGieicW8jCdj41cXnRpzsrrFP2KnZqqSmz-K3TgUTBgAzQcAuKTNNnZLBwCKrNoxRs5HzbMX1f2aeHss4iNrdUtPYAJ84AMGRQqiHkpvhMk5xuSbG3a5vqbg1QtVjNGvfk9E5PsidwptCEhAAAbtFxJFekM6kvezXnphVin3maC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50380 	- ST AUBIN DES PREAUX](https://docs.stopcoronavirus.tech/#/r/markdown/50380_st-aubin-des-preaux/4XTTMGhgj1iAvWHQGieicW8jCdj41cXnRpzsrrFP2KnZqqSmz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50380 	- ST AUBIN DES PREAUX](https://docs.stopcoronavirus.tech/#/w/markdown/50380_st-aubin-des-preaux/4XTTMGhgj1iAvWHQGieicW8jCdj41cXnRpzsrrFP2KnZqqSmz-K3TgUTBgAzQcAuKTNNnZLBwCKrNoxRs5HzbMX1f2aeHss4iNrdUtPYAJ84AMGRQqiHkpvhMk5xuSbG3a5vqbg1QtVjNGvfk9E5PsidwptCEhAAAbtFxJFekM6kvezXnphVin3maC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27190 	- FERRIERES HAUT CLOCHER](https://docs.stopcoronavirus.tech/r/markdown/27190_ferrieres-haut-clocher/4XTTME45W6rc92yuG5JzJZu9ZyCGKvS9BimMEPNc84oU9mptf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27190 	- FERRIERES HAUT CLOCHER](https://docs.stopcoronavirus.tech/w/markdown/27190_ferrieres-haut-clocher/4XTTME45W6rc92yuG5JzJZu9ZyCGKvS9BimMEPNc84oU9mptf-K3TgTgy5HGg6oKS3hspY3WgLHjBUzf5F4obz3AqGRWpQMQpT39gX27y31vySnxEaG28GcpseAQ2sb3RXhGd9LitPLXrSaSobvUdGgov128vDNvZ4BheaHofd6hcrmpovctiYQBfd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27190 	- FERRIERES HAUT CLOCHER](https://docs.stopcoronavirus.tech/#/r/markdown/27190_ferrieres-haut-clocher/4XTTME45W6rc92yuG5JzJZu9ZyCGKvS9BimMEPNc84oU9mptf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27190 	- FERRIERES HAUT CLOCHER](https://docs.stopcoronavirus.tech/#/w/markdown/27190_ferrieres-haut-clocher/4XTTME45W6rc92yuG5JzJZu9ZyCGKvS9BimMEPNc84oU9mptf-K3TgTgy5HGg6oKS3hspY3WgLHjBUzf5F4obz3AqGRWpQMQpT39gX27y31vySnxEaG28GcpseAQ2sb3RXhGd9LitPLXrSaSobvUdGgov128vDNvZ4BheaHofd6hcrmpovctiYQBfd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

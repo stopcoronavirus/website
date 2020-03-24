@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08220 	- ST JEAN AUX BOIS](https://docs.stopcoronavirus.tech/r/markdown/08220_st-jean-aux-bois/4XTTM6XDvFfVEGn8DScc4LCX74JkskiR8ihNno6VwfPPQM7qW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08220 	- ST JEAN AUX BOIS](https://docs.stopcoronavirus.tech/w/markdown/08220_st-jean-aux-bois/4XTTM6XDvFfVEGn8DScc4LCX74JkskiR8ihNno6VwfPPQM7qW-K3TgTqEsyF63jVDMeGcXkKYoxz4EJLQrDcGq8GvkFjkJ6DmpXVwxgdAmj89DVT9oSt8gbXnuqvTpNdJUWvYCQsDAULUtgHWJFw3WULfDTdREnSUsA9FNLTEzsPokmREjSwZuACwv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08220 	- ST JEAN AUX BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/08220_st-jean-aux-bois/4XTTM6XDvFfVEGn8DScc4LCX74JkskiR8ihNno6VwfPPQM7qW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08220 	- ST JEAN AUX BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/08220_st-jean-aux-bois/4XTTM6XDvFfVEGn8DScc4LCX74JkskiR8ihNno6VwfPPQM7qW-K3TgTqEsyF63jVDMeGcXkKYoxz4EJLQrDcGq8GvkFjkJ6DmpXVwxgdAmj89DVT9oSt8gbXnuqvTpNdJUWvYCQsDAULUtgHWJFw3WULfDTdREnSUsA9FNLTEzsPokmREjSwZuACwv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

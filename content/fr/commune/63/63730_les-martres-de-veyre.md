@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 63730 	- LES MARTRES DE VEYRE](https://docs.stopcoronavirus.tech/r/markdown/63730_les-martres-de-veyre/4XTTMBrp9WEwY5GXRifBZrLwkoXXELNBQstp8W4DWy1NM6id5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63730 	- LES MARTRES DE VEYRE](https://docs.stopcoronavirus.tech/w/markdown/63730_les-martres-de-veyre/4XTTMBrp9WEwY5GXRifBZrLwkoXXELNBQstp8W4DWy1NM6id5-K3TgUsa7KrY1wLXCHLHZpa6Pcgx9tvqZMQbqXbpQJUtwTSwWT1XYwb72HPxbBj9nfLt6krLWp5zU8B8g4i6rqTDUBdyVdVZzhS3rFfKcXS4a8mw6n1UKR4WPq9RTUF2kravGTDxK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63730 	- LES MARTRES DE VEYRE](https://docs.stopcoronavirus.tech/#/r/markdown/63730_les-martres-de-veyre/4XTTMBrp9WEwY5GXRifBZrLwkoXXELNBQstp8W4DWy1NM6id5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63730 	- LES MARTRES DE VEYRE](https://docs.stopcoronavirus.tech/#/w/markdown/63730_les-martres-de-veyre/4XTTMBrp9WEwY5GXRifBZrLwkoXXELNBQstp8W4DWy1NM6id5-K3TgUsa7KrY1wLXCHLHZpa6Pcgx9tvqZMQbqXbpQJUtwTSwWT1XYwb72HPxbBj9nfLt6krLWp5zU8B8g4i6rqTDUBdyVdVZzhS3rFfKcXS4a8mw6n1UKR4WPq9RTUF2kravGTDxK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

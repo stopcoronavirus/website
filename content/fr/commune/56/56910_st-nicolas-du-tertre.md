@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 56910 	- ST NICOLAS DU TERTRE](https://docs.stopcoronavirus.tech/r/markdown/56910_st-nicolas-du-tertre/4XTTM6spg9bF92vJNqqzvWfZHqjB797PY1iMjCdNb7MpWvXJx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56910 	- ST NICOLAS DU TERTRE](https://docs.stopcoronavirus.tech/w/markdown/56910_st-nicolas-du-tertre/4XTTM6spg9bF92vJNqqzvWfZHqjB797PY1iMjCdNb7MpWvXJx-K3TgUwySzoYEDufkiW2A2yjrC1x9oyjor3y6Rfp47M9FBnUHEp4ZdvxwqbT9UxYb1f9oC4qE5JGS67wuu7mQs39hwSzdnujgtA9iGd3hbPYYYgKA4S48DNTsNQ8UrkMVuAMZndyz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56910 	- ST NICOLAS DU TERTRE](https://docs.stopcoronavirus.tech/#/r/markdown/56910_st-nicolas-du-tertre/4XTTM6spg9bF92vJNqqzvWfZHqjB797PY1iMjCdNb7MpWvXJx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56910 	- ST NICOLAS DU TERTRE](https://docs.stopcoronavirus.tech/#/w/markdown/56910_st-nicolas-du-tertre/4XTTM6spg9bF92vJNqqzvWfZHqjB797PY1iMjCdNb7MpWvXJx-K3TgUwySzoYEDufkiW2A2yjrC1x9oyjor3y6Rfp47M9FBnUHEp4ZdvxwqbT9UxYb1f9oC4qE5JGS67wuu7mQs39hwSzdnujgtA9iGd3hbPYYYgKA4S48DNTsNQ8UrkMVuAMZndyz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 17510 	- FONTAINE CHALENDRAY](https://docs.stopcoronavirus.tech/r/markdown/17510_fontaine-chalendray/4XTTMAQdSGXsjXqSgoapKMEztMHP4sAwZmTWqLqj9DRx9Sx8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17510 	- FONTAINE CHALENDRAY](https://docs.stopcoronavirus.tech/w/markdown/17510_fontaine-chalendray/4XTTMAQdSGXsjXqSgoapKMEztMHP4sAwZmTWqLqj9DRx9Sx8M-K3TgUhUPzwd4yG8NLuMeCoN3bqiKA944zAHfypdk6xbkUKAsFV3onGgc4J3SJMVEucbAB94yUcKxhdjTMt38PVFxQfyqjg1AvboYS1Pekf7CeaY1ZRx2mcbUX5LuARaBYcWKxTid) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17510 	- FONTAINE CHALENDRAY](https://docs.stopcoronavirus.tech/#/r/markdown/17510_fontaine-chalendray/4XTTMAQdSGXsjXqSgoapKMEztMHP4sAwZmTWqLqj9DRx9Sx8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17510 	- FONTAINE CHALENDRAY](https://docs.stopcoronavirus.tech/#/w/markdown/17510_fontaine-chalendray/4XTTMAQdSGXsjXqSgoapKMEztMHP4sAwZmTWqLqj9DRx9Sx8M-K3TgUhUPzwd4yG8NLuMeCoN3bqiKA944zAHfypdk6xbkUKAsFV3onGgc4J3SJMVEucbAB94yUcKxhdjTMt38PVFxQfyqjg1AvboYS1Pekf7CeaY1ZRx2mcbUX5LuARaBYcWKxTid) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

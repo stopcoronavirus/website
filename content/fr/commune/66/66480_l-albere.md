@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 66480 	- L ALBERE](https://docs.stopcoronavirus.tech/r/markdown/66480_l-albere/4XTTM5LKNSds9se87Fkqa4cETfToEND1aRJtrMdrmDnUqftDC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66480 	- L ALBERE](https://docs.stopcoronavirus.tech/w/markdown/66480_l-albere/4XTTM5LKNSds9se87Fkqa4cETfToEND1aRJtrMdrmDnUqftDC-K3TgTkHmwyN4tQz1EprWzWzdPr2EAW96SaWR6Zu12qqC6DH1adWDhWm74idXoa6YaHBQxmmqoKgYrJ871n1EMmYRSXJV56kBjawUjuk3gLe6r9TXpND2Rp5igkoyg1e3qKTdzTQz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 66480 	- L ALBERE](https://docs.stopcoronavirus.tech/#/r/markdown/66480_l-albere/4XTTM5LKNSds9se87Fkqa4cETfToEND1aRJtrMdrmDnUqftDC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 66480 	- L ALBERE](https://docs.stopcoronavirus.tech/#/w/markdown/66480_l-albere/4XTTM5LKNSds9se87Fkqa4cETfToEND1aRJtrMdrmDnUqftDC-K3TgTkHmwyN4tQz1EprWzWzdPr2EAW96SaWR6Zu12qqC6DH1adWDhWm74idXoa6YaHBQxmmqoKgYrJ871n1EMmYRSXJV56kBjawUjuk3gLe6r9TXpND2Rp5igkoyg1e3qKTdzTQz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

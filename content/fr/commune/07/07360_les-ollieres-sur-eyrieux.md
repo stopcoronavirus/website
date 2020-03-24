@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07360 	- LES OLLIERES SUR EYRIEUX](https://docs.stopcoronavirus.tech/r/markdown/07360_les-ollieres-sur-eyrieux/4XTTM4TjcyF4Bd33Tt6e6km6zJhUp6dCpyi7jvb6xD9bFYsVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07360 	- LES OLLIERES SUR EYRIEUX](https://docs.stopcoronavirus.tech/w/markdown/07360_les-ollieres-sur-eyrieux/4XTTM4TjcyF4Bd33Tt6e6km6zJhUp6dCpyi7jvb6xD9bFYsVW-K3TgTqAuX55NRYEgaB2LNK2TASfzD3Q1VqSFnJuJHdT5mfA47yXA3YP86eExNykR47LdJa8HVeX68ZiWARGBxUpYztjxRgwkUAt2YSjBhVbyFjx1uwYymf2LRBHSg46LYdG5y78g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07360 	- LES OLLIERES SUR EYRIEUX](https://docs.stopcoronavirus.tech/#/r/markdown/07360_les-ollieres-sur-eyrieux/4XTTM4TjcyF4Bd33Tt6e6km6zJhUp6dCpyi7jvb6xD9bFYsVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07360 	- LES OLLIERES SUR EYRIEUX](https://docs.stopcoronavirus.tech/#/w/markdown/07360_les-ollieres-sur-eyrieux/4XTTM4TjcyF4Bd33Tt6e6km6zJhUp6dCpyi7jvb6xD9bFYsVW-K3TgTqAuX55NRYEgaB2LNK2TASfzD3Q1VqSFnJuJHdT5mfA47yXA3YP86eExNykR47LdJa8HVeX68ZiWARGBxUpYztjxRgwkUAt2YSjBhVbyFjx1uwYymf2LRBHSg46LYdG5y78g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

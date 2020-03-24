@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27140 	- BAZINCOURT SUR EPTE](https://docs.stopcoronavirus.tech/r/markdown/27140_bazincourt-sur-epte/4XTTM1sMZd9TqhG2EWKd3Kb7z57nEocK8HhK2yYX9hshesFyC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27140 	- BAZINCOURT SUR EPTE](https://docs.stopcoronavirus.tech/w/markdown/27140_bazincourt-sur-epte/4XTTM1sMZd9TqhG2EWKd3Kb7z57nEocK8HhK2yYX9hshesFyC-K3TgUraJimYfqJ3gBfRdgutXCLFsspRJk8EN2BiJGe5JEwA1ShPMnchVGipeyexH8Y8rdGkswokpchLq2EmQzQJDVp8N3wi12B1RPrBYBCfJBnZ6jcBAET93Y6zy8nPwgqdyAGZG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27140 	- BAZINCOURT SUR EPTE](https://docs.stopcoronavirus.tech/#/r/markdown/27140_bazincourt-sur-epte/4XTTM1sMZd9TqhG2EWKd3Kb7z57nEocK8HhK2yYX9hshesFyC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27140 	- BAZINCOURT SUR EPTE](https://docs.stopcoronavirus.tech/#/w/markdown/27140_bazincourt-sur-epte/4XTTM1sMZd9TqhG2EWKd3Kb7z57nEocK8HhK2yYX9hshesFyC-K3TgUraJimYfqJ3gBfRdgutXCLFsspRJk8EN2BiJGe5JEwA1ShPMnchVGipeyexH8Y8rdGkswokpchLq2EmQzQJDVp8N3wi12B1RPrBYBCfJBnZ6jcBAET93Y6zy8nPwgqdyAGZG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84240 	- VITROLLES EN LUBERON](https://docs.stopcoronavirus.tech/r/markdown/84240_vitrolles-en-luberon/4XTTM2eQWnGx6GW18JX9T9988ziSFKq6rN9TGujSBHoDpnkZc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84240 	- VITROLLES EN LUBERON](https://docs.stopcoronavirus.tech/w/markdown/84240_vitrolles-en-luberon/4XTTM2eQWnGx6GW18JX9T9988ziSFKq6rN9TGujSBHoDpnkZc-K3TgTymypgRtsnnjH3YTAjE1uQp2SD1V7BiNbcyZU57AAufdxStFFAsr3bFTsxTA7LVyj73gycDiPieW66cMfJSC8xHjMYJpTHPJUrrsZzbynKTehzL5DqWzKgVqbAk2yu3gJMAv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84240 	- VITROLLES EN LUBERON](https://docs.stopcoronavirus.tech/#/r/markdown/84240_vitrolles-en-luberon/4XTTM2eQWnGx6GW18JX9T9988ziSFKq6rN9TGujSBHoDpnkZc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84240 	- VITROLLES EN LUBERON](https://docs.stopcoronavirus.tech/#/w/markdown/84240_vitrolles-en-luberon/4XTTM2eQWnGx6GW18JX9T9988ziSFKq6rN9TGujSBHoDpnkZc-K3TgTymypgRtsnnjH3YTAjE1uQp2SD1V7BiNbcyZU57AAufdxStFFAsr3bFTsxTA7LVyj73gycDiPieW66cMfJSC8xHjMYJpTHPJUrrsZzbynKTehzL5DqWzKgVqbAk2yu3gJMAv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 72260 	- THOIGNE](https://docs.stopcoronavirus.tech/r/markdown/72260_thoigne/4XTTM3sCbfJwF5tRJfPvRc5BvqWCA9HDe6hiQc9K5iwcqRt24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72260 	- THOIGNE](https://docs.stopcoronavirus.tech/w/markdown/72260_thoigne/4XTTM3sCbfJwF5tRJfPvRc5BvqWCA9HDe6hiQc9K5iwcqRt24-K3TgTmmqvJSD51TswC8uRvw9dBiRicbH9bbW6qZ6Px5gnHNpb4T3zZahK9yUFB4PJMJtDGewjx4zRUCMVr7cF5aXCgbeU3VYEU2heLoHZbA1m1kbsa7iLqr1t1mJDy92yTN8eFhi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72260 	- THOIGNE](https://docs.stopcoronavirus.tech/#/r/markdown/72260_thoigne/4XTTM3sCbfJwF5tRJfPvRc5BvqWCA9HDe6hiQc9K5iwcqRt24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72260 	- THOIGNE](https://docs.stopcoronavirus.tech/#/w/markdown/72260_thoigne/4XTTM3sCbfJwF5tRJfPvRc5BvqWCA9HDe6hiQc9K5iwcqRt24-K3TgTmmqvJSD51TswC8uRvw9dBiRicbH9bbW6qZ6Px5gnHNpb4T3zZahK9yUFB4PJMJtDGewjx4zRUCMVr7cF5aXCgbeU3VYEU2heLoHZbA1m1kbsa7iLqr1t1mJDy92yTN8eFhi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20212 	- SANT ANDREA DI BOZIO](https://docs.stopcoronavirus.tech/r/markdown/20212_sant-andrea-di-bozio/4XTTMCJz6R5rtRmiK4nRQtEjbBEUdTF633QuqbhBUZE5ZJTvs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20212 	- SANT ANDREA DI BOZIO](https://docs.stopcoronavirus.tech/w/markdown/20212_sant-andrea-di-bozio/4XTTMCJz6R5rtRmiK4nRQtEjbBEUdTF633QuqbhBUZE5ZJTvs-K3TgUYVK2aMehPU8ZHV1vsHcz58mi6sBYEUmb5i8yCT7x9JR8D8m7f8LnDJq3Wt4d4WZifLY2vuA3RZ2d7M13oy1pXzwNkqo8C2zHwhEBsEejRFRZy6FiBvepqsh9tUHhEweb9C7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20212 	- SANT ANDREA DI BOZIO](https://docs.stopcoronavirus.tech/#/r/markdown/20212_sant-andrea-di-bozio/4XTTMCJz6R5rtRmiK4nRQtEjbBEUdTF633QuqbhBUZE5ZJTvs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20212 	- SANT ANDREA DI BOZIO](https://docs.stopcoronavirus.tech/#/w/markdown/20212_sant-andrea-di-bozio/4XTTMCJz6R5rtRmiK4nRQtEjbBEUdTF633QuqbhBUZE5ZJTvs-K3TgUYVK2aMehPU8ZHV1vsHcz58mi6sBYEUmb5i8yCT7x9JR8D8m7f8LnDJq3Wt4d4WZifLY2vuA3RZ2d7M13oy1pXzwNkqo8C2zHwhEBsEejRFRZy6FiBvepqsh9tUHhEweb9C7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88290 	- THIEFOSSE](https://docs.stopcoronavirus.tech/r/markdown/88290_thiefosse/4XTTMJA5tSAWBoNdK6T2CxS4ur4EszunbRLB1cdgR6tMXonzR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88290 	- THIEFOSSE](https://docs.stopcoronavirus.tech/w/markdown/88290_thiefosse/4XTTMJA5tSAWBoNdK6T2CxS4ur4EszunbRLB1cdgR6tMXonzR-K3TgUQQ14hjAtibDsGyKuHNdg81JgbGUHQ9MAGjfMQJQ7zqy1tcSpVfCow4H2yej5nCvnAXkFTw6NEpxep5keyQSfix8i8KpeUVHPrkjnpweUF7ViXvyiynmJBxshs1Lk3MX4Hzd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88290 	- THIEFOSSE](https://docs.stopcoronavirus.tech/#/r/markdown/88290_thiefosse/4XTTMJA5tSAWBoNdK6T2CxS4ur4EszunbRLB1cdgR6tMXonzR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88290 	- THIEFOSSE](https://docs.stopcoronavirus.tech/#/w/markdown/88290_thiefosse/4XTTMJA5tSAWBoNdK6T2CxS4ur4EszunbRLB1cdgR6tMXonzR-K3TgUQQ14hjAtibDsGyKuHNdg81JgbGUHQ9MAGjfMQJQ7zqy1tcSpVfCow4H2yej5nCvnAXkFTw6NEpxep5keyQSfix8i8KpeUVHPrkjnpweUF7ViXvyiynmJBxshs1Lk3MX4Hzd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

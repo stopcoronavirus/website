@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89520 	- TREIGNY PERREUSE STE COLOMBE](https://docs.stopcoronavirus.tech/r/markdown/89520_treigny-perreuse-ste-colombe/4XTTM6XEXzLzJooZJpa22XhUvnmHVusa5HMt3JnCx8EwbsRtm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89520 	- TREIGNY PERREUSE STE COLOMBE](https://docs.stopcoronavirus.tech/w/markdown/89520_treigny-perreuse-ste-colombe/4XTTM6XEXzLzJooZJpa22XhUvnmHVusa5HMt3JnCx8EwbsRtm-K3TgUy1NUEamSqAABvgCa5cNmpkrwaGLmgCFVovBKvQDFf2ez8qiH1F6x8wAbo1Z4r4ShXPNw1v1BuSCJ6FcW6uaeykiBEFU1QqSf6h2E2smJNdeok9adYQYDfj5RbtHabAFZw7P) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89520 	- TREIGNY PERREUSE STE COLOMBE](https://docs.stopcoronavirus.tech/#/r/markdown/89520_treigny-perreuse-ste-colombe/4XTTM6XEXzLzJooZJpa22XhUvnmHVusa5HMt3JnCx8EwbsRtm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89520 	- TREIGNY PERREUSE STE COLOMBE](https://docs.stopcoronavirus.tech/#/w/markdown/89520_treigny-perreuse-ste-colombe/4XTTM6XEXzLzJooZJpa22XhUvnmHVusa5HMt3JnCx8EwbsRtm-K3TgUy1NUEamSqAABvgCa5cNmpkrwaGLmgCFVovBKvQDFf2ez8qiH1F6x8wAbo1Z4r4ShXPNw1v1BuSCJ6FcW6uaeykiBEFU1QqSf6h2E2smJNdeok9adYQYDfj5RbtHabAFZw7P) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

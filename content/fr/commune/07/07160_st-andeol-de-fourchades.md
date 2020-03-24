@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07160 	- ST ANDEOL DE FOURCHADES](https://docs.stopcoronavirus.tech/r/markdown/07160_st-andeol-de-fourchades/4XTTMFn2AzbfqWijvSASm1wH87WDi4L17776nw266gnxaxyRq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07160 	- ST ANDEOL DE FOURCHADES](https://docs.stopcoronavirus.tech/w/markdown/07160_st-andeol-de-fourchades/4XTTMFn2AzbfqWijvSASm1wH87WDi4L17776nw266gnxaxyRq-K3TgTza7xx35hzJkaL3SaFoCbQvKTizsrYWoPjv5LDpCWrYmngjfTW5wxnFCGNpMpZGmqj1ds5UKVe1vAavr9TE5PBy1GK5A1GkeaNUfQ8wTYoSEB8mAwVPmBcTizPGT5ezJKKEF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07160 	- ST ANDEOL DE FOURCHADES](https://docs.stopcoronavirus.tech/#/r/markdown/07160_st-andeol-de-fourchades/4XTTMFn2AzbfqWijvSASm1wH87WDi4L17776nw266gnxaxyRq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07160 	- ST ANDEOL DE FOURCHADES](https://docs.stopcoronavirus.tech/#/w/markdown/07160_st-andeol-de-fourchades/4XTTMFn2AzbfqWijvSASm1wH87WDi4L17776nw266gnxaxyRq-K3TgTza7xx35hzJkaL3SaFoCbQvKTizsrYWoPjv5LDpCWrYmngjfTW5wxnFCGNpMpZGmqj1ds5UKVe1vAavr9TE5PBy1GK5A1GkeaNUfQ8wTYoSEB8mAwVPmBcTizPGT5ezJKKEF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

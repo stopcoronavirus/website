@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24410 	- ST VINCENT JALMOUTIERS](https://docs.stopcoronavirus.tech/r/markdown/24410_st-vincent-jalmoutiers/4XTTMFmKx5LV8bbwKTbNQqMcvqSFPC6sqMj8a4CJvtv62mZA3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24410 	- ST VINCENT JALMOUTIERS](https://docs.stopcoronavirus.tech/w/markdown/24410_st-vincent-jalmoutiers/4XTTMFmKx5LV8bbwKTbNQqMcvqSFPC6sqMj8a4CJvtv62mZA3-K3TgUgXsAyouuASnWtoBexQKNtC8uT55gEMmEZBQfArWdsZEKDtZoyLiGcYgqoy5sApQwnfEWE1aLjSngAV9a4riLZsXEm4ipRvpgh2QRnnNy54ca1Y4Nqzsd8reirf2RWj5KqvB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24410 	- ST VINCENT JALMOUTIERS](https://docs.stopcoronavirus.tech/#/r/markdown/24410_st-vincent-jalmoutiers/4XTTMFmKx5LV8bbwKTbNQqMcvqSFPC6sqMj8a4CJvtv62mZA3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24410 	- ST VINCENT JALMOUTIERS](https://docs.stopcoronavirus.tech/#/w/markdown/24410_st-vincent-jalmoutiers/4XTTMFmKx5LV8bbwKTbNQqMcvqSFPC6sqMj8a4CJvtv62mZA3-K3TgUgXsAyouuASnWtoBexQKNtC8uT55gEMmEZBQfArWdsZEKDtZoyLiGcYgqoy5sApQwnfEWE1aLjSngAV9a4riLZsXEm4ipRvpgh2QRnnNy54ca1Y4Nqzsd8reirf2RWj5KqvB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

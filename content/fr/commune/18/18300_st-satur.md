@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18300 	- ST SATUR](https://docs.stopcoronavirus.tech/r/markdown/18300_st-satur/4XTTMBkfWx9TfErorkCJRfnaJyHubZcNr1Mo55gzPd5a56VQK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18300 	- ST SATUR](https://docs.stopcoronavirus.tech/w/markdown/18300_st-satur/4XTTMBkfWx9TfErorkCJRfnaJyHubZcNr1Mo55gzPd5a56VQK-K3TgUYNTAUiRmTj2uZy7runigBBYh7q1hVzdPQ4TAwBQcVRSZwBeKtMCV5wBpCwkYd4Sn34rzWgWk3xep2uPrpFa7LHVXFQgD7mhjzmZ4J26nN6SrDH5pQoYzmPE7vUBX34uKoTM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18300 	- ST SATUR](https://docs.stopcoronavirus.tech/#/r/markdown/18300_st-satur/4XTTMBkfWx9TfErorkCJRfnaJyHubZcNr1Mo55gzPd5a56VQK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18300 	- ST SATUR](https://docs.stopcoronavirus.tech/#/w/markdown/18300_st-satur/4XTTMBkfWx9TfErorkCJRfnaJyHubZcNr1Mo55gzPd5a56VQK-K3TgUYNTAUiRmTj2uZy7runigBBYh7q1hVzdPQ4TAwBQcVRSZwBeKtMCV5wBpCwkYd4Sn34rzWgWk3xep2uPrpFa7LHVXFQgD7mhjzmZ4J26nN6SrDH5pQoYzmPE7vUBX34uKoTM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

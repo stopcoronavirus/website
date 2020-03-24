@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16370 	- ST SULPICE DE COGNAC](https://docs.stopcoronavirus.tech/r/markdown/16370_st-sulpice-de-cognac/4XTTMBGQpm5YDvniEnG4NPfXLyopkhdFvLtywN6rwcg1zfLgL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16370 	- ST SULPICE DE COGNAC](https://docs.stopcoronavirus.tech/w/markdown/16370_st-sulpice-de-cognac/4XTTMBGQpm5YDvniEnG4NPfXLyopkhdFvLtywN6rwcg1zfLgL-K3TgUS6xqPnYPLQbnp3HAA9aq4hheG3J6ddtFs24yJfjsyWjk9j5QkZnMBtypsCx9mnbUEd7BxDrdk3cyQu3zLjEc4eVpupuHfTNiPmFWY7D4YACJ3ykL681PA5pgQKnmHn31o88) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16370 	- ST SULPICE DE COGNAC](https://docs.stopcoronavirus.tech/#/r/markdown/16370_st-sulpice-de-cognac/4XTTMBGQpm5YDvniEnG4NPfXLyopkhdFvLtywN6rwcg1zfLgL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16370 	- ST SULPICE DE COGNAC](https://docs.stopcoronavirus.tech/#/w/markdown/16370_st-sulpice-de-cognac/4XTTMBGQpm5YDvniEnG4NPfXLyopkhdFvLtywN6rwcg1zfLgL-K3TgUS6xqPnYPLQbnp3HAA9aq4hheG3J6ddtFs24yJfjsyWjk9j5QkZnMBtypsCx9mnbUEd7BxDrdk3cyQu3zLjEc4eVpupuHfTNiPmFWY7D4YACJ3ykL681PA5pgQKnmHn31o88) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

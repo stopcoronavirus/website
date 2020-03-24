@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27930 	- LA CHAPELLE DU BOIS DES FAULX](https://docs.stopcoronavirus.tech/r/markdown/27930_la-chapelle-du-bois-des-faulx/4XTTM5php34wDLYHiLnGCHe4UuoeMFAVgWu2rBgP3iRosXat4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27930 	- LA CHAPELLE DU BOIS DES FAULX](https://docs.stopcoronavirus.tech/w/markdown/27930_la-chapelle-du-bois-des-faulx/4XTTM5php34wDLYHiLnGCHe4UuoeMFAVgWu2rBgP3iRosXat4-K3TgU3N4xLToEBwinjazosyuToXZopTpMPS1bG32Db8VGPSm7A9GA6p3enYUJjA42qKG6ZdS3mShKsCBhDRX9RKMDY2BHMyd4JYZ36ddyNGisBrJeUAAG9CgEVHUXhGUgfZT89wr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27930 	- LA CHAPELLE DU BOIS DES FAULX](https://docs.stopcoronavirus.tech/#/r/markdown/27930_la-chapelle-du-bois-des-faulx/4XTTM5php34wDLYHiLnGCHe4UuoeMFAVgWu2rBgP3iRosXat4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27930 	- LA CHAPELLE DU BOIS DES FAULX](https://docs.stopcoronavirus.tech/#/w/markdown/27930_la-chapelle-du-bois-des-faulx/4XTTM5php34wDLYHiLnGCHe4UuoeMFAVgWu2rBgP3iRosXat4-K3TgU3N4xLToEBwinjazosyuToXZopTpMPS1bG32Db8VGPSm7A9GA6p3enYUJjA42qKG6ZdS3mShKsCBhDRX9RKMDY2BHMyd4JYZ36ddyNGisBrJeUAAG9CgEVHUXhGUgfZT89wr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18390 	- SAVIGNY EN SEPTAINE](https://docs.stopcoronavirus.tech/r/markdown/18390_savigny-en-septaine/4XTTMED8JffmxvjWM8nsxFEiQVH9XM8NZwPTWZNx6VKi1ojL9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18390 	- SAVIGNY EN SEPTAINE](https://docs.stopcoronavirus.tech/w/markdown/18390_savigny-en-septaine/4XTTMED8JffmxvjWM8nsxFEiQVH9XM8NZwPTWZNx6VKi1ojL9-K3TgTnYwKkyKSMffB3ngCLS964d5Jxq3erVdgSBTotxYKZHKqaioAPYCju96kyxk6Rxf3zJhvut5f7MngG75XFsVhxSK7gbBPtSvDAfeoe4ukBVmBq5v6KJaQvxuCYyv9UUpS5RP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18390 	- SAVIGNY EN SEPTAINE](https://docs.stopcoronavirus.tech/#/r/markdown/18390_savigny-en-septaine/4XTTMED8JffmxvjWM8nsxFEiQVH9XM8NZwPTWZNx6VKi1ojL9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18390 	- SAVIGNY EN SEPTAINE](https://docs.stopcoronavirus.tech/#/w/markdown/18390_savigny-en-septaine/4XTTMED8JffmxvjWM8nsxFEiQVH9XM8NZwPTWZNx6VKi1ojL9-K3TgTnYwKkyKSMffB3ngCLS964d5Jxq3erVdgSBTotxYKZHKqaioAPYCju96kyxk6Rxf3zJhvut5f7MngG75XFsVhxSK7gbBPtSvDAfeoe4ukBVmBq5v6KJaQvxuCYyv9UUpS5RP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

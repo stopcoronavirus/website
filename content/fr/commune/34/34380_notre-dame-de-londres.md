@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 34380 	- NOTRE DAME DE LONDRES](https://docs.stopcoronavirus.tech/r/markdown/34380_notre-dame-de-londres/4XTTMBLUR6Bmj4frWQRgUXZYQT6QEhP52swChd65QhKswRa1z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34380 	- NOTRE DAME DE LONDRES](https://docs.stopcoronavirus.tech/w/markdown/34380_notre-dame-de-londres/4XTTMBLUR6Bmj4frWQRgUXZYQT6QEhP52swChd65QhKswRa1z-K3TgUNNYqzSoHz316dFjmLAsQ4WPosGKaVBLeuqvBwy34VL96Lhzk3ZofiP3FN32JR8XLcg2PJPc2LmycpgTopAFba5bRPKk5WC8FhCjNXiSe67LBZmD3oMMCsVD4XNGEm9DYcpL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34380 	- NOTRE DAME DE LONDRES](https://docs.stopcoronavirus.tech/#/r/markdown/34380_notre-dame-de-londres/4XTTMBLUR6Bmj4frWQRgUXZYQT6QEhP52swChd65QhKswRa1z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34380 	- NOTRE DAME DE LONDRES](https://docs.stopcoronavirus.tech/#/w/markdown/34380_notre-dame-de-londres/4XTTMBLUR6Bmj4frWQRgUXZYQT6QEhP52swChd65QhKswRa1z-K3TgUNNYqzSoHz316dFjmLAsQ4WPosGKaVBLeuqvBwy34VL96Lhzk3ZofiP3FN32JR8XLcg2PJPc2LmycpgTopAFba5bRPKk5WC8FhCjNXiSe67LBZmD3oMMCsVD4XNGEm9DYcpL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

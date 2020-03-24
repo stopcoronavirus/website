@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 25530 	- VERCEL VILLEDIEU LE CAMP](https://docs.stopcoronavirus.tech/r/markdown/25530_vercel-villedieu-le-camp/4XTTM8WBcBGoDW7t88cGX9eJAjFBL3rc6wSasyGYwH3DNUmdw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25530 	- VERCEL VILLEDIEU LE CAMP](https://docs.stopcoronavirus.tech/w/markdown/25530_vercel-villedieu-le-camp/4XTTM8WBcBGoDW7t88cGX9eJAjFBL3rc6wSasyGYwH3DNUmdw-K3TgUriZfxpRG6fcbpRq3ao4cd8omfzGqK3HhpH3YnopXastkWAqBvZXohuejDbpiJQFoGZRdyBy71Xw4yfrJw6H4NiP1c68Qz8uaNeK4QkoX6Kd2B7hYApJ4ncgrdjFKFm1wFxy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25530 	- VERCEL VILLEDIEU LE CAMP](https://docs.stopcoronavirus.tech/#/r/markdown/25530_vercel-villedieu-le-camp/4XTTM8WBcBGoDW7t88cGX9eJAjFBL3rc6wSasyGYwH3DNUmdw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25530 	- VERCEL VILLEDIEU LE CAMP](https://docs.stopcoronavirus.tech/#/w/markdown/25530_vercel-villedieu-le-camp/4XTTM8WBcBGoDW7t88cGX9eJAjFBL3rc6wSasyGYwH3DNUmdw-K3TgUriZfxpRG6fcbpRq3ao4cd8omfzGqK3HhpH3YnopXastkWAqBvZXohuejDbpiJQFoGZRdyBy71Xw4yfrJw6H4NiP1c68Qz8uaNeK4QkoX6Kd2B7hYApJ4ncgrdjFKFm1wFxy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

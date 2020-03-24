@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20243 	- SAN GAVINO DI FIUMORBO](https://docs.stopcoronavirus.tech/r/markdown/20243_san-gavino-di-fiumorbo/4XTTMCMnXkKp8pa2BY3FL9wV1PPwwyAvssrokMb39ErAVWZxA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20243 	- SAN GAVINO DI FIUMORBO](https://docs.stopcoronavirus.tech/w/markdown/20243_san-gavino-di-fiumorbo/4XTTMCMnXkKp8pa2BY3FL9wV1PPwwyAvssrokMb39ErAVWZxA-K3TgV2yBZMgHJsj1geWec5TCLgZyqFUqjtzMUDXLbYnRnbkkScgw5FScyUJMexeYbbZqxYoXrBeQq1CyC2vbtFBjekDrvm9Rx9PTwESCTZgV3yaMhwseW7w2EGfw9nN3bVS6fi14) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20243 	- SAN GAVINO DI FIUMORBO](https://docs.stopcoronavirus.tech/#/r/markdown/20243_san-gavino-di-fiumorbo/4XTTMCMnXkKp8pa2BY3FL9wV1PPwwyAvssrokMb39ErAVWZxA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20243 	- SAN GAVINO DI FIUMORBO](https://docs.stopcoronavirus.tech/#/w/markdown/20243_san-gavino-di-fiumorbo/4XTTMCMnXkKp8pa2BY3FL9wV1PPwwyAvssrokMb39ErAVWZxA-K3TgV2yBZMgHJsj1geWec5TCLgZyqFUqjtzMUDXLbYnRnbkkScgw5FScyUJMexeYbbZqxYoXrBeQq1CyC2vbtFBjekDrvm9Rx9PTwESCTZgV3yaMhwseW7w2EGfw9nN3bVS6fi14) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

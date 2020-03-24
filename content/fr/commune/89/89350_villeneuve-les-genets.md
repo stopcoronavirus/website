@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89350 	- VILLENEUVE LES GENETS](https://docs.stopcoronavirus.tech/r/markdown/89350_villeneuve-les-genets/4XTTMGWFm98zmzuwk4Cg64vazmGNqQJUsfrmKNHsntAUp9NjK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89350 	- VILLENEUVE LES GENETS](https://docs.stopcoronavirus.tech/w/markdown/89350_villeneuve-les-genets/4XTTMGWFm98zmzuwk4Cg64vazmGNqQJUsfrmKNHsntAUp9NjK-K3TgU8uckeNSHsXfBCwmVnyxuux18Hv2iGeKcneipmzLvADYQWMjH4a42rETBtWagqUV9xcp3cyQAhAoWRZ644teTcKKFDdzkM5M1apqnDqKxCKcAjBrfvbnh1QifcNc27bNRXNH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89350 	- VILLENEUVE LES GENETS](https://docs.stopcoronavirus.tech/#/r/markdown/89350_villeneuve-les-genets/4XTTMGWFm98zmzuwk4Cg64vazmGNqQJUsfrmKNHsntAUp9NjK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89350 	- VILLENEUVE LES GENETS](https://docs.stopcoronavirus.tech/#/w/markdown/89350_villeneuve-les-genets/4XTTMGWFm98zmzuwk4Cg64vazmGNqQJUsfrmKNHsntAUp9NjK-K3TgU8uckeNSHsXfBCwmVnyxuux18Hv2iGeKcneipmzLvADYQWMjH4a42rETBtWagqUV9xcp3cyQAhAoWRZ644teTcKKFDdzkM5M1apqnDqKxCKcAjBrfvbnh1QifcNc27bNRXNH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

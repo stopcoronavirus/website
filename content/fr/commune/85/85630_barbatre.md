@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85630 	- BARBATRE](https://docs.stopcoronavirus.tech/r/markdown/85630_barbatre/4XTTMFdpcDjruwdDXmwsyPNDnyBMjeWXZxgPwU7V4bib9R9t8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85630 	- BARBATRE](https://docs.stopcoronavirus.tech/w/markdown/85630_barbatre/4XTTMFdpcDjruwdDXmwsyPNDnyBMjeWXZxgPwU7V4bib9R9t8-K3TgUKxko31cpJcrBFGbkKPGyM2psJxbDopzzLKKyHU8cxcEWvTGiFsnBB7dpj2zmrcCusqCrUta2CLXPqfHYDVPGKpmoFPQKm9YwnGcFn9dqdsYGwgrBD5wUSVNz3CJQNKUfXor) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85630 	- BARBATRE](https://docs.stopcoronavirus.tech/#/r/markdown/85630_barbatre/4XTTMFdpcDjruwdDXmwsyPNDnyBMjeWXZxgPwU7V4bib9R9t8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85630 	- BARBATRE](https://docs.stopcoronavirus.tech/#/w/markdown/85630_barbatre/4XTTMFdpcDjruwdDXmwsyPNDnyBMjeWXZxgPwU7V4bib9R9t8-K3TgUKxko31cpJcrBFGbkKPGyM2psJxbDopzzLKKyHU8cxcEWvTGiFsnBB7dpj2zmrcCusqCrUta2CLXPqfHYDVPGKpmoFPQKm9YwnGcFn9dqdsYGwgrBD5wUSVNz3CJQNKUfXor) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

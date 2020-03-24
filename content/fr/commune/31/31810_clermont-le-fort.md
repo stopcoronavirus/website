@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 31810 	- CLERMONT LE FORT](https://docs.stopcoronavirus.tech/r/markdown/31810_clermont-le-fort/4XTTM42jkYdesMA5exWQ5c8H6N6RHkBwJXnmueekqEh5kw3Jr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31810 	- CLERMONT LE FORT](https://docs.stopcoronavirus.tech/w/markdown/31810_clermont-le-fort/4XTTM42jkYdesMA5exWQ5c8H6N6RHkBwJXnmueekqEh5kw3Jr-K3TgUV3HN2Hd2gBJVx1JhGt45w7XW4wMbThEdDH2bvzVtC16sW36DhMHM3Cnsi3AHLo8YyQJQpXKYAe9wQz65taHxZKMRPwfr5sfVzBREU96RtJzEfSk4bbSWYFkebEiGdSi7jNi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31810 	- CLERMONT LE FORT](https://docs.stopcoronavirus.tech/#/r/markdown/31810_clermont-le-fort/4XTTM42jkYdesMA5exWQ5c8H6N6RHkBwJXnmueekqEh5kw3Jr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31810 	- CLERMONT LE FORT](https://docs.stopcoronavirus.tech/#/w/markdown/31810_clermont-le-fort/4XTTM42jkYdesMA5exWQ5c8H6N6RHkBwJXnmueekqEh5kw3Jr-K3TgUV3HN2Hd2gBJVx1JhGt45w7XW4wMbThEdDH2bvzVtC16sW36DhMHM3Cnsi3AHLo8YyQJQpXKYAe9wQz65taHxZKMRPwfr5sfVzBREU96RtJzEfSk4bbSWYFkebEiGdSi7jNi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

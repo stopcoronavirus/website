@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28630 	- BERCHERES LES PIERRES](https://docs.stopcoronavirus.tech/r/markdown/28630_bercheres-les-pierres/4XTTM1UsRnxfX7qRVSeRd5ATG22MQkdFYjTwXedQwN6LhXen8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28630 	- BERCHERES LES PIERRES](https://docs.stopcoronavirus.tech/w/markdown/28630_bercheres-les-pierres/4XTTM1UsRnxfX7qRVSeRd5ATG22MQkdFYjTwXedQwN6LhXen8-K3TgUicMNqdLrtNSHxgQSAvjV3dX9B8NWDhqBhnJL45jGVXUbrU8iXmVtSyCwGXcG2g7Nn4A4g4th5NqWP71gUE9L7AKJykaGkVZTrVCnv2syYguqmzHP355sHAbJg5m9qUUamL8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28630 	- BERCHERES LES PIERRES](https://docs.stopcoronavirus.tech/#/r/markdown/28630_bercheres-les-pierres/4XTTM1UsRnxfX7qRVSeRd5ATG22MQkdFYjTwXedQwN6LhXen8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28630 	- BERCHERES LES PIERRES](https://docs.stopcoronavirus.tech/#/w/markdown/28630_bercheres-les-pierres/4XTTM1UsRnxfX7qRVSeRd5ATG22MQkdFYjTwXedQwN6LhXen8-K3TgUicMNqdLrtNSHxgQSAvjV3dX9B8NWDhqBhnJL45jGVXUbrU8iXmVtSyCwGXcG2g7Nn4A4g4th5NqWP71gUE9L7AKJykaGkVZTrVCnv2syYguqmzHP355sHAbJg5m9qUUamL8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

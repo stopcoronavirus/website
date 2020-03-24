@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88330 	- MORIVILLE](https://docs.stopcoronavirus.tech/r/markdown/88330_moriville/4XTTMCw6sMwMSpCCEC3GPAXZ75QqHPSrgqqfaabUJm4Zne22L) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88330 	- MORIVILLE](https://docs.stopcoronavirus.tech/w/markdown/88330_moriville/4XTTMCw6sMwMSpCCEC3GPAXZ75QqHPSrgqqfaabUJm4Zne22L-K3TgUgyaxf6irpum1XPqdsL2Tu8pHwxEcU6vXb1QB2t39ofMXwyFGorRh2fThpMabn9inBM8r7GBvfWmGqQ8RnhCNMBc5WZu4HbMMD4NEST5Lz538Liwbv7HXkKxyQWcS8PtBhe8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88330 	- MORIVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/88330_moriville/4XTTMCw6sMwMSpCCEC3GPAXZ75QqHPSrgqqfaabUJm4Zne22L) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88330 	- MORIVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/88330_moriville/4XTTMCw6sMwMSpCCEC3GPAXZ75QqHPSrgqqfaabUJm4Zne22L-K3TgUgyaxf6irpum1XPqdsL2Tu8pHwxEcU6vXb1QB2t39ofMXwyFGorRh2fThpMabn9inBM8r7GBvfWmGqQ8RnhCNMBc5WZu4HbMMD4NEST5Lz538Liwbv7HXkKxyQWcS8PtBhe8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

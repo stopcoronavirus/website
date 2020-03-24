@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88600 	- LA NEUVEVILLE DEVANT LEPANGES](https://docs.stopcoronavirus.tech/r/markdown/88600_la-neuveville-devant-lepanges/4XTTM6TDAsto7hyQeErZ2YKn4GisMQW6v4rPANY2QnDfpciTQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88600 	- LA NEUVEVILLE DEVANT LEPANGES](https://docs.stopcoronavirus.tech/w/markdown/88600_la-neuveville-devant-lepanges/4XTTM6TDAsto7hyQeErZ2YKn4GisMQW6v4rPANY2QnDfpciTQ-K3TgUZxATX13yeVgZK1c2G6YuuQ6dLSYNNSfFhwMLCZYYTGLbh5LDqohuyd4nTpqwuCDQsqfaKMaJH1tx7fy5iJZGcx1Hs6p76kwkBhHCEWsFuiTJo8rpYfJ7YdKoXGcEsaqkB8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88600 	- LA NEUVEVILLE DEVANT LEPANGES](https://docs.stopcoronavirus.tech/#/r/markdown/88600_la-neuveville-devant-lepanges/4XTTM6TDAsto7hyQeErZ2YKn4GisMQW6v4rPANY2QnDfpciTQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88600 	- LA NEUVEVILLE DEVANT LEPANGES](https://docs.stopcoronavirus.tech/#/w/markdown/88600_la-neuveville-devant-lepanges/4XTTM6TDAsto7hyQeErZ2YKn4GisMQW6v4rPANY2QnDfpciTQ-K3TgUZxATX13yeVgZK1c2G6YuuQ6dLSYNNSfFhwMLCZYYTGLbh5LDqohuyd4nTpqwuCDQsqfaKMaJH1tx7fy5iJZGcx1Hs6p76kwkBhHCEWsFuiTJo8rpYfJ7YdKoXGcEsaqkB8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

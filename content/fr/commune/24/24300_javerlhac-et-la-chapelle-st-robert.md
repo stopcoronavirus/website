@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24300 	- JAVERLHAC ET LA CHAPELLE ST ROBERT](https://docs.stopcoronavirus.tech/r/markdown/24300_javerlhac-et-la-chapelle-st-robert/4XTTMBRDFe5mo9BjiAF6TzTFtXW2PEfENr4UHxzeqWDd3vuax) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24300 	- JAVERLHAC ET LA CHAPELLE ST ROBERT](https://docs.stopcoronavirus.tech/w/markdown/24300_javerlhac-et-la-chapelle-st-robert/4XTTMBRDFe5mo9BjiAF6TzTFtXW2PEfENr4UHxzeqWDd3vuax-K3TgUWa8yoKEcc9bnm8dqocQqM1z2ShgbUZBUhNwMkDRdudLWDHLcr6SJUK34KrQEG62vb62Hwju9HUJxx6THQJpAr393bKiPJcABd85DrcumjgLUxZz19ShE8pV7Lyj9cnogvvU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24300 	- JAVERLHAC ET LA CHAPELLE ST ROBERT](https://docs.stopcoronavirus.tech/#/r/markdown/24300_javerlhac-et-la-chapelle-st-robert/4XTTMBRDFe5mo9BjiAF6TzTFtXW2PEfENr4UHxzeqWDd3vuax) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24300 	- JAVERLHAC ET LA CHAPELLE ST ROBERT](https://docs.stopcoronavirus.tech/#/w/markdown/24300_javerlhac-et-la-chapelle-st-robert/4XTTMBRDFe5mo9BjiAF6TzTFtXW2PEfENr4UHxzeqWDd3vuax-K3TgUWa8yoKEcc9bnm8dqocQqM1z2ShgbUZBUhNwMkDRdudLWDHLcr6SJUK34KrQEG62vb62Hwju9HUJxx6THQJpAr393bKiPJcABd85DrcumjgLUxZz19ShE8pV7Lyj9cnogvvU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

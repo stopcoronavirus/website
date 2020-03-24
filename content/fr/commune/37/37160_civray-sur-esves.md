@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 37160 	- CIVRAY SUR ESVES](https://docs.stopcoronavirus.tech/r/markdown/37160_civray-sur-esves/4XTTMCGz3xzML9gC9GD5TnDtmhzpgVq2sBS3qnc1mkt5dt625) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37160 	- CIVRAY SUR ESVES](https://docs.stopcoronavirus.tech/w/markdown/37160_civray-sur-esves/4XTTMCGz3xzML9gC9GD5TnDtmhzpgVq2sBS3qnc1mkt5dt625-K3TgV3i8sDfC7eEg35UKmcezdGsqLdXMwz38XV785sirtCRqonHBAmr7igT4n1U9Z3eCtsM4c6947P8D37EKe9yjeqKQKYPUh1aLwkVnBTM6cAWuSZGpPSF6q3uM3AtUs9A7skgy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 37160 	- CIVRAY SUR ESVES](https://docs.stopcoronavirus.tech/#/r/markdown/37160_civray-sur-esves/4XTTMCGz3xzML9gC9GD5TnDtmhzpgVq2sBS3qnc1mkt5dt625) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 37160 	- CIVRAY SUR ESVES](https://docs.stopcoronavirus.tech/#/w/markdown/37160_civray-sur-esves/4XTTMCGz3xzML9gC9GD5TnDtmhzpgVq2sBS3qnc1mkt5dt625-K3TgV3i8sDfC7eEg35UKmcezdGsqLdXMwz38XV785sirtCRqonHBAmr7igT4n1U9Z3eCtsM4c6947P8D37EKe9yjeqKQKYPUh1aLwkVnBTM6cAWuSZGpPSF6q3uM3AtUs9A7skgy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

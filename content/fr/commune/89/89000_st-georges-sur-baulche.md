@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89000 	- ST GEORGES SUR BAULCHE](https://docs.stopcoronavirus.tech/r/markdown/89000_st-georges-sur-baulche/4XTTMBBTrFgEEjGCt33a7GgemvSALY4vpvh32rVyAxD897iQc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89000 	- ST GEORGES SUR BAULCHE](https://docs.stopcoronavirus.tech/w/markdown/89000_st-georges-sur-baulche/4XTTMBBTrFgEEjGCt33a7GgemvSALY4vpvh32rVyAxD897iQc-K3TgUDP9kbEeKMoTC2q7ow1Ybk3xSSzWocud4XVy65VLevsKiMaEPGzqaKFuv3P6ENMUucT9F3tpucC1KqkVSGmQ729p9XW4PAg1kVMa47ow3bY3dbzgNPVmDgR5QSXTe49vGrH2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89000 	- ST GEORGES SUR BAULCHE](https://docs.stopcoronavirus.tech/#/r/markdown/89000_st-georges-sur-baulche/4XTTMBBTrFgEEjGCt33a7GgemvSALY4vpvh32rVyAxD897iQc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89000 	- ST GEORGES SUR BAULCHE](https://docs.stopcoronavirus.tech/#/w/markdown/89000_st-georges-sur-baulche/4XTTMBBTrFgEEjGCt33a7GgemvSALY4vpvh32rVyAxD897iQc-K3TgUDP9kbEeKMoTC2q7ow1Ybk3xSSzWocud4XVy65VLevsKiMaEPGzqaKFuv3P6ENMUucT9F3tpucC1KqkVSGmQ729p9XW4PAg1kVMa47ow3bY3dbzgNPVmDgR5QSXTe49vGrH2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

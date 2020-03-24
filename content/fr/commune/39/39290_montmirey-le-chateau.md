@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 39290 	- MONTMIREY LE CHATEAU](https://docs.stopcoronavirus.tech/r/markdown/39290_montmirey-le-chateau/4XTTMG1r5aCs6apgeUAYHyiw6p61fEHBXkH1C7WisWF7NaUfP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39290 	- MONTMIREY LE CHATEAU](https://docs.stopcoronavirus.tech/w/markdown/39290_montmirey-le-chateau/4XTTMG1r5aCs6apgeUAYHyiw6p61fEHBXkH1C7WisWF7NaUfP-K3TgUYGP7FERYrJbzFSwBXBWzpwfTtca6wSFKZbamLqTx6PTRmYMJUvzjrLma9Hfa45FwUA4PFGKMpbfBJVajQT2mHae9ddkFNQSt8G61QwG1RHk9AmRLVCzFNEATYV2qJYQcDGR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39290 	- MONTMIREY LE CHATEAU](https://docs.stopcoronavirus.tech/#/r/markdown/39290_montmirey-le-chateau/4XTTMG1r5aCs6apgeUAYHyiw6p61fEHBXkH1C7WisWF7NaUfP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39290 	- MONTMIREY LE CHATEAU](https://docs.stopcoronavirus.tech/#/w/markdown/39290_montmirey-le-chateau/4XTTMG1r5aCs6apgeUAYHyiw6p61fEHBXkH1C7WisWF7NaUfP-K3TgUYGP7FERYrJbzFSwBXBWzpwfTtca6wSFKZbamLqTx6PTRmYMJUvzjrLma9Hfa45FwUA4PFGKMpbfBJVajQT2mHae9ddkFNQSt8G61QwG1RHk9AmRLVCzFNEATYV2qJYQcDGR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

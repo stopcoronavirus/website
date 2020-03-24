@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 61170 	- MARCHEMAISONS](https://docs.stopcoronavirus.tech/r/markdown/61170_marchemaisons/4XTTMHD8vUsdb9zwXfPoLGm1msiZGBJ19k5Sf2tpyizLpzua5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61170 	- MARCHEMAISONS](https://docs.stopcoronavirus.tech/w/markdown/61170_marchemaisons/4XTTMHD8vUsdb9zwXfPoLGm1msiZGBJ19k5Sf2tpyizLpzua5-K3TgV4wmXoDvwcxLXyCU7WG4q1pMr1R4JSxprL71ZLfBU6Y8ZNXsc8KNVwt1aYcX8fLwpF9Ww22MxAeQAzUHtRjE1XTwewFDw5wGmW8DGSDWEEnuiQSa9r99JgFH3JCbruVhqdYq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61170 	- MARCHEMAISONS](https://docs.stopcoronavirus.tech/#/r/markdown/61170_marchemaisons/4XTTMHD8vUsdb9zwXfPoLGm1msiZGBJ19k5Sf2tpyizLpzua5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61170 	- MARCHEMAISONS](https://docs.stopcoronavirus.tech/#/w/markdown/61170_marchemaisons/4XTTMHD8vUsdb9zwXfPoLGm1msiZGBJ19k5Sf2tpyizLpzua5-K3TgV4wmXoDvwcxLXyCU7WG4q1pMr1R4JSxprL71ZLfBU6Y8ZNXsc8KNVwt1aYcX8fLwpF9Ww22MxAeQAzUHtRjE1XTwewFDw5wGmW8DGSDWEEnuiQSa9r99JgFH3JCbruVhqdYq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

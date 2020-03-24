@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 65200 	- POUZAC](https://docs.stopcoronavirus.tech/r/markdown/65200_pouzac/4XTTM7TgwNfLmJ9g1ztiTC3jk7AkevMqGSEzkNHpjCLAA1Udo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 65200 	- POUZAC](https://docs.stopcoronavirus.tech/w/markdown/65200_pouzac/4XTTM7TgwNfLmJ9g1ztiTC3jk7AkevMqGSEzkNHpjCLAA1Udo-K3TgURZqQszCk1aR7vxVnw3gYcd2zCePwS3q2Vvw3pG9D5FX1F2a5VxKRhSc7bFyvYHNy1hGE7yfkobZBRRumNaq6Yz6a6dw8AZQW7emdui6nL3cEPwWiQmawnhasCuB7ZYDY1oo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 65200 	- POUZAC](https://docs.stopcoronavirus.tech/#/r/markdown/65200_pouzac/4XTTM7TgwNfLmJ9g1ztiTC3jk7AkevMqGSEzkNHpjCLAA1Udo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 65200 	- POUZAC](https://docs.stopcoronavirus.tech/#/w/markdown/65200_pouzac/4XTTM7TgwNfLmJ9g1ztiTC3jk7AkevMqGSEzkNHpjCLAA1Udo-K3TgURZqQszCk1aR7vxVnw3gYcd2zCePwS3q2Vvw3pG9D5FX1F2a5VxKRhSc7bFyvYHNy1hGE7yfkobZBRRumNaq6Yz6a6dw8AZQW7emdui6nL3cEPwWiQmawnhasCuB7ZYDY1oo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 65 	- Hautes-Pyrénées](https://docs.stopcoronavirus.tech/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 65 	- Hautes-Pyrénées](https://docs.stopcoronavirus.tech/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 65 	- Hautes-Pyrénées](https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 65 	- Hautes-Pyrénées](https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

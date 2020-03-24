@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77750 	- ST CYR SUR MORIN](https://docs.stopcoronavirus.tech/r/markdown/77750_st-cyr-sur-morin/4XTTM3VW78p9QuLhtR8yVzw1z2RhepczDbrdkgGZHFnB489sH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77750 	- ST CYR SUR MORIN](https://docs.stopcoronavirus.tech/w/markdown/77750_st-cyr-sur-morin/4XTTM3VW78p9QuLhtR8yVzw1z2RhepczDbrdkgGZHFnB489sH-K3TgULLWiJd5w1ma68Za6ujQFU2RMWGiGLnKABMmhV2oPcinjTUjfa6vSAxKdPUCmhoJ4MnZsMjdPbCYqVwXAdqYzxtEqjczbTbAdfbsskT2UdNFh7ngVbSLyswzZD6yZDsDki4b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77750 	- ST CYR SUR MORIN](https://docs.stopcoronavirus.tech/#/r/markdown/77750_st-cyr-sur-morin/4XTTM3VW78p9QuLhtR8yVzw1z2RhepczDbrdkgGZHFnB489sH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77750 	- ST CYR SUR MORIN](https://docs.stopcoronavirus.tech/#/w/markdown/77750_st-cyr-sur-morin/4XTTM3VW78p9QuLhtR8yVzw1z2RhepczDbrdkgGZHFnB489sH-K3TgULLWiJd5w1ma68Za6ujQFU2RMWGiGLnKABMmhV2oPcinjTUjfa6vSAxKdPUCmhoJ4MnZsMjdPbCYqVwXAdqYzxtEqjczbTbAdfbsskT2UdNFh7ngVbSLyswzZD6yZDsDki4b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

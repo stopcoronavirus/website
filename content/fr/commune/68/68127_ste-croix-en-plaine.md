@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 68127 	- STE CROIX EN PLAINE](https://docs.stopcoronavirus.tech/r/markdown/68127_ste-croix-en-plaine/4XTTM4LeCk7Qd48eRFUwNX9FFB9zDPF8Z8aoU4259kZdiukAw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68127 	- STE CROIX EN PLAINE](https://docs.stopcoronavirus.tech/w/markdown/68127_ste-croix-en-plaine/4XTTM4LeCk7Qd48eRFUwNX9FFB9zDPF8Z8aoU4259kZdiukAw-K3TgTuGJ1vfDoV2Hez2UbMEqt7R9TBKmE4WKeyzgrPviw2UMsGSD9oJAzo49VdMxLrQ2x8XqvyNrnfZoadF2Q3jTiX37GTtaGAZp6R7GFoPP5ZBuPo8gKsQzvmJ9CkWgz38ZKvdq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 68127 	- STE CROIX EN PLAINE](https://docs.stopcoronavirus.tech/#/r/markdown/68127_ste-croix-en-plaine/4XTTM4LeCk7Qd48eRFUwNX9FFB9zDPF8Z8aoU4259kZdiukAw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 68127 	- STE CROIX EN PLAINE](https://docs.stopcoronavirus.tech/#/w/markdown/68127_ste-croix-en-plaine/4XTTM4LeCk7Qd48eRFUwNX9FFB9zDPF8Z8aoU4259kZdiukAw-K3TgTuGJ1vfDoV2Hez2UbMEqt7R9TBKmE4WKeyzgrPviw2UMsGSD9oJAzo49VdMxLrQ2x8XqvyNrnfZoadF2Q3jTiX37GTtaGAZp6R7GFoPP5ZBuPo8gKsQzvmJ9CkWgz38ZKvdq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

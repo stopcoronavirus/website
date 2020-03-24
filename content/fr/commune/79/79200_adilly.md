@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 79200 	- ADILLY](https://docs.stopcoronavirus.tech/r/markdown/79200_adilly/4XTTMAVZRvuPnU6yZM2yEojKaz6LZBY9wFap2mJAcSEKLg5Ws) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79200 	- ADILLY](https://docs.stopcoronavirus.tech/w/markdown/79200_adilly/4XTTMAVZRvuPnU6yZM2yEojKaz6LZBY9wFap2mJAcSEKLg5Ws-K3TgUwhkdC5KgEvJSpV1kXNWbZu7rYPVVp2SMAS1EH9aN8Z1pUvLbWKSc2dmEpQ27EhTUqem9dqwL4Mb6c16g1yGzNbMVivbW2DN6w6UUoqmuNit9DaxbiG6kPmnnHhJLd4Rz8DZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79200 	- ADILLY](https://docs.stopcoronavirus.tech/#/r/markdown/79200_adilly/4XTTMAVZRvuPnU6yZM2yEojKaz6LZBY9wFap2mJAcSEKLg5Ws) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79200 	- ADILLY](https://docs.stopcoronavirus.tech/#/w/markdown/79200_adilly/4XTTMAVZRvuPnU6yZM2yEojKaz6LZBY9wFap2mJAcSEKLg5Ws-K3TgUwhkdC5KgEvJSpV1kXNWbZu7rYPVVp2SMAS1EH9aN8Z1pUvLbWKSc2dmEpQ27EhTUqem9dqwL4Mb6c16g1yGzNbMVivbW2DN6w6UUoqmuNit9DaxbiG6kPmnnHhJLd4Rz8DZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

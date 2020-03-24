@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 26770 	- ST PANTALEON LES VIGNES](https://docs.stopcoronavirus.tech/r/markdown/26770_st-pantaleon-les-vignes/4XTTMGpn9q2Rn64GHew4QnEYrdwNNWN8rvXbueMEQj8nhuAyt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26770 	- ST PANTALEON LES VIGNES](https://docs.stopcoronavirus.tech/w/markdown/26770_st-pantaleon-les-vignes/4XTTMGpn9q2Rn64GHew4QnEYrdwNNWN8rvXbueMEQj8nhuAyt-K3TgV6QCz5q5jbpXzB1zBvNAUwFGGuJqp8dVLM2ArH8qdnvG13W4yfV3eaZwbU9cGrjS9svSR2kX3yLFAZLXWP3w2HL958PXiZ7qa8bm3TDDbMU549bEes12R1pBEQkDUUPhNs98) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26770 	- ST PANTALEON LES VIGNES](https://docs.stopcoronavirus.tech/#/r/markdown/26770_st-pantaleon-les-vignes/4XTTMGpn9q2Rn64GHew4QnEYrdwNNWN8rvXbueMEQj8nhuAyt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26770 	- ST PANTALEON LES VIGNES](https://docs.stopcoronavirus.tech/#/w/markdown/26770_st-pantaleon-les-vignes/4XTTMGpn9q2Rn64GHew4QnEYrdwNNWN8rvXbueMEQj8nhuAyt-K3TgV6QCz5q5jbpXzB1zBvNAUwFGGuJqp8dVLM2ArH8qdnvG13W4yfV3eaZwbU9cGrjS9svSR2kX3yLFAZLXWP3w2HL958PXiZ7qa8bm3TDDbMU549bEes12R1pBEQkDUUPhNs98) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

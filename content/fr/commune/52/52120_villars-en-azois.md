@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 52120 	- VILLARS EN AZOIS](https://docs.stopcoronavirus.tech/r/markdown/52120_villars-en-azois/4XTTMBGXLTo22RXREfKxRfRuCX6VKMoi2cGPeB182FfeBV45v) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52120 	- VILLARS EN AZOIS](https://docs.stopcoronavirus.tech/w/markdown/52120_villars-en-azois/4XTTMBGXLTo22RXREfKxRfRuCX6VKMoi2cGPeB182FfeBV45v-K3TgUzcf83Es39zfyJKvbHXoHdX2q66GCor2DbYRAn7DqNBJ2jqgwxZCtx14JADJqfRFxykU83FH3a9j44gw3rWtCxWHJKvidisPk4U33ZLLxcJCFe65rNrtZTq2r9TUkLG5odgt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52120 	- VILLARS EN AZOIS](https://docs.stopcoronavirus.tech/#/r/markdown/52120_villars-en-azois/4XTTMBGXLTo22RXREfKxRfRuCX6VKMoi2cGPeB182FfeBV45v) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52120 	- VILLARS EN AZOIS](https://docs.stopcoronavirus.tech/#/w/markdown/52120_villars-en-azois/4XTTMBGXLTo22RXREfKxRfRuCX6VKMoi2cGPeB182FfeBV45v-K3TgUzcf83Es39zfyJKvbHXoHdX2q66GCor2DbYRAn7DqNBJ2jqgwxZCtx14JADJqfRFxykU83FH3a9j44gw3rWtCxWHJKvidisPk4U33ZLLxcJCFe65rNrtZTq2r9TUkLG5odgt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

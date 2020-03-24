@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 72390 	- LAVARE](https://docs.stopcoronavirus.tech/r/markdown/72390_lavare/4XTTM1gq9wLTVzPWY7rYBacggS3EXtB4U1AZ5u1r4GGwzE1B6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72390 	- LAVARE](https://docs.stopcoronavirus.tech/w/markdown/72390_lavare/4XTTM1gq9wLTVzPWY7rYBacggS3EXtB4U1AZ5u1r4GGwzE1B6-K3TgUCvJQ5dghoXcnMb5SsmYhTkMXzhfgXA8ZAZ9UvB89SG3nbqNmRkdpye1YNStWvrRyQaHqgpK4vP4jvaiaKrxJ562BVwdvod7HLXBpYVDoY19Uo2fD5MY1zML1FxY6gm6wB5J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72390 	- LAVARE](https://docs.stopcoronavirus.tech/#/r/markdown/72390_lavare/4XTTM1gq9wLTVzPWY7rYBacggS3EXtB4U1AZ5u1r4GGwzE1B6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72390 	- LAVARE](https://docs.stopcoronavirus.tech/#/w/markdown/72390_lavare/4XTTM1gq9wLTVzPWY7rYBacggS3EXtB4U1AZ5u1r4GGwzE1B6-K3TgUCvJQ5dghoXcnMb5SsmYhTkMXzhfgXA8ZAZ9UvB89SG3nbqNmRkdpye1YNStWvrRyQaHqgpK4vP4jvaiaKrxJ562BVwdvod7HLXBpYVDoY19Uo2fD5MY1zML1FxY6gm6wB5J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

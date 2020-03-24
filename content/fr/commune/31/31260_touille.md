@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 31260 	- TOUILLE](https://docs.stopcoronavirus.tech/r/markdown/31260_touille/4XTTMF1iLJ2ojp2jqM8DccTvuj1zu8ZN9ufTJjjrZomB4oHSZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31260 	- TOUILLE](https://docs.stopcoronavirus.tech/w/markdown/31260_touille/4XTTMF1iLJ2ojp2jqM8DccTvuj1zu8ZN9ufTJjjrZomB4oHSZ-K3TgU4B73EcydHMiDUDjizn4MtdBuKY7MjCjTQifgW4nsiGtBuyncoEBvAAAJc7n44XbKZU7iZa9CaxHUCSbgMR2xPmF5FQieUJyzsZfou5tAzXtCDYtW5ggFie6BngKk323vYQH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31260 	- TOUILLE](https://docs.stopcoronavirus.tech/#/r/markdown/31260_touille/4XTTMF1iLJ2ojp2jqM8DccTvuj1zu8ZN9ufTJjjrZomB4oHSZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31260 	- TOUILLE](https://docs.stopcoronavirus.tech/#/w/markdown/31260_touille/4XTTMF1iLJ2ojp2jqM8DccTvuj1zu8ZN9ufTJjjrZomB4oHSZ-K3TgU4B73EcydHMiDUDjizn4MtdBuKY7MjCjTQifgW4nsiGtBuyncoEBvAAAJc7n44XbKZU7iZa9CaxHUCSbgMR2xPmF5FQieUJyzsZfou5tAzXtCDYtW5ggFie6BngKk323vYQH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

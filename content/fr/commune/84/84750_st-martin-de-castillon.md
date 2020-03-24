@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84750 	- ST MARTIN DE CASTILLON](https://docs.stopcoronavirus.tech/r/markdown/84750_st-martin-de-castillon/4XTTM4CBcwLEgMeFQ2ogx9u3NV7Rmd5vreTA2nJpabfVfYzK1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84750 	- ST MARTIN DE CASTILLON](https://docs.stopcoronavirus.tech/w/markdown/84750_st-martin-de-castillon/4XTTM4CBcwLEgMeFQ2ogx9u3NV7Rmd5vreTA2nJpabfVfYzK1-K3TgUDonimRSDHxKTGEm8iopYbsQXwfjtq2BMKxXzy5uFKWhkaQExtWVm2TsCPC2kuvfQ6t8s2mb4yNSfC3sFNHZ5fdm8k3xEc8FMoBWhvcsHzidhNCPuuDQxXirFKsHtiPDS7Us) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84750 	- ST MARTIN DE CASTILLON](https://docs.stopcoronavirus.tech/#/r/markdown/84750_st-martin-de-castillon/4XTTM4CBcwLEgMeFQ2ogx9u3NV7Rmd5vreTA2nJpabfVfYzK1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84750 	- ST MARTIN DE CASTILLON](https://docs.stopcoronavirus.tech/#/w/markdown/84750_st-martin-de-castillon/4XTTM4CBcwLEgMeFQ2ogx9u3NV7Rmd5vreTA2nJpabfVfYzK1-K3TgUDonimRSDHxKTGEm8iopYbsQXwfjtq2BMKxXzy5uFKWhkaQExtWVm2TsCPC2kuvfQ6t8s2mb4yNSfC3sFNHZ5fdm8k3xEc8FMoBWhvcsHzidhNCPuuDQxXirFKsHtiPDS7Us) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

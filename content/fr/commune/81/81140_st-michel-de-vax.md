@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81140 	- ST MICHEL DE VAX](https://docs.stopcoronavirus.tech/r/markdown/81140_st-michel-de-vax/4XTTM6d4oZSr7m4t2YRzLeod5xmpmYLPxj1MsqDjx3gLLxR6K) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81140 	- ST MICHEL DE VAX](https://docs.stopcoronavirus.tech/w/markdown/81140_st-michel-de-vax/4XTTM6d4oZSr7m4t2YRzLeod5xmpmYLPxj1MsqDjx3gLLxR6K-K3TgUi96HyreCP3wScng35DqzNTU7mskbesWcPCToqsFuUsmSRk4b8qfuvegitU2CkeW2QEJb5DWHyUf3grVQfWvs5WAozDdvmQVwv5Zh9PPzQwxoeLoyG7GjjPTnDFm9r43bCXM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81140 	- ST MICHEL DE VAX](https://docs.stopcoronavirus.tech/#/r/markdown/81140_st-michel-de-vax/4XTTM6d4oZSr7m4t2YRzLeod5xmpmYLPxj1MsqDjx3gLLxR6K) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81140 	- ST MICHEL DE VAX](https://docs.stopcoronavirus.tech/#/w/markdown/81140_st-michel-de-vax/4XTTM6d4oZSr7m4t2YRzLeod5xmpmYLPxj1MsqDjx3gLLxR6K-K3TgUi96HyreCP3wScng35DqzNTU7mskbesWcPCToqsFuUsmSRk4b8qfuvegitU2CkeW2QEJb5DWHyUf3grVQfWvs5WAozDdvmQVwv5Zh9PPzQwxoeLoyG7GjjPTnDFm9r43bCXM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77440 	- ARMENTIERES EN BRIE](https://docs.stopcoronavirus.tech/r/markdown/77440_armentieres-en-brie/4XTTM97WwcUtVvZks8dDrbjTZ9ubCwHJXTt2QEu3iK81D18q6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77440 	- ARMENTIERES EN BRIE](https://docs.stopcoronavirus.tech/w/markdown/77440_armentieres-en-brie/4XTTM97WwcUtVvZks8dDrbjTZ9ubCwHJXTt2QEu3iK81D18q6-K3TgTwKhPErnEtxF6HLd1urwr6s2koycgTX6sF9dKUVKtVkKWoA183cPQcydtzKuPpDq6GzkXQs1koYEvunRdjiW7T7DhD9svGHCrP13BnDPyDyy53w6KPoyDiP59iewZUogY9eQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77440 	- ARMENTIERES EN BRIE](https://docs.stopcoronavirus.tech/#/r/markdown/77440_armentieres-en-brie/4XTTM97WwcUtVvZks8dDrbjTZ9ubCwHJXTt2QEu3iK81D18q6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77440 	- ARMENTIERES EN BRIE](https://docs.stopcoronavirus.tech/#/w/markdown/77440_armentieres-en-brie/4XTTM97WwcUtVvZks8dDrbjTZ9ubCwHJXTt2QEu3iK81D18q6-K3TgTwKhPErnEtxF6HLd1urwr6s2koycgTX6sF9dKUVKtVkKWoA183cPQcydtzKuPpDq6GzkXQs1koYEvunRdjiW7T7DhD9svGHCrP13BnDPyDyy53w6KPoyDiP59iewZUogY9eQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

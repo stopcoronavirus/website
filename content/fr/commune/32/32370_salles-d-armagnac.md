@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32370 	- SALLES D ARMAGNAC](https://docs.stopcoronavirus.tech/r/markdown/32370_salles-d-armagnac/4XTTMAJ1rNsWQpp7QfA3ZrjCXQZkzhwSdoTWq41sLTodwVUow) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32370 	- SALLES D ARMAGNAC](https://docs.stopcoronavirus.tech/w/markdown/32370_salles-d-armagnac/4XTTMAJ1rNsWQpp7QfA3ZrjCXQZkzhwSdoTWq41sLTodwVUow-K3TgUGtf9QSSqEU2HAUcFHfcDX349rSWY5W6uRZmtZGXn3hxvZ83772Xt4aoS2KTXbT9tXQ9ZRYzNqG3DGw5RmJibM9kQsGTYkaN6aPmn71GcYkV87QcWMV8KpU3kqmD3Z9NMYnq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32370 	- SALLES D ARMAGNAC](https://docs.stopcoronavirus.tech/#/r/markdown/32370_salles-d-armagnac/4XTTMAJ1rNsWQpp7QfA3ZrjCXQZkzhwSdoTWq41sLTodwVUow) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32370 	- SALLES D ARMAGNAC](https://docs.stopcoronavirus.tech/#/w/markdown/32370_salles-d-armagnac/4XTTMAJ1rNsWQpp7QfA3ZrjCXQZkzhwSdoTWq41sLTodwVUow-K3TgUGtf9QSSqEU2HAUcFHfcDX349rSWY5W6uRZmtZGXn3hxvZ83772Xt4aoS2KTXbT9tXQ9ZRYzNqG3DGw5RmJibM9kQsGTYkaN6aPmn71GcYkV87QcWMV8KpU3kqmD3Z9NMYnq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

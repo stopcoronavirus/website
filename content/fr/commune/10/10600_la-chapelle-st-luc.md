@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10600 	- LA CHAPELLE ST LUC](https://docs.stopcoronavirus.tech/r/markdown/10600_la-chapelle-st-luc/4XTTM3oYXBSc4PM6PCR6UywnU3sS3H21FPm1zkdM9XeP85yaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10600 	- LA CHAPELLE ST LUC](https://docs.stopcoronavirus.tech/w/markdown/10600_la-chapelle-st-luc/4XTTM3oYXBSc4PM6PCR6UywnU3sS3H21FPm1zkdM9XeP85yaL-K3TgUvYELzayKkUrLHCcSHKvsfnxvBGSxqr1wW5f16jzSee5H2vWUJUe49yQansvkr1tVtbq5mLYQYGKVgMyRuG2aZ9FR3Q5Z34fQa46CpqNqukMseniBrb8mvS772VypEvaR2Ma) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10600 	- LA CHAPELLE ST LUC](https://docs.stopcoronavirus.tech/#/r/markdown/10600_la-chapelle-st-luc/4XTTM3oYXBSc4PM6PCR6UywnU3sS3H21FPm1zkdM9XeP85yaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10600 	- LA CHAPELLE ST LUC](https://docs.stopcoronavirus.tech/#/w/markdown/10600_la-chapelle-st-luc/4XTTM3oYXBSc4PM6PCR6UywnU3sS3H21FPm1zkdM9XeP85yaL-K3TgUvYELzayKkUrLHCcSHKvsfnxvBGSxqr1wW5f16jzSee5H2vWUJUe49yQansvkr1tVtbq5mLYQYGKVgMyRuG2aZ9FR3Q5Z34fQa46CpqNqukMseniBrb8mvS772VypEvaR2Ma) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

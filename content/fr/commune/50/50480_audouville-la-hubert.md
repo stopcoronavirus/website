@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50480 	- AUDOUVILLE LA HUBERT](https://docs.stopcoronavirus.tech/r/markdown/50480_audouville-la-hubert/4XTTM7mHsSSsV2q2zhAm5FEadMPScPvy3pgMNYFGKxL1qbSyy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50480 	- AUDOUVILLE LA HUBERT](https://docs.stopcoronavirus.tech/w/markdown/50480_audouville-la-hubert/4XTTM7mHsSSsV2q2zhAm5FEadMPScPvy3pgMNYFGKxL1qbSyy-K3TgTyCzQNaid9urcfcFE6vUpgthWi5o2KXuKiikbjaBC1mJqdd3XQkF8JLv6eTmYaL2cZDLs1HNJCNVH2Ugpuha4t6ssoZ5ZeRMB3vcVQmMWaq8eE6Kc7BACZfBVQsHxabnT9TR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50480 	- AUDOUVILLE LA HUBERT](https://docs.stopcoronavirus.tech/#/r/markdown/50480_audouville-la-hubert/4XTTM7mHsSSsV2q2zhAm5FEadMPScPvy3pgMNYFGKxL1qbSyy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50480 	- AUDOUVILLE LA HUBERT](https://docs.stopcoronavirus.tech/#/w/markdown/50480_audouville-la-hubert/4XTTM7mHsSSsV2q2zhAm5FEadMPScPvy3pgMNYFGKxL1qbSyy-K3TgTyCzQNaid9urcfcFE6vUpgthWi5o2KXuKiikbjaBC1mJqdd3XQkF8JLv6eTmYaL2cZDLs1HNJCNVH2Ugpuha4t6ssoZ5ZeRMB3vcVQmMWaq8eE6Kc7BACZfBVQsHxabnT9TR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

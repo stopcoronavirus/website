@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 74430 	- LA BAUME](https://docs.stopcoronavirus.tech/r/markdown/74430_la-baume/4XTTMEq16SQXYyaKgvXCYN7LFoJabw2cQNshXxnhvKku1JYZq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74430 	- LA BAUME](https://docs.stopcoronavirus.tech/w/markdown/74430_la-baume/4XTTMEq16SQXYyaKgvXCYN7LFoJabw2cQNshXxnhvKku1JYZq-K3TgTfLVT4wR4KzJp964vPoQr2Fu2QRmrbdd39fmkjrBYywViwV5SH6GJ96J1QiRgbHPX8BVRaG7WaK523PezdSaUuNdWjfkrcbpg8Q2C8BD3qJGFbFEwS2tNQQxCorA1sEWayw1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74430 	- LA BAUME](https://docs.stopcoronavirus.tech/#/r/markdown/74430_la-baume/4XTTMEq16SQXYyaKgvXCYN7LFoJabw2cQNshXxnhvKku1JYZq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74430 	- LA BAUME](https://docs.stopcoronavirus.tech/#/w/markdown/74430_la-baume/4XTTMEq16SQXYyaKgvXCYN7LFoJabw2cQNshXxnhvKku1JYZq-K3TgTfLVT4wR4KzJp964vPoQr2Fu2QRmrbdd39fmkjrBYywViwV5SH6GJ96J1QiRgbHPX8BVRaG7WaK523PezdSaUuNdWjfkrcbpg8Q2C8BD3qJGFbFEwS2tNQQxCorA1sEWayw1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

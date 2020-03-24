@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24230 	- BONNEVILLE ET ST AVIT DE FUMADIERES](https://docs.stopcoronavirus.tech/r/markdown/24230_bonneville-et-st-avit-de-fumadieres/4XTTMEN6uQ6SgXp5rUAhTPM6mqp8bGEfM5wsjfii1WpAQ6Jw4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24230 	- BONNEVILLE ET ST AVIT DE FUMADIERES](https://docs.stopcoronavirus.tech/w/markdown/24230_bonneville-et-st-avit-de-fumadieres/4XTTMEN6uQ6SgXp5rUAhTPM6mqp8bGEfM5wsjfii1WpAQ6Jw4-K3TgTpjzQqVA7t3R5Pu1NJtyw9bTRHCkph3oFPL6cH2ovAhPYMBwzr1qarXfbHqMvHqMK9PHqfac6FuqqANti3ng1UtZxGDW9MuQGAucSM6aZjn2ykbaYpyg4977ez3fkniESFfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24230 	- BONNEVILLE ET ST AVIT DE FUMADIERES](https://docs.stopcoronavirus.tech/#/r/markdown/24230_bonneville-et-st-avit-de-fumadieres/4XTTMEN6uQ6SgXp5rUAhTPM6mqp8bGEfM5wsjfii1WpAQ6Jw4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24230 	- BONNEVILLE ET ST AVIT DE FUMADIERES](https://docs.stopcoronavirus.tech/#/w/markdown/24230_bonneville-et-st-avit-de-fumadieres/4XTTMEN6uQ6SgXp5rUAhTPM6mqp8bGEfM5wsjfii1WpAQ6Jw4-K3TgTpjzQqVA7t3R5Pu1NJtyw9bTRHCkph3oFPL6cH2ovAhPYMBwzr1qarXfbHqMvHqMK9PHqfac6FuqqANti3ng1UtZxGDW9MuQGAucSM6aZjn2ykbaYpyg4977ez3fkniESFfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02270 	- COUVRON ET AUMENCOURT](https://docs.stopcoronavirus.tech/r/markdown/02270_couvron-et-aumencourt/4XTTM5edbDxRTAaD96x5qJHLsTRQbGPh2YwBFwuGNbxTWzmoG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02270 	- COUVRON ET AUMENCOURT](https://docs.stopcoronavirus.tech/w/markdown/02270_couvron-et-aumencourt/4XTTM5edbDxRTAaD96x5qJHLsTRQbGPh2YwBFwuGNbxTWzmoG-K3TgUJNDhNLr46xsEDejt64EgAKDpVJvW6xb81JS54aFP4i1aNmjjfDxidfRVYJH7jEhYQpEm48tAEMHrFoZGd2LYB5iZs24TJXnCRP29AnujKdyg4STvpPWwFpgs6bdjLpvWPL6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02270 	- COUVRON ET AUMENCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/02270_couvron-et-aumencourt/4XTTM5edbDxRTAaD96x5qJHLsTRQbGPh2YwBFwuGNbxTWzmoG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02270 	- COUVRON ET AUMENCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/02270_couvron-et-aumencourt/4XTTM5edbDxRTAaD96x5qJHLsTRQbGPh2YwBFwuGNbxTWzmoG-K3TgUJNDhNLr46xsEDejt64EgAKDpVJvW6xb81JS54aFP4i1aNmjjfDxidfRVYJH7jEhYQpEm48tAEMHrFoZGd2LYB5iZs24TJXnCRP29AnujKdyg4STvpPWwFpgs6bdjLpvWPL6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

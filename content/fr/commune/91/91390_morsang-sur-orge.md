@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91390 	- MORSANG SUR ORGE](https://docs.stopcoronavirus.tech/r/markdown/91390_morsang-sur-orge/4XTTMD39HSjvFeDYKZ8SLbGNKfzeMAN4Kv5tXvAC2FBreTpz8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91390 	- MORSANG SUR ORGE](https://docs.stopcoronavirus.tech/w/markdown/91390_morsang-sur-orge/4XTTMD39HSjvFeDYKZ8SLbGNKfzeMAN4Kv5tXvAC2FBreTpz8-K3TgUz2tGDMJt6cxsbXPbpaDT6rzbdbQgPA9mWuohf3cHVyMGdkxa2UHny57BnSJeCmE7yjq6ERVoWW74bV6vCEdY6wSgxdniuW7g1zFd6jbFSBug6fZsdSx5RzNnLV69SMQYoxQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91390 	- MORSANG SUR ORGE](https://docs.stopcoronavirus.tech/#/r/markdown/91390_morsang-sur-orge/4XTTMD39HSjvFeDYKZ8SLbGNKfzeMAN4Kv5tXvAC2FBreTpz8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91390 	- MORSANG SUR ORGE](https://docs.stopcoronavirus.tech/#/w/markdown/91390_morsang-sur-orge/4XTTMD39HSjvFeDYKZ8SLbGNKfzeMAN4Kv5tXvAC2FBreTpz8-K3TgUz2tGDMJt6cxsbXPbpaDT6rzbdbQgPA9mWuohf3cHVyMGdkxa2UHny57BnSJeCmE7yjq6ERVoWW74bV6vCEdY6wSgxdniuW7g1zFd6jbFSBug6fZsdSx5RzNnLV69SMQYoxQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

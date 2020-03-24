@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97113 	- GOURBEYRE](https://docs.stopcoronavirus.tech/r/markdown/97113_gourbeyre/4XTTMFXNnAHhotxKP8w2fHH8FKhkj1WFET3aMaNCGk4KnS54f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97113 	- GOURBEYRE](https://docs.stopcoronavirus.tech/w/markdown/97113_gourbeyre/4XTTMFXNnAHhotxKP8w2fHH8FKhkj1WFET3aMaNCGk4KnS54f-K3TgUZTjYRgds1315EHPjXS2CmdrsESmadzs997KZ6huuNxir6dSMni3WC2a6hiRwQavM6ArBGGQzwpz2S2jUizFBmxBH6oe15dGJEZ8xQy3gmhKTm5k3Tiw3QMGAhMsoywU2HHd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 97113 	- GOURBEYRE](https://docs.stopcoronavirus.tech/#/r/markdown/97113_gourbeyre/4XTTMFXNnAHhotxKP8w2fHH8FKhkj1WFET3aMaNCGk4KnS54f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 97113 	- GOURBEYRE](https://docs.stopcoronavirus.tech/#/w/markdown/97113_gourbeyre/4XTTMFXNnAHhotxKP8w2fHH8FKhkj1WFET3aMaNCGk4KnS54f-K3TgUZTjYRgds1315EHPjXS2CmdrsESmadzs997KZ6huuNxir6dSMni3WC2a6hiRwQavM6ArBGGQzwpz2S2jUizFBmxBH6oe15dGJEZ8xQy3gmhKTm5k3Tiw3QMGAhMsoywU2HHd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 971 	- Guadeloupe](https://docs.stopcoronavirus.tech/r/markdown/971_guadeloupe/4XTTM7K6rrwq5sDHJdGAPfPs2Pu6j4G8QksLbuzteREYGhenX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 971 	- Guadeloupe](https://docs.stopcoronavirus.tech/w/markdown/971_guadeloupe/4XTTM7K6rrwq5sDHJdGAPfPs2Pu6j4G8QksLbuzteREYGhenX-K3TgUFuhCwocQVZNmKS671Zr6y9aFC3DHvHFoAAFmkXX6ADwL8ym1poY1JR13Hjq5veEzRdzCyYS6qdxCgfcj2gmfm7mwY7HA3pw6NqT8BmuA2qR3q5F4ETu8voFg1h5CXGYjwg7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 971 	- Guadeloupe](https://docs.stopcoronavirus.tech/#/r/markdown/971_guadeloupe/4XTTM7K6rrwq5sDHJdGAPfPs2Pu6j4G8QksLbuzteREYGhenX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 971 	- Guadeloupe](https://docs.stopcoronavirus.tech/#/w/markdown/971_guadeloupe/4XTTM7K6rrwq5sDHJdGAPfPs2Pu6j4G8QksLbuzteREYGhenX-K3TgUFuhCwocQVZNmKS671Zr6y9aFC3DHvHFoAAFmkXX6ADwL8ym1poY1JR13Hjq5veEzRdzCyYS6qdxCgfcj2gmfm7mwY7HA3pw6NqT8BmuA2qR3q5F4ETu8voFg1h5CXGYjwg7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09500 	- ST JULIEN DE GRAS CAPOU](https://docs.stopcoronavirus.tech/r/markdown/09500_st-julien-de-gras-capou/4XTTMDEMbMkHxdHhyMSw2pXR8GYN94caAvW8S6Q2VRenAK88b) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09500 	- ST JULIEN DE GRAS CAPOU](https://docs.stopcoronavirus.tech/w/markdown/09500_st-julien-de-gras-capou/4XTTMDEMbMkHxdHhyMSw2pXR8GYN94caAvW8S6Q2VRenAK88b-K3TgU9GWXFeEdtjQeLMpuM4865mHdKgV3CYkxZhnwr3TKJDecY1QJJKrhcrXsatYGEY9YzVuDCUCBa7H3W7Jx4Yth5CUNHuCPJgREF2NKkQkLX6BeNmUU8MAL9zEUyJADQwnysV5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09500 	- ST JULIEN DE GRAS CAPOU](https://docs.stopcoronavirus.tech/#/r/markdown/09500_st-julien-de-gras-capou/4XTTMDEMbMkHxdHhyMSw2pXR8GYN94caAvW8S6Q2VRenAK88b) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09500 	- ST JULIEN DE GRAS CAPOU](https://docs.stopcoronavirus.tech/#/w/markdown/09500_st-julien-de-gras-capou/4XTTMDEMbMkHxdHhyMSw2pXR8GYN94caAvW8S6Q2VRenAK88b-K3TgU9GWXFeEdtjQeLMpuM4865mHdKgV3CYkxZhnwr3TKJDecY1QJJKrhcrXsatYGEY9YzVuDCUCBa7H3W7Jx4Yth5CUNHuCPJgREF2NKkQkLX6BeNmUU8MAL9zEUyJADQwnysV5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

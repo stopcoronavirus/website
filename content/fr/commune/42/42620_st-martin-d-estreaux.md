@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42620 	- ST MARTIN D ESTREAUX](https://docs.stopcoronavirus.tech/r/markdown/42620_st-martin-d-estreaux/4XTTMAS5ZJXV6gqf2vg9vJTCCAvh56qG8azZB8zATyNEtiHh4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42620 	- ST MARTIN D ESTREAUX](https://docs.stopcoronavirus.tech/w/markdown/42620_st-martin-d-estreaux/4XTTMAS5ZJXV6gqf2vg9vJTCCAvh56qG8azZB8zATyNEtiHh4-K3TgUapwBmSUdG2yiYCAWpV9xCaYuetMSHXVfUinhNif5tSPpAhmDfZv7nxM3SKiME62mr59nH7UPdTzdUcXyRCC9W8NQToeaoxmfQFsd5r9HNnDfDWLV5okZPLrZCPMo5AN385g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42620 	- ST MARTIN D ESTREAUX](https://docs.stopcoronavirus.tech/#/r/markdown/42620_st-martin-d-estreaux/4XTTMAS5ZJXV6gqf2vg9vJTCCAvh56qG8azZB8zATyNEtiHh4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42620 	- ST MARTIN D ESTREAUX](https://docs.stopcoronavirus.tech/#/w/markdown/42620_st-martin-d-estreaux/4XTTMAS5ZJXV6gqf2vg9vJTCCAvh56qG8azZB8zATyNEtiHh4-K3TgUapwBmSUdG2yiYCAWpV9xCaYuetMSHXVfUinhNif5tSPpAhmDfZv7nxM3SKiME62mr59nH7UPdTzdUcXyRCC9W8NQToeaoxmfQFsd5r9HNnDfDWLV5okZPLrZCPMo5AN385g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

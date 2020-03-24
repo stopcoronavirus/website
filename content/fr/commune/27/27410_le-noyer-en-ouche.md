@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27410 	- LE NOYER EN OUCHE](https://docs.stopcoronavirus.tech/r/markdown/27410_le-noyer-en-ouche/4XTTMD1omt8cjzAKV2ULdoKgTu5x8QnTfdJ1X5Hg1o32ELruZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27410 	- LE NOYER EN OUCHE](https://docs.stopcoronavirus.tech/w/markdown/27410_le-noyer-en-ouche/4XTTMD1omt8cjzAKV2ULdoKgTu5x8QnTfdJ1X5Hg1o32ELruZ-K3TgUvKUGzL6CKvGfeJBypEpWvPBdstYw1JbcX5wvcFtkBoHsdJPAzBFUAHgnoCPMx3mch9ZeaRAVxwPg3bvVchSDz3ZaBdZdfBRPkURNBtCa798AkpNuZ7X4ztJfryEqApMRtNf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27410 	- LE NOYER EN OUCHE](https://docs.stopcoronavirus.tech/#/r/markdown/27410_le-noyer-en-ouche/4XTTMD1omt8cjzAKV2ULdoKgTu5x8QnTfdJ1X5Hg1o32ELruZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27410 	- LE NOYER EN OUCHE](https://docs.stopcoronavirus.tech/#/w/markdown/27410_le-noyer-en-ouche/4XTTMD1omt8cjzAKV2ULdoKgTu5x8QnTfdJ1X5Hg1o32ELruZ-K3TgUvKUGzL6CKvGfeJBypEpWvPBdstYw1JbcX5wvcFtkBoHsdJPAzBFUAHgnoCPMx3mch9ZeaRAVxwPg3bvVchSDz3ZaBdZdfBRPkURNBtCa798AkpNuZ7X4ztJfryEqApMRtNf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

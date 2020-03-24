@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86410 	- ST LAURENT DE JOURDES](https://docs.stopcoronavirus.tech/r/markdown/86410_st-laurent-de-jourdes/4XTTMHsCTfkB18D3NMCcc649u9CZQEptRSa4BTcpdvLbGSw5h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86410 	- ST LAURENT DE JOURDES](https://docs.stopcoronavirus.tech/w/markdown/86410_st-laurent-de-jourdes/4XTTMHsCTfkB18D3NMCcc649u9CZQEptRSa4BTcpdvLbGSw5h-K3TgTyPJ9G2vzdoQK67K7WAbXHh8hGNbk6Rg8DzFe2G5hPLFTS3Y5oiq9Bttx3YHScuqWeaRtmGA4xUnqoyLTgqNDDRpvgsHM2eikpwZsMxFCN5YgBr4YzeYo73ohU6RmhSo7RPu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86410 	- ST LAURENT DE JOURDES](https://docs.stopcoronavirus.tech/#/r/markdown/86410_st-laurent-de-jourdes/4XTTMHsCTfkB18D3NMCcc649u9CZQEptRSa4BTcpdvLbGSw5h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86410 	- ST LAURENT DE JOURDES](https://docs.stopcoronavirus.tech/#/w/markdown/86410_st-laurent-de-jourdes/4XTTMHsCTfkB18D3NMCcc649u9CZQEptRSa4BTcpdvLbGSw5h-K3TgTyPJ9G2vzdoQK67K7WAbXHh8hGNbk6Rg8DzFe2G5hPLFTS3Y5oiq9Bttx3YHScuqWeaRtmGA4xUnqoyLTgqNDDRpvgsHM2eikpwZsMxFCN5YgBr4YzeYo73ohU6RmhSo7RPu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

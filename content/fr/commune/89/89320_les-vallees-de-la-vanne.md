@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89320 	- LES VALLEES DE LA VANNE](https://docs.stopcoronavirus.tech/r/markdown/89320_les-vallees-de-la-vanne/4XTTMA6zKE4SJQq9iWN3T35gjDrxgW58qDEmxpt3sG2994zBi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89320 	- LES VALLEES DE LA VANNE](https://docs.stopcoronavirus.tech/w/markdown/89320_les-vallees-de-la-vanne/4XTTMA6zKE4SJQq9iWN3T35gjDrxgW58qDEmxpt3sG2994zBi-K3TgUUm99B6NLJgFDD3GVMsyeUCv7AiBoTQLccbaSiS4Gmv8nXTqU4tTNkQaTKEReH9d5Fabz2eRi1kcahTg6EQwGy536zEPV5Y5i7MPVq8Kaas8irK9d1pxNyP3rPiZXcdsTKPv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89320 	- LES VALLEES DE LA VANNE](https://docs.stopcoronavirus.tech/#/r/markdown/89320_les-vallees-de-la-vanne/4XTTMA6zKE4SJQq9iWN3T35gjDrxgW58qDEmxpt3sG2994zBi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89320 	- LES VALLEES DE LA VANNE](https://docs.stopcoronavirus.tech/#/w/markdown/89320_les-vallees-de-la-vanne/4XTTMA6zKE4SJQq9iWN3T35gjDrxgW58qDEmxpt3sG2994zBi-K3TgUUm99B6NLJgFDD3GVMsyeUCv7AiBoTQLccbaSiS4Gmv8nXTqU4tTNkQaTKEReH9d5Fabz2eRi1kcahTg6EQwGy536zEPV5Y5i7MPVq8Kaas8irK9d1pxNyP3rPiZXcdsTKPv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

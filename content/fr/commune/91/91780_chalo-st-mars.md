@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91780 	- CHALO ST MARS](https://docs.stopcoronavirus.tech/r/markdown/91780_chalo-st-mars/4XTTM7WvuPgyWRkHuL5sjXPJVg7i4TEN6yLqyMddJ19oD8cMu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91780 	- CHALO ST MARS](https://docs.stopcoronavirus.tech/w/markdown/91780_chalo-st-mars/4XTTM7WvuPgyWRkHuL5sjXPJVg7i4TEN6yLqyMddJ19oD8cMu-K3TgUu3WxjcyyBnRvgRttayRrEA5hkCUcZizY1HeALTs3FDa5bLH9uCErBZXCytHdL68NhkdJsSFuBHYbaMYj5Akcmo8Cueoe7FNy4KrNCiGH73pKojfU2s7xTq1pCf1qMn9M1xB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91780 	- CHALO ST MARS](https://docs.stopcoronavirus.tech/#/r/markdown/91780_chalo-st-mars/4XTTM7WvuPgyWRkHuL5sjXPJVg7i4TEN6yLqyMddJ19oD8cMu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91780 	- CHALO ST MARS](https://docs.stopcoronavirus.tech/#/w/markdown/91780_chalo-st-mars/4XTTM7WvuPgyWRkHuL5sjXPJVg7i4TEN6yLqyMddJ19oD8cMu-K3TgUu3WxjcyyBnRvgRttayRrEA5hkCUcZizY1HeALTs3FDa5bLH9uCErBZXCytHdL68NhkdJsSFuBHYbaMYj5Akcmo8Cueoe7FNy4KrNCiGH73pKojfU2s7xTq1pCf1qMn9M1xB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

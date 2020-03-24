@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33590 	- GRAYAN ET L HOPITAL](https://docs.stopcoronavirus.tech/r/markdown/33590_grayan-et-l-hopital/4XTTME2CdN9RHSqNMfN9bzzAkgKBk8Z3rTKPGqgpcESTvoCpV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33590 	- GRAYAN ET L HOPITAL](https://docs.stopcoronavirus.tech/w/markdown/33590_grayan-et-l-hopital/4XTTME2CdN9RHSqNMfN9bzzAkgKBk8Z3rTKPGqgpcESTvoCpV-K3TgUhujsWLzfTBkyQ6afh2cd2Dt6Q491BfyBRGaz9Fb7wCh6HpowvZkEp7Z7gTD1rEL6APQioBbMaMBFtz576xWe9kNd6k7AjbWAqFwT7stvb6GRGJgabExBnc8X5m8iuA1UGBP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33590 	- GRAYAN ET L HOPITAL](https://docs.stopcoronavirus.tech/#/r/markdown/33590_grayan-et-l-hopital/4XTTME2CdN9RHSqNMfN9bzzAkgKBk8Z3rTKPGqgpcESTvoCpV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33590 	- GRAYAN ET L HOPITAL](https://docs.stopcoronavirus.tech/#/w/markdown/33590_grayan-et-l-hopital/4XTTME2CdN9RHSqNMfN9bzzAkgKBk8Z3rTKPGqgpcESTvoCpV-K3TgUhujsWLzfTBkyQ6afh2cd2Dt6Q491BfyBRGaz9Fb7wCh6HpowvZkEp7Z7gTD1rEL6APQioBbMaMBFtz576xWe9kNd6k7AjbWAqFwT7stvb6GRGJgabExBnc8X5m8iuA1UGBP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

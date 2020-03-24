@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 49590 	- FONTEVRAUD L ABBAYE](https://docs.stopcoronavirus.tech/r/markdown/49590_fontevraud-l-abbaye/4XTTM2FAPbk2ypnNXARRmFDpALkV5zz8YxvDJerhurJAYGPT8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49590 	- FONTEVRAUD L ABBAYE](https://docs.stopcoronavirus.tech/w/markdown/49590_fontevraud-l-abbaye/4XTTM2FAPbk2ypnNXARRmFDpALkV5zz8YxvDJerhurJAYGPT8-K3TgURYfkFdU86bLJEbDgiojA6MfZrmfVi4gDVcPZ3vVucpfrFfKD778zk7wZFjogWS6LRWp5SvFBZxXGjcPr6nDnC9U8JV4exYwz5XzTSDZGyyb842Wrxs4CfxMnKCz6K1kgCiE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49590 	- FONTEVRAUD L ABBAYE](https://docs.stopcoronavirus.tech/#/r/markdown/49590_fontevraud-l-abbaye/4XTTM2FAPbk2ypnNXARRmFDpALkV5zz8YxvDJerhurJAYGPT8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49590 	- FONTEVRAUD L ABBAYE](https://docs.stopcoronavirus.tech/#/w/markdown/49590_fontevraud-l-abbaye/4XTTM2FAPbk2ypnNXARRmFDpALkV5zz8YxvDJerhurJAYGPT8-K3TgURYfkFdU86bLJEbDgiojA6MfZrmfVi4gDVcPZ3vVucpfrFfKD778zk7wZFjogWS6LRWp5SvFBZxXGjcPr6nDnC9U8JV4exYwz5XzTSDZGyyb842Wrxs4CfxMnKCz6K1kgCiE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

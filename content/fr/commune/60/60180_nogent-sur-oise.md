@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60180 	- NOGENT SUR OISE](https://docs.stopcoronavirus.tech/r/markdown/60180_nogent-sur-oise/4XTTM4kgZq5KPCPM9otvYGgPo1jFpHVumoh7P7ETh4Wt1AHWB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60180 	- NOGENT SUR OISE](https://docs.stopcoronavirus.tech/w/markdown/60180_nogent-sur-oise/4XTTM4kgZq5KPCPM9otvYGgPo1jFpHVumoh7P7ETh4Wt1AHWB-K3TgTpZ3PdTJjcAaeFd8ZtEzbcP1vWX7v38u5wScurRi1Qz4iSmWuT4XG4BfB7pjNfYwsX5fmvqNNS7aYDQJ51VkJH8178cRsfX21xf3yj5G2f17fmL2Z76iPgcU4ZSPyMhesgUj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60180 	- NOGENT SUR OISE](https://docs.stopcoronavirus.tech/#/r/markdown/60180_nogent-sur-oise/4XTTM4kgZq5KPCPM9otvYGgPo1jFpHVumoh7P7ETh4Wt1AHWB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60180 	- NOGENT SUR OISE](https://docs.stopcoronavirus.tech/#/w/markdown/60180_nogent-sur-oise/4XTTM4kgZq5KPCPM9otvYGgPo1jFpHVumoh7P7ETh4Wt1AHWB-K3TgTpZ3PdTJjcAaeFd8ZtEzbcP1vWX7v38u5wScurRi1Qz4iSmWuT4XG4BfB7pjNfYwsX5fmvqNNS7aYDQJ51VkJH8178cRsfX21xf3yj5G2f17fmL2Z76iPgcU4ZSPyMhesgUj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

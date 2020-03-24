@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80500 	- BOUILLANCOURT LA BATAILLE](https://docs.stopcoronavirus.tech/r/markdown/80500_bouillancourt-la-bataille/4XTTM8TPeqYaB8AmNQVijMWZbLxdQxDLkb6TB3CfZ231KGvfr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80500 	- BOUILLANCOURT LA BATAILLE](https://docs.stopcoronavirus.tech/w/markdown/80500_bouillancourt-la-bataille/4XTTM8TPeqYaB8AmNQVijMWZbLxdQxDLkb6TB3CfZ231KGvfr-K3TgV6Kqw2XrzthxxCUQkDpGFzAPfvviQk2XfsPPf6Dq1LC2TCqU9Q1un28AU6hh793j5AGXNQ4Zyku2vzAixUeTnFnPK8tXV3s893gJm6NSgaFZ6ZtC8XDEB5da9Tr1LBeHkaKi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80500 	- BOUILLANCOURT LA BATAILLE](https://docs.stopcoronavirus.tech/#/r/markdown/80500_bouillancourt-la-bataille/4XTTM8TPeqYaB8AmNQVijMWZbLxdQxDLkb6TB3CfZ231KGvfr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80500 	- BOUILLANCOURT LA BATAILLE](https://docs.stopcoronavirus.tech/#/w/markdown/80500_bouillancourt-la-bataille/4XTTM8TPeqYaB8AmNQVijMWZbLxdQxDLkb6TB3CfZ231KGvfr-K3TgV6Kqw2XrzthxxCUQkDpGFzAPfvviQk2XfsPPf6Dq1LC2TCqU9Q1un28AU6hh793j5AGXNQ4Zyku2vzAixUeTnFnPK8tXV3s893gJm6NSgaFZ6ZtC8XDEB5da9Tr1LBeHkaKi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 17290 	- AIGREFEUILLE D AUNIS](https://docs.stopcoronavirus.tech/r/markdown/17290_aigrefeuille-d-aunis/4XTTMGdPHBwdc1LyWyXgbKHLiEjrcht7mY637oXLHVoN1tWgy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17290 	- AIGREFEUILLE D AUNIS](https://docs.stopcoronavirus.tech/w/markdown/17290_aigrefeuille-d-aunis/4XTTMGdPHBwdc1LyWyXgbKHLiEjrcht7mY637oXLHVoN1tWgy-K3TgTf6MG2Chhtkntw26xnJqo76LK4KxGX4aBUUxi3f16jgoZCkCAr5bsmJcRqZL5dabwmVdrtwXPNDK6E8yYWzx4cpuVDxbK8fWEkrRJt3cCvx9cFXDDctad57HddvCfhZvhZMb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17290 	- AIGREFEUILLE D AUNIS](https://docs.stopcoronavirus.tech/#/r/markdown/17290_aigrefeuille-d-aunis/4XTTMGdPHBwdc1LyWyXgbKHLiEjrcht7mY637oXLHVoN1tWgy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17290 	- AIGREFEUILLE D AUNIS](https://docs.stopcoronavirus.tech/#/w/markdown/17290_aigrefeuille-d-aunis/4XTTMGdPHBwdc1LyWyXgbKHLiEjrcht7mY637oXLHVoN1tWgy-K3TgTf6MG2Chhtkntw26xnJqo76LK4KxGX4aBUUxi3f16jgoZCkCAr5bsmJcRqZL5dabwmVdrtwXPNDK6E8yYWzx4cpuVDxbK8fWEkrRJt3cCvx9cFXDDctad57HddvCfhZvhZMb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

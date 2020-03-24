@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18410 	- BRINON SUR SAULDRE](https://docs.stopcoronavirus.tech/r/markdown/18410_brinon-sur-sauldre/4XTTMEsiL8ZnQucS4ULbceSaBpJGPAfevCrwoThFP2wC9td2T) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18410 	- BRINON SUR SAULDRE](https://docs.stopcoronavirus.tech/w/markdown/18410_brinon-sur-sauldre/4XTTMEsiL8ZnQucS4ULbceSaBpJGPAfevCrwoThFP2wC9td2T-K3TgTsiCnGvJs7wQDCpyULiGfznZCU1XDiiTa5PQW3t3SujGoKUcRuRvHk5H1ctM7mSWP3V8QhxJSmkySZthGKatGrjxErw5khyPCZKDScVjwk8wFygorTGJWSDxwkHf4dQon5iT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18410 	- BRINON SUR SAULDRE](https://docs.stopcoronavirus.tech/#/r/markdown/18410_brinon-sur-sauldre/4XTTMEsiL8ZnQucS4ULbceSaBpJGPAfevCrwoThFP2wC9td2T) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18410 	- BRINON SUR SAULDRE](https://docs.stopcoronavirus.tech/#/w/markdown/18410_brinon-sur-sauldre/4XTTMEsiL8ZnQucS4ULbceSaBpJGPAfevCrwoThFP2wC9td2T-K3TgTsiCnGvJs7wQDCpyULiGfznZCU1XDiiTa5PQW3t3SujGoKUcRuRvHk5H1ctM7mSWP3V8QhxJSmkySZthGKatGrjxErw5khyPCZKDScVjwk8wFygorTGJWSDxwkHf4dQon5iT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

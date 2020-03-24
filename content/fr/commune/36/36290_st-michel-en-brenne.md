@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36290 	- ST MICHEL EN BRENNE](https://docs.stopcoronavirus.tech/r/markdown/36290_st-michel-en-brenne/4XTTMDS9fuGVW5nVFd7Vrinjpd2vhWrtC6n5UvkUGsmVHgP1f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36290 	- ST MICHEL EN BRENNE](https://docs.stopcoronavirus.tech/w/markdown/36290_st-michel-en-brenne/4XTTMDS9fuGVW5nVFd7Vrinjpd2vhWrtC6n5UvkUGsmVHgP1f-K3TgU5KE3yWV3vMMXCPvXk2SSmkh5NL3EhRVUUZztvpkm6rrAgAjG1sjFbJxC7jouhiunjfF6uNA4kvmjeshNt45kwkQyGJ5w3QiDz7eUWvA1nZ6mcex8yXRJdWSjRTt2vUtSiQd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36290 	- ST MICHEL EN BRENNE](https://docs.stopcoronavirus.tech/#/r/markdown/36290_st-michel-en-brenne/4XTTMDS9fuGVW5nVFd7Vrinjpd2vhWrtC6n5UvkUGsmVHgP1f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36290 	- ST MICHEL EN BRENNE](https://docs.stopcoronavirus.tech/#/w/markdown/36290_st-michel-en-brenne/4XTTMDS9fuGVW5nVFd7Vrinjpd2vhWrtC6n5UvkUGsmVHgP1f-K3TgU5KE3yWV3vMMXCPvXk2SSmkh5NL3EhRVUUZztvpkm6rrAgAjG1sjFbJxC7jouhiunjfF6uNA4kvmjeshNt45kwkQyGJ5w3QiDz7eUWvA1nZ6mcex8yXRJdWSjRTt2vUtSiQd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

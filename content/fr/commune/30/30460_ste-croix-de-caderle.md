@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30460 	- STE CROIX DE CADERLE](https://docs.stopcoronavirus.tech/r/markdown/30460_ste-croix-de-caderle/4XTTM7QE1AhX5HAXjTdXRW1z9CpTNyoPeHWhKSy6hHiySpum7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30460 	- STE CROIX DE CADERLE](https://docs.stopcoronavirus.tech/w/markdown/30460_ste-croix-de-caderle/4XTTM7QE1AhX5HAXjTdXRW1z9CpTNyoPeHWhKSy6hHiySpum7-K3TgTmYd8NXHbbCDwEy9S5U3G8usp1dh3QWbGb9ENQmvCFzQF8BuictPhvz38KRpQLiYS5W3Kn6nwxZfeBZWaqV42VedheBYt6T2ymgtKziZqnSd5tKUyNe4ad8epewmQLrNLJub) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30460 	- STE CROIX DE CADERLE](https://docs.stopcoronavirus.tech/#/r/markdown/30460_ste-croix-de-caderle/4XTTM7QE1AhX5HAXjTdXRW1z9CpTNyoPeHWhKSy6hHiySpum7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30460 	- STE CROIX DE CADERLE](https://docs.stopcoronavirus.tech/#/w/markdown/30460_ste-croix-de-caderle/4XTTM7QE1AhX5HAXjTdXRW1z9CpTNyoPeHWhKSy6hHiySpum7-K3TgTmYd8NXHbbCDwEy9S5U3G8usp1dh3QWbGb9ENQmvCFzQF8BuictPhvz38KRpQLiYS5W3Kn6nwxZfeBZWaqV42VedheBYt6T2ymgtKziZqnSd5tKUyNe4ad8epewmQLrNLJub) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

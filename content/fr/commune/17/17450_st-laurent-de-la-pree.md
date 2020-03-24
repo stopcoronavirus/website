@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 17450 	- ST LAURENT DE LA PREE](https://docs.stopcoronavirus.tech/r/markdown/17450_st-laurent-de-la-pree/4XTTMFte3ZqCU6pG5cxiiYUHDv6JimPyio8UBrmR6ReUmsVNa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17450 	- ST LAURENT DE LA PREE](https://docs.stopcoronavirus.tech/w/markdown/17450_st-laurent-de-la-pree/4XTTMFte3ZqCU6pG5cxiiYUHDv6JimPyio8UBrmR6ReUmsVNa-K3TgUyoDuT5MWPLzvtPZFYqjee3JdeXLzzy6escFhs8DDH5jYjotymdMST8zbMaoR3CdKPN98Kr7nz8iGaT7XBVXoM815RTX8Tr9iDwemCzjF4hYi4rbRvVLA7jkM5pWLsZ4D2BC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17450 	- ST LAURENT DE LA PREE](https://docs.stopcoronavirus.tech/#/r/markdown/17450_st-laurent-de-la-pree/4XTTMFte3ZqCU6pG5cxiiYUHDv6JimPyio8UBrmR6ReUmsVNa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17450 	- ST LAURENT DE LA PREE](https://docs.stopcoronavirus.tech/#/w/markdown/17450_st-laurent-de-la-pree/4XTTMFte3ZqCU6pG5cxiiYUHDv6JimPyio8UBrmR6ReUmsVNa-K3TgUyoDuT5MWPLzvtPZFYqjee3JdeXLzzy6escFhs8DDH5jYjotymdMST8zbMaoR3CdKPN98Kr7nz8iGaT7XBVXoM815RTX8Tr9iDwemCzjF4hYi4rbRvVLA7jkM5pWLsZ4D2BC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

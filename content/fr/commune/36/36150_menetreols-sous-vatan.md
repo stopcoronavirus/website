@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36150 	- MENETREOLS SOUS VATAN](https://docs.stopcoronavirus.tech/r/markdown/36150_menetreols-sous-vatan/4XTTMC2q1eckNh52E57TWTteaTbcVQVmtGB27ysg2YPXapmMo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36150 	- MENETREOLS SOUS VATAN](https://docs.stopcoronavirus.tech/w/markdown/36150_menetreols-sous-vatan/4XTTMC2q1eckNh52E57TWTteaTbcVQVmtGB27ysg2YPXapmMo-K3TgU7mvAXkZZdmYrq3fqMMH9Bnwef2wRooLa6DTHbzbpFW2ZCVP9qqmdfLQW4MV6cKm9PFgyVBJHCDaRoYn9Vqnzw8sZn9Um7dFBuU8NGx8LbRPDhSQ6PjUJnNzkwMSAYsZgde5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36150 	- MENETREOLS SOUS VATAN](https://docs.stopcoronavirus.tech/#/r/markdown/36150_menetreols-sous-vatan/4XTTMC2q1eckNh52E57TWTteaTbcVQVmtGB27ysg2YPXapmMo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36150 	- MENETREOLS SOUS VATAN](https://docs.stopcoronavirus.tech/#/w/markdown/36150_menetreols-sous-vatan/4XTTMC2q1eckNh52E57TWTteaTbcVQVmtGB27ysg2YPXapmMo-K3TgU7mvAXkZZdmYrq3fqMMH9Bnwef2wRooLa6DTHbzbpFW2ZCVP9qqmdfLQW4MV6cKm9PFgyVBJHCDaRoYn9Vqnzw8sZn9Um7dFBuU8NGx8LbRPDhSQ6PjUJnNzkwMSAYsZgde5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

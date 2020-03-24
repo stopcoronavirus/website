@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18380 	- MERY ES BOIS](https://docs.stopcoronavirus.tech/r/markdown/18380_mery-es-bois/4XTTMAMpDuVQgqopSBgThnifW4qVuDQX668HZRGfitaRUzedz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18380 	- MERY ES BOIS](https://docs.stopcoronavirus.tech/w/markdown/18380_mery-es-bois/4XTTMAMpDuVQgqopSBgThnifW4qVuDQX668HZRGfitaRUzedz-K3TgUreSLtMRPvAF6RD8KwdKKSQkEgQv1HHrLjFR6RtV1V8af1TpaqJWLNrpCZgf78SmQwm3Vq7Lz9PyJUjn6jahGEW2N1gMD9NNzazeCgHQVzVKgFbkmJakaoWR5aAi3nkrjt12) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18380 	- MERY ES BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/18380_mery-es-bois/4XTTMAMpDuVQgqopSBgThnifW4qVuDQX668HZRGfitaRUzedz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18380 	- MERY ES BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/18380_mery-es-bois/4XTTMAMpDuVQgqopSBgThnifW4qVuDQX668HZRGfitaRUzedz-K3TgUreSLtMRPvAF6RD8KwdKKSQkEgQv1HHrLjFR6RtV1V8af1TpaqJWLNrpCZgf78SmQwm3Vq7Lz9PyJUjn6jahGEW2N1gMD9NNzazeCgHQVzVKgFbkmJakaoWR5aAi3nkrjt12) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

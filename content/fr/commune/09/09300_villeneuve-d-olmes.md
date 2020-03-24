@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09300 	- VILLENEUVE D OLMES](https://docs.stopcoronavirus.tech/r/markdown/09300_villeneuve-d-olmes/4XTTM5Mvqozg2cL5Fyi9SsevgJqxPJar2L5y1jmWkgCAUQfVF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09300 	- VILLENEUVE D OLMES](https://docs.stopcoronavirus.tech/w/markdown/09300_villeneuve-d-olmes/4XTTM5Mvqozg2cL5Fyi9SsevgJqxPJar2L5y1jmWkgCAUQfVF-K3TgUbM2sP46RR2A9ipzqFUJdzLPzfco77MCZ5Ykf9fwBsSs3LhugyQ6SxvE7PaogmfKsR69beyd7a4aEbFsXEGkEVLzQTyeiq4agFskXZwEitrNoKNNCmb8eZ3mNssRrEUmM2FP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09300 	- VILLENEUVE D OLMES](https://docs.stopcoronavirus.tech/#/r/markdown/09300_villeneuve-d-olmes/4XTTM5Mvqozg2cL5Fyi9SsevgJqxPJar2L5y1jmWkgCAUQfVF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09300 	- VILLENEUVE D OLMES](https://docs.stopcoronavirus.tech/#/w/markdown/09300_villeneuve-d-olmes/4XTTM5Mvqozg2cL5Fyi9SsevgJqxPJar2L5y1jmWkgCAUQfVF-K3TgUbM2sP46RR2A9ipzqFUJdzLPzfco77MCZ5Ykf9fwBsSs3LhugyQ6SxvE7PaogmfKsR69beyd7a4aEbFsXEGkEVLzQTyeiq4agFskXZwEitrNoKNNCmb8eZ3mNssRrEUmM2FP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

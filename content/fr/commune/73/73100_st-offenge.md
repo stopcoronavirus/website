@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 73100 	- ST OFFENGE](https://docs.stopcoronavirus.tech/r/markdown/73100_st-offenge/4XTTM68hYcwy3i9uUh6BbBBHzAyKB8buxuKT2MRzcxPVCQTEX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73100 	- ST OFFENGE](https://docs.stopcoronavirus.tech/w/markdown/73100_st-offenge/4XTTM68hYcwy3i9uUh6BbBBHzAyKB8buxuKT2MRzcxPVCQTEX-K3TgTsLwNUJnczm4jDryGU14ZNMkDmUrQCBNNnCf8sMT6GUF8tm78RjVd4bW5hnXehaT9aZoE5STgGA11brWFgZapJvXBexqdAMTowFhYfC87pod6gTiHv356YsketMo5hLD4FsV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73100 	- ST OFFENGE](https://docs.stopcoronavirus.tech/#/r/markdown/73100_st-offenge/4XTTM68hYcwy3i9uUh6BbBBHzAyKB8buxuKT2MRzcxPVCQTEX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73100 	- ST OFFENGE](https://docs.stopcoronavirus.tech/#/w/markdown/73100_st-offenge/4XTTM68hYcwy3i9uUh6BbBBHzAyKB8buxuKT2MRzcxPVCQTEX-K3TgTsLwNUJnczm4jDryGU14ZNMkDmUrQCBNNnCf8sMT6GUF8tm78RjVd4bW5hnXehaT9aZoE5STgGA11brWFgZapJvXBexqdAMTowFhYfC87pod6gTiHv356YsketMo5hLD4FsV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

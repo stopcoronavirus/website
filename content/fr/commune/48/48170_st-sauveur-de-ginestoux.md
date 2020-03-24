@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48170 	- ST SAUVEUR DE GINESTOUX](https://docs.stopcoronavirus.tech/r/markdown/48170_st-sauveur-de-ginestoux/4XTTM1w5J9Ai227dwkkUZoEFVn73PA1BaTuo1hN2LLYFq1rc9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48170 	- ST SAUVEUR DE GINESTOUX](https://docs.stopcoronavirus.tech/w/markdown/48170_st-sauveur-de-ginestoux/4XTTM1w5J9Ai227dwkkUZoEFVn73PA1BaTuo1hN2LLYFq1rc9-K3TgUrS5xMYwEBhdyNkyCABCeYmBx7P6Nytt1H2uLunWTRwUFqUpkQkCi1mk6Ud3VzLUF8tkbm6V2TY1ci2GeEMv4xaLzYxCeLRPMj3N3w6RhJtmoZ9LrTcNWwezAmMR1XR7yJXB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48170 	- ST SAUVEUR DE GINESTOUX](https://docs.stopcoronavirus.tech/#/r/markdown/48170_st-sauveur-de-ginestoux/4XTTM1w5J9Ai227dwkkUZoEFVn73PA1BaTuo1hN2LLYFq1rc9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48170 	- ST SAUVEUR DE GINESTOUX](https://docs.stopcoronavirus.tech/#/w/markdown/48170_st-sauveur-de-ginestoux/4XTTM1w5J9Ai227dwkkUZoEFVn73PA1BaTuo1hN2LLYFq1rc9-K3TgUrS5xMYwEBhdyNkyCABCeYmBx7P6Nytt1H2uLunWTRwUFqUpkQkCi1mk6Ud3VzLUF8tkbm6V2TY1ci2GeEMv4xaLzYxCeLRPMj3N3w6RhJtmoZ9LrTcNWwezAmMR1XR7yJXB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

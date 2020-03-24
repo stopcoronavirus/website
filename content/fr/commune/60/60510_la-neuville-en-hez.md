@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60510 	- LA NEUVILLE EN HEZ](https://docs.stopcoronavirus.tech/r/markdown/60510_la-neuville-en-hez/4XTTM3VVHQuYG6hA18RRX6XpZhxkgyY3bKMmGeqXXRNSqUjzS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60510 	- LA NEUVILLE EN HEZ](https://docs.stopcoronavirus.tech/w/markdown/60510_la-neuville-en-hez/4XTTM3VVHQuYG6hA18RRX6XpZhxkgyY3bKMmGeqXXRNSqUjzS-K3TgUaGWiWoxdBtsYu474ADofL9C2ZgiVT7mzD8bJUCzuRbCd1AujgMjNJ8eu12QV5ksvQAN6S2u2Koj7PKrD8HeKwp6o5CUMZWsFtsYFTbadR8xmY9knp6QVrwmC749v5m2sNd8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60510 	- LA NEUVILLE EN HEZ](https://docs.stopcoronavirus.tech/#/r/markdown/60510_la-neuville-en-hez/4XTTM3VVHQuYG6hA18RRX6XpZhxkgyY3bKMmGeqXXRNSqUjzS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60510 	- LA NEUVILLE EN HEZ](https://docs.stopcoronavirus.tech/#/w/markdown/60510_la-neuville-en-hez/4XTTM3VVHQuYG6hA18RRX6XpZhxkgyY3bKMmGeqXXRNSqUjzS-K3TgUaGWiWoxdBtsYu474ADofL9C2ZgiVT7mzD8bJUCzuRbCd1AujgMjNJ8eu12QV5ksvQAN6S2u2Koj7PKrD8HeKwp6o5CUMZWsFtsYFTbadR8xmY9knp6QVrwmC749v5m2sNd8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

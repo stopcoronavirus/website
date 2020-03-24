@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30600 	- VESTRIC ET CANDIAC](https://docs.stopcoronavirus.tech/r/markdown/30600_vestric-et-candiac/4XTTMDUvh3qnW3Y1wMNiM1Fj4HACYRX982E3mBYzm8ck7NWc6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30600 	- VESTRIC ET CANDIAC](https://docs.stopcoronavirus.tech/w/markdown/30600_vestric-et-candiac/4XTTMDUvh3qnW3Y1wMNiM1Fj4HACYRX982E3mBYzm8ck7NWc6-K3TgULvMH9hbx7LyeidmuUqbNZQpd4RpbniBZ8KdVgv55C6J4FBKXVCJ9Fqz4Yf9Gvc22WGHQpe7589nwj4aRQoH2b81ukGS1nH2r8AdWfNkUqtDYbAtyzSAEgiovWadHpFhZNXG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30600 	- VESTRIC ET CANDIAC](https://docs.stopcoronavirus.tech/#/r/markdown/30600_vestric-et-candiac/4XTTMDUvh3qnW3Y1wMNiM1Fj4HACYRX982E3mBYzm8ck7NWc6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30600 	- VESTRIC ET CANDIAC](https://docs.stopcoronavirus.tech/#/w/markdown/30600_vestric-et-candiac/4XTTMDUvh3qnW3Y1wMNiM1Fj4HACYRX982E3mBYzm8ck7NWc6-K3TgULvMH9hbx7LyeidmuUqbNZQpd4RpbniBZ8KdVgv55C6J4FBKXVCJ9Fqz4Yf9Gvc22WGHQpe7589nwj4aRQoH2b81ukGS1nH2r8AdWfNkUqtDYbAtyzSAEgiovWadHpFhZNXG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

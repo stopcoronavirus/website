@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70160 	- LA VILLEDIEU EN FONTENETTE](https://docs.stopcoronavirus.tech/r/markdown/70160_la-villedieu-en-fontenette/4XTTM4Zabqe31NDWBXBN21oV2HZR4jg3KgDbd7KgC447S1W3j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70160 	- LA VILLEDIEU EN FONTENETTE](https://docs.stopcoronavirus.tech/w/markdown/70160_la-villedieu-en-fontenette/4XTTM4Zabqe31NDWBXBN21oV2HZR4jg3KgDbd7KgC447S1W3j-K3TgTuvjNh6SaP7zqPA6umsM8GvVTzDtxuj95zCECAVDfqJ4qTSAR8v3chPVGXHDnDv8q2zeqREMtGe1woueeUEn3y3Gik8aLRrxwYn1dqkrYBiqjMXkYQ1jM63AYP5byv3rEScy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70160 	- LA VILLEDIEU EN FONTENETTE](https://docs.stopcoronavirus.tech/#/r/markdown/70160_la-villedieu-en-fontenette/4XTTM4Zabqe31NDWBXBN21oV2HZR4jg3KgDbd7KgC447S1W3j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70160 	- LA VILLEDIEU EN FONTENETTE](https://docs.stopcoronavirus.tech/#/w/markdown/70160_la-villedieu-en-fontenette/4XTTM4Zabqe31NDWBXBN21oV2HZR4jg3KgDbd7KgC447S1W3j-K3TgTuvjNh6SaP7zqPA6umsM8GvVTzDtxuj95zCECAVDfqJ4qTSAR8v3chPVGXHDnDv8q2zeqREMtGe1woueeUEn3y3Gik8aLRrxwYn1dqkrYBiqjMXkYQ1jM63AYP5byv3rEScy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

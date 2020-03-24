@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10510 	- MAIZIERES LA GRANDE PAROISSE](https://docs.stopcoronavirus.tech/r/markdown/10510_maizieres-la-grande-paroisse/4XTTMFH1Z2dv7JScwvz7GTyd9eCULbVNLZc7ha6gJyezioZKJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10510 	- MAIZIERES LA GRANDE PAROISSE](https://docs.stopcoronavirus.tech/w/markdown/10510_maizieres-la-grande-paroisse/4XTTMFH1Z2dv7JScwvz7GTyd9eCULbVNLZc7ha6gJyezioZKJ-K3TgTzLJm5phMvyExSWXa8n6h85fLSVs9hbo8zS6Z95n2sRzxaKjKSWKdWYtYXtZa4gfnHY8ve1jFiivTWhmSsEcUMu7MQFYuzMtifatvqaKAs9xbUka33grEBh81pPfAWV1R3zL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10510 	- MAIZIERES LA GRANDE PAROISSE](https://docs.stopcoronavirus.tech/#/r/markdown/10510_maizieres-la-grande-paroisse/4XTTMFH1Z2dv7JScwvz7GTyd9eCULbVNLZc7ha6gJyezioZKJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10510 	- MAIZIERES LA GRANDE PAROISSE](https://docs.stopcoronavirus.tech/#/w/markdown/10510_maizieres-la-grande-paroisse/4XTTMFH1Z2dv7JScwvz7GTyd9eCULbVNLZc7ha6gJyezioZKJ-K3TgTzLJm5phMvyExSWXa8n6h85fLSVs9hbo8zS6Z95n2sRzxaKjKSWKdWYtYXtZa4gfnHY8ve1jFiivTWhmSsEcUMu7MQFYuzMtifatvqaKAs9xbUka33grEBh81pPfAWV1R3zL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

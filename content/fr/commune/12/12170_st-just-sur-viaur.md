@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12170 	- ST JUST SUR VIAUR](https://docs.stopcoronavirus.tech/r/markdown/12170_st-just-sur-viaur/4XTTM9nekJGr1j57a4S1cvddvjTsVwvDmhZxQuuTHYjqZXyTh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12170 	- ST JUST SUR VIAUR](https://docs.stopcoronavirus.tech/w/markdown/12170_st-just-sur-viaur/4XTTM9nekJGr1j57a4S1cvddvjTsVwvDmhZxQuuTHYjqZXyTh-K3TgU9CQZPWZ3ZowUDXsXD1SoioZmyYbHj6YKY59suQcW1xXAf36NVQEJTW3jAkxJM5sfSfCJwgjPbiQCZ7TQnjrzx5w2zTzu52yzQKn1LRNmJqtmjx2JSN2tkz4xvNDwJVBvpZR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12170 	- ST JUST SUR VIAUR](https://docs.stopcoronavirus.tech/#/r/markdown/12170_st-just-sur-viaur/4XTTM9nekJGr1j57a4S1cvddvjTsVwvDmhZxQuuTHYjqZXyTh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12170 	- ST JUST SUR VIAUR](https://docs.stopcoronavirus.tech/#/w/markdown/12170_st-just-sur-viaur/4XTTM9nekJGr1j57a4S1cvddvjTsVwvDmhZxQuuTHYjqZXyTh-K3TgU9CQZPWZ3ZowUDXsXD1SoioZmyYbHj6YKY59suQcW1xXAf36NVQEJTW3jAkxJM5sfSfCJwgjPbiQCZ7TQnjrzx5w2zTzu52yzQKn1LRNmJqtmjx2JSN2tkz4xvNDwJVBvpZR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

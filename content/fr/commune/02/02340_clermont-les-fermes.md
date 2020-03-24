@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02340 	- CLERMONT LES FERMES](https://docs.stopcoronavirus.tech/r/markdown/02340_clermont-les-fermes/4XTTM2MjyaC1JFGW3o9mJiSqpqgVNMGCFEj9y1UpJgw9kRHRi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02340 	- CLERMONT LES FERMES](https://docs.stopcoronavirus.tech/w/markdown/02340_clermont-les-fermes/4XTTM2MjyaC1JFGW3o9mJiSqpqgVNMGCFEj9y1UpJgw9kRHRi-K3TgUgxW9jZEh2UFuGGjYCcZMivBoSzqdq83s4o2Kg3X2sHtYuEAzoYg5bR4HFw63KH6sXEvkdsrne1PTfEgXuTnVfjWoconMSVJQX232EwBN9yjj2ZzgndJtnrk9tcTWKf4kzMN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02340 	- CLERMONT LES FERMES](https://docs.stopcoronavirus.tech/#/r/markdown/02340_clermont-les-fermes/4XTTM2MjyaC1JFGW3o9mJiSqpqgVNMGCFEj9y1UpJgw9kRHRi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02340 	- CLERMONT LES FERMES](https://docs.stopcoronavirus.tech/#/w/markdown/02340_clermont-les-fermes/4XTTM2MjyaC1JFGW3o9mJiSqpqgVNMGCFEj9y1UpJgw9kRHRi-K3TgUgxW9jZEh2UFuGGjYCcZMivBoSzqdq83s4o2Kg3X2sHtYuEAzoYg5bR4HFw63KH6sXEvkdsrne1PTfEgXuTnVfjWoconMSVJQX232EwBN9yjj2ZzgndJtnrk9tcTWKf4kzMN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

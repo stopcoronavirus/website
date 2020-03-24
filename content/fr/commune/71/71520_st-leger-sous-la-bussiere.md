@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71520 	- ST LEGER SOUS LA BUSSIERE](https://docs.stopcoronavirus.tech/r/markdown/71520_st-leger-sous-la-bussiere/4XTTM4vyD9MemswQ7cjNmvtivTdqSErDkm2GHscccAbywWdHc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71520 	- ST LEGER SOUS LA BUSSIERE](https://docs.stopcoronavirus.tech/w/markdown/71520_st-leger-sous-la-bussiere/4XTTM4vyD9MemswQ7cjNmvtivTdqSErDkm2GHscccAbywWdHc-K3TgUNfHxPSsJhvoCgMUfbB4GkefMiqkHxjPgUQpv4MPrGFtdqcbJeftJkN4gxQLPz8zAgyZeJLTfoHdb4UUH4grHgoehvxzAV1QbjemubQdKnGim4SJzZnRabAqjTvoBsWF9X4N) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71520 	- ST LEGER SOUS LA BUSSIERE](https://docs.stopcoronavirus.tech/#/r/markdown/71520_st-leger-sous-la-bussiere/4XTTM4vyD9MemswQ7cjNmvtivTdqSErDkm2GHscccAbywWdHc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71520 	- ST LEGER SOUS LA BUSSIERE](https://docs.stopcoronavirus.tech/#/w/markdown/71520_st-leger-sous-la-bussiere/4XTTM4vyD9MemswQ7cjNmvtivTdqSErDkm2GHscccAbywWdHc-K3TgUNfHxPSsJhvoCgMUfbB4GkefMiqkHxjPgUQpv4MPrGFtdqcbJeftJkN4gxQLPz8zAgyZeJLTfoHdb4UUH4grHgoehvxzAV1QbjemubQdKnGim4SJzZnRabAqjTvoBsWF9X4N) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

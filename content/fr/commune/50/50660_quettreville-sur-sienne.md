@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50660 	- QUETTREVILLE SUR SIENNE](https://docs.stopcoronavirus.tech/r/markdown/50660_quettreville-sur-sienne/4XTTMFge4vQnPgwH1EqawM9riKzgphRVwgR4whS8h9QW7z5Uk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50660 	- QUETTREVILLE SUR SIENNE](https://docs.stopcoronavirus.tech/w/markdown/50660_quettreville-sur-sienne/4XTTMFge4vQnPgwH1EqawM9riKzgphRVwgR4whS8h9QW7z5Uk-K3TgU74x9WdXdpFr6HYMBvBGvT3fEwqq1rwbexizXTk6ZQemSZzxmHc1K9USL1iDATjSHCTuYTSsD4BMw9vTwagfVJjeWuWEzYWPTer3GMTmy86BDxtYDRYG4ZV9N3VQNM7Qdqkt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50660 	- QUETTREVILLE SUR SIENNE](https://docs.stopcoronavirus.tech/#/r/markdown/50660_quettreville-sur-sienne/4XTTMFge4vQnPgwH1EqawM9riKzgphRVwgR4whS8h9QW7z5Uk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50660 	- QUETTREVILLE SUR SIENNE](https://docs.stopcoronavirus.tech/#/w/markdown/50660_quettreville-sur-sienne/4XTTMFge4vQnPgwH1EqawM9riKzgphRVwgR4whS8h9QW7z5Uk-K3TgU74x9WdXdpFr6HYMBvBGvT3fEwqq1rwbexizXTk6ZQemSZzxmHc1K9USL1iDATjSHCTuYTSsD4BMw9vTwagfVJjeWuWEzYWPTer3GMTmy86BDxtYDRYG4ZV9N3VQNM7Qdqkt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

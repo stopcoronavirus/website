@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01260 	- ARVIERE EN VALROMEY](https://docs.stopcoronavirus.tech/r/markdown/01260_arviere-en-valromey/4XTTM7CjuMSxWg576TztvH4vHMMT9wjBmRBQZjNqzN5T7cvKP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01260 	- ARVIERE EN VALROMEY](https://docs.stopcoronavirus.tech/w/markdown/01260_arviere-en-valromey/4XTTM7CjuMSxWg576TztvH4vHMMT9wjBmRBQZjNqzN5T7cvKP-K3TgUFtsvTkKXe8YbM22N1SgdStPtJMmWkXuGhs1sUEJKBUvzJNui86FNukZ6Yqeb5Uizb7jqtobXzZXZHXyjU2Gx6iChZ2JJKfy9rVheQwfF5s32HXsmGop7AnSVwjHRB7APT2M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01260 	- ARVIERE EN VALROMEY](https://docs.stopcoronavirus.tech/#/r/markdown/01260_arviere-en-valromey/4XTTM7CjuMSxWg576TztvH4vHMMT9wjBmRBQZjNqzN5T7cvKP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01260 	- ARVIERE EN VALROMEY](https://docs.stopcoronavirus.tech/#/w/markdown/01260_arviere-en-valromey/4XTTM7CjuMSxWg576TztvH4vHMMT9wjBmRBQZjNqzN5T7cvKP-K3TgUFtsvTkKXe8YbM22N1SgdStPtJMmWkXuGhs1sUEJKBUvzJNui86FNukZ6Yqeb5Uizb7jqtobXzZXZHXyjU2Gx6iChZ2JJKfy9rVheQwfF5s32HXsmGop7AnSVwjHRB7APT2M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

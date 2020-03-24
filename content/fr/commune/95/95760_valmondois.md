@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 95760 	- VALMONDOIS](https://docs.stopcoronavirus.tech/r/markdown/95760_valmondois/4XTTMEZqNqgoUvSehtTafkBD7y3Yn8Lq7JvB6UoNuS1DvhHSK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95760 	- VALMONDOIS](https://docs.stopcoronavirus.tech/w/markdown/95760_valmondois/4XTTMEZqNqgoUvSehtTafkBD7y3Yn8Lq7JvB6UoNuS1DvhHSK-K3TgTdVBE85fzcxHF8N7M4ss3b4n9RZHDqUU8FppsFdgeFwZ63da3cssoHcRXwT7EyVptMNP75Uvcx6PvJ4HmmaZv2F3nJ5kxE19V6iYmPWotAZTthnAVCzDU5F2tfX9biGcx867) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95760 	- VALMONDOIS](https://docs.stopcoronavirus.tech/#/r/markdown/95760_valmondois/4XTTMEZqNqgoUvSehtTafkBD7y3Yn8Lq7JvB6UoNuS1DvhHSK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95760 	- VALMONDOIS](https://docs.stopcoronavirus.tech/#/w/markdown/95760_valmondois/4XTTMEZqNqgoUvSehtTafkBD7y3Yn8Lq7JvB6UoNuS1DvhHSK-K3TgTdVBE85fzcxHF8N7M4ss3b4n9RZHDqUU8FppsFdgeFwZ63da3cssoHcRXwT7EyVptMNP75Uvcx6PvJ4HmmaZv2F3nJ5kxE19V6iYmPWotAZTthnAVCzDU5F2tfX9biGcx867) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

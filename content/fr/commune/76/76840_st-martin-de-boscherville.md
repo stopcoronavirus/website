@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76840 	- ST MARTIN DE BOSCHERVILLE](https://docs.stopcoronavirus.tech/r/markdown/76840_st-martin-de-boscherville/4XTTMBreb8Ad9uMBeB7jVcepXm8cTh6L8BCMY6GNRb64duqEP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76840 	- ST MARTIN DE BOSCHERVILLE](https://docs.stopcoronavirus.tech/w/markdown/76840_st-martin-de-boscherville/4XTTMBreb8Ad9uMBeB7jVcepXm8cTh6L8BCMY6GNRb64duqEP-K3TgTtPGvyiRktXXZgWV8UakCqXnt32fGGnKj5CzmaZwcR8xxrpxxJ73vvuWAdwMS71gLnLpkqen3SDxmjQma5FfWKga8bevzEd8izY7XVufb1M96r8GeJa2ZQD4k1sBqWraczym) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76840 	- ST MARTIN DE BOSCHERVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/76840_st-martin-de-boscherville/4XTTMBreb8Ad9uMBeB7jVcepXm8cTh6L8BCMY6GNRb64duqEP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76840 	- ST MARTIN DE BOSCHERVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/76840_st-martin-de-boscherville/4XTTMBreb8Ad9uMBeB7jVcepXm8cTh6L8BCMY6GNRb64duqEP-K3TgTtPGvyiRktXXZgWV8UakCqXnt32fGGnKj5CzmaZwcR8xxrpxxJ73vvuWAdwMS71gLnLpkqen3SDxmjQma5FfWKga8bevzEd8izY7XVufb1M96r8GeJa2ZQD4k1sBqWraczym) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

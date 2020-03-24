@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27500 	- ST MARDS DE BLACARVILLE](https://docs.stopcoronavirus.tech/r/markdown/27500_st-mards-de-blacarville/4XTTMFAJnH3TAAdzpapDbXecBfUtsh81vxwubGEwuELyKeRvS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27500 	- ST MARDS DE BLACARVILLE](https://docs.stopcoronavirus.tech/w/markdown/27500_st-mards-de-blacarville/4XTTMFAJnH3TAAdzpapDbXecBfUtsh81vxwubGEwuELyKeRvS-K3TgToQK5b3ME2pVYmvLXNfBGZs3WYbbimHE3fDhucva3Fi6a1YPvcmRGe9yCjn9WuZcDeBRM9Bs4FvDm4rEx7MmhbVD6G9kVaAp6WuNKTkVAe3dLhTmqLzFFzncYPnVZNPGiFZL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27500 	- ST MARDS DE BLACARVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/27500_st-mards-de-blacarville/4XTTMFAJnH3TAAdzpapDbXecBfUtsh81vxwubGEwuELyKeRvS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27500 	- ST MARDS DE BLACARVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/27500_st-mards-de-blacarville/4XTTMFAJnH3TAAdzpapDbXecBfUtsh81vxwubGEwuELyKeRvS-K3TgToQK5b3ME2pVYmvLXNfBGZs3WYbbimHE3fDhucva3Fi6a1YPvcmRGe9yCjn9WuZcDeBRM9Bs4FvDm4rEx7MmhbVD6G9kVaAp6WuNKTkVAe3dLhTmqLzFFzncYPnVZNPGiFZL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

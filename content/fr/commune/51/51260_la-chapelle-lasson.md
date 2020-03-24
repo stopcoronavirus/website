@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51260 	- LA CHAPELLE LASSON](https://docs.stopcoronavirus.tech/r/markdown/51260_la-chapelle-lasson/4XTTMGokeXbQ4M71TY9EczG3KAcCvX5dKHsyP7gTaKKQmYWvj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51260 	- LA CHAPELLE LASSON](https://docs.stopcoronavirus.tech/w/markdown/51260_la-chapelle-lasson/4XTTMGokeXbQ4M71TY9EczG3KAcCvX5dKHsyP7gTaKKQmYWvj-K3TgUxbErBbCyXNwPW1xhCz8vC8RKWHyW2SZdNVgjfjVMqxC5xrG9eFTVwmjEcB6urYHUyg2Ak5QTJ9vnJnfUDJ2rVfppdgMQZov3yV1puoGTuz4Rr3v6BxMgB3KiRUaE8BkfkVu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51260 	- LA CHAPELLE LASSON](https://docs.stopcoronavirus.tech/#/r/markdown/51260_la-chapelle-lasson/4XTTMGokeXbQ4M71TY9EczG3KAcCvX5dKHsyP7gTaKKQmYWvj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51260 	- LA CHAPELLE LASSON](https://docs.stopcoronavirus.tech/#/w/markdown/51260_la-chapelle-lasson/4XTTMGokeXbQ4M71TY9EczG3KAcCvX5dKHsyP7gTaKKQmYWvj-K3TgUxbErBbCyXNwPW1xhCz8vC8RKWHyW2SZdNVgjfjVMqxC5xrG9eFTVwmjEcB6urYHUyg2Ak5QTJ9vnJnfUDJ2rVfppdgMQZov3yV1puoGTuz4Rr3v6BxMgB3KiRUaE8BkfkVu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

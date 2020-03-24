@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 25690 	- AVOUDREY](https://docs.stopcoronavirus.tech/r/markdown/25690_avoudrey/4XTTM2ntra49Mtdj6fS2PezEoGZG3VgU4yMBovL4ovyZsghRV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25690 	- AVOUDREY](https://docs.stopcoronavirus.tech/w/markdown/25690_avoudrey/4XTTM2ntra49Mtdj6fS2PezEoGZG3VgU4yMBovL4ovyZsghRV-K3TgTkMZBtFeaVZ1kXQr5SN4y1b3MP5AHn7Hr1qy8rcDEt7zsEQjQRd26SipUfdRep7dbKdjBGqfBBSdgCTz6gq5y8VCu1CvXwZP7EGWhpegqCTaH6pcD2cKv5K19iSit4qdNfyM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25690 	- AVOUDREY](https://docs.stopcoronavirus.tech/#/r/markdown/25690_avoudrey/4XTTM2ntra49Mtdj6fS2PezEoGZG3VgU4yMBovL4ovyZsghRV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25690 	- AVOUDREY](https://docs.stopcoronavirus.tech/#/w/markdown/25690_avoudrey/4XTTM2ntra49Mtdj6fS2PezEoGZG3VgU4yMBovL4ovyZsghRV-K3TgTkMZBtFeaVZ1kXQr5SN4y1b3MP5AHn7Hr1qy8rcDEt7zsEQjQRd26SipUfdRep7dbKdjBGqfBBSdgCTz6gq5y8VCu1CvXwZP7EGWhpegqCTaH6pcD2cKv5K19iSit4qdNfyM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

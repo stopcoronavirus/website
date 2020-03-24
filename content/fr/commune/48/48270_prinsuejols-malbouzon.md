@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48270 	- PRINSUEJOLS MALBOUZON](https://docs.stopcoronavirus.tech/r/markdown/48270_prinsuejols-malbouzon/4XTTMCu3iKW1v7zyh7Uz7ajUKnPpt3dqs5Ht2r8AjrmbsY7ZW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48270 	- PRINSUEJOLS MALBOUZON](https://docs.stopcoronavirus.tech/w/markdown/48270_prinsuejols-malbouzon/4XTTMCu3iKW1v7zyh7Uz7ajUKnPpt3dqs5Ht2r8AjrmbsY7ZW-K3TgU2JTxmRQ1jNjfwcJ9uiFL54PANAtyqgHySQE6hhpVY7GEEg5YaSFTWZ5GHgHbPz22n2JvVrbxKaBhxAgKf4nHNUSMptB7umuUt6dc7gE1e3hfftxadMFQnmRVvcBt9ThFjCQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48270 	- PRINSUEJOLS MALBOUZON](https://docs.stopcoronavirus.tech/#/r/markdown/48270_prinsuejols-malbouzon/4XTTMCu3iKW1v7zyh7Uz7ajUKnPpt3dqs5Ht2r8AjrmbsY7ZW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48270 	- PRINSUEJOLS MALBOUZON](https://docs.stopcoronavirus.tech/#/w/markdown/48270_prinsuejols-malbouzon/4XTTMCu3iKW1v7zyh7Uz7ajUKnPpt3dqs5Ht2r8AjrmbsY7ZW-K3TgU2JTxmRQ1jNjfwcJ9uiFL54PANAtyqgHySQE6hhpVY7GEEg5YaSFTWZ5GHgHbPz22n2JvVrbxKaBhxAgKf4nHNUSMptB7umuUt6dc7gE1e3hfftxadMFQnmRVvcBt9ThFjCQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

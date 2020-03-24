@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77169 	- ST GERMAIN SOUS DOUE](https://docs.stopcoronavirus.tech/r/markdown/77169_st-germain-sous-doue/4XTTMA8skXT4rh95ufs4RUNrnT5Zuv8H1pWpjpKUs7ahDGh9W) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77169 	- ST GERMAIN SOUS DOUE](https://docs.stopcoronavirus.tech/w/markdown/77169_st-germain-sous-doue/4XTTMA8skXT4rh95ufs4RUNrnT5Zuv8H1pWpjpKUs7ahDGh9W-K3TgTfhdEqw7t3vtA3BJCHZEZSyZX8wdeedCyFub3xTMSPNm8Godtu7t9e9QdV1jiAfBvfuaFAnGdNmk49zrayEGmMAjwVpGQ662pSF9ttUSxV5prk4q7t6FMhBjNjWP5c75Y54G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77169 	- ST GERMAIN SOUS DOUE](https://docs.stopcoronavirus.tech/#/r/markdown/77169_st-germain-sous-doue/4XTTMA8skXT4rh95ufs4RUNrnT5Zuv8H1pWpjpKUs7ahDGh9W) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77169 	- ST GERMAIN SOUS DOUE](https://docs.stopcoronavirus.tech/#/w/markdown/77169_st-germain-sous-doue/4XTTMA8skXT4rh95ufs4RUNrnT5Zuv8H1pWpjpKUs7ahDGh9W-K3TgTfhdEqw7t3vtA3BJCHZEZSyZX8wdeedCyFub3xTMSPNm8Godtu7t9e9QdV1jiAfBvfuaFAnGdNmk49zrayEGmMAjwVpGQ662pSF9ttUSxV5prk4q7t6FMhBjNjWP5c75Y54G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

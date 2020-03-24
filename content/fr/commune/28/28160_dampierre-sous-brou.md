@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28160 	- DAMPIERRE SOUS BROU](https://docs.stopcoronavirus.tech/r/markdown/28160_dampierre-sous-brou/4XTTMDYs2SJHQzfNFtFHpF45gGorNPV7tiAqPCKdiRnftSDtJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28160 	- DAMPIERRE SOUS BROU](https://docs.stopcoronavirus.tech/w/markdown/28160_dampierre-sous-brou/4XTTMDYs2SJHQzfNFtFHpF45gGorNPV7tiAqPCKdiRnftSDtJ-K3TgTo5WunyieZhtEHkwkW1VnzqfAs1X1h79CxPedNjGRsM7XLwrrXy5gDzkdEvzTmQNHwBzyMQHbQJU19U6CkULdVniDcgvXXb3D4hiLN7x5iHXBTqfy63vkKuwDkScuSWWvAar) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28160 	- DAMPIERRE SOUS BROU](https://docs.stopcoronavirus.tech/#/r/markdown/28160_dampierre-sous-brou/4XTTMDYs2SJHQzfNFtFHpF45gGorNPV7tiAqPCKdiRnftSDtJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28160 	- DAMPIERRE SOUS BROU](https://docs.stopcoronavirus.tech/#/w/markdown/28160_dampierre-sous-brou/4XTTMDYs2SJHQzfNFtFHpF45gGorNPV7tiAqPCKdiRnftSDtJ-K3TgTo5WunyieZhtEHkwkW1VnzqfAs1X1h79CxPedNjGRsM7XLwrrXy5gDzkdEvzTmQNHwBzyMQHbQJU19U6CkULdVniDcgvXXb3D4hiLN7x5iHXBTqfy63vkKuwDkScuSWWvAar) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

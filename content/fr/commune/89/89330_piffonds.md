@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89330 	- PIFFONDS](https://docs.stopcoronavirus.tech/r/markdown/89330_piffonds/4XTTM3Lu2HGA8JLie3NLGGsGP9bxUev2H7d8MEfjBq4pXrtJ4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89330 	- PIFFONDS](https://docs.stopcoronavirus.tech/w/markdown/89330_piffonds/4XTTM3Lu2HGA8JLie3NLGGsGP9bxUev2H7d8MEfjBq4pXrtJ4-K3TgUQ2FirkrovCVHWn4EMCtfP3zaNRY6nB3x2kg6LN7di6gqXPod8RSPFS3b8KTptNqq5FoPuK69jNPSM4jjN1woD9HksNK8Q3iWXaPiVX7RtVU6Cxs5Qfmu9U6omvP8v1Bj7JG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89330 	- PIFFONDS](https://docs.stopcoronavirus.tech/#/r/markdown/89330_piffonds/4XTTM3Lu2HGA8JLie3NLGGsGP9bxUev2H7d8MEfjBq4pXrtJ4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89330 	- PIFFONDS](https://docs.stopcoronavirus.tech/#/w/markdown/89330_piffonds/4XTTM3Lu2HGA8JLie3NLGGsGP9bxUev2H7d8MEfjBq4pXrtJ4-K3TgUQ2FirkrovCVHWn4EMCtfP3zaNRY6nB3x2kg6LN7di6gqXPod8RSPFS3b8KTptNqq5FoPuK69jNPSM4jjN1woD9HksNK8Q3iWXaPiVX7RtVU6Cxs5Qfmu9U6omvP8v1Bj7JG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08260 	- FLAIGNES HAVYS](https://docs.stopcoronavirus.tech/r/markdown/08260_flaignes-havys/4XTTMDfMtBowFvKGRh1JPYQnv3ku8AWH8E5tHqvUReULyjGk8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08260 	- FLAIGNES HAVYS](https://docs.stopcoronavirus.tech/w/markdown/08260_flaignes-havys/4XTTMDfMtBowFvKGRh1JPYQnv3ku8AWH8E5tHqvUReULyjGk8-K3TgTcst5BXbNHNzGzm3Uy92SxU1ds6kvpA3vktuoA7jVuGNiBYe3VMdXyw6X7q55UYow2uHTbqvHxyNH8Yo1e2ctAAUrHJBEqdMbCgdEvY3BSK6zhfZtZzif2dXzyN1kjdRUE9v) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08260 	- FLAIGNES HAVYS](https://docs.stopcoronavirus.tech/#/r/markdown/08260_flaignes-havys/4XTTMDfMtBowFvKGRh1JPYQnv3ku8AWH8E5tHqvUReULyjGk8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08260 	- FLAIGNES HAVYS](https://docs.stopcoronavirus.tech/#/w/markdown/08260_flaignes-havys/4XTTMDfMtBowFvKGRh1JPYQnv3ku8AWH8E5tHqvUReULyjGk8-K3TgTcst5BXbNHNzGzm3Uy92SxU1ds6kvpA3vktuoA7jVuGNiBYe3VMdXyw6X7q55UYow2uHTbqvHxyNH8Yo1e2ctAAUrHJBEqdMbCgdEvY3BSK6zhfZtZzif2dXzyN1kjdRUE9v) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

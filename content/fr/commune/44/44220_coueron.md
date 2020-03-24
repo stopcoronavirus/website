@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 44220 	- COUERON](https://docs.stopcoronavirus.tech/r/markdown/44220_coueron/4XTTMESpW9Vn9Y4LoM6uBQuasrUtoZyRBcpu25teQvJhdAA1m) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 44220 	- COUERON](https://docs.stopcoronavirus.tech/w/markdown/44220_coueron/4XTTMESpW9Vn9Y4LoM6uBQuasrUtoZyRBcpu25teQvJhdAA1m-K3TgU9n5fgGYD1F4u2PAmk2Nt6nvZ7mDEWHLq8YC1MjLvdQWXominLfGPNzYd3ADu5U7SN89uqJFRm1Xk25dBijQQEVXdFKuKner8NvMdgqRBAhVqdpYsYvjTBymdYdbYSTJJGqd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 44220 	- COUERON](https://docs.stopcoronavirus.tech/#/r/markdown/44220_coueron/4XTTMESpW9Vn9Y4LoM6uBQuasrUtoZyRBcpu25teQvJhdAA1m) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 44220 	- COUERON](https://docs.stopcoronavirus.tech/#/w/markdown/44220_coueron/4XTTMESpW9Vn9Y4LoM6uBQuasrUtoZyRBcpu25teQvJhdAA1m-K3TgU9n5fgGYD1F4u2PAmk2Nt6nvZ7mDEWHLq8YC1MjLvdQWXominLfGPNzYd3ADu5U7SN89uqJFRm1Xk25dBijQQEVXdFKuKner8NvMdgqRBAhVqdpYsYvjTBymdYdbYSTJJGqd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

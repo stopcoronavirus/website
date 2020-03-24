@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50000 	- LE MESNIL ROUXELIN](https://docs.stopcoronavirus.tech/r/markdown/50000_le-mesnil-rouxelin/4XTTMC6ND89Vj5zkCmXUCHyyowRCTpKR8eaHdPWmg32PHw87W) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50000 	- LE MESNIL ROUXELIN](https://docs.stopcoronavirus.tech/w/markdown/50000_le-mesnil-rouxelin/4XTTMC6ND89Vj5zkCmXUCHyyowRCTpKR8eaHdPWmg32PHw87W-K3TgU52hC6tnsgrCCkCb2sELtRpmWzVBr4YGNSdTCKFDv93PQGGi1FxtE82MZYksDtrZRvtfnan7VviFLyvCpLtHedAviLcdspUusPaJrHWfxRHU7EiJdUY7o4tDo8XuGroF7QwW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50000 	- LE MESNIL ROUXELIN](https://docs.stopcoronavirus.tech/#/r/markdown/50000_le-mesnil-rouxelin/4XTTMC6ND89Vj5zkCmXUCHyyowRCTpKR8eaHdPWmg32PHw87W) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50000 	- LE MESNIL ROUXELIN](https://docs.stopcoronavirus.tech/#/w/markdown/50000_le-mesnil-rouxelin/4XTTMC6ND89Vj5zkCmXUCHyyowRCTpKR8eaHdPWmg32PHw87W-K3TgU52hC6tnsgrCCkCb2sELtRpmWzVBr4YGNSdTCKFDv93PQGGi1FxtE82MZYksDtrZRvtfnan7VviFLyvCpLtHedAviLcdspUusPaJrHWfxRHU7EiJdUY7o4tDo8XuGroF7QwW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

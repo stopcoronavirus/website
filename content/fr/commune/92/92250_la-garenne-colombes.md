@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 92250 	- LA GARENNE COLOMBES](https://docs.stopcoronavirus.tech/r/markdown/92250_la-garenne-colombes/4XTTMFnNQ8ttZgE2bmRw8N1RpgcF5sQujFZmakveoRoSGC1Pp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92250 	- LA GARENNE COLOMBES](https://docs.stopcoronavirus.tech/w/markdown/92250_la-garenne-colombes/4XTTMFnNQ8ttZgE2bmRw8N1RpgcF5sQujFZmakveoRoSGC1Pp-K3TgUscnW9NBqsnVKb4acRf9kFyf3hfBte1amerZSZEo8LXkAjcdPK6fxLiB2nyN2Uoa1pcD1UGo9hYJdQcBfW678qBEWUC1MvkTHbrUiwbkZK5FouHBAtJjhewvXJeA3U8dqrYi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 92250 	- LA GARENNE COLOMBES](https://docs.stopcoronavirus.tech/#/r/markdown/92250_la-garenne-colombes/4XTTMFnNQ8ttZgE2bmRw8N1RpgcF5sQujFZmakveoRoSGC1Pp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 92250 	- LA GARENNE COLOMBES](https://docs.stopcoronavirus.tech/#/w/markdown/92250_la-garenne-colombes/4XTTMFnNQ8ttZgE2bmRw8N1RpgcF5sQujFZmakveoRoSGC1Pp-K3TgUscnW9NBqsnVKb4acRf9kFyf3hfBte1amerZSZEo8LXkAjcdPK6fxLiB2nyN2Uoa1pcD1UGo9hYJdQcBfW678qBEWUC1MvkTHbrUiwbkZK5FouHBAtJjhewvXJeA3U8dqrYi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

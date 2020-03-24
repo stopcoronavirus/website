@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23360 	- LA FORET DU TEMPLE](https://docs.stopcoronavirus.tech/r/markdown/23360_la-foret-du-temple/4XTTMEDFQULPmsuQ1HqeDpYo1hXShCabcVm1fXnCkNZWcbd2Y) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23360 	- LA FORET DU TEMPLE](https://docs.stopcoronavirus.tech/w/markdown/23360_la-foret-du-temple/4XTTMEDFQULPmsuQ1HqeDpYo1hXShCabcVm1fXnCkNZWcbd2Y-K3TgU1qWoiZRojXqzWB7QbnZi6xsn1XBu2PC2gL1R62UM4SrZqsk75T5cwu6rSZNSNybdP1X3yK58Vzagxeq49v5LToTuQu5BxThaQQV3gWEJ6Br8JKFdrpGRVbSSDDxf7gGywZa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23360 	- LA FORET DU TEMPLE](https://docs.stopcoronavirus.tech/#/r/markdown/23360_la-foret-du-temple/4XTTMEDFQULPmsuQ1HqeDpYo1hXShCabcVm1fXnCkNZWcbd2Y) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23360 	- LA FORET DU TEMPLE](https://docs.stopcoronavirus.tech/#/w/markdown/23360_la-foret-du-temple/4XTTMEDFQULPmsuQ1HqeDpYo1hXShCabcVm1fXnCkNZWcbd2Y-K3TgU1qWoiZRojXqzWB7QbnZi6xsn1XBu2PC2gL1R62UM4SrZqsk75T5cwu6rSZNSNybdP1X3yK58Vzagxeq49v5LToTuQu5BxThaQQV3gWEJ6Br8JKFdrpGRVbSSDDxf7gGywZa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

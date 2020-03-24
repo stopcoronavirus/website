@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 56700 	- MERLEVENEZ](https://docs.stopcoronavirus.tech/r/markdown/56700_merlevenez/4XTTM5RHDPDtwQPs6QT1sb2kiFiB5Ju2Y5fr4GYZ6mJcJMSyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56700 	- MERLEVENEZ](https://docs.stopcoronavirus.tech/w/markdown/56700_merlevenez/4XTTM5RHDPDtwQPs6QT1sb2kiFiB5Ju2Y5fr4GYZ6mJcJMSyh-K3TgUgUtPML5nA6eLbjp29RtKqobgfDoFhfkcqaoprqWLMtZ11ftT849XZdTR8hCGSEWv8pHoRRTEeRxZxBk9XAen1pmDANNPezRMjSFEfFbAqGg28VwA7LgU3GyrrMXiUkNL1Uf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56700 	- MERLEVENEZ](https://docs.stopcoronavirus.tech/#/r/markdown/56700_merlevenez/4XTTM5RHDPDtwQPs6QT1sb2kiFiB5Ju2Y5fr4GYZ6mJcJMSyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56700 	- MERLEVENEZ](https://docs.stopcoronavirus.tech/#/w/markdown/56700_merlevenez/4XTTM5RHDPDtwQPs6QT1sb2kiFiB5Ju2Y5fr4GYZ6mJcJMSyh-K3TgUgUtPML5nA6eLbjp29RtKqobgfDoFhfkcqaoprqWLMtZ11ftT849XZdTR8hCGSEWv8pHoRRTEeRxZxBk9XAen1pmDANNPezRMjSFEfFbAqGg28VwA7LgU3GyrrMXiUkNL1Uf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

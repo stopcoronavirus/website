@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 04000 	- LA ROBINE SUR GALABRE](https://docs.stopcoronavirus.tech/r/markdown/04000_la-robine-sur-galabre/4XTTMGwzCxSLAeVKNH1Fk7eBgcbLjUj57kK89wgTTBRJUZfWT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04000 	- LA ROBINE SUR GALABRE](https://docs.stopcoronavirus.tech/w/markdown/04000_la-robine-sur-galabre/4XTTMGwzCxSLAeVKNH1Fk7eBgcbLjUj57kK89wgTTBRJUZfWT-K3TgTnrdEnDFx9aCBvXQvxpTVvbq1kLuk88raBay28emLVBXJRUaUzW7Q7KLvXayztN5GY7n8LbRsbV2pZvV5qCBcjNRzqJ99dz1wKEGMZ6CwGMqH24ctcTKfvqUuN8Vy2MM6HQP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 04000 	- LA ROBINE SUR GALABRE](https://docs.stopcoronavirus.tech/#/r/markdown/04000_la-robine-sur-galabre/4XTTMGwzCxSLAeVKNH1Fk7eBgcbLjUj57kK89wgTTBRJUZfWT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 04000 	- LA ROBINE SUR GALABRE](https://docs.stopcoronavirus.tech/#/w/markdown/04000_la-robine-sur-galabre/4XTTMGwzCxSLAeVKNH1Fk7eBgcbLjUj57kK89wgTTBRJUZfWT-K3TgTnrdEnDFx9aCBvXQvxpTVvbq1kLuk88raBay28emLVBXJRUaUzW7Q7KLvXayztN5GY7n8LbRsbV2pZvV5qCBcjNRzqJ99dz1wKEGMZ6CwGMqH24ctcTKfvqUuN8Vy2MM6HQP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

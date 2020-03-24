@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 61290 	- LE MAGE](https://docs.stopcoronavirus.tech/r/markdown/61290_le-mage/4XTTM5oz9aR1TKJp39qsRma7dr6Xbao7jKwoPGV2zGDNcMaaM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61290 	- LE MAGE](https://docs.stopcoronavirus.tech/w/markdown/61290_le-mage/4XTTM5oz9aR1TKJp39qsRma7dr6Xbao7jKwoPGV2zGDNcMaaM-K3TgUFGJUmR6uyPqVLrh5CJo11PpHTMmZG2pw8w8CKfB8Fu6md1K4QP3BL4Ue7kRFte8ZbFEefMiY7mCgCbiZzpXrtZuDfLJ12EEt2RgQA8KmLyrj9D6rNXeWaZ3uyTdsYUQQwys) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61290 	- LE MAGE](https://docs.stopcoronavirus.tech/#/r/markdown/61290_le-mage/4XTTM5oz9aR1TKJp39qsRma7dr6Xbao7jKwoPGV2zGDNcMaaM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61290 	- LE MAGE](https://docs.stopcoronavirus.tech/#/w/markdown/61290_le-mage/4XTTM5oz9aR1TKJp39qsRma7dr6Xbao7jKwoPGV2zGDNcMaaM-K3TgUFGJUmR6uyPqVLrh5CJo11PpHTMmZG2pw8w8CKfB8Fu6md1K4QP3BL4Ue7kRFte8ZbFEefMiY7mCgCbiZzpXrtZuDfLJ12EEt2RgQA8KmLyrj9D6rNXeWaZ3uyTdsYUQQwys) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

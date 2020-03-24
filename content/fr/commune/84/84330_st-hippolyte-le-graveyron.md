@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84330 	- ST HIPPOLYTE LE GRAVEYRON](https://docs.stopcoronavirus.tech/r/markdown/84330_st-hippolyte-le-graveyron/4XTTM2oJDe4HU8YBFPujUtX35vhHpF9uUe4T6argjKdJ8HQLo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84330 	- ST HIPPOLYTE LE GRAVEYRON](https://docs.stopcoronavirus.tech/w/markdown/84330_st-hippolyte-le-graveyron/4XTTM2oJDe4HU8YBFPujUtX35vhHpF9uUe4T6argjKdJ8HQLo-K3TgUZ9Hxazf7RCHbFtHpXgxkaNfeG8CSz9DUcWFdQ1CgN27sZ2uX9xNxT24dGqC8QqEYKWitkQmif5jhHDFNkP2Yrgz4Xfyhd1ngzKKNZZazf1toUakcBcTkAEvyMCv98NHgHA7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84330 	- ST HIPPOLYTE LE GRAVEYRON](https://docs.stopcoronavirus.tech/#/r/markdown/84330_st-hippolyte-le-graveyron/4XTTM2oJDe4HU8YBFPujUtX35vhHpF9uUe4T6argjKdJ8HQLo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84330 	- ST HIPPOLYTE LE GRAVEYRON](https://docs.stopcoronavirus.tech/#/w/markdown/84330_st-hippolyte-le-graveyron/4XTTM2oJDe4HU8YBFPujUtX35vhHpF9uUe4T6argjKdJ8HQLo-K3TgUZ9Hxazf7RCHbFtHpXgxkaNfeG8CSz9DUcWFdQ1CgN27sZ2uX9xNxT24dGqC8QqEYKWitkQmif5jhHDFNkP2Yrgz4Xfyhd1ngzKKNZZazf1toUakcBcTkAEvyMCv98NHgHA7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

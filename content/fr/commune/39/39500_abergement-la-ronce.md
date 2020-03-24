@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 39500 	- ABERGEMENT LA RONCE](https://docs.stopcoronavirus.tech/r/markdown/39500_abergement-la-ronce/4XTTMGiPMiN759AswYaygi6pVQ6XFpFYeYK9njwtknooJbwyn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39500 	- ABERGEMENT LA RONCE](https://docs.stopcoronavirus.tech/w/markdown/39500_abergement-la-ronce/4XTTMGiPMiN759AswYaygi6pVQ6XFpFYeYK9njwtknooJbwyn-K3TgUR477usMBhMs7A4RkQnsuCyxXbFFaBbrUNeJF6ptNWk9cyG6Q6zjeo5ydgaXZD63jguvou6eZf3QoqRuLPc3VMqFww4kWcmujM6wVhp67iNz4W3u5tkXmMy5cHfTA5Hz3qBr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39500 	- ABERGEMENT LA RONCE](https://docs.stopcoronavirus.tech/#/r/markdown/39500_abergement-la-ronce/4XTTMGiPMiN759AswYaygi6pVQ6XFpFYeYK9njwtknooJbwyn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39500 	- ABERGEMENT LA RONCE](https://docs.stopcoronavirus.tech/#/w/markdown/39500_abergement-la-ronce/4XTTMGiPMiN759AswYaygi6pVQ6XFpFYeYK9njwtknooJbwyn-K3TgUR477usMBhMs7A4RkQnsuCyxXbFFaBbrUNeJF6ptNWk9cyG6Q6zjeo5ydgaXZD63jguvou6eZf3QoqRuLPc3VMqFww4kWcmujM6wVhp67iNz4W3u5tkXmMy5cHfTA5Hz3qBr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

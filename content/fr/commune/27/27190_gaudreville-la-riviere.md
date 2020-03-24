@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27190 	- GAUDREVILLE LA RIVIERE](https://docs.stopcoronavirus.tech/r/markdown/27190_gaudreville-la-riviere/4XTTM3SsWYH6kkyDKmPwNSybUystP8znDxywYxrksjVMBP1qn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27190 	- GAUDREVILLE LA RIVIERE](https://docs.stopcoronavirus.tech/w/markdown/27190_gaudreville-la-riviere/4XTTM3SsWYH6kkyDKmPwNSybUystP8znDxywYxrksjVMBP1qn-K3TgULQWY2ywMRmeHUep8WNg6PTd3AAyEcyjzhearMH3LYrC4yJpETFe4bVJQQMzKiCiVPJ8Vqt8jjALC1Ksegw4dqE5pj68fnN7wtYXAqRQbLhP3mLnU5MvfKa38GRabzsbw5P2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27190 	- GAUDREVILLE LA RIVIERE](https://docs.stopcoronavirus.tech/#/r/markdown/27190_gaudreville-la-riviere/4XTTM3SsWYH6kkyDKmPwNSybUystP8znDxywYxrksjVMBP1qn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27190 	- GAUDREVILLE LA RIVIERE](https://docs.stopcoronavirus.tech/#/w/markdown/27190_gaudreville-la-riviere/4XTTM3SsWYH6kkyDKmPwNSybUystP8znDxywYxrksjVMBP1qn-K3TgULQWY2ywMRmeHUep8WNg6PTd3AAyEcyjzhearMH3LYrC4yJpETFe4bVJQQMzKiCiVPJ8Vqt8jjALC1Ksegw4dqE5pj68fnN7wtYXAqRQbLhP3mLnU5MvfKa38GRabzsbw5P2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

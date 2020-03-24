@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76640 	- TERRES DE CAUX](https://docs.stopcoronavirus.tech/r/markdown/76640_terres-de-caux/4XTTMEQP5DwzsdcBqh35n2p2dLvkfzqkHvNB8oSEZaYggwee1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76640 	- TERRES DE CAUX](https://docs.stopcoronavirus.tech/w/markdown/76640_terres-de-caux/4XTTMEQP5DwzsdcBqh35n2p2dLvkfzqkHvNB8oSEZaYggwee1-K3TgV3N3gTCaVMVSFd7V8XjvZMfhN7n86gaqSFsz6p1Lnf6LKo84iyS3qn6Yz9ZG5sAqJMELbhwC1qgmoMCn3k84FZtE8UAWebhf4yg6ZfRdj7Ue1NRWqmjcqRwqxsUU2PPEzBQ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76640 	- TERRES DE CAUX](https://docs.stopcoronavirus.tech/#/r/markdown/76640_terres-de-caux/4XTTMEQP5DwzsdcBqh35n2p2dLvkfzqkHvNB8oSEZaYggwee1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76640 	- TERRES DE CAUX](https://docs.stopcoronavirus.tech/#/w/markdown/76640_terres-de-caux/4XTTMEQP5DwzsdcBqh35n2p2dLvkfzqkHvNB8oSEZaYggwee1-K3TgV3N3gTCaVMVSFd7V8XjvZMfhN7n86gaqSFsz6p1Lnf6LKo84iyS3qn6Yz9ZG5sAqJMELbhwC1qgmoMCn3k84FZtE8UAWebhf4yg6ZfRdj7Ue1NRWqmjcqRwqxsUU2PPEzBQ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

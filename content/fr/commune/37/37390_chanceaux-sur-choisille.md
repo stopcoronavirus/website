@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 37390 	- CHANCEAUX SUR CHOISILLE](https://docs.stopcoronavirus.tech/r/markdown/37390_chanceaux-sur-choisille/4XTTMFohB7Hf7XGXTVJWpsWnui5bRqA89Xf9K1Fs6i7cm3Vs3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37390 	- CHANCEAUX SUR CHOISILLE](https://docs.stopcoronavirus.tech/w/markdown/37390_chanceaux-sur-choisille/4XTTMFohB7Hf7XGXTVJWpsWnui5bRqA89Xf9K1Fs6i7cm3Vs3-K3TgUrRfHzNBM9htoNSpGSxcaybkNbpEszK7i81mZbXB5mBi7tgraAeGn2Wkdd8UzbuPyHEkVaR9Pt78S4Mm2KCCTswKEFTCFb5KMmFCQPjb1FQbWxaNk6fTckv8QbgnwJftei7X) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 37390 	- CHANCEAUX SUR CHOISILLE](https://docs.stopcoronavirus.tech/#/r/markdown/37390_chanceaux-sur-choisille/4XTTMFohB7Hf7XGXTVJWpsWnui5bRqA89Xf9K1Fs6i7cm3Vs3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 37390 	- CHANCEAUX SUR CHOISILLE](https://docs.stopcoronavirus.tech/#/w/markdown/37390_chanceaux-sur-choisille/4XTTMFohB7Hf7XGXTVJWpsWnui5bRqA89Xf9K1Fs6i7cm3Vs3-K3TgUrRfHzNBM9htoNSpGSxcaybkNbpEszK7i81mZbXB5mBi7tgraAeGn2Wkdd8UzbuPyHEkVaR9Pt78S4Mm2KCCTswKEFTCFb5KMmFCQPjb1FQbWxaNk6fTckv8QbgnwJftei7X) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

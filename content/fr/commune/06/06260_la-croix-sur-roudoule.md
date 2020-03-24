@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 06260 	- LA CROIX SUR ROUDOULE](https://docs.stopcoronavirus.tech/r/markdown/06260_la-croix-sur-roudoule/4XTTMGFn6eXKEyTMuS96PDM6FbUzX9MX15Cg9WZyoCPfRperi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06260 	- LA CROIX SUR ROUDOULE](https://docs.stopcoronavirus.tech/w/markdown/06260_la-croix-sur-roudoule/4XTTMGFn6eXKEyTMuS96PDM6FbUzX9MX15Cg9WZyoCPfRperi-K3TgUrr6pf1zLFGVKBaKjhGmBxzXeGnNPJcvxuh2UerYExV9fxjsRsiiJoVUPerJXNddwAXPLkPeJ3yi5HsfGuQ13MZ9f4idqB7eJf1Vi7EZWCzEkWc6ibd37oX2KbNKgB2dnaVk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06260 	- LA CROIX SUR ROUDOULE](https://docs.stopcoronavirus.tech/#/r/markdown/06260_la-croix-sur-roudoule/4XTTMGFn6eXKEyTMuS96PDM6FbUzX9MX15Cg9WZyoCPfRperi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06260 	- LA CROIX SUR ROUDOULE](https://docs.stopcoronavirus.tech/#/w/markdown/06260_la-croix-sur-roudoule/4XTTMGFn6eXKEyTMuS96PDM6FbUzX9MX15Cg9WZyoCPfRperi-K3TgUrr6pf1zLFGVKBaKjhGmBxzXeGnNPJcvxuh2UerYExV9fxjsRsiiJoVUPerJXNddwAXPLkPeJ3yi5HsfGuQ13MZ9f4idqB7eJf1Vi7EZWCzEkWc6ibd37oX2KbNKgB2dnaVk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

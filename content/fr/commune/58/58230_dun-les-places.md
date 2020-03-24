@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 58230 	- DUN LES PLACES](https://docs.stopcoronavirus.tech/r/markdown/58230_dun-les-places/4XTTM2S77rDzGx69aM4rQ21BbA76W5mZCAaGWV5p3yBLKEhaC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58230 	- DUN LES PLACES](https://docs.stopcoronavirus.tech/w/markdown/58230_dun-les-places/4XTTM2S77rDzGx69aM4rQ21BbA76W5mZCAaGWV5p3yBLKEhaC-K3TgUJv35H4yPY9w5K2Spi2mRNAQkBPCEr8P9NT41z7ubq33dUkUXVWTrfYmiUs2gqTfECkHvwVChgENAD7Jb4N8GLxBSQRXjTie2vJUju6q7wHMxCB4aTgR9hBi11Wb4ajNj6PW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58230 	- DUN LES PLACES](https://docs.stopcoronavirus.tech/#/r/markdown/58230_dun-les-places/4XTTM2S77rDzGx69aM4rQ21BbA76W5mZCAaGWV5p3yBLKEhaC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58230 	- DUN LES PLACES](https://docs.stopcoronavirus.tech/#/w/markdown/58230_dun-les-places/4XTTM2S77rDzGx69aM4rQ21BbA76W5mZCAaGWV5p3yBLKEhaC-K3TgUJv35H4yPY9w5K2Spi2mRNAQkBPCEr8P9NT41z7ubq33dUkUXVWTrfYmiUs2gqTfECkHvwVChgENAD7Jb4N8GLxBSQRXjTie2vJUju6q7wHMxCB4aTgR9hBi11Wb4ajNj6PW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23320 	- MONTAIGUT LE BLANC](https://docs.stopcoronavirus.tech/r/markdown/23320_montaigut-le-blanc/4XTTM1EYJbE7KtMeEwcjgjRQhPn8SghD1siJf2HARCE9yvbjg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23320 	- MONTAIGUT LE BLANC](https://docs.stopcoronavirus.tech/w/markdown/23320_montaigut-le-blanc/4XTTM1EYJbE7KtMeEwcjgjRQhPn8SghD1siJf2HARCE9yvbjg-K3TgV2HbL1SBWsDjfe726LMwvt1BvY4VNAZjmhmxRHzG45JR8cD6j2Bk1HGG2x8WNSMjTLeZF5n1txb7R87Y89vr9K46LnGzQv2Bci5irtjEWDfPJ2EH8HuZ8Gkm64fYEjPTQtNN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23320 	- MONTAIGUT LE BLANC](https://docs.stopcoronavirus.tech/#/r/markdown/23320_montaigut-le-blanc/4XTTM1EYJbE7KtMeEwcjgjRQhPn8SghD1siJf2HARCE9yvbjg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23320 	- MONTAIGUT LE BLANC](https://docs.stopcoronavirus.tech/#/w/markdown/23320_montaigut-le-blanc/4XTTM1EYJbE7KtMeEwcjgjRQhPn8SghD1siJf2HARCE9yvbjg-K3TgV2HbL1SBWsDjfe726LMwvt1BvY4VNAZjmhmxRHzG45JR8cD6j2Bk1HGG2x8WNSMjTLeZF5n1txb7R87Y89vr9K46LnGzQv2Bci5irtjEWDfPJ2EH8HuZ8Gkm64fYEjPTQtNN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

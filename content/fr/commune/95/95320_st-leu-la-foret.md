@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 95320 	- ST LEU LA FORET](https://docs.stopcoronavirus.tech/r/markdown/95320_st-leu-la-foret/4XTTM2WcSL6uVrYova1KqxWjMxebMw7j825LerX5A26rVCGDN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95320 	- ST LEU LA FORET](https://docs.stopcoronavirus.tech/w/markdown/95320_st-leu-la-foret/4XTTM2WcSL6uVrYova1KqxWjMxebMw7j825LerX5A26rVCGDN-K3TgULHPi94hyGwk8Q7in5AYAwvqL7YisDWY3GZL3eV7QfiBnuU6UqT3YMgNCHrc3XNp1wADU2Mry5sAN9j3PjVWaEu9nZRm2YVoyofPJFphEkfhkhj3sqnGpLXcoKwEnHxhLKgC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95320 	- ST LEU LA FORET](https://docs.stopcoronavirus.tech/#/r/markdown/95320_st-leu-la-foret/4XTTM2WcSL6uVrYova1KqxWjMxebMw7j825LerX5A26rVCGDN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95320 	- ST LEU LA FORET](https://docs.stopcoronavirus.tech/#/w/markdown/95320_st-leu-la-foret/4XTTM2WcSL6uVrYova1KqxWjMxebMw7j825LerX5A26rVCGDN-K3TgULHPi94hyGwk8Q7in5AYAwvqL7YisDWY3GZL3eV7QfiBnuU6UqT3YMgNCHrc3XNp1wADU2Mry5sAN9j3PjVWaEu9nZRm2YVoyofPJFphEkfhkhj3sqnGpLXcoKwEnHxhLKgC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

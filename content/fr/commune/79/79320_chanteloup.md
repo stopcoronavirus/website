@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 79320 	- CHANTELOUP](https://docs.stopcoronavirus.tech/r/markdown/79320_chanteloup/4XTTM4gaNvT1nZ3b7ebpCi5kzSTsPcVpUSipJpv85SgCaDJ2q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79320 	- CHANTELOUP](https://docs.stopcoronavirus.tech/w/markdown/79320_chanteloup/4XTTM4gaNvT1nZ3b7ebpCi5kzSTsPcVpUSipJpv85SgCaDJ2q-K3TgUNAh394PVsBkya2oXPN4hYcz5D1u3bFvHT3GCqBC8PsMRJ7tpUBb1Z2Lzs45BwfBsrmKDKEa825AFN7vcjRZ4aEcqP2LrWv6grq3SYRDES43X8dEfzzYwjS44t7QeubvbDu7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79320 	- CHANTELOUP](https://docs.stopcoronavirus.tech/#/r/markdown/79320_chanteloup/4XTTM4gaNvT1nZ3b7ebpCi5kzSTsPcVpUSipJpv85SgCaDJ2q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79320 	- CHANTELOUP](https://docs.stopcoronavirus.tech/#/w/markdown/79320_chanteloup/4XTTM4gaNvT1nZ3b7ebpCi5kzSTsPcVpUSipJpv85SgCaDJ2q-K3TgUNAh394PVsBkya2oXPN4hYcz5D1u3bFvHT3GCqBC8PsMRJ7tpUBb1Z2Lzs45BwfBsrmKDKEa825AFN7vcjRZ4aEcqP2LrWv6grq3SYRDES43X8dEfzzYwjS44t7QeubvbDu7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

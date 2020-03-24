@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60650 	- ESPAUBOURG](https://docs.stopcoronavirus.tech/r/markdown/60650_espaubourg/4XTTM1YYPbbF2ue7eGUDjJVje1yUAwTiTv3FxG3pT8mrhvqnd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60650 	- ESPAUBOURG](https://docs.stopcoronavirus.tech/w/markdown/60650_espaubourg/4XTTM1YYPbbF2ue7eGUDjJVje1yUAwTiTv3FxG3pT8mrhvqnd-K3TgTcPHgUsfSVL6mYnBi3XjmFz6tmMYhFmuFM3FQor7m6NaP19tHvF5mXWgcahGLb13PCaLdN2CDoMMktL9UcVdfAafKxvZZ62s6PvErRZFN9tSy95UNMwqAuFyBnT3S4m9w3Jm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60650 	- ESPAUBOURG](https://docs.stopcoronavirus.tech/#/r/markdown/60650_espaubourg/4XTTM1YYPbbF2ue7eGUDjJVje1yUAwTiTv3FxG3pT8mrhvqnd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60650 	- ESPAUBOURG](https://docs.stopcoronavirus.tech/#/w/markdown/60650_espaubourg/4XTTM1YYPbbF2ue7eGUDjJVje1yUAwTiTv3FxG3pT8mrhvqnd-K3TgTcPHgUsfSVL6mYnBi3XjmFz6tmMYhFmuFM3FQor7m6NaP19tHvF5mXWgcahGLb13PCaLdN2CDoMMktL9UcVdfAafKxvZZ62s6PvErRZFN9tSy95UNMwqAuFyBnT3S4m9w3Jm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27230 	- THIBERVILLE](https://docs.stopcoronavirus.tech/r/markdown/27230_thiberville/4XTTM33HmVqeCKPG4J62T9Hamiwvt4v3ymPCUNch69r8T2WLS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27230 	- THIBERVILLE](https://docs.stopcoronavirus.tech/w/markdown/27230_thiberville/4XTTM33HmVqeCKPG4J62T9Hamiwvt4v3ymPCUNch69r8T2WLS-K3TgTs978qe6VrHtooTpmUHmecrAfANW5x5iEapkzbn1xE1WLRqPLXVjSZihbzb5XiuFVLrXSGB2y65hrbVZQgw3g6V4WUMTxGZScjz4tVuuHKs2SqVm9J84sMVTtYKUn1yFY4Ua) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27230 	- THIBERVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/27230_thiberville/4XTTM33HmVqeCKPG4J62T9Hamiwvt4v3ymPCUNch69r8T2WLS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27230 	- THIBERVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/27230_thiberville/4XTTM33HmVqeCKPG4J62T9Hamiwvt4v3ymPCUNch69r8T2WLS-K3TgTs978qe6VrHtooTpmUHmecrAfANW5x5iEapkzbn1xE1WLRqPLXVjSZihbzb5XiuFVLrXSGB2y65hrbVZQgw3g6V4WUMTxGZScjz4tVuuHKs2SqVm9J84sMVTtYKUn1yFY4Ua) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

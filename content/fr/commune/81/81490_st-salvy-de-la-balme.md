@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81490 	- ST SALVY DE LA BALME](https://docs.stopcoronavirus.tech/r/markdown/81490_st-salvy-de-la-balme/4XTTM9ZPygQK8Rqw56LuNb9HYk4YZr6BXXjtT7jvytrf3GD9k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81490 	- ST SALVY DE LA BALME](https://docs.stopcoronavirus.tech/w/markdown/81490_st-salvy-de-la-balme/4XTTM9ZPygQK8Rqw56LuNb9HYk4YZr6BXXjtT7jvytrf3GD9k-K3TgV6qL1Doa9bcXWoTUwwNjFAbz4ZFBiUmH49WjmAcNZNuTWjWDbVb7ijNhbqjkFy6BCsSUPusjWwjEWWwZxvqVNFQ5J6MSnpMkGHtPpM331U4NvrwJibL2rNyVdpWwBH1mMcyg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81490 	- ST SALVY DE LA BALME](https://docs.stopcoronavirus.tech/#/r/markdown/81490_st-salvy-de-la-balme/4XTTM9ZPygQK8Rqw56LuNb9HYk4YZr6BXXjtT7jvytrf3GD9k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81490 	- ST SALVY DE LA BALME](https://docs.stopcoronavirus.tech/#/w/markdown/81490_st-salvy-de-la-balme/4XTTM9ZPygQK8Rqw56LuNb9HYk4YZr6BXXjtT7jvytrf3GD9k-K3TgV6qL1Doa9bcXWoTUwwNjFAbz4ZFBiUmH49WjmAcNZNuTWjWDbVb7ijNhbqjkFy6BCsSUPusjWwjEWWwZxvqVNFQ5J6MSnpMkGHtPpM331U4NvrwJibL2rNyVdpWwBH1mMcyg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81170 	- LABARTHE BLEYS](https://docs.stopcoronavirus.tech/r/markdown/81170_labarthe-bleys/4XTTMCPpDWPqk1gxrTWRd24uZ4r8w4enmXYD3pbNFkM5sph8B) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81170 	- LABARTHE BLEYS](https://docs.stopcoronavirus.tech/w/markdown/81170_labarthe-bleys/4XTTMCPpDWPqk1gxrTWRd24uZ4r8w4enmXYD3pbNFkM5sph8B-K3TgV8K5a5D6kkioa1xZRW4TW5eqAXoLz3TcDB2jKDEXhasB1cHhijfS64gm84w9C29JJt8PuD8Kpc9trLwNoLVjvcBCAjT3iPDFxUbBSDxmiEDCocYX6X6ip6p2AhTUq4BtCR7M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81170 	- LABARTHE BLEYS](https://docs.stopcoronavirus.tech/#/r/markdown/81170_labarthe-bleys/4XTTMCPpDWPqk1gxrTWRd24uZ4r8w4enmXYD3pbNFkM5sph8B) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81170 	- LABARTHE BLEYS](https://docs.stopcoronavirus.tech/#/w/markdown/81170_labarthe-bleys/4XTTMCPpDWPqk1gxrTWRd24uZ4r8w4enmXYD3pbNFkM5sph8B-K3TgV8K5a5D6kkioa1xZRW4TW5eqAXoLz3TcDB2jKDEXhasB1cHhijfS64gm84w9C29JJt8PuD8Kpc9trLwNoLVjvcBCAjT3iPDFxUbBSDxmiEDCocYX6X6ip6p2AhTUq4BtCR7M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

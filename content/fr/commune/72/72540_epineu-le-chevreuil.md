@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 72540 	- EPINEU LE CHEVREUIL](https://docs.stopcoronavirus.tech/r/markdown/72540_epineu-le-chevreuil/4XTTMDSGhN1mG1BYmMs6G6ZdERGFKTRBf7omgSqjgM9w1qWYA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72540 	- EPINEU LE CHEVREUIL](https://docs.stopcoronavirus.tech/w/markdown/72540_epineu-le-chevreuil/4XTTMDSGhN1mG1BYmMs6G6ZdERGFKTRBf7omgSqjgM9w1qWYA-K3TgUPGTiUsbKTyCpwftsxrp2bKPwRzt6BQorTSWy3mcRwdevjeyppJ9hZ7Ad9g8sCHrFXevgt8mrpZS4PqMHpGkmEoCGdLVFLpCuhj3REQKqYYBL6Yamh7s8y8Z1CBeA3yRpFer) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72540 	- EPINEU LE CHEVREUIL](https://docs.stopcoronavirus.tech/#/r/markdown/72540_epineu-le-chevreuil/4XTTMDSGhN1mG1BYmMs6G6ZdERGFKTRBf7omgSqjgM9w1qWYA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72540 	- EPINEU LE CHEVREUIL](https://docs.stopcoronavirus.tech/#/w/markdown/72540_epineu-le-chevreuil/4XTTMDSGhN1mG1BYmMs6G6ZdERGFKTRBf7omgSqjgM9w1qWYA-K3TgUPGTiUsbKTyCpwftsxrp2bKPwRzt6BQorTSWy3mcRwdevjeyppJ9hZ7Ad9g8sCHrFXevgt8mrpZS4PqMHpGkmEoCGdLVFLpCuhj3REQKqYYBL6Yamh7s8y8Z1CBeA3yRpFer) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89110 	- LES ORMES](https://docs.stopcoronavirus.tech/r/markdown/89110_les-ormes/4XTTM7JFjYD3N3TguX9SEuZsKd51mZNcEes3Z77sPhFEj65oQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89110 	- LES ORMES](https://docs.stopcoronavirus.tech/w/markdown/89110_les-ormes/4XTTM7JFjYD3N3TguX9SEuZsKd51mZNcEes3Z77sPhFEj65oQ-K3TgUMccaocVzzAd1kNhXJD9iuPCJTH3QJsth5RZtwMjtxrnwPWB62A2hnpt2EdsmyToqxFuZdGGkipVaMryUyyidZ8Pg5WMthZsiUipAZ9ehH6UMq89ZY7wTv8rijoHsrkRS8xa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89110 	- LES ORMES](https://docs.stopcoronavirus.tech/#/r/markdown/89110_les-ormes/4XTTM7JFjYD3N3TguX9SEuZsKd51mZNcEes3Z77sPhFEj65oQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89110 	- LES ORMES](https://docs.stopcoronavirus.tech/#/w/markdown/89110_les-ormes/4XTTM7JFjYD3N3TguX9SEuZsKd51mZNcEes3Z77sPhFEj65oQ-K3TgUMccaocVzzAd1kNhXJD9iuPCJTH3QJsth5RZtwMjtxrnwPWB62A2hnpt2EdsmyToqxFuZdGGkipVaMryUyyidZ8Pg5WMthZsiUipAZ9ehH6UMq89ZY7wTv8rijoHsrkRS8xa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

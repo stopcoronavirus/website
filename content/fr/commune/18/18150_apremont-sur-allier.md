@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18150 	- APREMONT SUR ALLIER](https://docs.stopcoronavirus.tech/r/markdown/18150_apremont-sur-allier/4XTTMHDR9WGG2ALxz6Jq64zaFYmQWCwnL8zkqBRsbxQsnKcP1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18150 	- APREMONT SUR ALLIER](https://docs.stopcoronavirus.tech/w/markdown/18150_apremont-sur-allier/4XTTMHDR9WGG2ALxz6Jq64zaFYmQWCwnL8zkqBRsbxQsnKcP1-K3TgTwFze9Zd1taT8gPJpT45F7iz1KBZ6MEovesLQXBrQzfnjJHj9jR7mhWUwHQDZpqErmMosZEprxY65mkiGsZVhvQ5FxDFaRCdUpB9xoBRNkL9FRpMXGaPYbsPYDS9T7Wg1U1m) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18150 	- APREMONT SUR ALLIER](https://docs.stopcoronavirus.tech/#/r/markdown/18150_apremont-sur-allier/4XTTMHDR9WGG2ALxz6Jq64zaFYmQWCwnL8zkqBRsbxQsnKcP1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18150 	- APREMONT SUR ALLIER](https://docs.stopcoronavirus.tech/#/w/markdown/18150_apremont-sur-allier/4XTTMHDR9WGG2ALxz6Jq64zaFYmQWCwnL8zkqBRsbxQsnKcP1-K3TgTwFze9Zd1taT8gPJpT45F7iz1KBZ6MEovesLQXBrQzfnjJHj9jR7mhWUwHQDZpqErmMosZEprxY65mkiGsZVhvQ5FxDFaRCdUpB9xoBRNkL9FRpMXGaPYbsPYDS9T7Wg1U1m) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

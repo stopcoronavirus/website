@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60310 	- CANNECTANCOURT](https://docs.stopcoronavirus.tech/r/markdown/60310_cannectancourt/4XTTMCSc1tWndLfpykXn5Qp8qBMkg8ZFgzCe644VB2dWbifHs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60310 	- CANNECTANCOURT](https://docs.stopcoronavirus.tech/w/markdown/60310_cannectancourt/4XTTMCSc1tWndLfpykXn5Qp8qBMkg8ZFgzCe644VB2dWbifHs-K3TgV3Pw1JHf75UqGxYF4oQ9eLEZ2Z6qMvc1tvtvQHLia3XizmfTrKJJkNroieGbwgEe1S43P2gPk47KSbzATFPVVydLYcV439LvEP2ZuStXfW2vJn9KkXyjyskrrhzVpmA5zQ8y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60310 	- CANNECTANCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/60310_cannectancourt/4XTTMCSc1tWndLfpykXn5Qp8qBMkg8ZFgzCe644VB2dWbifHs) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60310 	- CANNECTANCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/60310_cannectancourt/4XTTMCSc1tWndLfpykXn5Qp8qBMkg8ZFgzCe644VB2dWbifHs-K3TgV3Pw1JHf75UqGxYF4oQ9eLEZ2Z6qMvc1tvtvQHLia3XizmfTrKJJkNroieGbwgEe1S43P2gPk47KSbzATFPVVydLYcV439LvEP2ZuStXfW2vJn9KkXyjyskrrhzVpmA5zQ8y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 35360 	- LA CHAPELLE DU LOU DU LAC](https://docs.stopcoronavirus.tech/r/markdown/35360_la-chapelle-du-lou-du-lac/4XTTMCyQ9A2aBeh5BAxfBEUK9kDVgQLrxoe6saL3FErrzbRB9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35360 	- LA CHAPELLE DU LOU DU LAC](https://docs.stopcoronavirus.tech/w/markdown/35360_la-chapelle-du-lou-du-lac/4XTTMCyQ9A2aBeh5BAxfBEUK9kDVgQLrxoe6saL3FErrzbRB9-K3TgUT5viPpLjpkW1mM2ff5rQQNfDpHjkKd2iWvvZdRVFdC6q8epxekxsv7XFRWpdCbyMp8VzD4MhNfbaBKQmVrM6owrTiJT5uu3gKaZED8k7G371DjXftPGHnpat3hUB8wbVqPq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35360 	- LA CHAPELLE DU LOU DU LAC](https://docs.stopcoronavirus.tech/#/r/markdown/35360_la-chapelle-du-lou-du-lac/4XTTMCyQ9A2aBeh5BAxfBEUK9kDVgQLrxoe6saL3FErrzbRB9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35360 	- LA CHAPELLE DU LOU DU LAC](https://docs.stopcoronavirus.tech/#/w/markdown/35360_la-chapelle-du-lou-du-lac/4XTTMCyQ9A2aBeh5BAxfBEUK9kDVgQLrxoe6saL3FErrzbRB9-K3TgUT5viPpLjpkW1mM2ff5rQQNfDpHjkKd2iWvvZdRVFdC6q8epxekxsv7XFRWpdCbyMp8VzD4MhNfbaBKQmVrM6owrTiJT5uu3gKaZED8k7G371DjXftPGHnpat3hUB8wbVqPq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

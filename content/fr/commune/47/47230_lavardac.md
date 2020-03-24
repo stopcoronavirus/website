@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 47230 	- LAVARDAC](https://docs.stopcoronavirus.tech/r/markdown/47230_lavardac/4XTTM51dFySwzMUxnvmJjpEi46UsJkWqpbhzJdGzt8dxRcuJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47230 	- LAVARDAC](https://docs.stopcoronavirus.tech/w/markdown/47230_lavardac/4XTTM51dFySwzMUxnvmJjpEi46UsJkWqpbhzJdGzt8dxRcuJF-K3TgTinRr7RiUvYEuwkvH74XHkrcBsZq5KELCpKVqa1YVDJRemgWCqyCeUWZ9pbSfuB61ERm8E9GVWLmepC9B8JC7rVfLCbrnvxzqARrUkdcDRuzRUrAr13n31x8wQ2dpq7YukSB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47230 	- LAVARDAC](https://docs.stopcoronavirus.tech/#/r/markdown/47230_lavardac/4XTTM51dFySwzMUxnvmJjpEi46UsJkWqpbhzJdGzt8dxRcuJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47230 	- LAVARDAC](https://docs.stopcoronavirus.tech/#/w/markdown/47230_lavardac/4XTTM51dFySwzMUxnvmJjpEi46UsJkWqpbhzJdGzt8dxRcuJF-K3TgTinRr7RiUvYEuwkvH74XHkrcBsZq5KELCpKVqa1YVDJRemgWCqyCeUWZ9pbSfuB61ERm8E9GVWLmepC9B8JC7rVfLCbrnvxzqARrUkdcDRuzRUrAr13n31x8wQ2dpq7YukSB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

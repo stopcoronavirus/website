@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12230 	- LA COUVERTOIRADE](https://docs.stopcoronavirus.tech/r/markdown/12230_la-couvertoirade/4XTTM7bKEzzWqJCiBhaNezVDuay44AyP5RTgBYDhYfzeQvx12) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12230 	- LA COUVERTOIRADE](https://docs.stopcoronavirus.tech/w/markdown/12230_la-couvertoirade/4XTTM7bKEzzWqJCiBhaNezVDuay44AyP5RTgBYDhYfzeQvx12-K3TgTnR8UHhKnBBLaTPKRQ6hhMU3qD5WYtVLKjj9ztXxdWVuRVW1fNpN8mwhc6oos92eQ16UaHtjb5qnxp5n1pyQ2G3oX6wuohme42sE18LDmAZAkk7uvappTyTHZ9ozEXZs1rSg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12230 	- LA COUVERTOIRADE](https://docs.stopcoronavirus.tech/#/r/markdown/12230_la-couvertoirade/4XTTM7bKEzzWqJCiBhaNezVDuay44AyP5RTgBYDhYfzeQvx12) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12230 	- LA COUVERTOIRADE](https://docs.stopcoronavirus.tech/#/w/markdown/12230_la-couvertoirade/4XTTM7bKEzzWqJCiBhaNezVDuay44AyP5RTgBYDhYfzeQvx12-K3TgTnR8UHhKnBBLaTPKRQ6hhMU3qD5WYtVLKjj9ztXxdWVuRVW1fNpN8mwhc6oos92eQ16UaHtjb5qnxp5n1pyQ2G3oX6wuohme42sE18LDmAZAkk7uvappTyTHZ9ozEXZs1rSg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

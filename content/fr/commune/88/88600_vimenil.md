@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88600 	- VIMENIL](https://docs.stopcoronavirus.tech/r/markdown/88600_vimenil/4XTTM1n6472HWKVsCtZZn4Jmuvz6b3uevm1YUzshdEeRPPTE8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88600 	- VIMENIL](https://docs.stopcoronavirus.tech/w/markdown/88600_vimenil/4XTTM1n6472HWKVsCtZZn4Jmuvz6b3uevm1YUzshdEeRPPTE8-K3TgU8wRmzsxiRAUdr49K3ZVpeFDjqHzoZAiSRgxNcELv5cBcgQBiKNqUiD6o564THBPgMdYVxTjwaPbuMiPzGtCVtJJ2XraVvPN3x2M5wTbz3ooDqrXFF5A7CZvUy7KjVcQ78kx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88600 	- VIMENIL](https://docs.stopcoronavirus.tech/#/r/markdown/88600_vimenil/4XTTM1n6472HWKVsCtZZn4Jmuvz6b3uevm1YUzshdEeRPPTE8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88600 	- VIMENIL](https://docs.stopcoronavirus.tech/#/w/markdown/88600_vimenil/4XTTM1n6472HWKVsCtZZn4Jmuvz6b3uevm1YUzshdEeRPPTE8-K3TgU8wRmzsxiRAUdr49K3ZVpeFDjqHzoZAiSRgxNcELv5cBcgQBiKNqUiD6o564THBPgMdYVxTjwaPbuMiPzGtCVtJJ2XraVvPN3x2M5wTbz3ooDqrXFF5A7CZvUy7KjVcQ78kx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15220 	- ST MAMET LA SALVETAT](https://docs.stopcoronavirus.tech/r/markdown/15220_st-mamet-la-salvetat/4XTTMF2ywjxzfZYd569uvCpyAjdVn8dcmMKC513SsqQ6LovWU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15220 	- ST MAMET LA SALVETAT](https://docs.stopcoronavirus.tech/w/markdown/15220_st-mamet-la-salvetat/4XTTMF2ywjxzfZYd569uvCpyAjdVn8dcmMKC513SsqQ6LovWU-K3TgUmsG9GqgEVbzFTeg4LjZZ11dg5mtXDVHFPDagphz5fHhYszMMR7FjSAin9nJynKKGC3QvN7xCGc7nWpmL3vJsA1PY5nQDkhGftVZxEQ3inANhSFqynNJDodudZJ51SxRCMD2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15220 	- ST MAMET LA SALVETAT](https://docs.stopcoronavirus.tech/#/r/markdown/15220_st-mamet-la-salvetat/4XTTMF2ywjxzfZYd569uvCpyAjdVn8dcmMKC513SsqQ6LovWU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15220 	- ST MAMET LA SALVETAT](https://docs.stopcoronavirus.tech/#/w/markdown/15220_st-mamet-la-salvetat/4XTTMF2ywjxzfZYd569uvCpyAjdVn8dcmMKC513SsqQ6LovWU-K3TgUmsG9GqgEVbzFTeg4LjZZ11dg5mtXDVHFPDagphz5fHhYszMMR7FjSAin9nJynKKGC3QvN7xCGc7nWpmL3vJsA1PY5nQDkhGftVZxEQ3inANhSFqynNJDodudZJ51SxRCMD2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

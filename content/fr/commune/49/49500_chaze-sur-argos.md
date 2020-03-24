@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 49500 	- CHAZE SUR ARGOS](https://docs.stopcoronavirus.tech/r/markdown/49500_chaze-sur-argos/4XTTMHuAGtjb55We4gDbFPY7vNwACa5DJxJfq6Q8FAzAhrwyR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49500 	- CHAZE SUR ARGOS](https://docs.stopcoronavirus.tech/w/markdown/49500_chaze-sur-argos/4XTTMHuAGtjb55We4gDbFPY7vNwACa5DJxJfq6Q8FAzAhrwyR-K3TgUjx1QPRWVxWGb21oLU9WPpryjgZHfnNpHYa7We86auqfVxcnAuY6s26tteJXLn2yHP4VQF3p35zF2AcvrunFzPVBUxMUjWTwuM9SRKP3dPWSvgX8xUFnsQLyc5UQbMmP9mCT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49500 	- CHAZE SUR ARGOS](https://docs.stopcoronavirus.tech/#/r/markdown/49500_chaze-sur-argos/4XTTMHuAGtjb55We4gDbFPY7vNwACa5DJxJfq6Q8FAzAhrwyR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49500 	- CHAZE SUR ARGOS](https://docs.stopcoronavirus.tech/#/w/markdown/49500_chaze-sur-argos/4XTTMHuAGtjb55We4gDbFPY7vNwACa5DJxJfq6Q8FAzAhrwyR-K3TgUjx1QPRWVxWGb21oLU9WPpryjgZHfnNpHYa7We86auqfVxcnAuY6s26tteJXLn2yHP4VQF3p35zF2AcvrunFzPVBUxMUjWTwuM9SRKP3dPWSvgX8xUFnsQLyc5UQbMmP9mCT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85500 	- MESNARD LA BAROTIERE](https://docs.stopcoronavirus.tech/r/markdown/85500_mesnard-la-barotiere/4XTTMF3RAkn7Q7aCSFanqBpfKB5QWN1VLjf2Gb69CqGXcfweE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85500 	- MESNARD LA BAROTIERE](https://docs.stopcoronavirus.tech/w/markdown/85500_mesnard-la-barotiere/4XTTMF3RAkn7Q7aCSFanqBpfKB5QWN1VLjf2Gb69CqGXcfweE-K3TgUtBYcgNcBNkboLVU64wrS266wTY3BpcTgXQHcZz78t1mVhtMJfFusPUYMGs7fTe2h8Vgq3gDuAEJxzA8idqGCn1PZQoaCjbZSu4CMBixGu2tvLsF9FVkZnrQCW1CzEdRCVKk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85500 	- MESNARD LA BAROTIERE](https://docs.stopcoronavirus.tech/#/r/markdown/85500_mesnard-la-barotiere/4XTTMF3RAkn7Q7aCSFanqBpfKB5QWN1VLjf2Gb69CqGXcfweE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85500 	- MESNARD LA BAROTIERE](https://docs.stopcoronavirus.tech/#/w/markdown/85500_mesnard-la-barotiere/4XTTMF3RAkn7Q7aCSFanqBpfKB5QWN1VLjf2Gb69CqGXcfweE-K3TgUtBYcgNcBNkboLVU64wrS266wTY3BpcTgXQHcZz78t1mVhtMJfFusPUYMGs7fTe2h8Vgq3gDuAEJxzA8idqGCn1PZQoaCjbZSu4CMBixGu2tvLsF9FVkZnrQCW1CzEdRCVKk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 11700 	- MONTBRUN DES CORBIERES](https://docs.stopcoronavirus.tech/r/markdown/11700_montbrun-des-corbieres/4XTTM9qugGcvLteqYpRyh7Nw8fL5YYQou4z5CVVewG7bp3gEz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11700 	- MONTBRUN DES CORBIERES](https://docs.stopcoronavirus.tech/w/markdown/11700_montbrun-des-corbieres/4XTTM9qugGcvLteqYpRyh7Nw8fL5YYQou4z5CVVewG7bp3gEz-K3TgV1Z6YfNqBqv8ZLr2LAbGNFbKDE5a8AxUNb5qjWugtdfg9fJb2wtrfcyZfTZCQpEksJSVdY9GrrMHvdvWXotvajH4kr9t3XMsSLEpM3mWFhJKwcj29yFQ34RybvETags92xri) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 11700 	- MONTBRUN DES CORBIERES](https://docs.stopcoronavirus.tech/#/r/markdown/11700_montbrun-des-corbieres/4XTTM9qugGcvLteqYpRyh7Nw8fL5YYQou4z5CVVewG7bp3gEz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 11700 	- MONTBRUN DES CORBIERES](https://docs.stopcoronavirus.tech/#/w/markdown/11700_montbrun-des-corbieres/4XTTM9qugGcvLteqYpRyh7Nw8fL5YYQou4z5CVVewG7bp3gEz-K3TgV1Z6YfNqBqv8ZLr2LAbGNFbKDE5a8AxUNb5qjWugtdfg9fJb2wtrfcyZfTZCQpEksJSVdY9GrrMHvdvWXotvajH4kr9t3XMsSLEpM3mWFhJKwcj29yFQ34RybvETags92xri) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 11 	- Aude](https://docs.stopcoronavirus.tech/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11 	- Aude](https://docs.stopcoronavirus.tech/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 11 	- Aude](https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 11 	- Aude](https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

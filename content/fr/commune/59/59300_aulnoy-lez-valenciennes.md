@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59300 	- AULNOY LEZ VALENCIENNES](https://docs.stopcoronavirus.tech/r/markdown/59300_aulnoy-lez-valenciennes/4XTTM2gG5qhdhgB66y7pdQkB9QzoS5eym8prRS7wEyLRbSD24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59300 	- AULNOY LEZ VALENCIENNES](https://docs.stopcoronavirus.tech/w/markdown/59300_aulnoy-lez-valenciennes/4XTTM2gG5qhdhgB66y7pdQkB9QzoS5eym8prRS7wEyLRbSD24-K3TgUdKcP4C57nZt5Uvq3d6cupFATPEsmY52mqzzY1HzmYSjNHuUqwuUv6e2jPR5yzajXoTVpTGpFx5W913U28KxzRonN6tQqcZQ13Agp2hwodLrANzEhhSWgsFShUynXodcKFMv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59300 	- AULNOY LEZ VALENCIENNES](https://docs.stopcoronavirus.tech/#/r/markdown/59300_aulnoy-lez-valenciennes/4XTTM2gG5qhdhgB66y7pdQkB9QzoS5eym8prRS7wEyLRbSD24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59300 	- AULNOY LEZ VALENCIENNES](https://docs.stopcoronavirus.tech/#/w/markdown/59300_aulnoy-lez-valenciennes/4XTTM2gG5qhdhgB66y7pdQkB9QzoS5eym8prRS7wEyLRbSD24-K3TgUdKcP4C57nZt5Uvq3d6cupFATPEsmY52mqzzY1HzmYSjNHuUqwuUv6e2jPR5yzajXoTVpTGpFx5W913U28KxzRonN6tQqcZQ13Agp2hwodLrANzEhhSWgsFShUynXodcKFMv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

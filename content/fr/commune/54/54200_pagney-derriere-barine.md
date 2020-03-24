@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 54200 	- PAGNEY DERRIERE BARINE](https://docs.stopcoronavirus.tech/r/markdown/54200_pagney-derriere-barine/4XTTM5apJpNCQyjpjruY3LfhnjghSfroraPmKjKfwgij1Nc4A) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54200 	- PAGNEY DERRIERE BARINE](https://docs.stopcoronavirus.tech/w/markdown/54200_pagney-derriere-barine/4XTTM5apJpNCQyjpjruY3LfhnjghSfroraPmKjKfwgij1Nc4A-K3TgU6pHX46r8qwQiKf6Mo7ZF9w6si4ZPQa2H3dKACkXkQbE1ychHFQL72CHkyTsERzZ6p75pECaCMUzSHRqBXVAnU4aLss4oG7Aj2vFCiS3QE4cjckE3vjZU6LF3GKLAhpRD6ga) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54200 	- PAGNEY DERRIERE BARINE](https://docs.stopcoronavirus.tech/#/r/markdown/54200_pagney-derriere-barine/4XTTM5apJpNCQyjpjruY3LfhnjghSfroraPmKjKfwgij1Nc4A) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54200 	- PAGNEY DERRIERE BARINE](https://docs.stopcoronavirus.tech/#/w/markdown/54200_pagney-derriere-barine/4XTTM5apJpNCQyjpjruY3LfhnjghSfroraPmKjKfwgij1Nc4A-K3TgU6pHX46r8qwQiKf6Mo7ZF9w6si4ZPQa2H3dKACkXkQbE1ychHFQL72CHkyTsERzZ6p75pECaCMUzSHRqBXVAnU4aLss4oG7Aj2vFCiS3QE4cjckE3vjZU6LF3GKLAhpRD6ga) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08240 	- THENORGUES](https://docs.stopcoronavirus.tech/r/markdown/08240_thenorgues/4XTTMCMMzR9TqLeGxZpnQHxtAs4o2dsuwgjqMX92GWGA541kT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08240 	- THENORGUES](https://docs.stopcoronavirus.tech/w/markdown/08240_thenorgues/4XTTMCMMzR9TqLeGxZpnQHxtAs4o2dsuwgjqMX92GWGA541kT-K3TgUP5ZWBiMtEXRkMrnF4r4qcRkEWdRzSQSUhw6pbnW2TgCLY3HirNPGxE3rqv27UanBQ5LZdr8Rxec88TGf4SG4YPvppxc9bYy7YNxfNmJfn3afw8zU6J4kakfW3ozwQcHWt1V) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08240 	- THENORGUES](https://docs.stopcoronavirus.tech/#/r/markdown/08240_thenorgues/4XTTMCMMzR9TqLeGxZpnQHxtAs4o2dsuwgjqMX92GWGA541kT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08240 	- THENORGUES](https://docs.stopcoronavirus.tech/#/w/markdown/08240_thenorgues/4XTTMCMMzR9TqLeGxZpnQHxtAs4o2dsuwgjqMX92GWGA541kT-K3TgUP5ZWBiMtEXRkMrnF4r4qcRkEWdRzSQSUhw6pbnW2TgCLY3HirNPGxE3rqv27UanBQ5LZdr8Rxec88TGf4SG4YPvppxc9bYy7YNxfNmJfn3afw8zU6J4kakfW3ozwQcHWt1V) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

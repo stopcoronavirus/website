@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60850 	- LE COUDRAY ST GERMER](https://docs.stopcoronavirus.tech/r/markdown/60850_le-coudray-st-germer/4XTTMB7S6dcmAb9seBWpYXbcrJUDNfzJpLdhUpTFMMB3QZhUf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60850 	- LE COUDRAY ST GERMER](https://docs.stopcoronavirus.tech/w/markdown/60850_le-coudray-st-germer/4XTTMB7S6dcmAb9seBWpYXbcrJUDNfzJpLdhUpTFMMB3QZhUf-K3TgV4nrt8EY319niMKfjzw87NU2ZUucSmsyiw84cSzxTHT33f6EE7VoyYyGehLdc7gomij6hXQV4czbS3HdxqNfE9DyKSiHxNBbxE3W1jwxveQSXgUFqLo7Szdaz1S4YFD4xr9R) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60850 	- LE COUDRAY ST GERMER](https://docs.stopcoronavirus.tech/#/r/markdown/60850_le-coudray-st-germer/4XTTMB7S6dcmAb9seBWpYXbcrJUDNfzJpLdhUpTFMMB3QZhUf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60850 	- LE COUDRAY ST GERMER](https://docs.stopcoronavirus.tech/#/w/markdown/60850_le-coudray-st-germer/4XTTMB7S6dcmAb9seBWpYXbcrJUDNfzJpLdhUpTFMMB3QZhUf-K3TgV4nrt8EY319niMKfjzw87NU2ZUucSmsyiw84cSzxTHT33f6EE7VoyYyGehLdc7gomij6hXQV4czbS3HdxqNfE9DyKSiHxNBbxE3W1jwxveQSXgUFqLo7Szdaz1S4YFD4xr9R) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

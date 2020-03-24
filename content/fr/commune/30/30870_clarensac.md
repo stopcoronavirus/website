@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30870 	- CLARENSAC](https://docs.stopcoronavirus.tech/r/markdown/30870_clarensac/4XTTMJK82fpoKwkAFEv9EHsJ45edkhtrWbk1a62dGp9d1z43i) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30870 	- CLARENSAC](https://docs.stopcoronavirus.tech/w/markdown/30870_clarensac/4XTTMJK82fpoKwkAFEv9EHsJ45edkhtrWbk1a62dGp9d1z43i-K3TgU47JNBNrJ27pUEJFdDMwERkuLCJdUvuc9gC1yBkGSMfAK5swVFfuw1zKxcGBysh1UCbZx5U775P1DMKsQCQzxYN8EaSh5wfHD9n5FwtbAWsDnCqUSp2TqesVAJVXYT5357Sp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30870 	- CLARENSAC](https://docs.stopcoronavirus.tech/#/r/markdown/30870_clarensac/4XTTMJK82fpoKwkAFEv9EHsJ45edkhtrWbk1a62dGp9d1z43i) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30870 	- CLARENSAC](https://docs.stopcoronavirus.tech/#/w/markdown/30870_clarensac/4XTTMJK82fpoKwkAFEv9EHsJ45edkhtrWbk1a62dGp9d1z43i-K3TgU47JNBNrJ27pUEJFdDMwERkuLCJdUvuc9gC1yBkGSMfAK5swVFfuw1zKxcGBysh1UCbZx5U775P1DMKsQCQzxYN8EaSh5wfHD9n5FwtbAWsDnCqUSp2TqesVAJVXYT5357Sp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

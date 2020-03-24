@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07140 	- MALARCE SUR LA THINES](https://docs.stopcoronavirus.tech/r/markdown/07140_malarce-sur-la-thines/4XTTM5Hahj6oU7uB4gG4rKHYmERo9VD1jocRyLn9CcdS9w73U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07140 	- MALARCE SUR LA THINES](https://docs.stopcoronavirus.tech/w/markdown/07140_malarce-sur-la-thines/4XTTM5Hahj6oU7uB4gG4rKHYmERo9VD1jocRyLn9CcdS9w73U-K3TgU83HXeQhsQLLV6y1MjnZXRhvaJQAYFz1nGYnewHFvMd78Sia5cV9xZduEFQcZobBBPVSNMXT59zWn9RyXoJdkRv3BuG81Hh14u5oZSixJ9g7hbk2td8X25BY2DYpp69oPg54) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07140 	- MALARCE SUR LA THINES](https://docs.stopcoronavirus.tech/#/r/markdown/07140_malarce-sur-la-thines/4XTTM5Hahj6oU7uB4gG4rKHYmERo9VD1jocRyLn9CcdS9w73U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07140 	- MALARCE SUR LA THINES](https://docs.stopcoronavirus.tech/#/w/markdown/07140_malarce-sur-la-thines/4XTTM5Hahj6oU7uB4gG4rKHYmERo9VD1jocRyLn9CcdS9w73U-K3TgU83HXeQhsQLLV6y1MjnZXRhvaJQAYFz1nGYnewHFvMd78Sia5cV9xZduEFQcZobBBPVSNMXT59zWn9RyXoJdkRv3BuG81Hh14u5oZSixJ9g7hbk2td8X25BY2DYpp69oPg54) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

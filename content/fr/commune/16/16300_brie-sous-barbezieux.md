@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16300 	- BRIE SOUS BARBEZIEUX](https://docs.stopcoronavirus.tech/r/markdown/16300_brie-sous-barbezieux/4XTTM8DntDT9zgi5CkXPXxo2DKtwhJd578w5LjFXbCCCtWjkp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16300 	- BRIE SOUS BARBEZIEUX](https://docs.stopcoronavirus.tech/w/markdown/16300_brie-sous-barbezieux/4XTTM8DntDT9zgi5CkXPXxo2DKtwhJd578w5LjFXbCCCtWjkp-K3TgUd4Kuw9tML1GnVSsSdphy8z9LxdjxjfuQrjTahMGBdxahGyyhwWzYwZ78uJjgCe46ycX5ipgSv3t3vft88Mv1jLXiQW1A4SNyt8wHtyCxQ9jTizJEzjqTDoA7K3P56Wu8iYk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16300 	- BRIE SOUS BARBEZIEUX](https://docs.stopcoronavirus.tech/#/r/markdown/16300_brie-sous-barbezieux/4XTTM8DntDT9zgi5CkXPXxo2DKtwhJd578w5LjFXbCCCtWjkp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16300 	- BRIE SOUS BARBEZIEUX](https://docs.stopcoronavirus.tech/#/w/markdown/16300_brie-sous-barbezieux/4XTTM8DntDT9zgi5CkXPXxo2DKtwhJd578w5LjFXbCCCtWjkp-K3TgUd4Kuw9tML1GnVSsSdphy8z9LxdjxjfuQrjTahMGBdxahGyyhwWzYwZ78uJjgCe46ycX5ipgSv3t3vft88Mv1jLXiQW1A4SNyt8wHtyCxQ9jTizJEzjqTDoA7K3P56Wu8iYk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

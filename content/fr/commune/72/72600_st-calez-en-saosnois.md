@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 72600 	- ST CALEZ EN SAOSNOIS](https://docs.stopcoronavirus.tech/r/markdown/72600_st-calez-en-saosnois/4XTTM5FdMezL2mSNhpt6Qz6KbtiSpxkGb8ndmx3hpY6TuGH4a) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72600 	- ST CALEZ EN SAOSNOIS](https://docs.stopcoronavirus.tech/w/markdown/72600_st-calez-en-saosnois/4XTTM5FdMezL2mSNhpt6Qz6KbtiSpxkGb8ndmx3hpY6TuGH4a-K3TgU2C6JxrPKsKpifeN7Jqywyd8dZmDq9pGHmK6j3wW7Kqw7FrcgtvC5Zi4ceS75EaCeXMLfzUZ7BUNtwttFtkLJnL3Pfn4RZwJi8MeXMqx6uxJdQ6zFnsjyAT4hjNvZhwgXAsp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72600 	- ST CALEZ EN SAOSNOIS](https://docs.stopcoronavirus.tech/#/r/markdown/72600_st-calez-en-saosnois/4XTTM5FdMezL2mSNhpt6Qz6KbtiSpxkGb8ndmx3hpY6TuGH4a) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72600 	- ST CALEZ EN SAOSNOIS](https://docs.stopcoronavirus.tech/#/w/markdown/72600_st-calez-en-saosnois/4XTTM5FdMezL2mSNhpt6Qz6KbtiSpxkGb8ndmx3hpY6TuGH4a-K3TgU2C6JxrPKsKpifeN7Jqywyd8dZmDq9pGHmK6j3wW7Kqw7FrcgtvC5Zi4ceS75EaCeXMLfzUZ7BUNtwttFtkLJnL3Pfn4RZwJi8MeXMqx6uxJdQ6zFnsjyAT4hjNvZhwgXAsp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42720 	- POUILLY SOUS CHARLIEU](https://docs.stopcoronavirus.tech/r/markdown/42720_pouilly-sous-charlieu/4XTTMCzgVAiBtPovPSqhdghKEpWP6dEYsedfNePf7sDRx92uX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42720 	- POUILLY SOUS CHARLIEU](https://docs.stopcoronavirus.tech/w/markdown/42720_pouilly-sous-charlieu/4XTTMCzgVAiBtPovPSqhdghKEpWP6dEYsedfNePf7sDRx92uX-K3TgURv8U4489z99nvwAv78h3Ri1nPGkjSGurZpz3nLKFNqHoUmvhJcSTB7foTfC6XDbx79BwwbtGkwRTsYBGM2Rf1PZb2rBf7A6yTuNSNgmf2Rp3xiR4GdFz4mf1oHmfE2XWs2q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42720 	- POUILLY SOUS CHARLIEU](https://docs.stopcoronavirus.tech/#/r/markdown/42720_pouilly-sous-charlieu/4XTTMCzgVAiBtPovPSqhdghKEpWP6dEYsedfNePf7sDRx92uX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42720 	- POUILLY SOUS CHARLIEU](https://docs.stopcoronavirus.tech/#/w/markdown/42720_pouilly-sous-charlieu/4XTTMCzgVAiBtPovPSqhdghKEpWP6dEYsedfNePf7sDRx92uX-K3TgURv8U4489z99nvwAv78h3Ri1nPGkjSGurZpz3nLKFNqHoUmvhJcSTB7foTfC6XDbx79BwwbtGkwRTsYBGM2Rf1PZb2rBf7A6yTuNSNgmf2Rp3xiR4GdFz4mf1oHmfE2XWs2q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

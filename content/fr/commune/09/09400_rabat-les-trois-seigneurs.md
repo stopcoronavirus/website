@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09400 	- RABAT LES TROIS SEIGNEURS](https://docs.stopcoronavirus.tech/r/markdown/09400_rabat-les-trois-seigneurs/4XTTMCibuoE5arYhB7V98PSRnzeTtZLzbbBAqJzsV8XyY1A61) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09400 	- RABAT LES TROIS SEIGNEURS](https://docs.stopcoronavirus.tech/w/markdown/09400_rabat-les-trois-seigneurs/4XTTMCibuoE5arYhB7V98PSRnzeTtZLzbbBAqJzsV8XyY1A61-K3TgUvco25JWnQZfHDrMsfW3d7tYoCspWwkjJVGceqZFajWQ71SGWnFu6FqXqV8TCtne5KZmZSRpmcREiNPSxM8zT5Bk1nVLWxVG4nxHpH3CKxmQcsXBTfLHY5532utRdF9Q8JgM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09400 	- RABAT LES TROIS SEIGNEURS](https://docs.stopcoronavirus.tech/#/r/markdown/09400_rabat-les-trois-seigneurs/4XTTMCibuoE5arYhB7V98PSRnzeTtZLzbbBAqJzsV8XyY1A61) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09400 	- RABAT LES TROIS SEIGNEURS](https://docs.stopcoronavirus.tech/#/w/markdown/09400_rabat-les-trois-seigneurs/4XTTMCibuoE5arYhB7V98PSRnzeTtZLzbbBAqJzsV8XyY1A61-K3TgUvco25JWnQZfHDrMsfW3d7tYoCspWwkjJVGceqZFajWQ71SGWnFu6FqXqV8TCtne5KZmZSRpmcREiNPSxM8zT5Bk1nVLWxVG4nxHpH3CKxmQcsXBTfLHY5532utRdF9Q8JgM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

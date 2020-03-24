@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 31210 	- BORDES DE RIVIERE](https://docs.stopcoronavirus.tech/r/markdown/31210_bordes-de-riviere/4XTTM9MFQnbBuqrzadUaQ2QAw22NXpqEvT2N3LptZJh3BfwDc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31210 	- BORDES DE RIVIERE](https://docs.stopcoronavirus.tech/w/markdown/31210_bordes-de-riviere/4XTTM9MFQnbBuqrzadUaQ2QAw22NXpqEvT2N3LptZJh3BfwDc-K3TgV82AfPnSWV3PFCDWv8TUpBngtN7oyVQjZ4JRWsUXf86bU2nyc2eN6uhu2H2xiLY4qUrPfStnSkkDPs2GkSvpSLV5YgetvhuqBVGrhZG6Pw3w9zCqhf8mwag5UQZbq7r1v1Qe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31210 	- BORDES DE RIVIERE](https://docs.stopcoronavirus.tech/#/r/markdown/31210_bordes-de-riviere/4XTTM9MFQnbBuqrzadUaQ2QAw22NXpqEvT2N3LptZJh3BfwDc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31210 	- BORDES DE RIVIERE](https://docs.stopcoronavirus.tech/#/w/markdown/31210_bordes-de-riviere/4XTTM9MFQnbBuqrzadUaQ2QAw22NXpqEvT2N3LptZJh3BfwDc-K3TgV82AfPnSWV3PFCDWv8TUpBngtN7oyVQjZ4JRWsUXf86bU2nyc2eN6uhu2H2xiLY4qUrPfStnSkkDPs2GkSvpSLV5YgetvhuqBVGrhZG6Pw3w9zCqhf8mwag5UQZbq7r1v1Qe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

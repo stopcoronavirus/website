@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86220 	- ST REMY SUR CREUSE](https://docs.stopcoronavirus.tech/r/markdown/86220_st-remy-sur-creuse/4XTTMEnXF9mqAxSpdHXv92Xt3eYEtuxUdrXr1SyT7WYbCFzem) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86220 	- ST REMY SUR CREUSE](https://docs.stopcoronavirus.tech/w/markdown/86220_st-remy-sur-creuse/4XTTMEnXF9mqAxSpdHXv92Xt3eYEtuxUdrXr1SyT7WYbCFzem-K3TgU4BUu1g3ZCcLFujhukMPE8Te11ymzJyb3dUCtqZPE5UDVppCW712AKDiVfqBLa9fmdbwvyd7gDC75ScTumXehXQfirsSexGzJ1j6v7Mpf1hSmChTFAKQt2uv9WoY6fhuWM2Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86220 	- ST REMY SUR CREUSE](https://docs.stopcoronavirus.tech/#/r/markdown/86220_st-remy-sur-creuse/4XTTMEnXF9mqAxSpdHXv92Xt3eYEtuxUdrXr1SyT7WYbCFzem) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86220 	- ST REMY SUR CREUSE](https://docs.stopcoronavirus.tech/#/w/markdown/86220_st-remy-sur-creuse/4XTTMEnXF9mqAxSpdHXv92Xt3eYEtuxUdrXr1SyT7WYbCFzem-K3TgU4BUu1g3ZCcLFujhukMPE8Te11ymzJyb3dUCtqZPE5UDVppCW712AKDiVfqBLa9fmdbwvyd7gDC75ScTumXehXQfirsSexGzJ1j6v7Mpf1hSmChTFAKQt2uv9WoY6fhuWM2Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

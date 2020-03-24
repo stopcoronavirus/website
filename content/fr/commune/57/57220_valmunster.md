@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 57220 	- VALMUNSTER](https://docs.stopcoronavirus.tech/r/markdown/57220_valmunster/4XTTM2XcuaRCKTRxLSVvxKdvo8oDiwCgshrCt7eQ46eq2JnET) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57220 	- VALMUNSTER](https://docs.stopcoronavirus.tech/w/markdown/57220_valmunster/4XTTM2XcuaRCKTRxLSVvxKdvo8oDiwCgshrCt7eQ46eq2JnET-K3TgTvr9sUBLnvQwtszUMLBf58Jj5EaXkaBUHaEFFCzYMCSqapjQXaYhK1L3F9tDNx2JYgotB1gpV8dgm6SKaJHpwJV5QxboXKVfdUCXPevSPFu5Jv38CRgDo8oBmaKo1CfsMaeK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57220 	- VALMUNSTER](https://docs.stopcoronavirus.tech/#/r/markdown/57220_valmunster/4XTTM2XcuaRCKTRxLSVvxKdvo8oDiwCgshrCt7eQ46eq2JnET) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57220 	- VALMUNSTER](https://docs.stopcoronavirus.tech/#/w/markdown/57220_valmunster/4XTTM2XcuaRCKTRxLSVvxKdvo8oDiwCgshrCt7eQ46eq2JnET-K3TgTvr9sUBLnvQwtszUMLBf58Jj5EaXkaBUHaEFFCzYMCSqapjQXaYhK1L3F9tDNx2JYgotB1gpV8dgm6SKaJHpwJV5QxboXKVfdUCXPevSPFu5Jv38CRgDo8oBmaKo1CfsMaeK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

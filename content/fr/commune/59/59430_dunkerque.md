@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59430 	- DUNKERQUE](https://docs.stopcoronavirus.tech/r/markdown/59430_dunkerque/4XTTMDWb21Ji4mnGEWxfBFBye1m68KNbKPy1VFX6Rm6h7nn1X) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59430 	- DUNKERQUE](https://docs.stopcoronavirus.tech/w/markdown/59430_dunkerque/4XTTMDWb21Ji4mnGEWxfBFBye1m68KNbKPy1VFX6Rm6h7nn1X-K3TgUSeH1WebnbktgQbdNkXBmWnAhGFQjwfbSftxcy5nwotcUhbaAtsppYJwJSHjToAz8GeFhcDXeu5no2uFjbxV3UG2DiCL9vkMxjSaPYFW7FsMBgt76CySWUNTwUwjmUcey3Eq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59430 	- DUNKERQUE](https://docs.stopcoronavirus.tech/#/r/markdown/59430_dunkerque/4XTTMDWb21Ji4mnGEWxfBFBye1m68KNbKPy1VFX6Rm6h7nn1X) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59430 	- DUNKERQUE](https://docs.stopcoronavirus.tech/#/w/markdown/59430_dunkerque/4XTTMDWb21Ji4mnGEWxfBFBye1m68KNbKPy1VFX6Rm6h7nn1X-K3TgUSeH1WebnbktgQbdNkXBmWnAhGFQjwfbSftxcy5nwotcUhbaAtsppYJwJSHjToAz8GeFhcDXeu5no2uFjbxV3UG2DiCL9vkMxjSaPYFW7FsMBgt76CySWUNTwUwjmUcey3Eq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

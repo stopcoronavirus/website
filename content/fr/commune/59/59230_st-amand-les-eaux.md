@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59230 	- ST AMAND LES EAUX](https://docs.stopcoronavirus.tech/r/markdown/59230_st-amand-les-eaux/4XTTM3fhbh6p8UbaDMeqo5YUvyJYd5TzaRFgi1jXUTf7CgnPS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59230 	- ST AMAND LES EAUX](https://docs.stopcoronavirus.tech/w/markdown/59230_st-amand-les-eaux/4XTTM3fhbh6p8UbaDMeqo5YUvyJYd5TzaRFgi1jXUTf7CgnPS-K3TgUDZBqnf3ebisHqgQ6rfjJtVxtSqYN2GdTux3Z7YZdV3HCpgrgMh5BwhNZZdkFhdx4kQcERULM1niHJVyQnMSrmeTXgrGsLfGisnxV97GrSqtoJkD6Jm9P3Z7nakmaeUjs3PW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59230 	- ST AMAND LES EAUX](https://docs.stopcoronavirus.tech/#/r/markdown/59230_st-amand-les-eaux/4XTTM3fhbh6p8UbaDMeqo5YUvyJYd5TzaRFgi1jXUTf7CgnPS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59230 	- ST AMAND LES EAUX](https://docs.stopcoronavirus.tech/#/w/markdown/59230_st-amand-les-eaux/4XTTM3fhbh6p8UbaDMeqo5YUvyJYd5TzaRFgi1jXUTf7CgnPS-K3TgUDZBqnf3ebisHqgQ6rfjJtVxtSqYN2GdTux3Z7YZdV3HCpgrgMh5BwhNZZdkFhdx4kQcERULM1niHJVyQnMSrmeTXgrGsLfGisnxV97GrSqtoJkD6Jm9P3Z7nakmaeUjs3PW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

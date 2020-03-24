@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86340 	- ROCHES PREMARIE ANDILLE](https://docs.stopcoronavirus.tech/r/markdown/86340_roches-premarie-andille/4XTTM1VSzrVBRGYforqo3pe3tFrpyTLLxPALtLyZayKrmDHYA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86340 	- ROCHES PREMARIE ANDILLE](https://docs.stopcoronavirus.tech/w/markdown/86340_roches-premarie-andille/4XTTM1VSzrVBRGYforqo3pe3tFrpyTLLxPALtLyZayKrmDHYA-K3TgUWnBvoJZNMjNYgB8fviN7UMdK6qvNJhE4BQbW7u4tai4ZWq8WxJbBcnFt7ds9jjGfCFXYHJJook4xHaDeER9wRfpcDPa5GfZh17A7UeRZ9GUiv5731rbU6jK5Zfje3xnax5L) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86340 	- ROCHES PREMARIE ANDILLE](https://docs.stopcoronavirus.tech/#/r/markdown/86340_roches-premarie-andille/4XTTM1VSzrVBRGYforqo3pe3tFrpyTLLxPALtLyZayKrmDHYA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86340 	- ROCHES PREMARIE ANDILLE](https://docs.stopcoronavirus.tech/#/w/markdown/86340_roches-premarie-andille/4XTTM1VSzrVBRGYforqo3pe3tFrpyTLLxPALtLyZayKrmDHYA-K3TgUWnBvoJZNMjNYgB8fviN7UMdK6qvNJhE4BQbW7u4tai4ZWq8WxJbBcnFt7ds9jjGfCFXYHJJook4xHaDeER9wRfpcDPa5GfZh17A7UeRZ9GUiv5731rbU6jK5Zfje3xnax5L) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

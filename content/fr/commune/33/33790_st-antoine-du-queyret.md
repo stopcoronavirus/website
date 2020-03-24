@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33790 	- ST ANTOINE DU QUEYRET](https://docs.stopcoronavirus.tech/r/markdown/33790_st-antoine-du-queyret/4XTTM9tasi9BLC3Q9eGw8UDpMKEZ77qwQa2PW8FSfXX2ckxaq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33790 	- ST ANTOINE DU QUEYRET](https://docs.stopcoronavirus.tech/w/markdown/33790_st-antoine-du-queyret/4XTTM9tasi9BLC3Q9eGw8UDpMKEZ77qwQa2PW8FSfXX2ckxaq-K3TgU2qhwGU8gQav172MYaBkCdco97CRhUv2cqLc7DghaUSjGd1LjUZ2i9rcdc2DAygdbTD5JAHbcEeweTJo9pxEUy3dnu9ZL2itj65mhJzdB9Nf2pL7ugGfAA2fQD33zg3yTECD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33790 	- ST ANTOINE DU QUEYRET](https://docs.stopcoronavirus.tech/#/r/markdown/33790_st-antoine-du-queyret/4XTTM9tasi9BLC3Q9eGw8UDpMKEZ77qwQa2PW8FSfXX2ckxaq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33790 	- ST ANTOINE DU QUEYRET](https://docs.stopcoronavirus.tech/#/w/markdown/33790_st-antoine-du-queyret/4XTTM9tasi9BLC3Q9eGw8UDpMKEZ77qwQa2PW8FSfXX2ckxaq-K3TgU2qhwGU8gQav172MYaBkCdco97CRhUv2cqLc7DghaUSjGd1LjUZ2i9rcdc2DAygdbTD5JAHbcEeweTJo9pxEUy3dnu9ZL2itj65mhJzdB9Nf2pL7ugGfAA2fQD33zg3yTECD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

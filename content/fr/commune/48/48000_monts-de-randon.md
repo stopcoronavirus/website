@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48000 	- MONTS DE RANDON](https://docs.stopcoronavirus.tech/r/markdown/48000_monts-de-randon/4XTTM4uPmSCzPNBC1bxxpWPk2WwRzQvJ7cozy6xNzSkrT6C1V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48000 	- MONTS DE RANDON](https://docs.stopcoronavirus.tech/w/markdown/48000_monts-de-randon/4XTTM4uPmSCzPNBC1bxxpWPk2WwRzQvJ7cozy6xNzSkrT6C1V-K3TgTqbvaDJ9Tg2RCxXbBjLM4JMUdtE1usf29y6QDSRAPAHgUGYbGgTizSbckPYTHqXJoMNuhPnMQXtVH7mHBTcz9M74bx4t5373M5mXG2qWLoD5CwgTD354yj32Jq3kMJgeqQQF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48000 	- MONTS DE RANDON](https://docs.stopcoronavirus.tech/#/r/markdown/48000_monts-de-randon/4XTTM4uPmSCzPNBC1bxxpWPk2WwRzQvJ7cozy6xNzSkrT6C1V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48000 	- MONTS DE RANDON](https://docs.stopcoronavirus.tech/#/w/markdown/48000_monts-de-randon/4XTTM4uPmSCzPNBC1bxxpWPk2WwRzQvJ7cozy6xNzSkrT6C1V-K3TgTqbvaDJ9Tg2RCxXbBjLM4JMUdtE1usf29y6QDSRAPAHgUGYbGgTizSbckPYTHqXJoMNuhPnMQXtVH7mHBTcz9M74bx4t5373M5mXG2qWLoD5CwgTD354yj32Jq3kMJgeqQQF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

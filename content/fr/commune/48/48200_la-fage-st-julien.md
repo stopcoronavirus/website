@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48200 	- LA FAGE ST JULIEN](https://docs.stopcoronavirus.tech/r/markdown/48200_la-fage-st-julien/4XTTMD3zvbjRaagCHxmYEagfFE1YhPcDZi5mQnmEhhdV5ZuBu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48200 	- LA FAGE ST JULIEN](https://docs.stopcoronavirus.tech/w/markdown/48200_la-fage-st-julien/4XTTMD3zvbjRaagCHxmYEagfFE1YhPcDZi5mQnmEhhdV5ZuBu-K3TgUJph1aBJJpW7svUULUd6nFpNUySG7jmoo67EcvepaBeQb7ZPRy2jwwJca6NUvzgELztUiAJG2UC57xhqUL5BWqkMa8FapYEP3z6YapAUAgAuhaVYmWV1z3EuP4awKhatF2iT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48200 	- LA FAGE ST JULIEN](https://docs.stopcoronavirus.tech/#/r/markdown/48200_la-fage-st-julien/4XTTMD3zvbjRaagCHxmYEagfFE1YhPcDZi5mQnmEhhdV5ZuBu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48200 	- LA FAGE ST JULIEN](https://docs.stopcoronavirus.tech/#/w/markdown/48200_la-fage-st-julien/4XTTMD3zvbjRaagCHxmYEagfFE1YhPcDZi5mQnmEhhdV5ZuBu-K3TgUJph1aBJJpW7svUULUd6nFpNUySG7jmoo67EcvepaBeQb7ZPRy2jwwJca6NUvzgELztUiAJG2UC57xhqUL5BWqkMa8FapYEP3z6YapAUAgAuhaVYmWV1z3EuP4awKhatF2iT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

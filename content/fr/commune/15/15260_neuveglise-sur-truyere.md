@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15260 	- NEUVEGLISE SUR TRUYERE](https://docs.stopcoronavirus.tech/r/markdown/15260_neuveglise-sur-truyere/4XTTMFugNZ9e7sFW9SwuQGvfZMeUpchCGkAgM3GMenmu3Az6k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15260 	- NEUVEGLISE SUR TRUYERE](https://docs.stopcoronavirus.tech/w/markdown/15260_neuveglise-sur-truyere/4XTTMFugNZ9e7sFW9SwuQGvfZMeUpchCGkAgM3GMenmu3Az6k-K3TgTvt9e9xBJEQRJLXxgSwva6FCRoBHJEqnjLR4YubT1kSQjdKCELr1oFHwEMjHu9w2ocoMPdGC23ciZQ8wBSz55Cyk49hKkG1o9QyEpJ9WpkJGf11eMuzW2ya8kNx7JbTd5wYU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15260 	- NEUVEGLISE SUR TRUYERE](https://docs.stopcoronavirus.tech/#/r/markdown/15260_neuveglise-sur-truyere/4XTTMFugNZ9e7sFW9SwuQGvfZMeUpchCGkAgM3GMenmu3Az6k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15260 	- NEUVEGLISE SUR TRUYERE](https://docs.stopcoronavirus.tech/#/w/markdown/15260_neuveglise-sur-truyere/4XTTMFugNZ9e7sFW9SwuQGvfZMeUpchCGkAgM3GMenmu3Az6k-K3TgTvt9e9xBJEQRJLXxgSwva6FCRoBHJEqnjLR4YubT1kSQjdKCELr1oFHwEMjHu9w2ocoMPdGC23ciZQ8wBSz55Cyk49hKkG1o9QyEpJ9WpkJGf11eMuzW2ya8kNx7JbTd5wYU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

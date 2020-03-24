@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71800 	- ST SYMPHORIEN DES BOIS](https://docs.stopcoronavirus.tech/r/markdown/71800_st-symphorien-des-bois/4XTTMA9ZNeBRgC2XaGBx7LTV5faDbx7G45F2GGVN7jPK8f2Uv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71800 	- ST SYMPHORIEN DES BOIS](https://docs.stopcoronavirus.tech/w/markdown/71800_st-symphorien-des-bois/4XTTMA9ZNeBRgC2XaGBx7LTV5faDbx7G45F2GGVN7jPK8f2Uv-K3TgUN7p62FvdH4Lqx6Aa2hFj67EYE7srLC7Utb94F3LsaLkr7HeBEyBkHZHKvbsKAwRMZDTWLD2V41pRZWJ9u4T5J5ykZaidvVKqHwNA1geDnUSqLD91qFhYVz69dfCNZFPLPyx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71800 	- ST SYMPHORIEN DES BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/71800_st-symphorien-des-bois/4XTTMA9ZNeBRgC2XaGBx7LTV5faDbx7G45F2GGVN7jPK8f2Uv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71800 	- ST SYMPHORIEN DES BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/71800_st-symphorien-des-bois/4XTTMA9ZNeBRgC2XaGBx7LTV5faDbx7G45F2GGVN7jPK8f2Uv-K3TgUN7p62FvdH4Lqx6Aa2hFj67EYE7srLC7Utb94F3LsaLkr7HeBEyBkHZHKvbsKAwRMZDTWLD2V41pRZWJ9u4T5J5ykZaidvVKqHwNA1geDnUSqLD91qFhYVz69dfCNZFPLPyx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

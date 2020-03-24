@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83440 	- ST PAUL EN FORET](https://docs.stopcoronavirus.tech/r/markdown/83440_st-paul-en-foret/4XTTM8AyKTYjKPaQsqfkeGSjosHkXEBq8Q6E3XWbbYgSSkHJN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83440 	- ST PAUL EN FORET](https://docs.stopcoronavirus.tech/w/markdown/83440_st-paul-en-foret/4XTTM8AyKTYjKPaQsqfkeGSjosHkXEBq8Q6E3XWbbYgSSkHJN-K3TgTqVqR3UZG7ihTEK5BUgGLCxPQujwc6SdFtNygG5XdbXmQRD2zY3sNQkj1V8KUN5v2yiGDEJQ5PySsGnmkSDRRof8Ccpm3hmVFHpHQoDvjCKjDz2z7rozYuEWN6qCbYxtb32v) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83440 	- ST PAUL EN FORET](https://docs.stopcoronavirus.tech/#/r/markdown/83440_st-paul-en-foret/4XTTM8AyKTYjKPaQsqfkeGSjosHkXEBq8Q6E3XWbbYgSSkHJN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83440 	- ST PAUL EN FORET](https://docs.stopcoronavirus.tech/#/w/markdown/83440_st-paul-en-foret/4XTTM8AyKTYjKPaQsqfkeGSjosHkXEBq8Q6E3XWbbYgSSkHJN-K3TgTqVqR3UZG7ihTEK5BUgGLCxPQujwc6SdFtNygG5XdbXmQRD2zY3sNQkj1V8KUN5v2yiGDEJQ5PySsGnmkSDRRof8Ccpm3hmVFHpHQoDvjCKjDz2z7rozYuEWN6qCbYxtb32v) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

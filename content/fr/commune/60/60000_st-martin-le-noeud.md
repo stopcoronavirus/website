@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60000 	- ST MARTIN LE NOEUD](https://docs.stopcoronavirus.tech/r/markdown/60000_st-martin-le-noeud/4XTTMFPseGMiju3t9T5ZL8EvCFTnhHwFTVcSoZbynePLqA2tq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60000 	- ST MARTIN LE NOEUD](https://docs.stopcoronavirus.tech/w/markdown/60000_st-martin-le-noeud/4XTTMFPseGMiju3t9T5ZL8EvCFTnhHwFTVcSoZbynePLqA2tq-K3TgTnfP7SJLym3662WUGVzYoVbKnjY1vtA754QsgbMqdYeHG9MyYa5RDFBTdCo1tiNVdFo4m3cp29hJ9wVX9mHWAEd3A9F1k8RwsHGeyTJZtYdSYcmfNw83CXrhSdT2PLBwqPdB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60000 	- ST MARTIN LE NOEUD](https://docs.stopcoronavirus.tech/#/r/markdown/60000_st-martin-le-noeud/4XTTMFPseGMiju3t9T5ZL8EvCFTnhHwFTVcSoZbynePLqA2tq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60000 	- ST MARTIN LE NOEUD](https://docs.stopcoronavirus.tech/#/w/markdown/60000_st-martin-le-noeud/4XTTMFPseGMiju3t9T5ZL8EvCFTnhHwFTVcSoZbynePLqA2tq-K3TgTnfP7SJLym3662WUGVzYoVbKnjY1vtA754QsgbMqdYeHG9MyYa5RDFBTdCo1tiNVdFo4m3cp29hJ9wVX9mHWAEd3A9F1k8RwsHGeyTJZtYdSYcmfNw83CXrhSdT2PLBwqPdB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

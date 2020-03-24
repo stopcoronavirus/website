@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23210 	- AZAT CHATENET](https://docs.stopcoronavirus.tech/r/markdown/23210_azat-chatenet/4XTTMHb2v8FDd8P9tbV6aJ22Pv7ETsfPh3NDqpdGKGuAZhVjg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23210 	- AZAT CHATENET](https://docs.stopcoronavirus.tech/w/markdown/23210_azat-chatenet/4XTTMHb2v8FDd8P9tbV6aJ22Pv7ETsfPh3NDqpdGKGuAZhVjg-K3TgTq92VX6u7Zes4pjEdLSxhipGtX8KY6ry5BTsbBngqgjF39yYVBqFQStisbykyzpGpXt5uCnnsfhp2a3U344LTvbC3RnmoN1twh7VhgKBu7meVhsqnHv9fUek7US1DA7hSuQE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23210 	- AZAT CHATENET](https://docs.stopcoronavirus.tech/#/r/markdown/23210_azat-chatenet/4XTTMHb2v8FDd8P9tbV6aJ22Pv7ETsfPh3NDqpdGKGuAZhVjg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23210 	- AZAT CHATENET](https://docs.stopcoronavirus.tech/#/w/markdown/23210_azat-chatenet/4XTTMHb2v8FDd8P9tbV6aJ22Pv7ETsfPh3NDqpdGKGuAZhVjg-K3TgTq92VX6u7Zes4pjEdLSxhipGtX8KY6ry5BTsbBngqgjF39yYVBqFQStisbykyzpGpXt5uCnnsfhp2a3U344LTvbC3RnmoN1twh7VhgKBu7meVhsqnHv9fUek7US1DA7hSuQE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

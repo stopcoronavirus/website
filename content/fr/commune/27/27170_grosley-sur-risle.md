@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27170 	- GROSLEY SUR RISLE](https://docs.stopcoronavirus.tech/r/markdown/27170_grosley-sur-risle/4XTTMDxeuA9Vgseu3BAvB94B2aetGYWFTgPLEUTnpM9LwVweY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27170 	- GROSLEY SUR RISLE](https://docs.stopcoronavirus.tech/w/markdown/27170_grosley-sur-risle/4XTTMDxeuA9Vgseu3BAvB94B2aetGYWFTgPLEUTnpM9LwVweY-K3TgU9KbHGgDy2QzUstNVx6wbSQsR7v61SC9B2duzMkJUCcJ4HvV7XYcv86Xds6qFQG8UQkTKVCfx7DMVEL4bT1YCmqvRFPSZdVYE3ZYcjaKFAtKU5RxkCkRAwaC9CDCBzjNoo6Y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27170 	- GROSLEY SUR RISLE](https://docs.stopcoronavirus.tech/#/r/markdown/27170_grosley-sur-risle/4XTTMDxeuA9Vgseu3BAvB94B2aetGYWFTgPLEUTnpM9LwVweY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27170 	- GROSLEY SUR RISLE](https://docs.stopcoronavirus.tech/#/w/markdown/27170_grosley-sur-risle/4XTTMDxeuA9Vgseu3BAvB94B2aetGYWFTgPLEUTnpM9LwVweY-K3TgU9KbHGgDy2QzUstNVx6wbSQsR7v61SC9B2duzMkJUCcJ4HvV7XYcv86Xds6qFQG8UQkTKVCfx7DMVEL4bT1YCmqvRFPSZdVYE3ZYcjaKFAtKU5RxkCkRAwaC9CDCBzjNoo6Y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

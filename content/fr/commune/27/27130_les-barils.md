@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27130 	- LES BARILS](https://docs.stopcoronavirus.tech/r/markdown/27130_les-barils/4XTTM1pLrP4JEVH4Yd58EKSjiU7nwC2Xz8DgvjJAT3be8pK1Z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27130 	- LES BARILS](https://docs.stopcoronavirus.tech/w/markdown/27130_les-barils/4XTTM1pLrP4JEVH4Yd58EKSjiU7nwC2Xz8DgvjJAT3be8pK1Z-K3TgUx3CqQE58tH5EWy6Hz2GvgbGv12jxaw3WmbuTYzZaFrwryEA54qb3Fhk97fs381PRW3zywKp1v8r3wjSVJHQu3ppYWtFUJT4KuM2dCZBCxxB9SZdqr8ZKdCen6qxmEq1zPDR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27130 	- LES BARILS](https://docs.stopcoronavirus.tech/#/r/markdown/27130_les-barils/4XTTM1pLrP4JEVH4Yd58EKSjiU7nwC2Xz8DgvjJAT3be8pK1Z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27130 	- LES BARILS](https://docs.stopcoronavirus.tech/#/w/markdown/27130_les-barils/4XTTM1pLrP4JEVH4Yd58EKSjiU7nwC2Xz8DgvjJAT3be8pK1Z-K3TgUx3CqQE58tH5EWy6Hz2GvgbGv12jxaw3WmbuTYzZaFrwryEA54qb3Fhk97fs381PRW3zywKp1v8r3wjSVJHQu3ppYWtFUJT4KuM2dCZBCxxB9SZdqr8ZKdCen6qxmEq1zPDR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

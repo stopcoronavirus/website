@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 52330 	- GUINDRECOURT SUR BLAISE](https://docs.stopcoronavirus.tech/r/markdown/52330_guindrecourt-sur-blaise/4XTTM457PeFqmyCPYsso3bXzcaFL77ptZYtYiR6MwpXmRBXa5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52330 	- GUINDRECOURT SUR BLAISE](https://docs.stopcoronavirus.tech/w/markdown/52330_guindrecourt-sur-blaise/4XTTM457PeFqmyCPYsso3bXzcaFL77ptZYtYiR6MwpXmRBXa5-K3TgUQFnk6VzU4pTaXs9ZV9SHhGg7CtbBnwAH6PFAspVBsFHXRX5M6B9T4rkepywRyck4dRiicwPJfLdSZrMsh6GVqNMFvLdUs6nJ7KYH9JYVAsV6qo1Lm2DFosw4RMofYgAgq4H) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52330 	- GUINDRECOURT SUR BLAISE](https://docs.stopcoronavirus.tech/#/r/markdown/52330_guindrecourt-sur-blaise/4XTTM457PeFqmyCPYsso3bXzcaFL77ptZYtYiR6MwpXmRBXa5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52330 	- GUINDRECOURT SUR BLAISE](https://docs.stopcoronavirus.tech/#/w/markdown/52330_guindrecourt-sur-blaise/4XTTM457PeFqmyCPYsso3bXzcaFL77ptZYtYiR6MwpXmRBXa5-K3TgUQFnk6VzU4pTaXs9ZV9SHhGg7CtbBnwAH6PFAspVBsFHXRX5M6B9T4rkepywRyck4dRiicwPJfLdSZrMsh6GVqNMFvLdUs6nJ7KYH9JYVAsV6qo1Lm2DFosw4RMofYgAgq4H) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

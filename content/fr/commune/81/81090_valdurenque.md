@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81090 	- VALDURENQUE](https://docs.stopcoronavirus.tech/r/markdown/81090_valdurenque/4XTTM8iW9HDZ17dX5Ua2UkoWTs3qZSvYDj1kzLn9bBHaNQsM1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81090 	- VALDURENQUE](https://docs.stopcoronavirus.tech/w/markdown/81090_valdurenque/4XTTM8iW9HDZ17dX5Ua2UkoWTs3qZSvYDj1kzLn9bBHaNQsM1-K3TgUGDy2tVJVhCBPjW42ZemHCeAvenSUwjdZW4q1ReBfH6u3aquifidFsKD5GhFDJWTK2ocgZcTwoGg4bEuk9XkT8Vr5cnZ2QQqZbRWKNnBS3qP2a6M8AX7YzAS7jXt8KW1Eo7V) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81090 	- VALDURENQUE](https://docs.stopcoronavirus.tech/#/r/markdown/81090_valdurenque/4XTTM8iW9HDZ17dX5Ua2UkoWTs3qZSvYDj1kzLn9bBHaNQsM1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81090 	- VALDURENQUE](https://docs.stopcoronavirus.tech/#/w/markdown/81090_valdurenque/4XTTM8iW9HDZ17dX5Ua2UkoWTs3qZSvYDj1kzLn9bBHaNQsM1-K3TgUGDy2tVJVhCBPjW42ZemHCeAvenSUwjdZW4q1ReBfH6u3aquifidFsKD5GhFDJWTK2ocgZcTwoGg4bEuk9XkT8Vr5cnZ2QQqZbRWKNnBS3qP2a6M8AX7YzAS7jXt8KW1Eo7V) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

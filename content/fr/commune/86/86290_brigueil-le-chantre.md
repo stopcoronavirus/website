@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86290 	- BRIGUEIL LE CHANTRE](https://docs.stopcoronavirus.tech/r/markdown/86290_brigueil-le-chantre/4XTTM1Yr3Wp91Stm3PwpXd5SffAgmg4UgDFdqPdNb5RMATniw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86290 	- BRIGUEIL LE CHANTRE](https://docs.stopcoronavirus.tech/w/markdown/86290_brigueil-le-chantre/4XTTM1Yr3Wp91Stm3PwpXd5SffAgmg4UgDFdqPdNb5RMATniw-K3TgUxz77ZrwjyD99kgqVu399TVZFEv35En72DG6mjGRYZAK6JLMHoDoQEEuFJfhaWsqCM3tWt2sbijA6DeUkh2eRvU9LjXZaLocXBT6mhkstzHtMug27mNZFZM2idU1mgdbvH1D) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86290 	- BRIGUEIL LE CHANTRE](https://docs.stopcoronavirus.tech/#/r/markdown/86290_brigueil-le-chantre/4XTTM1Yr3Wp91Stm3PwpXd5SffAgmg4UgDFdqPdNb5RMATniw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86290 	- BRIGUEIL LE CHANTRE](https://docs.stopcoronavirus.tech/#/w/markdown/86290_brigueil-le-chantre/4XTTM1Yr3Wp91Stm3PwpXd5SffAgmg4UgDFdqPdNb5RMATniw-K3TgUxz77ZrwjyD99kgqVu399TVZFEv35En72DG6mjGRYZAK6JLMHoDoQEEuFJfhaWsqCM3tWt2sbijA6DeUkh2eRvU9LjXZaLocXBT6mhkstzHtMug27mNZFZM2idU1mgdbvH1D) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23210 	- MOURIOUX VIEILLEVILLE](https://docs.stopcoronavirus.tech/r/markdown/23210_mourioux-vieilleville/4XTTMAaftcRchcbYd9Sk4utLpvEiCCZczPtQNkB3CExmxVgVz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23210 	- MOURIOUX VIEILLEVILLE](https://docs.stopcoronavirus.tech/w/markdown/23210_mourioux-vieilleville/4XTTMAaftcRchcbYd9Sk4utLpvEiCCZczPtQNkB3CExmxVgVz-K3TgV6GEZ9i4Tp9noXr4cv7Y8GhwwpnyaPN3KJ3ECssjsFg6JY9VxGq8vaCcNHut3FhwfAKSGWmmXa33YEcBbKgThw3y7axKieqrkotHBpap2S6wznkKtbhRSF6fQsghVH6HXLhJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23210 	- MOURIOUX VIEILLEVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/23210_mourioux-vieilleville/4XTTMAaftcRchcbYd9Sk4utLpvEiCCZczPtQNkB3CExmxVgVz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23210 	- MOURIOUX VIEILLEVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/23210_mourioux-vieilleville/4XTTMAaftcRchcbYd9Sk4utLpvEiCCZczPtQNkB3CExmxVgVz-K3TgV6GEZ9i4Tp9noXr4cv7Y8GhwwpnyaPN3KJ3ECssjsFg6JY9VxGq8vaCcNHut3FhwfAKSGWmmXa33YEcBbKgThw3y7axKieqrkotHBpap2S6wznkKtbhRSF6fQsghVH6HXLhJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

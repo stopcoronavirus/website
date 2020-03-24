@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85700 	- LA MEILLERAIE TILLAY](https://docs.stopcoronavirus.tech/r/markdown/85700_la-meilleraie-tillay/4XTTMDYKD8JmjKqH9Ao5i72jh6WCFsaiGvh6Z3ZBdsf9vMcBu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85700 	- LA MEILLERAIE TILLAY](https://docs.stopcoronavirus.tech/w/markdown/85700_la-meilleraie-tillay/4XTTMDYKD8JmjKqH9Ao5i72jh6WCFsaiGvh6Z3ZBdsf9vMcBu-K3TgULAkxqJW2EmLNNoGes3udHai9M1dgpx1o28Une1A8TmCrtJF8LBcf46tt4StsENQxxizekHK5d18oZxY8GUJztp3xvAwb9P3rQdJocG1YsrXupW3gfrTqtuv4VX7jfF24pgT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85700 	- LA MEILLERAIE TILLAY](https://docs.stopcoronavirus.tech/#/r/markdown/85700_la-meilleraie-tillay/4XTTMDYKD8JmjKqH9Ao5i72jh6WCFsaiGvh6Z3ZBdsf9vMcBu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85700 	- LA MEILLERAIE TILLAY](https://docs.stopcoronavirus.tech/#/w/markdown/85700_la-meilleraie-tillay/4XTTMDYKD8JmjKqH9Ao5i72jh6WCFsaiGvh6Z3ZBdsf9vMcBu-K3TgULAkxqJW2EmLNNoGes3udHai9M1dgpx1o28Une1A8TmCrtJF8LBcf46tt4StsENQxxizekHK5d18oZxY8GUJztp3xvAwb9P3rQdJocG1YsrXupW3gfrTqtuv4VX7jfF24pgT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

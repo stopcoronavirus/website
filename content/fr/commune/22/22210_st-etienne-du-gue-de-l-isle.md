@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 22210 	- ST ETIENNE DU GUE DE L ISLE](https://docs.stopcoronavirus.tech/r/markdown/22210_st-etienne-du-gue-de-l-isle/4XTTM33sFe9ygHRdjeCDaXj5TEzWnXymUfB9HKEhUmssBVay3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22210 	- ST ETIENNE DU GUE DE L ISLE](https://docs.stopcoronavirus.tech/w/markdown/22210_st-etienne-du-gue-de-l-isle/4XTTM33sFe9ygHRdjeCDaXj5TEzWnXymUfB9HKEhUmssBVay3-K3TgUXqcUxaC5iFw9nP5QUue3xwSVDnPahbDWpxvynSqFUg1UjWnUH7WJWuzM9gfjQu2gkraVXVk39sD6gu3w3Y49CEEZbumivxtRLZAEfjNew7hDEo6biqhqVe5JzjKzqMNPJTF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 22210 	- ST ETIENNE DU GUE DE L ISLE](https://docs.stopcoronavirus.tech/#/r/markdown/22210_st-etienne-du-gue-de-l-isle/4XTTM33sFe9ygHRdjeCDaXj5TEzWnXymUfB9HKEhUmssBVay3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 22210 	- ST ETIENNE DU GUE DE L ISLE](https://docs.stopcoronavirus.tech/#/w/markdown/22210_st-etienne-du-gue-de-l-isle/4XTTM33sFe9ygHRdjeCDaXj5TEzWnXymUfB9HKEhUmssBVay3-K3TgUXqcUxaC5iFw9nP5QUue3xwSVDnPahbDWpxvynSqFUg1UjWnUH7WJWuzM9gfjQu2gkraVXVk39sD6gu3w3Y49CEEZbumivxtRLZAEfjNew7hDEo6biqhqVe5JzjKzqMNPJTF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

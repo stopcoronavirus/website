@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60400 	- BEAURAINS LES NOYON](https://docs.stopcoronavirus.tech/r/markdown/60400_beaurains-les-noyon/4XTTMB8xb3fkhVcT7kZW3KyAzoCcffz1oF2BnS3cYXeLr3CpS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60400 	- BEAURAINS LES NOYON](https://docs.stopcoronavirus.tech/w/markdown/60400_beaurains-les-noyon/4XTTMB8xb3fkhVcT7kZW3KyAzoCcffz1oF2BnS3cYXeLr3CpS-K3TgU6uRCEki9xoEUaS1uvPJEFxfP9W53uFmJhYX5CA2QCCb2XSZN5GJj17g7MNdFB7EK3tDCs95VQuPVVgSbMnLsnERNf6ruRzDbBzBYndfzGggHsZcF2Y8FP2e996sapciz9zi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60400 	- BEAURAINS LES NOYON](https://docs.stopcoronavirus.tech/#/r/markdown/60400_beaurains-les-noyon/4XTTMB8xb3fkhVcT7kZW3KyAzoCcffz1oF2BnS3cYXeLr3CpS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60400 	- BEAURAINS LES NOYON](https://docs.stopcoronavirus.tech/#/w/markdown/60400_beaurains-les-noyon/4XTTMB8xb3fkhVcT7kZW3KyAzoCcffz1oF2BnS3cYXeLr3CpS-K3TgU6uRCEki9xoEUaS1uvPJEFxfP9W53uFmJhYX5CA2QCCb2XSZN5GJj17g7MNdFB7EK3tDCs95VQuPVVgSbMnLsnERNf6ruRzDbBzBYndfzGggHsZcF2Y8FP2e996sapciz9zi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

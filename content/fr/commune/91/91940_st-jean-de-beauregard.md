@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91940 	- ST JEAN DE BEAUREGARD](https://docs.stopcoronavirus.tech/r/markdown/91940_st-jean-de-beauregard/4XTTM6d6xMzbtDB7BsWp9t8ozfw7Jc1rYMcwMpejCrkw6d6xH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91940 	- ST JEAN DE BEAUREGARD](https://docs.stopcoronavirus.tech/w/markdown/91940_st-jean-de-beauregard/4XTTM6d6xMzbtDB7BsWp9t8ozfw7Jc1rYMcwMpejCrkw6d6xH-K3TgUH31Y86vaQnzaKQCSX53c1kkTMmGvMPA1kwqDjH1zPqrDPnQZX8qcMpx6WB1fDX3o2gGfHHYHmnP48qiCwrxkzGGBPbK69sGSyzg8HHSciE93W1DSVDHac5cbaf68Q2iLFDK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91940 	- ST JEAN DE BEAUREGARD](https://docs.stopcoronavirus.tech/#/r/markdown/91940_st-jean-de-beauregard/4XTTM6d6xMzbtDB7BsWp9t8ozfw7Jc1rYMcwMpejCrkw6d6xH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91940 	- ST JEAN DE BEAUREGARD](https://docs.stopcoronavirus.tech/#/w/markdown/91940_st-jean-de-beauregard/4XTTM6d6xMzbtDB7BsWp9t8ozfw7Jc1rYMcwMpejCrkw6d6xH-K3TgUH31Y86vaQnzaKQCSX53c1kkTMmGvMPA1kwqDjH1zPqrDPnQZX8qcMpx6WB1fDX3o2gGfHHYHmnP48qiCwrxkzGGBPbK69sGSyzg8HHSciE93W1DSVDHac5cbaf68Q2iLFDK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

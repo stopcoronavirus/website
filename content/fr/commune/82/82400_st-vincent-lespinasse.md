@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 82400 	- ST VINCENT LESPINASSE](https://docs.stopcoronavirus.tech/r/markdown/82400_st-vincent-lespinasse/4XTTMAfp7sde5t85N2nFoVtoQ2J4RC3cYG3c2eJoDfq61r5s4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82400 	- ST VINCENT LESPINASSE](https://docs.stopcoronavirus.tech/w/markdown/82400_st-vincent-lespinasse/4XTTMAfp7sde5t85N2nFoVtoQ2J4RC3cYG3c2eJoDfq61r5s4-K3TgUVzVTrNrBKzJ7EB3k5qq8CuWVjYoh4VovaL6xqPk1dX6RZ1FQBnf7hpJxcNYDdqk7FjMZpntADhP3VruA93dXDFadF74FU3EfYVXiwXd59ZMSNtSDpJb4XVefPYqTLY8Kzi2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 82400 	- ST VINCENT LESPINASSE](https://docs.stopcoronavirus.tech/#/r/markdown/82400_st-vincent-lespinasse/4XTTMAfp7sde5t85N2nFoVtoQ2J4RC3cYG3c2eJoDfq61r5s4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 82400 	- ST VINCENT LESPINASSE](https://docs.stopcoronavirus.tech/#/w/markdown/82400_st-vincent-lespinasse/4XTTMAfp7sde5t85N2nFoVtoQ2J4RC3cYG3c2eJoDfq61r5s4-K3TgUVzVTrNrBKzJ7EB3k5qq8CuWVjYoh4VovaL6xqPk1dX6RZ1FQBnf7hpJxcNYDdqk7FjMZpntADhP3VruA93dXDFadF74FU3EfYVXiwXd59ZMSNtSDpJb4XVefPYqTLY8Kzi2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

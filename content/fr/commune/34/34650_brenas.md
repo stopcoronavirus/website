@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 34650 	- BRENAS](https://docs.stopcoronavirus.tech/r/markdown/34650_brenas/4XTTMGrXrqbUzu3fEeCw7Rbwcu4H7MdHUgXLCscaapog3Fc9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34650 	- BRENAS](https://docs.stopcoronavirus.tech/w/markdown/34650_brenas/4XTTMGrXrqbUzu3fEeCw7Rbwcu4H7MdHUgXLCscaapog3Fc9H-K3TgV7puSizEcCEhj4EQpqJLY61CxvwSBbREBzTPTTLvXPiwaXcfcfSG4zNazBEq6sjwynavHQJRPqvBxdbjo6JB3HcwatnHbTT88Boz5xZB2tiUpd7mjoH8y8pkoZHGh4HL3ZMu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34650 	- BRENAS](https://docs.stopcoronavirus.tech/#/r/markdown/34650_brenas/4XTTMGrXrqbUzu3fEeCw7Rbwcu4H7MdHUgXLCscaapog3Fc9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34650 	- BRENAS](https://docs.stopcoronavirus.tech/#/w/markdown/34650_brenas/4XTTMGrXrqbUzu3fEeCw7Rbwcu4H7MdHUgXLCscaapog3Fc9H-K3TgV7puSizEcCEhj4EQpqJLY61CxvwSBbREBzTPTTLvXPiwaXcfcfSG4zNazBEq6sjwynavHQJRPqvBxdbjo6JB3HcwatnHbTT88Boz5xZB2tiUpd7mjoH8y8pkoZHGh4HL3ZMu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50480 	- LIESVILLE SUR DOUVE](https://docs.stopcoronavirus.tech/r/markdown/50480_liesville-sur-douve/4XTTM9DeNTc96sJWnJmLCZz9THvcvXEM3YAUkHEnKGTdj5eKX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50480 	- LIESVILLE SUR DOUVE](https://docs.stopcoronavirus.tech/w/markdown/50480_liesville-sur-douve/4XTTM9DeNTc96sJWnJmLCZz9THvcvXEM3YAUkHEnKGTdj5eKX-K3TgUcfdiFSA93sdgV8sr4Scg2eCp5xkT9BfPVhqbPfe4q58KsCinAWtPcEcKtx4xS7XMDjom5728RuifF3FGtnTBZxT9LNfzAG6egSnhRFyHRdsbvMNw8jJWACmsVaQJ54rWk61) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50480 	- LIESVILLE SUR DOUVE](https://docs.stopcoronavirus.tech/#/r/markdown/50480_liesville-sur-douve/4XTTM9DeNTc96sJWnJmLCZz9THvcvXEM3YAUkHEnKGTdj5eKX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50480 	- LIESVILLE SUR DOUVE](https://docs.stopcoronavirus.tech/#/w/markdown/50480_liesville-sur-douve/4XTTM9DeNTc96sJWnJmLCZz9THvcvXEM3YAUkHEnKGTdj5eKX-K3TgUcfdiFSA93sdgV8sr4Scg2eCp5xkT9BfPVhqbPfe4q58KsCinAWtPcEcKtx4xS7XMDjom5728RuifF3FGtnTBZxT9LNfzAG6egSnhRFyHRdsbvMNw8jJWACmsVaQJ54rWk61) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

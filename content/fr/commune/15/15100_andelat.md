@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15100 	- ANDELAT](https://docs.stopcoronavirus.tech/r/markdown/15100_andelat/4XTTMEbffvbUBYyvHbTu3jFab8zVWLp5bXbeBw1E8h21Wxcnz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15100 	- ANDELAT](https://docs.stopcoronavirus.tech/w/markdown/15100_andelat/4XTTMEbffvbUBYyvHbTu3jFab8zVWLp5bXbeBw1E8h21Wxcnz-K3TgUZnvA1kMii9v9U9JZ8Z1PSJXnsP9psXUENuu5nZawnB17NyoNDcbmn1tt4f1BBhURw7xxZHU6w3oSWQKQ9LTTnKWaAJ2NCEy1h9949gJ28TV1T4J5gnUSqRULoYQFj31V1NW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15100 	- ANDELAT](https://docs.stopcoronavirus.tech/#/r/markdown/15100_andelat/4XTTMEbffvbUBYyvHbTu3jFab8zVWLp5bXbeBw1E8h21Wxcnz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15100 	- ANDELAT](https://docs.stopcoronavirus.tech/#/w/markdown/15100_andelat/4XTTMEbffvbUBYyvHbTu3jFab8zVWLp5bXbeBw1E8h21Wxcnz-K3TgUZnvA1kMii9v9U9JZ8Z1PSJXnsP9psXUENuu5nZawnB17NyoNDcbmn1tt4f1BBhURw7xxZHU6w3oSWQKQ9LTTnKWaAJ2NCEy1h9949gJ28TV1T4J5gnUSqRULoYQFj31V1NW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

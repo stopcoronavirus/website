@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70500 	- ROSIERES SUR MANCE](https://docs.stopcoronavirus.tech/r/markdown/70500_rosieres-sur-mance/4XTTMAfkzB4WZvK98xUbGBTzGtHhkL3o6V8LSdaE3iwYe8SiH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70500 	- ROSIERES SUR MANCE](https://docs.stopcoronavirus.tech/w/markdown/70500_rosieres-sur-mance/4XTTMAfkzB4WZvK98xUbGBTzGtHhkL3o6V8LSdaE3iwYe8SiH-K3TgTobdCPQ5FaE8XaNeGNx42RJMDeF5tLYvAeEwENnKPqWsmvPzVmShHprRVG82bpDMb7NmCPUNi9STgnxbbw75NY4ey6N6uY6nfPQ59mGYpyjWfdenEaK5YrBWs44xxhsCop2q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70500 	- ROSIERES SUR MANCE](https://docs.stopcoronavirus.tech/#/r/markdown/70500_rosieres-sur-mance/4XTTMAfkzB4WZvK98xUbGBTzGtHhkL3o6V8LSdaE3iwYe8SiH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70500 	- ROSIERES SUR MANCE](https://docs.stopcoronavirus.tech/#/w/markdown/70500_rosieres-sur-mance/4XTTMAfkzB4WZvK98xUbGBTzGtHhkL3o6V8LSdaE3iwYe8SiH-K3TgTobdCPQ5FaE8XaNeGNx42RJMDeF5tLYvAeEwENnKPqWsmvPzVmShHprRVG82bpDMb7NmCPUNi9STgnxbbw75NY4ey6N6uY6nfPQ59mGYpyjWfdenEaK5YrBWs44xxhsCop2q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

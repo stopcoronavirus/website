@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50220 	- JUILLEY](https://docs.stopcoronavirus.tech/r/markdown/50220_juilley/4XTTM5F3skJK6oBMRaCmpbUD7tSvZEsuhH7qpM3Kj14rMEmo4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50220 	- JUILLEY](https://docs.stopcoronavirus.tech/w/markdown/50220_juilley/4XTTM5F3skJK6oBMRaCmpbUD7tSvZEsuhH7qpM3Kj14rMEmo4-K3TgUNKeJPYmxJfZEVQGcAPctPTav8oc1sPV7XGJvcVcFQav8ci9c8x9ExJYDPDqM53SRGLq7VLYh52C49Q5ptcRFEbmBRjm7uhYxXCCpd1x6NmaktnELwzZAEqbVBTNwrXYNbUi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50220 	- JUILLEY](https://docs.stopcoronavirus.tech/#/r/markdown/50220_juilley/4XTTM5F3skJK6oBMRaCmpbUD7tSvZEsuhH7qpM3Kj14rMEmo4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50220 	- JUILLEY](https://docs.stopcoronavirus.tech/#/w/markdown/50220_juilley/4XTTM5F3skJK6oBMRaCmpbUD7tSvZEsuhH7qpM3Kj14rMEmo4-K3TgUNKeJPYmxJfZEVQGcAPctPTav8oc1sPV7XGJvcVcFQav8ci9c8x9ExJYDPDqM53SRGLq7VLYh52C49Q5ptcRFEbmBRjm7uhYxXCCpd1x6NmaktnELwzZAEqbVBTNwrXYNbUi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

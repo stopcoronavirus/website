@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 52000 	- BRETHENAY](https://docs.stopcoronavirus.tech/r/markdown/52000_brethenay/4XTTM2vDd7yPXDUC7u1o2hQzWqS7WJFeghMJUyH5VQcbWG7AR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52000 	- BRETHENAY](https://docs.stopcoronavirus.tech/w/markdown/52000_brethenay/4XTTM2vDd7yPXDUC7u1o2hQzWqS7WJFeghMJUyH5VQcbWG7AR-K3TgUytpYbPbFsf8vJjbNAeryEwemFs4D5pvhDejUn9A2RCebiiRDqPJLadAH8TkicVLByUgwjT5Ed31W2KEMvuXYsx4WP3wuyLyaEenZjjhiZXkDZwRTqXKYEEJMHWknYKQrNPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52000 	- BRETHENAY](https://docs.stopcoronavirus.tech/#/r/markdown/52000_brethenay/4XTTM2vDd7yPXDUC7u1o2hQzWqS7WJFeghMJUyH5VQcbWG7AR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52000 	- BRETHENAY](https://docs.stopcoronavirus.tech/#/w/markdown/52000_brethenay/4XTTM2vDd7yPXDUC7u1o2hQzWqS7WJFeghMJUyH5VQcbWG7AR-K3TgUytpYbPbFsf8vJjbNAeryEwemFs4D5pvhDejUn9A2RCebiiRDqPJLadAH8TkicVLByUgwjT5Ed31W2KEMvuXYsx4WP3wuyLyaEenZjjhiZXkDZwRTqXKYEEJMHWknYKQrNPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

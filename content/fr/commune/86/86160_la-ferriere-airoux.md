@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86160 	- LA FERRIERE AIROUX](https://docs.stopcoronavirus.tech/r/markdown/86160_la-ferriere-airoux/4XTTMFiqqygEwg5FBWJF6ib5kdmSH2cD5b5T4ui9hBLm6vo5J) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86160 	- LA FERRIERE AIROUX](https://docs.stopcoronavirus.tech/w/markdown/86160_la-ferriere-airoux/4XTTMFiqqygEwg5FBWJF6ib5kdmSH2cD5b5T4ui9hBLm6vo5J-K3TgU6NuXuuUh6JghPKF4oaPrSe8RKXtaifQ99kqeaAFFTH1p6GBKNb5YEGoeM8waYmuE58peCKZFgKMXdsUx8cb76V5m3PqM1WZxNmpnmssVfZuWe6KKXek9j4evY2m5NQ6ddtU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86160 	- LA FERRIERE AIROUX](https://docs.stopcoronavirus.tech/#/r/markdown/86160_la-ferriere-airoux/4XTTMFiqqygEwg5FBWJF6ib5kdmSH2cD5b5T4ui9hBLm6vo5J) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86160 	- LA FERRIERE AIROUX](https://docs.stopcoronavirus.tech/#/w/markdown/86160_la-ferriere-airoux/4XTTMFiqqygEwg5FBWJF6ib5kdmSH2cD5b5T4ui9hBLm6vo5J-K3TgU6NuXuuUh6JghPKF4oaPrSe8RKXtaifQ99kqeaAFFTH1p6GBKNb5YEGoeM8waYmuE58peCKZFgKMXdsUx8cb76V5m3PqM1WZxNmpnmssVfZuWe6KKXek9j4evY2m5NQ6ddtU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

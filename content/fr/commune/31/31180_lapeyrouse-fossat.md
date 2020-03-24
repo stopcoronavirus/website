@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 31180 	- LAPEYROUSE FOSSAT](https://docs.stopcoronavirus.tech/r/markdown/31180_lapeyrouse-fossat/4XTTM3yPS4ifp1FnU2RJPxZVEHB6A7g6ScRBazCtRn56HVBSy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31180 	- LAPEYROUSE FOSSAT](https://docs.stopcoronavirus.tech/w/markdown/31180_lapeyrouse-fossat/4XTTM3yPS4ifp1FnU2RJPxZVEHB6A7g6ScRBazCtRn56HVBSy-K3TgUeMqftbjv43GtXBvpfcec5NpPmrNikfNtw7okRm83Lp8CkTpYvGG483Ys3SzPXwiorF4hzjr4B3d3jRNx5deXXVaX2Jqx6mBKJASEYKpZGBwFHsgq2JWAHBjKazW6c2RfDQM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31180 	- LAPEYROUSE FOSSAT](https://docs.stopcoronavirus.tech/#/r/markdown/31180_lapeyrouse-fossat/4XTTM3yPS4ifp1FnU2RJPxZVEHB6A7g6ScRBazCtRn56HVBSy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31180 	- LAPEYROUSE FOSSAT](https://docs.stopcoronavirus.tech/#/w/markdown/31180_lapeyrouse-fossat/4XTTM3yPS4ifp1FnU2RJPxZVEHB6A7g6ScRBazCtRn56HVBSy-K3TgUeMqftbjv43GtXBvpfcec5NpPmrNikfNtw7okRm83Lp8CkTpYvGG483Ys3SzPXwiorF4hzjr4B3d3jRNx5deXXVaX2Jqx6mBKJASEYKpZGBwFHsgq2JWAHBjKazW6c2RfDQM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

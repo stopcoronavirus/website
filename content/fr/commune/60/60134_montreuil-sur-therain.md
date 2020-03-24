@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60134 	- MONTREUIL SUR THERAIN](https://docs.stopcoronavirus.tech/r/markdown/60134_montreuil-sur-therain/4XTTM5M64k4sdni9LgDu1QkamjN6wyNna5LSMfE5HMawkWWsP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60134 	- MONTREUIL SUR THERAIN](https://docs.stopcoronavirus.tech/w/markdown/60134_montreuil-sur-therain/4XTTM5M64k4sdni9LgDu1QkamjN6wyNna5LSMfE5HMawkWWsP-K3TgUWgqgXCW9edT8PtRpf6DTuJFm5zo3E5faygUcdB2LoqX3E26FhoxciuKx5yMCvLUiPeKEabya9WBU3hmVLQDf6d4LH1qSR2mmUbYg1UY4pn4cPG8FMTNhtMu4AzZmv7FoV8Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60134 	- MONTREUIL SUR THERAIN](https://docs.stopcoronavirus.tech/#/r/markdown/60134_montreuil-sur-therain/4XTTM5M64k4sdni9LgDu1QkamjN6wyNna5LSMfE5HMawkWWsP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60134 	- MONTREUIL SUR THERAIN](https://docs.stopcoronavirus.tech/#/w/markdown/60134_montreuil-sur-therain/4XTTM5M64k4sdni9LgDu1QkamjN6wyNna5LSMfE5HMawkWWsP-K3TgUWgqgXCW9edT8PtRpf6DTuJFm5zo3E5faygUcdB2LoqX3E26FhoxciuKx5yMCvLUiPeKEabya9WBU3hmVLQDf6d4LH1qSR2mmUbYg1UY4pn4cPG8FMTNhtMu4AzZmv7FoV8Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

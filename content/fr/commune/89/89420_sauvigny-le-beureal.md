@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89420 	- SAUVIGNY LE BEUREAL](https://docs.stopcoronavirus.tech/r/markdown/89420_sauvigny-le-beureal/4XTTMHmCtGyY1pGitnNBhHsr7f5qZHWKaKnp7ajp7sR77ULDS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89420 	- SAUVIGNY LE BEUREAL](https://docs.stopcoronavirus.tech/w/markdown/89420_sauvigny-le-beureal/4XTTMHmCtGyY1pGitnNBhHsr7f5qZHWKaKnp7ajp7sR77ULDS-K3TgUPUQF7WVT4M3EVSAAfgCVRmbUttX45jrAnWiDiPvefcTMiMH8J8zWPN3Ga86urX1Au5JeaxD5K3yfE795862VRyxiH9HBRSVB2D2nTxhy9CFSo9BVcXZKhLzhavbbtEPBufS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89420 	- SAUVIGNY LE BEUREAL](https://docs.stopcoronavirus.tech/#/r/markdown/89420_sauvigny-le-beureal/4XTTMHmCtGyY1pGitnNBhHsr7f5qZHWKaKnp7ajp7sR77ULDS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89420 	- SAUVIGNY LE BEUREAL](https://docs.stopcoronavirus.tech/#/w/markdown/89420_sauvigny-le-beureal/4XTTMHmCtGyY1pGitnNBhHsr7f5qZHWKaKnp7ajp7sR77ULDS-K3TgUPUQF7WVT4M3EVSAAfgCVRmbUttX45jrAnWiDiPvefcTMiMH8J8zWPN3Ga86urX1Au5JeaxD5K3yfE795862VRyxiH9HBRSVB2D2nTxhy9CFSo9BVcXZKhLzhavbbtEPBufS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

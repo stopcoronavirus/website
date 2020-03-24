@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 93430 	- VILLETANEUSE](https://docs.stopcoronavirus.tech/r/markdown/93430_villetaneuse/4XTTM46evqzwdQnLWF9pepGs5kdNEVhDYAjdbGj6fFtDbryLz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93430 	- VILLETANEUSE](https://docs.stopcoronavirus.tech/w/markdown/93430_villetaneuse/4XTTM46evqzwdQnLWF9pepGs5kdNEVhDYAjdbGj6fFtDbryLz-K3TgUeMna1VMrq2NLcNyte9qtBfwWWGazSBxhg467kH7tTUXWxtcPsnzt6qUPD5Y4zC1GehWqgqrJkbo48FVCEpecxzJYtkNQGPcpP7Q2Zmrw4VeDZ247aHtXFWA9XeNg14XfdF4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 93430 	- VILLETANEUSE](https://docs.stopcoronavirus.tech/#/r/markdown/93430_villetaneuse/4XTTM46evqzwdQnLWF9pepGs5kdNEVhDYAjdbGj6fFtDbryLz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 93430 	- VILLETANEUSE](https://docs.stopcoronavirus.tech/#/w/markdown/93430_villetaneuse/4XTTM46evqzwdQnLWF9pepGs5kdNEVhDYAjdbGj6fFtDbryLz-K3TgUeMna1VMrq2NLcNyte9qtBfwWWGazSBxhg467kH7tTUXWxtcPsnzt6qUPD5Y4zC1GehWqgqrJkbo48FVCEpecxzJYtkNQGPcpP7Q2Zmrw4VeDZ247aHtXFWA9XeNg14XfdF4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33350 	- MOULIETS ET VILLEMARTIN](https://docs.stopcoronavirus.tech/r/markdown/33350_mouliets-et-villemartin/4XTTM56uwniXN9VNZxm7ri326whnTA3At1YNdcWVS1HaBJMSG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33350 	- MOULIETS ET VILLEMARTIN](https://docs.stopcoronavirus.tech/w/markdown/33350_mouliets-et-villemartin/4XTTM56uwniXN9VNZxm7ri326whnTA3At1YNdcWVS1HaBJMSG-K3TgUquF6rVAZnCqrg3gN724BwQD2aCpfm9KB95rFJkKUsm4Lm9i2ZHqiZmHJQvtKJbLcp2tDi79u6HRmQQKv6jt6ECnuE6z5hAAWf9M5w8etkju13tUhUXBLSkYov41sL99P37W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33350 	- MOULIETS ET VILLEMARTIN](https://docs.stopcoronavirus.tech/#/r/markdown/33350_mouliets-et-villemartin/4XTTM56uwniXN9VNZxm7ri326whnTA3At1YNdcWVS1HaBJMSG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33350 	- MOULIETS ET VILLEMARTIN](https://docs.stopcoronavirus.tech/#/w/markdown/33350_mouliets-et-villemartin/4XTTM56uwniXN9VNZxm7ri326whnTA3At1YNdcWVS1HaBJMSG-K3TgUquF6rVAZnCqrg3gN724BwQD2aCpfm9KB95rFJkKUsm4Lm9i2ZHqiZmHJQvtKJbLcp2tDi79u6HRmQQKv6jt6ECnuE6z5hAAWf9M5w8etkju13tUhUXBLSkYov41sL99P37W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

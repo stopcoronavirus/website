@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21520 	- VEUXHAULLES SUR AUBE](https://docs.stopcoronavirus.tech/r/markdown/21520_veuxhaulles-sur-aube/4XTTM426w5hAFkiecDqcL95S8MMcveBnMZwbys8Yx9cLFnTYS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21520 	- VEUXHAULLES SUR AUBE](https://docs.stopcoronavirus.tech/w/markdown/21520_veuxhaulles-sur-aube/4XTTM426w5hAFkiecDqcL95S8MMcveBnMZwbys8Yx9cLFnTYS-K3TgUgHJqVoDCMqmT8tLeb1FQHRhxVHyj3eyZrqrBpv6st3dsMiyfS2f7V7aDwHkAq7p11vmiGFWFZcUmiHzKUia34jUZq8T6pFmqrBg3Xy3f2ip43C9zHER9ZedufocqhMXk1hg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21520 	- VEUXHAULLES SUR AUBE](https://docs.stopcoronavirus.tech/#/r/markdown/21520_veuxhaulles-sur-aube/4XTTM426w5hAFkiecDqcL95S8MMcveBnMZwbys8Yx9cLFnTYS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21520 	- VEUXHAULLES SUR AUBE](https://docs.stopcoronavirus.tech/#/w/markdown/21520_veuxhaulles-sur-aube/4XTTM426w5hAFkiecDqcL95S8MMcveBnMZwbys8Yx9cLFnTYS-K3TgUgHJqVoDCMqmT8tLeb1FQHRhxVHyj3eyZrqrBpv6st3dsMiyfS2f7V7aDwHkAq7p11vmiGFWFZcUmiHzKUia34jUZq8T6pFmqrBg3Xy3f2ip43C9zHER9ZedufocqhMXk1hg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

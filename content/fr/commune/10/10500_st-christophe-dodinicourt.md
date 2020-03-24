@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10500 	- ST CHRISTOPHE DODINICOURT](https://docs.stopcoronavirus.tech/r/markdown/10500_st-christophe-dodinicourt/4XTTM9Vf2w9xaBGULDg2fenB4uqsS33Lov3dsWwf9Td1488Bd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10500 	- ST CHRISTOPHE DODINICOURT](https://docs.stopcoronavirus.tech/w/markdown/10500_st-christophe-dodinicourt/4XTTM9Vf2w9xaBGULDg2fenB4uqsS33Lov3dsWwf9Td1488Bd-K3TgUMzKugz2pK9R1BAjVXrHYD8mtmsQhYLYJf3VCXrPCfgt5RVCvT9iGkbibJRPTfJwYkkjvoXs6oYGe4GVBon9f52g1sVCx2VxM1BXMiadzyzp6RSi8tybpKrJN18DSDooZBEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10500 	- ST CHRISTOPHE DODINICOURT](https://docs.stopcoronavirus.tech/#/r/markdown/10500_st-christophe-dodinicourt/4XTTM9Vf2w9xaBGULDg2fenB4uqsS33Lov3dsWwf9Td1488Bd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10500 	- ST CHRISTOPHE DODINICOURT](https://docs.stopcoronavirus.tech/#/w/markdown/10500_st-christophe-dodinicourt/4XTTM9Vf2w9xaBGULDg2fenB4uqsS33Lov3dsWwf9Td1488Bd-K3TgUMzKugz2pK9R1BAjVXrHYD8mtmsQhYLYJf3VCXrPCfgt5RVCvT9iGkbibJRPTfJwYkkjvoXs6oYGe4GVBon9f52g1sVCx2VxM1BXMiadzyzp6RSi8tybpKrJN18DSDooZBEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

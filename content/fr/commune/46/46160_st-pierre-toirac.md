@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 46160 	- ST PIERRE TOIRAC](https://docs.stopcoronavirus.tech/r/markdown/46160_st-pierre-toirac/4XTTMD3g7ULFo13FtDnemzDJTTJK9KFbuLd4K4QVGvgyT568f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46160 	- ST PIERRE TOIRAC](https://docs.stopcoronavirus.tech/w/markdown/46160_st-pierre-toirac/4XTTMD3g7ULFo13FtDnemzDJTTJK9KFbuLd4K4QVGvgyT568f-K3TgU1qKxmrTHQvxrR241JnALDDEo4K2WwmcPZLF75tkN5AuEKS4QYmh2a4Q3PnXXkFMYydUQjVxNZZa2gg9uhmJ47nfhxQKAKENjUG8cxpBrxPieXJ9wpp6iB43pYaQnhy9EyY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46160 	- ST PIERRE TOIRAC](https://docs.stopcoronavirus.tech/#/r/markdown/46160_st-pierre-toirac/4XTTMD3g7ULFo13FtDnemzDJTTJK9KFbuLd4K4QVGvgyT568f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46160 	- ST PIERRE TOIRAC](https://docs.stopcoronavirus.tech/#/w/markdown/46160_st-pierre-toirac/4XTTMD3g7ULFo13FtDnemzDJTTJK9KFbuLd4K4QVGvgyT568f-K3TgU1qKxmrTHQvxrR241JnALDDEo4K2WwmcPZLF75tkN5AuEKS4QYmh2a4Q3PnXXkFMYydUQjVxNZZa2gg9uhmJ47nfhxQKAKENjUG8cxpBrxPieXJ9wpp6iB43pYaQnhy9EyY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

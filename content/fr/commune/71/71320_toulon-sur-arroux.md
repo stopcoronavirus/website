@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71320 	- TOULON SUR ARROUX](https://docs.stopcoronavirus.tech/r/markdown/71320_toulon-sur-arroux/4XTTMDx5uWKu3NQv3asKznYUh6nfwr6n7uhdSWngtji7z32kY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71320 	- TOULON SUR ARROUX](https://docs.stopcoronavirus.tech/w/markdown/71320_toulon-sur-arroux/4XTTMDx5uWKu3NQv3asKznYUh6nfwr6n7uhdSWngtji7z32kY-K3TgUroCzrT2qZTJ3tB87TuZ7uVAj6JPWmzrNUdGq1mZWV7Rjoqw8BfZDSWFvrJ3UtrwZPksXko2QF9XN62uPhnskPK5v7MFoFyGhAJmG5PnNAGc536dCuYvhweYkrRb8r36Wooe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71320 	- TOULON SUR ARROUX](https://docs.stopcoronavirus.tech/#/r/markdown/71320_toulon-sur-arroux/4XTTMDx5uWKu3NQv3asKznYUh6nfwr6n7uhdSWngtji7z32kY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71320 	- TOULON SUR ARROUX](https://docs.stopcoronavirus.tech/#/w/markdown/71320_toulon-sur-arroux/4XTTMDx5uWKu3NQv3asKznYUh6nfwr6n7uhdSWngtji7z32kY-K3TgUroCzrT2qZTJ3tB87TuZ7uVAj6JPWmzrNUdGq1mZWV7Rjoqw8BfZDSWFvrJ3UtrwZPksXko2QF9XN62uPhnskPK5v7MFoFyGhAJmG5PnNAGc536dCuYvhweYkrRb8r36Wooe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42800 	- STE CROIX EN JAREZ](https://docs.stopcoronavirus.tech/r/markdown/42800_ste-croix-en-jarez/4XTTM3facZEooCd5GiYkbhanZa1EBT2QhMDiCoYNmxrZRYrzH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42800 	- STE CROIX EN JAREZ](https://docs.stopcoronavirus.tech/w/markdown/42800_ste-croix-en-jarez/4XTTM3facZEooCd5GiYkbhanZa1EBT2QhMDiCoYNmxrZRYrzH-K3TgUjaTXAp6s3wtTKvDczChM1PtJSUm4FEWQihjux9TyDwY8nspNhKmxS9VP173bwJSo8hGmYxoNrfgCS9S5mKb6NRwVK7Vee95kb2Q65ne9xUsciRSmEoB6TptkPCBtj42jmUh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42800 	- STE CROIX EN JAREZ](https://docs.stopcoronavirus.tech/#/r/markdown/42800_ste-croix-en-jarez/4XTTM3facZEooCd5GiYkbhanZa1EBT2QhMDiCoYNmxrZRYrzH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42800 	- STE CROIX EN JAREZ](https://docs.stopcoronavirus.tech/#/w/markdown/42800_ste-croix-en-jarez/4XTTM3facZEooCd5GiYkbhanZa1EBT2QhMDiCoYNmxrZRYrzH-K3TgUjaTXAp6s3wtTKvDczChM1PtJSUm4FEWQihjux9TyDwY8nspNhKmxS9VP173bwJSo8hGmYxoNrfgCS9S5mKb6NRwVK7Vee95kb2Q65ne9xUsciRSmEoB6TptkPCBtj42jmUh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

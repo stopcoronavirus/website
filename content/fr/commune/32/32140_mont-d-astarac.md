@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32140 	- MONT D ASTARAC](https://docs.stopcoronavirus.tech/r/markdown/32140_mont-d-astarac/4XTTM9KMusk626gAuhG52CbhEFSKTjo5XGeZSZXKZqadq1HHy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32140 	- MONT D ASTARAC](https://docs.stopcoronavirus.tech/w/markdown/32140_mont-d-astarac/4XTTM9KMusk626gAuhG52CbhEFSKTjo5XGeZSZXKZqadq1HHy-K3TgUYizG9CmpUpBQFcU6XybLBiUxPqXi6MBo6tj58FzsJtm8eGfrtCb1jx431HCuJQJT6UH5kEtpQw5vyW7N3wxYhgLfoKG5VHqMGpuVGRKBeLin2t7RtFx4S3Anb5tbhVPhj4b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32140 	- MONT D ASTARAC](https://docs.stopcoronavirus.tech/#/r/markdown/32140_mont-d-astarac/4XTTM9KMusk626gAuhG52CbhEFSKTjo5XGeZSZXKZqadq1HHy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32140 	- MONT D ASTARAC](https://docs.stopcoronavirus.tech/#/w/markdown/32140_mont-d-astarac/4XTTM9KMusk626gAuhG52CbhEFSKTjo5XGeZSZXKZqadq1HHy-K3TgUYizG9CmpUpBQFcU6XybLBiUxPqXi6MBo6tj58FzsJtm8eGfrtCb1jx431HCuJQJT6UH5kEtpQw5vyW7N3wxYhgLfoKG5VHqMGpuVGRKBeLin2t7RtFx4S3Anb5tbhVPhj4b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 56470 	- LA TRINITE SUR MER](https://docs.stopcoronavirus.tech/r/markdown/56470_la-trinite-sur-mer/4XTTMEQ1ZBxi3gUgKaPqeSaU65HJxVahfwyLvH3xjhd3q4Swo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56470 	- LA TRINITE SUR MER](https://docs.stopcoronavirus.tech/w/markdown/56470_la-trinite-sur-mer/4XTTMEQ1ZBxi3gUgKaPqeSaU65HJxVahfwyLvH3xjhd3q4Swo-K3TgTk8EdaXmRVDwNFh5MnEZCr8UAYW7bEZmVV3d5xJ3M98Jmgn525ExHtAX2t5JYQWkSn8jMTSfDTn2du7kTMtbwuegR9LFqX78QXFyM7JTZjruqVay7YHSghmJto5pQEeoMNyb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56470 	- LA TRINITE SUR MER](https://docs.stopcoronavirus.tech/#/r/markdown/56470_la-trinite-sur-mer/4XTTMEQ1ZBxi3gUgKaPqeSaU65HJxVahfwyLvH3xjhd3q4Swo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56470 	- LA TRINITE SUR MER](https://docs.stopcoronavirus.tech/#/w/markdown/56470_la-trinite-sur-mer/4XTTMEQ1ZBxi3gUgKaPqeSaU65HJxVahfwyLvH3xjhd3q4Swo-K3TgTk8EdaXmRVDwNFh5MnEZCr8UAYW7bEZmVV3d5xJ3M98Jmgn525ExHtAX2t5JYQWkSn8jMTSfDTn2du7kTMtbwuegR9LFqX78QXFyM7JTZjruqVay7YHSghmJto5pQEeoMNyb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 56 	- Morbihan](https://docs.stopcoronavirus.tech/#/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

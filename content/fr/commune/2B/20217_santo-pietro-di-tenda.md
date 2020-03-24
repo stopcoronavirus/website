@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20217 	- SANTO PIETRO DI TENDA](https://docs.stopcoronavirus.tech/r/markdown/20217_santo-pietro-di-tenda/4XTTMGa9jDPxBNJ7gVCGtmNVN2GXsvfbEnFW44jcChtELyw6h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20217 	- SANTO PIETRO DI TENDA](https://docs.stopcoronavirus.tech/w/markdown/20217_santo-pietro-di-tenda/4XTTMGa9jDPxBNJ7gVCGtmNVN2GXsvfbEnFW44jcChtELyw6h-K3TgTkZpWj6tT1YZe5SfL2WJSVSxdSsezJqAoCsDG76R9dbDYwEkL74VXun1eSTP9F3SvrC27qTaXoYQGqCgjqZXbTnM2oisraJGChkJ4tgWezKKeDv6imcG7jW8iPbZEHveBGK3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20217 	- SANTO PIETRO DI TENDA](https://docs.stopcoronavirus.tech/#/r/markdown/20217_santo-pietro-di-tenda/4XTTMGa9jDPxBNJ7gVCGtmNVN2GXsvfbEnFW44jcChtELyw6h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20217 	- SANTO PIETRO DI TENDA](https://docs.stopcoronavirus.tech/#/w/markdown/20217_santo-pietro-di-tenda/4XTTMGa9jDPxBNJ7gVCGtmNVN2GXsvfbEnFW44jcChtELyw6h-K3TgTkZpWj6tT1YZe5SfL2WJSVSxdSsezJqAoCsDG76R9dbDYwEkL74VXun1eSTP9F3SvrC27qTaXoYQGqCgjqZXbTnM2oisraJGChkJ4tgWezKKeDv6imcG7jW8iPbZEHveBGK3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

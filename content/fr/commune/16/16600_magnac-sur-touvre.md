@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16600 	- MAGNAC SUR TOUVRE](https://docs.stopcoronavirus.tech/r/markdown/16600_magnac-sur-touvre/4XTTM5eXtDJAZ7h5G7gmXpawrEWaFiccPxAwmtrMSdmWzg8bQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16600 	- MAGNAC SUR TOUVRE](https://docs.stopcoronavirus.tech/w/markdown/16600_magnac-sur-touvre/4XTTM5eXtDJAZ7h5G7gmXpawrEWaFiccPxAwmtrMSdmWzg8bQ-K3TgUxvSVAsZ5Jpr8jX36KkxLAebq8ipQp6sg5io3nWmQnacsdcjPG6abjEXsGG9Mt4644fxsr76YwmABvnUt6RZ6sCsvuwYFePdnzPchsqiUty1mQWRTrmTHCb17VhZU5tNTY2z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16600 	- MAGNAC SUR TOUVRE](https://docs.stopcoronavirus.tech/#/r/markdown/16600_magnac-sur-touvre/4XTTM5eXtDJAZ7h5G7gmXpawrEWaFiccPxAwmtrMSdmWzg8bQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16600 	- MAGNAC SUR TOUVRE](https://docs.stopcoronavirus.tech/#/w/markdown/16600_magnac-sur-touvre/4XTTM5eXtDJAZ7h5G7gmXpawrEWaFiccPxAwmtrMSdmWzg8bQ-K3TgUxvSVAsZ5Jpr8jX36KkxLAebq8ipQp6sg5io3nWmQnacsdcjPG6abjEXsGG9Mt4644fxsr76YwmABvnUt6RZ6sCsvuwYFePdnzPchsqiUty1mQWRTrmTHCb17VhZU5tNTY2z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

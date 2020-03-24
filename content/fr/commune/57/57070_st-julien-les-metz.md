@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 57070 	- ST JULIEN LES METZ](https://docs.stopcoronavirus.tech/r/markdown/57070_st-julien-les-metz/4XTTM7sBj5mtduv6MvsXbKKxeqn175hZZYiwaeLrxw7utQegm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57070 	- ST JULIEN LES METZ](https://docs.stopcoronavirus.tech/w/markdown/57070_st-julien-les-metz/4XTTM7sBj5mtduv6MvsXbKKxeqn175hZZYiwaeLrxw7utQegm-K3TgUWEDpuJqbv31YL3kcVzfX6s2wGdoLGBrQ2fNEDp7W6GCbsDsckn8435pjssYPyiN3E4SJ1xQ7vkoMDKCz5fAoa9xAwtEf35RYcyyCQbaBnENjiddsTRBi9JhtZNXdEGnjsky) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57070 	- ST JULIEN LES METZ](https://docs.stopcoronavirus.tech/#/r/markdown/57070_st-julien-les-metz/4XTTM7sBj5mtduv6MvsXbKKxeqn175hZZYiwaeLrxw7utQegm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57070 	- ST JULIEN LES METZ](https://docs.stopcoronavirus.tech/#/w/markdown/57070_st-julien-les-metz/4XTTM7sBj5mtduv6MvsXbKKxeqn175hZZYiwaeLrxw7utQegm-K3TgUWEDpuJqbv31YL3kcVzfX6s2wGdoLGBrQ2fNEDp7W6GCbsDsckn8435pjssYPyiN3E4SJ1xQ7vkoMDKCz5fAoa9xAwtEf35RYcyyCQbaBnENjiddsTRBi9JhtZNXdEGnjsky) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

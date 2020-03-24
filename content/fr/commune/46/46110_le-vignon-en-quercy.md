@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 46110 	- LE VIGNON EN QUERCY](https://docs.stopcoronavirus.tech/r/markdown/46110_le-vignon-en-quercy/4XTTMH9fcQ7aEsbxHFkQjULegrdSe9aGzpGVgWxuHeukRcQ2k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46110 	- LE VIGNON EN QUERCY](https://docs.stopcoronavirus.tech/w/markdown/46110_le-vignon-en-quercy/4XTTMH9fcQ7aEsbxHFkQjULegrdSe9aGzpGVgWxuHeukRcQ2k-K3TgUTe2EpRGTEefe41ZtBRcXbcLzjLFgPAEa9aq7rhGmn2HTc4nLHvJWF33vFSEBhZasEbZ83sGovJmeUvBoQxkahkBMHKAEd5XvWpAocZ1Y5PC5rvucmQzQdSW8N3o1zaqGJwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46110 	- LE VIGNON EN QUERCY](https://docs.stopcoronavirus.tech/#/r/markdown/46110_le-vignon-en-quercy/4XTTMH9fcQ7aEsbxHFkQjULegrdSe9aGzpGVgWxuHeukRcQ2k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46110 	- LE VIGNON EN QUERCY](https://docs.stopcoronavirus.tech/#/w/markdown/46110_le-vignon-en-quercy/4XTTMH9fcQ7aEsbxHFkQjULegrdSe9aGzpGVgWxuHeukRcQ2k-K3TgUTe2EpRGTEefe41ZtBRcXbcLzjLFgPAEa9aq7rhGmn2HTc4nLHvJWF33vFSEBhZasEbZ83sGovJmeUvBoQxkahkBMHKAEd5XvWpAocZ1Y5PC5rvucmQzQdSW8N3o1zaqGJwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

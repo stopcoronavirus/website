@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 92000 	- NANTERRE](https://docs.stopcoronavirus.tech/r/markdown/92000_nanterre/4XTTM5jhGgMtpTCKzJ7Dyva5gPCW13jHCgi8Xwap6zBcAy6gY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92000 	- NANTERRE](https://docs.stopcoronavirus.tech/w/markdown/92000_nanterre/4XTTM5jhGgMtpTCKzJ7Dyva5gPCW13jHCgi8Xwap6zBcAy6gY-K3TgUHqf7V2xzyQjcq8h4KaVZGV89DGfJuV2BMshVphTXAPBnsSNp8Y1med7WqVDQXt9ZKTzp9HRAkgAXfDJM2hp3KQcoZ5Xzmonu3igVC861NZn9k8hBD75GBsYXwPv8g2ATrLg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 92000 	- NANTERRE](https://docs.stopcoronavirus.tech/#/r/markdown/92000_nanterre/4XTTM5jhGgMtpTCKzJ7Dyva5gPCW13jHCgi8Xwap6zBcAy6gY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 92000 	- NANTERRE](https://docs.stopcoronavirus.tech/#/w/markdown/92000_nanterre/4XTTM5jhGgMtpTCKzJ7Dyva5gPCW13jHCgi8Xwap6zBcAy6gY-K3TgUHqf7V2xzyQjcq8h4KaVZGV89DGfJuV2BMshVphTXAPBnsSNp8Y1med7WqVDQXt9ZKTzp9HRAkgAXfDJM2hp3KQcoZ5Xzmonu3igVC861NZn9k8hBD75GBsYXwPv8g2ATrLg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

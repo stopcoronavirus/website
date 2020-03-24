@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60170 	- RIBECOURT DRESLINCOURT](https://docs.stopcoronavirus.tech/r/markdown/60170_ribecourt-dreslincourt/4XTTMCyiCyP2jzkX44Hu34ejJ4ZStnYgRXVpTtHha4qBeWfYV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60170 	- RIBECOURT DRESLINCOURT](https://docs.stopcoronavirus.tech/w/markdown/60170_ribecourt-dreslincourt/4XTTMCyiCyP2jzkX44Hu34ejJ4ZStnYgRXVpTtHha4qBeWfYV-K3TgTnCAXETnDAKiUYPPcWSjbSmxkwiQ1ZNd2giNaaD3UAuyXhTwEPL5kWFW14xVG6UMm1nSkcoKpZz56hPUD4CakyTEm2XwGX2X2qrF2vexD52V2NqfL7f4S6af7maLj8WihQ1f) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60170 	- RIBECOURT DRESLINCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/60170_ribecourt-dreslincourt/4XTTMCyiCyP2jzkX44Hu34ejJ4ZStnYgRXVpTtHha4qBeWfYV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60170 	- RIBECOURT DRESLINCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/60170_ribecourt-dreslincourt/4XTTMCyiCyP2jzkX44Hu34ejJ4ZStnYgRXVpTtHha4qBeWfYV-K3TgTnCAXETnDAKiUYPPcWSjbSmxkwiQ1ZNd2giNaaD3UAuyXhTwEPL5kWFW14xVG6UMm1nSkcoKpZz56hPUD4CakyTEm2XwGX2X2qrF2vexD52V2NqfL7f4S6af7maLj8WihQ1f) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

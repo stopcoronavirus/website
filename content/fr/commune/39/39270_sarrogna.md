@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 39270 	- SARROGNA](https://docs.stopcoronavirus.tech/r/markdown/39270_sarrogna/4XTTMEQ9QXAQWR4Tm4h6SEsP2kuudJUvyHKVk1oDbUCqNimBj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39270 	- SARROGNA](https://docs.stopcoronavirus.tech/w/markdown/39270_sarrogna/4XTTMEQ9QXAQWR4Tm4h6SEsP2kuudJUvyHKVk1oDbUCqNimBj-K3TgUgnWf3M9BMouJ5aQ9v99vL3pPoMEW7F5JJP9aeaxWB3xHGbC6g5GfYPuoNHLgdcq8cJs2jReF6VXCXMqpMqQBP2VECd32pyS9j187RNoyYvP3nmAyjCJmznbmD68HNuQzuKT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39270 	- SARROGNA](https://docs.stopcoronavirus.tech/#/r/markdown/39270_sarrogna/4XTTMEQ9QXAQWR4Tm4h6SEsP2kuudJUvyHKVk1oDbUCqNimBj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39270 	- SARROGNA](https://docs.stopcoronavirus.tech/#/w/markdown/39270_sarrogna/4XTTMEQ9QXAQWR4Tm4h6SEsP2kuudJUvyHKVk1oDbUCqNimBj-K3TgUgnWf3M9BMouJ5aQ9v99vL3pPoMEW7F5JJP9aeaxWB3xHGbC6g5GfYPuoNHLgdcq8cJs2jReF6VXCXMqpMqQBP2VECd32pyS9j187RNoyYvP3nmAyjCJmznbmD68HNuQzuKT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

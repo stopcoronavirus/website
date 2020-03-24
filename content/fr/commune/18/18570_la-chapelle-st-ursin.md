@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18570 	- LA CHAPELLE ST URSIN](https://docs.stopcoronavirus.tech/r/markdown/18570_la-chapelle-st-ursin/4XTTM5WCjGd8yWgBTxK2eSbFrZN3aFgtFD8hHAt4zwes7KcMj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18570 	- LA CHAPELLE ST URSIN](https://docs.stopcoronavirus.tech/w/markdown/18570_la-chapelle-st-ursin/4XTTM5WCjGd8yWgBTxK2eSbFrZN3aFgtFD8hHAt4zwes7KcMj-K3TgTmd6Ns3BWAfaywD9KHTRzB1G3MyPqtqdDtQ5Q9dptqx2csxpQR2czAkkW7vf4V71dmehaN4cske9kE5atthjqgwZBetZqhqhtG8c7t4xsCJR6zwp9woJaTXY9XLK8bj2fZCH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18570 	- LA CHAPELLE ST URSIN](https://docs.stopcoronavirus.tech/#/r/markdown/18570_la-chapelle-st-ursin/4XTTM5WCjGd8yWgBTxK2eSbFrZN3aFgtFD8hHAt4zwes7KcMj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18570 	- LA CHAPELLE ST URSIN](https://docs.stopcoronavirus.tech/#/w/markdown/18570_la-chapelle-st-ursin/4XTTM5WCjGd8yWgBTxK2eSbFrZN3aFgtFD8hHAt4zwes7KcMj-K3TgTmd6Ns3BWAfaywD9KHTRzB1G3MyPqtqdDtQ5Q9dptqx2csxpQR2czAkkW7vf4V71dmehaN4cske9kE5atthjqgwZBetZqhqhtG8c7t4xsCJR6zwp9woJaTXY9XLK8bj2fZCH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

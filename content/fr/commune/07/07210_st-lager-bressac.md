@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07210 	- ST LAGER BRESSAC](https://docs.stopcoronavirus.tech/r/markdown/07210_st-lager-bressac/4XTTMAfXXdcjrTBUBvZaKEvbYiWMryzR7LsXTdQCGsLiZHmxS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07210 	- ST LAGER BRESSAC](https://docs.stopcoronavirus.tech/w/markdown/07210_st-lager-bressac/4XTTMAfXXdcjrTBUBvZaKEvbYiWMryzR7LsXTdQCGsLiZHmxS-K3TgTtSAAvbx3j68VwhChdJGXrCMxtzVM8KNNe5b951cASbEaxD81YYLe2g81NepcZpkaEQbBxWhMbNt6392ubMMpFfNLn5nYX2xFdit7meFHECQWmgjSnaJnpZ7dyHfMCMTpoug) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07210 	- ST LAGER BRESSAC](https://docs.stopcoronavirus.tech/#/r/markdown/07210_st-lager-bressac/4XTTMAfXXdcjrTBUBvZaKEvbYiWMryzR7LsXTdQCGsLiZHmxS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07210 	- ST LAGER BRESSAC](https://docs.stopcoronavirus.tech/#/w/markdown/07210_st-lager-bressac/4XTTMAfXXdcjrTBUBvZaKEvbYiWMryzR7LsXTdQCGsLiZHmxS-K3TgTtSAAvbx3j68VwhChdJGXrCMxtzVM8KNNe5b951cASbEaxD81YYLe2g81NepcZpkaEQbBxWhMbNt6392ubMMpFfNLn5nYX2xFdit7meFHECQWmgjSnaJnpZ7dyHfMCMTpoug) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

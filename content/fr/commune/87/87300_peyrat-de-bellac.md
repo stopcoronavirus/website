@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 87300 	- PEYRAT DE BELLAC](https://docs.stopcoronavirus.tech/r/markdown/87300_peyrat-de-bellac/4XTTM6sG1AY2kBPeT3gpUjFrYQX8gYGyvvVc7H8m74V1dJJ5T) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87300 	- PEYRAT DE BELLAC](https://docs.stopcoronavirus.tech/w/markdown/87300_peyrat-de-bellac/4XTTM6sG1AY2kBPeT3gpUjFrYQX8gYGyvvVc7H8m74V1dJJ5T-K3TgTuPWqvNZstgH3arUPa11RVf1KJmj9L15buJF6id3Yy85fMDUv8DKYokHbg5DAA63G2y9f2cHgKgUnQjv8u6tpibBjvKS3JncSMsrWEwP1JYUcZEqSm3qrR9ajprJ5tirYyp1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 87300 	- PEYRAT DE BELLAC](https://docs.stopcoronavirus.tech/#/r/markdown/87300_peyrat-de-bellac/4XTTM6sG1AY2kBPeT3gpUjFrYQX8gYGyvvVc7H8m74V1dJJ5T) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 87300 	- PEYRAT DE BELLAC](https://docs.stopcoronavirus.tech/#/w/markdown/87300_peyrat-de-bellac/4XTTM6sG1AY2kBPeT3gpUjFrYQX8gYGyvvVc7H8m74V1dJJ5T-K3TgTuPWqvNZstgH3arUPa11RVf1KJmj9L15buJF6id3Yy85fMDUv8DKYokHbg5DAA63G2y9f2cHgKgUnQjv8u6tpibBjvKS3JncSMsrWEwP1JYUcZEqSm3qrR9ajprJ5tirYyp1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24500 	- ST CAPRAISE D EYMET](https://docs.stopcoronavirus.tech/r/markdown/24500_st-capraise-d-eymet/4XTTM2Fdu6kS8goXRSmVB2DwH5GsMWXKznLy8CnB9kzLy6hBz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24500 	- ST CAPRAISE D EYMET](https://docs.stopcoronavirus.tech/w/markdown/24500_st-capraise-d-eymet/4XTTM2Fdu6kS8goXRSmVB2DwH5GsMWXKznLy8CnB9kzLy6hBz-K3TgUvEDSpdqbTQnBfVKH3iJgjDjWvRes7PXDLh7U4zZV1uem3o5UesnHMujrdiGAYaZrwAbq854NbHbBQisL7Qt5i5M3HcAhdP1SFmaz2mGcsffSEtM4HTbQ8ddbWc9dgeXrDkp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24500 	- ST CAPRAISE D EYMET](https://docs.stopcoronavirus.tech/#/r/markdown/24500_st-capraise-d-eymet/4XTTM2Fdu6kS8goXRSmVB2DwH5GsMWXKznLy8CnB9kzLy6hBz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24500 	- ST CAPRAISE D EYMET](https://docs.stopcoronavirus.tech/#/w/markdown/24500_st-capraise-d-eymet/4XTTM2Fdu6kS8goXRSmVB2DwH5GsMWXKznLy8CnB9kzLy6hBz-K3TgUvEDSpdqbTQnBfVKH3iJgjDjWvRes7PXDLh7U4zZV1uem3o5UesnHMujrdiGAYaZrwAbq854NbHbBQisL7Qt5i5M3HcAhdP1SFmaz2mGcsffSEtM4HTbQ8ddbWc9dgeXrDkp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

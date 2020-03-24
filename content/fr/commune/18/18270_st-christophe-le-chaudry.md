@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18270 	- ST CHRISTOPHE LE CHAUDRY](https://docs.stopcoronavirus.tech/r/markdown/18270_st-christophe-le-chaudry/4XTTMGFNPLv7Va1pVayZTh3fuWm7XVF8eznNA99uNVHEgiWFg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18270 	- ST CHRISTOPHE LE CHAUDRY](https://docs.stopcoronavirus.tech/w/markdown/18270_st-christophe-le-chaudry/4XTTMGFNPLv7Va1pVayZTh3fuWm7XVF8eznNA99uNVHEgiWFg-K3TgUSoWHgydE9TPLaAAerGz2Le7cjfb5v7REheYnDGaw7P2PFwQBQT79JSCyT91GqRfyBEa79yKU1qo4t32Bk9TtXmc139ZV5afkRxNyFNL2wGXuntiDAzHEbSCzuSBDTSMtS7g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18270 	- ST CHRISTOPHE LE CHAUDRY](https://docs.stopcoronavirus.tech/#/r/markdown/18270_st-christophe-le-chaudry/4XTTMGFNPLv7Va1pVayZTh3fuWm7XVF8eznNA99uNVHEgiWFg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18270 	- ST CHRISTOPHE LE CHAUDRY](https://docs.stopcoronavirus.tech/#/w/markdown/18270_st-christophe-le-chaudry/4XTTMGFNPLv7Va1pVayZTh3fuWm7XVF8eznNA99uNVHEgiWFg-K3TgUSoWHgydE9TPLaAAerGz2Le7cjfb5v7REheYnDGaw7P2PFwQBQT79JSCyT91GqRfyBEa79yKU1qo4t32Bk9TtXmc139ZV5afkRxNyFNL2wGXuntiDAzHEbSCzuSBDTSMtS7g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

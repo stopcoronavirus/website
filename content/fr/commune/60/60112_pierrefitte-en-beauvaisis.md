@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60112 	- PIERREFITTE EN BEAUVAISIS](https://docs.stopcoronavirus.tech/r/markdown/60112_pierrefitte-en-beauvaisis/4XTTMBko2ZXxiZyJbe4qJHtvpKRnwU8AohQjBbs9UjwkWDZut) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60112 	- PIERREFITTE EN BEAUVAISIS](https://docs.stopcoronavirus.tech/w/markdown/60112_pierrefitte-en-beauvaisis/4XTTMBko2ZXxiZyJbe4qJHtvpKRnwU8AohQjBbs9UjwkWDZut-K3TgTtvtFZrJFbQQDTCKhSntbPbGyALUR5BZJzSfx2MgjVt7HdZ3FqaSRHSExEHD9HDGwnjW6FfhLFP4serfm4djCRvc2CJu7cCGRKjmbWHYPQxLNuqHZr8ofyZwtCbTWdDieGh8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60112 	- PIERREFITTE EN BEAUVAISIS](https://docs.stopcoronavirus.tech/#/r/markdown/60112_pierrefitte-en-beauvaisis/4XTTMBko2ZXxiZyJbe4qJHtvpKRnwU8AohQjBbs9UjwkWDZut) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60112 	- PIERREFITTE EN BEAUVAISIS](https://docs.stopcoronavirus.tech/#/w/markdown/60112_pierrefitte-en-beauvaisis/4XTTMBko2ZXxiZyJbe4qJHtvpKRnwU8AohQjBbs9UjwkWDZut-K3TgTtvtFZrJFbQQDTCKhSntbPbGyALUR5BZJzSfx2MgjVt7HdZ3FqaSRHSExEHD9HDGwnjW6FfhLFP4serfm4djCRvc2CJu7cCGRKjmbWHYPQxLNuqHZr8ofyZwtCbTWdDieGh8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

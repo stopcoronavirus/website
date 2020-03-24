@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 49130 	- LES PONTS DE CE](https://docs.stopcoronavirus.tech/r/markdown/49130_les-ponts-de-ce/4XTTMH88P4rBMzR1pf53xqC5rg8Qmbxoxox9G8BA2WzyP8t5Q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49130 	- LES PONTS DE CE](https://docs.stopcoronavirus.tech/w/markdown/49130_les-ponts-de-ce/4XTTMH88P4rBMzR1pf53xqC5rg8Qmbxoxox9G8BA2WzyP8t5Q-K3TgTqpqtkY2KSrpruHCJF3DQHUGsXbY9rnHE4WxoVBAfqXyVPYh6BFgff1SRoem43VwLxNEmMxBBoZcwdBfpH5qCFaUS2iG2XUBpWEmHup8pBYj1ReroujyqxDM8yHav1K4hzrN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49130 	- LES PONTS DE CE](https://docs.stopcoronavirus.tech/#/r/markdown/49130_les-ponts-de-ce/4XTTMH88P4rBMzR1pf53xqC5rg8Qmbxoxox9G8BA2WzyP8t5Q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49130 	- LES PONTS DE CE](https://docs.stopcoronavirus.tech/#/w/markdown/49130_les-ponts-de-ce/4XTTMH88P4rBMzR1pf53xqC5rg8Qmbxoxox9G8BA2WzyP8t5Q-K3TgTqpqtkY2KSrpruHCJF3DQHUGsXbY9rnHE4WxoVBAfqXyVPYh6BFgff1SRoem43VwLxNEmMxBBoZcwdBfpH5qCFaUS2iG2XUBpWEmHup8pBYj1ReroujyqxDM8yHav1K4hzrN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

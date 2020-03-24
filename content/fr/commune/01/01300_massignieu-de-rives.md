@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01300 	- MASSIGNIEU DE RIVES](https://docs.stopcoronavirus.tech/r/markdown/01300_massignieu-de-rives/4XTTM8D57YWEwxoZyjBHc1KL5RyJUxaWA5KoAGzt3U9cwTtiA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01300 	- MASSIGNIEU DE RIVES](https://docs.stopcoronavirus.tech/w/markdown/01300_massignieu-de-rives/4XTTM8D57YWEwxoZyjBHc1KL5RyJUxaWA5KoAGzt3U9cwTtiA-K3TgTujnN2FeWqo7D2P6K2dVoggXMP1k6msG7bLFpcgM5Pwow8vAYgJt2guukS3atjjxyp7KXb8quN455VKiKwyaPKAgDKho7M15erroVdYxFPQc1eGhmt9aVLD7hQ4jt5uPwbHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01300 	- MASSIGNIEU DE RIVES](https://docs.stopcoronavirus.tech/#/r/markdown/01300_massignieu-de-rives/4XTTM8D57YWEwxoZyjBHc1KL5RyJUxaWA5KoAGzt3U9cwTtiA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01300 	- MASSIGNIEU DE RIVES](https://docs.stopcoronavirus.tech/#/w/markdown/01300_massignieu-de-rives/4XTTM8D57YWEwxoZyjBHc1KL5RyJUxaWA5KoAGzt3U9cwTtiA-K3TgTujnN2FeWqo7D2P6K2dVoggXMP1k6msG7bLFpcgM5Pwow8vAYgJt2guukS3atjjxyp7KXb8quN455VKiKwyaPKAgDKho7M15erroVdYxFPQc1eGhmt9aVLD7hQ4jt5uPwbHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

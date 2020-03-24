@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18370 	- ST JEANVRIN](https://docs.stopcoronavirus.tech/r/markdown/18370_st-jeanvrin/4XTTM4KmhgEq1kAUuM8i42rCAmK5J23qdr1HjcP5hBgzWz5gX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18370 	- ST JEANVRIN](https://docs.stopcoronavirus.tech/w/markdown/18370_st-jeanvrin/4XTTM4KmhgEq1kAUuM8i42rCAmK5J23qdr1HjcP5hBgzWz5gX-K3TgUFQxM9zMEKbDmnoPMiWHNqEZ5NgAKSRZpanHkH7Ys3YQ25KPWabY5EetsFVyy21796m9gez3JePmjiKgVkm2RWVTF5PG1Cerp44K3hKvNWfJDzYvBaruTPKEhgEKa5P7xUjM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18370 	- ST JEANVRIN](https://docs.stopcoronavirus.tech/#/r/markdown/18370_st-jeanvrin/4XTTM4KmhgEq1kAUuM8i42rCAmK5J23qdr1HjcP5hBgzWz5gX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18370 	- ST JEANVRIN](https://docs.stopcoronavirus.tech/#/w/markdown/18370_st-jeanvrin/4XTTM4KmhgEq1kAUuM8i42rCAmK5J23qdr1HjcP5hBgzWz5gX-K3TgUFQxM9zMEKbDmnoPMiWHNqEZ5NgAKSRZpanHkH7Ys3YQ25KPWabY5EetsFVyy21796m9gez3JePmjiKgVkm2RWVTF5PG1Cerp44K3hKvNWfJDzYvBaruTPKEhgEKa5P7xUjM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

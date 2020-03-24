@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12480 	- BROUSSE LE CHATEAU](https://docs.stopcoronavirus.tech/r/markdown/12480_brousse-le-chateau/4XTTM6M6dCS66dq5ZxCX5d6ocw3uS5vMmRsGaXaVK6jpxsadF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12480 	- BROUSSE LE CHATEAU](https://docs.stopcoronavirus.tech/w/markdown/12480_brousse-le-chateau/4XTTM6M6dCS66dq5ZxCX5d6ocw3uS5vMmRsGaXaVK6jpxsadF-K3TgUuUzkQqSxnPwaSuG7pGmigD7ChktpNQdqSpdGLv4uSWCazDaStL187MWEyUKD8agLze2vjyp2oVU3UNoFLBWQaYcgQY5jbN3Wnmij9yYurYm9qdETsxAyCpW2BNnce3AMf2y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12480 	- BROUSSE LE CHATEAU](https://docs.stopcoronavirus.tech/#/r/markdown/12480_brousse-le-chateau/4XTTM6M6dCS66dq5ZxCX5d6ocw3uS5vMmRsGaXaVK6jpxsadF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12480 	- BROUSSE LE CHATEAU](https://docs.stopcoronavirus.tech/#/w/markdown/12480_brousse-le-chateau/4XTTM6M6dCS66dq5ZxCX5d6ocw3uS5vMmRsGaXaVK6jpxsadF-K3TgUuUzkQqSxnPwaSuG7pGmigD7ChktpNQdqSpdGLv4uSWCazDaStL187MWEyUKD8agLze2vjyp2oVU3UNoFLBWQaYcgQY5jbN3Wnmij9yYurYm9qdETsxAyCpW2BNnce3AMf2y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

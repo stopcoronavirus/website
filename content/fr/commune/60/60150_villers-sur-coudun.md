@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60150 	- VILLERS SUR COUDUN](https://docs.stopcoronavirus.tech/r/markdown/60150_villers-sur-coudun/4XTTMEW3j9bidXobgffKzKZ3Zp5VCKm6wJs8R4MHHDzRyuYKS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60150 	- VILLERS SUR COUDUN](https://docs.stopcoronavirus.tech/w/markdown/60150_villers-sur-coudun/4XTTMEW3j9bidXobgffKzKZ3Zp5VCKm6wJs8R4MHHDzRyuYKS-K3TgUTbSn3qDHQqjztnDknp9m4PMbfYohV3HEvzoMoe6JWnjAAy97KzJ1XtJ6Qc3UY2QhBnZSDiwDS5mHxqfu1mWzv3SVTvn1eT1gMc7QNU1CpVE7iuD8MahpUi8FbPWUMMNuASC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60150 	- VILLERS SUR COUDUN](https://docs.stopcoronavirus.tech/#/r/markdown/60150_villers-sur-coudun/4XTTMEW3j9bidXobgffKzKZ3Zp5VCKm6wJs8R4MHHDzRyuYKS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60150 	- VILLERS SUR COUDUN](https://docs.stopcoronavirus.tech/#/w/markdown/60150_villers-sur-coudun/4XTTMEW3j9bidXobgffKzKZ3Zp5VCKm6wJs8R4MHHDzRyuYKS-K3TgUTbSn3qDHQqjztnDknp9m4PMbfYohV3HEvzoMoe6JWnjAAy97KzJ1XtJ6Qc3UY2QhBnZSDiwDS5mHxqfu1mWzv3SVTvn1eT1gMc7QNU1CpVE7iuD8MahpUi8FbPWUMMNuASC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

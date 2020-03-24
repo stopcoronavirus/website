@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27420 	- LES THILLIERS EN VEXIN](https://docs.stopcoronavirus.tech/r/markdown/27420_les-thilliers-en-vexin/4XTTMFJBaqj1CUs26stZVAJWDCjoDKcaXGPwuhZwNsdWbE4c2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27420 	- LES THILLIERS EN VEXIN](https://docs.stopcoronavirus.tech/w/markdown/27420_les-thilliers-en-vexin/4XTTMFJBaqj1CUs26stZVAJWDCjoDKcaXGPwuhZwNsdWbE4c2-K3TgU5W8ujgnhdHYRsqXVfzx1tJ7n2B5VSAT1nLuuwTxoC1vtiW5qpHmxg4iQeVpATyiK3H62kF7QfuG7rHyD9NkyxgM7tp54Tj5WcvmgsGG5h1ptP7BSefVVH3sjMfP9stT1XVL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27420 	- LES THILLIERS EN VEXIN](https://docs.stopcoronavirus.tech/#/r/markdown/27420_les-thilliers-en-vexin/4XTTMFJBaqj1CUs26stZVAJWDCjoDKcaXGPwuhZwNsdWbE4c2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27420 	- LES THILLIERS EN VEXIN](https://docs.stopcoronavirus.tech/#/w/markdown/27420_les-thilliers-en-vexin/4XTTMFJBaqj1CUs26stZVAJWDCjoDKcaXGPwuhZwNsdWbE4c2-K3TgU5W8ujgnhdHYRsqXVfzx1tJ7n2B5VSAT1nLuuwTxoC1vtiW5qpHmxg4iQeVpATyiK3H62kF7QfuG7rHyD9NkyxgM7tp54Tj5WcvmgsGG5h1ptP7BSefVVH3sjMfP9stT1XVL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

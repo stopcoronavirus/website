@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 37520 	- LA RICHE](https://docs.stopcoronavirus.tech/r/markdown/37520_la-riche/4XTTM6KGan1xBQ1oZyzMsz43jyAyTBSGNdbhcMTgSid5BXc2E) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37520 	- LA RICHE](https://docs.stopcoronavirus.tech/w/markdown/37520_la-riche/4XTTM6KGan1xBQ1oZyzMsz43jyAyTBSGNdbhcMTgSid5BXc2E-K3TgU2bhkAtMmbqD5yHHX6aLmqeLYGrWreym4Ck5WQi5eoi3yR5h4KFzSvG8AANMHKBDJogih8vN8popAqRYXPGDxgV8a135ogpcTUAUgibSoU8ZBjBbN9FqEeLqEU3QNLyQ9y8W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 37520 	- LA RICHE](https://docs.stopcoronavirus.tech/#/r/markdown/37520_la-riche/4XTTM6KGan1xBQ1oZyzMsz43jyAyTBSGNdbhcMTgSid5BXc2E) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 37520 	- LA RICHE](https://docs.stopcoronavirus.tech/#/w/markdown/37520_la-riche/4XTTM6KGan1xBQ1oZyzMsz43jyAyTBSGNdbhcMTgSid5BXc2E-K3TgU2bhkAtMmbqD5yHHX6aLmqeLYGrWreym4Ck5WQi5eoi3yR5h4KFzSvG8AANMHKBDJogih8vN8popAqRYXPGDxgV8a135ogpcTUAUgibSoU8ZBjBbN9FqEeLqEU3QNLyQ9y8W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

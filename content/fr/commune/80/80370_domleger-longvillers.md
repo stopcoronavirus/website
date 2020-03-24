@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80370 	- DOMLEGER LONGVILLERS](https://docs.stopcoronavirus.tech/r/markdown/80370_domleger-longvillers/4XTTM7Ez8CtQKeZoEgd4NJhuptRJ4W8ttC7jAju7DxgZrbddW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80370 	- DOMLEGER LONGVILLERS](https://docs.stopcoronavirus.tech/w/markdown/80370_domleger-longvillers/4XTTM7Ez8CtQKeZoEgd4NJhuptRJ4W8ttC7jAju7DxgZrbddW-K3TgTeREW8gPFVRewu75NnUuGAgXdr4n8przNmkWVmvFp9txLnr9NUY1UELtnBFx3pgwuAAcy9MeJGznXajym2TB2WqPuaca6efCnad3dRQHPtyxYE47V44agjfjkEXsvRL9RsZE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80370 	- DOMLEGER LONGVILLERS](https://docs.stopcoronavirus.tech/#/r/markdown/80370_domleger-longvillers/4XTTM7Ez8CtQKeZoEgd4NJhuptRJ4W8ttC7jAju7DxgZrbddW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80370 	- DOMLEGER LONGVILLERS](https://docs.stopcoronavirus.tech/#/w/markdown/80370_domleger-longvillers/4XTTM7Ez8CtQKeZoEgd4NJhuptRJ4W8ttC7jAju7DxgZrbddW-K3TgTeREW8gPFVRewu75NnUuGAgXdr4n8przNmkWVmvFp9txLnr9NUY1UELtnBFx3pgwuAAcy9MeJGznXajym2TB2WqPuaca6efCnad3dRQHPtyxYE47V44agjfjkEXsvRL9RsZE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

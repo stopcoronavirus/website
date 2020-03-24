@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 78930 	- AUFFREVILLE BRASSEUIL](https://docs.stopcoronavirus.tech/r/markdown/78930_auffreville-brasseuil/4XTTM4T1YZRDACkzC8YesD4YxdTm5JafRgezg72KTPbkzPY5z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78930 	- AUFFREVILLE BRASSEUIL](https://docs.stopcoronavirus.tech/w/markdown/78930_auffreville-brasseuil/4XTTM4T1YZRDACkzC8YesD4YxdTm5JafRgezg72KTPbkzPY5z-K3TgUMVa7KjWJwTaR18jGK2bcdzL7Ux3EEgAvCwQZAJzezWWpKnDbJEvzBLxnYmBigtUN91i4LC1UcqyVHfJ2K9jTAmLxkSj5H2htwA3u8TZVD48fbyPtdK5ZHC25svJSraAHBXz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78930 	- AUFFREVILLE BRASSEUIL](https://docs.stopcoronavirus.tech/#/r/markdown/78930_auffreville-brasseuil/4XTTM4T1YZRDACkzC8YesD4YxdTm5JafRgezg72KTPbkzPY5z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78930 	- AUFFREVILLE BRASSEUIL](https://docs.stopcoronavirus.tech/#/w/markdown/78930_auffreville-brasseuil/4XTTM4T1YZRDACkzC8YesD4YxdTm5JafRgezg72KTPbkzPY5z-K3TgUMVa7KjWJwTaR18jGK2bcdzL7Ux3EEgAvCwQZAJzezWWpKnDbJEvzBLxnYmBigtUN91i4LC1UcqyVHfJ2K9jTAmLxkSj5H2htwA3u8TZVD48fbyPtdK5ZHC25svJSraAHBXz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

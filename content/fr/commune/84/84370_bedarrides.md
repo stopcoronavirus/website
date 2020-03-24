@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84370 	- BEDARRIDES](https://docs.stopcoronavirus.tech/r/markdown/84370_bedarrides/4XTTM9ivqkw15qtf6tN39EdkFME2keZa2vJwhwJ4Wr9sSgesW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84370 	- BEDARRIDES](https://docs.stopcoronavirus.tech/w/markdown/84370_bedarrides/4XTTM9ivqkw15qtf6tN39EdkFME2keZa2vJwhwJ4Wr9sSgesW-K3TgUtotH3Lp6DSvgHPyuCvyhQjzdn7VmATsER5K49bPkQPaN1Fg2VEHeeCvweQpKBWXpTbNMdpe4Yf5MMEF6SmqgnPBpSvw28V1r3HMyXpa8rSGm4av6wfyf8TvU8tBLT5JHihi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84370 	- BEDARRIDES](https://docs.stopcoronavirus.tech/#/r/markdown/84370_bedarrides/4XTTM9ivqkw15qtf6tN39EdkFME2keZa2vJwhwJ4Wr9sSgesW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84370 	- BEDARRIDES](https://docs.stopcoronavirus.tech/#/w/markdown/84370_bedarrides/4XTTM9ivqkw15qtf6tN39EdkFME2keZa2vJwhwJ4Wr9sSgesW-K3TgUtotH3Lp6DSvgHPyuCvyhQjzdn7VmATsER5K49bPkQPaN1Fg2VEHeeCvweQpKBWXpTbNMdpe4Yf5MMEF6SmqgnPBpSvw28V1r3HMyXpa8rSGm4av6wfyf8TvU8tBLT5JHihi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

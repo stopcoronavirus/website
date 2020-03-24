@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83590 	- GONFARON](https://docs.stopcoronavirus.tech/r/markdown/83590_gonfaron/4XTTMBhD4hxfnW7CK2beNMk6TZ18cS4hkgyXgxStRrV24da9x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83590 	- GONFARON](https://docs.stopcoronavirus.tech/w/markdown/83590_gonfaron/4XTTMBhD4hxfnW7CK2beNMk6TZ18cS4hkgyXgxStRrV24da9x-K3TgV1Bt5q5LGbTFudoXyHZKv4EXV12gCZyCjPCEdaHEetYpY2aQkVdW2ZpaM9qpXK5jkfg93hwhCuu2rgTvUbNkL4kBM2Wz8N3UCJ6SwB5Vx2JPzuxU963PC72MH9qPNX2etJQS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83590 	- GONFARON](https://docs.stopcoronavirus.tech/#/r/markdown/83590_gonfaron/4XTTMBhD4hxfnW7CK2beNMk6TZ18cS4hkgyXgxStRrV24da9x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83590 	- GONFARON](https://docs.stopcoronavirus.tech/#/w/markdown/83590_gonfaron/4XTTMBhD4hxfnW7CK2beNMk6TZ18cS4hkgyXgxStRrV24da9x-K3TgV1Bt5q5LGbTFudoXyHZKv4EXV12gCZyCjPCEdaHEetYpY2aQkVdW2ZpaM9qpXK5jkfg93hwhCuu2rgTvUbNkL4kBM2Wz8N3UCJ6SwB5Vx2JPzuxU963PC72MH9qPNX2etJQS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

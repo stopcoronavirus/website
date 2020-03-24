@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14210 	- MONTIGNY](https://docs.stopcoronavirus.tech/r/markdown/14210_montigny/4XTTMB96JyrfjvnAfv7F55UpKjfWC7GCrCrBTg4TzQx9zne7f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14210 	- MONTIGNY](https://docs.stopcoronavirus.tech/w/markdown/14210_montigny/4XTTMB96JyrfjvnAfv7F55UpKjfWC7GCrCrBTg4TzQx9zne7f-K3TgU9Y4MR7WeytR3hic3VyneZVuDXKt5uZ4qiLyE7zFL5ZvtpASVHKBsikgq6FbmCgLpLJFEb2RXBykDoQREZ2vgj4fpu8QM2L2NJ86LBTWYvBXaDZhWRLR296TBcspQzCBgdU9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14210 	- MONTIGNY](https://docs.stopcoronavirus.tech/#/r/markdown/14210_montigny/4XTTMB96JyrfjvnAfv7F55UpKjfWC7GCrCrBTg4TzQx9zne7f) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14210 	- MONTIGNY](https://docs.stopcoronavirus.tech/#/w/markdown/14210_montigny/4XTTMB96JyrfjvnAfv7F55UpKjfWC7GCrCrBTg4TzQx9zne7f-K3TgU9Y4MR7WeytR3hic3VyneZVuDXKt5uZ4qiLyE7zFL5ZvtpASVHKBsikgq6FbmCgLpLJFEb2RXBykDoQREZ2vgj4fpu8QM2L2NJ86LBTWYvBXaDZhWRLR296TBcspQzCBgdU9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

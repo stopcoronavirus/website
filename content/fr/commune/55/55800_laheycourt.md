@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 55800 	- LAHEYCOURT](https://docs.stopcoronavirus.tech/r/markdown/55800_laheycourt/4XTTM4WRLiUcM3BwixUED24dJ17eStqqEDMsvzoH1RbxVcoSZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55800 	- LAHEYCOURT](https://docs.stopcoronavirus.tech/w/markdown/55800_laheycourt/4XTTM4WRLiUcM3BwixUED24dJ17eStqqEDMsvzoH1RbxVcoSZ-K3TgUwDMkztBLxNy6yZFZcYqTUuFMRuHDDbMFbmE36sWmKzjBiSckBK1VkRqUUGYNMie8ZUk8CcRJbAFFH2HYwseb5EKNm4j7BfzXmPryZT7N7JTDhWpC8a3cby3hx2tKK8E8FCV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55800 	- LAHEYCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/55800_laheycourt/4XTTM4WRLiUcM3BwixUED24dJ17eStqqEDMsvzoH1RbxVcoSZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55800 	- LAHEYCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/55800_laheycourt/4XTTM4WRLiUcM3BwixUED24dJ17eStqqEDMsvzoH1RbxVcoSZ-K3TgUwDMkztBLxNy6yZFZcYqTUuFMRuHDDbMFbmE36sWmKzjBiSckBK1VkRqUUGYNMie8ZUk8CcRJbAFFH2HYwseb5EKNm4j7BfzXmPryZT7N7JTDhWpC8a3cby3hx2tKK8E8FCV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

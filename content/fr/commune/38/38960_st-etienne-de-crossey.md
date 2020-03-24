@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38960 	- ST ETIENNE DE CROSSEY](https://docs.stopcoronavirus.tech/r/markdown/38960_st-etienne-de-crossey/4XTTMDUmrkDD3Ykc4YDk3qbC9EZ7N1am1wSUyZvkP1XcC3exW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38960 	- ST ETIENNE DE CROSSEY](https://docs.stopcoronavirus.tech/w/markdown/38960_st-etienne-de-crossey/4XTTMDUmrkDD3Ykc4YDk3qbC9EZ7N1am1wSUyZvkP1XcC3exW-K3TgUA3NwsmwRT9ZCck3KJnPhvg9JpkhZSPJTaCp9XrrsSZbXFpw2DZqX8Ry2rUCaVfdnY7CaNtSJ23dGBK4rFFaT5q4ZPipaQEpm52PztDcMGF8Z2P8EystLi8q994L5C2zmP6W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38960 	- ST ETIENNE DE CROSSEY](https://docs.stopcoronavirus.tech/#/r/markdown/38960_st-etienne-de-crossey/4XTTMDUmrkDD3Ykc4YDk3qbC9EZ7N1am1wSUyZvkP1XcC3exW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38960 	- ST ETIENNE DE CROSSEY](https://docs.stopcoronavirus.tech/#/w/markdown/38960_st-etienne-de-crossey/4XTTMDUmrkDD3Ykc4YDk3qbC9EZ7N1am1wSUyZvkP1XcC3exW-K3TgUA3NwsmwRT9ZCck3KJnPhvg9JpkhZSPJTaCp9XrrsSZbXFpw2DZqX8Ry2rUCaVfdnY7CaNtSJ23dGBK4rFFaT5q4ZPipaQEpm52PztDcMGF8Z2P8EystLi8q994L5C2zmP6W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 43390 	- VEZEZOUX](https://docs.stopcoronavirus.tech/r/markdown/43390_vezezoux/4XTTM9vwyLfykGaANMrkMjjGtZdsFksBxfL5YMa3XoJtbLANw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43390 	- VEZEZOUX](https://docs.stopcoronavirus.tech/w/markdown/43390_vezezoux/4XTTM9vwyLfykGaANMrkMjjGtZdsFksBxfL5YMa3XoJtbLANw-K3TgUa8WUVLFsdDxBgqCZnnL8TAvWhNdak2jVR6TTSXHS36rYPTCmrr9uctZFV42FpVmzBeMEjrYSNmDyS8S3puTjqeehHyXd5UUpfq2baN516RcmY6ExpmN3rfBJGoQJFCdbsqV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43390 	- VEZEZOUX](https://docs.stopcoronavirus.tech/#/r/markdown/43390_vezezoux/4XTTM9vwyLfykGaANMrkMjjGtZdsFksBxfL5YMa3XoJtbLANw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43390 	- VEZEZOUX](https://docs.stopcoronavirus.tech/#/w/markdown/43390_vezezoux/4XTTM9vwyLfykGaANMrkMjjGtZdsFksBxfL5YMa3XoJtbLANw-K3TgUa8WUVLFsdDxBgqCZnnL8TAvWhNdak2jVR6TTSXHS36rYPTCmrr9uctZFV42FpVmzBeMEjrYSNmDyS8S3puTjqeehHyXd5UUpfq2baN516RcmY6ExpmN3rfBJGoQJFCdbsqV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

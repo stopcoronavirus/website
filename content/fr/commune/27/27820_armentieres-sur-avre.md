@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27820 	- ARMENTIERES SUR AVRE](https://docs.stopcoronavirus.tech/r/markdown/27820_armentieres-sur-avre/4XTTM1jPjrbwv2NkA9iedLye6vMeWwPZN9sUsRz43u9E7cg2q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27820 	- ARMENTIERES SUR AVRE](https://docs.stopcoronavirus.tech/w/markdown/27820_armentieres-sur-avre/4XTTM1jPjrbwv2NkA9iedLye6vMeWwPZN9sUsRz43u9E7cg2q-K3TgUL8JNkbMmXywSBMeWnSMDi6TpXzqBYRa6cEbF85YkgGG1c96MqN6SnfQGhAZPT896pKuPjjkAYnmxCqHLKbdLaoGHVaejMmpx8uSeoz5YHvpMYfKjBettCVkLerCNKmxbsRf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27820 	- ARMENTIERES SUR AVRE](https://docs.stopcoronavirus.tech/#/r/markdown/27820_armentieres-sur-avre/4XTTM1jPjrbwv2NkA9iedLye6vMeWwPZN9sUsRz43u9E7cg2q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27820 	- ARMENTIERES SUR AVRE](https://docs.stopcoronavirus.tech/#/w/markdown/27820_armentieres-sur-avre/4XTTM1jPjrbwv2NkA9iedLye6vMeWwPZN9sUsRz43u9E7cg2q-K3TgUL8JNkbMmXywSBMeWnSMDi6TpXzqBYRa6cEbF85YkgGG1c96MqN6SnfQGhAZPT896pKuPjjkAYnmxCqHLKbdLaoGHVaejMmpx8uSeoz5YHvpMYfKjBettCVkLerCNKmxbsRf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27230 	- PIENCOURT](https://docs.stopcoronavirus.tech/r/markdown/27230_piencourt/4XTTMEP4NVPbxuXwkNyekjczsZAKMt9K1Px7EXyQvjdzZXJPo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27230 	- PIENCOURT](https://docs.stopcoronavirus.tech/w/markdown/27230_piencourt/4XTTMEP4NVPbxuXwkNyekjczsZAKMt9K1Px7EXyQvjdzZXJPo-K3TgU36tV5W61giG19FqH1ohrkm7xktRnrL2p2vQTL1LzYmwK4U8vjMYUT2JpTHJgtYjgt2eEzpUyR67Bng2LASe8fGk7zowPJAanVMek9arUjbJUt8TWrWC6iUfSkxZjRWUXSXF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27230 	- PIENCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/27230_piencourt/4XTTMEP4NVPbxuXwkNyekjczsZAKMt9K1Px7EXyQvjdzZXJPo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27230 	- PIENCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/27230_piencourt/4XTTMEP4NVPbxuXwkNyekjczsZAKMt9K1Px7EXyQvjdzZXJPo-K3TgU36tV5W61giG19FqH1ohrkm7xktRnrL2p2vQTL1LzYmwK4U8vjMYUT2JpTHJgtYjgt2eEzpUyR67Bng2LASe8fGk7zowPJAanVMek9arUjbJUt8TWrWC6iUfSkxZjRWUXSXF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

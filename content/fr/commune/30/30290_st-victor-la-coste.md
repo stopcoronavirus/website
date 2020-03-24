@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30290 	- ST VICTOR LA COSTE](https://docs.stopcoronavirus.tech/r/markdown/30290_st-victor-la-coste/4XTTMC9Qohxru7s3MsWoXVh5VXvxmjLdJGVHAWaJyYejJGecm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30290 	- ST VICTOR LA COSTE](https://docs.stopcoronavirus.tech/w/markdown/30290_st-victor-la-coste/4XTTMC9Qohxru7s3MsWoXVh5VXvxmjLdJGVHAWaJyYejJGecm-K3TgUiHvZd78YGuWHYn8KcNvYXvLw5JNvyXGPCUc3vo8JBxVD11PN2tzUjMFvVHwNisPpuq4qiRBSaKX6YpZ5YgJjF9XnPH5oW2zyuPag6NF2BqxH6m6RpRzUddbV2uLgpkcCwzm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30290 	- ST VICTOR LA COSTE](https://docs.stopcoronavirus.tech/#/r/markdown/30290_st-victor-la-coste/4XTTMC9Qohxru7s3MsWoXVh5VXvxmjLdJGVHAWaJyYejJGecm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30290 	- ST VICTOR LA COSTE](https://docs.stopcoronavirus.tech/#/w/markdown/30290_st-victor-la-coste/4XTTMC9Qohxru7s3MsWoXVh5VXvxmjLdJGVHAWaJyYejJGecm-K3TgUiHvZd78YGuWHYn8KcNvYXvLw5JNvyXGPCUc3vo8JBxVD11PN2tzUjMFvVHwNisPpuq4qiRBSaKX6YpZ5YgJjF9XnPH5oW2zyuPag6NF2BqxH6m6RpRzUddbV2uLgpkcCwzm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

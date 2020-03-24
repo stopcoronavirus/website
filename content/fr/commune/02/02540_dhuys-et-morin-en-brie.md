@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02540 	- DHUYS ET MORIN EN BRIE](https://docs.stopcoronavirus.tech/r/markdown/02540_dhuys-et-morin-en-brie/4XTTMCo2r4zjdQQThzYWaBNmeH133sNZqui4W2JAuGVNyKhix) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02540 	- DHUYS ET MORIN EN BRIE](https://docs.stopcoronavirus.tech/w/markdown/02540_dhuys-et-morin-en-brie/4XTTMCo2r4zjdQQThzYWaBNmeH133sNZqui4W2JAuGVNyKhix-K3TgUhhNL9Gz6bz3LNMHw47v85Z8GYkQ43bzJ3YNuiMLUthS3RvhPNfYB9hVys3TQwHDwSLK9EAg3zhcheNYuyGsXZ4gKNtTsYpqPEscSqMSSZG29yEEML7DUZRTPM34XrRdWxrt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02540 	- DHUYS ET MORIN EN BRIE](https://docs.stopcoronavirus.tech/#/r/markdown/02540_dhuys-et-morin-en-brie/4XTTMCo2r4zjdQQThzYWaBNmeH133sNZqui4W2JAuGVNyKhix) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02540 	- DHUYS ET MORIN EN BRIE](https://docs.stopcoronavirus.tech/#/w/markdown/02540_dhuys-et-morin-en-brie/4XTTMCo2r4zjdQQThzYWaBNmeH133sNZqui4W2JAuGVNyKhix-K3TgUhhNL9Gz6bz3LNMHw47v85Z8GYkQ43bzJ3YNuiMLUthS3RvhPNfYB9hVys3TQwHDwSLK9EAg3zhcheNYuyGsXZ4gKNtTsYpqPEscSqMSSZG29yEEML7DUZRTPM34XrRdWxrt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

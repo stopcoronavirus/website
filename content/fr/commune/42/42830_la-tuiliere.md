@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42830 	- LA TUILIERE](https://docs.stopcoronavirus.tech/r/markdown/42830_la-tuiliere/4XTTMFy6JiQpJFtCUeeWHqoBKpEyLihF7wNt5Jn5nEaEkEcx7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42830 	- LA TUILIERE](https://docs.stopcoronavirus.tech/w/markdown/42830_la-tuiliere/4XTTMFy6JiQpJFtCUeeWHqoBKpEyLihF7wNt5Jn5nEaEkEcx7-K3TgTudeYiDqcW9jSgmZb9TtKMPQdDf7ZwB3Sz1RkfoFCXCub4wdB33V5tSthykmx22x74K4Jxfzb16fQuQDmR6H6D3weAjzcfMg2KRorPcBm5WSCBSh7MLqbAUSMmBmEi7Ebqou) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42830 	- LA TUILIERE](https://docs.stopcoronavirus.tech/#/r/markdown/42830_la-tuiliere/4XTTMFy6JiQpJFtCUeeWHqoBKpEyLihF7wNt5Jn5nEaEkEcx7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42830 	- LA TUILIERE](https://docs.stopcoronavirus.tech/#/w/markdown/42830_la-tuiliere/4XTTMFy6JiQpJFtCUeeWHqoBKpEyLihF7wNt5Jn5nEaEkEcx7-K3TgTudeYiDqcW9jSgmZb9TtKMPQdDf7ZwB3Sz1RkfoFCXCub4wdB33V5tSthykmx22x74K4Jxfzb16fQuQDmR6H6D3weAjzcfMg2KRorPcBm5WSCBSh7MLqbAUSMmBmEi7Ebqou) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

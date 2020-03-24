@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01470 	- SERRIERES DE BRIORD](https://docs.stopcoronavirus.tech/r/markdown/01470_serrieres-de-briord/4XTTM8QoCU3qWvSqEeFPGEZWvGKsoacLHY8PpkTzTonXhwfJk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01470 	- SERRIERES DE BRIORD](https://docs.stopcoronavirus.tech/w/markdown/01470_serrieres-de-briord/4XTTM8QoCU3qWvSqEeFPGEZWvGKsoacLHY8PpkTzTonXhwfJk-K3TgU4nBj5AaUD2cYkaPf5JdyXj38bUGcrk2hQBMqQpxBENYsMNQ2jedn4nebT6fXVKsHqBEbrrytYwtEY334B2mGHdyaDDFUiTJKbh2oQL7UPBoitKgeyryXk9LLwBfyyFgE99e) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01470 	- SERRIERES DE BRIORD](https://docs.stopcoronavirus.tech/#/r/markdown/01470_serrieres-de-briord/4XTTM8QoCU3qWvSqEeFPGEZWvGKsoacLHY8PpkTzTonXhwfJk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01470 	- SERRIERES DE BRIORD](https://docs.stopcoronavirus.tech/#/w/markdown/01470_serrieres-de-briord/4XTTM8QoCU3qWvSqEeFPGEZWvGKsoacLHY8PpkTzTonXhwfJk-K3TgU4nBj5AaUD2cYkaPf5JdyXj38bUGcrk2hQBMqQpxBENYsMNQ2jedn4nebT6fXVKsHqBEbrrytYwtEY334B2mGHdyaDDFUiTJKbh2oQL7UPBoitKgeyryXk9LLwBfyyFgE99e) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

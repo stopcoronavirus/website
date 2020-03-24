@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 04400 	- FAUCON DE BARCELONNETTE](https://docs.stopcoronavirus.tech/r/markdown/04400_faucon-de-barcelonnette/4XTTM9RF3e8SFJ46ZKetsZ2E1FCxotBcLb9DEJ1VNNNesy4ak) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04400 	- FAUCON DE BARCELONNETTE](https://docs.stopcoronavirus.tech/w/markdown/04400_faucon-de-barcelonnette/4XTTM9RF3e8SFJ46ZKetsZ2E1FCxotBcLb9DEJ1VNNNesy4ak-K3TgTdVVdeZsRnYrnP2ta5Y11eCdj1dC6TQEeiE8mFKBohcv8Ko79M8PXtieif3o6hMu5SjYVHYtfuzZzCx6Q7L62KQUN1qg8UvYgZwk8q4rin27QQdYemUfB7MYS6KeciXB9Jgx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 04400 	- FAUCON DE BARCELONNETTE](https://docs.stopcoronavirus.tech/#/r/markdown/04400_faucon-de-barcelonnette/4XTTM9RF3e8SFJ46ZKetsZ2E1FCxotBcLb9DEJ1VNNNesy4ak) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 04400 	- FAUCON DE BARCELONNETTE](https://docs.stopcoronavirus.tech/#/w/markdown/04400_faucon-de-barcelonnette/4XTTM9RF3e8SFJ46ZKetsZ2E1FCxotBcLb9DEJ1VNNNesy4ak-K3TgTdVVdeZsRnYrnP2ta5Y11eCdj1dC6TQEeiE8mFKBohcv8Ko79M8PXtieif3o6hMu5SjYVHYtfuzZzCx6Q7L62KQUN1qg8UvYgZwk8q4rin27QQdYemUfB7MYS6KeciXB9Jgx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

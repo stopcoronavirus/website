@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 29690 	- BOTMEUR](https://docs.stopcoronavirus.tech/r/markdown/29690_botmeur/4XTTM2x6gBi9PA2noQzhMwxtsru41MKKfWjBUQXkjd32GfmQz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 29690 	- BOTMEUR](https://docs.stopcoronavirus.tech/w/markdown/29690_botmeur/4XTTM2x6gBi9PA2noQzhMwxtsru41MKKfWjBUQXkjd32GfmQz-K3TgUEQQ8jHBJTpx7G78k3VqGp1bT3vyAiSjZ7k8eq6gCBBuVdwJy3GMMha7876fn8ErsUFKzoF9koAaCGE88uTCAqbx5agCk6VKEFQHVyCzVyYvnGmAX2m8Frq8YSby1m1xbFXU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 29690 	- BOTMEUR](https://docs.stopcoronavirus.tech/#/r/markdown/29690_botmeur/4XTTM2x6gBi9PA2noQzhMwxtsru41MKKfWjBUQXkjd32GfmQz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 29690 	- BOTMEUR](https://docs.stopcoronavirus.tech/#/w/markdown/29690_botmeur/4XTTM2x6gBi9PA2noQzhMwxtsru41MKKfWjBUQXkjd32GfmQz-K3TgUEQQ8jHBJTpx7G78k3VqGp1bT3vyAiSjZ7k8eq6gCBBuVdwJy3GMMha7876fn8ErsUFKzoF9koAaCGE88uTCAqbx5agCk6VKEFQHVyCzVyYvnGmAX2m8Frq8YSby1m1xbFXU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 29 	- Finistère](https://docs.stopcoronavirus.tech/r/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 29 	- Finistère](https://docs.stopcoronavirus.tech/w/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC-K3TgUmttHvLKDBu5vxQ3oPzTia91UxXiaB3vEFjsHJiDiJD9aQfr6ibvcPa75Eo3oX7ob78s9tVxCKrtPM9bLAmDziVCSFjEgZbp3rqL8Ji8Q5aZhxfTcqkGX75WxHS6TQxtiQQ6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 29 	- Finistère](https://docs.stopcoronavirus.tech/#/r/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 29 	- Finistère](https://docs.stopcoronavirus.tech/#/w/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC-K3TgUmttHvLKDBu5vxQ3oPzTia91UxXiaB3vEFjsHJiDiJD9aQfr6ibvcPa75Eo3oX7ob78s9tVxCKrtPM9bLAmDziVCSFjEgZbp3rqL8Ji8Q5aZhxfTcqkGX75WxHS6TQxtiQQ6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

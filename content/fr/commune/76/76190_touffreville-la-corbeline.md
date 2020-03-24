@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76190 	- TOUFFREVILLE LA CORBELINE](https://docs.stopcoronavirus.tech/r/markdown/76190_touffreville-la-corbeline/4XTTM2vRHB1D2BxSh81EoVh7mWWZJ56brMhUwUba4qoDEXnQP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76190 	- TOUFFREVILLE LA CORBELINE](https://docs.stopcoronavirus.tech/w/markdown/76190_touffreville-la-corbeline/4XTTM2vRHB1D2BxSh81EoVh7mWWZJ56brMhUwUba4qoDEXnQP-K3TgV75SXDAfD1RAyqG8SC9oMEQeN9nE7oC4LtvFLUJUigC4WrRcBmbe5ahwLc6VfhHmb64EC2Giu8EiHkGrcAQKvwPDN3FgJjv8jDU1dWTSZVKAUroCKAc19hGggWNfxdZYHKfD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76190 	- TOUFFREVILLE LA CORBELINE](https://docs.stopcoronavirus.tech/#/r/markdown/76190_touffreville-la-corbeline/4XTTM2vRHB1D2BxSh81EoVh7mWWZJ56brMhUwUba4qoDEXnQP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76190 	- TOUFFREVILLE LA CORBELINE](https://docs.stopcoronavirus.tech/#/w/markdown/76190_touffreville-la-corbeline/4XTTM2vRHB1D2BxSh81EoVh7mWWZJ56brMhUwUba4qoDEXnQP-K3TgV75SXDAfD1RAyqG8SC9oMEQeN9nE7oC4LtvFLUJUigC4WrRcBmbe5ahwLc6VfhHmb64EC2Giu8EiHkGrcAQKvwPDN3FgJjv8jDU1dWTSZVKAUroCKAc19hGggWNfxdZYHKfD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

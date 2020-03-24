@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09500 	- ST QUENTIN LA TOUR](https://docs.stopcoronavirus.tech/r/markdown/09500_st-quentin-la-tour/4XTTMHtXLS4g91srPJJwNnXB3MVYtfxV8pMuko9otjXZAK99j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09500 	- ST QUENTIN LA TOUR](https://docs.stopcoronavirus.tech/w/markdown/09500_st-quentin-la-tour/4XTTMHtXLS4g91srPJJwNnXB3MVYtfxV8pMuko9otjXZAK99j-K3TgUAmtTm3hwvduH4qpygvjgpxhkFrJSGwVoDVnKrJBCBTDsiCHzR6ycyx7tDqHERhrnYW1mtUuGBYqPsRSWBP2xjmwDKiKvo4gHsY6eZoT2QG16G7kmQRH4rB8qEtaeHG77H7o) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09500 	- ST QUENTIN LA TOUR](https://docs.stopcoronavirus.tech/#/r/markdown/09500_st-quentin-la-tour/4XTTMHtXLS4g91srPJJwNnXB3MVYtfxV8pMuko9otjXZAK99j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09500 	- ST QUENTIN LA TOUR](https://docs.stopcoronavirus.tech/#/w/markdown/09500_st-quentin-la-tour/4XTTMHtXLS4g91srPJJwNnXB3MVYtfxV8pMuko9otjXZAK99j-K3TgUAmtTm3hwvduH4qpygvjgpxhkFrJSGwVoDVnKrJBCBTDsiCHzR6ycyx7tDqHERhrnYW1mtUuGBYqPsRSWBP2xjmwDKiKvo4gHsY6eZoT2QG16G7kmQRH4rB8qEtaeHG77H7o) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

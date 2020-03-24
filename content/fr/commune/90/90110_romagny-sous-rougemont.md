@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 90110 	- ROMAGNY SOUS ROUGEMONT](https://docs.stopcoronavirus.tech/r/markdown/90110_romagny-sous-rougemont/4XTTM3T9NKXg9nvtojsY5fnJasxUbFM2zyZNMsjniF8hXrQrW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90110 	- ROMAGNY SOUS ROUGEMONT](https://docs.stopcoronavirus.tech/w/markdown/90110_romagny-sous-rougemont/4XTTM3T9NKXg9nvtojsY5fnJasxUbFM2zyZNMsjniF8hXrQrW-K3TgUy9KQCN9GofMkVa2opSTm3LDPgfUSbrX4Q1TYPHPzAefTYZcXt6PzoLX7qCzd9eFfySH6ANiryBELg3yeArLn27LrFAt6p2c2efT23dM48wDLzr7HSwE15MPKh2SQ3ZgiQMY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 90110 	- ROMAGNY SOUS ROUGEMONT](https://docs.stopcoronavirus.tech/#/r/markdown/90110_romagny-sous-rougemont/4XTTM3T9NKXg9nvtojsY5fnJasxUbFM2zyZNMsjniF8hXrQrW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 90110 	- ROMAGNY SOUS ROUGEMONT](https://docs.stopcoronavirus.tech/#/w/markdown/90110_romagny-sous-rougemont/4XTTM3T9NKXg9nvtojsY5fnJasxUbFM2zyZNMsjniF8hXrQrW-K3TgUy9KQCN9GofMkVa2opSTm3LDPgfUSbrX4Q1TYPHPzAefTYZcXt6PzoLX7qCzd9eFfySH6ANiryBELg3yeArLn27LrFAt6p2c2efT23dM48wDLzr7HSwE15MPKh2SQ3ZgiQMY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

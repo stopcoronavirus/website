@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27680 	- ST SAMSON DE LA ROQUE](https://docs.stopcoronavirus.tech/r/markdown/27680_st-samson-de-la-roque/4XTTM1ur7PF8cfabEyj8ZVycHijCyMtHLHXRiyMoi6DfZEW6u) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27680 	- ST SAMSON DE LA ROQUE](https://docs.stopcoronavirus.tech/w/markdown/27680_st-samson-de-la-roque/4XTTM1ur7PF8cfabEyj8ZVycHijCyMtHLHXRiyMoi6DfZEW6u-K3TgUb1AoiS4umyDUdZaoZo7gbLYNaUxWRiLo6zkHM7WVauicg5YQwxegAwURJSeToNGapcUUQUzcu4weQJxUxRopc6fd3rGYVFevrLoB7UJJrrSVTVd18fHE243XANGJ4KbxnPj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27680 	- ST SAMSON DE LA ROQUE](https://docs.stopcoronavirus.tech/#/r/markdown/27680_st-samson-de-la-roque/4XTTM1ur7PF8cfabEyj8ZVycHijCyMtHLHXRiyMoi6DfZEW6u) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27680 	- ST SAMSON DE LA ROQUE](https://docs.stopcoronavirus.tech/#/w/markdown/27680_st-samson-de-la-roque/4XTTM1ur7PF8cfabEyj8ZVycHijCyMtHLHXRiyMoi6DfZEW6u-K3TgUb1AoiS4umyDUdZaoZo7gbLYNaUxWRiLo6zkHM7WVauicg5YQwxegAwURJSeToNGapcUUQUzcu4weQJxUxRopc6fd3rGYVFevrLoB7UJJrrSVTVd18fHE243XANGJ4KbxnPj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

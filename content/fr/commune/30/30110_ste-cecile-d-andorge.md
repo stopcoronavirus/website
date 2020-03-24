@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30110 	- STE CECILE D ANDORGE](https://docs.stopcoronavirus.tech/r/markdown/30110_ste-cecile-d-andorge/4XTTMBKYQaigbs8KqRuG3cYyrFHU4NpxsarXQPt2Szx9TaJ9R) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30110 	- STE CECILE D ANDORGE](https://docs.stopcoronavirus.tech/w/markdown/30110_ste-cecile-d-andorge/4XTTMBKYQaigbs8KqRuG3cYyrFHU4NpxsarXQPt2Szx9TaJ9R-K3TgV2n1EMrySQ1zPk4dNpbiaWjqb6sQjJE2bALQhUCgpDu6p1N5TmHLp4CvFT4riUVH4PUWwjNPndGG86kUQbmCwo8RAAkHHaiVe9U88RsBSZ6e9ZhFcLzgrW1YozsDvGpTx7WK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30110 	- STE CECILE D ANDORGE](https://docs.stopcoronavirus.tech/#/r/markdown/30110_ste-cecile-d-andorge/4XTTMBKYQaigbs8KqRuG3cYyrFHU4NpxsarXQPt2Szx9TaJ9R) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30110 	- STE CECILE D ANDORGE](https://docs.stopcoronavirus.tech/#/w/markdown/30110_ste-cecile-d-andorge/4XTTMBKYQaigbs8KqRuG3cYyrFHU4NpxsarXQPt2Szx9TaJ9R-K3TgV2n1EMrySQ1zPk4dNpbiaWjqb6sQjJE2bALQhUCgpDu6p1N5TmHLp4CvFT4riUVH4PUWwjNPndGG86kUQbmCwo8RAAkHHaiVe9U88RsBSZ6e9ZhFcLzgrW1YozsDvGpTx7WK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

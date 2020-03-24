@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 47170 	- REAUP LISSE](https://docs.stopcoronavirus.tech/r/markdown/47170_reaup-lisse/4XTTM5a5dEPXUAM4kRwQSYDengSeSarAZUDNBZcVxJ7a1wgCW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47170 	- REAUP LISSE](https://docs.stopcoronavirus.tech/w/markdown/47170_reaup-lisse/4XTTM5a5dEPXUAM4kRwQSYDengSeSarAZUDNBZcVxJ7a1wgCW-K3TgUt7GEMQxe3thzrHXmvEUYbomF69djbyu86Rs8GhBmra2Dk1ePjqpugvXobHXoFe4dR3C2qYexy5ssHSP3bJ7seGByJ5XsiE5RHjUxi3nSSQAGXqfaMFV6GU9pxt6piSmsY4n) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47170 	- REAUP LISSE](https://docs.stopcoronavirus.tech/#/r/markdown/47170_reaup-lisse/4XTTM5a5dEPXUAM4kRwQSYDengSeSarAZUDNBZcVxJ7a1wgCW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47170 	- REAUP LISSE](https://docs.stopcoronavirus.tech/#/w/markdown/47170_reaup-lisse/4XTTM5a5dEPXUAM4kRwQSYDengSeSarAZUDNBZcVxJ7a1wgCW-K3TgUt7GEMQxe3thzrHXmvEUYbomF69djbyu86Rs8GhBmra2Dk1ePjqpugvXobHXoFe4dR3C2qYexy5ssHSP3bJ7seGByJ5XsiE5RHjUxi3nSSQAGXqfaMFV6GU9pxt6piSmsY4n) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80140 	- DOUDELAINVILLE](https://docs.stopcoronavirus.tech/r/markdown/80140_doudelainville/4XTTM67MUYfE1Fk8yrNUpsWHMiY9PtEeep9veyxGXXm3mhAdW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80140 	- DOUDELAINVILLE](https://docs.stopcoronavirus.tech/w/markdown/80140_doudelainville/4XTTM67MUYfE1Fk8yrNUpsWHMiY9PtEeep9veyxGXXm3mhAdW-K3TgUEzwYmDwhHJe7jTYFMsyy1EwYVfHxNVvnRtznXc6yRvPePWo1x5Bp9Wqr1FfjzH66GghESGo5LCFZK3hfacfbXneVV1f48FJZHY9rQwH7T9HX3X3C2qvBFzMb5bByQPY87wn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80140 	- DOUDELAINVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/80140_doudelainville/4XTTM67MUYfE1Fk8yrNUpsWHMiY9PtEeep9veyxGXXm3mhAdW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80140 	- DOUDELAINVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/80140_doudelainville/4XTTM67MUYfE1Fk8yrNUpsWHMiY9PtEeep9veyxGXXm3mhAdW-K3TgUEzwYmDwhHJe7jTYFMsyy1EwYVfHxNVvnRtznXc6yRvPePWo1x5Bp9Wqr1FfjzH66GghESGo5LCFZK3hfacfbXneVV1f48FJZHY9rQwH7T9HX3X3C2qvBFzMb5bByQPY87wn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32300 	- L ISLE DE NOE](https://docs.stopcoronavirus.tech/r/markdown/32300_l-isle-de-noe/4XTTM5rqguRd2Wm7vt1kFELWqbVfuGMZy4uKxWT3xaYjcXQTa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32300 	- L ISLE DE NOE](https://docs.stopcoronavirus.tech/w/markdown/32300_l-isle-de-noe/4XTTM5rqguRd2Wm7vt1kFELWqbVfuGMZy4uKxWT3xaYjcXQTa-K3TgUXU19t3zqMGYVhaqkporaFkPZddQxL1vVUY3HyfzVy8s4CLsDSD54oW9WH8MDw7x8EHEpvbtVLP5q7ijr5tjBPd2pEt92kpAVS4wW3eNqdutgWerF9NnkBrbr1UtEf8WxLd6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32300 	- L ISLE DE NOE](https://docs.stopcoronavirus.tech/#/r/markdown/32300_l-isle-de-noe/4XTTM5rqguRd2Wm7vt1kFELWqbVfuGMZy4uKxWT3xaYjcXQTa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32300 	- L ISLE DE NOE](https://docs.stopcoronavirus.tech/#/w/markdown/32300_l-isle-de-noe/4XTTM5rqguRd2Wm7vt1kFELWqbVfuGMZy4uKxWT3xaYjcXQTa-K3TgUXU19t3zqMGYVhaqkporaFkPZddQxL1vVUY3HyfzVy8s4CLsDSD54oW9WH8MDw7x8EHEpvbtVLP5q7ijr5tjBPd2pEt92kpAVS4wW3eNqdutgWerF9NnkBrbr1UtEf8WxLd6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

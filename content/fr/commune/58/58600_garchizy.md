@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 58600 	- GARCHIZY](https://docs.stopcoronavirus.tech/r/markdown/58600_garchizy/4XTTMBtpErG63HzCFSZreruNcNapU3Uh9g2yvDxvPBKrjqunx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58600 	- GARCHIZY](https://docs.stopcoronavirus.tech/w/markdown/58600_garchizy/4XTTMBtpErG63HzCFSZreruNcNapU3Uh9g2yvDxvPBKrjqunx-K3TgUfypt3T7NdGCXSj5kix1xZCcQuAHDMN7sVpbGwRp49HYH1uSzEQ35w88WesyyT6c48PhYid9rkiheyRx5qbLmdzmoP4qbW5MqXoi7eWcZciH7hud7f5EhMwn2nuX4Wns34UY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58600 	- GARCHIZY](https://docs.stopcoronavirus.tech/#/r/markdown/58600_garchizy/4XTTMBtpErG63HzCFSZreruNcNapU3Uh9g2yvDxvPBKrjqunx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58600 	- GARCHIZY](https://docs.stopcoronavirus.tech/#/w/markdown/58600_garchizy/4XTTMBtpErG63HzCFSZreruNcNapU3Uh9g2yvDxvPBKrjqunx-K3TgUfypt3T7NdGCXSj5kix1xZCcQuAHDMN7sVpbGwRp49HYH1uSzEQ35w88WesyyT6c48PhYid9rkiheyRx5qbLmdzmoP4qbW5MqXoi7eWcZciH7hud7f5EhMwn2nuX4Wns34UY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

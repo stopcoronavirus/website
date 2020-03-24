@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01240 	- LA CHAPELLE DU CHATELARD](https://docs.stopcoronavirus.tech/r/markdown/01240_la-chapelle-du-chatelard/4XTTM7DFXzJerKmUfT9AaGYT32ogo6Ux8nuoRQ6h8wGCqQuZr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01240 	- LA CHAPELLE DU CHATELARD](https://docs.stopcoronavirus.tech/w/markdown/01240_la-chapelle-du-chatelard/4XTTM7DFXzJerKmUfT9AaGYT32ogo6Ux8nuoRQ6h8wGCqQuZr-K3TgUFnpggvgpm9L4g6RQsCTuMvKT6VTNNcXK8fh7YYzfuPjAdURZRXkH3TSLtgfypztQGBmZq5cRcKKA64L3pBJaD86ehWp6LNSnHrUn6dxV5SuXCLJ7EZ3Eu8oZbw3PsvuLu92) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01240 	- LA CHAPELLE DU CHATELARD](https://docs.stopcoronavirus.tech/#/r/markdown/01240_la-chapelle-du-chatelard/4XTTM7DFXzJerKmUfT9AaGYT32ogo6Ux8nuoRQ6h8wGCqQuZr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01240 	- LA CHAPELLE DU CHATELARD](https://docs.stopcoronavirus.tech/#/w/markdown/01240_la-chapelle-du-chatelard/4XTTM7DFXzJerKmUfT9AaGYT32ogo6Ux8nuoRQ6h8wGCqQuZr-K3TgUFnpggvgpm9L4g6RQsCTuMvKT6VTNNcXK8fh7YYzfuPjAdURZRXkH3TSLtgfypztQGBmZq5cRcKKA64L3pBJaD86ehWp6LNSnHrUn6dxV5SuXCLJ7EZ3Eu8oZbw3PsvuLu92) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

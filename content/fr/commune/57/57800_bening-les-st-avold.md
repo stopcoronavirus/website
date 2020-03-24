@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 57800 	- BENING LES ST AVOLD](https://docs.stopcoronavirus.tech/r/markdown/57800_bening-les-st-avold/4XTTM7yQ8T255eH81M3D2S2PuF8UTC5yhtbxccTYgxd2yYpJ7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57800 	- BENING LES ST AVOLD](https://docs.stopcoronavirus.tech/w/markdown/57800_bening-les-st-avold/4XTTM7yQ8T255eH81M3D2S2PuF8UTC5yhtbxccTYgxd2yYpJ7-K3TgUqWL4oX27bJQEq5iKGtkxHqQbupvxxYN4niv8Ymt3hpDC4N3t1TowMnJACfwUjnzLxPoyv4MwnT3ozM281y5mJw66AkStCRQnd9B3VDEm2BGmg9hXcUGbtia6YoccKrGaiLj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57800 	- BENING LES ST AVOLD](https://docs.stopcoronavirus.tech/#/r/markdown/57800_bening-les-st-avold/4XTTM7yQ8T255eH81M3D2S2PuF8UTC5yhtbxccTYgxd2yYpJ7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57800 	- BENING LES ST AVOLD](https://docs.stopcoronavirus.tech/#/w/markdown/57800_bening-les-st-avold/4XTTM7yQ8T255eH81M3D2S2PuF8UTC5yhtbxccTYgxd2yYpJ7-K3TgUqWL4oX27bJQEq5iKGtkxHqQbupvxxYN4niv8Ymt3hpDC4N3t1TowMnJACfwUjnzLxPoyv4MwnT3ozM281y5mJw66AkStCRQnd9B3VDEm2BGmg9hXcUGbtia6YoccKrGaiLj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

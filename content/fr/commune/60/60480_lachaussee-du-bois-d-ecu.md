@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60480 	- LACHAUSSEE DU BOIS D ECU](https://docs.stopcoronavirus.tech/r/markdown/60480_lachaussee-du-bois-d-ecu/4XTTMFazKJNXYuftSk56Xmo4dKTdo2o79E5F8DRvg5fm4CDDn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60480 	- LACHAUSSEE DU BOIS D ECU](https://docs.stopcoronavirus.tech/w/markdown/60480_lachaussee-du-bois-d-ecu/4XTTMFazKJNXYuftSk56Xmo4dKTdo2o79E5F8DRvg5fm4CDDn-K3TgUuja4gJLybyVjYeJ87BrWxAQqosjiYEtVGXz8SmtDC9qbXYZPLRihnts93dMPN4AySzzv4DwtsVV5So6ptyocGuXjFMutjK7pBJzFY6gHJUDSgYmefBK24ZX6Qd5e4TwzDJk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60480 	- LACHAUSSEE DU BOIS D ECU](https://docs.stopcoronavirus.tech/#/r/markdown/60480_lachaussee-du-bois-d-ecu/4XTTMFazKJNXYuftSk56Xmo4dKTdo2o79E5F8DRvg5fm4CDDn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60480 	- LACHAUSSEE DU BOIS D ECU](https://docs.stopcoronavirus.tech/#/w/markdown/60480_lachaussee-du-bois-d-ecu/4XTTMFazKJNXYuftSk56Xmo4dKTdo2o79E5F8DRvg5fm4CDDn-K3TgUuja4gJLybyVjYeJ87BrWxAQqosjiYEtVGXz8SmtDC9qbXYZPLRihnts93dMPN4AySzzv4DwtsVV5So6ptyocGuXjFMutjK7pBJzFY6gHJUDSgYmefBK24ZX6Qd5e4TwzDJk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

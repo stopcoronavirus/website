@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 55150 	- BRANDEVILLE](https://docs.stopcoronavirus.tech/r/markdown/55150_brandeville/4XTTM3CeLTmyXuj8TN5VXCeVkoymbF3FLXxdR4ryacTdr9yco) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55150 	- BRANDEVILLE](https://docs.stopcoronavirus.tech/w/markdown/55150_brandeville/4XTTM3CeLTmyXuj8TN5VXCeVkoymbF3FLXxdR4ryacTdr9yco-K3TgUnH17Ff2NGrBc2S8gFpPUqZs4dhZ4rRAsWf1EwHUK49upL1oVKBSSkLASSCApkBjGyrBkWzpZf86VbJC6fg3JLg7ANPRoR2ACwXj2YaZfY39BLfkvsST5T6CnMjF7RGztXWT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55150 	- BRANDEVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/55150_brandeville/4XTTM3CeLTmyXuj8TN5VXCeVkoymbF3FLXxdR4ryacTdr9yco) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55150 	- BRANDEVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/55150_brandeville/4XTTM3CeLTmyXuj8TN5VXCeVkoymbF3FLXxdR4ryacTdr9yco-K3TgUnH17Ff2NGrBc2S8gFpPUqZs4dhZ4rRAsWf1EwHUK49upL1oVKBSSkLASSCApkBjGyrBkWzpZf86VbJC6fg3JLg7ANPRoR2ACwXj2YaZfY39BLfkvsST5T6CnMjF7RGztXWT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

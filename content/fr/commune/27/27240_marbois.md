@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27240 	- MARBOIS](https://docs.stopcoronavirus.tech/r/markdown/27240_marbois/4XTTM9tJLL5Hxx3DxmszxdYYKRe97kQbc9cjR5wq8qMwV9TvU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27240 	- MARBOIS](https://docs.stopcoronavirus.tech/w/markdown/27240_marbois/4XTTM9tJLL5Hxx3DxmszxdYYKRe97kQbc9cjR5wq8qMwV9TvU-K3TgV3DfP6QYGAR5gwCV2Jsu8XH56mjvf2UeaH9f1Ppgm3z1uuLw54QXViZWJvCNCu56tJaYVkgS6P9TjCUrjWJ9V2hYuZoxvCEDboxZv1NrvrmHf3znDyy61x9ZTfuc1gs5Uh2t) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27240 	- MARBOIS](https://docs.stopcoronavirus.tech/#/r/markdown/27240_marbois/4XTTM9tJLL5Hxx3DxmszxdYYKRe97kQbc9cjR5wq8qMwV9TvU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27240 	- MARBOIS](https://docs.stopcoronavirus.tech/#/w/markdown/27240_marbois/4XTTM9tJLL5Hxx3DxmszxdYYKRe97kQbc9cjR5wq8qMwV9TvU-K3TgV3DfP6QYGAR5gwCV2Jsu8XH56mjvf2UeaH9f1Ppgm3z1uuLw54QXViZWJvCNCu56tJaYVkgS6P9TjCUrjWJ9V2hYuZoxvCEDboxZv1NrvrmHf3znDyy61x9ZTfuc1gs5Uh2t) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21390 	- NOIDAN](https://docs.stopcoronavirus.tech/r/markdown/21390_noidan/4XTTM1HqKVH6PdskdAgSQZafc8YwxJYXgz6Bv88r9Z7PjxVAW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21390 	- NOIDAN](https://docs.stopcoronavirus.tech/w/markdown/21390_noidan/4XTTM1HqKVH6PdskdAgSQZafc8YwxJYXgz6Bv88r9Z7PjxVAW-K3TgUeJ5udks46machTMddF7YxCWcF973LMXjyxyxBX7EiGkWecXNuNDK5V8VRa2Qe6t5e3MsNwvjqNqkWZJiUMf1iopr27sSu5RnhLaRwjm6zjnBv6QV1NzmVAsFXaaJ5aaK6yk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21390 	- NOIDAN](https://docs.stopcoronavirus.tech/#/r/markdown/21390_noidan/4XTTM1HqKVH6PdskdAgSQZafc8YwxJYXgz6Bv88r9Z7PjxVAW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21390 	- NOIDAN](https://docs.stopcoronavirus.tech/#/w/markdown/21390_noidan/4XTTM1HqKVH6PdskdAgSQZafc8YwxJYXgz6Bv88r9Z7PjxVAW-K3TgUeJ5udks46machTMddF7YxCWcF973LMXjyxyxBX7EiGkWecXNuNDK5V8VRa2Qe6t5e3MsNwvjqNqkWZJiUMf1iopr27sSu5RnhLaRwjm6zjnBv6QV1NzmVAsFXaaJ5aaK6yk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

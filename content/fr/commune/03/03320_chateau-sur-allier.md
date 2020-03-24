@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 03320 	- CHATEAU SUR ALLIER](https://docs.stopcoronavirus.tech/r/markdown/03320_chateau-sur-allier/4XTTMFfPXnRzR4GRepnuBjyUDYisLsZm2jZUPPNxvWHaBKbp1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03320 	- CHATEAU SUR ALLIER](https://docs.stopcoronavirus.tech/w/markdown/03320_chateau-sur-allier/4XTTMFfPXnRzR4GRepnuBjyUDYisLsZm2jZUPPNxvWHaBKbp1-K3TgV3xc4Ce72oLnPgK1EXHFPL7vRQv62xa281u71fQGyxMmnjvgv2EP5wmvma2d33JBwSwLxkiaeE1HA7Emqo2SGsmBFwS3deysDKPdqjp4AAEEphHKT9kazE7nRk1EcYu2MCeZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03320 	- CHATEAU SUR ALLIER](https://docs.stopcoronavirus.tech/#/r/markdown/03320_chateau-sur-allier/4XTTMFfPXnRzR4GRepnuBjyUDYisLsZm2jZUPPNxvWHaBKbp1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03320 	- CHATEAU SUR ALLIER](https://docs.stopcoronavirus.tech/#/w/markdown/03320_chateau-sur-allier/4XTTMFfPXnRzR4GRepnuBjyUDYisLsZm2jZUPPNxvWHaBKbp1-K3TgV3xc4Ce72oLnPgK1EXHFPL7vRQv62xa281u71fQGyxMmnjvgv2EP5wmvma2d33JBwSwLxkiaeE1HA7Emqo2SGsmBFwS3deysDKPdqjp4AAEEphHKT9kazE7nRk1EcYu2MCeZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76450 	- GRAINVILLE LA TEINTURIERE](https://docs.stopcoronavirus.tech/r/markdown/76450_grainville-la-teinturiere/4XTTMHze5gSqTfAybhuu5ntcsnxv7EmAyv5JdK7JK9yy5DKZR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76450 	- GRAINVILLE LA TEINTURIERE](https://docs.stopcoronavirus.tech/w/markdown/76450_grainville-la-teinturiere/4XTTMHze5gSqTfAybhuu5ntcsnxv7EmAyv5JdK7JK9yy5DKZR-K3TgUWKo1KxA1nNmiDN63RJ3MG2oCcvFZAwCbuAiSWrVL4qghS3KrPeS4YFoJdhqBi56aZvpZ4cmoiHxBV1kYaN2f367zwhfENjeTaJwLiBtzFZBsdMaXfo4gJaFhSgTmoPqQNPy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76450 	- GRAINVILLE LA TEINTURIERE](https://docs.stopcoronavirus.tech/#/r/markdown/76450_grainville-la-teinturiere/4XTTMHze5gSqTfAybhuu5ntcsnxv7EmAyv5JdK7JK9yy5DKZR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76450 	- GRAINVILLE LA TEINTURIERE](https://docs.stopcoronavirus.tech/#/w/markdown/76450_grainville-la-teinturiere/4XTTMHze5gSqTfAybhuu5ntcsnxv7EmAyv5JdK7JK9yy5DKZR-K3TgUWKo1KxA1nNmiDN63RJ3MG2oCcvFZAwCbuAiSWrVL4qghS3KrPeS4YFoJdhqBi56aZvpZ4cmoiHxBV1kYaN2f367zwhfENjeTaJwLiBtzFZBsdMaXfo4gJaFhSgTmoPqQNPy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

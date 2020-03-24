@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07270 	- NOZIERES](https://docs.stopcoronavirus.tech/r/markdown/07270_nozieres/4XTTM9Y9rWrwbFoUQQ5Akw5N9LiZve2tfeXxZXYkdardy5PbF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07270 	- NOZIERES](https://docs.stopcoronavirus.tech/w/markdown/07270_nozieres/4XTTM9Y9rWrwbFoUQQ5Akw5N9LiZve2tfeXxZXYkdardy5PbF-K3TgUk3vMog25Py9mcACy68RiogLS9BE3KQT4BmUuK6xdV5fHequPMChSC1UVkboe2cLmixCgU1tqEWezuHQ8g4bg4b4f2V2Cw6k7yARQn7eA4SqsYH429KnCgVrzKL8cp71TiG1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07270 	- NOZIERES](https://docs.stopcoronavirus.tech/#/r/markdown/07270_nozieres/4XTTM9Y9rWrwbFoUQQ5Akw5N9LiZve2tfeXxZXYkdardy5PbF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07270 	- NOZIERES](https://docs.stopcoronavirus.tech/#/w/markdown/07270_nozieres/4XTTM9Y9rWrwbFoUQQ5Akw5N9LiZve2tfeXxZXYkdardy5PbF-K3TgUk3vMog25Py9mcACy68RiogLS9BE3KQT4BmUuK6xdV5fHequPMChSC1UVkboe2cLmixCgU1tqEWezuHQ8g4bg4b4f2V2Cw6k7yARQn7eA4SqsYH429KnCgVrzKL8cp71TiG1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

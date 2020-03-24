@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02310 	- MONTREUIL AUX LIONS](https://docs.stopcoronavirus.tech/r/markdown/02310_montreuil-aux-lions/4XTTMHfS5J7ofx7YFsmXwc776QviNrn8T3yAm11eP4BVuZgsv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02310 	- MONTREUIL AUX LIONS](https://docs.stopcoronavirus.tech/w/markdown/02310_montreuil-aux-lions/4XTTMHfS5J7ofx7YFsmXwc776QviNrn8T3yAm11eP4BVuZgsv-K3TgUekNDfn2re8FcvVGwey3xrzr4yoS8nsWAYB1yVBcTqKBqTXpsUs1TkMRWz1n8w4yGaVGHRGjp1rCpxX7hBBk5CE24YiTnz9ohNGTrfCH5pW19MKgMMfXqqxsmsfVajdnfQKv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02310 	- MONTREUIL AUX LIONS](https://docs.stopcoronavirus.tech/#/r/markdown/02310_montreuil-aux-lions/4XTTMHfS5J7ofx7YFsmXwc776QviNrn8T3yAm11eP4BVuZgsv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02310 	- MONTREUIL AUX LIONS](https://docs.stopcoronavirus.tech/#/w/markdown/02310_montreuil-aux-lions/4XTTMHfS5J7ofx7YFsmXwc776QviNrn8T3yAm11eP4BVuZgsv-K3TgUekNDfn2re8FcvVGwey3xrzr4yoS8nsWAYB1yVBcTqKBqTXpsUs1TkMRWz1n8w4yGaVGHRGjp1rCpxX7hBBk5CE24YiTnz9ohNGTrfCH5pW19MKgMMfXqqxsmsfVajdnfQKv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 47160 	- VILLEFRANCHE DU QUEYRAN](https://docs.stopcoronavirus.tech/r/markdown/47160_villefranche-du-queyran/4XTTME5VDXEUgbt5jFuMic8txhJwXrMh1Q8DVGtuEx2BG9eiV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47160 	- VILLEFRANCHE DU QUEYRAN](https://docs.stopcoronavirus.tech/w/markdown/47160_villefranche-du-queyran/4XTTME5VDXEUgbt5jFuMic8txhJwXrMh1Q8DVGtuEx2BG9eiV-K3TgTtp4J362y4a9yccLigZz7Kgy2dccPkP352i1esWP5eNhNwFZL4Yjxp8RH6a7rDe6cCiZjY4mAJU1jyQz13DB2UHRMkfzeqiHQ7EL9ap79Tq7B4JdXdcWug9sFf5qo6pSCdHs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47160 	- VILLEFRANCHE DU QUEYRAN](https://docs.stopcoronavirus.tech/#/r/markdown/47160_villefranche-du-queyran/4XTTME5VDXEUgbt5jFuMic8txhJwXrMh1Q8DVGtuEx2BG9eiV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47160 	- VILLEFRANCHE DU QUEYRAN](https://docs.stopcoronavirus.tech/#/w/markdown/47160_villefranche-du-queyran/4XTTME5VDXEUgbt5jFuMic8txhJwXrMh1Q8DVGtuEx2BG9eiV-K3TgTtp4J362y4a9yccLigZz7Kgy2dccPkP352i1esWP5eNhNwFZL4Yjxp8RH6a7rDe6cCiZjY4mAJU1jyQz13DB2UHRMkfzeqiHQ7EL9ap79Tq7B4JdXdcWug9sFf5qo6pSCdHs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

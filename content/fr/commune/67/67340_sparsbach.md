@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 67340 	- SPARSBACH](https://docs.stopcoronavirus.tech/r/markdown/67340_sparsbach/4XTTMBorosBoHovbwEVdh7Xke99P15QtrgxpbSoPv8kFjmi8n) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 67340 	- SPARSBACH](https://docs.stopcoronavirus.tech/w/markdown/67340_sparsbach/4XTTMBorosBoHovbwEVdh7Xke99P15QtrgxpbSoPv8kFjmi8n-K3TgUvt6xS6mS8dV4z4af7d1a4wkvyaH6h5eMmUngwnhH8poxtsh9fpDNyW8qp4qim9YS7w1go5Y4nGFEm5VdP4sMe57ddAWTXfGXJSFjenZiNM2rFoVC1pYz6ug8opqJ4sPa66i) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 67340 	- SPARSBACH](https://docs.stopcoronavirus.tech/#/r/markdown/67340_sparsbach/4XTTMBorosBoHovbwEVdh7Xke99P15QtrgxpbSoPv8kFjmi8n) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 67340 	- SPARSBACH](https://docs.stopcoronavirus.tech/#/w/markdown/67340_sparsbach/4XTTMBorosBoHovbwEVdh7Xke99P15QtrgxpbSoPv8kFjmi8n-K3TgUvt6xS6mS8dV4z4af7d1a4wkvyaH6h5eMmUngwnhH8poxtsh9fpDNyW8qp4qim9YS7w1go5Y4nGFEm5VdP4sMe57ddAWTXfGXJSFjenZiNM2rFoVC1pYz6ug8opqJ4sPa66i) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/r/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/w/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24-K3TgU9W9pVWN9ZNXuC5pEDp9v136JmAD3LgUx7xHTmm86fi3KvoJhwqQEXKguZSba62YFt5ik1qbdAF4H61TCwnd1buQJ4xQb84agy6uR7khoqjUGRmD9k4LfibwRBtWd7j9RhhW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/#/r/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/#/w/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24-K3TgU9W9pVWN9ZNXuC5pEDp9v136JmAD3LgUx7xHTmm86fi3KvoJhwqQEXKguZSba62YFt5ik1qbdAF4H61TCwnd1buQJ4xQb84agy6uR7khoqjUGRmD9k4LfibwRBtWd7j9RhhW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

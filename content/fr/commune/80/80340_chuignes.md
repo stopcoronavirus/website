@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80340 	- CHUIGNES](https://docs.stopcoronavirus.tech/r/markdown/80340_chuignes/4XTTMCWKU6FkXxcajCd3nwfGHHdsQyVXeNWwzsCi1BBeERFkU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80340 	- CHUIGNES](https://docs.stopcoronavirus.tech/w/markdown/80340_chuignes/4XTTMCWKU6FkXxcajCd3nwfGHHdsQyVXeNWwzsCi1BBeERFkU-K3TgUx2ZwMADcerq3y3uUUpEw93R6So4N8K866XS6yf68c4WknHFnDy6BmjW2VLt52DmWTatoDn3mN1UQcehY58jc97QT9quWUa6udGYyEsZSjqahXJ7Girtf2JMi8dHjLiQmjZi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80340 	- CHUIGNES](https://docs.stopcoronavirus.tech/#/r/markdown/80340_chuignes/4XTTMCWKU6FkXxcajCd3nwfGHHdsQyVXeNWwzsCi1BBeERFkU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80340 	- CHUIGNES](https://docs.stopcoronavirus.tech/#/w/markdown/80340_chuignes/4XTTMCWKU6FkXxcajCd3nwfGHHdsQyVXeNWwzsCi1BBeERFkU-K3TgUx2ZwMADcerq3y3uUUpEw93R6So4N8K866XS6yf68c4WknHFnDy6BmjW2VLt52DmWTatoDn3mN1UQcehY58jc97QT9quWUa6udGYyEsZSjqahXJ7Girtf2JMi8dHjLiQmjZi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01400 	- DOMPIERRE SUR CHALARONNE](https://docs.stopcoronavirus.tech/r/markdown/01400_dompierre-sur-chalaronne/4XTTMHn9aYrF8rwJ28UwXjGeGfZNAWyWF92tywKM5cyjs3Lqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01400 	- DOMPIERRE SUR CHALARONNE](https://docs.stopcoronavirus.tech/w/markdown/01400_dompierre-sur-chalaronne/4XTTMHn9aYrF8rwJ28UwXjGeGfZNAWyWF92tywKM5cyjs3Lqi-K3TgUSwQCigcptJpwoVCdf6P585Wp9CgN2ukpu23NdNPKBX8147Dfxhi9yKggmb8AtsBsba6FxsXQLarFxXdDMncu3hwUiHBidJCvrMHHREcyAQRWuG7TsaDpedyxxXEfhAkboHn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01400 	- DOMPIERRE SUR CHALARONNE](https://docs.stopcoronavirus.tech/#/r/markdown/01400_dompierre-sur-chalaronne/4XTTMHn9aYrF8rwJ28UwXjGeGfZNAWyWF92tywKM5cyjs3Lqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01400 	- DOMPIERRE SUR CHALARONNE](https://docs.stopcoronavirus.tech/#/w/markdown/01400_dompierre-sur-chalaronne/4XTTMHn9aYrF8rwJ28UwXjGeGfZNAWyWF92tywKM5cyjs3Lqi-K3TgUSwQCigcptJpwoVCdf6P585Wp9CgN2ukpu23NdNPKBX8147Dfxhi9yKggmb8AtsBsba6FxsXQLarFxXdDMncu3hwUiHBidJCvrMHHREcyAQRWuG7TsaDpedyxxXEfhAkboHn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

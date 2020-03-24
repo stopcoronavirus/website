@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09000 	- SERRES SUR ARGET](https://docs.stopcoronavirus.tech/r/markdown/09000_serres-sur-arget/4XTTMCWoWJGCjm374PtVans3pZ2cMjERGwf6jUpfci2qivez2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09000 	- SERRES SUR ARGET](https://docs.stopcoronavirus.tech/w/markdown/09000_serres-sur-arget/4XTTMCWoWJGCjm374PtVans3pZ2cMjERGwf6jUpfci2qivez2-K3TgTsT11Ma22JQ8QUcz9Aitwwy9CNMPTBDiiHFsWC73z4QvMux15jA6voLF81zWJUarhT7oan5gf2xwmKV9KA91trERDMfGLhbZcM4KMZnCvB9TbZa435hKb1d42Kae1Xc4HwvE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09000 	- SERRES SUR ARGET](https://docs.stopcoronavirus.tech/#/r/markdown/09000_serres-sur-arget/4XTTMCWoWJGCjm374PtVans3pZ2cMjERGwf6jUpfci2qivez2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09000 	- SERRES SUR ARGET](https://docs.stopcoronavirus.tech/#/w/markdown/09000_serres-sur-arget/4XTTMCWoWJGCjm374PtVans3pZ2cMjERGwf6jUpfci2qivez2-K3TgTsT11Ma22JQ8QUcz9Aitwwy9CNMPTBDiiHFsWC73z4QvMux15jA6voLF81zWJUarhT7oan5gf2xwmKV9KA91trERDMfGLhbZcM4KMZnCvB9TbZa435hKb1d42Kae1Xc4HwvE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

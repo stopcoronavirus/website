@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77600 	- CHANTELOUP EN BRIE](https://docs.stopcoronavirus.tech/r/markdown/77600_chanteloup-en-brie/4XTTM1wY1yhf53Vb5Wefrz5XL7uq1UgBvZydxCNMr9kVbdBgS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77600 	- CHANTELOUP EN BRIE](https://docs.stopcoronavirus.tech/w/markdown/77600_chanteloup-en-brie/4XTTM1wY1yhf53Vb5Wefrz5XL7uq1UgBvZydxCNMr9kVbdBgS-K3TgUR46mEU5WmuZU2sdaTvm6mbWty9iZGdJMFwmw1Nq8YmmsWMTjWVkWu7eyh44sLbSa8cZbStA663sB5P7BppuT3u9MM6QwJNnhFPw4yrXjnsSsMt5ba4nJMNaiNRo1MJaXEcv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77600 	- CHANTELOUP EN BRIE](https://docs.stopcoronavirus.tech/#/r/markdown/77600_chanteloup-en-brie/4XTTM1wY1yhf53Vb5Wefrz5XL7uq1UgBvZydxCNMr9kVbdBgS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77600 	- CHANTELOUP EN BRIE](https://docs.stopcoronavirus.tech/#/w/markdown/77600_chanteloup-en-brie/4XTTM1wY1yhf53Vb5Wefrz5XL7uq1UgBvZydxCNMr9kVbdBgS-K3TgUR46mEU5WmuZU2sdaTvm6mbWty9iZGdJMFwmw1Nq8YmmsWMTjWVkWu7eyh44sLbSa8cZbStA663sB5P7BppuT3u9MM6QwJNnhFPw4yrXjnsSsMt5ba4nJMNaiNRo1MJaXEcv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

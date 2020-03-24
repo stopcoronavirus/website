@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27180 	- ST SEBASTIEN DE MORSENT](https://docs.stopcoronavirus.tech/r/markdown/27180_st-sebastien-de-morsent/4XTTMB6ibki85P9H5bwn2ZPkV5hjm8Z8bzG9iQzdLNmq5bCGQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27180 	- ST SEBASTIEN DE MORSENT](https://docs.stopcoronavirus.tech/w/markdown/27180_st-sebastien-de-morsent/4XTTMB6ibki85P9H5bwn2ZPkV5hjm8Z8bzG9iQzdLNmq5bCGQ-K3TgUyRsGJtL2dMCB8LqCJTR4jnnYS7RqoCLN7FueFCw3fMNTiT6Qi9xwF6BUhpDF9D68hks5BfCkAQSHEyw8CsBfvRiQ33GEviZhwr3eTQWdoCFCpp7xJbR4gC7U6bCZUz4iv8Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27180 	- ST SEBASTIEN DE MORSENT](https://docs.stopcoronavirus.tech/#/r/markdown/27180_st-sebastien-de-morsent/4XTTMB6ibki85P9H5bwn2ZPkV5hjm8Z8bzG9iQzdLNmq5bCGQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27180 	- ST SEBASTIEN DE MORSENT](https://docs.stopcoronavirus.tech/#/w/markdown/27180_st-sebastien-de-morsent/4XTTMB6ibki85P9H5bwn2ZPkV5hjm8Z8bzG9iQzdLNmq5bCGQ-K3TgUyRsGJtL2dMCB8LqCJTR4jnnYS7RqoCLN7FueFCw3fMNTiT6Qi9xwF6BUhpDF9D68hks5BfCkAQSHEyw8CsBfvRiQ33GEviZhwr3eTQWdoCFCpp7xJbR4gC7U6bCZUz4iv8Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

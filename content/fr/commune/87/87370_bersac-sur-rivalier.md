@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 87370 	- BERSAC SUR RIVALIER](https://docs.stopcoronavirus.tech/r/markdown/87370_bersac-sur-rivalier/4XTTMCKyF3Yx9WMsrnCZYCXrD3dD5gaRxr165H6nAraXaku66) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87370 	- BERSAC SUR RIVALIER](https://docs.stopcoronavirus.tech/w/markdown/87370_bersac-sur-rivalier/4XTTMCKyF3Yx9WMsrnCZYCXrD3dD5gaRxr165H6nAraXaku66-K3TgUxtPcjDeYnreSAdhR5fsXhG2YsxcmxC5KW88bGdy1sjUkiUkoU2P27GnSPM1W3JuHiuUYfvb8iRC5iMMKf4kCerhtfzi72BmZ3mbHccCF84WJS1iDdhQS42EiXzmyxy6eCni) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 87370 	- BERSAC SUR RIVALIER](https://docs.stopcoronavirus.tech/#/r/markdown/87370_bersac-sur-rivalier/4XTTMCKyF3Yx9WMsrnCZYCXrD3dD5gaRxr165H6nAraXaku66) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 87370 	- BERSAC SUR RIVALIER](https://docs.stopcoronavirus.tech/#/w/markdown/87370_bersac-sur-rivalier/4XTTMCKyF3Yx9WMsrnCZYCXrD3dD5gaRxr165H6nAraXaku66-K3TgUxtPcjDeYnreSAdhR5fsXhG2YsxcmxC5KW88bGdy1sjUkiUkoU2P27GnSPM1W3JuHiuUYfvb8iRC5iMMKf4kCerhtfzi72BmZ3mbHccCF84WJS1iDdhQS42EiXzmyxy6eCni) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

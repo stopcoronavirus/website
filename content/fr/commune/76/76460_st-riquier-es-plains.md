@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76460 	- ST RIQUIER ES PLAINS](https://docs.stopcoronavirus.tech/r/markdown/76460_st-riquier-es-plains/4XTTM8fiS7bpqyFTn68s4Jp3DqXH7CbAp6QEm1YtnoKMhPHBi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76460 	- ST RIQUIER ES PLAINS](https://docs.stopcoronavirus.tech/w/markdown/76460_st-riquier-es-plains/4XTTM8fiS7bpqyFTn68s4Jp3DqXH7CbAp6QEm1YtnoKMhPHBi-K3TgTvBz5i9rZitUf1nppK8VqwLKWn4hEhrgNp6XGqT1rTV7KhgJQB8a52gs22cBDSZvh2W24GtVruP2Z9y2hwoEUMAD71rqBw86QREJ1uReyAriyh7vvwwSaUeSSoe1vzWPkFat) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76460 	- ST RIQUIER ES PLAINS](https://docs.stopcoronavirus.tech/#/r/markdown/76460_st-riquier-es-plains/4XTTM8fiS7bpqyFTn68s4Jp3DqXH7CbAp6QEm1YtnoKMhPHBi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76460 	- ST RIQUIER ES PLAINS](https://docs.stopcoronavirus.tech/#/w/markdown/76460_st-riquier-es-plains/4XTTM8fiS7bpqyFTn68s4Jp3DqXH7CbAp6QEm1YtnoKMhPHBi-K3TgTvBz5i9rZitUf1nppK8VqwLKWn4hEhrgNp6XGqT1rTV7KhgJQB8a52gs22cBDSZvh2W24GtVruP2Z9y2hwoEUMAD71rqBw86QREJ1uReyAriyh7vvwwSaUeSSoe1vzWPkFat) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

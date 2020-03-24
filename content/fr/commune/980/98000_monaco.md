@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 98000 	- MONACO](https://docs.stopcoronavirus.tech/r/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 98000 	- MONACO](https://docs.stopcoronavirus.tech/w/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16-K3TgUtFsSznmDW7XeMYhydyyehT9BAEfyET4L1q65BAHZZc9nteYehEL3GBtLNUSfTPoFd4kuWycr9zGsfbowGvSFHN6xjXnS8XJynRxJRiNenzJASCMEPKe2LmPiCbusgKY3teg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 98000 	- MONACO](https://docs.stopcoronavirus.tech/#/r/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 98000 	- MONACO](https://docs.stopcoronavirus.tech/#/w/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16-K3TgUtFsSznmDW7XeMYhydyyehT9BAEfyET4L1q65BAHZZc9nteYehEL3GBtLNUSfTPoFd4kuWycr9zGsfbowGvSFHN6xjXnS8XJynRxJRiNenzJASCMEPKe2LmPiCbusgKY3teg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 980 	- Monaco](https://docs.stopcoronavirus.tech/r/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 980 	- Monaco](https://docs.stopcoronavirus.tech/w/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q-K3TgUGcM2qAZHhTBzkxatCSxJAEDuidHMdkxMVAc2vsV65qqJsknsDRKB7fcZ1heMXrd1o5QTPr8u8ji3VLJEPS2xXXAbmMd4cuD8P9uhECLPUpJ5QLyhAeWmAuhEM3mQ58jQ7eP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 980 	- Monaco](https://docs.stopcoronavirus.tech/#/r/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 980 	- Monaco](https://docs.stopcoronavirus.tech/#/w/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q-K3TgUGcM2qAZHhTBzkxatCSxJAEDuidHMdkxMVAc2vsV65qqJsknsDRKB7fcZ1heMXrd1o5QTPr8u8ji3VLJEPS2xXXAbmMd4cuD8P9uhECLPUpJ5QLyhAeWmAuhEM3mQ58jQ7eP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

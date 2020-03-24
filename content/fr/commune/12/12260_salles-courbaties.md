@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12260 	- SALLES COURBATIES](https://docs.stopcoronavirus.tech/r/markdown/12260_salles-courbaties/4XTTM4PYBsU6DXjxLG8vhMbaER7PbMmDNp8fD8K6a8j3tX9rA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12260 	- SALLES COURBATIES](https://docs.stopcoronavirus.tech/w/markdown/12260_salles-courbaties/4XTTM4PYBsU6DXjxLG8vhMbaER7PbMmDNp8fD8K6a8j3tX9rA-K3TgUvGasmkFZWqfFVjt9eu2ZxtWMbXB6vGyGmDvN1HMXLeGXkDqe7Wu5KqQd16D8CURfcmdniJB3RMkQizAp6wvC33cz8ccGxnEPd4Mx4LAejJsccxv48Fr7iycV656vUsToutv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12260 	- SALLES COURBATIES](https://docs.stopcoronavirus.tech/#/r/markdown/12260_salles-courbaties/4XTTM4PYBsU6DXjxLG8vhMbaER7PbMmDNp8fD8K6a8j3tX9rA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12260 	- SALLES COURBATIES](https://docs.stopcoronavirus.tech/#/w/markdown/12260_salles-courbaties/4XTTM4PYBsU6DXjxLG8vhMbaER7PbMmDNp8fD8K6a8j3tX9rA-K3TgUvGasmkFZWqfFVjt9eu2ZxtWMbXB6vGyGmDvN1HMXLeGXkDqe7Wu5KqQd16D8CURfcmdniJB3RMkQizAp6wvC33cz8ccGxnEPd4Mx4LAejJsccxv48Fr7iycV656vUsToutv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

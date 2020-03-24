@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12350 	- DRULHE](https://docs.stopcoronavirus.tech/r/markdown/12350_drulhe/4XTTMHEYRPx9KvBFA7W7NPkPxbXdjRLAXcC5EdLKM9bY5oyTE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12350 	- DRULHE](https://docs.stopcoronavirus.tech/w/markdown/12350_drulhe/4XTTMHEYRPx9KvBFA7W7NPkPxbXdjRLAXcC5EdLKM9bY5oyTE-K3TgUZNjxixsUDoymFdtM992w3Wf3vanfJghFMhCCVUbVmVqf9NTyWLUxAGwprGVWN2L7RhuYT56xXEt87HnfWRnakzk9LvMxF4xy3Q3J77AaYzKJzaT49TMUQv1dEuaqdByP71S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12350 	- DRULHE](https://docs.stopcoronavirus.tech/#/r/markdown/12350_drulhe/4XTTMHEYRPx9KvBFA7W7NPkPxbXdjRLAXcC5EdLKM9bY5oyTE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12350 	- DRULHE](https://docs.stopcoronavirus.tech/#/w/markdown/12350_drulhe/4XTTMHEYRPx9KvBFA7W7NPkPxbXdjRLAXcC5EdLKM9bY5oyTE-K3TgUZNjxixsUDoymFdtM992w3Wf3vanfJghFMhCCVUbVmVqf9NTyWLUxAGwprGVWN2L7RhuYT56xXEt87HnfWRnakzk9LvMxF4xy3Q3J77AaYzKJzaT49TMUQv1dEuaqdByP71S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

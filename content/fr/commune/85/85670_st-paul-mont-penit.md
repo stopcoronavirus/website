@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85670 	- ST PAUL MONT PENIT](https://docs.stopcoronavirus.tech/r/markdown/85670_st-paul-mont-penit/4XTTM8HAqkUQddhytJc4Mo24jCyqWZuVADVtTgJKbiifqiFAi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85670 	- ST PAUL MONT PENIT](https://docs.stopcoronavirus.tech/w/markdown/85670_st-paul-mont-penit/4XTTM8HAqkUQddhytJc4Mo24jCyqWZuVADVtTgJKbiifqiFAi-K3TgTdtRHHUYTYEAsApBx2XVYJ1z8hXGwNAtVphyRYjv4RdAMQA3kGvmNsFgRmbJPyF7EToTowyUpD4ndABEQmhreizsnZo7Zx3KVjhWTvi837mqb52kSRtwYA44rSSKgbo9zXSA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85670 	- ST PAUL MONT PENIT](https://docs.stopcoronavirus.tech/#/r/markdown/85670_st-paul-mont-penit/4XTTM8HAqkUQddhytJc4Mo24jCyqWZuVADVtTgJKbiifqiFAi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85670 	- ST PAUL MONT PENIT](https://docs.stopcoronavirus.tech/#/w/markdown/85670_st-paul-mont-penit/4XTTM8HAqkUQddhytJc4Mo24jCyqWZuVADVtTgJKbiifqiFAi-K3TgTdtRHHUYTYEAsApBx2XVYJ1z8hXGwNAtVphyRYjv4RdAMQA3kGvmNsFgRmbJPyF7EToTowyUpD4ndABEQmhreizsnZo7Zx3KVjhWTvi837mqb52kSRtwYA44rSSKgbo9zXSA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

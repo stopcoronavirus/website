@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42310 	- LA PACAUDIERE](https://docs.stopcoronavirus.tech/r/markdown/42310_la-pacaudiere/4XTTM3pPsvN4k4UyjoXVavK3geisznj5vg3GEirtmk713Bi1d) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42310 	- LA PACAUDIERE](https://docs.stopcoronavirus.tech/w/markdown/42310_la-pacaudiere/4XTTM3pPsvN4k4UyjoXVavK3geisznj5vg3GEirtmk713Bi1d-K3TgTsPFq6PrCN6L7rAE7ow8pE8WzfyovXEhDzqxrSnxYdid5dJXH7LrMgztHgEYCHxDUycQcEaA6fK9zRVMh5i9HwzhstkFSLmDksHmDAAN5cDveWCgX4CXw2MxJwmigieSpxcf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42310 	- LA PACAUDIERE](https://docs.stopcoronavirus.tech/#/r/markdown/42310_la-pacaudiere/4XTTM3pPsvN4k4UyjoXVavK3geisznj5vg3GEirtmk713Bi1d) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42310 	- LA PACAUDIERE](https://docs.stopcoronavirus.tech/#/w/markdown/42310_la-pacaudiere/4XTTM3pPsvN4k4UyjoXVavK3geisznj5vg3GEirtmk713Bi1d-K3TgTsPFq6PrCN6L7rAE7ow8pE8WzfyovXEhDzqxrSnxYdid5dJXH7LrMgztHgEYCHxDUycQcEaA6fK9zRVMh5i9HwzhstkFSLmDksHmDAAN5cDveWCgX4CXw2MxJwmigieSpxcf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

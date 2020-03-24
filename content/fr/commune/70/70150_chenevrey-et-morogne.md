@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70150 	- CHENEVREY ET MOROGNE](https://docs.stopcoronavirus.tech/r/markdown/70150_chenevrey-et-morogne/4XTTMCBBdF9oLf5bj4x2C7ZjSG2EY796xvyEADufnrkXuzZ3k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70150 	- CHENEVREY ET MOROGNE](https://docs.stopcoronavirus.tech/w/markdown/70150_chenevrey-et-morogne/4XTTMCBBdF9oLf5bj4x2C7ZjSG2EY796xvyEADufnrkXuzZ3k-K3TgUG1aKbGN7go6BwsQeQA6E7gKsVZ8jqzp1jYSiJ3hevGPt7ukhL1aWYpHXnFGua27nCSAjykRtg9jRH7bQcTvSHCatcS9NZHTcodZuN6QxjfYrevUy5xN1tNuKqwt9rfNQd2N) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70150 	- CHENEVREY ET MOROGNE](https://docs.stopcoronavirus.tech/#/r/markdown/70150_chenevrey-et-morogne/4XTTMCBBdF9oLf5bj4x2C7ZjSG2EY796xvyEADufnrkXuzZ3k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70150 	- CHENEVREY ET MOROGNE](https://docs.stopcoronavirus.tech/#/w/markdown/70150_chenevrey-et-morogne/4XTTMCBBdF9oLf5bj4x2C7ZjSG2EY796xvyEADufnrkXuzZ3k-K3TgUG1aKbGN7go6BwsQeQA6E7gKsVZ8jqzp1jYSiJ3hevGPt7ukhL1aWYpHXnFGua27nCSAjykRtg9jRH7bQcTvSHCatcS9NZHTcodZuN6QxjfYrevUy5xN1tNuKqwt9rfNQd2N) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

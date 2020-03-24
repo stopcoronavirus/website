@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 13160 	- CHATEAURENARD](https://docs.stopcoronavirus.tech/r/markdown/13160_chateaurenard/4XTTMEDtnafF4sXw8GbvevSyXGu1XAs3nDikjp4aSf89sCpht) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 13160 	- CHATEAURENARD](https://docs.stopcoronavirus.tech/w/markdown/13160_chateaurenard/4XTTMEDtnafF4sXw8GbvevSyXGu1XAs3nDikjp4aSf89sCpht-K3TgUZDKKFrEbz1mWPFmLZNRQB9WQ13AJGgdZqubB7KyuThnUPgomiczSS1dz7FC1kyWo3Z9pHci5M34sorLmzjbNFMLzrKrm6W7Cd9Q8N8tmLPDYc62cpLzHVnrjrE62n1zv6rJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 13160 	- CHATEAURENARD](https://docs.stopcoronavirus.tech/#/r/markdown/13160_chateaurenard/4XTTMEDtnafF4sXw8GbvevSyXGu1XAs3nDikjp4aSf89sCpht) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 13160 	- CHATEAURENARD](https://docs.stopcoronavirus.tech/#/w/markdown/13160_chateaurenard/4XTTMEDtnafF4sXw8GbvevSyXGu1XAs3nDikjp4aSf89sCpht-K3TgUZDKKFrEbz1mWPFmLZNRQB9WQ13AJGgdZqubB7KyuThnUPgomiczSS1dz7FC1kyWo3Z9pHci5M34sorLmzjbNFMLzrKrm6W7Cd9Q8N8tmLPDYc62cpLzHVnrjrE62n1zv6rJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19170 	- L EGLISE AUX BOIS](https://docs.stopcoronavirus.tech/r/markdown/19170_l-eglise-aux-bois/4XTTMHe3HT5JZHT3dCixxEnwE4qGpGaE7ACr5PtMcw8pGEVG6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19170 	- L EGLISE AUX BOIS](https://docs.stopcoronavirus.tech/w/markdown/19170_l-eglise-aux-bois/4XTTMHe3HT5JZHT3dCixxEnwE4qGpGaE7ACr5PtMcw8pGEVG6-K3TgUJkm2a3N8uvodq8zfT3sPSvuiiK5X4iT818ifrR8cSagz9qUgYTJ2Hymu3LBxGHaV4aGzNZejvKNZi7DxZ5eDoUMoX81JES7Mf6SzLFEaj7kuB2jgZkA8LdWFAGPrgyV58kS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19170 	- L EGLISE AUX BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/19170_l-eglise-aux-bois/4XTTMHe3HT5JZHT3dCixxEnwE4qGpGaE7ACr5PtMcw8pGEVG6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19170 	- L EGLISE AUX BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/19170_l-eglise-aux-bois/4XTTMHe3HT5JZHT3dCixxEnwE4qGpGaE7ACr5PtMcw8pGEVG6-K3TgUJkm2a3N8uvodq8zfT3sPSvuiiK5X4iT818ifrR8cSagz9qUgYTJ2Hymu3LBxGHaV4aGzNZejvKNZi7DxZ5eDoUMoX81JES7Mf6SzLFEaj7kuB2jgZkA8LdWFAGPrgyV58kS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

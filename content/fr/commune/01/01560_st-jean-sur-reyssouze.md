@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01560 	- ST JEAN SUR REYSSOUZE](https://docs.stopcoronavirus.tech/r/markdown/01560_st-jean-sur-reyssouze/4XTTM5jGhd2wbJT7898eLC8tQ4QuQc2S45W2M8B4vVLVw13BT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01560 	- ST JEAN SUR REYSSOUZE](https://docs.stopcoronavirus.tech/w/markdown/01560_st-jean-sur-reyssouze/4XTTM5jGhd2wbJT7898eLC8tQ4QuQc2S45W2M8B4vVLVw13BT-K3TgTdma9E8MmXpLtkmXFeqEMWKoLQwsANDR6sps2ntrxKa6xtZ5HoxK2paEE74gPqzSePRURQph4pKAAJu8K4emwQZ39Coe79VepwbQsNwUtTPoadsbjpuYN51Re93Dq25DkHph) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01560 	- ST JEAN SUR REYSSOUZE](https://docs.stopcoronavirus.tech/#/r/markdown/01560_st-jean-sur-reyssouze/4XTTM5jGhd2wbJT7898eLC8tQ4QuQc2S45W2M8B4vVLVw13BT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01560 	- ST JEAN SUR REYSSOUZE](https://docs.stopcoronavirus.tech/#/w/markdown/01560_st-jean-sur-reyssouze/4XTTM5jGhd2wbJT7898eLC8tQ4QuQc2S45W2M8B4vVLVw13BT-K3TgTdma9E8MmXpLtkmXFeqEMWKoLQwsANDR6sps2ntrxKa6xtZ5HoxK2paEE74gPqzSePRURQph4pKAAJu8K4emwQZ39Coe79VepwbQsNwUtTPoadsbjpuYN51Re93Dq25DkHph) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

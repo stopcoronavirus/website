@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16500 	- ORADOUR FANAIS](https://docs.stopcoronavirus.tech/r/markdown/16500_oradour-fanais/4XTTM6Ujjv8UWAiFhJ5eEj4M4m4h12FYAr4aB2vLrzmwYL3th) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16500 	- ORADOUR FANAIS](https://docs.stopcoronavirus.tech/w/markdown/16500_oradour-fanais/4XTTM6Ujjv8UWAiFhJ5eEj4M4m4h12FYAr4aB2vLrzmwYL3th-K3TgUo6SXyo9kcxBXZzMEZMNVsJRwVd2V1AAXtrwciGszhTGtUNNsohHGfw6svvyXuNht6VYEWD9NynNzZ1bnpnKYhJS82ibxbgemb7McsBUYevuj3D4UvA3VvMQPz3wXyXS9CcV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16500 	- ORADOUR FANAIS](https://docs.stopcoronavirus.tech/#/r/markdown/16500_oradour-fanais/4XTTM6Ujjv8UWAiFhJ5eEj4M4m4h12FYAr4aB2vLrzmwYL3th) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16500 	- ORADOUR FANAIS](https://docs.stopcoronavirus.tech/#/w/markdown/16500_oradour-fanais/4XTTM6Ujjv8UWAiFhJ5eEj4M4m4h12FYAr4aB2vLrzmwYL3th-K3TgUo6SXyo9kcxBXZzMEZMNVsJRwVd2V1AAXtrwciGszhTGtUNNsohHGfw6svvyXuNht6VYEWD9NynNzZ1bnpnKYhJS82ibxbgemb7McsBUYevuj3D4UvA3VvMQPz3wXyXS9CcV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

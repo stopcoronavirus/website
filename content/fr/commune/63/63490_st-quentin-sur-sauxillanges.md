@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 63490 	- ST QUENTIN SUR SAUXILLANGES](https://docs.stopcoronavirus.tech/r/markdown/63490_st-quentin-sur-sauxillanges/4XTTM4CwBfDvu8ygtRhV5ryXuP2Fczrk724Jk7CDppGQGy4CT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63490 	- ST QUENTIN SUR SAUXILLANGES](https://docs.stopcoronavirus.tech/w/markdown/63490_st-quentin-sur-sauxillanges/4XTTM4CwBfDvu8ygtRhV5ryXuP2Fczrk724Jk7CDppGQGy4CT-K3TgUmDNMDQSdjeQFM3ew1dkW2tHkFsyXowAvNZogetwLah4EKRmbezMfw5xR233Ro2wWz5BmSJ1ChQZC7eAtJ9yKb6NL2sN3e442Z9TXd6KrTYQdqbseXt5WVTiPojzJtydKBMM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63490 	- ST QUENTIN SUR SAUXILLANGES](https://docs.stopcoronavirus.tech/#/r/markdown/63490_st-quentin-sur-sauxillanges/4XTTM4CwBfDvu8ygtRhV5ryXuP2Fczrk724Jk7CDppGQGy4CT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63490 	- ST QUENTIN SUR SAUXILLANGES](https://docs.stopcoronavirus.tech/#/w/markdown/63490_st-quentin-sur-sauxillanges/4XTTM4CwBfDvu8ygtRhV5ryXuP2Fczrk724Jk7CDppGQGy4CT-K3TgUmDNMDQSdjeQFM3ew1dkW2tHkFsyXowAvNZogetwLah4EKRmbezMfw5xR233Ro2wWz5BmSJ1ChQZC7eAtJ9yKb6NL2sN3e442Z9TXd6KrTYQdqbseXt5WVTiPojzJtydKBMM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

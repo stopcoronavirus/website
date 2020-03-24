@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42210 	- L HOPITAL LE GRAND](https://docs.stopcoronavirus.tech/r/markdown/42210_l-hopital-le-grand/4XTTM5FYKNvCYPs5tqqm1wAuRHtrm2V9tc4S9LKEPy4cNDgAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42210 	- L HOPITAL LE GRAND](https://docs.stopcoronavirus.tech/w/markdown/42210_l-hopital-le-grand/4XTTM5FYKNvCYPs5tqqm1wAuRHtrm2V9tc4S9LKEPy4cNDgAy-K3TgUZyZgmS9p9K5XxQ6vrjfjjb1aW4LBCNgUvuam1aTmyYu8QpPL6VBGUhujtN3Pc9TTYUtYoWgjZuLRKxttdyjFHcuQQ65dBXVkdxHTeTGmkQT2YST15Gs28fe3cUuREZVwKxZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42210 	- L HOPITAL LE GRAND](https://docs.stopcoronavirus.tech/#/r/markdown/42210_l-hopital-le-grand/4XTTM5FYKNvCYPs5tqqm1wAuRHtrm2V9tc4S9LKEPy4cNDgAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42210 	- L HOPITAL LE GRAND](https://docs.stopcoronavirus.tech/#/w/markdown/42210_l-hopital-le-grand/4XTTM5FYKNvCYPs5tqqm1wAuRHtrm2V9tc4S9LKEPy4cNDgAy-K3TgUZyZgmS9p9K5XxQ6vrjfjjb1aW4LBCNgUvuam1aTmyYu8QpPL6VBGUhujtN3Pc9TTYUtYoWgjZuLRKxttdyjFHcuQQ65dBXVkdxHTeTGmkQT2YST15Gs28fe3cUuREZVwKxZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

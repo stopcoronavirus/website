@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20246 	- RAPALE](https://docs.stopcoronavirus.tech/r/markdown/20246_rapale/4XTTMHQpP2qgtuJB4YCMZQic3CDyAsPUCqHcstPhL22SjFPuK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20246 	- RAPALE](https://docs.stopcoronavirus.tech/w/markdown/20246_rapale/4XTTMHQpP2qgtuJB4YCMZQic3CDyAsPUCqHcstPhL22SjFPuK-K3TgU7LLTHc7jqYQ52ig2r3kMjrBfqRvMWCbJeae7knyURW5FQhheWkEXrK8bqqDx3V9z4qP1vMaZDqBioQuUBsVbX1XNyu7LsFRZjbhm3fQqC9XPjkgeiV5iFhxG3Q4kt5tqfiH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20246 	- RAPALE](https://docs.stopcoronavirus.tech/#/r/markdown/20246_rapale/4XTTMHQpP2qgtuJB4YCMZQic3CDyAsPUCqHcstPhL22SjFPuK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20246 	- RAPALE](https://docs.stopcoronavirus.tech/#/w/markdown/20246_rapale/4XTTMHQpP2qgtuJB4YCMZQic3CDyAsPUCqHcstPhL22SjFPuK-K3TgU7LLTHc7jqYQ52ig2r3kMjrBfqRvMWCbJeae7knyURW5FQhheWkEXrK8bqqDx3V9z4qP1vMaZDqBioQuUBsVbX1XNyu7LsFRZjbhm3fQqC9XPjkgeiV5iFhxG3Q4kt5tqfiH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

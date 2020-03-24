@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 98706 	- HITIAA O TE RA](https://docs.stopcoronavirus.tech/r/markdown/98706_hitiaa-o-te-ra/4XTTMG4dwDDkWcojFxXuSD421XUSB9NH5y8VtFwsrVd1gnLMP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 98706 	- HITIAA O TE RA](https://docs.stopcoronavirus.tech/w/markdown/98706_hitiaa-o-te-ra/4XTTMG4dwDDkWcojFxXuSD421XUSB9NH5y8VtFwsrVd1gnLMP-K3TgUThq3LgGPyR25pVysjAG1iSuNRPR9FvJ327pvbX32ACns2nExpzHfXKbFRvGb6mDSYED5cXRTXPz4SrHymPFUmQqnqQr2iG8L3Y9XAzKdrdgyczQeicHFZeKuJ6xt6Tiu6iM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 98706 	- HITIAA O TE RA](https://docs.stopcoronavirus.tech/#/r/markdown/98706_hitiaa-o-te-ra/4XTTMG4dwDDkWcojFxXuSD421XUSB9NH5y8VtFwsrVd1gnLMP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 98706 	- HITIAA O TE RA](https://docs.stopcoronavirus.tech/#/w/markdown/98706_hitiaa-o-te-ra/4XTTMG4dwDDkWcojFxXuSD421XUSB9NH5y8VtFwsrVd1gnLMP-K3TgUThq3LgGPyR25pVysjAG1iSuNRPR9FvJ327pvbX32ACns2nExpzHfXKbFRvGb6mDSYED5cXRTXPz4SrHymPFUmQqnqQr2iG8L3Y9XAzKdrdgyczQeicHFZeKuJ6xt6Tiu6iM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 987 	- Polynésie française](https://docs.stopcoronavirus.tech/r/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 987 	- Polynésie française](https://docs.stopcoronavirus.tech/w/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF-K3TgUdNTyMijF9cTo2J1xYw2zHQp2hiVzP2Jyv9Qpc8QCK6oa1HmUGnMMRBgbF9KwF6Ngd5n8sqKvLoGGht7YHpFD9aJNnuoZzxN9GtWDnaWdcN4knGpRWZ9y4dX34D4V2y7bPBo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 987 	- Polynésie française](https://docs.stopcoronavirus.tech/#/r/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 987 	- Polynésie française](https://docs.stopcoronavirus.tech/#/w/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF-K3TgUdNTyMijF9cTo2J1xYw2zHQp2hiVzP2Jyv9Qpc8QCK6oa1HmUGnMMRBgbF9KwF6Ngd5n8sqKvLoGGht7YHpFD9aJNnuoZzxN9GtWDnaWdcN4knGpRWZ9y4dX34D4V2y7bPBo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

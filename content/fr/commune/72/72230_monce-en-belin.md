@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 72230 	- MONCE EN BELIN](https://docs.stopcoronavirus.tech/r/markdown/72230_monce-en-belin/4XTTMBGvUxPgAzds7PzZ42FY7DRbshs3W8NqUEYSmnhMb7RLw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72230 	- MONCE EN BELIN](https://docs.stopcoronavirus.tech/w/markdown/72230_monce-en-belin/4XTTMBGvUxPgAzds7PzZ42FY7DRbshs3W8NqUEYSmnhMb7RLw-K3TgUydfCmyCLQhcddfCeayNEkoC7kypuPFpDfk9CtfwNtg1BmejGL24PDnvGwxe7DtuDS637FCGZ8fJEBPYogQ7czy1YB95FeSRXae8ek5zXHKvN3LPDKpiKrpojHs3dU5S3MP9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72230 	- MONCE EN BELIN](https://docs.stopcoronavirus.tech/#/r/markdown/72230_monce-en-belin/4XTTMBGvUxPgAzds7PzZ42FY7DRbshs3W8NqUEYSmnhMb7RLw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72230 	- MONCE EN BELIN](https://docs.stopcoronavirus.tech/#/w/markdown/72230_monce-en-belin/4XTTMBGvUxPgAzds7PzZ42FY7DRbshs3W8NqUEYSmnhMb7RLw-K3TgUydfCmyCLQhcddfCeayNEkoC7kypuPFpDfk9CtfwNtg1BmejGL24PDnvGwxe7DtuDS637FCGZ8fJEBPYogQ7czy1YB95FeSRXae8ek5zXHKvN3LPDKpiKrpojHs3dU5S3MP9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51330 	- LA NEUVILLE AUX BOIS](https://docs.stopcoronavirus.tech/r/markdown/51330_la-neuville-aux-bois/4XTTM2v3yQ5CACh3nHAYUHq9upN4GQ99zu2xepVtMfibC2p1W) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51330 	- LA NEUVILLE AUX BOIS](https://docs.stopcoronavirus.tech/w/markdown/51330_la-neuville-aux-bois/4XTTM2v3yQ5CACh3nHAYUHq9upN4GQ99zu2xepVtMfibC2p1W-K3TgUWaE7aNvYv91y9JA3BaG7dyHaY9j53W2sKCiGjDdSEPJZweceV6GLcyNPwQzRC2qyEZQF46TXoki735NCa6PuqBb6N9EjFmnNvkFcLkYYfKMvZG2CuXocrQ2UqKFUk6tNW64) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51330 	- LA NEUVILLE AUX BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/51330_la-neuville-aux-bois/4XTTM2v3yQ5CACh3nHAYUHq9upN4GQ99zu2xepVtMfibC2p1W) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51330 	- LA NEUVILLE AUX BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/51330_la-neuville-aux-bois/4XTTM2v3yQ5CACh3nHAYUHq9upN4GQ99zu2xepVtMfibC2p1W-K3TgUWaE7aNvYv91y9JA3BaG7dyHaY9j53W2sKCiGjDdSEPJZweceV6GLcyNPwQzRC2qyEZQF46TXoki735NCa6PuqBb6N9EjFmnNvkFcLkYYfKMvZG2CuXocrQ2UqKFUk6tNW64) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

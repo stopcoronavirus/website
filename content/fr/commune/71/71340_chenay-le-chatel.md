@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71340 	- CHENAY LE CHATEL](https://docs.stopcoronavirus.tech/r/markdown/71340_chenay-le-chatel/4XTTM5xzyNd4HN7rVJJc1GHkxHR9bq4S46MQsj37KN2SDWdGS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71340 	- CHENAY LE CHATEL](https://docs.stopcoronavirus.tech/w/markdown/71340_chenay-le-chatel/4XTTM5xzyNd4HN7rVJJc1GHkxHR9bq4S46MQsj37KN2SDWdGS-K3TgTjPhch9htJHtRe4DEhk5A328FDmgarajHJiM6fW8qQXjBZxFDHrqWWMyZKb3Y5boJiLDaP244KiM74HdsTRNs3CCXoUR1Lq1dC8a4NkuTqhYkZqQsSbaPDweYt82yPDcfmJE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71340 	- CHENAY LE CHATEL](https://docs.stopcoronavirus.tech/#/r/markdown/71340_chenay-le-chatel/4XTTM5xzyNd4HN7rVJJc1GHkxHR9bq4S46MQsj37KN2SDWdGS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71340 	- CHENAY LE CHATEL](https://docs.stopcoronavirus.tech/#/w/markdown/71340_chenay-le-chatel/4XTTM5xzyNd4HN7rVJJc1GHkxHR9bq4S46MQsj37KN2SDWdGS-K3TgTjPhch9htJHtRe4DEhk5A328FDmgarajHJiM6fW8qQXjBZxFDHrqWWMyZKb3Y5boJiLDaP244KiM74HdsTRNs3CCXoUR1Lq1dC8a4NkuTqhYkZqQsSbaPDweYt82yPDcfmJE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

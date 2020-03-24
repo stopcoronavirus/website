@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02220 	- BAZOCHES SUR VESLES](https://docs.stopcoronavirus.tech/r/markdown/02220_bazoches-sur-vesles/4XTTMGdDiyV8Kc5aHrPMBuXrENMCq1gcCpGms6qTiGfSbV3wr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02220 	- BAZOCHES SUR VESLES](https://docs.stopcoronavirus.tech/w/markdown/02220_bazoches-sur-vesles/4XTTMGdDiyV8Kc5aHrPMBuXrENMCq1gcCpGms6qTiGfSbV3wr-K3TgTjYfKerfguwGj3snkBpubpd2dyVPNavjqR9qRb5y7PM7H4Uee9czXname1oDVPvZGCgoGBJUQtm1rkcEVRVgCiEvS82rTcBYHBm6XH2ZVqXnhHXEtdaNA2ttiX6g4yFSBZTJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02220 	- BAZOCHES SUR VESLES](https://docs.stopcoronavirus.tech/#/r/markdown/02220_bazoches-sur-vesles/4XTTMGdDiyV8Kc5aHrPMBuXrENMCq1gcCpGms6qTiGfSbV3wr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02220 	- BAZOCHES SUR VESLES](https://docs.stopcoronavirus.tech/#/w/markdown/02220_bazoches-sur-vesles/4XTTMGdDiyV8Kc5aHrPMBuXrENMCq1gcCpGms6qTiGfSbV3wr-K3TgTjYfKerfguwGj3snkBpubpd2dyVPNavjqR9qRb5y7PM7H4Uee9czXname1oDVPvZGCgoGBJUQtm1rkcEVRVgCiEvS82rTcBYHBm6XH2ZVqXnhHXEtdaNA2ttiX6g4yFSBZTJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 31460 	- LOUBENS LAURAGAIS](https://docs.stopcoronavirus.tech/r/markdown/31460_loubens-lauragais/4XTTM4EsmPjTeRS21epcJQHxsdfEhGj6RwvCRBemQJAYxs23q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31460 	- LOUBENS LAURAGAIS](https://docs.stopcoronavirus.tech/w/markdown/31460_loubens-lauragais/4XTTM4EsmPjTeRS21epcJQHxsdfEhGj6RwvCRBemQJAYxs23q-K3TgUEBGkg4ThhxwjUdzXLSqqLDs9TF4Q8QiqPX4A8APUaaED6h8TEHPi3ow2zA4mRxJv9V2x93CQDNF3GC1vPE1fAJJGb71ZCXu6k4JmDTfg7pvPjns9cKZKXWTbUksyqojPGKh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31460 	- LOUBENS LAURAGAIS](https://docs.stopcoronavirus.tech/#/r/markdown/31460_loubens-lauragais/4XTTM4EsmPjTeRS21epcJQHxsdfEhGj6RwvCRBemQJAYxs23q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31460 	- LOUBENS LAURAGAIS](https://docs.stopcoronavirus.tech/#/w/markdown/31460_loubens-lauragais/4XTTM4EsmPjTeRS21epcJQHxsdfEhGj6RwvCRBemQJAYxs23q-K3TgUEBGkg4ThhxwjUdzXLSqqLDs9TF4Q8QiqPX4A8APUaaED6h8TEHPi3ow2zA4mRxJv9V2x93CQDNF3GC1vPE1fAJJGb71ZCXu6k4JmDTfg7pvPjns9cKZKXWTbUksyqojPGKh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

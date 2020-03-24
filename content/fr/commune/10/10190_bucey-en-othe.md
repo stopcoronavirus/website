@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10190 	- BUCEY EN OTHE](https://docs.stopcoronavirus.tech/r/markdown/10190_bucey-en-othe/4XTTMHQ8itrDrwKHvDpcUTisDWSv1pnQBRbofffHWyAaJ1Ayy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10190 	- BUCEY EN OTHE](https://docs.stopcoronavirus.tech/w/markdown/10190_bucey-en-othe/4XTTMHQ8itrDrwKHvDpcUTisDWSv1pnQBRbofffHWyAaJ1Ayy-K3TgV3TijRF1v7nNcXtkvhFgAUJvssp7zCRnc8at5QGVezfkvQZQbjXH6pj1mKcs7LhUEfWQih97BSDSR9jQGHmb8Rbr32cNsoHSsWf9oen55i15FnBy5LGyaj18PoHGzXxmzWXu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10190 	- BUCEY EN OTHE](https://docs.stopcoronavirus.tech/#/r/markdown/10190_bucey-en-othe/4XTTMHQ8itrDrwKHvDpcUTisDWSv1pnQBRbofffHWyAaJ1Ayy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10190 	- BUCEY EN OTHE](https://docs.stopcoronavirus.tech/#/w/markdown/10190_bucey-en-othe/4XTTMHQ8itrDrwKHvDpcUTisDWSv1pnQBRbofffHWyAaJ1Ayy-K3TgV3TijRF1v7nNcXtkvhFgAUJvssp7zCRnc8at5QGVezfkvQZQbjXH6pj1mKcs7LhUEfWQih97BSDSR9jQGHmb8Rbr32cNsoHSsWf9oen55i15FnBy5LGyaj18PoHGzXxmzWXu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

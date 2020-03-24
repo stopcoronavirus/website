@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12130 	- ST GENIEZ D OLT ET D AUBRAC](https://docs.stopcoronavirus.tech/r/markdown/12130_st-geniez-d-olt-et-d-aubrac/4XTTM5xaCbLwcx1zAguhAwDTvrJyLhMrSrNLBEuZtYBZGuYB5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12130 	- ST GENIEZ D OLT ET D AUBRAC](https://docs.stopcoronavirus.tech/w/markdown/12130_st-geniez-d-olt-et-d-aubrac/4XTTM5xaCbLwcx1zAguhAwDTvrJyLhMrSrNLBEuZtYBZGuYB5-K3TgUJxy2UvXwDzJwVy1iu7Dr5McR8Bre5Uy8BvejNW8a9YTxqEq3ZZLkQkR2zyxB2wvfd4jDq5mvRqZBgftaK4wC4ZMP9Eu9nRJzQ4mgPzN8wCLnejnHmkaPKTzpd69StP6PUmq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12130 	- ST GENIEZ D OLT ET D AUBRAC](https://docs.stopcoronavirus.tech/#/r/markdown/12130_st-geniez-d-olt-et-d-aubrac/4XTTM5xaCbLwcx1zAguhAwDTvrJyLhMrSrNLBEuZtYBZGuYB5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12130 	- ST GENIEZ D OLT ET D AUBRAC](https://docs.stopcoronavirus.tech/#/w/markdown/12130_st-geniez-d-olt-et-d-aubrac/4XTTM5xaCbLwcx1zAguhAwDTvrJyLhMrSrNLBEuZtYBZGuYB5-K3TgUJxy2UvXwDzJwVy1iu7Dr5McR8Bre5Uy8BvejNW8a9YTxqEq3ZZLkQkR2zyxB2wvfd4jDq5mvRqZBgftaK4wC4ZMP9Eu9nRJzQ4mgPzN8wCLnejnHmkaPKTzpd69StP6PUmq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69610 	- LES HALLES](https://docs.stopcoronavirus.tech/r/markdown/69610_les-halles/4XTTM8CkDD7wUG8gDo1578d65afL9Jy6iwDgGTnWt95EbVxzZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69610 	- LES HALLES](https://docs.stopcoronavirus.tech/w/markdown/69610_les-halles/4XTTM8CkDD7wUG8gDo1578d65afL9Jy6iwDgGTnWt95EbVxzZ-K3TgV7V8qCunKvy1LC7rgLEATaxZwh5wqRPM65RUxbcBLeaCz4yGSKN577uZm4y3gUiFvrfhFXrpxTgmGr8DsVV3sjG27fLwiMd9h6DFmP96uM1nbYegmEh2o8ZTNxzf5nYGogms) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69610 	- LES HALLES](https://docs.stopcoronavirus.tech/#/r/markdown/69610_les-halles/4XTTM8CkDD7wUG8gDo1578d65afL9Jy6iwDgGTnWt95EbVxzZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69610 	- LES HALLES](https://docs.stopcoronavirus.tech/#/w/markdown/69610_les-halles/4XTTM8CkDD7wUG8gDo1578d65afL9Jy6iwDgGTnWt95EbVxzZ-K3TgV7V8qCunKvy1LC7rgLEATaxZwh5wqRPM65RUxbcBLeaCz4yGSKN577uZm4y3gUiFvrfhFXrpxTgmGr8DsVV3sjG27fLwiMd9h6DFmP96uM1nbYegmEh2o8ZTNxzf5nYGogms) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 39520 	- FONCINE LE BAS](https://docs.stopcoronavirus.tech/r/markdown/39520_foncine-le-bas/4XTTMBFQx44gr2u1qVNWYDpLWL8YsP4LZiUCKtKmPAoCjhWCA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39520 	- FONCINE LE BAS](https://docs.stopcoronavirus.tech/w/markdown/39520_foncine-le-bas/4XTTMBFQx44gr2u1qVNWYDpLWL8YsP4LZiUCKtKmPAoCjhWCA-K3TgUL5KENtcjbNjmubyYgbgpGS2eopWmXZ1GbFb9gBtRqgUnVcDxW9R6WoX6iHUFd2ACmczXpooekQxAYsb59bfHNcgWCbe6PR8qSD7Vq9M4LKwUBistuhTuJoisBQ2JsgQN6t2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39520 	- FONCINE LE BAS](https://docs.stopcoronavirus.tech/#/r/markdown/39520_foncine-le-bas/4XTTMBFQx44gr2u1qVNWYDpLWL8YsP4LZiUCKtKmPAoCjhWCA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39520 	- FONCINE LE BAS](https://docs.stopcoronavirus.tech/#/w/markdown/39520_foncine-le-bas/4XTTMBFQx44gr2u1qVNWYDpLWL8YsP4LZiUCKtKmPAoCjhWCA-K3TgUL5KENtcjbNjmubyYgbgpGS2eopWmXZ1GbFb9gBtRqgUnVcDxW9R6WoX6iHUFd2ACmczXpooekQxAYsb59bfHNcgWCbe6PR8qSD7Vq9M4LKwUBistuhTuJoisBQ2JsgQN6t2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

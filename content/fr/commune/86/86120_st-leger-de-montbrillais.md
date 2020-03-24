@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86120 	- ST LEGER DE MONTBRILLAIS](https://docs.stopcoronavirus.tech/r/markdown/86120_st-leger-de-montbrillais/4XTTMFfsV14udq6WDTQiBib1UNiDEJ7AEsBXrcSNzW3AfpZ89) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86120 	- ST LEGER DE MONTBRILLAIS](https://docs.stopcoronavirus.tech/w/markdown/86120_st-leger-de-montbrillais/4XTTMFfsV14udq6WDTQiBib1UNiDEJ7AEsBXrcSNzW3AfpZ89-K3TgU3wqkPL6sUdKbREpdJ9eTq265RFY3eA4kmrUxyrYZCbXRiup5YcHE4up9TgESczrz6PSA2j2Fe9QXcJwJNowM3dMo4Sv9a4oDrMC61rUvdUHaPZHvDvGjJjFZ7nNSUGqAViu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86120 	- ST LEGER DE MONTBRILLAIS](https://docs.stopcoronavirus.tech/#/r/markdown/86120_st-leger-de-montbrillais/4XTTMFfsV14udq6WDTQiBib1UNiDEJ7AEsBXrcSNzW3AfpZ89) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86120 	- ST LEGER DE MONTBRILLAIS](https://docs.stopcoronavirus.tech/#/w/markdown/86120_st-leger-de-montbrillais/4XTTMFfsV14udq6WDTQiBib1UNiDEJ7AEsBXrcSNzW3AfpZ89-K3TgU3wqkPL6sUdKbREpdJ9eTq265RFY3eA4kmrUxyrYZCbXRiup5YcHE4up9TgESczrz6PSA2j2Fe9QXcJwJNowM3dMo4Sv9a4oDrMC61rUvdUHaPZHvDvGjJjFZ7nNSUGqAViu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 95340 	- RONQUEROLLES](https://docs.stopcoronavirus.tech/r/markdown/95340_ronquerolles/4XTTM7Lu5z6nsnK1kdQosED7gk3bvdWyC3ytPp1YUpPN6d4wx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95340 	- RONQUEROLLES](https://docs.stopcoronavirus.tech/w/markdown/95340_ronquerolles/4XTTM7Lu5z6nsnK1kdQosED7gk3bvdWyC3ytPp1YUpPN6d4wx-K3TgTxfKXoriMqCyW5h1BJUPqDVwFizoZKXrnryrNupSnDmWLkTzkWrsn2v5gKs6SJaGzsR9nTSMnvFxvKUoKaek8AisyE8RK3T2c6Hb2WfTYnShTJtEo3uPBBBd1ihMzRGnv6dU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95340 	- RONQUEROLLES](https://docs.stopcoronavirus.tech/#/r/markdown/95340_ronquerolles/4XTTM7Lu5z6nsnK1kdQosED7gk3bvdWyC3ytPp1YUpPN6d4wx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95340 	- RONQUEROLLES](https://docs.stopcoronavirus.tech/#/w/markdown/95340_ronquerolles/4XTTM7Lu5z6nsnK1kdQosED7gk3bvdWyC3ytPp1YUpPN6d4wx-K3TgTxfKXoriMqCyW5h1BJUPqDVwFizoZKXrnryrNupSnDmWLkTzkWrsn2v5gKs6SJaGzsR9nTSMnvFxvKUoKaek8AisyE8RK3T2c6Hb2WfTYnShTJtEo3uPBBBd1ihMzRGnv6dU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

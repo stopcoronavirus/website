@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 03000 	- AVERMES](https://docs.stopcoronavirus.tech/r/markdown/03000_avermes/4XTTMBU61krnE3rn4L4EDGmUYdos3SUeLJA6LxtaykVRWSQh9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03000 	- AVERMES](https://docs.stopcoronavirus.tech/w/markdown/03000_avermes/4XTTMBU61krnE3rn4L4EDGmUYdos3SUeLJA6LxtaykVRWSQh9-K3TgV7hhNP56AJJ9uaUUB5oAAyFFQxiUGDycteMXuJMx4AVKccheNCz49KLemXp5ZF9Y9bFsboiqyZw8BMCgB3fUkvXRU217fZkKyvZRu2bLxxuMEpHvpaWdNGFc4AGc1WLdKBkw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03000 	- AVERMES](https://docs.stopcoronavirus.tech/#/r/markdown/03000_avermes/4XTTMBU61krnE3rn4L4EDGmUYdos3SUeLJA6LxtaykVRWSQh9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03000 	- AVERMES](https://docs.stopcoronavirus.tech/#/w/markdown/03000_avermes/4XTTMBU61krnE3rn4L4EDGmUYdos3SUeLJA6LxtaykVRWSQh9-K3TgV7hhNP56AJJ9uaUUB5oAAyFFQxiUGDycteMXuJMx4AVKccheNCz49KLemXp5ZF9Y9bFsboiqyZw8BMCgB3fUkvXRU217fZkKyvZRu2bLxxuMEpHvpaWdNGFc4AGc1WLdKBkw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

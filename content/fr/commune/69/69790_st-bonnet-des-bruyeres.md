@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69790 	- ST BONNET DES BRUYERES](https://docs.stopcoronavirus.tech/r/markdown/69790_st-bonnet-des-bruyeres/4XTTMFUQq9yZdVtyQtd3tHRAhAfjjjLzH5pg9p4PkeT6DJuSa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69790 	- ST BONNET DES BRUYERES](https://docs.stopcoronavirus.tech/w/markdown/69790_st-bonnet-des-bruyeres/4XTTMFUQq9yZdVtyQtd3tHRAhAfjjjLzH5pg9p4PkeT6DJuSa-K3TgTd8oXNYZkVNFBXaXjGJZzt9PZ9vG5deZRBZGdJfm7WqvYrPYFpaq8QYR2FWesQTLsPFM4M8NtVv19N9pPxGQgZVjSiHDNKuAo6twoiKzkNq7rqNsCeKyVkYGqvsuaA2DsHii) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69790 	- ST BONNET DES BRUYERES](https://docs.stopcoronavirus.tech/#/r/markdown/69790_st-bonnet-des-bruyeres/4XTTMFUQq9yZdVtyQtd3tHRAhAfjjjLzH5pg9p4PkeT6DJuSa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69790 	- ST BONNET DES BRUYERES](https://docs.stopcoronavirus.tech/#/w/markdown/69790_st-bonnet-des-bruyeres/4XTTMFUQq9yZdVtyQtd3tHRAhAfjjjLzH5pg9p4PkeT6DJuSa-K3TgTd8oXNYZkVNFBXaXjGJZzt9PZ9vG5deZRBZGdJfm7WqvYrPYFpaq8QYR2FWesQTLsPFM4M8NtVv19N9pPxGQgZVjSiHDNKuAo6twoiKzkNq7rqNsCeKyVkYGqvsuaA2DsHii) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

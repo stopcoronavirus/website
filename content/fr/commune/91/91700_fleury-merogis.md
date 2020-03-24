@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91700 	- FLEURY MEROGIS](https://docs.stopcoronavirus.tech/r/markdown/91700_fleury-merogis/4XTTM77scyDNKA8g5PFzpNvoZv2s4wp74Rja8PTy3PCamK1VW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91700 	- FLEURY MEROGIS](https://docs.stopcoronavirus.tech/w/markdown/91700_fleury-merogis/4XTTM77scyDNKA8g5PFzpNvoZv2s4wp74Rja8PTy3PCamK1VW-K3TgUYR7ohN7YXVkdn268YoTA7fYd6vHhDcwE4cx2yqZNLPfdom9UAMTfqkLrWevXxcMgX2x4LBSH67ppEHPbUBPVPTSXAWkbsL4bEmPMoBkQ7uzndc8YqQQFPTKuSgiikLxbDye) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91700 	- FLEURY MEROGIS](https://docs.stopcoronavirus.tech/#/r/markdown/91700_fleury-merogis/4XTTM77scyDNKA8g5PFzpNvoZv2s4wp74Rja8PTy3PCamK1VW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91700 	- FLEURY MEROGIS](https://docs.stopcoronavirus.tech/#/w/markdown/91700_fleury-merogis/4XTTM77scyDNKA8g5PFzpNvoZv2s4wp74Rja8PTy3PCamK1VW-K3TgUYR7ohN7YXVkdn268YoTA7fYd6vHhDcwE4cx2yqZNLPfdom9UAMTfqkLrWevXxcMgX2x4LBSH67ppEHPbUBPVPTSXAWkbsL4bEmPMoBkQ7uzndc8YqQQFPTKuSgiikLxbDye) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

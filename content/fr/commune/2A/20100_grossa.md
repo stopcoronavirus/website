@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20100 	- GROSSA](https://docs.stopcoronavirus.tech/r/markdown/20100_grossa/4XTTM7CsEaabbSpA2UGGxWWWEUjkQd5s6hDUaBWNh3vQAB28P) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20100 	- GROSSA](https://docs.stopcoronavirus.tech/w/markdown/20100_grossa/4XTTM7CsEaabbSpA2UGGxWWWEUjkQd5s6hDUaBWNh3vQAB28P-K3TgU9kB9hPp1bSdiYbk8xFb2DieCZ1DQeNu1BfL8D1WEuV7CJ5y6qu1XTX1rr5Fe4FYQc5prSRQa9sUGgkYJ8xHpNXN9MwgJUNr3J4sNwsKxyKgF7FJHzT1YFxAzeQwosGdtnU7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20100 	- GROSSA](https://docs.stopcoronavirus.tech/#/r/markdown/20100_grossa/4XTTM7CsEaabbSpA2UGGxWWWEUjkQd5s6hDUaBWNh3vQAB28P) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20100 	- GROSSA](https://docs.stopcoronavirus.tech/#/w/markdown/20100_grossa/4XTTM7CsEaabbSpA2UGGxWWWEUjkQd5s6hDUaBWNh3vQAB28P-K3TgU9kB9hPp1bSdiYbk8xFb2DieCZ1DQeNu1BfL8D1WEuV7CJ5y6qu1XTX1rr5Fe4FYQc5prSRQa9sUGgkYJ8xHpNXN9MwgJUNr3J4sNwsKxyKgF7FJHzT1YFxAzeQwosGdtnU7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 35490 	- VIEUX VY SUR COUESNON](https://docs.stopcoronavirus.tech/r/markdown/35490_vieux-vy-sur-couesnon/4XTTMDsBx3fCVkkTub1MnH6y25BDfY5CkoU4KhgDZM1h3TcsZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35490 	- VIEUX VY SUR COUESNON](https://docs.stopcoronavirus.tech/w/markdown/35490_vieux-vy-sur-couesnon/4XTTMDsBx3fCVkkTub1MnH6y25BDfY5CkoU4KhgDZM1h3TcsZ-K3TgUiWKcEnSVNyc77YdpoEQPGYTr3GhwFbZQ64nXLsk9bNsy8VYGwRZr5KcjjWj4KUoSuzeeoRE9cS4y8uWpBhsSMxsccHsfsJbJmw1WgsmDPtzAPPcoAmGsk4QK5TfjJsBLNC7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35490 	- VIEUX VY SUR COUESNON](https://docs.stopcoronavirus.tech/#/r/markdown/35490_vieux-vy-sur-couesnon/4XTTMDsBx3fCVkkTub1MnH6y25BDfY5CkoU4KhgDZM1h3TcsZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35490 	- VIEUX VY SUR COUESNON](https://docs.stopcoronavirus.tech/#/w/markdown/35490_vieux-vy-sur-couesnon/4XTTMDsBx3fCVkkTub1MnH6y25BDfY5CkoU4KhgDZM1h3TcsZ-K3TgUiWKcEnSVNyc77YdpoEQPGYTr3GhwFbZQ64nXLsk9bNsy8VYGwRZr5KcjjWj4KUoSuzeeoRE9cS4y8uWpBhsSMxsccHsfsJbJmw1WgsmDPtzAPPcoAmGsk4QK5TfjJsBLNC7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

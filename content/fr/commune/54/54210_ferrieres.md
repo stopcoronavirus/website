@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 54210 	- FERRIERES](https://docs.stopcoronavirus.tech/r/markdown/54210_ferrieres/4XTTMGYUhN3reDhMXxznYAgRRzFtFyhASEYmQngvr8t3Vxp2i) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54210 	- FERRIERES](https://docs.stopcoronavirus.tech/w/markdown/54210_ferrieres/4XTTMGYUhN3reDhMXxznYAgRRzFtFyhASEYmQngvr8t3Vxp2i-K3TgV5wT7w4efkR7oeBca2632kQ29YthpA77aXyWF1mNeVyTXBtzw46pXKkKPYKDedaVBg2SESmYBLrVajqAdw7T2hvHDGooWNHfqQQDgBCvXzEouvQm531nvVEYETitondxxTnv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54210 	- FERRIERES](https://docs.stopcoronavirus.tech/#/r/markdown/54210_ferrieres/4XTTMGYUhN3reDhMXxznYAgRRzFtFyhASEYmQngvr8t3Vxp2i) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54210 	- FERRIERES](https://docs.stopcoronavirus.tech/#/w/markdown/54210_ferrieres/4XTTMGYUhN3reDhMXxznYAgRRzFtFyhASEYmQngvr8t3Vxp2i-K3TgV5wT7w4efkR7oeBca2632kQ29YthpA77aXyWF1mNeVyTXBtzw46pXKkKPYKDedaVBg2SESmYBLrVajqAdw7T2hvHDGooWNHfqQQDgBCvXzEouvQm531nvVEYETitondxxTnv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

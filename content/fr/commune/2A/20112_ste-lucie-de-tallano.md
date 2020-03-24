@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20112 	- STE LUCIE DE TALLANO](https://docs.stopcoronavirus.tech/r/markdown/20112_ste-lucie-de-tallano/4XTTM5gt3veeDq7gvCCMhnjYjo2xuBPmsdKtLZkNaqhDqLGu9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20112 	- STE LUCIE DE TALLANO](https://docs.stopcoronavirus.tech/w/markdown/20112_ste-lucie-de-tallano/4XTTM5gt3veeDq7gvCCMhnjYjo2xuBPmsdKtLZkNaqhDqLGu9-K3TgU9azMddu2ka5oBGPPod68951Vfuo2AtYM9duhdfcBrzdZdWUAivv8E8v6JBEs2YdzysXhnqzM9AgbD4d3VKv6Rrae4sMA4cNKZRQLSNn5r6SStUnMhXbow33mt5YT7CQ1Rn3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 20112 	- STE LUCIE DE TALLANO](https://docs.stopcoronavirus.tech/#/r/markdown/20112_ste-lucie-de-tallano/4XTTM5gt3veeDq7gvCCMhnjYjo2xuBPmsdKtLZkNaqhDqLGu9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 20112 	- STE LUCIE DE TALLANO](https://docs.stopcoronavirus.tech/#/w/markdown/20112_ste-lucie-de-tallano/4XTTM5gt3veeDq7gvCCMhnjYjo2xuBPmsdKtLZkNaqhDqLGu9-K3TgU9azMddu2ka5oBGPPod68951Vfuo2AtYM9duhdfcBrzdZdWUAivv8E8v6JBEs2YdzysXhnqzM9AgbD4d3VKv6Rrae4sMA4cNKZRQLSNn5r6SStUnMhXbow33mt5YT7CQ1Rn3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83840 	- LA ROQUE ESCLAPON](https://docs.stopcoronavirus.tech/r/markdown/83840_la-roque-esclapon/4XTTM9KjHG9S2kQ6rK8zQWNwovAmn1T4uUtKvg7HXxWKgePU9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83840 	- LA ROQUE ESCLAPON](https://docs.stopcoronavirus.tech/w/markdown/83840_la-roque-esclapon/4XTTM9KjHG9S2kQ6rK8zQWNwovAmn1T4uUtKvg7HXxWKgePU9-K3TgTcrpRRw2rAtAiDAHZqVAcXtEcFRMno5cLEXbC5NQKJrhLeE7jMP41zWaU9dDGKachV4vxhkWRZAD5hKxKSdczGWrTm7AtBuwjzgWkvQyAT3FJjACXvv9S8nKyVLqvitAdxXX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83840 	- LA ROQUE ESCLAPON](https://docs.stopcoronavirus.tech/#/r/markdown/83840_la-roque-esclapon/4XTTM9KjHG9S2kQ6rK8zQWNwovAmn1T4uUtKvg7HXxWKgePU9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83840 	- LA ROQUE ESCLAPON](https://docs.stopcoronavirus.tech/#/w/markdown/83840_la-roque-esclapon/4XTTM9KjHG9S2kQ6rK8zQWNwovAmn1T4uUtKvg7HXxWKgePU9-K3TgTcrpRRw2rAtAiDAHZqVAcXtEcFRMno5cLEXbC5NQKJrhLeE7jMP41zWaU9dDGKachV4vxhkWRZAD5hKxKSdczGWrTm7AtBuwjzgWkvQyAT3FJjACXvv9S8nKyVLqvitAdxXX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

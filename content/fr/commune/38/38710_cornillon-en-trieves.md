@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38710 	- CORNILLON EN TRIEVES](https://docs.stopcoronavirus.tech/r/markdown/38710_cornillon-en-trieves/4XTTM58EorW73kD82NuMSQEGgdKK38ggyt2XpHqMwJt97aZgb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38710 	- CORNILLON EN TRIEVES](https://docs.stopcoronavirus.tech/w/markdown/38710_cornillon-en-trieves/4XTTM58EorW73kD82NuMSQEGgdKK38ggyt2XpHqMwJt97aZgb-K3TgUem6i7j3NjpUHc9nbdhUPw8kTRtNbdYvT1dZg8426pSo6tHaABJyWLFKoEpFXDjpkJKFhMehc9eMniQYB7bJ2awqzaQdvbhHi6Rp1h88EousTfmB1kh5LBQ3cUcm31aE1Nym) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38710 	- CORNILLON EN TRIEVES](https://docs.stopcoronavirus.tech/#/r/markdown/38710_cornillon-en-trieves/4XTTM58EorW73kD82NuMSQEGgdKK38ggyt2XpHqMwJt97aZgb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38710 	- CORNILLON EN TRIEVES](https://docs.stopcoronavirus.tech/#/w/markdown/38710_cornillon-en-trieves/4XTTM58EorW73kD82NuMSQEGgdKK38ggyt2XpHqMwJt97aZgb-K3TgUem6i7j3NjpUHc9nbdhUPw8kTRtNbdYvT1dZg8426pSo6tHaABJyWLFKoEpFXDjpkJKFhMehc9eMniQYB7bJ2awqzaQdvbhHi6Rp1h88EousTfmB1kh5LBQ3cUcm31aE1Nym) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

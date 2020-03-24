@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07160 	- LE CHEYLARD](https://docs.stopcoronavirus.tech/r/markdown/07160_le-cheylard/4XTTM4u88tobQpttj9CWQS2T5g7SGbf4NCTZGE9JAAS9pmybJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07160 	- LE CHEYLARD](https://docs.stopcoronavirus.tech/w/markdown/07160_le-cheylard/4XTTM4u88tobQpttj9CWQS2T5g7SGbf4NCTZGE9JAAS9pmybJ-K3TgUUyP5i8fcP79MbtHygXfPfLeAmPoaUKh4x8KTrqEq3FV8q97ZiGJhiyxvfhsyEEDiwLtRoPL3KMFW9TB3mnMgJPGyVtTL156TdeAq6W11JmVkeKUwwJzHPAzAFVE6J6a9SVi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07160 	- LE CHEYLARD](https://docs.stopcoronavirus.tech/#/r/markdown/07160_le-cheylard/4XTTM4u88tobQpttj9CWQS2T5g7SGbf4NCTZGE9JAAS9pmybJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07160 	- LE CHEYLARD](https://docs.stopcoronavirus.tech/#/w/markdown/07160_le-cheylard/4XTTM4u88tobQpttj9CWQS2T5g7SGbf4NCTZGE9JAAS9pmybJ-K3TgUUyP5i8fcP79MbtHygXfPfLeAmPoaUKh4x8KTrqEq3FV8q97ZiGJhiyxvfhsyEEDiwLtRoPL3KMFW9TB3mnMgJPGyVtTL156TdeAq6W11JmVkeKUwwJzHPAzAFVE6J6a9SVi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

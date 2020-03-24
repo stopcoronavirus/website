@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28310 	- FRESNAY L EVEQUE](https://docs.stopcoronavirus.tech/r/markdown/28310_fresnay-l-eveque/4XTTM8Egg6AtNXyX8ADN1y2e8EuEWU3H917Qf4AmXxPvWhkFe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28310 	- FRESNAY L EVEQUE](https://docs.stopcoronavirus.tech/w/markdown/28310_fresnay-l-eveque/4XTTM8Egg6AtNXyX8ADN1y2e8EuEWU3H917Qf4AmXxPvWhkFe-K3TgUj2Z9eoQUFK5FEp5pMEjsR5pW7Y61wHKPwhZkz2EWhUCK7UDv7nYhrbBBDp834HQuEpGzytTiWi4vG5tyjH96W9fgrrphP79h9cuLmJwT4Jw2o7TzvNsX84pcdR5vvZL7sCg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28310 	- FRESNAY L EVEQUE](https://docs.stopcoronavirus.tech/#/r/markdown/28310_fresnay-l-eveque/4XTTM8Egg6AtNXyX8ADN1y2e8EuEWU3H917Qf4AmXxPvWhkFe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28310 	- FRESNAY L EVEQUE](https://docs.stopcoronavirus.tech/#/w/markdown/28310_fresnay-l-eveque/4XTTM8Egg6AtNXyX8ADN1y2e8EuEWU3H917Qf4AmXxPvWhkFe-K3TgUj2Z9eoQUFK5FEp5pMEjsR5pW7Y61wHKPwhZkz2EWhUCK7UDv7nYhrbBBDp834HQuEpGzytTiWi4vG5tyjH96W9fgrrphP79h9cuLmJwT4Jw2o7TzvNsX84pcdR5vvZL7sCg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

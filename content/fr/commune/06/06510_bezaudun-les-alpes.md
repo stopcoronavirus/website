@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 06510 	- BEZAUDUN LES ALPES](https://docs.stopcoronavirus.tech/r/markdown/06510_bezaudun-les-alpes/4XTTM3cAXBJAQthWAcxPjHFzhdu5GC2hyfiMAQkuYgTw6nxEF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06510 	- BEZAUDUN LES ALPES](https://docs.stopcoronavirus.tech/w/markdown/06510_bezaudun-les-alpes/4XTTM3cAXBJAQthWAcxPjHFzhdu5GC2hyfiMAQkuYgTw6nxEF-K3TgUo5p7zKcaMNL4Qe98V7rFm6f2enSQx5bc4W9VMv59NircsjLpghPJPpddHUFTakSD94XAsdDfjwgSyZfovaM8yq1pUUd7FhYDnZWK19HxEZeh7YPrR3MS3aYY2ir9xzmxEro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06510 	- BEZAUDUN LES ALPES](https://docs.stopcoronavirus.tech/#/r/markdown/06510_bezaudun-les-alpes/4XTTM3cAXBJAQthWAcxPjHFzhdu5GC2hyfiMAQkuYgTw6nxEF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06510 	- BEZAUDUN LES ALPES](https://docs.stopcoronavirus.tech/#/w/markdown/06510_bezaudun-les-alpes/4XTTM3cAXBJAQthWAcxPjHFzhdu5GC2hyfiMAQkuYgTw6nxEF-K3TgUo5p7zKcaMNL4Qe98V7rFm6f2enSQx5bc4W9VMv59NircsjLpghPJPpddHUFTakSD94XAsdDfjwgSyZfovaM8yq1pUUd7FhYDnZWK19HxEZeh7YPrR3MS3aYY2ir9xzmxEro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

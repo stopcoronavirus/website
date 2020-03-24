@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 94450 	- LIMEIL BREVANNES](https://docs.stopcoronavirus.tech/r/markdown/94450_limeil-brevannes/4XTTM7e6ppS9J9tpa2q5xQEwt6u29kDzB3c7FVM7wviCFuLMQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94450 	- LIMEIL BREVANNES](https://docs.stopcoronavirus.tech/w/markdown/94450_limeil-brevannes/4XTTM7e6ppS9J9tpa2q5xQEwt6u29kDzB3c7FVM7wviCFuLMQ-K3TgTmXFqCSwByJAkg37G2QXfquEChSCRLyD7nLiqXSrBkiL738TA9nE2FP7VUjtJNdLGSnmLVBu2fbqYtAZmR9wPbAHEKGCyb9NpswpJ4SnfRNyK8asGFd4NmDePtw8yGLHFGm8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 94450 	- LIMEIL BREVANNES](https://docs.stopcoronavirus.tech/#/r/markdown/94450_limeil-brevannes/4XTTM7e6ppS9J9tpa2q5xQEwt6u29kDzB3c7FVM7wviCFuLMQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 94450 	- LIMEIL BREVANNES](https://docs.stopcoronavirus.tech/#/w/markdown/94450_limeil-brevannes/4XTTM7e6ppS9J9tpa2q5xQEwt6u29kDzB3c7FVM7wviCFuLMQ-K3TgTmXFqCSwByJAkg37G2QXfquEChSCRLyD7nLiqXSrBkiL738TA9nE2FP7VUjtJNdLGSnmLVBu2fbqYtAZmR9wPbAHEKGCyb9NpswpJ4SnfRNyK8asGFd4NmDePtw8yGLHFGm8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

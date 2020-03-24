@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71360 	- COLLONGE LA MADELEINE](https://docs.stopcoronavirus.tech/r/markdown/71360_collonge-la-madeleine/4XTTM7eqSw2cXE7d67VPMNCm7Sgb6jFd2xu7vHz5aq6JwEKyP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71360 	- COLLONGE LA MADELEINE](https://docs.stopcoronavirus.tech/w/markdown/71360_collonge-la-madeleine/4XTTM7eqSw2cXE7d67VPMNCm7Sgb6jFd2xu7vHz5aq6JwEKyP-K3TgTr85jZ9dTUaxEwa71VhEmxzpacxCGUYi3E3bLNjL5KiHW44vBRQUUPnakSX3QAL14FQYTnnCtzSXayVRdp2qwRgciemZHZtNMgMRwgk4XDiRF5nBEb2CW1wDxi7rCtJoc7xH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71360 	- COLLONGE LA MADELEINE](https://docs.stopcoronavirus.tech/#/r/markdown/71360_collonge-la-madeleine/4XTTM7eqSw2cXE7d67VPMNCm7Sgb6jFd2xu7vHz5aq6JwEKyP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71360 	- COLLONGE LA MADELEINE](https://docs.stopcoronavirus.tech/#/w/markdown/71360_collonge-la-madeleine/4XTTM7eqSw2cXE7d67VPMNCm7Sgb6jFd2xu7vHz5aq6JwEKyP-K3TgTr85jZ9dTUaxEwa71VhEmxzpacxCGUYi3E3bLNjL5KiHW44vBRQUUPnakSX3QAL14FQYTnnCtzSXayVRdp2qwRgciemZHZtNMgMRwgk4XDiRF5nBEb2CW1wDxi7rCtJoc7xH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

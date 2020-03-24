@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48220 	- PONT DE MONTVERT SUD MONT LOZERE](https://docs.stopcoronavirus.tech/r/markdown/48220_pont-de-montvert-sud-mont-lozere/4XTTMCUkTPSqGZwmdVW2nahfm3xC1FAf59Cdi3UtMAxD8LypC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48220 	- PONT DE MONTVERT SUD MONT LOZERE](https://docs.stopcoronavirus.tech/w/markdown/48220_pont-de-montvert-sud-mont-lozere/4XTTMCUkTPSqGZwmdVW2nahfm3xC1FAf59Cdi3UtMAxD8LypC-K3TgUvSWjm6Cy6xZae16Z7ayi7ZyNVRs3h3kZhgXLJVMAWw2cr6fQBpP2zP3vLXg4uuCUxmxTBy4zNhrPyMSLUF9MhzqcvKjwHip3XtxQq3jhahjXbJ7wbVCZvZ1AibAv2jNsj44) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48220 	- PONT DE MONTVERT SUD MONT LOZERE](https://docs.stopcoronavirus.tech/#/r/markdown/48220_pont-de-montvert-sud-mont-lozere/4XTTMCUkTPSqGZwmdVW2nahfm3xC1FAf59Cdi3UtMAxD8LypC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48220 	- PONT DE MONTVERT SUD MONT LOZERE](https://docs.stopcoronavirus.tech/#/w/markdown/48220_pont-de-montvert-sud-mont-lozere/4XTTMCUkTPSqGZwmdVW2nahfm3xC1FAf59Cdi3UtMAxD8LypC-K3TgUvSWjm6Cy6xZae16Z7ayi7ZyNVRs3h3kZhgXLJVMAWw2cr6fQBpP2zP3vLXg4uuCUxmxTBy4zNhrPyMSLUF9MhzqcvKjwHip3XtxQq3jhahjXbJ7wbVCZvZ1AibAv2jNsj44) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

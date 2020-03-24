@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 62158 	- LA HERLIERE](https://docs.stopcoronavirus.tech/r/markdown/62158_la-herliere/4XTTMGjJKiVCHucVKpgbXpU9oRrVFR9gzGaXPtPFUBsj4dHuG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62158 	- LA HERLIERE](https://docs.stopcoronavirus.tech/w/markdown/62158_la-herliere/4XTTMGjJKiVCHucVKpgbXpU9oRrVFR9gzGaXPtPFUBsj4dHuG-K3TgUZ1yn6BavkYyN1LHfKn7KhbiT5PRBBvLWaCY2UbUCx3gZg26usszbXpD1iRTX5ME29Cvs652TkBSyRHQmfEH1t6tPHnsESMLFsqYEntVeGb7aqCL6L3zH6djDb7UFrPoLGfQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 62158 	- LA HERLIERE](https://docs.stopcoronavirus.tech/#/r/markdown/62158_la-herliere/4XTTMGjJKiVCHucVKpgbXpU9oRrVFR9gzGaXPtPFUBsj4dHuG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 62158 	- LA HERLIERE](https://docs.stopcoronavirus.tech/#/w/markdown/62158_la-herliere/4XTTMGjJKiVCHucVKpgbXpU9oRrVFR9gzGaXPtPFUBsj4dHuG-K3TgUZ1yn6BavkYyN1LHfKn7KhbiT5PRBBvLWaCY2UbUCx3gZg26usszbXpD1iRTX5ME29Cvs652TkBSyRHQmfEH1t6tPHnsESMLFsqYEntVeGb7aqCL6L3zH6djDb7UFrPoLGfQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

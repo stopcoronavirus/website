@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09120 	- CRAMPAGNA](https://docs.stopcoronavirus.tech/r/markdown/09120_crampagna/4XTTMDe6VbJ6R4fXsVT4EB5WRrghVJX5RfgA6Aj25F8UV8Xvn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09120 	- CRAMPAGNA](https://docs.stopcoronavirus.tech/w/markdown/09120_crampagna/4XTTMDe6VbJ6R4fXsVT4EB5WRrghVJX5RfgA6Aj25F8UV8Xvn-K3TgUbXTqEJ1k5hDLkTwi4WTqe6ttbwjLyGtkGwRTyR7yCQw55B8WeBJSoYRGS1xdDBV65nyPnzsiZUoki8p55K8VFv59xUp6fAfdPXt9rdaCLLyMugwk6kdkF2btPNeUdK3ZBMG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09120 	- CRAMPAGNA](https://docs.stopcoronavirus.tech/#/r/markdown/09120_crampagna/4XTTMDe6VbJ6R4fXsVT4EB5WRrghVJX5RfgA6Aj25F8UV8Xvn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09120 	- CRAMPAGNA](https://docs.stopcoronavirus.tech/#/w/markdown/09120_crampagna/4XTTMDe6VbJ6R4fXsVT4EB5WRrghVJX5RfgA6Aj25F8UV8Xvn-K3TgUbXTqEJ1k5hDLkTwi4WTqe6ttbwjLyGtkGwRTyR7yCQw55B8WeBJSoYRGS1xdDBV65nyPnzsiZUoki8p55K8VFv59xUp6fAfdPXt9rdaCLLyMugwk6kdkF2btPNeUdK3ZBMG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

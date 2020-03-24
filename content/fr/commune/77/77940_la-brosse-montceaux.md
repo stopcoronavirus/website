@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77940 	- LA BROSSE MONTCEAUX](https://docs.stopcoronavirus.tech/r/markdown/77940_la-brosse-montceaux/4XTTMDKZKVpUg5UVswznSWyJJcnCjxqhbfhZjtP5LBSWu3Qg3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77940 	- LA BROSSE MONTCEAUX](https://docs.stopcoronavirus.tech/w/markdown/77940_la-brosse-montceaux/4XTTMDKZKVpUg5UVswznSWyJJcnCjxqhbfhZjtP5LBSWu3Qg3-K3TgTn2MMctJp7TUHU4FFDfRwZ7dWx7W4D7ihEJg7wPMfUtkriiAM6yZEgMrRkaj6V1hkmtGZbGPhuY6E4ojzYikPTktCWEpHG4Ba5F2KtgiRVC5iqEFSyqkjSM7xB1pzQYUPLew) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77940 	- LA BROSSE MONTCEAUX](https://docs.stopcoronavirus.tech/#/r/markdown/77940_la-brosse-montceaux/4XTTMDKZKVpUg5UVswznSWyJJcnCjxqhbfhZjtP5LBSWu3Qg3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77940 	- LA BROSSE MONTCEAUX](https://docs.stopcoronavirus.tech/#/w/markdown/77940_la-brosse-montceaux/4XTTMDKZKVpUg5UVswznSWyJJcnCjxqhbfhZjtP5LBSWu3Qg3-K3TgTn2MMctJp7TUHU4FFDfRwZ7dWx7W4D7ihEJg7wPMfUtkriiAM6yZEgMrRkaj6V1hkmtGZbGPhuY6E4ojzYikPTktCWEpHG4Ba5F2KtgiRVC5iqEFSyqkjSM7xB1pzQYUPLew) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

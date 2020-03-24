@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 06550 	- LA ROQUETTE SUR SIAGNE](https://docs.stopcoronavirus.tech/r/markdown/06550_la-roquette-sur-siagne/4XTTMAb1zVfioQ1i4wA5BxVgcoq2TA2DNsFfAjNMb4Vdm2E6N) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06550 	- LA ROQUETTE SUR SIAGNE](https://docs.stopcoronavirus.tech/w/markdown/06550_la-roquette-sur-siagne/4XTTMAb1zVfioQ1i4wA5BxVgcoq2TA2DNsFfAjNMb4Vdm2E6N-K3TgUFHqcvkr8jtDn7x5KeRdUEDxxRVSivGCY33YVG9xkzBLbyeomqmWL5rxjjcDY7f6DJj6v5qCFeMGUjEGP1frsxPbgjg3946Z9xGoUmkHhLHGUL2vCHVnLCTptYxHs9r2vhni) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06550 	- LA ROQUETTE SUR SIAGNE](https://docs.stopcoronavirus.tech/#/r/markdown/06550_la-roquette-sur-siagne/4XTTMAb1zVfioQ1i4wA5BxVgcoq2TA2DNsFfAjNMb4Vdm2E6N) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06550 	- LA ROQUETTE SUR SIAGNE](https://docs.stopcoronavirus.tech/#/w/markdown/06550_la-roquette-sur-siagne/4XTTMAb1zVfioQ1i4wA5BxVgcoq2TA2DNsFfAjNMb4Vdm2E6N-K3TgUFHqcvkr8jtDn7x5KeRdUEDxxRVSivGCY33YVG9xkzBLbyeomqmWL5rxjjcDY7f6DJj6v5qCFeMGUjEGP1frsxPbgjg3946Z9xGoUmkHhLHGUL2vCHVnLCTptYxHs9r2vhni) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

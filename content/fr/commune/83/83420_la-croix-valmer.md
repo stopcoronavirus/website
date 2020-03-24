@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83420 	- LA CROIX VALMER](https://docs.stopcoronavirus.tech/r/markdown/83420_la-croix-valmer/4XTTM3hvCJdkpCTzxRpGcUP4z4t87a2NKipo3Wsv4WY1QMxVq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83420 	- LA CROIX VALMER](https://docs.stopcoronavirus.tech/w/markdown/83420_la-croix-valmer/4XTTM3hvCJdkpCTzxRpGcUP4z4t87a2NKipo3Wsv4WY1QMxVq-K3TgULgdEk3mu9MPfT31DNYaMGaFnHsVmSZbDt4bYmuTaKqCE5SbQVyn663UFxCRJHTmmuXxVdFs6ctny62jLndApZAF1Y4YweG53ViheAJpAnJcVdTwkwmU5kgCb8sC2yz652yq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83420 	- LA CROIX VALMER](https://docs.stopcoronavirus.tech/#/r/markdown/83420_la-croix-valmer/4XTTM3hvCJdkpCTzxRpGcUP4z4t87a2NKipo3Wsv4WY1QMxVq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83420 	- LA CROIX VALMER](https://docs.stopcoronavirus.tech/#/w/markdown/83420_la-croix-valmer/4XTTM3hvCJdkpCTzxRpGcUP4z4t87a2NKipo3Wsv4WY1QMxVq-K3TgULgdEk3mu9MPfT31DNYaMGaFnHsVmSZbDt4bYmuTaKqCE5SbQVyn663UFxCRJHTmmuXxVdFs6ctny62jLndApZAF1Y4YweG53ViheAJpAnJcVdTwkwmU5kgCb8sC2yz652yq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

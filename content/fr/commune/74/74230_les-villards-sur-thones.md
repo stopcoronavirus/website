@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 74230 	- LES VILLARDS SUR THONES](https://docs.stopcoronavirus.tech/r/markdown/74230_les-villards-sur-thones/4XTTM7GzXu3z5wWE5D6hjdkwRjMhc1pKVrnjQ8kuvPXzpQysD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74230 	- LES VILLARDS SUR THONES](https://docs.stopcoronavirus.tech/w/markdown/74230_les-villards-sur-thones/4XTTM7GzXu3z5wWE5D6hjdkwRjMhc1pKVrnjQ8kuvPXzpQysD-K3TgUNNks3D49VywifqfMXPDPBnW943LaMXXfSaeSGqvZJGNP2nnMu8RGcMvbGME5nhXNAvm8hjtVeS5d7o57X9XMd3nFuwUtip9w9A3gZq6yxCk9pNvUKZQ1ZcEVyTrd2Jtz9Hq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74230 	- LES VILLARDS SUR THONES](https://docs.stopcoronavirus.tech/#/r/markdown/74230_les-villards-sur-thones/4XTTM7GzXu3z5wWE5D6hjdkwRjMhc1pKVrnjQ8kuvPXzpQysD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74230 	- LES VILLARDS SUR THONES](https://docs.stopcoronavirus.tech/#/w/markdown/74230_les-villards-sur-thones/4XTTM7GzXu3z5wWE5D6hjdkwRjMhc1pKVrnjQ8kuvPXzpQysD-K3TgUNNks3D49VywifqfMXPDPBnW943LaMXXfSaeSGqvZJGNP2nnMu8RGcMvbGME5nhXNAvm8hjtVeS5d7o57X9XMd3nFuwUtip9w9A3gZq6yxCk9pNvUKZQ1ZcEVyTrd2Jtz9Hq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

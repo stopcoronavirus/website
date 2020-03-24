@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 55290 	- BIENCOURT SUR ORGE](https://docs.stopcoronavirus.tech/r/markdown/55290_biencourt-sur-orge/4XTTM4g3nooyxj6YYnbrenr5qNDoFi4Ck6hN7vHWqaTMTm5Qz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55290 	- BIENCOURT SUR ORGE](https://docs.stopcoronavirus.tech/w/markdown/55290_biencourt-sur-orge/4XTTM4g3nooyxj6YYnbrenr5qNDoFi4Ck6hN7vHWqaTMTm5Qz-K3TgUwdVnziKfx8zT3enQTqfEuChZqgQ32mToz9zYzHpm2BsUEZrtjV6Y2BPLPtiHLqfASTRmgxGQrNBstnaUwQUy8YVx7ecekMxqe3SfbWopvodZhtecVTnppWr4pYEy7ctyaA2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55290 	- BIENCOURT SUR ORGE](https://docs.stopcoronavirus.tech/#/r/markdown/55290_biencourt-sur-orge/4XTTM4g3nooyxj6YYnbrenr5qNDoFi4Ck6hN7vHWqaTMTm5Qz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55290 	- BIENCOURT SUR ORGE](https://docs.stopcoronavirus.tech/#/w/markdown/55290_biencourt-sur-orge/4XTTM4g3nooyxj6YYnbrenr5qNDoFi4Ck6hN7vHWqaTMTm5Qz-K3TgUwdVnziKfx8zT3enQTqfEuChZqgQ32mToz9zYzHpm2BsUEZrtjV6Y2BPLPtiHLqfASTRmgxGQrNBstnaUwQUy8YVx7ecekMxqe3SfbWopvodZhtecVTnppWr4pYEy7ctyaA2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

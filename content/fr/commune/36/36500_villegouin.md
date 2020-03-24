@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36500 	- VILLEGOUIN](https://docs.stopcoronavirus.tech/r/markdown/36500_villegouin/4XTTMHe6BN5Btdb9KxsNJSw5wXYi1bN2ZHVa3AuB8B9JDS7iN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36500 	- VILLEGOUIN](https://docs.stopcoronavirus.tech/w/markdown/36500_villegouin/4XTTMHe6BN5Btdb9KxsNJSw5wXYi1bN2ZHVa3AuB8B9JDS7iN-K3TgUpEn1AFx5punzCRYfo9dApdRZ3qp46aSgoaqtYjVUuHmU8WkHcyj8wMtRLxBya82yEm1frSKgSV88VjvfqY7FoNCYq82ZJYa7sCvZJ3T6VXmkGJJ18gVmx9x1jJaYwCz29yQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36500 	- VILLEGOUIN](https://docs.stopcoronavirus.tech/#/r/markdown/36500_villegouin/4XTTMHe6BN5Btdb9KxsNJSw5wXYi1bN2ZHVa3AuB8B9JDS7iN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36500 	- VILLEGOUIN](https://docs.stopcoronavirus.tech/#/w/markdown/36500_villegouin/4XTTMHe6BN5Btdb9KxsNJSw5wXYi1bN2ZHVa3AuB8B9JDS7iN-K3TgUpEn1AFx5punzCRYfo9dApdRZ3qp46aSgoaqtYjVUuHmU8WkHcyj8wMtRLxBya82yEm1frSKgSV88VjvfqY7FoNCYq82ZJYa7sCvZJ3T6VXmkGJJ18gVmx9x1jJaYwCz29yQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

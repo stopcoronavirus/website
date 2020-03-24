@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 94270 	- LE KREMLIN BICETRE](https://docs.stopcoronavirus.tech/r/markdown/94270_le-kremlin-bicetre/4XTTM3xRynPmyhd23XsnQhRTJdZuF3WSRvkEhqCELz8uWx3HK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94270 	- LE KREMLIN BICETRE](https://docs.stopcoronavirus.tech/w/markdown/94270_le-kremlin-bicetre/4XTTM3xRynPmyhd23XsnQhRTJdZuF3WSRvkEhqCELz8uWx3HK-K3TgV6HQK1MSCNNTLeoKVMRLduazNRLtaD2fcDMdaNy8ExQHdzn2rSB97JNPxchyiXb69zQrEoADz8Er2PpB7JTCd1U5E4ej2nb1RyPuBHA6TDZchFcaNtjqK1wbKvu9A8xCqXmb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 94270 	- LE KREMLIN BICETRE](https://docs.stopcoronavirus.tech/#/r/markdown/94270_le-kremlin-bicetre/4XTTM3xRynPmyhd23XsnQhRTJdZuF3WSRvkEhqCELz8uWx3HK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 94270 	- LE KREMLIN BICETRE](https://docs.stopcoronavirus.tech/#/w/markdown/94270_le-kremlin-bicetre/4XTTM3xRynPmyhd23XsnQhRTJdZuF3WSRvkEhqCELz8uWx3HK-K3TgV6HQK1MSCNNTLeoKVMRLduazNRLtaD2fcDMdaNy8ExQHdzn2rSB97JNPxchyiXb69zQrEoADz8Er2PpB7JTCd1U5E4ej2nb1RyPuBHA6TDZchFcaNtjqK1wbKvu9A8xCqXmb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

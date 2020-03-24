@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 67130 	- NEUVILLER LA ROCHE](https://docs.stopcoronavirus.tech/r/markdown/67130_neuviller-la-roche/4XTTM7uSbd5dHFeRn3mRtggLrnvY74FmyuibrgoJ8s2jYGuJ3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 67130 	- NEUVILLER LA ROCHE](https://docs.stopcoronavirus.tech/w/markdown/67130_neuviller-la-roche/4XTTM7uSbd5dHFeRn3mRtggLrnvY74FmyuibrgoJ8s2jYGuJ3-K3TgUpC5dqiB1XA8hfiKWyMb9qCcTHZNjMaTGAUJdg1xgMTBQS9paFL6oao7VQqhSMPD3VY89w6rbC6tPqukekqXokmwHAMCrfyJ1xiMDj6xZQ2AvmL2XNVKk6god6ffhhqWxnAo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 67130 	- NEUVILLER LA ROCHE](https://docs.stopcoronavirus.tech/#/r/markdown/67130_neuviller-la-roche/4XTTM7uSbd5dHFeRn3mRtggLrnvY74FmyuibrgoJ8s2jYGuJ3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 67130 	- NEUVILLER LA ROCHE](https://docs.stopcoronavirus.tech/#/w/markdown/67130_neuviller-la-roche/4XTTM7uSbd5dHFeRn3mRtggLrnvY74FmyuibrgoJ8s2jYGuJ3-K3TgUpC5dqiB1XA8hfiKWyMb9qCcTHZNjMaTGAUJdg1xgMTBQS9paFL6oao7VQqhSMPD3VY89w6rbC6tPqukekqXokmwHAMCrfyJ1xiMDj6xZQ2AvmL2XNVKk6god6ffhhqWxnAo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/r/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/w/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24-K3TgU9W9pVWN9ZNXuC5pEDp9v136JmAD3LgUx7xHTmm86fi3KvoJhwqQEXKguZSba62YFt5ik1qbdAF4H61TCwnd1buQJ4xQb84agy6uR7khoqjUGRmD9k4LfibwRBtWd7j9RhhW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/#/r/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/#/w/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24-K3TgU9W9pVWN9ZNXuC5pEDp9v136JmAD3LgUx7xHTmm86fi3KvoJhwqQEXKguZSba62YFt5ik1qbdAF4H61TCwnd1buQJ4xQb84agy6uR7khoqjUGRmD9k4LfibwRBtWd7j9RhhW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

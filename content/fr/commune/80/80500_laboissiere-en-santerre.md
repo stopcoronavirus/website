@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80500 	- LABOISSIERE EN SANTERRE](https://docs.stopcoronavirus.tech/r/markdown/80500_laboissiere-en-santerre/4XTTMCz5Qagc7gwcADeuxJ2saikt4C79Ryrp1E7W2LNieNFWJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80500 	- LABOISSIERE EN SANTERRE](https://docs.stopcoronavirus.tech/w/markdown/80500_laboissiere-en-santerre/4XTTMCz5Qagc7gwcADeuxJ2saikt4C79Ryrp1E7W2LNieNFWJ-K3TgUtqyMnAMsUh7gkK6NZdHWEXHoCtnt5fgPWjKrPvu3PFE5XL1wYqumcLsdumsK4SLpRdePgWy6aPxU385EqonfZSYa98LUoUbcahRtKMzqD8xtwyM5GWkNfARWna3C9ak2ZK8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80500 	- LABOISSIERE EN SANTERRE](https://docs.stopcoronavirus.tech/#/r/markdown/80500_laboissiere-en-santerre/4XTTMCz5Qagc7gwcADeuxJ2saikt4C79Ryrp1E7W2LNieNFWJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80500 	- LABOISSIERE EN SANTERRE](https://docs.stopcoronavirus.tech/#/w/markdown/80500_laboissiere-en-santerre/4XTTMCz5Qagc7gwcADeuxJ2saikt4C79Ryrp1E7W2LNieNFWJ-K3TgUtqyMnAMsUh7gkK6NZdHWEXHoCtnt5fgPWjKrPvu3PFE5XL1wYqumcLsdumsK4SLpRdePgWy6aPxU385EqonfZSYa98LUoUbcahRtKMzqD8xtwyM5GWkNfARWna3C9ak2ZK8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

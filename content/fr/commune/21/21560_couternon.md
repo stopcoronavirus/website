@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21560 	- COUTERNON](https://docs.stopcoronavirus.tech/r/markdown/21560_couternon/4XTTM4LiaWB85SnUQBRTHmfdJjg9UzVRjpQvUoZJcLET369sx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21560 	- COUTERNON](https://docs.stopcoronavirus.tech/w/markdown/21560_couternon/4XTTM4LiaWB85SnUQBRTHmfdJjg9UzVRjpQvUoZJcLET369sx-K3TgUAaS94GSCRMgooejCsZ59gh4dHwf4aSt1xBWX7zTmuCBvbsAVjBWj8c4vxe8FmFj1EiighPAWd9ZFc1VBvVHLADMj7ueZCygEtGHd66yVP5pzxq3FXxPSjg7tRNTu8uf3KAJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21560 	- COUTERNON](https://docs.stopcoronavirus.tech/#/r/markdown/21560_couternon/4XTTM4LiaWB85SnUQBRTHmfdJjg9UzVRjpQvUoZJcLET369sx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21560 	- COUTERNON](https://docs.stopcoronavirus.tech/#/w/markdown/21560_couternon/4XTTM4LiaWB85SnUQBRTHmfdJjg9UzVRjpQvUoZJcLET369sx-K3TgUAaS94GSCRMgooejCsZ59gh4dHwf4aSt1xBWX7zTmuCBvbsAVjBWj8c4vxe8FmFj1EiighPAWd9ZFc1VBvVHLADMj7ueZCygEtGHd66yVP5pzxq3FXxPSjg7tRNTu8uf3KAJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

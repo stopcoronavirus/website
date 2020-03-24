@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 73260 	- LES AVANCHERS VALMOREL](https://docs.stopcoronavirus.tech/r/markdown/73260_les-avanchers-valmorel/4XTTM4jVFLDVt5R9aipQ9h6UkQenUurJhP7mzMRBY249MS8D3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73260 	- LES AVANCHERS VALMOREL](https://docs.stopcoronavirus.tech/w/markdown/73260_les-avanchers-valmorel/4XTTM4jVFLDVt5R9aipQ9h6UkQenUurJhP7mzMRBY249MS8D3-K3TgUjptcsYBGj6cdhs3pX4b762a4XqFnnp7RcHDLHZsnDgVdVvq9ucQyS7sLRzaTZhTPkiENaWKoCKwDzc8mFgByFXLb9p8kzBTGRMkzH5srRo5CLrmh65sP2AL7FEcB4DtVGYm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73260 	- LES AVANCHERS VALMOREL](https://docs.stopcoronavirus.tech/#/r/markdown/73260_les-avanchers-valmorel/4XTTM4jVFLDVt5R9aipQ9h6UkQenUurJhP7mzMRBY249MS8D3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73260 	- LES AVANCHERS VALMOREL](https://docs.stopcoronavirus.tech/#/w/markdown/73260_les-avanchers-valmorel/4XTTM4jVFLDVt5R9aipQ9h6UkQenUurJhP7mzMRBY249MS8D3-K3TgUjptcsYBGj6cdhs3pX4b762a4XqFnnp7RcHDLHZsnDgVdVvq9ucQyS7sLRzaTZhTPkiENaWKoCKwDzc8mFgByFXLb9p8kzBTGRMkzH5srRo5CLrmh65sP2AL7FEcB4DtVGYm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08130 	- GUINCOURT](https://docs.stopcoronavirus.tech/r/markdown/08130_guincourt/4XTTM4TTanjZCsja8PuRCU8aN1nscJqhrczdWsmj2g97gpczT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08130 	- GUINCOURT](https://docs.stopcoronavirus.tech/w/markdown/08130_guincourt/4XTTM4TTanjZCsja8PuRCU8aN1nscJqhrczdWsmj2g97gpczT-K3TgU76o5UCf1uPMK8kC5ySXANsG6q8CgjzoeTAVngVKmw22pWH5tRYgBYCe44uYBYKt2YUiMs8ThQRvX2PKYrgTKs5HLxoaPJaC4TVef4EpesmjcnsPcEsb4bGhr25qpe2EDVJX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08130 	- GUINCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/08130_guincourt/4XTTM4TTanjZCsja8PuRCU8aN1nscJqhrczdWsmj2g97gpczT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08130 	- GUINCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/08130_guincourt/4XTTM4TTanjZCsja8PuRCU8aN1nscJqhrczdWsmj2g97gpczT-K3TgU76o5UCf1uPMK8kC5ySXANsG6q8CgjzoeTAVngVKmw22pWH5tRYgBYCe44uYBYKt2YUiMs8ThQRvX2PKYrgTKs5HLxoaPJaC4TVef4EpesmjcnsPcEsb4bGhr25qpe2EDVJX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

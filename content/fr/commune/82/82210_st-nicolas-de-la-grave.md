@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 82210 	- ST NICOLAS DE LA GRAVE](https://docs.stopcoronavirus.tech/r/markdown/82210_st-nicolas-de-la-grave/4XTTMC6pAVmLYU7XGBKxafSbDPisb7TiqpAZwEmLREpKg8Y5r) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82210 	- ST NICOLAS DE LA GRAVE](https://docs.stopcoronavirus.tech/w/markdown/82210_st-nicolas-de-la-grave/4XTTMC6pAVmLYU7XGBKxafSbDPisb7TiqpAZwEmLREpKg8Y5r-K3TgUUbn5mdHFzNaXwqKdZnDjGsdbgbqtXU82ikz2f3B29kz5s6sue9uMjfF1vG1S2fraXwopuvyZbm5qVDouBSqcKpf5TPkYNvvYLgcPhZCGZob6pqZ5fhgremSzzbiYPmY3pvY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 82210 	- ST NICOLAS DE LA GRAVE](https://docs.stopcoronavirus.tech/#/r/markdown/82210_st-nicolas-de-la-grave/4XTTMC6pAVmLYU7XGBKxafSbDPisb7TiqpAZwEmLREpKg8Y5r) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 82210 	- ST NICOLAS DE LA GRAVE](https://docs.stopcoronavirus.tech/#/w/markdown/82210_st-nicolas-de-la-grave/4XTTMC6pAVmLYU7XGBKxafSbDPisb7TiqpAZwEmLREpKg8Y5r-K3TgUUbn5mdHFzNaXwqKdZnDjGsdbgbqtXU82ikz2f3B29kz5s6sue9uMjfF1vG1S2fraXwopuvyZbm5qVDouBSqcKpf5TPkYNvvYLgcPhZCGZob6pqZ5fhgremSzzbiYPmY3pvY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

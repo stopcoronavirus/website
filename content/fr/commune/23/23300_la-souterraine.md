@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23300 	- LA SOUTERRAINE](https://docs.stopcoronavirus.tech/r/markdown/23300_la-souterraine/4XTTMFCHqTFkwW5bHdtaLCRnEor4Djo8Mjb9RdmKv7jAZ8JXq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23300 	- LA SOUTERRAINE](https://docs.stopcoronavirus.tech/w/markdown/23300_la-souterraine/4XTTMFCHqTFkwW5bHdtaLCRnEor4Djo8Mjb9RdmKv7jAZ8JXq-K3TgTzHwyMSFKXntn2CFAHxWMWyQXV4Qn1p1YtDkGgQPhFRkT7JCAQLmktM33WMsjhq6Ejd3H4w5QayERUmT4MdfmACqFtXmYfC7g1xvnNSzfwuDqjh9rxnQG36WNqRWt3EY1DuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23300 	- LA SOUTERRAINE](https://docs.stopcoronavirus.tech/#/r/markdown/23300_la-souterraine/4XTTMFCHqTFkwW5bHdtaLCRnEor4Djo8Mjb9RdmKv7jAZ8JXq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23300 	- LA SOUTERRAINE](https://docs.stopcoronavirus.tech/#/w/markdown/23300_la-souterraine/4XTTMFCHqTFkwW5bHdtaLCRnEor4Djo8Mjb9RdmKv7jAZ8JXq-K3TgTzHwyMSFKXntn2CFAHxWMWyQXV4Qn1p1YtDkGgQPhFRkT7JCAQLmktM33WMsjhq6Ejd3H4w5QayERUmT4MdfmACqFtXmYfC7g1xvnNSzfwuDqjh9rxnQG36WNqRWt3EY1DuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

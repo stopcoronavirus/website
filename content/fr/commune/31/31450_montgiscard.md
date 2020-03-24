@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 31450 	- MONTGISCARD](https://docs.stopcoronavirus.tech/r/markdown/31450_montgiscard/4XTTMAmvD2VoyqtQk9vmqwP3poe3A4qqGHGp3wnXMeLxLVnVg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31450 	- MONTGISCARD](https://docs.stopcoronavirus.tech/w/markdown/31450_montgiscard/4XTTMAmvD2VoyqtQk9vmqwP3poe3A4qqGHGp3wnXMeLxLVnVg-K3TgUa2ae7TEzSqByLMXcwpiPCZyZzgHwKsAgh6r8jET2PxYuKF7R8FyAghxaA1H2tAXASMmy7qNDudKPEvy1F1KRjKpSTU5md3JHMKRbgaS1dMPdFNoGfX8FezewjKU9dTK1BAr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31450 	- MONTGISCARD](https://docs.stopcoronavirus.tech/#/r/markdown/31450_montgiscard/4XTTMAmvD2VoyqtQk9vmqwP3poe3A4qqGHGp3wnXMeLxLVnVg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31450 	- MONTGISCARD](https://docs.stopcoronavirus.tech/#/w/markdown/31450_montgiscard/4XTTMAmvD2VoyqtQk9vmqwP3poe3A4qqGHGp3wnXMeLxLVnVg-K3TgUa2ae7TEzSqByLMXcwpiPCZyZzgHwKsAgh6r8jET2PxYuKF7R8FyAghxaA1H2tAXASMmy7qNDudKPEvy1F1KRjKpSTU5md3JHMKRbgaS1dMPdFNoGfX8FezewjKU9dTK1BAr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 31 	- Haute-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

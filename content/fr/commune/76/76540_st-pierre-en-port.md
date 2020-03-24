@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76540 	- ST PIERRE EN PORT](https://docs.stopcoronavirus.tech/r/markdown/76540_st-pierre-en-port/4XTTMG6uUtRWZqa7UTT8FkDaD9YcmSFNV9p1Fdfj8R7X5NtWU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76540 	- ST PIERRE EN PORT](https://docs.stopcoronavirus.tech/w/markdown/76540_st-pierre-en-port/4XTTMG6uUtRWZqa7UTT8FkDaD9YcmSFNV9p1Fdfj8R7X5NtWU-K3TgUzzHJVyBDMRXyz85YqXMCvMEXY4xVNavE7CnGEafyhUaPKGnJ6LPPXE56SHtGGGg2wWNEXAWg2mXxm9HGAA6QW5qE5SwEzKKLq5ZtEafHUnNjoyGZUn2YWdF4AbAmu4VYyUk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76540 	- ST PIERRE EN PORT](https://docs.stopcoronavirus.tech/#/r/markdown/76540_st-pierre-en-port/4XTTMG6uUtRWZqa7UTT8FkDaD9YcmSFNV9p1Fdfj8R7X5NtWU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76540 	- ST PIERRE EN PORT](https://docs.stopcoronavirus.tech/#/w/markdown/76540_st-pierre-en-port/4XTTMG6uUtRWZqa7UTT8FkDaD9YcmSFNV9p1Fdfj8R7X5NtWU-K3TgUzzHJVyBDMRXyz85YqXMCvMEXY4xVNavE7CnGEafyhUaPKGnJ6LPPXE56SHtGGGg2wWNEXAWg2mXxm9HGAA6QW5qE5SwEzKKLq5ZtEafHUnNjoyGZUn2YWdF4AbAmu4VYyUk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

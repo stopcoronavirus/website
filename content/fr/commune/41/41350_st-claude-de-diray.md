@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 41350 	- ST CLAUDE DE DIRAY](https://docs.stopcoronavirus.tech/r/markdown/41350_st-claude-de-diray/4XTTMJHkBG1R46xmfphZHQdrafqZWfCnF3Yd75caW4z3EkYfV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 41350 	- ST CLAUDE DE DIRAY](https://docs.stopcoronavirus.tech/w/markdown/41350_st-claude-de-diray/4XTTMJHkBG1R46xmfphZHQdrafqZWfCnF3Yd75caW4z3EkYfV-K3TgU3HdqiA4BvBYtTGWHzzmtJpg38hQuJfk3ZYETGv5gbru1S9JWyoiFPHnh3JVqkJGe3nZ7ZBHVdFnRmTS3NonbYoy3UzzXAodhbocuBwnjc1nGkd1L3rNQYJi5EvDcuxrt5mm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 41350 	- ST CLAUDE DE DIRAY](https://docs.stopcoronavirus.tech/#/r/markdown/41350_st-claude-de-diray/4XTTMJHkBG1R46xmfphZHQdrafqZWfCnF3Yd75caW4z3EkYfV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 41350 	- ST CLAUDE DE DIRAY](https://docs.stopcoronavirus.tech/#/w/markdown/41350_st-claude-de-diray/4XTTMJHkBG1R46xmfphZHQdrafqZWfCnF3Yd75caW4z3EkYfV-K3TgU3HdqiA4BvBYtTGWHzzmtJpg38hQuJfk3ZYETGv5gbru1S9JWyoiFPHnh3JVqkJGe3nZ7ZBHVdFnRmTS3NonbYoy3UzzXAodhbocuBwnjc1nGkd1L3rNQYJi5EvDcuxrt5mm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/#/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/#/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

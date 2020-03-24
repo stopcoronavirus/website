@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01190 	- CHAVANNES SUR REYSSOUZE](https://docs.stopcoronavirus.tech/r/markdown/01190_chavannes-sur-reyssouze/4XTTME6dg8Ui317j3UEzUAK9R4aJPgC8vx44QohF22pdgFbih) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01190 	- CHAVANNES SUR REYSSOUZE](https://docs.stopcoronavirus.tech/w/markdown/01190_chavannes-sur-reyssouze/4XTTME6dg8Ui317j3UEzUAK9R4aJPgC8vx44QohF22pdgFbih-K3TgTgATPB2FVSELQUuzkngLTSFidZKzaeM3WBaHxYMf3zguLNeXjCV5pGkT8r1gGQwyqa7rMwAsy5S3NwZ69qXhBiRTwCjMiUHqyB7W59fbDFbAFnT1DHVWSVhuBSW3x7YVytjB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01190 	- CHAVANNES SUR REYSSOUZE](https://docs.stopcoronavirus.tech/#/r/markdown/01190_chavannes-sur-reyssouze/4XTTME6dg8Ui317j3UEzUAK9R4aJPgC8vx44QohF22pdgFbih) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01190 	- CHAVANNES SUR REYSSOUZE](https://docs.stopcoronavirus.tech/#/w/markdown/01190_chavannes-sur-reyssouze/4XTTME6dg8Ui317j3UEzUAK9R4aJPgC8vx44QohF22pdgFbih-K3TgTgATPB2FVSELQUuzkngLTSFidZKzaeM3WBaHxYMf3zguLNeXjCV5pGkT8r1gGQwyqa7rMwAsy5S3NwZ69qXhBiRTwCjMiUHqyB7W59fbDFbAFnT1DHVWSVhuBSW3x7YVytjB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

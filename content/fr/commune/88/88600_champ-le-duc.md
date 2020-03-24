@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88600 	- CHAMP LE DUC](https://docs.stopcoronavirus.tech/r/markdown/88600_champ-le-duc/4XTTM9NceqpEV8Lm6o83jUxr3UfV641VRMeHz4S7cneUTm22z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88600 	- CHAMP LE DUC](https://docs.stopcoronavirus.tech/w/markdown/88600_champ-le-duc/4XTTM9NceqpEV8Lm6o83jUxr3UfV641VRMeHz4S7cneUTm22z-K3TgUE1p7C24w4dwgnPo26SZa9LPGrjpjpyWvNEFRj94jJJSXELQqnYCN1RwsLgKN51R6T7UkjYeUyv7MzuU1evhB29tgsH5WwUzXP2GaY8JpN4jt9K4ooLGjm7TcyAWk5zaMu5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88600 	- CHAMP LE DUC](https://docs.stopcoronavirus.tech/#/r/markdown/88600_champ-le-duc/4XTTM9NceqpEV8Lm6o83jUxr3UfV641VRMeHz4S7cneUTm22z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88600 	- CHAMP LE DUC](https://docs.stopcoronavirus.tech/#/w/markdown/88600_champ-le-duc/4XTTM9NceqpEV8Lm6o83jUxr3UfV641VRMeHz4S7cneUTm22z-K3TgUE1p7C24w4dwgnPo26SZa9LPGrjpjpyWvNEFRj94jJJSXELQqnYCN1RwsLgKN51R6T7UkjYeUyv7MzuU1evhB29tgsH5WwUzXP2GaY8JpN4jt9K4ooLGjm7TcyAWk5zaMu5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

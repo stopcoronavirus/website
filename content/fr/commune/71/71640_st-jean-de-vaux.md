@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71640 	- ST JEAN DE VAUX](https://docs.stopcoronavirus.tech/r/markdown/71640_st-jean-de-vaux/4XTTMFAKYeywRkNyYzUcQf5VmjjejyM88eBQSjdTmwXCzPhrk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71640 	- ST JEAN DE VAUX](https://docs.stopcoronavirus.tech/w/markdown/71640_st-jean-de-vaux/4XTTMFAKYeywRkNyYzUcQf5VmjjejyM88eBQSjdTmwXCzPhrk-K3TgTsvBzg15MT4EemrdSmrbqVNJVKgJVizxVuQSFHY8g16bMLe9FsFicJrS7eMHspcvD9uTXTpHnsxHke9CjAL3xgWnUjoyqnXAzhz7mtWhSgDxHdM9CoVR6Uqc8pWzTaxHirdr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71640 	- ST JEAN DE VAUX](https://docs.stopcoronavirus.tech/#/r/markdown/71640_st-jean-de-vaux/4XTTMFAKYeywRkNyYzUcQf5VmjjejyM88eBQSjdTmwXCzPhrk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71640 	- ST JEAN DE VAUX](https://docs.stopcoronavirus.tech/#/w/markdown/71640_st-jean-de-vaux/4XTTMFAKYeywRkNyYzUcQf5VmjjejyM88eBQSjdTmwXCzPhrk-K3TgTsvBzg15MT4EemrdSmrbqVNJVKgJVizxVuQSFHY8g16bMLe9FsFicJrS7eMHspcvD9uTXTpHnsxHke9CjAL3xgWnUjoyqnXAzhz7mtWhSgDxHdM9CoVR6Uqc8pWzTaxHirdr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

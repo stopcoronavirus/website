@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23400 	- BOSMOREAU LES MINES](https://docs.stopcoronavirus.tech/r/markdown/23400_bosmoreau-les-mines/4XTTM88bBNidJwyYSFy2qt6qeAngPTtqhSufqY7q1D9HvczSF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23400 	- BOSMOREAU LES MINES](https://docs.stopcoronavirus.tech/w/markdown/23400_bosmoreau-les-mines/4XTTM88bBNidJwyYSFy2qt6qeAngPTtqhSufqY7q1D9HvczSF-K3TgTfXbSdQFGFtihM9ENp2fjh6YXcRx98ADWGHRVWKtxSaqjRFEoGYXq5hw1tg7hAH43HJkrt5DqPbwjmcNWcfSJ2rcFyWaM6i7MA6ore44tsFEJGAKHj66nE9xZcE1pUHxKhFy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23400 	- BOSMOREAU LES MINES](https://docs.stopcoronavirus.tech/#/r/markdown/23400_bosmoreau-les-mines/4XTTM88bBNidJwyYSFy2qt6qeAngPTtqhSufqY7q1D9HvczSF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23400 	- BOSMOREAU LES MINES](https://docs.stopcoronavirus.tech/#/w/markdown/23400_bosmoreau-les-mines/4XTTM88bBNidJwyYSFy2qt6qeAngPTtqhSufqY7q1D9HvczSF-K3TgTfXbSdQFGFtihM9ENp2fjh6YXcRx98ADWGHRVWKtxSaqjRFEoGYXq5hw1tg7hAH43HJkrt5DqPbwjmcNWcfSJ2rcFyWaM6i7MA6ore44tsFEJGAKHj66nE9xZcE1pUHxKhFy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

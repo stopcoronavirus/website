@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09500 	- LAGARDE](https://docs.stopcoronavirus.tech/r/markdown/09500_lagarde/4XTTM5D3jtWZLuadH7HF822Ei3Z6uzm5JfVMDNkCtRLqtpPDS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09500 	- LAGARDE](https://docs.stopcoronavirus.tech/w/markdown/09500_lagarde/4XTTM5D3jtWZLuadH7HF822Ei3Z6uzm5JfVMDNkCtRLqtpPDS-K3TgU9mYdyKjv4hKe1BHX32FHJHewfv5pghSjbh6HGkzD1FPqDyNQ6S2rLjuNnerLbNDYhXRdBCxVFNBfA7JBLj8HsbTjzcgyx74wVCRFSgSZDSVBPaowT3meTPGxJFR8j7EKmxk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09500 	- LAGARDE](https://docs.stopcoronavirus.tech/#/r/markdown/09500_lagarde/4XTTM5D3jtWZLuadH7HF822Ei3Z6uzm5JfVMDNkCtRLqtpPDS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09500 	- LAGARDE](https://docs.stopcoronavirus.tech/#/w/markdown/09500_lagarde/4XTTM5D3jtWZLuadH7HF822Ei3Z6uzm5JfVMDNkCtRLqtpPDS-K3TgU9mYdyKjv4hKe1BHX32FHJHewfv5pghSjbh6HGkzD1FPqDyNQ6S2rLjuNnerLbNDYhXRdBCxVFNBfA7JBLj8HsbTjzcgyx74wVCRFSgSZDSVBPaowT3meTPGxJFR8j7EKmxk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

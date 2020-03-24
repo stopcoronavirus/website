@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42130 	- LEIGNEUX](https://docs.stopcoronavirus.tech/r/markdown/42130_leigneux/4XTTMC8PST1fLYTzQfX3j4mCqbbbejHrNFe3GyS8kgisTSDoS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42130 	- LEIGNEUX](https://docs.stopcoronavirus.tech/w/markdown/42130_leigneux/4XTTMC8PST1fLYTzQfX3j4mCqbbbejHrNFe3GyS8kgisTSDoS-K3TgUn79j8Fz2ofZpX4e4ifogQ2n9JQVHKqEvsPS7DoJqdBXKAsP7r9SX8zMQNbHfhGmbLyTyLvt8nHgJcK9N4GhYRovHeXMrK22DKgP6fW7dtnaQWsTtMpSN5MgshMR7K2JXsye) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42130 	- LEIGNEUX](https://docs.stopcoronavirus.tech/#/r/markdown/42130_leigneux/4XTTMC8PST1fLYTzQfX3j4mCqbbbejHrNFe3GyS8kgisTSDoS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42130 	- LEIGNEUX](https://docs.stopcoronavirus.tech/#/w/markdown/42130_leigneux/4XTTMC8PST1fLYTzQfX3j4mCqbbbejHrNFe3GyS8kgisTSDoS-K3TgUn79j8Fz2ofZpX4e4ifogQ2n9JQVHKqEvsPS7DoJqdBXKAsP7r9SX8zMQNbHfhGmbLyTyLvt8nHgJcK9N4GhYRovHeXMrK22DKgP6fW7dtnaQWsTtMpSN5MgshMR7K2JXsye) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

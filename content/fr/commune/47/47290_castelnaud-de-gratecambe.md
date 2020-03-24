@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 47290 	- CASTELNAUD DE GRATECAMBE](https://docs.stopcoronavirus.tech/r/markdown/47290_castelnaud-de-gratecambe/4XTTMAGaja5yJbwgyKQRRPp55a7y9u5nnPRdArebM2RJNssjG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47290 	- CASTELNAUD DE GRATECAMBE](https://docs.stopcoronavirus.tech/w/markdown/47290_castelnaud-de-gratecambe/4XTTMAGaja5yJbwgyKQRRPp55a7y9u5nnPRdArebM2RJNssjG-K3TgUbRh9Ubqxe78kY9ndi2TpGZGwyePNtxCsHJbnN5wWNcBsXa9Lj5Wk23X9QjmoYexTqda5Y3ffeH55enqTuuk9DWqEcEBsnoXc2urNt9do1HwwPbHsxCZRm9dH31rroc2GDke) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47290 	- CASTELNAUD DE GRATECAMBE](https://docs.stopcoronavirus.tech/#/r/markdown/47290_castelnaud-de-gratecambe/4XTTMAGaja5yJbwgyKQRRPp55a7y9u5nnPRdArebM2RJNssjG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47290 	- CASTELNAUD DE GRATECAMBE](https://docs.stopcoronavirus.tech/#/w/markdown/47290_castelnaud-de-gratecambe/4XTTMAGaja5yJbwgyKQRRPp55a7y9u5nnPRdArebM2RJNssjG-K3TgUbRh9Ubqxe78kY9ndi2TpGZGwyePNtxCsHJbnN5wWNcBsXa9Lj5Wk23X9QjmoYexTqda5Y3ffeH55enqTuuk9DWqEcEBsnoXc2urNt9do1HwwPbHsxCZRm9dH31rroc2GDke) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

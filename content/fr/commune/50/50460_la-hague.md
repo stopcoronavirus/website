@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50460 	- LA HAGUE](https://docs.stopcoronavirus.tech/r/markdown/50460_la-hague/4XTTM5zq9NJDXXeUMjZFjyKe6xVgWog1cuVZLhfm5xaLs9FnF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50460 	- LA HAGUE](https://docs.stopcoronavirus.tech/w/markdown/50460_la-hague/4XTTM5zq9NJDXXeUMjZFjyKe6xVgWog1cuVZLhfm5xaLs9FnF-K3TgTm4RUMfcYDki4iMT8oWRqbAURhxja7FBjt6Y7rBGS2WMi5xoaQ3cKBuvrS5x7iCfb78FyE3KXn9VMBXJcD991NZaDEJyMTemcE7uGVNQ8wxqFTeww9L5LuppGP8cfV4x68mm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50460 	- LA HAGUE](https://docs.stopcoronavirus.tech/#/r/markdown/50460_la-hague/4XTTM5zq9NJDXXeUMjZFjyKe6xVgWog1cuVZLhfm5xaLs9FnF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50460 	- LA HAGUE](https://docs.stopcoronavirus.tech/#/w/markdown/50460_la-hague/4XTTM5zq9NJDXXeUMjZFjyKe6xVgWog1cuVZLhfm5xaLs9FnF-K3TgTm4RUMfcYDki4iMT8oWRqbAURhxja7FBjt6Y7rBGS2WMi5xoaQ3cKBuvrS5x7iCfb78FyE3KXn9VMBXJcD991NZaDEJyMTemcE7uGVNQ8wxqFTeww9L5LuppGP8cfV4x68mm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

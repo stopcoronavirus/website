@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27170 	- LE PLESSIS STE OPPORTUNE](https://docs.stopcoronavirus.tech/r/markdown/27170_le-plessis-ste-opportune/4XTTMHv9Q1iXGdPtp9FTzU4oc33AiuTtar82xTctDfqq3eE4S) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27170 	- LE PLESSIS STE OPPORTUNE](https://docs.stopcoronavirus.tech/w/markdown/27170_le-plessis-ste-opportune/4XTTMHv9Q1iXGdPtp9FTzU4oc33AiuTtar82xTctDfqq3eE4S-K3TgU9nnJCTTtX8sd718dq2rbtTzesNviZE8okR2PfwV5cfh3Un9JbFDw9LfHYS4N9GQTKWKHdBpu1PG3gVKkgDZipmukZgLm82k4SPL9Bhyp46GmoC85A74BsSxPAHLeBYMCiLS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27170 	- LE PLESSIS STE OPPORTUNE](https://docs.stopcoronavirus.tech/#/r/markdown/27170_le-plessis-ste-opportune/4XTTMHv9Q1iXGdPtp9FTzU4oc33AiuTtar82xTctDfqq3eE4S) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27170 	- LE PLESSIS STE OPPORTUNE](https://docs.stopcoronavirus.tech/#/w/markdown/27170_le-plessis-ste-opportune/4XTTMHv9Q1iXGdPtp9FTzU4oc33AiuTtar82xTctDfqq3eE4S-K3TgU9nnJCTTtX8sd718dq2rbtTzesNviZE8okR2PfwV5cfh3Un9JbFDw9LfHYS4N9GQTKWKHdBpu1PG3gVKkgDZipmukZgLm82k4SPL9Bhyp46GmoC85A74BsSxPAHLeBYMCiLS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

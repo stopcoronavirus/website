@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 46210 	- ST CIRGUES](https://docs.stopcoronavirus.tech/r/markdown/46210_st-cirgues/4XTTM2zEqLMfgLUwdD3ebLdUDC7HLKqkJRjhMukrf5gJx2UYc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46210 	- ST CIRGUES](https://docs.stopcoronavirus.tech/w/markdown/46210_st-cirgues/4XTTM2zEqLMfgLUwdD3ebLdUDC7HLKqkJRjhMukrf5gJx2UYc-K3TgU5Mct9VHjxYQLYZeiyXnoFT8hMFVtBbkrurzqJ8aeR9RczuLxF4SiRqSXgdXzZiNKZi4sXdp6w45RFtCDWwFsr47TY6znnD1cTZxYiMVihFtuMAZSPs59LmQHNMb9o9EQCip) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46210 	- ST CIRGUES](https://docs.stopcoronavirus.tech/#/r/markdown/46210_st-cirgues/4XTTM2zEqLMfgLUwdD3ebLdUDC7HLKqkJRjhMukrf5gJx2UYc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46210 	- ST CIRGUES](https://docs.stopcoronavirus.tech/#/w/markdown/46210_st-cirgues/4XTTM2zEqLMfgLUwdD3ebLdUDC7HLKqkJRjhMukrf5gJx2UYc-K3TgU5Mct9VHjxYQLYZeiyXnoFT8hMFVtBbkrurzqJ8aeR9RczuLxF4SiRqSXgdXzZiNKZi4sXdp6w45RFtCDWwFsr47TY6znnD1cTZxYiMVihFtuMAZSPs59LmQHNMb9o9EQCip) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

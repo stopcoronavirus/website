@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 37550 	- ST AVERTIN](https://docs.stopcoronavirus.tech/r/markdown/37550_st-avertin/4XTTM7yW1B6DQ4LKGT5oLE8ymTBSa6qzmm9HkPCGXQGVrCecY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37550 	- ST AVERTIN](https://docs.stopcoronavirus.tech/w/markdown/37550_st-avertin/4XTTM7yW1B6DQ4LKGT5oLE8ymTBSa6qzmm9HkPCGXQGVrCecY-K3TgTrKqvuxGPQtzmAmVx2oQjYFhmcwsYKdi46zmUAmd3MaJJsJdB93tKKZozdMsPUqA1QZxPYeVM8REieL2E8Jn8fmX1jBvSbASf5n2sUKjg8BhaXdZ4HzVMoU4tZrS47T3T58t) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 37550 	- ST AVERTIN](https://docs.stopcoronavirus.tech/#/r/markdown/37550_st-avertin/4XTTM7yW1B6DQ4LKGT5oLE8ymTBSa6qzmm9HkPCGXQGVrCecY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 37550 	- ST AVERTIN](https://docs.stopcoronavirus.tech/#/w/markdown/37550_st-avertin/4XTTM7yW1B6DQ4LKGT5oLE8ymTBSa6qzmm9HkPCGXQGVrCecY-K3TgTrKqvuxGPQtzmAmVx2oQjYFhmcwsYKdi46zmUAmd3MaJJsJdB93tKKZozdMsPUqA1QZxPYeVM8REieL2E8Jn8fmX1jBvSbASf5n2sUKjg8BhaXdZ4HzVMoU4tZrS47T3T58t) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

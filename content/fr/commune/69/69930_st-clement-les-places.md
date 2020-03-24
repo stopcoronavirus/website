@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69930 	- ST CLEMENT LES PLACES](https://docs.stopcoronavirus.tech/r/markdown/69930_st-clement-les-places/4XTTMEM9TnthSFtFB79FQ1pXmAHVPTbL4hqyJ89F13N4nsnsW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69930 	- ST CLEMENT LES PLACES](https://docs.stopcoronavirus.tech/w/markdown/69930_st-clement-les-places/4XTTMEM9TnthSFtFB79FQ1pXmAHVPTbL4hqyJ89F13N4nsnsW-K3TgUcQN6NHvbcBCG4oiQVjNe1sgbyCx5EkL51yCsXVnDHnPr8Dk5Twizg6SRWrFPA37ZVqZWQYkSUPDNFFAVwSUbmMXzQ941XA1rgySjiMXYJicgeAgAiYndNWzTMHKN68fm1rC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69930 	- ST CLEMENT LES PLACES](https://docs.stopcoronavirus.tech/#/r/markdown/69930_st-clement-les-places/4XTTMEM9TnthSFtFB79FQ1pXmAHVPTbL4hqyJ89F13N4nsnsW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69930 	- ST CLEMENT LES PLACES](https://docs.stopcoronavirus.tech/#/w/markdown/69930_st-clement-les-places/4XTTMEM9TnthSFtFB79FQ1pXmAHVPTbL4hqyJ89F13N4nsnsW-K3TgUcQN6NHvbcBCG4oiQVjNe1sgbyCx5EkL51yCsXVnDHnPr8Dk5Twizg6SRWrFPA37ZVqZWQYkSUPDNFFAVwSUbmMXzQ941XA1rgySjiMXYJicgeAgAiYndNWzTMHKN68fm1rC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

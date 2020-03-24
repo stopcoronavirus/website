@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08430 	- ST PIERRE SUR VENCE](https://docs.stopcoronavirus.tech/r/markdown/08430_st-pierre-sur-vence/4XTTM61H5et8ocVAhgeng1bJKsxpYZAGDUY4Y8Tx4rNrKxiXY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08430 	- ST PIERRE SUR VENCE](https://docs.stopcoronavirus.tech/w/markdown/08430_st-pierre-sur-vence/4XTTM61H5et8ocVAhgeng1bJKsxpYZAGDUY4Y8Tx4rNrKxiXY-K3TgUjdpw2oH1yv3hTU9TGmn2BWJ9dyeLCHZwbDM9W2zsjgRomxcvBSHjvJi2KFhAfXohEYp7FAvSn12eQuSWkwp22fLzKS3n2Ep5djhZji5dJsp8qFzEGVKHy8c1NFge7n4aBT4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08430 	- ST PIERRE SUR VENCE](https://docs.stopcoronavirus.tech/#/r/markdown/08430_st-pierre-sur-vence/4XTTM61H5et8ocVAhgeng1bJKsxpYZAGDUY4Y8Tx4rNrKxiXY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08430 	- ST PIERRE SUR VENCE](https://docs.stopcoronavirus.tech/#/w/markdown/08430_st-pierre-sur-vence/4XTTM61H5et8ocVAhgeng1bJKsxpYZAGDUY4Y8Tx4rNrKxiXY-K3TgUjdpw2oH1yv3hTU9TGmn2BWJ9dyeLCHZwbDM9W2zsjgRomxcvBSHjvJi2KFhAfXohEYp7FAvSn12eQuSWkwp22fLzKS3n2Ep5djhZji5dJsp8qFzEGVKHy8c1NFge7n4aBT4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 03150 	- RONGERES](https://docs.stopcoronavirus.tech/r/markdown/03150_rongeres/4XTTM4DAHQXNTq1njRp3Am1hUwtDT9jnKsiVYBkziYGedx5k5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03150 	- RONGERES](https://docs.stopcoronavirus.tech/w/markdown/03150_rongeres/4XTTM4DAHQXNTq1njRp3Am1hUwtDT9jnKsiVYBkziYGedx5k5-K3TgUNXqQ9YHNeLoEV71quQZMYGjjjMu8ezrna3hcn71LUtaCjetgfhNTdnscVsqdM2x6YyYb9ETKUFFpGrzYVU6Veg1NrAMjnK4S3Dd3nA3tcDjf2WyJgfvexSFmcnqXiLZ4oLm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03150 	- RONGERES](https://docs.stopcoronavirus.tech/#/r/markdown/03150_rongeres/4XTTM4DAHQXNTq1njRp3Am1hUwtDT9jnKsiVYBkziYGedx5k5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03150 	- RONGERES](https://docs.stopcoronavirus.tech/#/w/markdown/03150_rongeres/4XTTM4DAHQXNTq1njRp3Am1hUwtDT9jnKsiVYBkziYGedx5k5-K3TgUNXqQ9YHNeLoEV71quQZMYGjjjMu8ezrna3hcn71LUtaCjetgfhNTdnscVsqdM2x6YyYb9ETKUFFpGrzYVU6Veg1NrAMjnK4S3Dd3nA3tcDjf2WyJgfvexSFmcnqXiLZ4oLm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

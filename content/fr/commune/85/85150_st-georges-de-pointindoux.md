@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85150 	- ST GEORGES DE POINTINDOUX](https://docs.stopcoronavirus.tech/r/markdown/85150_st-georges-de-pointindoux/4XTTM2p7hSooraMc3Nk2JCaZ1Uc9WxnrBaYmhz3HGo3QHuANx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85150 	- ST GEORGES DE POINTINDOUX](https://docs.stopcoronavirus.tech/w/markdown/85150_st-georges-de-pointindoux/4XTTM2p7hSooraMc3Nk2JCaZ1Uc9WxnrBaYmhz3HGo3QHuANx-K3TgTtGoNkskEq9HyfuKafS1ccEuyE7YUo9TB25KygwJxruHhe2BTtZQf9Qan9amkgHVofnbqR1zoGkGAdNFq12RYfyjR8Jfim5RSZm6MrNtR5tK3q6RLfMpHPSxHd5D2zi8Z1Bi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85150 	- ST GEORGES DE POINTINDOUX](https://docs.stopcoronavirus.tech/#/r/markdown/85150_st-georges-de-pointindoux/4XTTM2p7hSooraMc3Nk2JCaZ1Uc9WxnrBaYmhz3HGo3QHuANx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85150 	- ST GEORGES DE POINTINDOUX](https://docs.stopcoronavirus.tech/#/w/markdown/85150_st-georges-de-pointindoux/4XTTM2p7hSooraMc3Nk2JCaZ1Uc9WxnrBaYmhz3HGo3QHuANx-K3TgTtGoNkskEq9HyfuKafS1ccEuyE7YUo9TB25KygwJxruHhe2BTtZQf9Qan9amkgHVofnbqR1zoGkGAdNFq12RYfyjR8Jfim5RSZm6MrNtR5tK3q6RLfMpHPSxHd5D2zi8Z1Bi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

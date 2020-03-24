@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02160 	- MOUSSY VERNEUIL](https://docs.stopcoronavirus.tech/r/markdown/02160_moussy-verneuil/4XTTM1hxqGMB7EPm5jU8jDL7P9pYXz5JMwW3GBGHPq8v64jT5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02160 	- MOUSSY VERNEUIL](https://docs.stopcoronavirus.tech/w/markdown/02160_moussy-verneuil/4XTTM1hxqGMB7EPm5jU8jDL7P9pYXz5JMwW3GBGHPq8v64jT5-K3TgUcVQzxfYXbv1rA4356SGzeRtaJAFnbosDxkdv3ENMAdU7JK1pvBmE9TWYY3CZSqpnFoMRyKm2AdVKktkVoX2vPLnn62GmZBXKDV72kizHn6mq8CGq4aVLxrsuv57tKgXuLVM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02160 	- MOUSSY VERNEUIL](https://docs.stopcoronavirus.tech/#/r/markdown/02160_moussy-verneuil/4XTTM1hxqGMB7EPm5jU8jDL7P9pYXz5JMwW3GBGHPq8v64jT5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02160 	- MOUSSY VERNEUIL](https://docs.stopcoronavirus.tech/#/w/markdown/02160_moussy-verneuil/4XTTM1hxqGMB7EPm5jU8jDL7P9pYXz5JMwW3GBGHPq8v64jT5-K3TgUcVQzxfYXbv1rA4356SGzeRtaJAFnbosDxkdv3ENMAdU7JK1pvBmE9TWYY3CZSqpnFoMRyKm2AdVKktkVoX2vPLnn62GmZBXKDV72kizHn6mq8CGq4aVLxrsuv57tKgXuLVM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48160 	- VENTALON EN CEVENNES](https://docs.stopcoronavirus.tech/r/markdown/48160_ventalon-en-cevennes/4XTTMDGEyEg2rpteR6Dhp28TdxNExpNjQqM9M16KvuiWXbsca) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48160 	- VENTALON EN CEVENNES](https://docs.stopcoronavirus.tech/w/markdown/48160_ventalon-en-cevennes/4XTTMDGEyEg2rpteR6Dhp28TdxNExpNjQqM9M16KvuiWXbsca-K3TgUWsLVQnpNHSJtjMDs2Azh9Vpa7v5gqgNEbiiwPbB1bMy6hkBjPK4SzyzerDcbtNUxTQJJQKmLgXjJnBCc2wQcxVTV76KFznStMuMkLbyRaXt2QCyzb5AM7QSiP3twaUZZy8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48160 	- VENTALON EN CEVENNES](https://docs.stopcoronavirus.tech/#/r/markdown/48160_ventalon-en-cevennes/4XTTMDGEyEg2rpteR6Dhp28TdxNExpNjQqM9M16KvuiWXbsca) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48160 	- VENTALON EN CEVENNES](https://docs.stopcoronavirus.tech/#/w/markdown/48160_ventalon-en-cevennes/4XTTMDGEyEg2rpteR6Dhp28TdxNExpNjQqM9M16KvuiWXbsca-K3TgUWsLVQnpNHSJtjMDs2Azh9Vpa7v5gqgNEbiiwPbB1bMy6hkBjPK4SzyzerDcbtNUxTQJJQKmLgXjJnBCc2wQcxVTV76KFznStMuMkLbyRaXt2QCyzb5AM7QSiP3twaUZZy8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

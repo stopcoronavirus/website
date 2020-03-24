@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 54490 	- XIVRY CIRCOURT](https://docs.stopcoronavirus.tech/r/markdown/54490_xivry-circourt/4XTTMBcp6miySRuwNs82gzy7TZB1XB9rG4JnT7VzAZ4QVKPp4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54490 	- XIVRY CIRCOURT](https://docs.stopcoronavirus.tech/w/markdown/54490_xivry-circourt/4XTTMBcp6miySRuwNs82gzy7TZB1XB9rG4JnT7VzAZ4QVKPp4-K3TgTfBCh21s9feWvo8MXb6HdV7RF9Q2qGnnSPzTRZmTBq8K9WtiqJTX3ago8Wg9PVt5LVRmC3cM4UVD2PnvntEbrC5dzxbZNUALnLHH9HuA1smU34Yx3eGEsxmMFr7nfb3F6MrY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54490 	- XIVRY CIRCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/54490_xivry-circourt/4XTTMBcp6miySRuwNs82gzy7TZB1XB9rG4JnT7VzAZ4QVKPp4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54490 	- XIVRY CIRCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/54490_xivry-circourt/4XTTMBcp6miySRuwNs82gzy7TZB1XB9rG4JnT7VzAZ4QVKPp4-K3TgTfBCh21s9feWvo8MXb6HdV7RF9Q2qGnnSPzTRZmTBq8K9WtiqJTX3ago8Wg9PVt5LVRmC3cM4UVD2PnvntEbrC5dzxbZNUALnLHH9HuA1smU34Yx3eGEsxmMFr7nfb3F6MrY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 54 	- Meurthe-et-Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

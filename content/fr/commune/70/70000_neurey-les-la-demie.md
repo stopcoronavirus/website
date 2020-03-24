@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70000 	- NEUREY LES LA DEMIE](https://docs.stopcoronavirus.tech/r/markdown/70000_neurey-les-la-demie/4XTTM3phJUTqeAVW9WitYa6ctrbUJVaepqk3iL1KkSa16aMts) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70000 	- NEUREY LES LA DEMIE](https://docs.stopcoronavirus.tech/w/markdown/70000_neurey-les-la-demie/4XTTM3phJUTqeAVW9WitYa6ctrbUJVaepqk3iL1KkSa16aMts-K3TgUWfHkt1eLGsqKXQtfNfqzRST3VpoYjRizSfj8tBES9TFPCYKQJreUXSGtRGtosP9nAvCBGsbrz7Ud5FZA9t9ahNvjbyPXcfcz4Q821Ni7PBTVwcokCjiifayT5iZVQ4Z1E6s) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70000 	- NEUREY LES LA DEMIE](https://docs.stopcoronavirus.tech/#/r/markdown/70000_neurey-les-la-demie/4XTTM3phJUTqeAVW9WitYa6ctrbUJVaepqk3iL1KkSa16aMts) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70000 	- NEUREY LES LA DEMIE](https://docs.stopcoronavirus.tech/#/w/markdown/70000_neurey-les-la-demie/4XTTM3phJUTqeAVW9WitYa6ctrbUJVaepqk3iL1KkSa16aMts-K3TgUWfHkt1eLGsqKXQtfNfqzRST3VpoYjRizSfj8tBES9TFPCYKQJreUXSGtRGtosP9nAvCBGsbrz7Ud5FZA9t9ahNvjbyPXcfcz4Q821Ni7PBTVwcokCjiifayT5iZVQ4Z1E6s) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

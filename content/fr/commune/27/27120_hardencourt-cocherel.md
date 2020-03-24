@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27120 	- HARDENCOURT COCHEREL](https://docs.stopcoronavirus.tech/r/markdown/27120_hardencourt-cocherel/4XTTM69FhcGt78Y4GS1eCkVDFR4FKTYuQ74abgzKRFZyGgYPE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27120 	- HARDENCOURT COCHEREL](https://docs.stopcoronavirus.tech/w/markdown/27120_hardencourt-cocherel/4XTTM69FhcGt78Y4GS1eCkVDFR4FKTYuQ74abgzKRFZyGgYPE-K3TgUS2ifT7mK4k2f1WFiZp11UHy2zxzLqnynekAbfoS33FujS5AE1jALX5M3x4Tarn2WRguk1zTw6NpDMa4D5c3sbF5jgziccg5nHzsz4M1YTsE81eAsc3enAUefUUtwVFcHfja) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27120 	- HARDENCOURT COCHEREL](https://docs.stopcoronavirus.tech/#/r/markdown/27120_hardencourt-cocherel/4XTTM69FhcGt78Y4GS1eCkVDFR4FKTYuQ74abgzKRFZyGgYPE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27120 	- HARDENCOURT COCHEREL](https://docs.stopcoronavirus.tech/#/w/markdown/27120_hardencourt-cocherel/4XTTM69FhcGt78Y4GS1eCkVDFR4FKTYuQ74abgzKRFZyGgYPE-K3TgUS2ifT7mK4k2f1WFiZp11UHy2zxzLqnynekAbfoS33FujS5AE1jALX5M3x4Tarn2WRguk1zTw6NpDMa4D5c3sbF5jgziccg5nHzsz4M1YTsE81eAsc3enAUefUUtwVFcHfja) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 64400 	- OLORON STE MARIE](https://docs.stopcoronavirus.tech/r/markdown/64400_oloron-ste-marie/4XTTM8PtdSC5e8vkBnWKw2QpesdUCKx88GyNj7ABWQFoXA6ow) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64400 	- OLORON STE MARIE](https://docs.stopcoronavirus.tech/w/markdown/64400_oloron-ste-marie/4XTTM8PtdSC5e8vkBnWKw2QpesdUCKx88GyNj7ABWQFoXA6ow-K3TgUt4qjPnsiBXwHdoHNs8uVd1DANHyYpUa6DdUaWgw7CDb4DTKrvScv5p8UrG5acEZwNyAKgVGZBc5bJaxSarvqLb23tR2cRUpV5RncFH6KUXPY5s8ekqr56zMi3pwY1snSR3K) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64400 	- OLORON STE MARIE](https://docs.stopcoronavirus.tech/#/r/markdown/64400_oloron-ste-marie/4XTTM8PtdSC5e8vkBnWKw2QpesdUCKx88GyNj7ABWQFoXA6ow) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64400 	- OLORON STE MARIE](https://docs.stopcoronavirus.tech/#/w/markdown/64400_oloron-ste-marie/4XTTM8PtdSC5e8vkBnWKw2QpesdUCKx88GyNj7ABWQFoXA6ow-K3TgUt4qjPnsiBXwHdoHNs8uVd1DANHyYpUa6DdUaWgw7CDb4DTKrvScv5p8UrG5acEZwNyAKgVGZBc5bJaxSarvqLb23tR2cRUpV5RncFH6KUXPY5s8ekqr56zMi3pwY1snSR3K) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

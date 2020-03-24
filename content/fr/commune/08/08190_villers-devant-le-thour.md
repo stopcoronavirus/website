@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08190 	- VILLERS DEVANT LE THOUR](https://docs.stopcoronavirus.tech/r/markdown/08190_villers-devant-le-thour/4XTTM3V6wYPCKJF5WWaqbszJHJwqwnaqfygjzaf9vsaWczA64) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08190 	- VILLERS DEVANT LE THOUR](https://docs.stopcoronavirus.tech/w/markdown/08190_villers-devant-le-thour/4XTTM3V6wYPCKJF5WWaqbszJHJwqwnaqfygjzaf9vsaWczA64-K3TgU95cNLqZMEFDQ8kKujMcZr813S8FhHJMdh5kmjmdfv9Wtxq6ePqC2eueg5XWjjwQhWWSJQGsmyZsVaFib4MNndZfGCsBJCP2mtVZjBy6etXpfmRZtsenwcziReWoD3nhCEUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08190 	- VILLERS DEVANT LE THOUR](https://docs.stopcoronavirus.tech/#/r/markdown/08190_villers-devant-le-thour/4XTTM3V6wYPCKJF5WWaqbszJHJwqwnaqfygjzaf9vsaWczA64) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08190 	- VILLERS DEVANT LE THOUR](https://docs.stopcoronavirus.tech/#/w/markdown/08190_villers-devant-le-thour/4XTTM3V6wYPCKJF5WWaqbszJHJwqwnaqfygjzaf9vsaWczA64-K3TgU95cNLqZMEFDQ8kKujMcZr813S8FhHJMdh5kmjmdfv9Wtxq6ePqC2eueg5XWjjwQhWWSJQGsmyZsVaFib4MNndZfGCsBJCP2mtVZjBy6etXpfmRZtsenwcziReWoD3nhCEUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 64430 	- ST ETIENNE DE BAIGORRY](https://docs.stopcoronavirus.tech/r/markdown/64430_st-etienne-de-baigorry/4XTTM2MqrCG52uEZRTi7UUymwBut5AmsMXL1cEDYuWUQcjusg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64430 	- ST ETIENNE DE BAIGORRY](https://docs.stopcoronavirus.tech/w/markdown/64430_st-etienne-de-baigorry/4XTTM2MqrCG52uEZRTi7UUymwBut5AmsMXL1cEDYuWUQcjusg-K3TgUPB33nQ2UvaqTsPLp2LCqkd26kFE3WXaaHn61JRhfHpmJWmBVZMTFR5ZcHrJP8WF6swDD4yA9DjztmCfdg84PGdZLRU6G2U1j3N2pPaqNaSmWWS88YWvmETXHmoMii8kbfCv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64430 	- ST ETIENNE DE BAIGORRY](https://docs.stopcoronavirus.tech/#/r/markdown/64430_st-etienne-de-baigorry/4XTTM2MqrCG52uEZRTi7UUymwBut5AmsMXL1cEDYuWUQcjusg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64430 	- ST ETIENNE DE BAIGORRY](https://docs.stopcoronavirus.tech/#/w/markdown/64430_st-etienne-de-baigorry/4XTTM2MqrCG52uEZRTi7UUymwBut5AmsMXL1cEDYuWUQcjusg-K3TgUPB33nQ2UvaqTsPLp2LCqkd26kFE3WXaaHn61JRhfHpmJWmBVZMTFR5ZcHrJP8WF6swDD4yA9DjztmCfdg84PGdZLRU6G2U1j3N2pPaqNaSmWWS88YWvmETXHmoMii8kbfCv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

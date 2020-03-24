@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09300 	- CARLA DE ROQUEFORT](https://docs.stopcoronavirus.tech/r/markdown/09300_carla-de-roquefort/4XTTM3pzCEGmDRtx2Hg3ZifdiGYLx1y1x8VbjDow5dYtmiZht) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09300 	- CARLA DE ROQUEFORT](https://docs.stopcoronavirus.tech/w/markdown/09300_carla-de-roquefort/4XTTM3pzCEGmDRtx2Hg3ZifdiGYLx1y1x8VbjDow5dYtmiZht-K3TgTw2ERLJGUwn1QuTCku7vTzzfiFMVHrJMzC2yhYr9odJwgE9JUtHgHUBtJACZGZWR39TetVR4e6cNGLt2roiY77LGWqs6GoLTEe3m4VpTjbdrQphfiR2cSVxRAuVXvEQVdmNS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09300 	- CARLA DE ROQUEFORT](https://docs.stopcoronavirus.tech/#/r/markdown/09300_carla-de-roquefort/4XTTM3pzCEGmDRtx2Hg3ZifdiGYLx1y1x8VbjDow5dYtmiZht) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09300 	- CARLA DE ROQUEFORT](https://docs.stopcoronavirus.tech/#/w/markdown/09300_carla-de-roquefort/4XTTM3pzCEGmDRtx2Hg3ZifdiGYLx1y1x8VbjDow5dYtmiZht-K3TgTw2ERLJGUwn1QuTCku7vTzzfiFMVHrJMzC2yhYr9odJwgE9JUtHgHUBtJACZGZWR39TetVR4e6cNGLt2roiY77LGWqs6GoLTEe3m4VpTjbdrQphfiR2cSVxRAuVXvEQVdmNS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88630 	- SERAUMONT](https://docs.stopcoronavirus.tech/r/markdown/88630_seraumont/4XTTM3k9wRmfx5sYyJaYx5v9LC1LprLgM2K26HA4TvoY7d1gf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88630 	- SERAUMONT](https://docs.stopcoronavirus.tech/w/markdown/88630_seraumont/4XTTM3k9wRmfx5sYyJaYx5v9LC1LprLgM2K26HA4TvoY7d1gf-K3TgUsHCCPp4a5oNdBm5RF7howK7aLfM4dRQNKnDzXLpE2aXn6AXo6NMmeAwjHGYq6BRcDvDjiqJfyyLV4fbfUWKhm4NSZycnhc5b5yxZ82uCVAzBsALtdMbSWcMJTWJShXLJxaF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88630 	- SERAUMONT](https://docs.stopcoronavirus.tech/#/r/markdown/88630_seraumont/4XTTM3k9wRmfx5sYyJaYx5v9LC1LprLgM2K26HA4TvoY7d1gf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88630 	- SERAUMONT](https://docs.stopcoronavirus.tech/#/w/markdown/88630_seraumont/4XTTM3k9wRmfx5sYyJaYx5v9LC1LprLgM2K26HA4TvoY7d1gf-K3TgUsHCCPp4a5oNdBm5RF7howK7aLfM4dRQNKnDzXLpE2aXn6AXo6NMmeAwjHGYq6BRcDvDjiqJfyyLV4fbfUWKhm4NSZycnhc5b5yxZ82uCVAzBsALtdMbSWcMJTWJShXLJxaF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

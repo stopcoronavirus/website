@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 49170 	- ST AUGUSTIN DES BOIS](https://docs.stopcoronavirus.tech/r/markdown/49170_st-augustin-des-bois/4XTTMGtccB13Nz11ya63RtFXmx4bFEDbvmf36PP6vKXeV1g2R) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49170 	- ST AUGUSTIN DES BOIS](https://docs.stopcoronavirus.tech/w/markdown/49170_st-augustin-des-bois/4XTTMGtccB13Nz11ya63RtFXmx4bFEDbvmf36PP6vKXeV1g2R-K3TgUaZAMzweG35ymMzYYmFLQ9X6Tstb4q6T5HKsyWQAdFnACmsWVsa461oc8aWZ1HZZRxjmeDm24Thm7bZeUzMnWvQMjGnAbDQJ5BpYNSc6m2TNmRkrc2EX5TfYmXNnViaLKb7j) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49170 	- ST AUGUSTIN DES BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/49170_st-augustin-des-bois/4XTTMGtccB13Nz11ya63RtFXmx4bFEDbvmf36PP6vKXeV1g2R) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49170 	- ST AUGUSTIN DES BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/49170_st-augustin-des-bois/4XTTMGtccB13Nz11ya63RtFXmx4bFEDbvmf36PP6vKXeV1g2R-K3TgUaZAMzweG35ymMzYYmFLQ9X6Tstb4q6T5HKsyWQAdFnACmsWVsa461oc8aWZ1HZZRxjmeDm24Thm7bZeUzMnWvQMjGnAbDQJ5BpYNSc6m2TNmRkrc2EX5TfYmXNnViaLKb7j) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

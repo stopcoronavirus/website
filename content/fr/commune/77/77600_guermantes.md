@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77600 	- GUERMANTES](https://docs.stopcoronavirus.tech/r/markdown/77600_guermantes/4XTTM9A2bg1gbpbZP5T6ixJTyXp4XMdhe97E255Kkr7NGrKUf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77600 	- GUERMANTES](https://docs.stopcoronavirus.tech/w/markdown/77600_guermantes/4XTTM9A2bg1gbpbZP5T6ixJTyXp4XMdhe97E255Kkr7NGrKUf-K3TgTsaYhEBi8vZWZM11MxiJkwDac59qtdy21WEbJmz7exAUSJ3n7xvpncroo4Uok6DegMTbAkR25BATnaVASpDRjp558vNuLJFUig7wwyrqEYssKNTkwoJXuGq5srWE5Cw2aDmd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77600 	- GUERMANTES](https://docs.stopcoronavirus.tech/#/r/markdown/77600_guermantes/4XTTM9A2bg1gbpbZP5T6ixJTyXp4XMdhe97E255Kkr7NGrKUf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77600 	- GUERMANTES](https://docs.stopcoronavirus.tech/#/w/markdown/77600_guermantes/4XTTM9A2bg1gbpbZP5T6ixJTyXp4XMdhe97E255Kkr7NGrKUf-K3TgTsaYhEBi8vZWZM11MxiJkwDac59qtdy21WEbJmz7exAUSJ3n7xvpncroo4Uok6DegMTbAkR25BATnaVASpDRjp558vNuLJFUig7wwyrqEYssKNTkwoJXuGq5srWE5Cw2aDmd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

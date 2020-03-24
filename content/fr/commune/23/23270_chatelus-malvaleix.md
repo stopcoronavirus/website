@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23270 	- CHATELUS MALVALEIX](https://docs.stopcoronavirus.tech/r/markdown/23270_chatelus-malvaleix/4XTTMFpQQswiTxewsQew7v1qzYp1Uc6rWfXBbUg6mG8v7U5kx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23270 	- CHATELUS MALVALEIX](https://docs.stopcoronavirus.tech/w/markdown/23270_chatelus-malvaleix/4XTTMFpQQswiTxewsQew7v1qzYp1Uc6rWfXBbUg6mG8v7U5kx-K3TgTgxT2xCZ7W4ZU5cTygMC7Ts2sKUFq8PRgrNLqZbX9bZNKx4kDmEYnXqH3JSnRjfPXuwggD1t362xwqFCZWksRB8TCRtNPH1VTbCB9Wg7FKvJeA7hDJYCkZK8fQo4UZT5Has6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23270 	- CHATELUS MALVALEIX](https://docs.stopcoronavirus.tech/#/r/markdown/23270_chatelus-malvaleix/4XTTMFpQQswiTxewsQew7v1qzYp1Uc6rWfXBbUg6mG8v7U5kx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23270 	- CHATELUS MALVALEIX](https://docs.stopcoronavirus.tech/#/w/markdown/23270_chatelus-malvaleix/4XTTMFpQQswiTxewsQew7v1qzYp1Uc6rWfXBbUg6mG8v7U5kx-K3TgTgxT2xCZ7W4ZU5cTygMC7Ts2sKUFq8PRgrNLqZbX9bZNKx4kDmEYnXqH3JSnRjfPXuwggD1t362xwqFCZWksRB8TCRtNPH1VTbCB9Wg7FKvJeA7hDJYCkZK8fQo4UZT5Has6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

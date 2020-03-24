@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 79420 	- BEAULIEU SOUS PARTHENAY](https://docs.stopcoronavirus.tech/r/markdown/79420_beaulieu-sous-parthenay/4XTTMEHsFtRonjm3Uv9bXSXqddbNyzkGCJ7TvK2ja447GSfbr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79420 	- BEAULIEU SOUS PARTHENAY](https://docs.stopcoronavirus.tech/w/markdown/79420_beaulieu-sous-parthenay/4XTTMEHsFtRonjm3Uv9bXSXqddbNyzkGCJ7TvK2ja447GSfbr-K3TgTkZc5g6dWgcMt87wxPoVh1FCwsjuxTPdctktSpCJspRMUHeWLRYEzy24bSXaG42zAhDf8E7Q2AEy3DEkkEAa988RUCxNgsvTQbi8WMWFodo6mkjZotbQyjZzKS63pLkVfSHa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79420 	- BEAULIEU SOUS PARTHENAY](https://docs.stopcoronavirus.tech/#/r/markdown/79420_beaulieu-sous-parthenay/4XTTMEHsFtRonjm3Uv9bXSXqddbNyzkGCJ7TvK2ja447GSfbr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79420 	- BEAULIEU SOUS PARTHENAY](https://docs.stopcoronavirus.tech/#/w/markdown/79420_beaulieu-sous-parthenay/4XTTMEHsFtRonjm3Uv9bXSXqddbNyzkGCJ7TvK2ja447GSfbr-K3TgTkZc5g6dWgcMt87wxPoVh1FCwsjuxTPdctktSpCJspRMUHeWLRYEzy24bSXaG42zAhDf8E7Q2AEy3DEkkEAa988RUCxNgsvTQbi8WMWFodo6mkjZotbQyjZzKS63pLkVfSHa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

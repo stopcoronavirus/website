@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51300 	- PONTHION](https://docs.stopcoronavirus.tech/r/markdown/51300_ponthion/4XTTM4oHyR2e2mWvbAm5emQu8AL8uQTsjukXSi7q9FiteTZ5m) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51300 	- PONTHION](https://docs.stopcoronavirus.tech/w/markdown/51300_ponthion/4XTTM4oHyR2e2mWvbAm5emQu8AL8uQTsjukXSi7q9FiteTZ5m-K3TgUVizKGt8oNARy7L7XCAkcU1A3GsjRBhAhLDA9GCFbsM2eJbEpVGTsHaXUxiE8gsu3hWRjTEQcjP3SNmsyD2wkEG9Sj1Qc4RV5SCC8FypM3pGpP7nNH8qxGS2XkctYhkVD53H) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51300 	- PONTHION](https://docs.stopcoronavirus.tech/#/r/markdown/51300_ponthion/4XTTM4oHyR2e2mWvbAm5emQu8AL8uQTsjukXSi7q9FiteTZ5m) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51300 	- PONTHION](https://docs.stopcoronavirus.tech/#/w/markdown/51300_ponthion/4XTTM4oHyR2e2mWvbAm5emQu8AL8uQTsjukXSi7q9FiteTZ5m-K3TgUVizKGt8oNARy7L7XCAkcU1A3GsjRBhAhLDA9GCFbsM2eJbEpVGTsHaXUxiE8gsu3hWRjTEQcjP3SNmsyD2wkEG9Sj1Qc4RV5SCC8FypM3pGpP7nNH8qxGS2XkctYhkVD53H) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

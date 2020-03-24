@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21310 	- BEIRE LE CHATEL](https://docs.stopcoronavirus.tech/r/markdown/21310_beire-le-chatel/4XTTM2itNx8fS5pG4Nw9HdksxhKUaMS2DNtpVkmtdg2e5Cc7q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21310 	- BEIRE LE CHATEL](https://docs.stopcoronavirus.tech/w/markdown/21310_beire-le-chatel/4XTTM2itNx8fS5pG4Nw9HdksxhKUaMS2DNtpVkmtdg2e5Cc7q-K3TgTvWkqsi3bfs7BreYQiWB3UWtgwQWcTWNeGyR9fZiGQEgCTcSDZNjq3N1ErKJBX1UC7q9FEmZYM9A7S6YXVBNYJmjfGV6UkL3AnCK2rYXLE7xSdGMc6KSX5QdmkaAnrLRYiaT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21310 	- BEIRE LE CHATEL](https://docs.stopcoronavirus.tech/#/r/markdown/21310_beire-le-chatel/4XTTM2itNx8fS5pG4Nw9HdksxhKUaMS2DNtpVkmtdg2e5Cc7q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21310 	- BEIRE LE CHATEL](https://docs.stopcoronavirus.tech/#/w/markdown/21310_beire-le-chatel/4XTTM2itNx8fS5pG4Nw9HdksxhKUaMS2DNtpVkmtdg2e5Cc7q-K3TgTvWkqsi3bfs7BreYQiWB3UWtgwQWcTWNeGyR9fZiGQEgCTcSDZNjq3N1ErKJBX1UC7q9FEmZYM9A7S6YXVBNYJmjfGV6UkL3AnCK2rYXLE7xSdGMc6KSX5QdmkaAnrLRYiaT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

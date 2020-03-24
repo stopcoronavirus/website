@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86410 	- LHOMMAIZE](https://docs.stopcoronavirus.tech/r/markdown/86410_lhommaize/4XTTM3uVZB3SW7N33Qw8hMzfa2YEe3noaaykB6zDupFaP9qL2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86410 	- LHOMMAIZE](https://docs.stopcoronavirus.tech/w/markdown/86410_lhommaize/4XTTM3uVZB3SW7N33Qw8hMzfa2YEe3noaaykB6zDupFaP9qL2-K3TgTtEvMrGSPGHNs96SFESaymAJCT9hAU4ay7nQT26NVcBSWZ5vDHWZNDZRUvm77cXgoYctxqTJi1Sh56EWapoXpxXLwbVoGt5unN5m1LqC7zSG4nBB6jMmKBVzeStS2kGd9UiS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86410 	- LHOMMAIZE](https://docs.stopcoronavirus.tech/#/r/markdown/86410_lhommaize/4XTTM3uVZB3SW7N33Qw8hMzfa2YEe3noaaykB6zDupFaP9qL2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86410 	- LHOMMAIZE](https://docs.stopcoronavirus.tech/#/w/markdown/86410_lhommaize/4XTTM3uVZB3SW7N33Qw8hMzfa2YEe3noaaykB6zDupFaP9qL2-K3TgTtEvMrGSPGHNs96SFESaymAJCT9hAU4ay7nQT26NVcBSWZ5vDHWZNDZRUvm77cXgoYctxqTJi1Sh56EWapoXpxXLwbVoGt5unN5m1LqC7zSG4nBB6jMmKBVzeStS2kGd9UiS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

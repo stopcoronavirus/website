@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81430 	- VILLEFRANCHE D ALBIGEOIS](https://docs.stopcoronavirus.tech/r/markdown/81430_villefranche-d-albigeois/4XTTMBz1Bcp899XFccxLc9qeXK1ifMzMyaffJ69wHkHnpv6V4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81430 	- VILLEFRANCHE D ALBIGEOIS](https://docs.stopcoronavirus.tech/w/markdown/81430_villefranche-d-albigeois/4XTTMBz1Bcp899XFccxLc9qeXK1ifMzMyaffJ69wHkHnpv6V4-K3TgTmphQAVoQA8Ncan1RKL5WmDRTsCmAHMXnFap1DKwmY5kieQUbfVw4b5YY97iAPgFM96kQVkATMn7rQ3EF56ay2TZtsCHU2ifaxpees3PmX31mUTLsjCDka1Ls8SUxJzki9dg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81430 	- VILLEFRANCHE D ALBIGEOIS](https://docs.stopcoronavirus.tech/#/r/markdown/81430_villefranche-d-albigeois/4XTTMBz1Bcp899XFccxLc9qeXK1ifMzMyaffJ69wHkHnpv6V4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81430 	- VILLEFRANCHE D ALBIGEOIS](https://docs.stopcoronavirus.tech/#/w/markdown/81430_villefranche-d-albigeois/4XTTMBz1Bcp899XFccxLc9qeXK1ifMzMyaffJ69wHkHnpv6V4-K3TgTmphQAVoQA8Ncan1RKL5WmDRTsCmAHMXnFap1DKwmY5kieQUbfVw4b5YY97iAPgFM96kQVkATMn7rQ3EF56ay2TZtsCHU2ifaxpees3PmX31mUTLsjCDka1Ls8SUxJzki9dg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

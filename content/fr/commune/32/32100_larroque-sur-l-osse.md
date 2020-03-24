@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32100 	- LARROQUE SUR L OSSE](https://docs.stopcoronavirus.tech/r/markdown/32100_larroque-sur-l-osse/4XTTMCoP4AC1rCqGuZav5KW1QSFafX8mQXkpCqEuo1CsFsicH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32100 	- LARROQUE SUR L OSSE](https://docs.stopcoronavirus.tech/w/markdown/32100_larroque-sur-l-osse/4XTTMCoP4AC1rCqGuZav5KW1QSFafX8mQXkpCqEuo1CsFsicH-K3TgUb1UEbGoXEWRkosAb25vie4RrSazZ7NMp6dNp9aJoTBvZVzHjPfrnKNTqh1UnLUNZWHeprxrD6JqJW1UAMu747BE97bpwaWNDZQfzggCsGKB8DmYPxbPMk4c64yLWCVqEc4H) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32100 	- LARROQUE SUR L OSSE](https://docs.stopcoronavirus.tech/#/r/markdown/32100_larroque-sur-l-osse/4XTTMCoP4AC1rCqGuZav5KW1QSFafX8mQXkpCqEuo1CsFsicH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32100 	- LARROQUE SUR L OSSE](https://docs.stopcoronavirus.tech/#/w/markdown/32100_larroque-sur-l-osse/4XTTMCoP4AC1rCqGuZav5KW1QSFafX8mQXkpCqEuo1CsFsicH-K3TgUb1UEbGoXEWRkosAb25vie4RrSazZ7NMp6dNp9aJoTBvZVzHjPfrnKNTqh1UnLUNZWHeprxrD6JqJW1UAMu747BE97bpwaWNDZQfzggCsGKB8DmYPxbPMk4c64yLWCVqEc4H) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

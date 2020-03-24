@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51370 	- ST BRICE COURCELLES](https://docs.stopcoronavirus.tech/r/markdown/51370_st-brice-courcelles/4XTTMH29srry6y7tcHJ58YiujAxT3dEiZnT8ktc7HjxR9MuNz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51370 	- ST BRICE COURCELLES](https://docs.stopcoronavirus.tech/w/markdown/51370_st-brice-courcelles/4XTTMH29srry6y7tcHJ58YiujAxT3dEiZnT8ktc7HjxR9MuNz-K3TgU6ct64vQi1yhqXLSWuvuAo3LeXWiVo3y3fWVnZ8j6jsfrbRoQRMTNVPABR6JRg1vXM6sXwBBrLtqEHoPTDKS7Pw8VMy1uH8KagoTJKATQW3FHsmqH1qJGr4YwCda2gFFgmLv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51370 	- ST BRICE COURCELLES](https://docs.stopcoronavirus.tech/#/r/markdown/51370_st-brice-courcelles/4XTTMH29srry6y7tcHJ58YiujAxT3dEiZnT8ktc7HjxR9MuNz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51370 	- ST BRICE COURCELLES](https://docs.stopcoronavirus.tech/#/w/markdown/51370_st-brice-courcelles/4XTTMH29srry6y7tcHJ58YiujAxT3dEiZnT8ktc7HjxR9MuNz-K3TgU6ct64vQi1yhqXLSWuvuAo3LeXWiVo3y3fWVnZ8j6jsfrbRoQRMTNVPABR6JRg1vXM6sXwBBrLtqEHoPTDKS7Pw8VMy1uH8KagoTJKATQW3FHsmqH1qJGr4YwCda2gFFgmLv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

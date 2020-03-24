@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 06520 	- GRASSE](https://docs.stopcoronavirus.tech/r/markdown/06520_grasse/4XTTMBrZsKqsjKDcCz4rQGG8LhUkYvLLT9xAHfyEuxLmXkRY7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06520 	- GRASSE](https://docs.stopcoronavirus.tech/w/markdown/06520_grasse/4XTTMBrZsKqsjKDcCz4rQGG8LhUkYvLLT9xAHfyEuxLmXkRY7-K3TgUS4wJQk4xwbsCM1wnm6Fgapg3URkRuBtPyeSHVz39xW2SRj4CgY1JKySFd1sQfmneB6GSkpXNd7BxJSM44oatv86qkq7qSq2TdgMt54LfY4bg5FEY5yCKxjWz4vrzCGQspwD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06520 	- GRASSE](https://docs.stopcoronavirus.tech/#/r/markdown/06520_grasse/4XTTMBrZsKqsjKDcCz4rQGG8LhUkYvLLT9xAHfyEuxLmXkRY7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06520 	- GRASSE](https://docs.stopcoronavirus.tech/#/w/markdown/06520_grasse/4XTTMBrZsKqsjKDcCz4rQGG8LhUkYvLLT9xAHfyEuxLmXkRY7-K3TgUS4wJQk4xwbsCM1wnm6Fgapg3URkRuBtPyeSHVz39xW2SRj4CgY1JKySFd1sQfmneB6GSkpXNd7BxJSM44oatv86qkq7qSq2TdgMt54LfY4bg5FEY5yCKxjWz4vrzCGQspwD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

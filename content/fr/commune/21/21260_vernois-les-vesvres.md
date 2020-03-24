@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21260 	- VERNOIS LES VESVRES](https://docs.stopcoronavirus.tech/r/markdown/21260_vernois-les-vesvres/4XTTM6TxGjLG3o93DQQ72MCjH5pTjGaPfAaEAd4fRnHZWcng7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21260 	- VERNOIS LES VESVRES](https://docs.stopcoronavirus.tech/w/markdown/21260_vernois-les-vesvres/4XTTM6TxGjLG3o93DQQ72MCjH5pTjGaPfAaEAd4fRnHZWcng7-K3TgTsVkvf55peCQP9haFRv8q5yJBrkgpZZCnmSgFotrfkDvB1yaQRnitZ1k9TSL8DB64a6AfTSQQfFMPLKKYKGWwrJLQvtwBbTvPWAJKmnavD1auSAWyewaZLVUD9A9Yrc4v1XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21260 	- VERNOIS LES VESVRES](https://docs.stopcoronavirus.tech/#/r/markdown/21260_vernois-les-vesvres/4XTTM6TxGjLG3o93DQQ72MCjH5pTjGaPfAaEAd4fRnHZWcng7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21260 	- VERNOIS LES VESVRES](https://docs.stopcoronavirus.tech/#/w/markdown/21260_vernois-les-vesvres/4XTTM6TxGjLG3o93DQQ72MCjH5pTjGaPfAaEAd4fRnHZWcng7-K3TgTsVkvf55peCQP9haFRv8q5yJBrkgpZZCnmSgFotrfkDvB1yaQRnitZ1k9TSL8DB64a6AfTSQQfFMPLKKYKGWwrJLQvtwBbTvPWAJKmnavD1auSAWyewaZLVUD9A9Yrc4v1XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

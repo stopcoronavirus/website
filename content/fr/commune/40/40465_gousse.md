@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 40465 	- GOUSSE](https://docs.stopcoronavirus.tech/r/markdown/40465_gousse/4XTTM9VcEB8KLTi1WvE97Z4M3YsAD5sLnb4DAaj436aEVUAAE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40465 	- GOUSSE](https://docs.stopcoronavirus.tech/w/markdown/40465_gousse/4XTTM9VcEB8KLTi1WvE97Z4M3YsAD5sLnb4DAaj436aEVUAAE-K3TgTmKnx5xgwhonyjeCyi16uwqyPaVPD1sqbXf4g5T4VXapWSBH7uoug6srwgv16RRfAmiH5DkdvgJcshbdHZiCCcNDTNpTic94NVQokvvJS3eHb5RfW6KsGSZQ4jaS4uAuRh7Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 40465 	- GOUSSE](https://docs.stopcoronavirus.tech/#/r/markdown/40465_gousse/4XTTM9VcEB8KLTi1WvE97Z4M3YsAD5sLnb4DAaj436aEVUAAE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 40465 	- GOUSSE](https://docs.stopcoronavirus.tech/#/w/markdown/40465_gousse/4XTTM9VcEB8KLTi1WvE97Z4M3YsAD5sLnb4DAaj436aEVUAAE-K3TgTmKnx5xgwhonyjeCyi16uwqyPaVPD1sqbXf4g5T4VXapWSBH7uoug6srwgv16RRfAmiH5DkdvgJcshbdHZiCCcNDTNpTic94NVQokvvJS3eHb5RfW6KsGSZQ4jaS4uAuRh7Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 40 	- Landes](https://docs.stopcoronavirus.tech/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40 	- Landes](https://docs.stopcoronavirus.tech/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 40 	- Landes](https://docs.stopcoronavirus.tech/#/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 40 	- Landes](https://docs.stopcoronavirus.tech/#/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

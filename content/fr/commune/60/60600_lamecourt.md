@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60600 	- LAMECOURT](https://docs.stopcoronavirus.tech/r/markdown/60600_lamecourt/4XTTM77Xi8aTxWQNZXePvnCEk7gvD3GHoQQspjCihoPZoWP67) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60600 	- LAMECOURT](https://docs.stopcoronavirus.tech/w/markdown/60600_lamecourt/4XTTM77Xi8aTxWQNZXePvnCEk7gvD3GHoQQspjCihoPZoWP67-K3TgU9QCFfnLtfX4GD9TxN4HGXtfFU9vqaekL3jvKiN4oFdRMPWE4MFJriRwb3mZ17S1SU1S5HqwScea4xVPb2ggvswDHgZEV795UGXbgrayt47UQd9xGuwEaHWafXmAzwnKtLZ5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60600 	- LAMECOURT](https://docs.stopcoronavirus.tech/#/r/markdown/60600_lamecourt/4XTTM77Xi8aTxWQNZXePvnCEk7gvD3GHoQQspjCihoPZoWP67) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60600 	- LAMECOURT](https://docs.stopcoronavirus.tech/#/w/markdown/60600_lamecourt/4XTTM77Xi8aTxWQNZXePvnCEk7gvD3GHoQQspjCihoPZoWP67-K3TgU9QCFfnLtfX4GD9TxN4HGXtfFU9vqaekL3jvKiN4oFdRMPWE4MFJriRwb3mZ17S1SU1S5HqwScea4xVPb2ggvswDHgZEV795UGXbgrayt47UQd9xGuwEaHWafXmAzwnKtLZ5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 17500 	- ST MARTIAL DE VITATERNE](https://docs.stopcoronavirus.tech/r/markdown/17500_st-martial-de-vitaterne/4XTTM3tU1YQHmqnCHfNFe2kKkT7Zs1j3i5hr8wCSf5CjszaAH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17500 	- ST MARTIAL DE VITATERNE](https://docs.stopcoronavirus.tech/w/markdown/17500_st-martial-de-vitaterne/4XTTM3tU1YQHmqnCHfNFe2kKkT7Zs1j3i5hr8wCSf5CjszaAH-K3TgUV9BPDiTPkdTTKpRWN4PE5DH8BzdZfmYWN9o2YKBjXo76H84aMNwusC6m1iQPxLVqYdwTCoJeWJXBgAB5ZKhEz5C4PfwoZAJU2Paywkby113i4sVVH5wQ98ueSFk5TSHRfVw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17500 	- ST MARTIAL DE VITATERNE](https://docs.stopcoronavirus.tech/#/r/markdown/17500_st-martial-de-vitaterne/4XTTM3tU1YQHmqnCHfNFe2kKkT7Zs1j3i5hr8wCSf5CjszaAH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17500 	- ST MARTIAL DE VITATERNE](https://docs.stopcoronavirus.tech/#/w/markdown/17500_st-martial-de-vitaterne/4XTTM3tU1YQHmqnCHfNFe2kKkT7Zs1j3i5hr8wCSf5CjszaAH-K3TgUV9BPDiTPkdTTKpRWN4PE5DH8BzdZfmYWN9o2YKBjXo76H84aMNwusC6m1iQPxLVqYdwTCoJeWJXBgAB5ZKhEz5C4PfwoZAJU2Paywkby113i4sVVH5wQ98ueSFk5TSHRfVw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

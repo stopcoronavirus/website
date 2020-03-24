@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 57320 	- ST FRANCOIS LACROIX](https://docs.stopcoronavirus.tech/r/markdown/57320_st-francois-lacroix/4XTTME6DPrC811Sz5TDnUEjbrbnLV1ZuC5nGf7H1smCetnSFi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57320 	- ST FRANCOIS LACROIX](https://docs.stopcoronavirus.tech/w/markdown/57320_st-francois-lacroix/4XTTME6DPrC811Sz5TDnUEjbrbnLV1ZuC5nGf7H1smCetnSFi-K3TgULCZSuqtn67KcCLRu3a1T7irUAws6vCELo8aKaBzGQ35U4iRTdsiAx5vGs3sgi7MCCfb62Hszq9yyXGRVdK3VCp9n8vos8sxWErgbSoz4b3itXfMdz2xUUckWS7c3iYWAqdr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57320 	- ST FRANCOIS LACROIX](https://docs.stopcoronavirus.tech/#/r/markdown/57320_st-francois-lacroix/4XTTME6DPrC811Sz5TDnUEjbrbnLV1ZuC5nGf7H1smCetnSFi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57320 	- ST FRANCOIS LACROIX](https://docs.stopcoronavirus.tech/#/w/markdown/57320_st-francois-lacroix/4XTTME6DPrC811Sz5TDnUEjbrbnLV1ZuC5nGf7H1smCetnSFi-K3TgULCZSuqtn67KcCLRu3a1T7irUAws6vCELo8aKaBzGQ35U4iRTdsiAx5vGs3sgi7MCCfb62Hszq9yyXGRVdK3VCp9n8vos8sxWErgbSoz4b3itXfMdz2xUUckWS7c3iYWAqdr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 78670 	- VILLENNES SUR SEINE](https://docs.stopcoronavirus.tech/r/markdown/78670_villennes-sur-seine/4XTTMHWR9Mn7Cf3X45x6wgpp6KJNhMHvSG3m45pTtUKhCUWHS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78670 	- VILLENNES SUR SEINE](https://docs.stopcoronavirus.tech/w/markdown/78670_villennes-sur-seine/4XTTMHWR9Mn7Cf3X45x6wgpp6KJNhMHvSG3m45pTtUKhCUWHS-K3TgUXuqdVvSW3jzxbW1kg1bvEJDRrFXqYSnEXUfHC4Adj4oBoJ1HXoRJsHWfJZH2rgPiq3GMdhHDAorPpz6SUtQNcCfQp5Be8pj7E2k3HmKGAyP6X9YJ63iHCkE2nCL8uYP4JtC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78670 	- VILLENNES SUR SEINE](https://docs.stopcoronavirus.tech/#/r/markdown/78670_villennes-sur-seine/4XTTMHWR9Mn7Cf3X45x6wgpp6KJNhMHvSG3m45pTtUKhCUWHS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78670 	- VILLENNES SUR SEINE](https://docs.stopcoronavirus.tech/#/w/markdown/78670_villennes-sur-seine/4XTTMHWR9Mn7Cf3X45x6wgpp6KJNhMHvSG3m45pTtUKhCUWHS-K3TgUXuqdVvSW3jzxbW1kg1bvEJDRrFXqYSnEXUfHC4Adj4oBoJ1HXoRJsHWfJZH2rgPiq3GMdhHDAorPpz6SUtQNcCfQp5Be8pj7E2k3HmKGAyP6X9YJ63iHCkE2nCL8uYP4JtC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

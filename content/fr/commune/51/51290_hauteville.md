@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51290 	- HAUTEVILLE](https://docs.stopcoronavirus.tech/r/markdown/51290_hauteville/4XTTMAjqBTP4bro6K34MUPN57CHpUjf3WrzynJy9ecg9TvqZc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51290 	- HAUTEVILLE](https://docs.stopcoronavirus.tech/w/markdown/51290_hauteville/4XTTMAjqBTP4bro6K34MUPN57CHpUjf3WrzynJy9ecg9TvqZc-K3TgUb5QSDEh49F78DcmvtNcoA636T7FGn4146oWWfxQCvmVjn7PLNdWzjjJbXXzG3PgHFvLmyVvZQXYuXhYx8NhEsQ3vDTWumt5hpBsFJ1NDeaE74VHJQHoJwWRLCwe9CqaJ61Y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51290 	- HAUTEVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/51290_hauteville/4XTTMAjqBTP4bro6K34MUPN57CHpUjf3WrzynJy9ecg9TvqZc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51290 	- HAUTEVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/51290_hauteville/4XTTMAjqBTP4bro6K34MUPN57CHpUjf3WrzynJy9ecg9TvqZc-K3TgUb5QSDEh49F78DcmvtNcoA636T7FGn4146oWWfxQCvmVjn7PLNdWzjjJbXXzG3PgHFvLmyVvZQXYuXhYx8NhEsQ3vDTWumt5hpBsFJ1NDeaE74VHJQHoJwWRLCwe9CqaJ61Y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

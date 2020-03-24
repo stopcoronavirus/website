@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 93150 	- LE BLANC MESNIL](https://docs.stopcoronavirus.tech/r/markdown/93150_le-blanc-mesnil/4XTTMFfNGCtAopW9HU1pzdsBRDmPiwUyWFUFcKHUVJ1jMQQRo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93150 	- LE BLANC MESNIL](https://docs.stopcoronavirus.tech/w/markdown/93150_le-blanc-mesnil/4XTTMFfNGCtAopW9HU1pzdsBRDmPiwUyWFUFcKHUVJ1jMQQRo-K3TgTrdBhTVXk86NzXVP8LgBdnrtwTbHZcKCH18RtTbnzjVycJAMEPfWZ5Tzvt8fgGtg4f2a59b2KZSwQzdFB9SbiKfQXVebpWDMn8PZZgrsZzuY4VSejFGZRPd3qSkdNj5b7cXj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 93150 	- LE BLANC MESNIL](https://docs.stopcoronavirus.tech/#/r/markdown/93150_le-blanc-mesnil/4XTTMFfNGCtAopW9HU1pzdsBRDmPiwUyWFUFcKHUVJ1jMQQRo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 93150 	- LE BLANC MESNIL](https://docs.stopcoronavirus.tech/#/w/markdown/93150_le-blanc-mesnil/4XTTMFfNGCtAopW9HU1pzdsBRDmPiwUyWFUFcKHUVJ1jMQQRo-K3TgTrdBhTVXk86NzXVP8LgBdnrtwTbHZcKCH18RtTbnzjVycJAMEPfWZ5Tzvt8fgGtg4f2a59b2KZSwQzdFB9SbiKfQXVebpWDMn8PZZgrsZzuY4VSejFGZRPd3qSkdNj5b7cXj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

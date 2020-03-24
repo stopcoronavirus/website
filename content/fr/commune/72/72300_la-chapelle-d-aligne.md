@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 72300 	- LA CHAPELLE D ALIGNE](https://docs.stopcoronavirus.tech/r/markdown/72300_la-chapelle-d-aligne/4XTTMAdysnQNJrKkSuhStstEAd2meQGSZxax7GdgrdMsz9n6J) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72300 	- LA CHAPELLE D ALIGNE](https://docs.stopcoronavirus.tech/w/markdown/72300_la-chapelle-d-aligne/4XTTMAdysnQNJrKkSuhStstEAd2meQGSZxax7GdgrdMsz9n6J-K3TgUfmD3eZiaSGTv7XdQEZebe5bKkiS1UejWMB7cE1ag4ewRFTMLLR4fDoUg8YkCd25m5m2vxJ76rG2gUKGGwq82GUEsgSE5YBcwmv2dnPWejCMZebt88PfQnBTreDiabSz4Pg2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72300 	- LA CHAPELLE D ALIGNE](https://docs.stopcoronavirus.tech/#/r/markdown/72300_la-chapelle-d-aligne/4XTTMAdysnQNJrKkSuhStstEAd2meQGSZxax7GdgrdMsz9n6J) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72300 	- LA CHAPELLE D ALIGNE](https://docs.stopcoronavirus.tech/#/w/markdown/72300_la-chapelle-d-aligne/4XTTMAdysnQNJrKkSuhStstEAd2meQGSZxax7GdgrdMsz9n6J-K3TgUfmD3eZiaSGTv7XdQEZebe5bKkiS1UejWMB7cE1ag4ewRFTMLLR4fDoUg8YkCd25m5m2vxJ76rG2gUKGGwq82GUEsgSE5YBcwmv2dnPWejCMZebt88PfQnBTreDiabSz4Pg2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27260 	- MORAINVILLE JOUVEAUX](https://docs.stopcoronavirus.tech/r/markdown/27260_morainville-jouveaux/4XTTMHXuctehXiT8sGuMKYpnjFmquXkHF6348gJft41XdpTVK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27260 	- MORAINVILLE JOUVEAUX](https://docs.stopcoronavirus.tech/w/markdown/27260_morainville-jouveaux/4XTTMHXuctehXiT8sGuMKYpnjFmquXkHF6348gJft41XdpTVK-K3TgTpnDM4osR2jQfqqneu24o1e3iBg9iPUnfA77g67vCpyLsb3yNznLavao9ENACsMeuLvwt5Tci4kXPNkLhK1LGDnb62YHokxHUvJUjxYVg8bNs9ECQ3P1aNBJoKA5jeNG5d53) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27260 	- MORAINVILLE JOUVEAUX](https://docs.stopcoronavirus.tech/#/r/markdown/27260_morainville-jouveaux/4XTTMHXuctehXiT8sGuMKYpnjFmquXkHF6348gJft41XdpTVK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27260 	- MORAINVILLE JOUVEAUX](https://docs.stopcoronavirus.tech/#/w/markdown/27260_morainville-jouveaux/4XTTMHXuctehXiT8sGuMKYpnjFmquXkHF6348gJft41XdpTVK-K3TgTpnDM4osR2jQfqqneu24o1e3iBg9iPUnfA77g67vCpyLsb3yNznLavao9ENACsMeuLvwt5Tci4kXPNkLhK1LGDnb62YHokxHUvJUjxYVg8bNs9ECQ3P1aNBJoKA5jeNG5d53) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

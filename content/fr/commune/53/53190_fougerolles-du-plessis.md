@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53190 	- FOUGEROLLES DU PLESSIS](https://docs.stopcoronavirus.tech/r/markdown/53190_fougerolles-du-plessis/4XTTMBd2NNUtxuW1zadeaTWWcNzYPp3MP3LWL2V5ABCrZAJMb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53190 	- FOUGEROLLES DU PLESSIS](https://docs.stopcoronavirus.tech/w/markdown/53190_fougerolles-du-plessis/4XTTMBd2NNUtxuW1zadeaTWWcNzYPp3MP3LWL2V5ABCrZAJMb-K3TgUizRYs7hede5hXYWFVaBTVKNAS6yBY4u6WoqpS2JjEPFWq6DRk8kxAuczaKFc8HAEWNK1tZ8nJvrHBTyFMJS13HqsLZmRL3SCxFGTZY67ddjb4x8VTFrQ4F1JFubANayL7rD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53190 	- FOUGEROLLES DU PLESSIS](https://docs.stopcoronavirus.tech/#/r/markdown/53190_fougerolles-du-plessis/4XTTMBd2NNUtxuW1zadeaTWWcNzYPp3MP3LWL2V5ABCrZAJMb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53190 	- FOUGEROLLES DU PLESSIS](https://docs.stopcoronavirus.tech/#/w/markdown/53190_fougerolles-du-plessis/4XTTMBd2NNUtxuW1zadeaTWWcNzYPp3MP3LWL2V5ABCrZAJMb-K3TgUizRYs7hede5hXYWFVaBTVKNAS6yBY4u6WoqpS2JjEPFWq6DRk8kxAuczaKFc8HAEWNK1tZ8nJvrHBTyFMJS13HqsLZmRL3SCxFGTZY67ddjb4x8VTFrQ4F1JFubANayL7rD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

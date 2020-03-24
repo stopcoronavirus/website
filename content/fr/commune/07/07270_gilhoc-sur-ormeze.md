@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07270 	- GILHOC SUR ORMEZE](https://docs.stopcoronavirus.tech/r/markdown/07270_gilhoc-sur-ormeze/4XTTM9dARzBZyFeN3hviRgXTL9RJPiyyh9qwCmjDyBR6efFUK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07270 	- GILHOC SUR ORMEZE](https://docs.stopcoronavirus.tech/w/markdown/07270_gilhoc-sur-ormeze/4XTTM9dARzBZyFeN3hviRgXTL9RJPiyyh9qwCmjDyBR6efFUK-K3TgUzcfLTeXJzPSQgHLfc9DGnbhATurbPAybw5SrdNBP7qJW5kQ7wAnbhnPb7s2NTit8DbyYdd66reePZ6hL2Gm7M9mpnohXkyTg3VKnni8oRpk4KdmawXuWdpprEkB7uuAhK8T) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07270 	- GILHOC SUR ORMEZE](https://docs.stopcoronavirus.tech/#/r/markdown/07270_gilhoc-sur-ormeze/4XTTM9dARzBZyFeN3hviRgXTL9RJPiyyh9qwCmjDyBR6efFUK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07270 	- GILHOC SUR ORMEZE](https://docs.stopcoronavirus.tech/#/w/markdown/07270_gilhoc-sur-ormeze/4XTTM9dARzBZyFeN3hviRgXTL9RJPiyyh9qwCmjDyBR6efFUK-K3TgUzcfLTeXJzPSQgHLfc9DGnbhATurbPAybw5SrdNBP7qJW5kQ7wAnbhnPb7s2NTit8DbyYdd66reePZ6hL2Gm7M9mpnohXkyTg3VKnni8oRpk4KdmawXuWdpprEkB7uuAhK8T) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

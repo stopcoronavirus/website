@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 22940 	- PLAINTEL](https://docs.stopcoronavirus.tech/r/markdown/22940_plaintel/4XTTM1i4svuyzv54Qa1JeoHP3eUN2eLUaiJ9znZUS5qt3mUR1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22940 	- PLAINTEL](https://docs.stopcoronavirus.tech/w/markdown/22940_plaintel/4XTTM1i4svuyzv54Qa1JeoHP3eUN2eLUaiJ9znZUS5qt3mUR1-K3TgUwu4HWfhxtW4dZJZ4gCNEtGWbvzBU1AP4ahMtmwrr513wpe5UWtFU5j2iUuWSckvHmz8iAtFnhe3FMLtGUtghEHCU8dm4q7GLgAUe1uLRgfPmyUzspP4W69b1P6bWRjTqbwy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 22940 	- PLAINTEL](https://docs.stopcoronavirus.tech/#/r/markdown/22940_plaintel/4XTTM1i4svuyzv54Qa1JeoHP3eUN2eLUaiJ9znZUS5qt3mUR1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 22940 	- PLAINTEL](https://docs.stopcoronavirus.tech/#/w/markdown/22940_plaintel/4XTTM1i4svuyzv54Qa1JeoHP3eUN2eLUaiJ9znZUS5qt3mUR1-K3TgUwu4HWfhxtW4dZJZ4gCNEtGWbvzBU1AP4ahMtmwrr513wpe5UWtFU5j2iUuWSckvHmz8iAtFnhe3FMLtGUtghEHCU8dm4q7GLgAUe1uLRgfPmyUzspP4W69b1P6bWRjTqbwy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

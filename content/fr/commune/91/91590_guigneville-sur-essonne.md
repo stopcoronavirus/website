@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91590 	- GUIGNEVILLE SUR ESSONNE](https://docs.stopcoronavirus.tech/r/markdown/91590_guigneville-sur-essonne/4XTTM2MFmrnVHMrXfZ4Cekww8S3HrpsCBNva7qqt9mfkurq6Z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91590 	- GUIGNEVILLE SUR ESSONNE](https://docs.stopcoronavirus.tech/w/markdown/91590_guigneville-sur-essonne/4XTTM2MFmrnVHMrXfZ4Cekww8S3HrpsCBNva7qqt9mfkurq6Z-K3TgToyUj8m6Je1XBiZdJYJbQZsQMPYajXQfY5g7GjawFbQ2p3K132dwz5bRGkGzG7ddqTxTZSf19DbSfKTGMAQ6ZBaQTBgTFrB3sMPv8XpMMXBKm5P4p29o7kxPqhetz4cceem7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91590 	- GUIGNEVILLE SUR ESSONNE](https://docs.stopcoronavirus.tech/#/r/markdown/91590_guigneville-sur-essonne/4XTTM2MFmrnVHMrXfZ4Cekww8S3HrpsCBNva7qqt9mfkurq6Z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91590 	- GUIGNEVILLE SUR ESSONNE](https://docs.stopcoronavirus.tech/#/w/markdown/91590_guigneville-sur-essonne/4XTTM2MFmrnVHMrXfZ4Cekww8S3HrpsCBNva7qqt9mfkurq6Z-K3TgToyUj8m6Je1XBiZdJYJbQZsQMPYajXQfY5g7GjawFbQ2p3K132dwz5bRGkGzG7ddqTxTZSf19DbSfKTGMAQ6ZBaQTBgTFrB3sMPv8XpMMXBKm5P4p29o7kxPqhetz4cceem7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

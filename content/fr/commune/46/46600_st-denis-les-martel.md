@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 46600 	- ST DENIS LES MARTEL](https://docs.stopcoronavirus.tech/r/markdown/46600_st-denis-les-martel/4XTTM26fP7zUnu86SvNvFgxkLtX9HLpoCweLSLnAved7C4yrp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46600 	- ST DENIS LES MARTEL](https://docs.stopcoronavirus.tech/w/markdown/46600_st-denis-les-martel/4XTTM26fP7zUnu86SvNvFgxkLtX9HLpoCweLSLnAved7C4yrp-K3TgTge1yy88mQopvL7RMr6WzXT8WwzfSmyNFWgagxezg1H4b85SFoYoUTKTSB1ZrnjyzzSgJP6b4EVGoTC4xocXZLadZ6xGtKcguioN8QpzKTTMTrV7QssaU4SgAX5dMpLGDfu2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46600 	- ST DENIS LES MARTEL](https://docs.stopcoronavirus.tech/#/r/markdown/46600_st-denis-les-martel/4XTTM26fP7zUnu86SvNvFgxkLtX9HLpoCweLSLnAved7C4yrp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46600 	- ST DENIS LES MARTEL](https://docs.stopcoronavirus.tech/#/w/markdown/46600_st-denis-les-martel/4XTTM26fP7zUnu86SvNvFgxkLtX9HLpoCweLSLnAved7C4yrp-K3TgTge1yy88mQopvL7RMr6WzXT8WwzfSmyNFWgagxezg1H4b85SFoYoUTKTSB1ZrnjyzzSgJP6b4EVGoTC4xocXZLadZ6xGtKcguioN8QpzKTTMTrV7QssaU4SgAX5dMpLGDfu2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 46 	- Lot](https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 46 	- Lot](https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

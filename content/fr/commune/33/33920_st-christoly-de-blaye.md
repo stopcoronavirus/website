@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33920 	- ST CHRISTOLY DE BLAYE](https://docs.stopcoronavirus.tech/r/markdown/33920_st-christoly-de-blaye/4XTTMGDY1dnY6kahjiPko2zkUWBUg8HT4UfYRodH3Gw9LMGka) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33920 	- ST CHRISTOLY DE BLAYE](https://docs.stopcoronavirus.tech/w/markdown/33920_st-christoly-de-blaye/4XTTMGDY1dnY6kahjiPko2zkUWBUg8HT4UfYRodH3Gw9LMGka-K3TgU3xhBD41BVhf4Sk1KixrwCChz7QyukVE3N4YZT5dWgPJL1ky67SPv4zfMuSdN8P9b5ojFQRCpxpEDi7Y6VLNtNAAT5XozaybncMf8Bwo6w8FTDVFBXhdb4zFF6FNZfEBYtgr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33920 	- ST CHRISTOLY DE BLAYE](https://docs.stopcoronavirus.tech/#/r/markdown/33920_st-christoly-de-blaye/4XTTMGDY1dnY6kahjiPko2zkUWBUg8HT4UfYRodH3Gw9LMGka) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33920 	- ST CHRISTOLY DE BLAYE](https://docs.stopcoronavirus.tech/#/w/markdown/33920_st-christoly-de-blaye/4XTTMGDY1dnY6kahjiPko2zkUWBUg8HT4UfYRodH3Gw9LMGka-K3TgU3xhBD41BVhf4Sk1KixrwCChz7QyukVE3N4YZT5dWgPJL1ky67SPv4zfMuSdN8P9b5ojFQRCpxpEDi7Y6VLNtNAAT5XozaybncMf8Bwo6w8FTDVFBXhdb4zFF6FNZfEBYtgr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

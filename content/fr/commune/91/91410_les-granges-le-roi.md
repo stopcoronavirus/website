@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91410 	- LES GRANGES LE ROI](https://docs.stopcoronavirus.tech/r/markdown/91410_les-granges-le-roi/4XTTM6Yau1TWhuKHuWM3J73g5S2Pj1cVueN5mp1tMMfepJjjy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91410 	- LES GRANGES LE ROI](https://docs.stopcoronavirus.tech/w/markdown/91410_les-granges-le-roi/4XTTM6Yau1TWhuKHuWM3J73g5S2Pj1cVueN5mp1tMMfepJjjy-K3TgTxkwx5xnzpWJeokCNdSuPNcZvb5PZMUEE5Rrifbivr23UDWmarWCXi9fFD1HtGioG9R1B3E4mMav38Y8Ms5AWKzK5wnK8cRT6j9wzs7Uwa9KQa45FQD89yaAkqhfRJHSdL8j) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91410 	- LES GRANGES LE ROI](https://docs.stopcoronavirus.tech/#/r/markdown/91410_les-granges-le-roi/4XTTM6Yau1TWhuKHuWM3J73g5S2Pj1cVueN5mp1tMMfepJjjy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91410 	- LES GRANGES LE ROI](https://docs.stopcoronavirus.tech/#/w/markdown/91410_les-granges-le-roi/4XTTM6Yau1TWhuKHuWM3J73g5S2Pj1cVueN5mp1tMMfepJjjy-K3TgTxkwx5xnzpWJeokCNdSuPNcZvb5PZMUEE5Rrifbivr23UDWmarWCXi9fFD1HtGioG9R1B3E4mMav38Y8Ms5AWKzK5wnK8cRT6j9wzs7Uwa9KQa45FQD89yaAkqhfRJHSdL8j) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 62151 	- BURBURE](https://docs.stopcoronavirus.tech/r/markdown/62151_burbure/4XTTM3L65z9EhzzR4X4uNCH4mbYJzRE8tdWABHViHg5mRNgaX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62151 	- BURBURE](https://docs.stopcoronavirus.tech/w/markdown/62151_burbure/4XTTM3L65z9EhzzR4X4uNCH4mbYJzRE8tdWABHViHg5mRNgaX-K3TgTui7fhMqeFA6nACt3u3tP4F1ARSs7XjajjRcTMJxc8SfzQGJP2BTz37TMtJKccvfBXFEpeVjSKu22K41SF68w6ZjoVcLdCpiyjLdZ2m6zJZd6TL6owH3Tra66bHnst2mY66F) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 62151 	- BURBURE](https://docs.stopcoronavirus.tech/#/r/markdown/62151_burbure/4XTTM3L65z9EhzzR4X4uNCH4mbYJzRE8tdWABHViHg5mRNgaX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 62151 	- BURBURE](https://docs.stopcoronavirus.tech/#/w/markdown/62151_burbure/4XTTM3L65z9EhzzR4X4uNCH4mbYJzRE8tdWABHViHg5mRNgaX-K3TgTui7fhMqeFA6nACt3u3tP4F1ARSs7XjajjRcTMJxc8SfzQGJP2BTz37TMtJKccvfBXFEpeVjSKu22K41SF68w6ZjoVcLdCpiyjLdZ2m6zJZd6TL6owH3Tra66bHnst2mY66F) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

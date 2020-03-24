@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81130 	- VILLENEUVE SUR VERE](https://docs.stopcoronavirus.tech/r/markdown/81130_villeneuve-sur-vere/4XTTM9Ji97FPTs1A4P61u1D91eLUNHcP2znwYBiVL1wLJsE5c) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81130 	- VILLENEUVE SUR VERE](https://docs.stopcoronavirus.tech/w/markdown/81130_villeneuve-sur-vere/4XTTM9Ji97FPTs1A4P61u1D91eLUNHcP2znwYBiVL1wLJsE5c-K3TgU4amKx1oBwhrw48jWC1Zb3MLnaYuZraaGD3wTsJ7KsPsCkiJ6i6tNqbWhuG7cYeZYtfSfMnYziq5uDM7TBuddHyo2cimJkUTZF9fJHWArbY6bRWnTES85JdXArrMNYL9ZLX8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81130 	- VILLENEUVE SUR VERE](https://docs.stopcoronavirus.tech/#/r/markdown/81130_villeneuve-sur-vere/4XTTM9Ji97FPTs1A4P61u1D91eLUNHcP2znwYBiVL1wLJsE5c) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81130 	- VILLENEUVE SUR VERE](https://docs.stopcoronavirus.tech/#/w/markdown/81130_villeneuve-sur-vere/4XTTM9Ji97FPTs1A4P61u1D91eLUNHcP2znwYBiVL1wLJsE5c-K3TgU4amKx1oBwhrw48jWC1Zb3MLnaYuZraaGD3wTsJ7KsPsCkiJ6i6tNqbWhuG7cYeZYtfSfMnYziq5uDM7TBuddHyo2cimJkUTZF9fJHWArbY6bRWnTES85JdXArrMNYL9ZLX8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

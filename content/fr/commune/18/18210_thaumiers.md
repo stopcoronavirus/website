@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18210 	- THAUMIERS](https://docs.stopcoronavirus.tech/r/markdown/18210_thaumiers/4XTTM9b8HjnvySWNGyYTZXV8GfiL6FZHXNQkHDgSQzj1i7bAZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18210 	- THAUMIERS](https://docs.stopcoronavirus.tech/w/markdown/18210_thaumiers/4XTTM9b8HjnvySWNGyYTZXV8GfiL6FZHXNQkHDgSQzj1i7bAZ-K3TgUD6L5Kr2MnCyB7DzdZUgp2hUQjaG5pJXsxcLhPJUCvHnAdgzDLANnB2BNxqkgQapW4dxTd15Wn14ffSVJBDu16MKqpHS23sTZHB3Mr9KvcVPn5fzXbc7nPbRUmQBBY4fN8mw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18210 	- THAUMIERS](https://docs.stopcoronavirus.tech/#/r/markdown/18210_thaumiers/4XTTM9b8HjnvySWNGyYTZXV8GfiL6FZHXNQkHDgSQzj1i7bAZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18210 	- THAUMIERS](https://docs.stopcoronavirus.tech/#/w/markdown/18210_thaumiers/4XTTM9b8HjnvySWNGyYTZXV8GfiL6FZHXNQkHDgSQzj1i7bAZ-K3TgUD6L5Kr2MnCyB7DzdZUgp2hUQjaG5pJXsxcLhPJUCvHnAdgzDLANnB2BNxqkgQapW4dxTd15Wn14ffSVJBDu16MKqpHS23sTZHB3Mr9KvcVPn5fzXbc7nPbRUmQBBY4fN8mw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

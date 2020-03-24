@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07120 	- SAMPZON](https://docs.stopcoronavirus.tech/r/markdown/07120_sampzon/4XTTMFuLnVSp1GYBbPoAfeb6HF8e2Do6GfT9C9TgnrvR2HeRh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07120 	- SAMPZON](https://docs.stopcoronavirus.tech/w/markdown/07120_sampzon/4XTTMFuLnVSp1GYBbPoAfeb6HF8e2Do6GfT9C9TgnrvR2HeRh-K3TgUfci6p5ja5aTvTUB8FdN4JT9FoYM25EzbRc6GPR1MkKwrvKx4ouusWiwiWsvUzZiBjy9pDbjsjyWjtZJ8992GJBsmt76te1KAGoA9rsb8XJ1p6nxAJjaXnuHmxhSqMdRe6H1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07120 	- SAMPZON](https://docs.stopcoronavirus.tech/#/r/markdown/07120_sampzon/4XTTMFuLnVSp1GYBbPoAfeb6HF8e2Do6GfT9C9TgnrvR2HeRh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07120 	- SAMPZON](https://docs.stopcoronavirus.tech/#/w/markdown/07120_sampzon/4XTTMFuLnVSp1GYBbPoAfeb6HF8e2Do6GfT9C9TgnrvR2HeRh-K3TgUfci6p5ja5aTvTUB8FdN4JT9FoYM25EzbRc6GPR1MkKwrvKx4ouusWiwiWsvUzZiBjy9pDbjsjyWjtZJ8992GJBsmt76te1KAGoA9rsb8XJ1p6nxAJjaXnuHmxhSqMdRe6H1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

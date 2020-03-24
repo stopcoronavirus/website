@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 35660 	- LA CHAPELLE DE BRAIN](https://docs.stopcoronavirus.tech/r/markdown/35660_la-chapelle-de-brain/4XTTM7YRCGW2KAYhZ6myNM9sZ76vidrHj6HJgYwUMhMJY1FCx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35660 	- LA CHAPELLE DE BRAIN](https://docs.stopcoronavirus.tech/w/markdown/35660_la-chapelle-de-brain/4XTTM7YRCGW2KAYhZ6myNM9sZ76vidrHj6HJgYwUMhMJY1FCx-K3TgTdNsgg83icoHHQyBF5ufP5Fp5AuwfnmaPFop36b2SbZ7RHU5HSicKhQePzptk4Pj2zmb2VzTKCFQgSSj8tzqPUq3J9pTGaekGQt2jNYyv4KTtxmqbQosx6R6cSHcv4RC1z2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35660 	- LA CHAPELLE DE BRAIN](https://docs.stopcoronavirus.tech/#/r/markdown/35660_la-chapelle-de-brain/4XTTM7YRCGW2KAYhZ6myNM9sZ76vidrHj6HJgYwUMhMJY1FCx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35660 	- LA CHAPELLE DE BRAIN](https://docs.stopcoronavirus.tech/#/w/markdown/35660_la-chapelle-de-brain/4XTTM7YRCGW2KAYhZ6myNM9sZ76vidrHj6HJgYwUMhMJY1FCx-K3TgTdNsgg83icoHHQyBF5ufP5Fp5AuwfnmaPFop36b2SbZ7RHU5HSicKhQePzptk4Pj2zmb2VzTKCFQgSSj8tzqPUq3J9pTGaekGQt2jNYyv4KTtxmqbQosx6R6cSHcv4RC1z2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 35 	- Ille-et-Vilaine](https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

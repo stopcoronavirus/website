@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38300 	- SEREZIN DE LA TOUR](https://docs.stopcoronavirus.tech/r/markdown/38300_serezin-de-la-tour/4XTTM52KGjbnvQiUZ7PvQBcZLS4Q4YkBf6GWYtoZBvwE2gsCB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38300 	- SEREZIN DE LA TOUR](https://docs.stopcoronavirus.tech/w/markdown/38300_serezin-de-la-tour/4XTTM52KGjbnvQiUZ7PvQBcZLS4Q4YkBf6GWYtoZBvwE2gsCB-K3TgUL7KaHtXjM5v3zZqQxD7Tbz3Z6GRH6JYivsbfYXkjH3Ge8eYyLSwBaDCWSPMFeHseQkT1jGCnTUDJ14QQXxEQ32QPdvb8ApPnBnaWJ1j6M8J8EQ96ZvFrZhmLjCBB4PS4BT5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38300 	- SEREZIN DE LA TOUR](https://docs.stopcoronavirus.tech/#/r/markdown/38300_serezin-de-la-tour/4XTTM52KGjbnvQiUZ7PvQBcZLS4Q4YkBf6GWYtoZBvwE2gsCB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38300 	- SEREZIN DE LA TOUR](https://docs.stopcoronavirus.tech/#/w/markdown/38300_serezin-de-la-tour/4XTTM52KGjbnvQiUZ7PvQBcZLS4Q4YkBf6GWYtoZBvwE2gsCB-K3TgUL7KaHtXjM5v3zZqQxD7Tbz3Z6GRH6JYivsbfYXkjH3Ge8eYyLSwBaDCWSPMFeHseQkT1jGCnTUDJ14QQXxEQ32QPdvb8ApPnBnaWJ1j6M8J8EQ96ZvFrZhmLjCBB4PS4BT5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 73370 	- LA CHAPELLE DU MONT DU CHAT](https://docs.stopcoronavirus.tech/r/markdown/73370_la-chapelle-du-mont-du-chat/4XTTM96SekPN82JotfjmkjqVjnPgFiBhcgoqGi1xXVTFBEG9q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73370 	- LA CHAPELLE DU MONT DU CHAT](https://docs.stopcoronavirus.tech/w/markdown/73370_la-chapelle-du-mont-du-chat/4XTTM96SekPN82JotfjmkjqVjnPgFiBhcgoqGi1xXVTFBEG9q-K3TgTre73xK7nib2cBjxwLNma6Kjq9VCeQcb3t73Ct8NbZuzJvT8jyv4YBfsQSGXhECok3tLLVYefzkVvSeNUQ8z4mEXVV65dH6CEJHFu4pG7YLLahN38snvAkHRQDXB28M5zQXM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73370 	- LA CHAPELLE DU MONT DU CHAT](https://docs.stopcoronavirus.tech/#/r/markdown/73370_la-chapelle-du-mont-du-chat/4XTTM96SekPN82JotfjmkjqVjnPgFiBhcgoqGi1xXVTFBEG9q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73370 	- LA CHAPELLE DU MONT DU CHAT](https://docs.stopcoronavirus.tech/#/w/markdown/73370_la-chapelle-du-mont-du-chat/4XTTM96SekPN82JotfjmkjqVjnPgFiBhcgoqGi1xXVTFBEG9q-K3TgTre73xK7nib2cBjxwLNma6Kjq9VCeQcb3t73Ct8NbZuzJvT8jyv4YBfsQSGXhECok3tLLVYefzkVvSeNUQ8z4mEXVV65dH6CEJHFu4pG7YLLahN38snvAkHRQDXB28M5zQXM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

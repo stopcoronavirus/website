@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 45290 	- NOGENT SUR VERNISSON](https://docs.stopcoronavirus.tech/r/markdown/45290_nogent-sur-vernisson/4XTTM6GvJThuvGVJ7G2Qv5sye4bp4Sk6XhmheHKsdYeP4kep1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45290 	- NOGENT SUR VERNISSON](https://docs.stopcoronavirus.tech/w/markdown/45290_nogent-sur-vernisson/4XTTM6GvJThuvGVJ7G2Qv5sye4bp4Sk6XhmheHKsdYeP4kep1-K3TgUhD5QDorECoznScLUP4VdR3EFaYTTufAkJv4SkHkfKKhiepKV2u1sPXidgVoaKQ8bzubYWk6sXx1jTRRg98PzNcS7AiZj7ExNNiKi4vwxpeWkziGSUuTYEzvxy4Ew5KH6bo7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45290 	- NOGENT SUR VERNISSON](https://docs.stopcoronavirus.tech/#/r/markdown/45290_nogent-sur-vernisson/4XTTM6GvJThuvGVJ7G2Qv5sye4bp4Sk6XhmheHKsdYeP4kep1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45290 	- NOGENT SUR VERNISSON](https://docs.stopcoronavirus.tech/#/w/markdown/45290_nogent-sur-vernisson/4XTTM6GvJThuvGVJ7G2Qv5sye4bp4Sk6XhmheHKsdYeP4kep1-K3TgUhD5QDorECoznScLUP4VdR3EFaYTTufAkJv4SkHkfKKhiepKV2u1sPXidgVoaKQ8bzubYWk6sXx1jTRRg98PzNcS7AiZj7ExNNiKi4vwxpeWkziGSUuTYEzvxy4Ew5KH6bo7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

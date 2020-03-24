@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33350 	- GARDEGAN ET TOURTIRAC](https://docs.stopcoronavirus.tech/r/markdown/33350_gardegan-et-tourtirac/4XTTM1BWepHPNGx9oQzYLuAY5sXkGFdFDQsPvYrpbdtmj3xaK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33350 	- GARDEGAN ET TOURTIRAC](https://docs.stopcoronavirus.tech/w/markdown/33350_gardegan-et-tourtirac/4XTTM1BWepHPNGx9oQzYLuAY5sXkGFdFDQsPvYrpbdtmj3xaK-K3TgUpJmBmuGgEHA9P1BcvGTvRYVhUxGtFhAJqUAhuHDcHMaBGBwMwAS8SDLhjXpSo6M2mg9Hc5Cpmc3DzqWE1jXhfybLYsPTUKqXUVRqfgtDjVeDajqK8HJevo9E8Ak8j8jCa5u) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33350 	- GARDEGAN ET TOURTIRAC](https://docs.stopcoronavirus.tech/#/r/markdown/33350_gardegan-et-tourtirac/4XTTM1BWepHPNGx9oQzYLuAY5sXkGFdFDQsPvYrpbdtmj3xaK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33350 	- GARDEGAN ET TOURTIRAC](https://docs.stopcoronavirus.tech/#/w/markdown/33350_gardegan-et-tourtirac/4XTTM1BWepHPNGx9oQzYLuAY5sXkGFdFDQsPvYrpbdtmj3xaK-K3TgUpJmBmuGgEHA9P1BcvGTvRYVhUxGtFhAJqUAhuHDcHMaBGBwMwAS8SDLhjXpSo6M2mg9Hc5Cpmc3DzqWE1jXhfybLYsPTUKqXUVRqfgtDjVeDajqK8HJevo9E8Ak8j8jCa5u) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

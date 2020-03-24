@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36400 	- THEVET ST JULIEN](https://docs.stopcoronavirus.tech/r/markdown/36400_thevet-st-julien/4XTTM3nwtNQhKbHFRn5aBLNWJDWUfrLvyF5n9CiXbwyPaTqth) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36400 	- THEVET ST JULIEN](https://docs.stopcoronavirus.tech/w/markdown/36400_thevet-st-julien/4XTTM3nwtNQhKbHFRn5aBLNWJDWUfrLvyF5n9CiXbwyPaTqth-K3TgU85ZhEiwSmyt5ykBz9DBKzMcG6KyhHEgtKuajTq3tQGiH3x2geujZCK9bt3TqE4DVMZp8MUYXFp9Q24THYLbZHxBq7bE4m1a9CQLEfhds6hSkbP3cQJXTDBRMgsx1R4sFANZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36400 	- THEVET ST JULIEN](https://docs.stopcoronavirus.tech/#/r/markdown/36400_thevet-st-julien/4XTTM3nwtNQhKbHFRn5aBLNWJDWUfrLvyF5n9CiXbwyPaTqth) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36400 	- THEVET ST JULIEN](https://docs.stopcoronavirus.tech/#/w/markdown/36400_thevet-st-julien/4XTTM3nwtNQhKbHFRn5aBLNWJDWUfrLvyF5n9CiXbwyPaTqth-K3TgU85ZhEiwSmyt5ykBz9DBKzMcG6KyhHEgtKuajTq3tQGiH3x2geujZCK9bt3TqE4DVMZp8MUYXFp9Q24THYLbZHxBq7bE4m1a9CQLEfhds6hSkbP3cQJXTDBRMgsx1R4sFANZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

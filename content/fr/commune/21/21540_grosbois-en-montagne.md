@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21540 	- GROSBOIS EN MONTAGNE](https://docs.stopcoronavirus.tech/r/markdown/21540_grosbois-en-montagne/4XTTM1x2H8yY6ZsUNSwm2d2XRqu1jmxoocWuDHnQ1X2UpqUn8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21540 	- GROSBOIS EN MONTAGNE](https://docs.stopcoronavirus.tech/w/markdown/21540_grosbois-en-montagne/4XTTM1x2H8yY6ZsUNSwm2d2XRqu1jmxoocWuDHnQ1X2UpqUn8-K3TgTpu8XEiyo8KKrrhmnwuXUxg1EJ5ZknwhhfjL6v8YjnzGvUu3WSuFFmdcTHqenMUpHFNezNxA1CYR4gNtXqMsWBzuDp2dCVuQcLngLVpwaTqGk2v3nmRVqPuKA9D7uyzAfJ1J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21540 	- GROSBOIS EN MONTAGNE](https://docs.stopcoronavirus.tech/#/r/markdown/21540_grosbois-en-montagne/4XTTM1x2H8yY6ZsUNSwm2d2XRqu1jmxoocWuDHnQ1X2UpqUn8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21540 	- GROSBOIS EN MONTAGNE](https://docs.stopcoronavirus.tech/#/w/markdown/21540_grosbois-en-montagne/4XTTM1x2H8yY6ZsUNSwm2d2XRqu1jmxoocWuDHnQ1X2UpqUn8-K3TgTpu8XEiyo8KKrrhmnwuXUxg1EJ5ZknwhhfjL6v8YjnzGvUu3WSuFFmdcTHqenMUpHFNezNxA1CYR4gNtXqMsWBzuDp2dCVuQcLngLVpwaTqGk2v3nmRVqPuKA9D7uyzAfJ1J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

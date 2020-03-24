@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24250 	- ST CYBRANET](https://docs.stopcoronavirus.tech/r/markdown/24250_st-cybranet/4XTTMBeEqFEXiu2doVtHoxRWD6ThcPZojLDhN5gVf24c2gGFk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24250 	- ST CYBRANET](https://docs.stopcoronavirus.tech/w/markdown/24250_st-cybranet/4XTTMBeEqFEXiu2doVtHoxRWD6ThcPZojLDhN5gVf24c2gGFk-K3TgU9XAr58tg2VM5oQU6MAnSLG1J92ZDAHqCWQ35pNEGYmEAavVZVMFc5kVZHtw6rjNrz8CHAnK9mJ1U4BnXuqzQvhK3GTbQ5BqhmaJpVE6WKUTVteR65jRuZuT2JNo8iRXXPZL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24250 	- ST CYBRANET](https://docs.stopcoronavirus.tech/#/r/markdown/24250_st-cybranet/4XTTMBeEqFEXiu2doVtHoxRWD6ThcPZojLDhN5gVf24c2gGFk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24250 	- ST CYBRANET](https://docs.stopcoronavirus.tech/#/w/markdown/24250_st-cybranet/4XTTMBeEqFEXiu2doVtHoxRWD6ThcPZojLDhN5gVf24c2gGFk-K3TgU9XAr58tg2VM5oQU6MAnSLG1J92ZDAHqCWQ35pNEGYmEAavVZVMFc5kVZHtw6rjNrz8CHAnK9mJ1U4BnXuqzQvhK3GTbQ5BqhmaJpVE6WKUTVteR65jRuZuT2JNo8iRXXPZL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

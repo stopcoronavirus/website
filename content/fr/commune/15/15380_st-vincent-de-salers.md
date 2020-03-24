@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15380 	- ST VINCENT DE SALERS](https://docs.stopcoronavirus.tech/r/markdown/15380_st-vincent-de-salers/4XTTM7L3P8j31cCfeV2zXLouTe7fJSEtvUAZZ3mTQugD1zJoi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15380 	- ST VINCENT DE SALERS](https://docs.stopcoronavirus.tech/w/markdown/15380_st-vincent-de-salers/4XTTM7L3P8j31cCfeV2zXLouTe7fJSEtvUAZZ3mTQugD1zJoi-K3TgTxK3KqeLTwxKZQmYjTcSatAgEPXxoimyJH9oy9bP4nyEZ53Z9Y4v94NYNyWVHqZUug18QWpcXD5XdXajweVSn61guXi3w239GRF2wQS2Jc82UQyhmL18cCwTh9Eepxm5VUkx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15380 	- ST VINCENT DE SALERS](https://docs.stopcoronavirus.tech/#/r/markdown/15380_st-vincent-de-salers/4XTTM7L3P8j31cCfeV2zXLouTe7fJSEtvUAZZ3mTQugD1zJoi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15380 	- ST VINCENT DE SALERS](https://docs.stopcoronavirus.tech/#/w/markdown/15380_st-vincent-de-salers/4XTTM7L3P8j31cCfeV2zXLouTe7fJSEtvUAZZ3mTQugD1zJoi-K3TgTxK3KqeLTwxKZQmYjTcSatAgEPXxoimyJH9oy9bP4nyEZ53Z9Y4v94NYNyWVHqZUug18QWpcXD5XdXajweVSn61guXi3w239GRF2wQS2Jc82UQyhmL18cCwTh9Eepxm5VUkx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77860 	- COUILLY PONT AUX DAMES](https://docs.stopcoronavirus.tech/r/markdown/77860_couilly-pont-aux-dames/4XTTM95XoZo5qzdJEc87NuhVZFz3YVNyMExTrjL5Lh51TVsmL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77860 	- COUILLY PONT AUX DAMES](https://docs.stopcoronavirus.tech/w/markdown/77860_couilly-pont-aux-dames/4XTTM95XoZo5qzdJEc87NuhVZFz3YVNyMExTrjL5Lh51TVsmL-K3TgUgQrqiWPMQKd34HE2VPXhsFfQQBKvSDVjofE7R9AiKqvmCj5fzCP3jUn4LKfPFHDZF6Ah8uTuGKDiqiD7KMZbjrt3EMfVhNDyBehqwJKpvMkUpqFoXSo4ZopsF3iUuvtnJyg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77860 	- COUILLY PONT AUX DAMES](https://docs.stopcoronavirus.tech/#/r/markdown/77860_couilly-pont-aux-dames/4XTTM95XoZo5qzdJEc87NuhVZFz3YVNyMExTrjL5Lh51TVsmL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77860 	- COUILLY PONT AUX DAMES](https://docs.stopcoronavirus.tech/#/w/markdown/77860_couilly-pont-aux-dames/4XTTM95XoZo5qzdJEc87NuhVZFz3YVNyMExTrjL5Lh51TVsmL-K3TgUgQrqiWPMQKd34HE2VPXhsFfQQBKvSDVjofE7R9AiKqvmCj5fzCP3jUn4LKfPFHDZF6Ah8uTuGKDiqiD7KMZbjrt3EMfVhNDyBehqwJKpvMkUpqFoXSo4ZopsF3iUuvtnJyg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

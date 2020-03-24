@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32240 	- MAULEON D ARMAGNAC](https://docs.stopcoronavirus.tech/r/markdown/32240_mauleon-d-armagnac/4XTTM9AHv6W19dck8ss5Jiv2r7sEEkC7qdjS13U4QFHdJeyhH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32240 	- MAULEON D ARMAGNAC](https://docs.stopcoronavirus.tech/w/markdown/32240_mauleon-d-armagnac/4XTTM9AHv6W19dck8ss5Jiv2r7sEEkC7qdjS13U4QFHdJeyhH-K3TgTdfs6nxeMVJp1Qw19SHqy3CBtPBQM928N8khLJpViegbMbNFcYsUzG9eEHD8PBCqYJmuYjNYprviWTcjJXrJXM8NKg1NremXvoBGVv2r4sXKgjWDPGLHYpnbXT7srN75UPwD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32240 	- MAULEON D ARMAGNAC](https://docs.stopcoronavirus.tech/#/r/markdown/32240_mauleon-d-armagnac/4XTTM9AHv6W19dck8ss5Jiv2r7sEEkC7qdjS13U4QFHdJeyhH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32240 	- MAULEON D ARMAGNAC](https://docs.stopcoronavirus.tech/#/w/markdown/32240_mauleon-d-armagnac/4XTTM9AHv6W19dck8ss5Jiv2r7sEEkC7qdjS13U4QFHdJeyhH-K3TgTdfs6nxeMVJp1Qw19SHqy3CBtPBQM928N8khLJpViegbMbNFcYsUzG9eEHD8PBCqYJmuYjNYprviWTcjJXrJXM8NKg1NremXvoBGVv2r4sXKgjWDPGLHYpnbXT7srN75UPwD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

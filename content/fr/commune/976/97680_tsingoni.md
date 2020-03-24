@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97680 	- TSINGONI](https://docs.stopcoronavirus.tech/r/markdown/97680_tsingoni/4XTTM7z7C8vHCeV2Fut2tA4fSQmEjA7DZJjubnUKYNAHVbwiw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97680 	- TSINGONI](https://docs.stopcoronavirus.tech/w/markdown/97680_tsingoni/4XTTM7z7C8vHCeV2Fut2tA4fSQmEjA7DZJjubnUKYNAHVbwiw-K3TgTtjqQfEUsKdFwhAnQ4EEGW1tAzZnEYKLVezbNGDjjKsPD71EThNXRTLvuMUVcLTSCFdR7LZV85p3frFfx6f5T664YmZRAa4bCHKKUhhCR7sD8pYFGZ1to4nupWtEz19GhRuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 97680 	- TSINGONI](https://docs.stopcoronavirus.tech/#/r/markdown/97680_tsingoni/4XTTM7z7C8vHCeV2Fut2tA4fSQmEjA7DZJjubnUKYNAHVbwiw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 97680 	- TSINGONI](https://docs.stopcoronavirus.tech/#/w/markdown/97680_tsingoni/4XTTM7z7C8vHCeV2Fut2tA4fSQmEjA7DZJjubnUKYNAHVbwiw-K3TgTtjqQfEUsKdFwhAnQ4EEGW1tAzZnEYKLVezbNGDjjKsPD71EThNXRTLvuMUVcLTSCFdR7LZV85p3frFfx6f5T664YmZRAa4bCHKKUhhCR7sD8pYFGZ1to4nupWtEz19GhRuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 976 	- Mayotte](https://docs.stopcoronavirus.tech/r/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 976 	- Mayotte](https://docs.stopcoronavirus.tech/w/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5-K3TgUMkcGV5jdzVqb78DtiVWoL3Y1HCauLnRmkc8TF8xqf3YoBJm7ryZ8n5YPPeiPRtwV7LBqJfDJhKmv8bHaryM4ddGh4NZ3DAEqeGMq2gjS2MuqmkX5sBUBizoNXpJ4gaDPXBK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 976 	- Mayotte](https://docs.stopcoronavirus.tech/#/r/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 976 	- Mayotte](https://docs.stopcoronavirus.tech/#/w/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5-K3TgUMkcGV5jdzVqb78DtiVWoL3Y1HCauLnRmkc8TF8xqf3YoBJm7ryZ8n5YPPeiPRtwV7LBqJfDJhKmv8bHaryM4ddGh4NZ3DAEqeGMq2gjS2MuqmkX5sBUBizoNXpJ4gaDPXBK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

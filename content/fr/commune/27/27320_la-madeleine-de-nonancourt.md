@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27320 	- LA MADELEINE DE NONANCOURT](https://docs.stopcoronavirus.tech/r/markdown/27320_la-madeleine-de-nonancourt/4XTTM3Y49UWXLcFjf5WpA7tF8cFdMdhtTgbdh8EEC5Vc5Xqk7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27320 	- LA MADELEINE DE NONANCOURT](https://docs.stopcoronavirus.tech/w/markdown/27320_la-madeleine-de-nonancourt/4XTTM3Y49UWXLcFjf5WpA7tF8cFdMdhtTgbdh8EEC5Vc5Xqk7-K3TgUtBnzskCNuNGM5C7V9CSEC7pLxtWfaGq6uq9fsWzS5Dhb2tHEHect9Swre9nbEJEVm98jriaB9mD3iu2qX9YgNnfhJC1xXeY7dpn6fCRkKuhGCJBidaCxvaQGbYZqgAeTmns) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27320 	- LA MADELEINE DE NONANCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/27320_la-madeleine-de-nonancourt/4XTTM3Y49UWXLcFjf5WpA7tF8cFdMdhtTgbdh8EEC5Vc5Xqk7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27320 	- LA MADELEINE DE NONANCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/27320_la-madeleine-de-nonancourt/4XTTM3Y49UWXLcFjf5WpA7tF8cFdMdhtTgbdh8EEC5Vc5Xqk7-K3TgUtBnzskCNuNGM5C7V9CSEC7pLxtWfaGq6uq9fsWzS5Dhb2tHEHect9Swre9nbEJEVm98jriaB9mD3iu2qX9YgNnfhJC1xXeY7dpn6fCRkKuhGCJBidaCxvaQGbYZqgAeTmns) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

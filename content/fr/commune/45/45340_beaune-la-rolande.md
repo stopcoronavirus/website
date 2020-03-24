@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 45340 	- BEAUNE LA ROLANDE](https://docs.stopcoronavirus.tech/r/markdown/45340_beaune-la-rolande/4XTTM4znkkMKSjxyrDZj6W9FoYL9E73fBf2BXQukPnGqUSmJj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45340 	- BEAUNE LA ROLANDE](https://docs.stopcoronavirus.tech/w/markdown/45340_beaune-la-rolande/4XTTM4znkkMKSjxyrDZj6W9FoYL9E73fBf2BXQukPnGqUSmJj-K3TgV2MbQfq3Q2E3DRw5YcjfRTTQNSKUeQKM5iiDZfVfnJm6P6BuqT6Qe5SSpjHWkiHwbpJcMDMZEBCNeRtWXfG8JpeZrhRMXwG3QKfDQnHTP1SAB6MYXh9p4Gum5GfwcZv2Sv9q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45340 	- BEAUNE LA ROLANDE](https://docs.stopcoronavirus.tech/#/r/markdown/45340_beaune-la-rolande/4XTTM4znkkMKSjxyrDZj6W9FoYL9E73fBf2BXQukPnGqUSmJj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45340 	- BEAUNE LA ROLANDE](https://docs.stopcoronavirus.tech/#/w/markdown/45340_beaune-la-rolande/4XTTM4znkkMKSjxyrDZj6W9FoYL9E73fBf2BXQukPnGqUSmJj-K3TgV2MbQfq3Q2E3DRw5YcjfRTTQNSKUeQKM5iiDZfVfnJm6P6BuqT6Qe5SSpjHWkiHwbpJcMDMZEBCNeRtWXfG8JpeZrhRMXwG3QKfDQnHTP1SAB6MYXh9p4Gum5GfwcZv2Sv9q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

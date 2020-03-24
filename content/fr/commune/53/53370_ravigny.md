@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53370 	- RAVIGNY](https://docs.stopcoronavirus.tech/r/markdown/53370_ravigny/4XTTMGdYstqVpV1wMnLFojSRWZVfMhYFFSKBHXhxCyWE9y1Sj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53370 	- RAVIGNY](https://docs.stopcoronavirus.tech/w/markdown/53370_ravigny/4XTTMGdYstqVpV1wMnLFojSRWZVfMhYFFSKBHXhxCyWE9y1Sj-K3TgU5jdAt97np7rHwQWF4SkTvw4QqRMbQxfj1JisMY735SKN4hU5BiB7Kn1S7TH7qc2M81BjTpq21F5ReohtTjoRfmAbXiYcXouFKsZomXdnF2ZnU9bh4ue6j7uScZUHxTUTZKZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53370 	- RAVIGNY](https://docs.stopcoronavirus.tech/#/r/markdown/53370_ravigny/4XTTMGdYstqVpV1wMnLFojSRWZVfMhYFFSKBHXhxCyWE9y1Sj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53370 	- RAVIGNY](https://docs.stopcoronavirus.tech/#/w/markdown/53370_ravigny/4XTTMGdYstqVpV1wMnLFojSRWZVfMhYFFSKBHXhxCyWE9y1Sj-K3TgU5jdAt97np7rHwQWF4SkTvw4QqRMbQxfj1JisMY735SKN4hU5BiB7Kn1S7TH7qc2M81BjTpq21F5ReohtTjoRfmAbXiYcXouFKsZomXdnF2ZnU9bh4ue6j7uScZUHxTUTZKZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

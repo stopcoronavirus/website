@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88370 	- PLOMBIERES LES BAINS](https://docs.stopcoronavirus.tech/r/markdown/88370_plombieres-les-bains/4XTTMGrNhESLHDjjjReJkjrQ1VTr6Hwapj9aWmyoEVSz2sMzX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88370 	- PLOMBIERES LES BAINS](https://docs.stopcoronavirus.tech/w/markdown/88370_plombieres-les-bains/4XTTMGrNhESLHDjjjReJkjrQ1VTr6Hwapj9aWmyoEVSz2sMzX-K3TgTq6GYmdCxfKVi2V5rospWyqh6GwPWHavgT24cwUfFEUCEEDWc1cuTJpSWxuDeFQwyRec3MittRzyHtgzyTTrzJVPBuYYRu9XeGkzoLLpRDBebg4bRgLGSumAPK5RF83mvTbu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88370 	- PLOMBIERES LES BAINS](https://docs.stopcoronavirus.tech/#/r/markdown/88370_plombieres-les-bains/4XTTMGrNhESLHDjjjReJkjrQ1VTr6Hwapj9aWmyoEVSz2sMzX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88370 	- PLOMBIERES LES BAINS](https://docs.stopcoronavirus.tech/#/w/markdown/88370_plombieres-les-bains/4XTTMGrNhESLHDjjjReJkjrQ1VTr6Hwapj9aWmyoEVSz2sMzX-K3TgTq6GYmdCxfKVi2V5rospWyqh6GwPWHavgT24cwUfFEUCEEDWc1cuTJpSWxuDeFQwyRec3MittRzyHtgzyTTrzJVPBuYYRu9XeGkzoLLpRDBebg4bRgLGSumAPK5RF83mvTbu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

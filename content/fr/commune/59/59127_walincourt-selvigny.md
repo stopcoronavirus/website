@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59127 	- WALINCOURT SELVIGNY](https://docs.stopcoronavirus.tech/r/markdown/59127_walincourt-selvigny/4XTTM7LGvxynURkaqNKDb1P7ywMaVT9m1H63ZAAYMHnEsR6wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59127 	- WALINCOURT SELVIGNY](https://docs.stopcoronavirus.tech/w/markdown/59127_walincourt-selvigny/4XTTM7LGvxynURkaqNKDb1P7ywMaVT9m1H63ZAAYMHnEsR6wn-K3TgU5H6DCqc154CY9xAs96qB1PPf4YGwXbB3Lv6P5HZaqJGR8pYoqKonN3BUc98EvXyjzU2XqhEyF8rDj8Pqihh488CTxF6fY8iBfm5aAdzSz53rKW3hsjra6DXdnTv5ba5MAMJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59127 	- WALINCOURT SELVIGNY](https://docs.stopcoronavirus.tech/#/r/markdown/59127_walincourt-selvigny/4XTTM7LGvxynURkaqNKDb1P7ywMaVT9m1H63ZAAYMHnEsR6wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59127 	- WALINCOURT SELVIGNY](https://docs.stopcoronavirus.tech/#/w/markdown/59127_walincourt-selvigny/4XTTM7LGvxynURkaqNKDb1P7ywMaVT9m1H63ZAAYMHnEsR6wn-K3TgU5H6DCqc154CY9xAs96qB1PPf4YGwXbB3Lv6P5HZaqJGR8pYoqKonN3BUc98EvXyjzU2XqhEyF8rDj8Pqihh488CTxF6fY8iBfm5aAdzSz53rKW3hsjra6DXdnTv5ba5MAMJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

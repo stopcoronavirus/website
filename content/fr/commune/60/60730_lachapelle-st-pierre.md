@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60730 	- LACHAPELLE ST PIERRE](https://docs.stopcoronavirus.tech/r/markdown/60730_lachapelle-st-pierre/4XTTM8pRUqRzPEeQJZbvwRH8YkVDKyigvKDdUyri3SS8rnmuX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60730 	- LACHAPELLE ST PIERRE](https://docs.stopcoronavirus.tech/w/markdown/60730_lachapelle-st-pierre/4XTTM8pRUqRzPEeQJZbvwRH8YkVDKyigvKDdUyri3SS8rnmuX-K3TgV6962v8dvpK2ZZv2m9j8xn1czMY9etcSFdfgGY32rpPAdfU18inHTak6nbfJGUwkYrKW1tzv6bpvSDHUkzeEYrEvNct3vSsBdgXYxMXFbgmUa7YME8GGEuodxZGAsYpAcJpV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60730 	- LACHAPELLE ST PIERRE](https://docs.stopcoronavirus.tech/#/r/markdown/60730_lachapelle-st-pierre/4XTTM8pRUqRzPEeQJZbvwRH8YkVDKyigvKDdUyri3SS8rnmuX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60730 	- LACHAPELLE ST PIERRE](https://docs.stopcoronavirus.tech/#/w/markdown/60730_lachapelle-st-pierre/4XTTM8pRUqRzPEeQJZbvwRH8YkVDKyigvKDdUyri3SS8rnmuX-K3TgV6962v8dvpK2ZZv2m9j8xn1czMY9etcSFdfgGY32rpPAdfU18inHTak6nbfJGUwkYrKW1tzv6bpvSDHUkzeEYrEvNct3vSsBdgXYxMXFbgmUa7YME8GGEuodxZGAsYpAcJpV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

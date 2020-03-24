@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69890 	- LA TOUR DE SALVAGNY](https://docs.stopcoronavirus.tech/r/markdown/69890_la-tour-de-salvagny/4XTTM6bB8LYNYFAtVeg4r1a1nmfuEHy7ZHScomAYK1HhUdcDD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69890 	- LA TOUR DE SALVAGNY](https://docs.stopcoronavirus.tech/w/markdown/69890_la-tour-de-salvagny/4XTTM6bB8LYNYFAtVeg4r1a1nmfuEHy7ZHScomAYK1HhUdcDD-K3TgTppQgJCLezVmC6eh5iDTP69JmcMV4Q3UWot93r8TE1DquVEecm3nsY4qT5yUHQqsQUTcGbAYmjy4ZrXVSFV93WHvEv5svfKnUg33m2UfYwDBkS4Tv5s1FopUgAU3kD8XpNE3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69890 	- LA TOUR DE SALVAGNY](https://docs.stopcoronavirus.tech/#/r/markdown/69890_la-tour-de-salvagny/4XTTM6bB8LYNYFAtVeg4r1a1nmfuEHy7ZHScomAYK1HhUdcDD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69890 	- LA TOUR DE SALVAGNY](https://docs.stopcoronavirus.tech/#/w/markdown/69890_la-tour-de-salvagny/4XTTM6bB8LYNYFAtVeg4r1a1nmfuEHy7ZHScomAYK1HhUdcDD-K3TgTppQgJCLezVmC6eh5iDTP69JmcMV4Q3UWot93r8TE1DquVEecm3nsY4qT5yUHQqsQUTcGbAYmjy4ZrXVSFV93WHvEv5svfKnUg33m2UfYwDBkS4Tv5s1FopUgAU3kD8XpNE3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

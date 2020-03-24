@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18300 	- CREZANCY EN SANCERRE](https://docs.stopcoronavirus.tech/r/markdown/18300_crezancy-en-sancerre/4XTTM2oTMXLXJ5jLRUE8KKc95miDqL8ZKZVumMYN17k2bzs5j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18300 	- CREZANCY EN SANCERRE](https://docs.stopcoronavirus.tech/w/markdown/18300_crezancy-en-sancerre/4XTTM2oTMXLXJ5jLRUE8KKc95miDqL8ZKZVumMYN17k2bzs5j-K3TgV4nbxpv37EA1GYo4wuXmjKiFywc2zjCfxeeJGSnnwMTc8Vq33dJct1vrMZBzQEmmFGjtpAproWL63uD7GaWUdafBBsS2rrBbknN4PunXtZoHXavwB1gA2CX32deaw67vCxWm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18300 	- CREZANCY EN SANCERRE](https://docs.stopcoronavirus.tech/#/r/markdown/18300_crezancy-en-sancerre/4XTTM2oTMXLXJ5jLRUE8KKc95miDqL8ZKZVumMYN17k2bzs5j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18300 	- CREZANCY EN SANCERRE](https://docs.stopcoronavirus.tech/#/w/markdown/18300_crezancy-en-sancerre/4XTTM2oTMXLXJ5jLRUE8KKc95miDqL8ZKZVumMYN17k2bzs5j-K3TgV4nbxpv37EA1GYo4wuXmjKiFywc2zjCfxeeJGSnnwMTc8Vq33dJct1vrMZBzQEmmFGjtpAproWL63uD7GaWUdafBBsS2rrBbknN4PunXtZoHXavwB1gA2CX32deaw67vCxWm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

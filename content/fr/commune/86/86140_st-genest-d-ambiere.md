@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86140 	- ST GENEST D AMBIERE](https://docs.stopcoronavirus.tech/r/markdown/86140_st-genest-d-ambiere/4XTTMDzUUpAhuQ7kfgfph6sgyTw1EbpbrcxaH9zqPik2eQS5u) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86140 	- ST GENEST D AMBIERE](https://docs.stopcoronavirus.tech/w/markdown/86140_st-genest-d-ambiere/4XTTMDzUUpAhuQ7kfgfph6sgyTw1EbpbrcxaH9zqPik2eQS5u-K3TgUAYKh6rBFgXrZFBAmjD3wK6xkH9KqBexERdk9zBtqHpGhrRAuaZP7vYaDEfQmP4ZmT6nnjszW1kNy3X8T2rMWFZnMfdPXE8vT1t48bJpgZjkFnvCFPF32RhPhoRopQvjCNto) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86140 	- ST GENEST D AMBIERE](https://docs.stopcoronavirus.tech/#/r/markdown/86140_st-genest-d-ambiere/4XTTMDzUUpAhuQ7kfgfph6sgyTw1EbpbrcxaH9zqPik2eQS5u) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86140 	- ST GENEST D AMBIERE](https://docs.stopcoronavirus.tech/#/w/markdown/86140_st-genest-d-ambiere/4XTTMDzUUpAhuQ7kfgfph6sgyTw1EbpbrcxaH9zqPik2eQS5u-K3TgUAYKh6rBFgXrZFBAmjD3wK6xkH9KqBexERdk9zBtqHpGhrRAuaZP7vYaDEfQmP4ZmT6nnjszW1kNy3X8T2rMWFZnMfdPXE8vT1t48bJpgZjkFnvCFPF32RhPhoRopQvjCNto) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

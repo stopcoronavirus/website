@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 73100 	- GRESY SUR AIX](https://docs.stopcoronavirus.tech/r/markdown/73100_gresy-sur-aix/4XTTMG5b91E6GT9bhysddBrR6aJYcdH31qVVgvpuzH5eoFouW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73100 	- GRESY SUR AIX](https://docs.stopcoronavirus.tech/w/markdown/73100_gresy-sur-aix/4XTTMG5b91E6GT9bhysddBrR6aJYcdH31qVVgvpuzH5eoFouW-K3TgUMPKGhGEiuYsQjZmSdyS4Q6CwoH9pWpakQed1Q2KkxS5rYxhwoxF5LfHYowsJK1rKLC2pco1wfgtxz9kS2jiVdDVqhHYSbfKzgLcqGuW9bbpQAj9hF7a3DuhapUfsXqaSWzQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73100 	- GRESY SUR AIX](https://docs.stopcoronavirus.tech/#/r/markdown/73100_gresy-sur-aix/4XTTMG5b91E6GT9bhysddBrR6aJYcdH31qVVgvpuzH5eoFouW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73100 	- GRESY SUR AIX](https://docs.stopcoronavirus.tech/#/w/markdown/73100_gresy-sur-aix/4XTTMG5b91E6GT9bhysddBrR6aJYcdH31qVVgvpuzH5eoFouW-K3TgUMPKGhGEiuYsQjZmSdyS4Q6CwoH9pWpakQed1Q2KkxS5rYxhwoxF5LfHYowsJK1rKLC2pco1wfgtxz9kS2jiVdDVqhHYSbfKzgLcqGuW9bbpQAj9hF7a3DuhapUfsXqaSWzQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

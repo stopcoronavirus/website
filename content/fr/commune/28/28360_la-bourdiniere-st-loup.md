@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28360 	- LA BOURDINIERE ST LOUP](https://docs.stopcoronavirus.tech/r/markdown/28360_la-bourdiniere-st-loup/4XTTMBd2kdx736SrrvvB4AbMfqLPetV5hDAEhTzV8dReQuLtE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28360 	- LA BOURDINIERE ST LOUP](https://docs.stopcoronavirus.tech/w/markdown/28360_la-bourdiniere-st-loup/4XTTMBd2kdx736SrrvvB4AbMfqLPetV5hDAEhTzV8dReQuLtE-K3TgUFtqQJC6tRo2SGWZCuq2LWUmnnequRzEbRbc917z8TEtRUr8x2egXFSKhVrKPJxhWunTbH8ZDrK7751SrLfoCpxMg8cUdC7DUywEPN31ZdrPfqTmkcr5FJgfPMmd4BJQi8C6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28360 	- LA BOURDINIERE ST LOUP](https://docs.stopcoronavirus.tech/#/r/markdown/28360_la-bourdiniere-st-loup/4XTTMBd2kdx736SrrvvB4AbMfqLPetV5hDAEhTzV8dReQuLtE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28360 	- LA BOURDINIERE ST LOUP](https://docs.stopcoronavirus.tech/#/w/markdown/28360_la-bourdiniere-st-loup/4XTTMBd2kdx736SrrvvB4AbMfqLPetV5hDAEhTzV8dReQuLtE-K3TgUFtqQJC6tRo2SGWZCuq2LWUmnnequRzEbRbc917z8TEtRUr8x2egXFSKhVrKPJxhWunTbH8ZDrK7751SrLfoCpxMg8cUdC7DUywEPN31ZdrPfqTmkcr5FJgfPMmd4BJQi8C6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

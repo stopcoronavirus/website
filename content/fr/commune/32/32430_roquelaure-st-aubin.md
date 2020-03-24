@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32430 	- ROQUELAURE ST AUBIN](https://docs.stopcoronavirus.tech/r/markdown/32430_roquelaure-st-aubin/4XTTM9QNH57DN6nfgHaNq3nASMPXwwYfmjkQH5kMp5HgT8eqG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32430 	- ROQUELAURE ST AUBIN](https://docs.stopcoronavirus.tech/w/markdown/32430_roquelaure-st-aubin/4XTTM9QNH57DN6nfgHaNq3nASMPXwwYfmjkQH5kMp5HgT8eqG-K3TgUaRuHifTXK9G1WanMFxrYBfnJwC3zYE14w6Vr4xW19AXwA5QxpkVcdJkp6ZjkLUhrEEJXgVWDnejjNAr2WSgPuAFvEt6NB9knXepAXuDpb3iHWpyiAkxrdcSsEAWMRMuQDUN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32430 	- ROQUELAURE ST AUBIN](https://docs.stopcoronavirus.tech/#/r/markdown/32430_roquelaure-st-aubin/4XTTM9QNH57DN6nfgHaNq3nASMPXwwYfmjkQH5kMp5HgT8eqG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32430 	- ROQUELAURE ST AUBIN](https://docs.stopcoronavirus.tech/#/w/markdown/32430_roquelaure-st-aubin/4XTTM9QNH57DN6nfgHaNq3nASMPXwwYfmjkQH5kMp5HgT8eqG-K3TgUaRuHifTXK9G1WanMFxrYBfnJwC3zYE14w6Vr4xW19AXwA5QxpkVcdJkp6ZjkLUhrEEJXgVWDnejjNAr2WSgPuAFvEt6NB9knXepAXuDpb3iHWpyiAkxrdcSsEAWMRMuQDUN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

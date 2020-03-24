@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24800 	- ST MARTIN DE FRESSENGEAS](https://docs.stopcoronavirus.tech/r/markdown/24800_st-martin-de-fressengeas/4XTTM2yXm6FQS9r67ndsvShbz51KTV9R6X2P47DyRgRYL27kU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24800 	- ST MARTIN DE FRESSENGEAS](https://docs.stopcoronavirus.tech/w/markdown/24800_st-martin-de-fressengeas/4XTTM2yXm6FQS9r67ndsvShbz51KTV9R6X2P47DyRgRYL27kU-K3TgTgH7XzDueP3Sna4mCU75GSHhJbQvrBqvuL9PDdzS3NJJqkxG87G5kthut7cN3otxHzj5asZCtUn5Qt9Wn9TVm5BWSt46Nct33mWL4mqERmqRnWhuVUSXRGmKYJReMhTxRD8t) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24800 	- ST MARTIN DE FRESSENGEAS](https://docs.stopcoronavirus.tech/#/r/markdown/24800_st-martin-de-fressengeas/4XTTM2yXm6FQS9r67ndsvShbz51KTV9R6X2P47DyRgRYL27kU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24800 	- ST MARTIN DE FRESSENGEAS](https://docs.stopcoronavirus.tech/#/w/markdown/24800_st-martin-de-fressengeas/4XTTM2yXm6FQS9r67ndsvShbz51KTV9R6X2P47DyRgRYL27kU-K3TgTgH7XzDueP3Sna4mCU75GSHhJbQvrBqvuL9PDdzS3NJJqkxG87G5kthut7cN3otxHzj5asZCtUn5Qt9Wn9TVm5BWSt46Nct33mWL4mqERmqRnWhuVUSXRGmKYJReMhTxRD8t) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

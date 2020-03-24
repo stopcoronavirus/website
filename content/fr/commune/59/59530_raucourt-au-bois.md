@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59530 	- RAUCOURT AU BOIS](https://docs.stopcoronavirus.tech/r/markdown/59530_raucourt-au-bois/4XTTMDTiH2Na27rPrSk6k2W6MouKyDsNdzH5B883XeiRERPnn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59530 	- RAUCOURT AU BOIS](https://docs.stopcoronavirus.tech/w/markdown/59530_raucourt-au-bois/4XTTMDTiH2Na27rPrSk6k2W6MouKyDsNdzH5B883XeiRERPnn-K3TgTmkW3CuThNQ5fJgWHZGk5FH6MaQBvsePfkNN5JGJEK98H8RM1xFmu1C5mrMc3QJ5uFSkuT1eocMNAAF9JtddDHWvk1drNYnxGF8AHA2F9p5FT6GGimTEyrusGZqQgMAYkTFk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59530 	- RAUCOURT AU BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/59530_raucourt-au-bois/4XTTMDTiH2Na27rPrSk6k2W6MouKyDsNdzH5B883XeiRERPnn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59530 	- RAUCOURT AU BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/59530_raucourt-au-bois/4XTTMDTiH2Na27rPrSk6k2W6MouKyDsNdzH5B883XeiRERPnn-K3TgTmkW3CuThNQ5fJgWHZGk5FH6MaQBvsePfkNN5JGJEK98H8RM1xFmu1C5mrMc3QJ5uFSkuT1eocMNAAF9JtddDHWvk1drNYnxGF8AHA2F9p5FT6GGimTEyrusGZqQgMAYkTFk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50530 	- BACILLY](https://docs.stopcoronavirus.tech/r/markdown/50530_bacilly/4XTTM8eXBrHWHFdFA5prkdrdysh2NQdRH4BtPDcPZ3htQSSge) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50530 	- BACILLY](https://docs.stopcoronavirus.tech/w/markdown/50530_bacilly/4XTTM8eXBrHWHFdFA5prkdrdysh2NQdRH4BtPDcPZ3htQSSge-K3TgUk3XQ4Wqhw7LZ3HYiBnn2CaZHKyeg1KY8boSEUTWCGLG442jz1WM4hAh2Q7wVnnnbhLbgvC2RSxh3SbMyKz2JB8hadLkKzQxz4rPUxDWKGR3TU6astrV1uo6ze4b5xfsTeDU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50530 	- BACILLY](https://docs.stopcoronavirus.tech/#/r/markdown/50530_bacilly/4XTTM8eXBrHWHFdFA5prkdrdysh2NQdRH4BtPDcPZ3htQSSge) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50530 	- BACILLY](https://docs.stopcoronavirus.tech/#/w/markdown/50530_bacilly/4XTTM8eXBrHWHFdFA5prkdrdysh2NQdRH4BtPDcPZ3htQSSge-K3TgUk3XQ4Wqhw7LZ3HYiBnn2CaZHKyeg1KY8boSEUTWCGLG442jz1WM4hAh2Q7wVnnnbhLbgvC2RSxh3SbMyKz2JB8hadLkKzQxz4rPUxDWKGR3TU6astrV1uo6ze4b5xfsTeDU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

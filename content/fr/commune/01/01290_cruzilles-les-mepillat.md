@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 01290 	- CRUZILLES LES MEPILLAT](https://docs.stopcoronavirus.tech/r/markdown/01290_cruzilles-les-mepillat/4XTTMCJDbceMAziyAxrKb7Fwzt6ZzLfB21QkezmCSLda7q9Hg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01290 	- CRUZILLES LES MEPILLAT](https://docs.stopcoronavirus.tech/w/markdown/01290_cruzilles-les-mepillat/4XTTMCJDbceMAziyAxrKb7Fwzt6ZzLfB21QkezmCSLda7q9Hg-K3TgTm3ectvz2bcVYbJc45ywsxG9DXfNDSEk3wiCUv6Qpq58YsMJG2HTUXTCMMMHZEkXS4tpQMYTxWsmhST3wo8oSPiV1Udpj8Fa5zdj91gQCbcS5UvPizi4UyXSPU2LpFMRtuot) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01290 	- CRUZILLES LES MEPILLAT](https://docs.stopcoronavirus.tech/#/r/markdown/01290_cruzilles-les-mepillat/4XTTMCJDbceMAziyAxrKb7Fwzt6ZzLfB21QkezmCSLda7q9Hg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01290 	- CRUZILLES LES MEPILLAT](https://docs.stopcoronavirus.tech/#/w/markdown/01290_cruzilles-les-mepillat/4XTTMCJDbceMAziyAxrKb7Fwzt6ZzLfB21QkezmCSLda7q9Hg-K3TgTm3ectvz2bcVYbJc45ywsxG9DXfNDSEk3wiCUv6Qpq58YsMJG2HTUXTCMMMHZEkXS4tpQMYTxWsmhST3wo8oSPiV1Udpj8Fa5zdj91gQCbcS5UvPizi4UyXSPU2LpFMRtuot) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 01 	- Ain](https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 01 	- Ain](https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

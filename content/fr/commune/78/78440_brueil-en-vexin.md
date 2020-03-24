@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 78440 	- BRUEIL EN VEXIN](https://docs.stopcoronavirus.tech/r/markdown/78440_brueil-en-vexin/4XTTM3YbGjEzkjCw99yEr9pZru5GHRzKKfks6CiiCKMgY3AT1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78440 	- BRUEIL EN VEXIN](https://docs.stopcoronavirus.tech/w/markdown/78440_brueil-en-vexin/4XTTM3YbGjEzkjCw99yEr9pZru5GHRzKKfks6CiiCKMgY3AT1-K3TgV5U5DwS8d2AFa7uERPapn7FDWzT8DZrd7uSE8ZswqXZopLeSM7VzLcVHeQ3G6acndSzpT6xsEyTCFr6ZqYotFxZHqjsYGPfgjHqMDgySkRjUzLbek7didy75Wa2pEo7E2MAw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78440 	- BRUEIL EN VEXIN](https://docs.stopcoronavirus.tech/#/r/markdown/78440_brueil-en-vexin/4XTTM3YbGjEzkjCw99yEr9pZru5GHRzKKfks6CiiCKMgY3AT1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78440 	- BRUEIL EN VEXIN](https://docs.stopcoronavirus.tech/#/w/markdown/78440_brueil-en-vexin/4XTTM3YbGjEzkjCw99yEr9pZru5GHRzKKfks6CiiCKMgY3AT1-K3TgV5U5DwS8d2AFa7uERPapn7FDWzT8DZrd7uSE8ZswqXZopLeSM7VzLcVHeQ3G6acndSzpT6xsEyTCFr6ZqYotFxZHqjsYGPfgjHqMDgySkRjUzLbek7didy75Wa2pEo7E2MAw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 40410 	- SAUGNACQ ET MURET](https://docs.stopcoronavirus.tech/r/markdown/40410_saugnacq-et-muret/4XTTMCeF5q7thFNV9HJnuX9G9aspBW3yJrpm4Rujd6xgbVtLz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40410 	- SAUGNACQ ET MURET](https://docs.stopcoronavirus.tech/w/markdown/40410_saugnacq-et-muret/4XTTMCeF5q7thFNV9HJnuX9G9aspBW3yJrpm4Rujd6xgbVtLz-K3TgU7u68CG4GL4F9ohToNEg6ih4GxxvoSNzJPKfj7cJvaBvyYL4R6oUS8Tef8tScE9AqvNauhsrB3T27ut9TZao1SwcvArkGCrbCfeqtfyr1y97r5ppK7TeWptMTbE5zBCDtEwk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 40410 	- SAUGNACQ ET MURET](https://docs.stopcoronavirus.tech/#/r/markdown/40410_saugnacq-et-muret/4XTTMCeF5q7thFNV9HJnuX9G9aspBW3yJrpm4Rujd6xgbVtLz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 40410 	- SAUGNACQ ET MURET](https://docs.stopcoronavirus.tech/#/w/markdown/40410_saugnacq-et-muret/4XTTMCeF5q7thFNV9HJnuX9G9aspBW3yJrpm4Rujd6xgbVtLz-K3TgU7u68CG4GL4F9ohToNEg6ih4GxxvoSNzJPKfj7cJvaBvyYL4R6oUS8Tef8tScE9AqvNauhsrB3T27ut9TZao1SwcvArkGCrbCfeqtfyr1y97r5ppK7TeWptMTbE5zBCDtEwk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 40 	- Landes](https://docs.stopcoronavirus.tech/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40 	- Landes](https://docs.stopcoronavirus.tech/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 40 	- Landes](https://docs.stopcoronavirus.tech/#/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 40 	- Landes](https://docs.stopcoronavirus.tech/#/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

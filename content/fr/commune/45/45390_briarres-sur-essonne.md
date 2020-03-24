@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 45390 	- BRIARRES SUR ESSONNE](https://docs.stopcoronavirus.tech/r/markdown/45390_briarres-sur-essonne/4XTTM5ZrR6yAVKpSQBKaa4Q9P3jegJxkeXA636S3CLnukZxw3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45390 	- BRIARRES SUR ESSONNE](https://docs.stopcoronavirus.tech/w/markdown/45390_briarres-sur-essonne/4XTTM5ZrR6yAVKpSQBKaa4Q9P3jegJxkeXA636S3CLnukZxw3-K3TgUuPGMMhLmMqsMqYZ1MwMjiayvU9pdNtGTrrBqqkpMgG2nZQvgJDCPe9HqUtyU6khr1Z2cAQm3ubViGS9sJGtfwfR42CNagTzzYgKQNKjvo8UrzaERHWDuGmm8maF5LgXqfYD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45390 	- BRIARRES SUR ESSONNE](https://docs.stopcoronavirus.tech/#/r/markdown/45390_briarres-sur-essonne/4XTTM5ZrR6yAVKpSQBKaa4Q9P3jegJxkeXA636S3CLnukZxw3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45390 	- BRIARRES SUR ESSONNE](https://docs.stopcoronavirus.tech/#/w/markdown/45390_briarres-sur-essonne/4XTTM5ZrR6yAVKpSQBKaa4Q9P3jegJxkeXA636S3CLnukZxw3-K3TgUuPGMMhLmMqsMqYZ1MwMjiayvU9pdNtGTrrBqqkpMgG2nZQvgJDCPe9HqUtyU6khr1Z2cAQm3ubViGS9sJGtfwfR42CNagTzzYgKQNKjvo8UrzaERHWDuGmm8maF5LgXqfYD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

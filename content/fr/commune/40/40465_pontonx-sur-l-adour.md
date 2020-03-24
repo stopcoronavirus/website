@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 40465 	- PONTONX SUR L ADOUR](https://docs.stopcoronavirus.tech/r/markdown/40465_pontonx-sur-l-adour/4XTTMFKxxrU3bHyRrrhTypDeHNtAUH4GHGNoQHDvQdmnVVgvt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40465 	- PONTONX SUR L ADOUR](https://docs.stopcoronavirus.tech/w/markdown/40465_pontonx-sur-l-adour/4XTTMFKxxrU3bHyRrrhTypDeHNtAUH4GHGNoQHDvQdmnVVgvt-K3TgU5FhCG7W68v83kgYENuVxtmM2z4dGkC34y5VqTo9tpwSbA9GT9nGFDH6X8xyZuJ4SyP1jQpZdo49jvwbsotYyYg3c2YxoBGvuTtPWE79QCm9pQhzZwVMCzpPgxgWgn6KfVYC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 40465 	- PONTONX SUR L ADOUR](https://docs.stopcoronavirus.tech/#/r/markdown/40465_pontonx-sur-l-adour/4XTTMFKxxrU3bHyRrrhTypDeHNtAUH4GHGNoQHDvQdmnVVgvt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 40465 	- PONTONX SUR L ADOUR](https://docs.stopcoronavirus.tech/#/w/markdown/40465_pontonx-sur-l-adour/4XTTMFKxxrU3bHyRrrhTypDeHNtAUH4GHGNoQHDvQdmnVVgvt-K3TgU5FhCG7W68v83kgYENuVxtmM2z4dGkC34y5VqTo9tpwSbA9GT9nGFDH6X8xyZuJ4SyP1jQpZdo49jvwbsotYyYg3c2YxoBGvuTtPWE79QCm9pQhzZwVMCzpPgxgWgn6KfVYC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 40 	- Landes](https://docs.stopcoronavirus.tech/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40 	- Landes](https://docs.stopcoronavirus.tech/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 40 	- Landes](https://docs.stopcoronavirus.tech/#/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 40 	- Landes](https://docs.stopcoronavirus.tech/#/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

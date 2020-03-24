@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97340 	- GRAND SANTI](https://docs.stopcoronavirus.tech/r/markdown/97340_grand-santi/4XTTM8TX6Hm1aDznZG6XYdbQjFcxZwQpBA4yxSZxyDTqsPrGf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97340 	- GRAND SANTI](https://docs.stopcoronavirus.tech/w/markdown/97340_grand-santi/4XTTM8TX6Hm1aDznZG6XYdbQjFcxZwQpBA4yxSZxyDTqsPrGf-K3TgURNPiNCT3LK17VzFLAThr93uL2oYdseacAJF8N49GpDMhpnTGdQSeVhdJxhSMFHmxiYCJFxwTQ8Vihabcu5WkRLQKR4utyqpB8SyULdMzpSsfN2kFqhW1p63BGiyqa7DVab9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 97340 	- GRAND SANTI](https://docs.stopcoronavirus.tech/#/r/markdown/97340_grand-santi/4XTTM8TX6Hm1aDznZG6XYdbQjFcxZwQpBA4yxSZxyDTqsPrGf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 97340 	- GRAND SANTI](https://docs.stopcoronavirus.tech/#/w/markdown/97340_grand-santi/4XTTM8TX6Hm1aDznZG6XYdbQjFcxZwQpBA4yxSZxyDTqsPrGf-K3TgURNPiNCT3LK17VzFLAThr93uL2oYdseacAJF8N49GpDMhpnTGdQSeVhdJxhSMFHmxiYCJFxwTQ8Vihabcu5WkRLQKR4utyqpB8SyULdMzpSsfN2kFqhW1p63BGiyqa7DVab9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 973 	- Guyane](https://docs.stopcoronavirus.tech/r/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 973 	- Guyane](https://docs.stopcoronavirus.tech/w/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc-K3TgTgNFrGYQL7RzdiUs2G5kz5wznH8a7V3hvZcSXNRKvSbg2tsbecC3Je5R7hpbbDk7dogAkEsJV5SFg7UEJUHx8Fogpcmn5vubMjKA1FgiKo3tE8H7NRgUs3M6tfhzyxkWCUs8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 973 	- Guyane](https://docs.stopcoronavirus.tech/#/r/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 973 	- Guyane](https://docs.stopcoronavirus.tech/#/w/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc-K3TgTgNFrGYQL7RzdiUs2G5kz5wznH8a7V3hvZcSXNRKvSbg2tsbecC3Je5R7hpbbDk7dogAkEsJV5SFg7UEJUHx8Fogpcmn5vubMjKA1FgiKo3tE8H7NRgUs3M6tfhzyxkWCUs8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

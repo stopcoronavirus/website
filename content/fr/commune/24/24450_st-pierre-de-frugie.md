@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24450 	- ST PIERRE DE FRUGIE](https://docs.stopcoronavirus.tech/r/markdown/24450_st-pierre-de-frugie/4XTTMEXSRTrFAtw8eBnLp4jmMPoSg6omApUpNTXg3uGbXYQ3r) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24450 	- ST PIERRE DE FRUGIE](https://docs.stopcoronavirus.tech/w/markdown/24450_st-pierre-de-frugie/4XTTMEXSRTrFAtw8eBnLp4jmMPoSg6omApUpNTXg3uGbXYQ3r-K3TgTcn1TSqAeH1caYu3RWrSAMpdfomwb1P2VfArmchKcTpGe7EGYXGcVBNZFGoerGpGcFVSVdjTAxyT3LE6NBPzL5AdKi2gzL8zD2h9B9FssMMp1fbUcXR6yv74MeABV2jynbyS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24450 	- ST PIERRE DE FRUGIE](https://docs.stopcoronavirus.tech/#/r/markdown/24450_st-pierre-de-frugie/4XTTMEXSRTrFAtw8eBnLp4jmMPoSg6omApUpNTXg3uGbXYQ3r) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24450 	- ST PIERRE DE FRUGIE](https://docs.stopcoronavirus.tech/#/w/markdown/24450_st-pierre-de-frugie/4XTTMEXSRTrFAtw8eBnLp4jmMPoSg6omApUpNTXg3uGbXYQ3r-K3TgTcn1TSqAeH1caYu3RWrSAMpdfomwb1P2VfArmchKcTpGe7EGYXGcVBNZFGoerGpGcFVSVdjTAxyT3LE6NBPzL5AdKi2gzL8zD2h9B9FssMMp1fbUcXR6yv74MeABV2jynbyS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

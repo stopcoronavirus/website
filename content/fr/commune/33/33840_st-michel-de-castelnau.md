@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33840 	- ST MICHEL DE CASTELNAU](https://docs.stopcoronavirus.tech/r/markdown/33840_st-michel-de-castelnau/4XTTM3wDGQNxgLar7YWM4TKZigR5FbdQr291vcWm6XKtVBTXH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33840 	- ST MICHEL DE CASTELNAU](https://docs.stopcoronavirus.tech/w/markdown/33840_st-michel-de-castelnau/4XTTM3wDGQNxgLar7YWM4TKZigR5FbdQr291vcWm6XKtVBTXH-K3TgUtqDszscHKUgMoxzv4cgtX3JUUNdNppWdHwb3E5TxHsX7jNE2TpczokYv6r2msJEz8AyYJfDxJahqXdGe4sVZTXTS45UvQoxHs7GxiXFfooAhrXGKkDchA2NvKXzKXTzqJJf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33840 	- ST MICHEL DE CASTELNAU](https://docs.stopcoronavirus.tech/#/r/markdown/33840_st-michel-de-castelnau/4XTTM3wDGQNxgLar7YWM4TKZigR5FbdQr291vcWm6XKtVBTXH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33840 	- ST MICHEL DE CASTELNAU](https://docs.stopcoronavirus.tech/#/w/markdown/33840_st-michel-de-castelnau/4XTTM3wDGQNxgLar7YWM4TKZigR5FbdQr291vcWm6XKtVBTXH-K3TgUtqDszscHKUgMoxzv4cgtX3JUUNdNppWdHwb3E5TxHsX7jNE2TpczokYv6r2msJEz8AyYJfDxJahqXdGe4sVZTXTS45UvQoxHs7GxiXFfooAhrXGKkDchA2NvKXzKXTzqJJf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

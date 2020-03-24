@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 64410 	- PIETS PLASENCE MOUSTROU](https://docs.stopcoronavirus.tech/r/markdown/64410_piets-plasence-moustrou/4XTTMDEDwmpsNLSc2bK6opA93PCB8ua4i1RUaqS7CRaMZyaHL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64410 	- PIETS PLASENCE MOUSTROU](https://docs.stopcoronavirus.tech/w/markdown/64410_piets-plasence-moustrou/4XTTMDEDwmpsNLSc2bK6opA93PCB8ua4i1RUaqS7CRaMZyaHL-K3TgTiou2oKoNcXDjcVffcP9ep5TS8X2zS5EbvsUV5PSk1FbPtZ6LwFJxxCFEUh3EAEde1fb1yhgShXt6TADBKTyfCpyu4qLYqeUetW2Jmr4QGem9S3HWSqQXTsjgcQHAWtrzDen) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64410 	- PIETS PLASENCE MOUSTROU](https://docs.stopcoronavirus.tech/#/r/markdown/64410_piets-plasence-moustrou/4XTTMDEDwmpsNLSc2bK6opA93PCB8ua4i1RUaqS7CRaMZyaHL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64410 	- PIETS PLASENCE MOUSTROU](https://docs.stopcoronavirus.tech/#/w/markdown/64410_piets-plasence-moustrou/4XTTMDEDwmpsNLSc2bK6opA93PCB8ua4i1RUaqS7CRaMZyaHL-K3TgTiou2oKoNcXDjcVffcP9ep5TS8X2zS5EbvsUV5PSk1FbPtZ6LwFJxxCFEUh3EAEde1fb1yhgShXt6TADBKTyfCpyu4qLYqeUetW2Jmr4QGem9S3HWSqQXTsjgcQHAWtrzDen) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

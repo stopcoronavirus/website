@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 45150 	- OUVROUER LES CHAMPS](https://docs.stopcoronavirus.tech/r/markdown/45150_ouvrouer-les-champs/4XTTMEEK8WQu7gx6UiLUACb2qUpRMjhDEYHrM6vJsmrpTeD9U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45150 	- OUVROUER LES CHAMPS](https://docs.stopcoronavirus.tech/w/markdown/45150_ouvrouer-les-champs/4XTTMEEK8WQu7gx6UiLUACb2qUpRMjhDEYHrM6vJsmrpTeD9U-K3TgV4L7pjeG7bpPWKNUPzhrpcTZAVd7i6WEpCi7qnkkSSVdErsoU4emP5yRwAcBqZt5aJzzKntZAF9AzLVnk8jSUVdP3ebN9DdwAwnFfbwr8C1SdQmJevXrzGmPJfc1LJjiav34) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45150 	- OUVROUER LES CHAMPS](https://docs.stopcoronavirus.tech/#/r/markdown/45150_ouvrouer-les-champs/4XTTMEEK8WQu7gx6UiLUACb2qUpRMjhDEYHrM6vJsmrpTeD9U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45150 	- OUVROUER LES CHAMPS](https://docs.stopcoronavirus.tech/#/w/markdown/45150_ouvrouer-les-champs/4XTTMEEK8WQu7gx6UiLUACb2qUpRMjhDEYHrM6vJsmrpTeD9U-K3TgV4L7pjeG7bpPWKNUPzhrpcTZAVd7i6WEpCi7qnkkSSVdErsoU4emP5yRwAcBqZt5aJzzKntZAF9AzLVnk8jSUVdP3ebN9DdwAwnFfbwr8C1SdQmJevXrzGmPJfc1LJjiav34) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

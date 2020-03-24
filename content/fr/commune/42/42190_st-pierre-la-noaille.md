@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42190 	- ST PIERRE LA NOAILLE](https://docs.stopcoronavirus.tech/r/markdown/42190_st-pierre-la-noaille/4XTTM8z9cjD3EnoCDS1Xi4KhLXDFViJeQypnWXLbFH4GGdyUQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42190 	- ST PIERRE LA NOAILLE](https://docs.stopcoronavirus.tech/w/markdown/42190_st-pierre-la-noaille/4XTTM8z9cjD3EnoCDS1Xi4KhLXDFViJeQypnWXLbFH4GGdyUQ-K3TgUTJM9HEim6Tw6kC5jvm3JhDvQ2b2qa7MovMKStrFrUJ5wfWViU1mYFw6cJeYY3HmgkM9euFYjqrwX7cT4C5pVvN6eX3c21TgJQbq4Ezxh4L5zaNKVf77r74y8h9hVwnmbcvg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42190 	- ST PIERRE LA NOAILLE](https://docs.stopcoronavirus.tech/#/r/markdown/42190_st-pierre-la-noaille/4XTTM8z9cjD3EnoCDS1Xi4KhLXDFViJeQypnWXLbFH4GGdyUQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42190 	- ST PIERRE LA NOAILLE](https://docs.stopcoronavirus.tech/#/w/markdown/42190_st-pierre-la-noaille/4XTTM8z9cjD3EnoCDS1Xi4KhLXDFViJeQypnWXLbFH4GGdyUQ-K3TgUTJM9HEim6Tw6kC5jvm3JhDvQ2b2qa7MovMKStrFrUJ5wfWViU1mYFw6cJeYY3HmgkM9euFYjqrwX7cT4C5pVvN6eX3c21TgJQbq4Ezxh4L5zaNKVf77r74y8h9hVwnmbcvg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

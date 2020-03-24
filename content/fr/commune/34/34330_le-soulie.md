@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 34330 	- LE SOULIE](https://docs.stopcoronavirus.tech/r/markdown/34330_le-soulie/4XTTMANFcEqnRCd88CzVS4WFx8dycDEREDHcJ7GftQ9afvmqG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34330 	- LE SOULIE](https://docs.stopcoronavirus.tech/w/markdown/34330_le-soulie/4XTTMANFcEqnRCd88CzVS4WFx8dycDEREDHcJ7GftQ9afvmqG-K3TgUZ4QruhrEne3ntH1qez1Lw1mQeatu2RALegXUnusgqYVCWDDub7S9iAWMabuEcFry6BLD7LDZf6xagV74W8wVQ8ZkoMQum3ZNDaiS6suax5KrjWpSgxoYLfHyTqpJJtSJfWe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34330 	- LE SOULIE](https://docs.stopcoronavirus.tech/#/r/markdown/34330_le-soulie/4XTTMANFcEqnRCd88CzVS4WFx8dycDEREDHcJ7GftQ9afvmqG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34330 	- LE SOULIE](https://docs.stopcoronavirus.tech/#/w/markdown/34330_le-soulie/4XTTMANFcEqnRCd88CzVS4WFx8dycDEREDHcJ7GftQ9afvmqG-K3TgUZ4QruhrEne3ntH1qez1Lw1mQeatu2RALegXUnusgqYVCWDDub7S9iAWMabuEcFry6BLD7LDZf6xagV74W8wVQ8ZkoMQum3ZNDaiS6suax5KrjWpSgxoYLfHyTqpJJtSJfWe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

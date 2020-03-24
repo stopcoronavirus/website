@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27520 	- ST LEGER DU GENNETEY](https://docs.stopcoronavirus.tech/r/markdown/27520_st-leger-du-gennetey/4XTTM2W6kSjGxqS1mPXuiKvniSxTaEW34ZrsrWNxgYx6jM9oU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27520 	- ST LEGER DU GENNETEY](https://docs.stopcoronavirus.tech/w/markdown/27520_st-leger-du-gennetey/4XTTM2W6kSjGxqS1mPXuiKvniSxTaEW34ZrsrWNxgYx6jM9oU-K3TgUbZKhLLZ3zrxxoxrXgQA8bQ4q6DXAPke5xjTCJuUcp48KmCcKxAu8j8sTQunjvcGRuHbLQErQLL5uXHXXw7haVBezt6FJjyGVjmXHKXzw6ZAMxZy4TL5ATiRDmu6e5suU5Je) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27520 	- ST LEGER DU GENNETEY](https://docs.stopcoronavirus.tech/#/r/markdown/27520_st-leger-du-gennetey/4XTTM2W6kSjGxqS1mPXuiKvniSxTaEW34ZrsrWNxgYx6jM9oU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27520 	- ST LEGER DU GENNETEY](https://docs.stopcoronavirus.tech/#/w/markdown/27520_st-leger-du-gennetey/4XTTM2W6kSjGxqS1mPXuiKvniSxTaEW34ZrsrWNxgYx6jM9oU-K3TgUbZKhLLZ3zrxxoxrXgQA8bQ4q6DXAPke5xjTCJuUcp48KmCcKxAu8j8sTQunjvcGRuHbLQErQLL5uXHXXw7haVBezt6FJjyGVjmXHKXzw6ZAMxZy4TL5ATiRDmu6e5suU5Je) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

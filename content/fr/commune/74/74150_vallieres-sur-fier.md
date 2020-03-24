@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 74150 	- VALLIERES SUR FIER](https://docs.stopcoronavirus.tech/r/markdown/74150_vallieres-sur-fier/4XTTM7n7LNv3XWhUWbHqqXEs9vwGDbG5DDxR4VdSzrj42Hg4K) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74150 	- VALLIERES SUR FIER](https://docs.stopcoronavirus.tech/w/markdown/74150_vallieres-sur-fier/4XTTM7n7LNv3XWhUWbHqqXEs9vwGDbG5DDxR4VdSzrj42Hg4K-K3TgUmB5arShQGJxZCu6y8HMVitTUEyrKNBqDK2Ez7PurN8tqknfmEuKoPvHqoE3wQUNJoLWFXwgE3TpPGSs7niHXZ6jHQ1BfP5tW1WHXSAJnEZEFjhdMtqiKTcdZ3M9So2AscyH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74150 	- VALLIERES SUR FIER](https://docs.stopcoronavirus.tech/#/r/markdown/74150_vallieres-sur-fier/4XTTM7n7LNv3XWhUWbHqqXEs9vwGDbG5DDxR4VdSzrj42Hg4K) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74150 	- VALLIERES SUR FIER](https://docs.stopcoronavirus.tech/#/w/markdown/74150_vallieres-sur-fier/4XTTM7n7LNv3XWhUWbHqqXEs9vwGDbG5DDxR4VdSzrj42Hg4K-K3TgUmB5arShQGJxZCu6y8HMVitTUEyrKNBqDK2Ez7PurN8tqknfmEuKoPvHqoE3wQUNJoLWFXwgE3TpPGSs7niHXZ6jHQ1BfP5tW1WHXSAJnEZEFjhdMtqiKTcdZ3M9So2AscyH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

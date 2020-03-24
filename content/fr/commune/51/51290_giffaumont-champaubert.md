@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51290 	- GIFFAUMONT CHAMPAUBERT](https://docs.stopcoronavirus.tech/r/markdown/51290_giffaumont-champaubert/4XTTMHeX3bU6zMixVwk9vnmJPkFMD5gZ5g1674ZXKP5ByY42w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51290 	- GIFFAUMONT CHAMPAUBERT](https://docs.stopcoronavirus.tech/w/markdown/51290_giffaumont-champaubert/4XTTMHeX3bU6zMixVwk9vnmJPkFMD5gZ5g1674ZXKP5ByY42w-K3TgV4v5FibvkM67qFL2StEzaaJL5A9fnsA6NwjfLxvZ6xBuMtisTa6iYnbb2QNEEBkMzH9kh2jPCsb48ag7Nojy7MZEkQTMMzJqx2zCEakkXxJHesPbg9chTBH8LnFi2HsQWDET) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51290 	- GIFFAUMONT CHAMPAUBERT](https://docs.stopcoronavirus.tech/#/r/markdown/51290_giffaumont-champaubert/4XTTMHeX3bU6zMixVwk9vnmJPkFMD5gZ5g1674ZXKP5ByY42w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51290 	- GIFFAUMONT CHAMPAUBERT](https://docs.stopcoronavirus.tech/#/w/markdown/51290_giffaumont-champaubert/4XTTMHeX3bU6zMixVwk9vnmJPkFMD5gZ5g1674ZXKP5ByY42w-K3TgV4v5FibvkM67qFL2StEzaaJL5A9fnsA6NwjfLxvZ6xBuMtisTa6iYnbb2QNEEBkMzH9kh2jPCsb48ag7Nojy7MZEkQTMMzJqx2zCEakkXxJHesPbg9chTBH8LnFi2HsQWDET) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

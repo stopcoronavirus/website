@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27580 	- GOURNAY LE GUERIN](https://docs.stopcoronavirus.tech/r/markdown/27580_gournay-le-guerin/4XTTMFtK9JXukHTymg9rnSFFtiwKuaUF66fXgUBbd1HMvLb6U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27580 	- GOURNAY LE GUERIN](https://docs.stopcoronavirus.tech/w/markdown/27580_gournay-le-guerin/4XTTMFtK9JXukHTymg9rnSFFtiwKuaUF66fXgUBbd1HMvLb6U-K3TgTwjLBSkiPkKtLvbcLYLoUucHfSX6pi472Htq3tMuBQe6S3aPbqdUZpSBudrB9rxQAGsu4oryjd5fAooEcQrAGjKaZ2XwcLsA2Dhn84xJL5VvUxVq7JH3ooXG5kwakrNmtCap) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27580 	- GOURNAY LE GUERIN](https://docs.stopcoronavirus.tech/#/r/markdown/27580_gournay-le-guerin/4XTTMFtK9JXukHTymg9rnSFFtiwKuaUF66fXgUBbd1HMvLb6U) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27580 	- GOURNAY LE GUERIN](https://docs.stopcoronavirus.tech/#/w/markdown/27580_gournay-le-guerin/4XTTMFtK9JXukHTymg9rnSFFtiwKuaUF66fXgUBbd1HMvLb6U-K3TgTwjLBSkiPkKtLvbcLYLoUucHfSX6pi472Htq3tMuBQe6S3aPbqdUZpSBudrB9rxQAGsu4oryjd5fAooEcQrAGjKaZ2XwcLsA2Dhn84xJL5VvUxVq7JH3ooXG5kwakrNmtCap) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

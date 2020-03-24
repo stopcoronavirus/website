@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86320 	- LUSSAC LES CHATEAUX](https://docs.stopcoronavirus.tech/r/markdown/86320_lussac-les-chateaux/4XTTMH7wa7TQU8v4R28N1xECYiNnDf62FFC5T6paai3HzqDes) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86320 	- LUSSAC LES CHATEAUX](https://docs.stopcoronavirus.tech/w/markdown/86320_lussac-les-chateaux/4XTTMH7wa7TQU8v4R28N1xECYiNnDf62FFC5T6paai3HzqDes-K3TgU6dxUyLwL1tYfSkasfULDNNvmVbDaTrbCnqS6wKJNbJZKU4XLn3LeYmWjdcCdNefDrHsf4R1wTZ5j4W8c6tQw1cALLefwFzMBEeTGqyAhiFCqDwBX5Uh7AugJ23JU6q87wCX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86320 	- LUSSAC LES CHATEAUX](https://docs.stopcoronavirus.tech/#/r/markdown/86320_lussac-les-chateaux/4XTTMH7wa7TQU8v4R28N1xECYiNnDf62FFC5T6paai3HzqDes) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86320 	- LUSSAC LES CHATEAUX](https://docs.stopcoronavirus.tech/#/w/markdown/86320_lussac-les-chateaux/4XTTMH7wa7TQU8v4R28N1xECYiNnDf62FFC5T6paai3HzqDes-K3TgU6dxUyLwL1tYfSkasfULDNNvmVbDaTrbCnqS6wKJNbJZKU4XLn3LeYmWjdcCdNefDrHsf4R1wTZ5j4W8c6tQw1cALLefwFzMBEeTGqyAhiFCqDwBX5Uh7AugJ23JU6q87wCX) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

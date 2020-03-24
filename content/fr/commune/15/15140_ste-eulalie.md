@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15140 	- STE EULALIE](https://docs.stopcoronavirus.tech/r/markdown/15140_ste-eulalie/4XTTM8je9P2Lvfdv8cfrsPqoJCrmHN6P1Gdc8hrxfi9N4TcK1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15140 	- STE EULALIE](https://docs.stopcoronavirus.tech/w/markdown/15140_ste-eulalie/4XTTM8je9P2Lvfdv8cfrsPqoJCrmHN6P1Gdc8hrxfi9N4TcK1-K3TgUB9uM4R3RJJCKFumZzeQBDCf2AqP4whJdmDGbML2yp9L3crXZ7uGqMS1JPcdXeRwdK27xcRJh9skupwQDRJsgpevnGbyxXACJfNJmgMN16t2xr56qJJXXsY7tt2frQJWw9af) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15140 	- STE EULALIE](https://docs.stopcoronavirus.tech/#/r/markdown/15140_ste-eulalie/4XTTM8je9P2Lvfdv8cfrsPqoJCrmHN6P1Gdc8hrxfi9N4TcK1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15140 	- STE EULALIE](https://docs.stopcoronavirus.tech/#/w/markdown/15140_ste-eulalie/4XTTM8je9P2Lvfdv8cfrsPqoJCrmHN6P1Gdc8hrxfi9N4TcK1-K3TgUB9uM4R3RJJCKFumZzeQBDCf2AqP4whJdmDGbML2yp9L3crXZ7uGqMS1JPcdXeRwdK27xcRJh9skupwQDRJsgpevnGbyxXACJfNJmgMN16t2xr56qJJXXsY7tt2frQJWw9af) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

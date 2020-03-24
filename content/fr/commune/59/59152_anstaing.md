@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59152 	- ANSTAING](https://docs.stopcoronavirus.tech/r/markdown/59152_anstaing/4XTTMGLKevdKfMjFVpwKRWJEFXb3S3W7DorEHrWHsuYif3sRW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59152 	- ANSTAING](https://docs.stopcoronavirus.tech/w/markdown/59152_anstaing/4XTTMGLKevdKfMjFVpwKRWJEFXb3S3W7DorEHrWHsuYif3sRW-K3TgUJhjyrrtXG5xkwHcuDxmC173ujeFMZzfDAx8tZ9pAgVfvT5xk6CYqoAiX8w6QtDzZmiAYuHxT2q5R61SaWUxX4UtR8fQhjmjhXzzLYvBh2GHLy3r9iTmG5R1EA4qG7Jzwhwi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59152 	- ANSTAING](https://docs.stopcoronavirus.tech/#/r/markdown/59152_anstaing/4XTTMGLKevdKfMjFVpwKRWJEFXb3S3W7DorEHrWHsuYif3sRW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59152 	- ANSTAING](https://docs.stopcoronavirus.tech/#/w/markdown/59152_anstaing/4XTTMGLKevdKfMjFVpwKRWJEFXb3S3W7DorEHrWHsuYif3sRW-K3TgUJhjyrrtXG5xkwHcuDxmC173ujeFMZzfDAx8tZ9pAgVfvT5xk6CYqoAiX8w6QtDzZmiAYuHxT2q5R61SaWUxX4UtR8fQhjmjhXzzLYvBh2GHLy3r9iTmG5R1EA4qG7Jzwhwi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

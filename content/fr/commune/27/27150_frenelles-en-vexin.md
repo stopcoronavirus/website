@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27150 	- FRENELLES EN VEXIN](https://docs.stopcoronavirus.tech/r/markdown/27150_frenelles-en-vexin/4XTTM3hXzsncN6aDcwoDsndZ3CuMdD6T7u7GJE8YoZ84p3eSR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27150 	- FRENELLES EN VEXIN](https://docs.stopcoronavirus.tech/w/markdown/27150_frenelles-en-vexin/4XTTM3hXzsncN6aDcwoDsndZ3CuMdD6T7u7GJE8YoZ84p3eSR-K3TgTzhiWMqGAxn8hg9g6jKoLYwFjZTtyGzWZQe7j3ingZwsLoU5j8TQ64wqezdusTVrnaXcHHnNrNCrBr2JMEFpZv93scggz1HTEmnjvSHpwXqS4Xm9nX4qxYc5VBDVzQBCMHFT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27150 	- FRENELLES EN VEXIN](https://docs.stopcoronavirus.tech/#/r/markdown/27150_frenelles-en-vexin/4XTTM3hXzsncN6aDcwoDsndZ3CuMdD6T7u7GJE8YoZ84p3eSR) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27150 	- FRENELLES EN VEXIN](https://docs.stopcoronavirus.tech/#/w/markdown/27150_frenelles-en-vexin/4XTTM3hXzsncN6aDcwoDsndZ3CuMdD6T7u7GJE8YoZ84p3eSR-K3TgTzhiWMqGAxn8hg9g6jKoLYwFjZTtyGzWZQe7j3ingZwsLoU5j8TQ64wqezdusTVrnaXcHHnNrNCrBr2JMEFpZv93scggz1HTEmnjvSHpwXqS4Xm9nX4qxYc5VBDVzQBCMHFT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

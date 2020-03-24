@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 39310 	- SEPTMONCEL LES MOLUNES](https://docs.stopcoronavirus.tech/r/markdown/39310_septmoncel-les-molunes/4XTTMADPHKqHsZ86mg2i9H69dSpmgv9RSzmjANUAnXMB1ZZxj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39310 	- SEPTMONCEL LES MOLUNES](https://docs.stopcoronavirus.tech/w/markdown/39310_septmoncel-les-molunes/4XTTMADPHKqHsZ86mg2i9H69dSpmgv9RSzmjANUAnXMB1ZZxj-K3TgUBwNTT7J2AkpeRHv2aJaAUWFc82ygHoTb13eci6cN6cgkPq3TZvaZDQ4VbLS2WYPLJwtuYyWdFE7CDHw4acTR4kbuuUmSLRmo8EW2bMdTMHovwpbDtDp4MBr7Zj1J2PZYkXq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39310 	- SEPTMONCEL LES MOLUNES](https://docs.stopcoronavirus.tech/#/r/markdown/39310_septmoncel-les-molunes/4XTTMADPHKqHsZ86mg2i9H69dSpmgv9RSzmjANUAnXMB1ZZxj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39310 	- SEPTMONCEL LES MOLUNES](https://docs.stopcoronavirus.tech/#/w/markdown/39310_septmoncel-les-molunes/4XTTMADPHKqHsZ86mg2i9H69dSpmgv9RSzmjANUAnXMB1ZZxj-K3TgUBwNTT7J2AkpeRHv2aJaAUWFc82ygHoTb13eci6cN6cgkPq3TZvaZDQ4VbLS2WYPLJwtuYyWdFE7CDHw4acTR4kbuuUmSLRmo8EW2bMdTMHovwpbDtDp4MBr7Zj1J2PZYkXq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

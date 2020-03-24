@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33500 	- LALANDE DE POMEROL](https://docs.stopcoronavirus.tech/r/markdown/33500_lalande-de-pomerol/4XTTMGGLeV7q8U2LBRWJToGrWyBBVpN7sbS7n9pFMssAfYMu8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33500 	- LALANDE DE POMEROL](https://docs.stopcoronavirus.tech/w/markdown/33500_lalande-de-pomerol/4XTTMGGLeV7q8U2LBRWJToGrWyBBVpN7sbS7n9pFMssAfYMu8-K3TgUWTcWpC9xjn8U8yDh2Ht5v9v6Aiu8dLWsLv4o4hgDSCd4vYDZrHYG5iZhQnhVCeaMd7uPyFnkwACLtxoig8ZzX5WvhaiZ3jaM1Uw9BxxPQaYmhirEmTmbusnH8NVuLJGRxPp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33500 	- LALANDE DE POMEROL](https://docs.stopcoronavirus.tech/#/r/markdown/33500_lalande-de-pomerol/4XTTMGGLeV7q8U2LBRWJToGrWyBBVpN7sbS7n9pFMssAfYMu8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33500 	- LALANDE DE POMEROL](https://docs.stopcoronavirus.tech/#/w/markdown/33500_lalande-de-pomerol/4XTTMGGLeV7q8U2LBRWJToGrWyBBVpN7sbS7n9pFMssAfYMu8-K3TgUWTcWpC9xjn8U8yDh2Ht5v9v6Aiu8dLWsLv4o4hgDSCd4vYDZrHYG5iZhQnhVCeaMd7uPyFnkwACLtxoig8ZzX5WvhaiZ3jaM1Uw9BxxPQaYmhirEmTmbusnH8NVuLJGRxPp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

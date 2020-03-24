@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69410 	- CHAMPAGNE AU MONT D OR](https://docs.stopcoronavirus.tech/r/markdown/69410_champagne-au-mont-d-or/4XTTM8s13ttYUFUhQ83nzoJ6BEg2D2TeyQFWSTkyasXqCnpNQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69410 	- CHAMPAGNE AU MONT D OR](https://docs.stopcoronavirus.tech/w/markdown/69410_champagne-au-mont-d-or/4XTTM8s13ttYUFUhQ83nzoJ6BEg2D2TeyQFWSTkyasXqCnpNQ-K3TgUsNLQu8U8yTzZfTi89uJWhQRYhttr2LFHLEXPDTmE3TXKH8arXfW3nMymMLJdnPeqpVfgQ2JnyGrY18QCVEzWpskopZrsXeGmW4e2RpVZZ56nJtKJaoFFLd3dNEDpNAo9fba) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69410 	- CHAMPAGNE AU MONT D OR](https://docs.stopcoronavirus.tech/#/r/markdown/69410_champagne-au-mont-d-or/4XTTM8s13ttYUFUhQ83nzoJ6BEg2D2TeyQFWSTkyasXqCnpNQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69410 	- CHAMPAGNE AU MONT D OR](https://docs.stopcoronavirus.tech/#/w/markdown/69410_champagne-au-mont-d-or/4XTTM8s13ttYUFUhQ83nzoJ6BEg2D2TeyQFWSTkyasXqCnpNQ-K3TgUsNLQu8U8yTzZfTi89uJWhQRYhttr2LFHLEXPDTmE3TXKH8arXfW3nMymMLJdnPeqpVfgQ2JnyGrY18QCVEzWpskopZrsXeGmW4e2RpVZZ56nJtKJaoFFLd3dNEDpNAo9fba) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10500 	- PERTHES LES BRIENNE](https://docs.stopcoronavirus.tech/r/markdown/10500_perthes-les-brienne/4XTTM6wnBzn91QzH4oECUA3B8pyZFtJ2qmUcXXsnKQ8ezGJBX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10500 	- PERTHES LES BRIENNE](https://docs.stopcoronavirus.tech/w/markdown/10500_perthes-les-brienne/4XTTM6wnBzn91QzH4oECUA3B8pyZFtJ2qmUcXXsnKQ8ezGJBX-K3TgTxeSr8hVWzUr7yhfBevhUCz9Ge1NZ9yhEN79cYDiooWmWJtjvpQoKCQs7JYcw88V4reYUeZd8d4E1v8kMgr3F4wVJJtt3pTtHo1mRNJ12DyWLotWjWRybqUuNGXYYSWACMvM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10500 	- PERTHES LES BRIENNE](https://docs.stopcoronavirus.tech/#/r/markdown/10500_perthes-les-brienne/4XTTM6wnBzn91QzH4oECUA3B8pyZFtJ2qmUcXXsnKQ8ezGJBX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10500 	- PERTHES LES BRIENNE](https://docs.stopcoronavirus.tech/#/w/markdown/10500_perthes-les-brienne/4XTTM6wnBzn91QzH4oECUA3B8pyZFtJ2qmUcXXsnKQ8ezGJBX-K3TgTxeSr8hVWzUr7yhfBevhUCz9Ge1NZ9yhEN79cYDiooWmWJtjvpQoKCQs7JYcw88V4reYUeZd8d4E1v8kMgr3F4wVJJtt3pTtHo1mRNJ12DyWLotWjWRybqUuNGXYYSWACMvM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

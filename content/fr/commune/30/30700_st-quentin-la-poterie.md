@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30700 	- ST QUENTIN LA POTERIE](https://docs.stopcoronavirus.tech/r/markdown/30700_st-quentin-la-poterie/4XTTM3Tn5Z5hFuZjBcfVV1a14HyK2iboiay47zw8mpd2isHtq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30700 	- ST QUENTIN LA POTERIE](https://docs.stopcoronavirus.tech/w/markdown/30700_st-quentin-la-poterie/4XTTM3Tn5Z5hFuZjBcfVV1a14HyK2iboiay47zw8mpd2isHtq-K3TgU6cuBDnTwJXEnyr5769V8vxuCZ2anwmgdmMzCxhyyu3oTPkm5QuLVCxivwWAVTnn9NfpSrqhkBN94b2AN9BpAv4jqcL9sVyDutBx577xfXrCc8QU7pxYkMBdKEmNVFNjaqdo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30700 	- ST QUENTIN LA POTERIE](https://docs.stopcoronavirus.tech/#/r/markdown/30700_st-quentin-la-poterie/4XTTM3Tn5Z5hFuZjBcfVV1a14HyK2iboiay47zw8mpd2isHtq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30700 	- ST QUENTIN LA POTERIE](https://docs.stopcoronavirus.tech/#/w/markdown/30700_st-quentin-la-poterie/4XTTM3Tn5Z5hFuZjBcfVV1a14HyK2iboiay47zw8mpd2isHtq-K3TgU6cuBDnTwJXEnyr5769V8vxuCZ2anwmgdmMzCxhyyu3oTPkm5QuLVCxivwWAVTnn9NfpSrqhkBN94b2AN9BpAv4jqcL9sVyDutBx577xfXrCc8QU7pxYkMBdKEmNVFNjaqdo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

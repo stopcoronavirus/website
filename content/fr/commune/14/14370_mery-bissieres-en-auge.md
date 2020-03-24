@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14370 	- MERY BISSIERES EN AUGE](https://docs.stopcoronavirus.tech/r/markdown/14370_mery-bissieres-en-auge/4XTTMB3zazHwfSz3cmXSPiMhAfoCJADFGSTj45XZAs5KsBMF3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14370 	- MERY BISSIERES EN AUGE](https://docs.stopcoronavirus.tech/w/markdown/14370_mery-bissieres-en-auge/4XTTMB3zazHwfSz3cmXSPiMhAfoCJADFGSTj45XZAs5KsBMF3-K3TgUopLqtLsAHbdV5wHqnfzb6ixh1PY2smgf8DAXeNhksW6hBz7miFLi7X5v6UZnvyuNidDtvMjk5iYhbWJruT2bBdSntZfSDi3ks5HD8u1hCrsbU2bi9tEN2avQh8V6UYqmSgM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14370 	- MERY BISSIERES EN AUGE](https://docs.stopcoronavirus.tech/#/r/markdown/14370_mery-bissieres-en-auge/4XTTMB3zazHwfSz3cmXSPiMhAfoCJADFGSTj45XZAs5KsBMF3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14370 	- MERY BISSIERES EN AUGE](https://docs.stopcoronavirus.tech/#/w/markdown/14370_mery-bissieres-en-auge/4XTTMB3zazHwfSz3cmXSPiMhAfoCJADFGSTj45XZAs5KsBMF3-K3TgUopLqtLsAHbdV5wHqnfzb6ixh1PY2smgf8DAXeNhksW6hBz7miFLi7X5v6UZnvyuNidDtvMjk5iYhbWJruT2bBdSntZfSDi3ks5HD8u1hCrsbU2bi9tEN2avQh8V6UYqmSgM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

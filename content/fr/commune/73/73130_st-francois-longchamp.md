@@ -40,13 +40,13 @@ URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COV
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 73130 	- ST FRANCOIS LONGCHAMP](https://docs.stopcoronavirus.tech/r/markdown/73130_st-francois-longchamp/4XTTM1NFY2VLU5bNgYfvVEHt2TV1t3TDfny7Gj5ERtMyLrCv1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73130 	- ST FRANCOIS LONGCHAMP](https://docs.stopcoronavirus.tech/w/markdown/73130_st-francois-longchamp/4XTTM1NFY2VLU5bNgYfvVEHt2TV1t3TDfny7Gj5ERtMyLrCv1-K3TgTcG8wo6k79K2VWeorWEKEFSYfuU4aTdkteqbnaNdvtD7aLadYLkPCEn3DGWLcdVm3J74BkuMdUdfCC4nYSjUdyPdabL3Lpubijq3kCQEo7jwZaUKTVwn7GyRMaC9yDwqeceH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73130 	- ST FRANCOIS LONGCHAMP](https://docs.stopcoronavirus.tech/#/r/markdown/73130_st-francois-longchamp/4XTTM1NFY2VLU5bNgYfvVEHt2TV1t3TDfny7Gj5ERtMyLrCv1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73130 	- ST FRANCOIS LONGCHAMP](https://docs.stopcoronavirus.tech/#/w/markdown/73130_st-francois-longchamp/4XTTM1NFY2VLU5bNgYfvVEHt2TV1t3TDfny7Gj5ERtMyLrCv1-K3TgTcG8wo6k79K2VWeorWEKEFSYfuU4aTdkteqbnaNdvtD7aLadYLkPCEn3DGWLcdVm3J74BkuMdUdfCC4nYSjUdyPdabL3Lpubijq3kCQEo7jwZaUKTVwn7GyRMaC9yDwqeceH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

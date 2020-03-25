@@ -11,11 +11,12 @@ _Bienvenue sur la page d'entraide de **votre commune**_.
 
 _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 
-- un **canal d'entraide**
+- un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
 _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
 
+<p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 #### [Canal d'entraide](https://entraide.stopcoronavirus.tech/#/channel/67150_osthouse)
 
 ##### Liens
@@ -76,3 +77,20 @@ Les annonces pourront être **organisées par section ou thématique**.
 Ces outils sont en accès public, ils sont hébergés de pairs à pairs de manière décentralisée.
 Chacun de vos navigateurs enregistre ce qu'il voit et le transmet à ceux qui sont connectés au même document.
 Ne publiez pas d'informations sensibles.
+
+#### Contribuer
+
+##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
+
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
+</a>
+
+Votre don servira à financer l'infrastructure supportant la plateforme (serveurs, développement informatique et autres besoins qui vont émerger)
+Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
+
+##### Par vos compétences
+
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
+- Proposez vos améliorations, fonctionnalités : _liens à venir_
+

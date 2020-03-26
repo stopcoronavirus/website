@@ -3,6 +3,7 @@ title: "67 - Bas-Rhin"
 description: "67 - Bas-Rhin"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Département
 ---
 
 ### Sélectionnez votre commune

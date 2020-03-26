@@ -19,5 +19,4 @@
 {{ $fadeinout := resources.Get "js/helper/fadeinout.js" | resources.Minify | resources.Fingerprint }}
 <script defer src="{{ $fadeinout.RelPermalink }}"></script>
 
-{{ $custom := resources.Get "js/custom.js" | resources.Minify | resources.Fingerprint }}
-<script src="{{ $custom.RelPermalink }}"></script>
+<script src="/js/custom.js"></script>

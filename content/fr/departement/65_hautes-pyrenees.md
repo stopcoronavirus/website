@@ -3,6 +3,7 @@ title: "65 - Hautes-Pyrénées"
 description: "65 - Hautes-Pyrénées"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Département
 ---
 
 ### Sélectionnez votre commune

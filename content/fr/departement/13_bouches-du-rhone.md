@@ -3,6 +3,7 @@ title: "13 - Bouches-du-Rhône"
 description: "13 - Bouches-du-Rhône"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Département
 ---
 
 ### Sélectionnez votre commune

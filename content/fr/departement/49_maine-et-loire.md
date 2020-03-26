@@ -3,6 +3,7 @@ title: "49 - Maine-et-Loire"
 description: "49 - Maine-et-Loire"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Département
 ---
 
 ### Sélectionnez votre commune

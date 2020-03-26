@@ -94,26 +94,6 @@ window.onload = function() {
   }
   // ============================================================
 
-  
-  // ======================= toggle theme =======================
-  var root = document.getElementById('root');
-  var toggleToLightBtn = document.getElementById('toggleToLight');
-  var toggleToDarkBtn = document.getElementById('toggleToDark');
-
-  toggleToDark.onclick = function(e) {
-    root.className = 'theme__dark';
-    localStorage.setItem('theme', 'dark');
-    toggleToLightBtn.className = 'navbar__icons--icon';
-    toggleToDarkBtn.className = 'hide';
-  }
-
-  toggleToLight.onclick = function (e) {
-    root.className = 'theme__light';
-    localStorage.setItem('theme', 'light');
-    toggleToLightBtn.className = 'hide';
-    toggleToDarkBtn.className = 'navbar__icons--icon';
-  }
-
 
 // =========================== scroll ===========================
   var lastScrollTop = window.pageYOffset || document.documentElement.scrollTop;
@@ -122,8 +102,8 @@ window.onload = function() {
   var singleContentsElem = document.querySelector('.single__contents');
   var dataBGImgs = document.querySelectorAll('div[data-bgimg]');
 
-  {{ $tocLevels := ($.Param "tocLevels") }}
-  var tocLevels = JSON.parse({{ $tocLevels | jsonify }});
+  
+  var tocLevels = "h1, h2, h3";
 
   if (tocLevels) {
     tocLevels = tocLevels.toString();
@@ -131,10 +111,8 @@ window.onload = function() {
     tocLevels = "h1, h2, h3, h4, h5, h6";
   }
 
-  {{ $isLandingBgImg := $.Params.landing.backgroundImage }}
-  var isLandingBgImg = JSON.parse({{ $isLandingBgImg | jsonify }});
-  {{ $isHome := .IsHome }}
-  var isHome = JSON.parse({{ $isHome | jsonify }});
+  var isLandingBgImg = false;
+  var isHome = false;
 
   function setNavbarBG(scrollTop) {
     if (isHome && isLandingBgImg && Object.keys(isLandingBgImg).length) {

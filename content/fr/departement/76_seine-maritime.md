@@ -3,6 +3,7 @@ title: "76 - Seine-Maritime"
 description: "76 - Seine-Maritime"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Département
 ---
 
 ### Sélectionnez votre commune

@@ -3,6 +3,7 @@ title: "63 - Puy-de-Dôme"
 description: "63 - Puy-de-Dôme"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Département
 ---
 
 ### Sélectionnez votre commune

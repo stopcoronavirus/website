@@ -3,6 +3,7 @@ title: "38170 - SEYSSINET PARISET | Entraide, Annonces, Initiatives"
 description: "38170 - SEYSSINET PARISET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Commune
 ---
 
 ### 38170 - SEYSSINET PARISET | Entraide, Annonces, Initiatives
@@ -17,6 +18,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
+
 #### [Canal d'entraide](https://entraide.stopcoronavirus.tech/#/channel/38170_seyssinet-pariset)
 
 ##### Liens

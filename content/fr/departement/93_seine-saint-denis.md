@@ -3,6 +3,7 @@ title: "93 - Seine-Saint-Denis"
 description: "93 - Seine-Saint-Denis"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Département
 ---
 
 ### Sélectionnez votre commune

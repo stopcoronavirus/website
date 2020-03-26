@@ -3,6 +3,7 @@ title: "85 - Vendée"
 description: "85 - Vendée"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Département
 ---
 
 ### Sélectionnez votre commune

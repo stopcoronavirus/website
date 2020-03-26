@@ -3,6 +3,7 @@ title: "87 - Haute-Vienne"
 description: "87 - Haute-Vienne"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
+type: Département
 ---
 
 ### Sélectionnez votre commune

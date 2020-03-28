@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 33133 	- GALGON](https://entraide.stopcoronavirus.tech/#/channel/33133_galgon) (à privilégier)
-- [Canal de votre département : 33 	- Gironde](https://entraide.stopcoronavirus.tech/#/channel/33_gironde) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/33133_galgon" class="myButton" style="color:white;">Canal de votre commune : 33133 	- GALGON</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/33_gironde" class="myButton" style="color:white;">Canal de votre département : 33 	- Gironde</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33133 	- GALGON](https://docs.stopcoronavirus.tech/#/r/markdown/33133_galgon/4XTTM1SGqk8urR14thtwjKRYyKwFGSANGbgpM7zJgxKmkgNKF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33133 	- GALGON](https://docs.stopcoronavirus.tech/#/w/markdown/33133_galgon/4XTTM1SGqk8urR14thtwjKRYyKwFGSANGbgpM7zJgxKmkgNKF-K3TgTm3ZiWG2pRMxt9XpjRZ2y5edB89AWqmQd8o7WFqzV6XV422TmuwHKXbAnFBuQ7uqLT5g5TQaK9Ga6iPqBYberTg743x3phy6DZSZNE9rGUQYkXo6Y8v3stQQ5PL1ybjU4XdP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/33133_galgon/4XTTM1SGqk8urR14thtwjKRYyKwFGSANGbgpM7zJgxKmkgNKF" class="myButton" style="color:white;">Consulter : 33133 	- GALGON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/33133_galgon/4XTTM1SGqk8urR14thtwjKRYyKwFGSANGbgpM7zJgxKmkgNKF-K3TgTm3ZiWG2pRMxt9XpjRZ2y5edB89AWqmQd8o7WFqzV6XV422TmuwHKXbAnFBuQ7uqLT5g5TQaK9Ga6iPqBYberTg743x3phy6DZSZNE9rGUQYkXo6Y8v3stQQ5PL1ybjU4XdP" class="myButton" style="color:white;">Déposer : 33133 	- GALGON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt" class="myButton" style="color:white;">Consulter : 33 	- Gironde</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ" class="myButton" style="color:white;">Déposer : 33 	- Gironde</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

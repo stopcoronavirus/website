@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 30410 	- MOLIERES SUR CEZE](https://entraide.stopcoronavirus.tech/#/channel/30410_molieres-sur-ceze) (à privilégier)
-- [Canal de votre département : 30 	- Gard](https://entraide.stopcoronavirus.tech/#/channel/30_gard) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/30410_molieres-sur-ceze" class="myButton" style="color:white;">Canal de votre commune : 30410 	- MOLIERES SUR CEZE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/30_gard" class="myButton" style="color:white;">Canal de votre département : 30 	- Gard</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30410 	- MOLIERES SUR CEZE](https://docs.stopcoronavirus.tech/#/r/markdown/30410_molieres-sur-ceze/4XTTMCTmLszCcVubs82bCuURPB64w7Ns18V2AMFAMgPfuChox) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30410 	- MOLIERES SUR CEZE](https://docs.stopcoronavirus.tech/#/w/markdown/30410_molieres-sur-ceze/4XTTMCTmLszCcVubs82bCuURPB64w7Ns18V2AMFAMgPfuChox-K3TgTkFkSJJcg5dGZ5ZyUxQvQk8cqndBsYnMpkYodczU3kUc83pU5TGCgNv3PiQ7GE2Pt319GNB95Y5gC9cTDewu7pAqE3xVvRVgfqXf8aAFcWFQUe4FRnTYmt65qx3LjMsTkhSS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/30410_molieres-sur-ceze/4XTTMCTmLszCcVubs82bCuURPB64w7Ns18V2AMFAMgPfuChox" class="myButton" style="color:white;">Consulter : 30410 	- MOLIERES SUR CEZE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/30410_molieres-sur-ceze/4XTTMCTmLszCcVubs82bCuURPB64w7Ns18V2AMFAMgPfuChox-K3TgTkFkSJJcg5dGZ5ZyUxQvQk8cqndBsYnMpkYodczU3kUc83pU5TGCgNv3PiQ7GE2Pt319GNB95Y5gC9cTDewu7pAqE3xVvRVgfqXf8aAFcWFQUe4FRnTYmt65qx3LjMsTkhSS" class="myButton" style="color:white;">Déposer : 30410 	- MOLIERES SUR CEZE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj" class="myButton" style="color:white;">Consulter : 30 	- Gard</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK" class="myButton" style="color:white;">Déposer : 30 	- Gard</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

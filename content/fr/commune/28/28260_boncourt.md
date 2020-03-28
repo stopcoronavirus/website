@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 28260 	- BONCOURT](https://entraide.stopcoronavirus.tech/#/channel/28260_boncourt) (à privilégier)
-- [Canal de votre département : 28 	- Eure-et-Loir](https://entraide.stopcoronavirus.tech/#/channel/28_eure-et-loir) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/28260_boncourt" class="myButton" style="color:white;">Canal de votre commune : 28260 	- BONCOURT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/28_eure-et-loir" class="myButton" style="color:white;">Canal de votre département : 28 	- Eure-et-Loir</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 28260 	- BONCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/28260_boncourt/4XTTMG7GzAx1yFcJ5JUweqDx5QfstYkZie82FyxLzMmMCmZmS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28260 	- BONCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/28260_boncourt/4XTTMG7GzAx1yFcJ5JUweqDx5QfstYkZie82FyxLzMmMCmZmS-K3TgUrzELtSZA4HDrcwbmLsnE2RDjtNsAhgy4mVhDQp9aJKowbedVLVSVrD7mK5qoh27s6HAS9FPYUtffm57nquf2UKj2aPyrE5fAEH5C87ZUwDedaDH9RScqmHQU496py5tUK8U) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/28260_boncourt/4XTTMG7GzAx1yFcJ5JUweqDx5QfstYkZie82FyxLzMmMCmZmS" class="myButton" style="color:white;">Consulter : 28260 	- BONCOURT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/28260_boncourt/4XTTMG7GzAx1yFcJ5JUweqDx5QfstYkZie82FyxLzMmMCmZmS-K3TgUrzELtSZA4HDrcwbmLsnE2RDjtNsAhgy4mVhDQp9aJKowbedVLVSVrD7mK5qoh27s6HAS9FPYUtffm57nquf2UKj2aPyrE5fAEH5C87ZUwDedaDH9RScqmHQU496py5tUK8U" class="myButton" style="color:white;">Déposer : 28260 	- BONCOURT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 28 	- Eure-et-Loir](https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq" class="myButton" style="color:white;">Consulter : 28 	- Eure-et-Loir</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF" class="myButton" style="color:white;">Déposer : 28 	- Eure-et-Loir</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

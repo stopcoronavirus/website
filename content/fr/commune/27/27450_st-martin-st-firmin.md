@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 27450 	- ST MARTIN ST FIRMIN](https://entraide.stopcoronavirus.tech/#/channel/27450_st-martin-st-firmin) (à privilégier)
-- [Canal de votre département : 27 	- Eure](https://entraide.stopcoronavirus.tech/#/channel/27_eure) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27450_st-martin-st-firmin" class="myButton" style="color:white;">Canal de votre commune : 27450 	- ST MARTIN ST FIRMIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27_eure" class="myButton" style="color:white;">Canal de votre département : 27 	- Eure</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27450 	- ST MARTIN ST FIRMIN](https://docs.stopcoronavirus.tech/#/r/markdown/27450_st-martin-st-firmin/4XTTM9uKPi7mUyJQVWkAF66e2LDCf7NieTwKdkFoKYtxgPLur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27450 	- ST MARTIN ST FIRMIN](https://docs.stopcoronavirus.tech/#/w/markdown/27450_st-martin-st-firmin/4XTTM9uKPi7mUyJQVWkAF66e2LDCf7NieTwKdkFoKYtxgPLur-K3TgV4qGYDAmmfRaD4wRfKQGJcToj38FcB6j6cYvgkFQAtyyZx3D8yxJpWmnj9pLg7AFu4inQiEiuDZJ3wPyRdbZSedJZG77umMzVA1JVe85VPUUWTJBvHxgvGpnGDyVL5dVuSMz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27450_st-martin-st-firmin/4XTTM9uKPi7mUyJQVWkAF66e2LDCf7NieTwKdkFoKYtxgPLur" class="myButton" style="color:white;">Consulter : 27450 	- ST MARTIN ST FIRMIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27450_st-martin-st-firmin/4XTTM9uKPi7mUyJQVWkAF66e2LDCf7NieTwKdkFoKYtxgPLur-K3TgV4qGYDAmmfRaD4wRfKQGJcToj38FcB6j6cYvgkFQAtyyZx3D8yxJpWmnj9pLg7AFu4inQiEiuDZJ3wPyRdbZSedJZG77umMzVA1JVe85VPUUWTJBvHxgvGpnGDyVL5dVuSMz" class="myButton" style="color:white;">Déposer : 27450 	- ST MARTIN ST FIRMIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg" class="myButton" style="color:white;">Consulter : 27 	- Eure</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r" class="myButton" style="color:white;">Déposer : 27 	- Eure</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

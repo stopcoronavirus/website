@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 07700 	- ST MARTIN D ARDECHE](https://entraide.stopcoronavirus.tech/#/channel/07700_st-martin-d-ardeche) (à privilégier)
-- [Canal de votre département : 07 	- Ardèche](https://entraide.stopcoronavirus.tech/#/channel/07_ardeche) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/07700_st-martin-d-ardeche" class="myButton" style="color:white;">Canal de votre commune : 07700 	- ST MARTIN D ARDECHE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/07_ardeche" class="myButton" style="color:white;">Canal de votre département : 07 	- Ardèche</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07700 	- ST MARTIN D ARDECHE](https://docs.stopcoronavirus.tech/#/r/markdown/07700_st-martin-d-ardeche/4XTTMBnXCY9q53kDQx8FoXpp4EdGj6KuGAXDskkh8XuHyxv7p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07700 	- ST MARTIN D ARDECHE](https://docs.stopcoronavirus.tech/#/w/markdown/07700_st-martin-d-ardeche/4XTTMBnXCY9q53kDQx8FoXpp4EdGj6KuGAXDskkh8XuHyxv7p-K3TgTeUzdg8tFt6HAN7HoxLwgezoi9NXksjWPpgC3sGx45iWCg1n7ukbhKSXvkt4FhGrrN8oHEfTGTRB1m1XAWCWopo9EiBeGtHw22iHFrfiFsNpMr11z9kQAY993TptkSStdnMC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07700_st-martin-d-ardeche/4XTTMBnXCY9q53kDQx8FoXpp4EdGj6KuGAXDskkh8XuHyxv7p" class="myButton" style="color:white;">Consulter : 07700 	- ST MARTIN D ARDECHE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07700_st-martin-d-ardeche/4XTTMBnXCY9q53kDQx8FoXpp4EdGj6KuGAXDskkh8XuHyxv7p-K3TgTeUzdg8tFt6HAN7HoxLwgezoi9NXksjWPpgC3sGx45iWCg1n7ukbhKSXvkt4FhGrrN8oHEfTGTRB1m1XAWCWopo9EiBeGtHw22iHFrfiFsNpMr11z9kQAY993TptkSStdnMC" class="myButton" style="color:white;">Déposer : 07700 	- ST MARTIN D ARDECHE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H" class="myButton" style="color:white;">Consulter : 07 	- Ardèche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR" class="myButton" style="color:white;">Déposer : 07 	- Ardèche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

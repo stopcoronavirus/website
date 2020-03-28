@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 59550 	- ROBERSART](https://entraide.stopcoronavirus.tech/#/channel/59550_robersart) (à privilégier)
-- [Canal de votre département : 59 	- Nord](https://entraide.stopcoronavirus.tech/#/channel/59_nord) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/59550_robersart" class="myButton" style="color:white;">Canal de votre commune : 59550 	- ROBERSART</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/59_nord" class="myButton" style="color:white;">Canal de votre département : 59 	- Nord</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59550 	- ROBERSART](https://docs.stopcoronavirus.tech/#/r/markdown/59550_robersart/4XTTMGHWUq5eF6wbkB8369eTR8eNxywmkNFpYRGX4ZCCSUSyM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59550 	- ROBERSART](https://docs.stopcoronavirus.tech/#/w/markdown/59550_robersart/4XTTMGHWUq5eF6wbkB8369eTR8eNxywmkNFpYRGX4ZCCSUSyM-K3TgUd7p8ZUd7kwCVwin4DFvRURZBRpoxe3GRnhoEmvmjd81sh9FHoKSzx1hmYJrbCz37mJZX5HrmGVnYncppkvMM514eNreHN2mCCE5nVi9To4EAVtpLSBgZmMEcL8vW3RMLoTV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/59550_robersart/4XTTMGHWUq5eF6wbkB8369eTR8eNxywmkNFpYRGX4ZCCSUSyM" class="myButton" style="color:white;">Consulter : 59550 	- ROBERSART</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/59550_robersart/4XTTMGHWUq5eF6wbkB8369eTR8eNxywmkNFpYRGX4ZCCSUSyM-K3TgUd7p8ZUd7kwCVwin4DFvRURZBRpoxe3GRnhoEmvmjd81sh9FHoKSzx1hmYJrbCz37mJZX5HrmGVnYncppkvMM514eNreHN2mCCE5nVi9To4EAVtpLSBgZmMEcL8vW3RMLoTV" class="myButton" style="color:white;">Déposer : 59550 	- ROBERSART</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ" class="myButton" style="color:white;">Consulter : 59 	- Nord</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ" class="myButton" style="color:white;">Déposer : 59 	- Nord</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

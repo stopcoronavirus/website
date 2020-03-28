@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 13380 	- PLAN DE CUQUES](https://entraide.stopcoronavirus.tech/#/channel/13380_plan-de-cuques) (à privilégier)
-- [Canal de votre département : 13 	- Bouches-du-Rhône](https://entraide.stopcoronavirus.tech/#/channel/13_bouches-du-rhone) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/13380_plan-de-cuques" class="myButton" style="color:white;">Canal de votre commune : 13380 	- PLAN DE CUQUES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/13_bouches-du-rhone" class="myButton" style="color:white;">Canal de votre département : 13 	- Bouches-du-Rhône</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 13380 	- PLAN DE CUQUES](https://docs.stopcoronavirus.tech/#/r/markdown/13380_plan-de-cuques/4XTTM5X5sKY2FmSt6LyL6AaSAgL8KwZu8NMiMEKQZYzj4R3pV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 13380 	- PLAN DE CUQUES](https://docs.stopcoronavirus.tech/#/w/markdown/13380_plan-de-cuques/4XTTM5X5sKY2FmSt6LyL6AaSAgL8KwZu8NMiMEKQZYzj4R3pV-K3TgUQRWWDntXRrSmGcyNqqMkN9C2LLRh7GjmB7vtZZ3FEWuKXTQG9wAKQQ3oMBdpYCryEkHFhNkbN9hD5NRa4efAoUsEkGV9sTbV4jRxyHjt2YG8JHnRoa9jPjXqugy1B134sSq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/13380_plan-de-cuques/4XTTM5X5sKY2FmSt6LyL6AaSAgL8KwZu8NMiMEKQZYzj4R3pV" class="myButton" style="color:white;">Consulter : 13380 	- PLAN DE CUQUES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/13380_plan-de-cuques/4XTTM5X5sKY2FmSt6LyL6AaSAgL8KwZu8NMiMEKQZYzj4R3pV-K3TgUQRWWDntXRrSmGcyNqqMkN9C2LLRh7GjmB7vtZZ3FEWuKXTQG9wAKQQ3oMBdpYCryEkHFhNkbN9hD5NRa4efAoUsEkGV9sTbV4jRxyHjt2YG8JHnRoa9jPjXqugy1B134sSq" class="myButton" style="color:white;">Déposer : 13380 	- PLAN DE CUQUES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 13 	- Bouches-du-Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx" class="myButton" style="color:white;">Consulter : 13 	- Bouches-du-Rhône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS" class="myButton" style="color:white;">Déposer : 13 	- Bouches-du-Rhône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

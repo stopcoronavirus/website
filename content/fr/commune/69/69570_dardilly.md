@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 69570 	- DARDILLY](https://entraide.stopcoronavirus.tech/#/channel/69570_dardilly) (à privilégier)
-- [Canal de votre département : 69 	- Rhône](https://entraide.stopcoronavirus.tech/#/channel/69_rhone) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/69570_dardilly" class="myButton" style="color:white;">Canal de votre commune : 69570 	- DARDILLY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/69_rhone" class="myButton" style="color:white;">Canal de votre département : 69 	- Rhône</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69570 	- DARDILLY](https://docs.stopcoronavirus.tech/#/r/markdown/69570_dardilly/4XTTM3xsW7QxqMX2GHC7ZjeoSW86ZQFioSk8LebkhNLTmj9QA) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69570 	- DARDILLY](https://docs.stopcoronavirus.tech/#/w/markdown/69570_dardilly/4XTTM3xsW7QxqMX2GHC7ZjeoSW86ZQFioSk8LebkhNLTmj9QA-K3TgUnAyvz4BPJtwEYnEiwSmxVJXmBeTR3oUiTTm1Y2JSPEwB7ytuswzxNb8nDRWKgfniHqk2Bawt4RoYDhmf32LTkvbG7TKB8NAoxW2dX7fqnLnxZ5DoUr8fUPKvZqdDtds6b6W) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69570_dardilly/4XTTM3xsW7QxqMX2GHC7ZjeoSW86ZQFioSk8LebkhNLTmj9QA" class="myButton" style="color:white;">Consulter : 69570 	- DARDILLY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69570_dardilly/4XTTM3xsW7QxqMX2GHC7ZjeoSW86ZQFioSk8LebkhNLTmj9QA-K3TgUnAyvz4BPJtwEYnEiwSmxVJXmBeTR3oUiTTm1Y2JSPEwB7ytuswzxNb8nDRWKgfniHqk2Bawt4RoYDhmf32LTkvbG7TKB8NAoxW2dX7fqnLnxZ5DoUr8fUPKvZqdDtds6b6W" class="myButton" style="color:white;">Déposer : 69570 	- DARDILLY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW" class="myButton" style="color:white;">Consulter : 69 	- Rhône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz" class="myButton" style="color:white;">Déposer : 69 	- Rhône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 77240 	- VERT ST DENIS](https://entraide.stopcoronavirus.tech/#/channel/77240_vert-st-denis) (à privilégier)
-- [Canal de votre département : 77 	- Seine-et-Marne](https://entraide.stopcoronavirus.tech/#/channel/77_seine-et-marne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/77240_vert-st-denis" class="myButton" style="color:white;">Canal de votre commune : 77240 	- VERT ST DENIS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/77_seine-et-marne" class="myButton" style="color:white;">Canal de votre département : 77 	- Seine-et-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 77240 	- VERT ST DENIS](https://docs.stopcoronavirus.tech/#/r/markdown/77240_vert-st-denis/4XTTM3LfnFpv8qzsd1Hc9ego9oHj5g2iATuVLwq3EQPCqRDSz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77240 	- VERT ST DENIS](https://docs.stopcoronavirus.tech/#/w/markdown/77240_vert-st-denis/4XTTM3LfnFpv8qzsd1Hc9ego9oHj5g2iATuVLwq3EQPCqRDSz-K3TgU2coG5oMS6jedTtW4aFH4AB41xqfJRtHAHmmwLX9jf42My5N4hKarjzCpoaZBXj6MmDwf29FQxivPf1PxFYxuCSPfQP912vA7UYg61P57Mn4Dhzzh4mHMCQZgJKKJJcWkDFp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/77240_vert-st-denis/4XTTM3LfnFpv8qzsd1Hc9ego9oHj5g2iATuVLwq3EQPCqRDSz" class="myButton" style="color:white;">Consulter : 77240 	- VERT ST DENIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/77240_vert-st-denis/4XTTM3LfnFpv8qzsd1Hc9ego9oHj5g2iATuVLwq3EQPCqRDSz-K3TgU2coG5oMS6jedTtW4aFH4AB41xqfJRtHAHmmwLX9jf42My5N4hKarjzCpoaZBXj6MmDwf29FQxivPf1PxFYxuCSPfQP912vA7UYg61P57Mn4Dhzzh4mHMCQZgJKKJJcWkDFp" class="myButton" style="color:white;">Déposer : 77240 	- VERT ST DENIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 77 	- Seine-et-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6" class="myButton" style="color:white;">Consulter : 77 	- Seine-et-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU" class="myButton" style="color:white;">Déposer : 77 	- Seine-et-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

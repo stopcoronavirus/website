@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 12140 	- FLORENTIN LA CAPELLE](https://entraide.stopcoronavirus.tech/#/channel/12140_florentin-la-capelle) (à privilégier)
-- [Canal de votre département : 12 	- Aveyron](https://entraide.stopcoronavirus.tech/#/channel/12_aveyron) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/12140_florentin-la-capelle" class="myButton" style="color:white;">Canal de votre commune : 12140 	- FLORENTIN LA CAPELLE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/12_aveyron" class="myButton" style="color:white;">Canal de votre département : 12 	- Aveyron</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12140 	- FLORENTIN LA CAPELLE](https://docs.stopcoronavirus.tech/#/r/markdown/12140_florentin-la-capelle/4XTTM4h1A1Kk3TyfBYfPDDETaNirVm5rzfcjvcMbfMPmKo5pT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12140 	- FLORENTIN LA CAPELLE](https://docs.stopcoronavirus.tech/#/w/markdown/12140_florentin-la-capelle/4XTTM4h1A1Kk3TyfBYfPDDETaNirVm5rzfcjvcMbfMPmKo5pT-K3TgV3G2sAf4BrdggGpTq6eW52k1CmW1dKewKXzG76NneFRMM1LW57EUZLVHVN2GL7XtMxFEc2BWubh5ST8WXkojWNVJZQR7ijCKSDogS2aLctLyMtf2R6mBJkAQbXEUktkth1h1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12140_florentin-la-capelle/4XTTM4h1A1Kk3TyfBYfPDDETaNirVm5rzfcjvcMbfMPmKo5pT" class="myButton" style="color:white;">Consulter : 12140 	- FLORENTIN LA CAPELLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12140_florentin-la-capelle/4XTTM4h1A1Kk3TyfBYfPDDETaNirVm5rzfcjvcMbfMPmKo5pT-K3TgV3G2sAf4BrdggGpTq6eW52k1CmW1dKewKXzG76NneFRMM1LW57EUZLVHVN2GL7XtMxFEc2BWubh5ST8WXkojWNVJZQR7ijCKSDogS2aLctLyMtf2R6mBJkAQbXEUktkth1h1" class="myButton" style="color:white;">Déposer : 12140 	- FLORENTIN LA CAPELLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq" class="myButton" style="color:white;">Consulter : 12 	- Aveyron</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV" class="myButton" style="color:white;">Déposer : 12 	- Aveyron</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

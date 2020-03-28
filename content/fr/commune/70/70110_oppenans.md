@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 70110 	- OPPENANS](https://entraide.stopcoronavirus.tech/#/channel/70110_oppenans) (à privilégier)
-- [Canal de votre département : 70 	- Haute-Saône](https://entraide.stopcoronavirus.tech/#/channel/70_haute-saone) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/70110_oppenans" class="myButton" style="color:white;">Canal de votre commune : 70110 	- OPPENANS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/70_haute-saone" class="myButton" style="color:white;">Canal de votre département : 70 	- Haute-Saône</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70110 	- OPPENANS](https://docs.stopcoronavirus.tech/#/r/markdown/70110_oppenans/4XTTM74vV5bm4WzKFthdrPucmkHUVXjojgZRhpGK42Ca8DGjC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70110 	- OPPENANS](https://docs.stopcoronavirus.tech/#/w/markdown/70110_oppenans/4XTTM74vV5bm4WzKFthdrPucmkHUVXjojgZRhpGK42Ca8DGjC-K3TgUkfMb26neqpheJgNCzoRvgKKzZMcd9QcW2uJtk5xJeghzHYk2rjoPRn9fzHU88azU7Fq6wYciSueotHoEQFNKBMz8h2JGuBC2gePHLBkomq81yPzxxiqYDSDH6rhp87F6HqL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/70110_oppenans/4XTTM74vV5bm4WzKFthdrPucmkHUVXjojgZRhpGK42Ca8DGjC" class="myButton" style="color:white;">Consulter : 70110 	- OPPENANS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/70110_oppenans/4XTTM74vV5bm4WzKFthdrPucmkHUVXjojgZRhpGK42Ca8DGjC-K3TgUkfMb26neqpheJgNCzoRvgKKzZMcd9QcW2uJtk5xJeghzHYk2rjoPRn9fzHU88azU7Fq6wYciSueotHoEQFNKBMz8h2JGuBC2gePHLBkomq81yPzxxiqYDSDH6rhp87F6HqL" class="myButton" style="color:white;">Déposer : 70110 	- OPPENANS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa" class="myButton" style="color:white;">Consulter : 70 	- Haute-Saône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN" class="myButton" style="color:white;">Déposer : 70 	- Haute-Saône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

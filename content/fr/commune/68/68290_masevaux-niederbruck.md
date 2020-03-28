@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 68290 	- MASEVAUX NIEDERBRUCK](https://entraide.stopcoronavirus.tech/#/channel/68290_masevaux-niederbruck) (à privilégier)
-- [Canal de votre département : 68 	- Haut-Rhin](https://entraide.stopcoronavirus.tech/#/channel/68_haut-rhin) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/68290_masevaux-niederbruck" class="myButton" style="color:white;">Canal de votre commune : 68290 	- MASEVAUX NIEDERBRUCK</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/68_haut-rhin" class="myButton" style="color:white;">Canal de votre département : 68 	- Haut-Rhin</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 68290 	- MASEVAUX NIEDERBRUCK](https://docs.stopcoronavirus.tech/#/r/markdown/68290_masevaux-niederbruck/4XTTM4HmfWFhTnkTcF1qkcEqUvHgh8VePXKSytjz6xtS7JxH3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68290 	- MASEVAUX NIEDERBRUCK](https://docs.stopcoronavirus.tech/#/w/markdown/68290_masevaux-niederbruck/4XTTM4HmfWFhTnkTcF1qkcEqUvHgh8VePXKSytjz6xtS7JxH3-K3TgUMqu6Z5iX8mVFWKWDjgC9L8vWDFKfkf4W6UvGccSFe6eLdeYbjTa3HQx9oGnGTcph1xF94j1v2V4dCfEbkcbWYRs4kwzwTQFCttVWpeaWwu51jBqvaDqi8jAsFiMC8cc5C4V) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/68290_masevaux-niederbruck/4XTTM4HmfWFhTnkTcF1qkcEqUvHgh8VePXKSytjz6xtS7JxH3" class="myButton" style="color:white;">Consulter : 68290 	- MASEVAUX NIEDERBRUCK</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/68290_masevaux-niederbruck/4XTTM4HmfWFhTnkTcF1qkcEqUvHgh8VePXKSytjz6xtS7JxH3-K3TgUMqu6Z5iX8mVFWKWDjgC9L8vWDFKfkf4W6UvGccSFe6eLdeYbjTa3HQx9oGnGTcph1xF94j1v2V4dCfEbkcbWYRs4kwzwTQFCttVWpeaWwu51jBqvaDqi8jAsFiMC8cc5C4V" class="myButton" style="color:white;">Déposer : 68290 	- MASEVAUX NIEDERBRUCK</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 68 	- Haut-Rhin](https://docs.stopcoronavirus.tech/#/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6" class="myButton" style="color:white;">Consulter : 68 	- Haut-Rhin</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ" class="myButton" style="color:white;">Déposer : 68 	- Haut-Rhin</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

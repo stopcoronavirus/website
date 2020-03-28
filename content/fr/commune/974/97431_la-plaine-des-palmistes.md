@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 97431 	- LA PLAINE DES PALMISTES](https://entraide.stopcoronavirus.tech/#/channel/97431_la-plaine-des-palmistes) (à privilégier)
-- [Canal de votre département : 974 	- La Réunion](https://entraide.stopcoronavirus.tech/#/channel/974_la-reunion) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97431_la-plaine-des-palmistes" class="myButton" style="color:white;">Canal de votre commune : 97431 	- LA PLAINE DES PALMISTES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/974_la-reunion" class="myButton" style="color:white;">Canal de votre département : 974 	- La Réunion</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97431 	- LA PLAINE DES PALMISTES](https://docs.stopcoronavirus.tech/#/r/markdown/97431_la-plaine-des-palmistes/4XTTMHpxee1AeVtsNAU98fWrpv9bzwyiFP2renDbusC2nvnhh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97431 	- LA PLAINE DES PALMISTES](https://docs.stopcoronavirus.tech/#/w/markdown/97431_la-plaine-des-palmistes/4XTTMHpxee1AeVtsNAU98fWrpv9bzwyiFP2renDbusC2nvnhh-K3TgU5zZJguGXX9Y4wQjycUtRqNpkpVzLYpxoquohNu7cBNNyx71m6Y1XSfs8Dp3XTgKA5ADEtWfKvXYqdZLRvCrMUY24XrtYVsgcDxMG7Wv3uVPMiuXGKhWpJttFAfJy4LHNdvB) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97431_la-plaine-des-palmistes/4XTTMHpxee1AeVtsNAU98fWrpv9bzwyiFP2renDbusC2nvnhh" class="myButton" style="color:white;">Consulter : 97431 	- LA PLAINE DES PALMISTES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97431_la-plaine-des-palmistes/4XTTMHpxee1AeVtsNAU98fWrpv9bzwyiFP2renDbusC2nvnhh-K3TgU5zZJguGXX9Y4wQjycUtRqNpkpVzLYpxoquohNu7cBNNyx71m6Y1XSfs8Dp3XTgKA5ADEtWfKvXYqdZLRvCrMUY24XrtYVsgcDxMG7Wv3uVPMiuXGKhWpJttFAfJy4LHNdvB" class="myButton" style="color:white;">Déposer : 97431 	- LA PLAINE DES PALMISTES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 974 	- La Réunion](https://docs.stopcoronavirus.tech/#/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 974 	- La Réunion](https://docs.stopcoronavirus.tech/#/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa" class="myButton" style="color:white;">Consulter : 974 	- La Réunion</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6" class="myButton" style="color:white;">Déposer : 974 	- La Réunion</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

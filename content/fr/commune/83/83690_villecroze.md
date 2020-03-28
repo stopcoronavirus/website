@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 83690 	- VILLECROZE](https://entraide.stopcoronavirus.tech/#/channel/83690_villecroze) (à privilégier)
-- [Canal de votre département : 83 	- Var](https://entraide.stopcoronavirus.tech/#/channel/83_var) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/83690_villecroze" class="myButton" style="color:white;">Canal de votre commune : 83690 	- VILLECROZE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/83_var" class="myButton" style="color:white;">Canal de votre département : 83 	- Var</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 83690 	- VILLECROZE](https://docs.stopcoronavirus.tech/#/r/markdown/83690_villecroze/4XTTM3S3BWc71YH75yCqfFdVNox12BhqBV6JaSMSVJ5Y9e3Q1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83690 	- VILLECROZE](https://docs.stopcoronavirus.tech/#/w/markdown/83690_villecroze/4XTTM3S3BWc71YH75yCqfFdVNox12BhqBV6JaSMSVJ5Y9e3Q1-K3TgTx54kkcDA8xGhVxjd6AER7fQVtT3oyUo1hVveSysoKJrcw5WhbDsMXUuzsv5EMaEfTahkgjsvoGjEsqAF44gttBJoWMW1hqJasczojmFs5AbqFkhmvcjgK2SnFrcYB1ZZENH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/83690_villecroze/4XTTM3S3BWc71YH75yCqfFdVNox12BhqBV6JaSMSVJ5Y9e3Q1" class="myButton" style="color:white;">Consulter : 83690 	- VILLECROZE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/83690_villecroze/4XTTM3S3BWc71YH75yCqfFdVNox12BhqBV6JaSMSVJ5Y9e3Q1-K3TgTx54kkcDA8xGhVxjd6AER7fQVtT3oyUo1hVveSysoKJrcw5WhbDsMXUuzsv5EMaEfTahkgjsvoGjEsqAF44gttBJoWMW1hqJasczojmFs5AbqFkhmvcjgK2SnFrcYB1ZZENH" class="myButton" style="color:white;">Déposer : 83690 	- VILLECROZE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 83 	- Var](https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 83 	- Var](https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ" class="myButton" style="color:white;">Consulter : 83 	- Var</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a" class="myButton" style="color:white;">Déposer : 83 	- Var</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 85230 	- ST URBAIN](https://entraide.stopcoronavirus.tech/#/channel/85230_st-urbain) (à privilégier)
-- [Canal de votre département : 85 	- Vendée](https://entraide.stopcoronavirus.tech/#/channel/85_vendee) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/85230_st-urbain" class="myButton" style="color:white;">Canal de votre commune : 85230 	- ST URBAIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/85_vendee" class="myButton" style="color:white;">Canal de votre département : 85 	- Vendée</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85230 	- ST URBAIN](https://docs.stopcoronavirus.tech/#/r/markdown/85230_st-urbain/4XTTM84eGE34mZn15jmFJfEHAPmgpeknWuD63X62YPq1iNqLr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85230 	- ST URBAIN](https://docs.stopcoronavirus.tech/#/w/markdown/85230_st-urbain/4XTTM84eGE34mZn15jmFJfEHAPmgpeknWuD63X62YPq1iNqLr-K3TgTrPMaRt26TDTMQckXT1m7Af5aq8WHC7rptvrg1ocv2LvjcNX9LhJu2fqckC6MYEVRHr5gMFrquE5ZSZ4J2MwXAikabdjH7F4vWo9xRXCkasg5TDKe2LueMVunJhdtJzh484N) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/85230_st-urbain/4XTTM84eGE34mZn15jmFJfEHAPmgpeknWuD63X62YPq1iNqLr" class="myButton" style="color:white;">Consulter : 85230 	- ST URBAIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/85230_st-urbain/4XTTM84eGE34mZn15jmFJfEHAPmgpeknWuD63X62YPq1iNqLr-K3TgTrPMaRt26TDTMQckXT1m7Af5aq8WHC7rptvrg1ocv2LvjcNX9LhJu2fqckC6MYEVRHr5gMFrquE5ZSZ4J2MwXAikabdjH7F4vWo9xRXCkasg5TDKe2LueMVunJhdtJzh484N" class="myButton" style="color:white;">Déposer : 85230 	- ST URBAIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk" class="myButton" style="color:white;">Consulter : 85 	- Vendée</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv" class="myButton" style="color:white;">Déposer : 85 	- Vendée</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

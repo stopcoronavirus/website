@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 42380 	- LA CHAPELLE EN LAFAYE](https://entraide.stopcoronavirus.tech/#/channel/42380_la-chapelle-en-lafaye) (à privilégier)
-- [Canal de votre département : 42 	- Loire](https://entraide.stopcoronavirus.tech/#/channel/42_loire) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/42380_la-chapelle-en-lafaye" class="myButton" style="color:white;">Canal de votre commune : 42380 	- LA CHAPELLE EN LAFAYE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/42_loire" class="myButton" style="color:white;">Canal de votre département : 42 	- Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42380 	- LA CHAPELLE EN LAFAYE](https://docs.stopcoronavirus.tech/#/r/markdown/42380_la-chapelle-en-lafaye/4XTTMA94ssPjB8KeGytmVs3gi1U5ssUg5543gKutjHytFdR6d) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42380 	- LA CHAPELLE EN LAFAYE](https://docs.stopcoronavirus.tech/#/w/markdown/42380_la-chapelle-en-lafaye/4XTTMA94ssPjB8KeGytmVs3gi1U5ssUg5543gKutjHytFdR6d-K3TgUCkBNAD8zcQ6up7Lvv3y5xLtFFJJjkjR7aTxJyTNv9GgHxg71gJx4SN1CC3oCWHZYHqVjHY1c24XYGEdqDgpPNXPA1MVVfMmzXadVWZ1h5MqHFTbHowtbhPvb1fR9ibwwpYM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42380_la-chapelle-en-lafaye/4XTTMA94ssPjB8KeGytmVs3gi1U5ssUg5543gKutjHytFdR6d" class="myButton" style="color:white;">Consulter : 42380 	- LA CHAPELLE EN LAFAYE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42380_la-chapelle-en-lafaye/4XTTMA94ssPjB8KeGytmVs3gi1U5ssUg5543gKutjHytFdR6d-K3TgUCkBNAD8zcQ6up7Lvv3y5xLtFFJJjkjR7aTxJyTNv9GgHxg71gJx4SN1CC3oCWHZYHqVjHY1c24XYGEdqDgpPNXPA1MVVfMmzXadVWZ1h5MqHFTbHowtbhPvb1fR9ibwwpYM" class="myButton" style="color:white;">Déposer : 42380 	- LA CHAPELLE EN LAFAYE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW" class="myButton" style="color:white;">Consulter : 42 	- Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN" class="myButton" style="color:white;">Déposer : 42 	- Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

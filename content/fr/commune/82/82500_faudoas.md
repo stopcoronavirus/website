@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 82500 	- FAUDOAS](https://entraide.stopcoronavirus.tech/#/channel/82500_faudoas) (à privilégier)
-- [Canal de votre département : 82 	- Tarn-et-Garonne](https://entraide.stopcoronavirus.tech/#/channel/82_tarn-et-garonne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/82500_faudoas" class="myButton" style="color:white;">Canal de votre commune : 82500 	- FAUDOAS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/82_tarn-et-garonne" class="myButton" style="color:white;">Canal de votre département : 82 	- Tarn-et-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 82500 	- FAUDOAS](https://docs.stopcoronavirus.tech/#/r/markdown/82500_faudoas/4XTTM8xcVFtnUzLmshox2e8En2jXv9YpQgRnYRBdyLbdTwyaW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82500 	- FAUDOAS](https://docs.stopcoronavirus.tech/#/w/markdown/82500_faudoas/4XTTM8xcVFtnUzLmshox2e8En2jXv9YpQgRnYRBdyLbdTwyaW-K3TgUY4U4Lo9oqr3zX3SAouvyWCK9mTfpMDBuatLmh2RYdBVeDw2A8NjuB1mcxoUzJLQjmiyroU2d9rnT9a9w9ALefrGb1qGQSuKsTU3R8a5faAwSJ9V6mXZ25WAu8ZAmbC94JB8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82500_faudoas/4XTTM8xcVFtnUzLmshox2e8En2jXv9YpQgRnYRBdyLbdTwyaW" class="myButton" style="color:white;">Consulter : 82500 	- FAUDOAS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82500_faudoas/4XTTM8xcVFtnUzLmshox2e8En2jXv9YpQgRnYRBdyLbdTwyaW-K3TgUY4U4Lo9oqr3zX3SAouvyWCK9mTfpMDBuatLmh2RYdBVeDw2A8NjuB1mcxoUzJLQjmiyroU2d9rnT9a9w9ALefrGb1qGQSuKsTU3R8a5faAwSJ9V6mXZ25WAu8ZAmbC94JB8" class="myButton" style="color:white;">Déposer : 82500 	- FAUDOAS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP" class="myButton" style="color:white;">Consulter : 82 	- Tarn-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT" class="myButton" style="color:white;">Déposer : 82 	- Tarn-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

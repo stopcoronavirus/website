@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 61230 	- CISAI ST AUBIN](https://entraide.stopcoronavirus.tech/#/channel/61230_cisai-st-aubin) (à privilégier)
-- [Canal de votre département : 61 	- Orne](https://entraide.stopcoronavirus.tech/#/channel/61_orne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/61230_cisai-st-aubin" class="myButton" style="color:white;">Canal de votre commune : 61230 	- CISAI ST AUBIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/61_orne" class="myButton" style="color:white;">Canal de votre département : 61 	- Orne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 61230 	- CISAI ST AUBIN](https://docs.stopcoronavirus.tech/#/r/markdown/61230_cisai-st-aubin/4XTTM1AhLHK9PpBpVPzBxoT6L1vKVG6eV6UFsomRdNfdKB3Q6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61230 	- CISAI ST AUBIN](https://docs.stopcoronavirus.tech/#/w/markdown/61230_cisai-st-aubin/4XTTM1AhLHK9PpBpVPzBxoT6L1vKVG6eV6UFsomRdNfdKB3Q6-K3TgTdsM154MJT3j1kyK7xJQij6DFkiondwYejKr9dL5q9bxYUR9RWevUpJL3ngTQLka5T9bjzsGJwbo9ax3kVmto4rskUMWGab1JdLEoJHaKZebQBt9QMo6M79PvLFLxMqzoFRC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61230_cisai-st-aubin/4XTTM1AhLHK9PpBpVPzBxoT6L1vKVG6eV6UFsomRdNfdKB3Q6" class="myButton" style="color:white;">Consulter : 61230 	- CISAI ST AUBIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61230_cisai-st-aubin/4XTTM1AhLHK9PpBpVPzBxoT6L1vKVG6eV6UFsomRdNfdKB3Q6-K3TgTdsM154MJT3j1kyK7xJQij6DFkiondwYejKr9dL5q9bxYUR9RWevUpJL3ngTQLka5T9bjzsGJwbo9ax3kVmto4rskUMWGab1JdLEoJHaKZebQBt9QMo6M79PvLFLxMqzoFRC" class="myButton" style="color:white;">Déposer : 61230 	- CISAI ST AUBIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 61 	- Orne](https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 61 	- Orne](https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6" class="myButton" style="color:white;">Consulter : 61 	- Orne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN" class="myButton" style="color:white;">Déposer : 61 	- Orne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

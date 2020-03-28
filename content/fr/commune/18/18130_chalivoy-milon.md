@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 18130 	- CHALIVOY MILON](https://entraide.stopcoronavirus.tech/#/channel/18130_chalivoy-milon) (à privilégier)
-- [Canal de votre département : 18 	- Cher](https://entraide.stopcoronavirus.tech/#/channel/18_cher) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/18130_chalivoy-milon" class="myButton" style="color:white;">Canal de votre commune : 18130 	- CHALIVOY MILON</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/18_cher" class="myButton" style="color:white;">Canal de votre département : 18 	- Cher</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18130 	- CHALIVOY MILON](https://docs.stopcoronavirus.tech/#/r/markdown/18130_chalivoy-milon/4XTTM6ZGyRQQJBxra1e5TMQdDRzf1BMA44zQEF9SQQ8Nem1AH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18130 	- CHALIVOY MILON](https://docs.stopcoronavirus.tech/#/w/markdown/18130_chalivoy-milon/4XTTM6ZGyRQQJBxra1e5TMQdDRzf1BMA44zQEF9SQQ8Nem1AH-K3TgToQmvjc1xW92xfZ1Y8oNU3gBnh3xfyF5G5ZwrKvqwnhpgi5hnHQEcVx8Z6pgZvqGEqZdhPx3GHBQRJZvhHB27Xtz5zcFPPTpa3peL7G3evP9UrAk3gvfzEmRCTmvsCoC3Liu) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18130_chalivoy-milon/4XTTM6ZGyRQQJBxra1e5TMQdDRzf1BMA44zQEF9SQQ8Nem1AH" class="myButton" style="color:white;">Consulter : 18130 	- CHALIVOY MILON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18130_chalivoy-milon/4XTTM6ZGyRQQJBxra1e5TMQdDRzf1BMA44zQEF9SQQ8Nem1AH-K3TgToQmvjc1xW92xfZ1Y8oNU3gBnh3xfyF5G5ZwrKvqwnhpgi5hnHQEcVx8Z6pgZvqGEqZdhPx3GHBQRJZvhHB27Xtz5zcFPPTpa3peL7G3evP9UrAk3gvfzEmRCTmvsCoC3Liu" class="myButton" style="color:white;">Déposer : 18130 	- CHALIVOY MILON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w" class="myButton" style="color:white;">Consulter : 18 	- Cher</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD" class="myButton" style="color:white;">Déposer : 18 	- Cher</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 65300 	- CAMPISTROUS](https://entraide.stopcoronavirus.tech/#/channel/65300_campistrous) (à privilégier)
-- [Canal de votre département : 65 	- Hautes-Pyrénées](https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65300_campistrous" class="myButton" style="color:white;">Canal de votre commune : 65300 	- CAMPISTROUS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees" class="myButton" style="color:white;">Canal de votre département : 65 	- Hautes-Pyrénées</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 65300 	- CAMPISTROUS](https://docs.stopcoronavirus.tech/#/r/markdown/65300_campistrous/4XTTM2CnUx9W7NCLVjRp61eFug3Bms5Exb3oBEjZykiC6qLLp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 65300 	- CAMPISTROUS](https://docs.stopcoronavirus.tech/#/w/markdown/65300_campistrous/4XTTM2CnUx9W7NCLVjRp61eFug3Bms5Exb3oBEjZykiC6qLLp-K3TgU4sjaN8mSiQ4G2MvQADpXBmzK6MfNho8ZcgRQWZ27tLzFf4UjDJ37C56F5MvvMuPVdBmCokEs7ECkysc5veHxhcnhoQgPNEVpgVE2nS3YKzdGNZEyHcwWakQvpdoz3Etb8qW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65300_campistrous/4XTTM2CnUx9W7NCLVjRp61eFug3Bms5Exb3oBEjZykiC6qLLp" class="myButton" style="color:white;">Consulter : 65300 	- CAMPISTROUS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65300_campistrous/4XTTM2CnUx9W7NCLVjRp61eFug3Bms5Exb3oBEjZykiC6qLLp-K3TgU4sjaN8mSiQ4G2MvQADpXBmzK6MfNho8ZcgRQWZ27tLzFf4UjDJ37C56F5MvvMuPVdBmCokEs7ECkysc5veHxhcnhoQgPNEVpgVE2nS3YKzdGNZEyHcwWakQvpdoz3Etb8qW" class="myButton" style="color:white;">Déposer : 65300 	- CAMPISTROUS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 65 	- Hautes-Pyrénées](https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 65 	- Hautes-Pyrénées](https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB" class="myButton" style="color:white;">Consulter : 65 	- Hautes-Pyrénées</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj" class="myButton" style="color:white;">Déposer : 65 	- Hautes-Pyrénées</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

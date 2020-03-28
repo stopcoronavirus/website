@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 87420 	- STE MARIE DE VAUX](https://entraide.stopcoronavirus.tech/#/channel/87420_ste-marie-de-vaux) (à privilégier)
-- [Canal de votre département : 87 	- Haute-Vienne](https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87420_ste-marie-de-vaux" class="myButton" style="color:white;">Canal de votre commune : 87420 	- STE MARIE DE VAUX</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne" class="myButton" style="color:white;">Canal de votre département : 87 	- Haute-Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 87420 	- STE MARIE DE VAUX](https://docs.stopcoronavirus.tech/#/r/markdown/87420_ste-marie-de-vaux/4XTTM5otuYyF2VSZaF3jKyKjacgctoxWYHcPCvWsRk5KzkTQF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87420 	- STE MARIE DE VAUX](https://docs.stopcoronavirus.tech/#/w/markdown/87420_ste-marie-de-vaux/4XTTM5otuYyF2VSZaF3jKyKjacgctoxWYHcPCvWsRk5KzkTQF-K3TgUR8EQCETrkBRMwWtr5X6cgeNTcsSNGXYNDUqTM2G6Sc1p9RR88m3BEy7LvM4x7UURAwCQMbPQL2YgXMnHmbhmfNw1p8Vdy5gXN2fLvQc6KyY7eAoSnM6pv7JXArxLNwvK8s5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87420_ste-marie-de-vaux/4XTTM5otuYyF2VSZaF3jKyKjacgctoxWYHcPCvWsRk5KzkTQF" class="myButton" style="color:white;">Consulter : 87420 	- STE MARIE DE VAUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87420_ste-marie-de-vaux/4XTTM5otuYyF2VSZaF3jKyKjacgctoxWYHcPCvWsRk5KzkTQF-K3TgUR8EQCETrkBRMwWtr5X6cgeNTcsSNGXYNDUqTM2G6Sc1p9RR88m3BEy7LvM4x7UURAwCQMbPQL2YgXMnHmbhmfNw1p8Vdy5gXN2fLvQc6KyY7eAoSnM6pv7JXArxLNwvK8s5" class="myButton" style="color:white;">Déposer : 87420 	- STE MARIE DE VAUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q" class="myButton" style="color:white;">Consulter : 87 	- Haute-Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q" class="myButton" style="color:white;">Déposer : 87 	- Haute-Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

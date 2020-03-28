@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 36340 	- MALICORNAY](https://entraide.stopcoronavirus.tech/#/channel/36340_malicornay) (à privilégier)
-- [Canal de votre département : 36 	- Indre](https://entraide.stopcoronavirus.tech/#/channel/36_indre) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/36340_malicornay" class="myButton" style="color:white;">Canal de votre commune : 36340 	- MALICORNAY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/36_indre" class="myButton" style="color:white;">Canal de votre département : 36 	- Indre</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36340 	- MALICORNAY](https://docs.stopcoronavirus.tech/#/r/markdown/36340_malicornay/4XTTMHs5bjv2RRWmEmSTRtL5VD8kDPfjB7xY1zKTXxePbRqYn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36340 	- MALICORNAY](https://docs.stopcoronavirus.tech/#/w/markdown/36340_malicornay/4XTTMHs5bjv2RRWmEmSTRtL5VD8kDPfjB7xY1zKTXxePbRqYn-K3TgTeCpHcenQDJCqdeAk8nmquofjpguNinzRvhivPmHWvA5EC4Lz3hEhPtX84c3NLXDVviii2MNPWB8GuZf136E34L2WsRzhnNLrgVv7xZBjNuBDEq7tzAMRUFNmXQ5yu3a1nav) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36340_malicornay/4XTTMHs5bjv2RRWmEmSTRtL5VD8kDPfjB7xY1zKTXxePbRqYn" class="myButton" style="color:white;">Consulter : 36340 	- MALICORNAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36340_malicornay/4XTTMHs5bjv2RRWmEmSTRtL5VD8kDPfjB7xY1zKTXxePbRqYn-K3TgTeCpHcenQDJCqdeAk8nmquofjpguNinzRvhivPmHWvA5EC4Lz3hEhPtX84c3NLXDVviii2MNPWB8GuZf136E34L2WsRzhnNLrgVv7xZBjNuBDEq7tzAMRUFNmXQ5yu3a1nav" class="myButton" style="color:white;">Déposer : 36340 	- MALICORNAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1" class="myButton" style="color:white;">Consulter : 36 	- Indre</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT" class="myButton" style="color:white;">Déposer : 36 	- Indre</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 14290 	- VALORBIQUET](https://entraide.stopcoronavirus.tech/#/channel/14290_valorbiquet) (à privilégier)
-- [Canal de votre département : 14 	- Calvados](https://entraide.stopcoronavirus.tech/#/channel/14_calvados) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/14290_valorbiquet" class="myButton" style="color:white;">Canal de votre commune : 14290 	- VALORBIQUET</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/14_calvados" class="myButton" style="color:white;">Canal de votre département : 14 	- Calvados</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14290 	- VALORBIQUET](https://docs.stopcoronavirus.tech/#/r/markdown/14290_valorbiquet/4XTTMGh3ZJkuN1YNKhGrd8AhfKbWKQpoBLSfNKV1BtzAg2QpB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14290 	- VALORBIQUET](https://docs.stopcoronavirus.tech/#/w/markdown/14290_valorbiquet/4XTTMGh3ZJkuN1YNKhGrd8AhfKbWKQpoBLSfNKV1BtzAg2QpB-K3TgUzCJ7J6a9YZuLa7gjGoDsgVjHqiSfbKzdv5faEQDvBEdGXVwqN4qPrbnQ7v2frF6cBb9FnqbyJTJkEPDRUG8oXWve9XxHYVgysrQykFg5eS115jCB72oac2wMYT8NYqs2mvj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/14290_valorbiquet/4XTTMGh3ZJkuN1YNKhGrd8AhfKbWKQpoBLSfNKV1BtzAg2QpB" class="myButton" style="color:white;">Consulter : 14290 	- VALORBIQUET</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/14290_valorbiquet/4XTTMGh3ZJkuN1YNKhGrd8AhfKbWKQpoBLSfNKV1BtzAg2QpB-K3TgUzCJ7J6a9YZuLa7gjGoDsgVjHqiSfbKzdv5faEQDvBEdGXVwqN4qPrbnQ7v2frF6cBb9FnqbyJTJkEPDRUG8oXWve9XxHYVgysrQykFg5eS115jCB72oac2wMYT8NYqs2mvj" class="myButton" style="color:white;">Déposer : 14290 	- VALORBIQUET</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6" class="myButton" style="color:white;">Consulter : 14 	- Calvados</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi" class="myButton" style="color:white;">Déposer : 14 	- Calvados</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

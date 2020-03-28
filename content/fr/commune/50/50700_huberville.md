@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 50700 	- HUBERVILLE](https://entraide.stopcoronavirus.tech/#/channel/50700_huberville) (à privilégier)
-- [Canal de votre département : 50 	- Manche](https://entraide.stopcoronavirus.tech/#/channel/50_manche) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50700_huberville" class="myButton" style="color:white;">Canal de votre commune : 50700 	- HUBERVILLE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50_manche" class="myButton" style="color:white;">Canal de votre département : 50 	- Manche</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50700 	- HUBERVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/50700_huberville/4XTTMBEmoiR7MaQ2asxnthP6ByKTvTjaBZtu8AHwzH8sjizyQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50700 	- HUBERVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/50700_huberville/4XTTMBEmoiR7MaQ2asxnthP6ByKTvTjaBZtu8AHwzH8sjizyQ-K3TgTf2Ze7Ky8UTDRA5MzbDFchBkjt5VQovHr8FCgg3EcYxXvbCbbfQpxtsJkpvmyfPx2t7dbEKLVS7gDdyGDDQvtENGuy4NS4BMr6fWH54dSrxVNy4EWDmmgAGYTotNKb5XZzug) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50700_huberville/4XTTMBEmoiR7MaQ2asxnthP6ByKTvTjaBZtu8AHwzH8sjizyQ" class="myButton" style="color:white;">Consulter : 50700 	- HUBERVILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50700_huberville/4XTTMBEmoiR7MaQ2asxnthP6ByKTvTjaBZtu8AHwzH8sjizyQ-K3TgTf2Ze7Ky8UTDRA5MzbDFchBkjt5VQovHr8FCgg3EcYxXvbCbbfQpxtsJkpvmyfPx2t7dbEKLVS7gDdyGDDQvtENGuy4NS4BMr6fWH54dSrxVNy4EWDmmgAGYTotNKb5XZzug" class="myButton" style="color:white;">Déposer : 50700 	- HUBERVILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr" class="myButton" style="color:white;">Consulter : 50 	- Manche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE" class="myButton" style="color:white;">Déposer : 50 	- Manche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

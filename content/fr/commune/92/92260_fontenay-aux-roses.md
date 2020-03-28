@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 92260 	- FONTENAY AUX ROSES](https://entraide.stopcoronavirus.tech/#/channel/92260_fontenay-aux-roses) (à privilégier)
-- [Canal de votre département : 92 	- Hauts-de-Seine](https://entraide.stopcoronavirus.tech/#/channel/92_hauts-de-seine) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/92260_fontenay-aux-roses" class="myButton" style="color:white;">Canal de votre commune : 92260 	- FONTENAY AUX ROSES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/92_hauts-de-seine" class="myButton" style="color:white;">Canal de votre département : 92 	- Hauts-de-Seine</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 92260 	- FONTENAY AUX ROSES](https://docs.stopcoronavirus.tech/#/r/markdown/92260_fontenay-aux-roses/4XTTMFxHHGRd3h1tVg3sPuj3AiG3ucLEFGaP2eY5TnRycW23y) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92260 	- FONTENAY AUX ROSES](https://docs.stopcoronavirus.tech/#/w/markdown/92260_fontenay-aux-roses/4XTTMFxHHGRd3h1tVg3sPuj3AiG3ucLEFGaP2eY5TnRycW23y-K3TgUhh1fZp3xHPBRop8Q8G68VyjhNLD65AqmptSYLpuw6RKFwDLvZ4tASA6YUZCYEEscQA2h5K46z6LvnWPZW1LtTvtLDYMzwo4q8zR5etZ8o8s9AumP3Mf7SzgWPuUdvNzQGZd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/92260_fontenay-aux-roses/4XTTMFxHHGRd3h1tVg3sPuj3AiG3ucLEFGaP2eY5TnRycW23y" class="myButton" style="color:white;">Consulter : 92260 	- FONTENAY AUX ROSES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/92260_fontenay-aux-roses/4XTTMFxHHGRd3h1tVg3sPuj3AiG3ucLEFGaP2eY5TnRycW23y-K3TgUhh1fZp3xHPBRop8Q8G68VyjhNLD65AqmptSYLpuw6RKFwDLvZ4tASA6YUZCYEEscQA2h5K46z6LvnWPZW1LtTvtLDYMzwo4q8zR5etZ8o8s9AumP3Mf7SzgWPuUdvNzQGZd" class="myButton" style="color:white;">Déposer : 92260 	- FONTENAY AUX ROSES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM" class="myButton" style="color:white;">Consulter : 92 	- Hauts-de-Seine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH" class="myButton" style="color:white;">Déposer : 92 	- Hauts-de-Seine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

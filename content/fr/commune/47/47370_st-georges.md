@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 47370 	- ST GEORGES](https://entraide.stopcoronavirus.tech/#/channel/47370_st-georges) (à privilégier)
-- [Canal de votre département : 47 	- Lot-et-Garonne](https://entraide.stopcoronavirus.tech/#/channel/47_lot-et-garonne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/47370_st-georges" class="myButton" style="color:white;">Canal de votre commune : 47370 	- ST GEORGES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/47_lot-et-garonne" class="myButton" style="color:white;">Canal de votre département : 47 	- Lot-et-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 47370 	- ST GEORGES](https://docs.stopcoronavirus.tech/#/r/markdown/47370_st-georges/4XTTMBbz1V7m9mQ4nnZ2uice837TJ6gpTtcWsHjNWT3ht9xP7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47370 	- ST GEORGES](https://docs.stopcoronavirus.tech/#/w/markdown/47370_st-georges/4XTTMBbz1V7m9mQ4nnZ2uice837TJ6gpTtcWsHjNWT3ht9xP7-K3TgUuo9xzVRK6kB99XUroPfT2ffnNDbVf7HBVaLbC24V1pqk2Dyf1oKS121UTb23hFPYVme1ZUk43WNoE8NhtPaGbgjatuAJ8bTSNyVf7acrPP3N1u2uggjayrcRRZpbQxiqwq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47370_st-georges/4XTTMBbz1V7m9mQ4nnZ2uice837TJ6gpTtcWsHjNWT3ht9xP7" class="myButton" style="color:white;">Consulter : 47370 	- ST GEORGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47370_st-georges/4XTTMBbz1V7m9mQ4nnZ2uice837TJ6gpTtcWsHjNWT3ht9xP7-K3TgUuo9xzVRK6kB99XUroPfT2ffnNDbVf7HBVaLbC24V1pqk2Dyf1oKS121UTb23hFPYVme1ZUk43WNoE8NhtPaGbgjatuAJ8bTSNyVf7acrPP3N1u2uggjayrcRRZpbQxiqwq7" class="myButton" style="color:white;">Déposer : 47370 	- ST GEORGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn" class="myButton" style="color:white;">Consulter : 47 	- Lot-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA" class="myButton" style="color:white;">Déposer : 47 	- Lot-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 16310 	- MONTEMBOEUF](https://entraide.stopcoronavirus.tech/#/channel/16310_montemboeuf) (à privilégier)
-- [Canal de votre département : 16 	- Charente](https://entraide.stopcoronavirus.tech/#/channel/16_charente) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/16310_montemboeuf" class="myButton" style="color:white;">Canal de votre commune : 16310 	- MONTEMBOEUF</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/16_charente" class="myButton" style="color:white;">Canal de votre département : 16 	- Charente</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 16310 	- MONTEMBOEUF](https://docs.stopcoronavirus.tech/#/r/markdown/16310_montemboeuf/4XTTMGY1TPHQ6LFYFQGDq2oWbd77FveAAeiKDsgkXerq8ZcjX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16310 	- MONTEMBOEUF](https://docs.stopcoronavirus.tech/#/w/markdown/16310_montemboeuf/4XTTMGY1TPHQ6LFYFQGDq2oWbd77FveAAeiKDsgkXerq8ZcjX-K3TgUspuJqWWGtsAysQukQvwpjAVu8pY38A9A4iqerkXgiKE7BVvft8n7GTYGk2YZ5Zz6zNcE4cwMNy9xvcSQ63UBJNuJtCw1u5aQQN3yyCGtSd1FEKAw6hR3eBbfjKNBrW9SCwo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/16310_montemboeuf/4XTTMGY1TPHQ6LFYFQGDq2oWbd77FveAAeiKDsgkXerq8ZcjX" class="myButton" style="color:white;">Consulter : 16310 	- MONTEMBOEUF</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/16310_montemboeuf/4XTTMGY1TPHQ6LFYFQGDq2oWbd77FveAAeiKDsgkXerq8ZcjX-K3TgUspuJqWWGtsAysQukQvwpjAVu8pY38A9A4iqerkXgiKE7BVvft8n7GTYGk2YZ5Zz6zNcE4cwMNy9xvcSQ63UBJNuJtCw1u5aQQN3yyCGtSd1FEKAw6hR3eBbfjKNBrW9SCwo" class="myButton" style="color:white;">Déposer : 16310 	- MONTEMBOEUF</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 16 	- Charente](https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 16 	- Charente](https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8" class="myButton" style="color:white;">Consulter : 16 	- Charente</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/16_charente/4XTTM4Hb4btGmQscDATWU3w2eGohcwgqasCDtGWVahJnAEsq8-K3TgU9zhAjxEMbYrSr9VB24idAgS7xBryN3TjEsJmsrToRfRc8PWUu9zDXmtMXWLR7TNqZhAPJFsnJ4QbuWpLJvHpyW2q8LZxtsaakTfiMdj4HFsc11ZXzpn4aT8zYKZzSLwV1CA" class="myButton" style="color:white;">Déposer : 16 	- Charente</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

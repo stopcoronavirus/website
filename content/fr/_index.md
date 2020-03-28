@@ -15,9 +15,9 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés pour **chaq
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les _annonces et initiatives_
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
-Pour commencer, rendez-vous sur la page de [**VOTRE COMMUNE en cliquant sur ce lien**](/departements).
+Pour commencer, rendez-vous sur la page de <a href="/departements" class="myButton" style="color:white;">VOTRE COMMUNE en cliquant sur ce lien</a>
 
 <p><small><i>
 (*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur

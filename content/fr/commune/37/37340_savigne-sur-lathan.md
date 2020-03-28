@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 37340 	- SAVIGNE SUR LATHAN](https://entraide.stopcoronavirus.tech/#/channel/37340_savigne-sur-lathan) (à privilégier)
-- [Canal de votre département : 37 	- Indre-et-Loire](https://entraide.stopcoronavirus.tech/#/channel/37_indre-et-loire) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/37340_savigne-sur-lathan" class="myButton" style="color:white;">Canal de votre commune : 37340 	- SAVIGNE SUR LATHAN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/37_indre-et-loire" class="myButton" style="color:white;">Canal de votre département : 37 	- Indre-et-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 37340 	- SAVIGNE SUR LATHAN](https://docs.stopcoronavirus.tech/#/r/markdown/37340_savigne-sur-lathan/4XTTMGp35MpcJKGajt3PvxHszM8SbPkYEWWbqvYKxDQa5HUPn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37340 	- SAVIGNE SUR LATHAN](https://docs.stopcoronavirus.tech/#/w/markdown/37340_savigne-sur-lathan/4XTTMGp35MpcJKGajt3PvxHszM8SbPkYEWWbqvYKxDQa5HUPn-K3TgUwE2Xbkk6pxgfg2Y8WSEwFShi74WbJY1xqdb5KcULhP11445tBSaos8W5aR84Aj1v9NJx1T7BSPWzUsqEgB4ELsqFAHKNS8mAbdjBekTkdFgL5QZDSND11o5JDvUeT8GmEJx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/37340_savigne-sur-lathan/4XTTMGp35MpcJKGajt3PvxHszM8SbPkYEWWbqvYKxDQa5HUPn" class="myButton" style="color:white;">Consulter : 37340 	- SAVIGNE SUR LATHAN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/37340_savigne-sur-lathan/4XTTMGp35MpcJKGajt3PvxHszM8SbPkYEWWbqvYKxDQa5HUPn-K3TgUwE2Xbkk6pxgfg2Y8WSEwFShi74WbJY1xqdb5KcULhP11445tBSaos8W5aR84Aj1v9NJx1T7BSPWzUsqEgB4ELsqFAHKNS8mAbdjBekTkdFgL5QZDSND11o5JDvUeT8GmEJx" class="myButton" style="color:white;">Déposer : 37340 	- SAVIGNE SUR LATHAN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 37 	- Indre-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC" class="myButton" style="color:white;">Consulter : 37 	- Indre-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi" class="myButton" style="color:white;">Déposer : 37 	- Indre-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

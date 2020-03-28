@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 02860 	- COLLIGIS CRANDELAIN](https://entraide.stopcoronavirus.tech/#/channel/02860_colligis-crandelain) (à privilégier)
-- [Canal de votre département : 02 	- Aisne](https://entraide.stopcoronavirus.tech/#/channel/02_aisne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/02860_colligis-crandelain" class="myButton" style="color:white;">Canal de votre commune : 02860 	- COLLIGIS CRANDELAIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/02_aisne" class="myButton" style="color:white;">Canal de votre département : 02 	- Aisne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02860 	- COLLIGIS CRANDELAIN](https://docs.stopcoronavirus.tech/#/r/markdown/02860_colligis-crandelain/4XTTMHEQcYHVWxurZ67ThgjFpEoDGFZtTyBzPqRbdiY5ZHPfb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02860 	- COLLIGIS CRANDELAIN](https://docs.stopcoronavirus.tech/#/w/markdown/02860_colligis-crandelain/4XTTMHEQcYHVWxurZ67ThgjFpEoDGFZtTyBzPqRbdiY5ZHPfb-K3TgUrcSuZAfEkDr9muMuezbNUioJ87mg6rdhhS8ufW3CSvTwdNq3vBN7aUNQvWm5rba6PeoDC3Z96aya54wvratqoHatdRpuiseGkBsEjFUCx5H4RyK7ogqvwcvaKSSc8wXSBT3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02860_colligis-crandelain/4XTTMHEQcYHVWxurZ67ThgjFpEoDGFZtTyBzPqRbdiY5ZHPfb" class="myButton" style="color:white;">Consulter : 02860 	- COLLIGIS CRANDELAIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02860_colligis-crandelain/4XTTMHEQcYHVWxurZ67ThgjFpEoDGFZtTyBzPqRbdiY5ZHPfb-K3TgUrcSuZAfEkDr9muMuezbNUioJ87mg6rdhhS8ufW3CSvTwdNq3vBN7aUNQvWm5rba6PeoDC3Z96aya54wvratqoHatdRpuiseGkBsEjFUCx5H4RyK7ogqvwcvaKSSc8wXSBT3" class="myButton" style="color:white;">Déposer : 02860 	- COLLIGIS CRANDELAIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf" class="myButton" style="color:white;">Consulter : 02 	- Aisne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M" class="myButton" style="color:white;">Déposer : 02 	- Aisne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

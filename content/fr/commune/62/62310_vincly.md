@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 62310 	- VINCLY](https://entraide.stopcoronavirus.tech/#/channel/62310_vincly) (à privilégier)
-- [Canal de votre département : 62 	- Pas-de-Calais](https://entraide.stopcoronavirus.tech/#/channel/62_pas-de-calais) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/62310_vincly" class="myButton" style="color:white;">Canal de votre commune : 62310 	- VINCLY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/62_pas-de-calais" class="myButton" style="color:white;">Canal de votre département : 62 	- Pas-de-Calais</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 62310 	- VINCLY](https://docs.stopcoronavirus.tech/#/r/markdown/62310_vincly/4XTTM3f8fs62VGdkPQcS8RueQRb5Mqx6anxNqoJujYrL5ugAC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62310 	- VINCLY](https://docs.stopcoronavirus.tech/#/w/markdown/62310_vincly/4XTTM3f8fs62VGdkPQcS8RueQRb5Mqx6anxNqoJujYrL5ugAC-K3TgUYPLTbJHSwVuAhrcdfcfZ4aPwtQXjCDG9AYpcJEecm357w7sjBxwj7LjujS46UoQmhskKcvwWfcXKFgHUc2ZiYhcJ55Lrjo8qDfiPzFxzZ3xiJ5AvR8cNBaLCWZmj5oMk7mA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62310_vincly/4XTTM3f8fs62VGdkPQcS8RueQRb5Mqx6anxNqoJujYrL5ugAC" class="myButton" style="color:white;">Consulter : 62310 	- VINCLY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62310_vincly/4XTTM3f8fs62VGdkPQcS8RueQRb5Mqx6anxNqoJujYrL5ugAC-K3TgUYPLTbJHSwVuAhrcdfcfZ4aPwtQXjCDG9AYpcJEecm357w7sjBxwj7LjujS46UoQmhskKcvwWfcXKFgHUc2ZiYhcJ55Lrjo8qDfiPzFxzZ3xiJ5AvR8cNBaLCWZmj5oMk7mA" class="myButton" style="color:white;">Déposer : 62310 	- VINCLY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M" class="myButton" style="color:white;">Consulter : 62 	- Pas-de-Calais</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD" class="myButton" style="color:white;">Déposer : 62 	- Pas-de-Calais</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

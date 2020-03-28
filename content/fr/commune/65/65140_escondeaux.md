@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 65140 	- ESCONDEAUX](https://entraide.stopcoronavirus.tech/#/channel/65140_escondeaux) (à privilégier)
-- [Canal de votre département : 65 	- Hautes-Pyrénées](https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65140_escondeaux" class="myButton" style="color:white;">Canal de votre commune : 65140 	- ESCONDEAUX</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees" class="myButton" style="color:white;">Canal de votre département : 65 	- Hautes-Pyrénées</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 65140 	- ESCONDEAUX](https://docs.stopcoronavirus.tech/#/r/markdown/65140_escondeaux/4XTTMABspMfk3dUeJPNursWM7PRLMs3d8dHVW4pwcd2gj6GaV) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 65140 	- ESCONDEAUX](https://docs.stopcoronavirus.tech/#/w/markdown/65140_escondeaux/4XTTMABspMfk3dUeJPNursWM7PRLMs3d8dHVW4pwcd2gj6GaV-K3TgUfSqL9kPyqcA67EwuVbRBtKnv7Z8PEFvsfZ8DGJZzBio1DC68PAPgq8zkCSzP4ZvabQGGmohQ6rA9SPi8JsS4qqVm7B3zaRCR3V9xV6NyC557hnmoQLpkMsA9TrdhknFhFk5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65140_escondeaux/4XTTMABspMfk3dUeJPNursWM7PRLMs3d8dHVW4pwcd2gj6GaV" class="myButton" style="color:white;">Consulter : 65140 	- ESCONDEAUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65140_escondeaux/4XTTMABspMfk3dUeJPNursWM7PRLMs3d8dHVW4pwcd2gj6GaV-K3TgUfSqL9kPyqcA67EwuVbRBtKnv7Z8PEFvsfZ8DGJZzBio1DC68PAPgq8zkCSzP4ZvabQGGmohQ6rA9SPi8JsS4qqVm7B3zaRCR3V9xV6NyC557hnmoQLpkMsA9TrdhknFhFk5" class="myButton" style="color:white;">Déposer : 65140 	- ESCONDEAUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 65 	- Hautes-Pyrénées](https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 65 	- Hautes-Pyrénées](https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB" class="myButton" style="color:white;">Consulter : 65 	- Hautes-Pyrénées</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj" class="myButton" style="color:white;">Déposer : 65 	- Hautes-Pyrénées</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

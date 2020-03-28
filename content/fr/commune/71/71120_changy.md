@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 71120 	- CHANGY](https://entraide.stopcoronavirus.tech/#/channel/71120_changy) (à privilégier)
-- [Canal de votre département : 71 	- Saône-et-Loire](https://entraide.stopcoronavirus.tech/#/channel/71_saone-et-loire) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/71120_changy" class="myButton" style="color:white;">Canal de votre commune : 71120 	- CHANGY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/71_saone-et-loire" class="myButton" style="color:white;">Canal de votre département : 71 	- Saône-et-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71120 	- CHANGY](https://docs.stopcoronavirus.tech/#/r/markdown/71120_changy/4XTTMF7sGqjPXA5XuBkXXQ2RvpU2gGxgP4yRfAth6dQ9G8Xu5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71120 	- CHANGY](https://docs.stopcoronavirus.tech/#/w/markdown/71120_changy/4XTTMF7sGqjPXA5XuBkXXQ2RvpU2gGxgP4yRfAth6dQ9G8Xu5-K3TgTcNVaqWrU65Ava2jLqudXDoyUvRti7smoHuqLTNPt5SyeJYm8M4jfYZU1Nv6L9yBr1FyVxKoSRT994wswXV68WrZJ6FdCWnHZC5N4LKB1iaiJBp5SbfgbYAhASwkgNMzJSDR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/71120_changy/4XTTMF7sGqjPXA5XuBkXXQ2RvpU2gGxgP4yRfAth6dQ9G8Xu5" class="myButton" style="color:white;">Consulter : 71120 	- CHANGY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/71120_changy/4XTTMF7sGqjPXA5XuBkXXQ2RvpU2gGxgP4yRfAth6dQ9G8Xu5-K3TgTcNVaqWrU65Ava2jLqudXDoyUvRti7smoHuqLTNPt5SyeJYm8M4jfYZU1Nv6L9yBr1FyVxKoSRT994wswXV68WrZJ6FdCWnHZC5N4LKB1iaiJBp5SbfgbYAhASwkgNMzJSDR" class="myButton" style="color:white;">Déposer : 71120 	- CHANGY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL" class="myButton" style="color:white;">Consulter : 71 	- Saône-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC" class="myButton" style="color:white;">Déposer : 71 	- Saône-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 70700 	- ANGIREY](https://entraide.stopcoronavirus.tech/#/channel/70700_angirey) (à privilégier)
-- [Canal de votre département : 70 	- Haute-Saône](https://entraide.stopcoronavirus.tech/#/channel/70_haute-saone) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/70700_angirey" class="myButton" style="color:white;">Canal de votre commune : 70700 	- ANGIREY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/70_haute-saone" class="myButton" style="color:white;">Canal de votre département : 70 	- Haute-Saône</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 70700 	- ANGIREY](https://docs.stopcoronavirus.tech/#/r/markdown/70700_angirey/4XTTMCWA4Fxgcuko36HNyQ88Y85ncrrNVceoGojTFouUzoN7E) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70700 	- ANGIREY](https://docs.stopcoronavirus.tech/#/w/markdown/70700_angirey/4XTTMCWA4Fxgcuko36HNyQ88Y85ncrrNVceoGojTFouUzoN7E-K3TgV6MKK6Gus2kmEbXj6yznDAgM8KtFSBoThCoB7zsWbvLWzHYitKzKw24J6tg5HAZ3DQp1ucMAdANRaiqB9CdWJjb8e2UB6b5dJ9dQ2p5fiTpzNiMvbM4ck7Ri2ueJunf4Vmhn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/70700_angirey/4XTTMCWA4Fxgcuko36HNyQ88Y85ncrrNVceoGojTFouUzoN7E" class="myButton" style="color:white;">Consulter : 70700 	- ANGIREY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/70700_angirey/4XTTMCWA4Fxgcuko36HNyQ88Y85ncrrNVceoGojTFouUzoN7E-K3TgV6MKK6Gus2kmEbXj6yznDAgM8KtFSBoThCoB7zsWbvLWzHYitKzKw24J6tg5HAZ3DQp1ucMAdANRaiqB9CdWJjb8e2UB6b5dJ9dQ2p5fiTpzNiMvbM4ck7Ri2ueJunf4Vmhn" class="myButton" style="color:white;">Déposer : 70700 	- ANGIREY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 70 	- Haute-Saône](https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa" class="myButton" style="color:white;">Consulter : 70 	- Haute-Saône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN" class="myButton" style="color:white;">Déposer : 70 	- Haute-Saône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

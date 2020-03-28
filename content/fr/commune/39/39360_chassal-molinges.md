@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 39360 	- CHASSAL MOLINGES](https://entraide.stopcoronavirus.tech/#/channel/39360_chassal-molinges) (à privilégier)
-- [Canal de votre département : 39 	- Jura](https://entraide.stopcoronavirus.tech/#/channel/39_jura) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/39360_chassal-molinges" class="myButton" style="color:white;">Canal de votre commune : 39360 	- CHASSAL MOLINGES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/39_jura" class="myButton" style="color:white;">Canal de votre département : 39 	- Jura</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 39360 	- CHASSAL MOLINGES](https://docs.stopcoronavirus.tech/#/r/markdown/39360_chassal-molinges/4XTTMGfQ8yvztbLMX1DVPjjywNfCL48J8JMZZfUKfueT6S6Rz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39360 	- CHASSAL MOLINGES](https://docs.stopcoronavirus.tech/#/w/markdown/39360_chassal-molinges/4XTTMGfQ8yvztbLMX1DVPjjywNfCL48J8JMZZfUKfueT6S6Rz-K3TgUeFea78B8e6GoHm2FQPSecsGa5Ta3uWmxgPLeUZDRqWnn8WRPQPkbb9MzAyr69C6J6v18bCrD7276fEdWd2uz86NoYgapoUWSTY3Bvx3NEFDmnjDMGbCA8DWBXypi1ajfXd6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39360_chassal-molinges/4XTTMGfQ8yvztbLMX1DVPjjywNfCL48J8JMZZfUKfueT6S6Rz" class="myButton" style="color:white;">Consulter : 39360 	- CHASSAL MOLINGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39360_chassal-molinges/4XTTMGfQ8yvztbLMX1DVPjjywNfCL48J8JMZZfUKfueT6S6Rz-K3TgUeFea78B8e6GoHm2FQPSecsGa5Ta3uWmxgPLeUZDRqWnn8WRPQPkbb9MzAyr69C6J6v18bCrD7276fEdWd2uz86NoYgapoUWSTY3Bvx3NEFDmnjDMGbCA8DWBXypi1ajfXd6" class="myButton" style="color:white;">Déposer : 39360 	- CHASSAL MOLINGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 39 	- Jura](https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 39 	- Jura](https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7" class="myButton" style="color:white;">Consulter : 39 	- Jura</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1" class="myButton" style="color:white;">Déposer : 39 	- Jura</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

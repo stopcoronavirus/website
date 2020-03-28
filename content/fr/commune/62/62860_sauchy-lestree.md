@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 62860 	- SAUCHY LESTREE](https://entraide.stopcoronavirus.tech/#/channel/62860_sauchy-lestree) (à privilégier)
-- [Canal de votre département : 62 	- Pas-de-Calais](https://entraide.stopcoronavirus.tech/#/channel/62_pas-de-calais) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/62860_sauchy-lestree" class="myButton" style="color:white;">Canal de votre commune : 62860 	- SAUCHY LESTREE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/62_pas-de-calais" class="myButton" style="color:white;">Canal de votre département : 62 	- Pas-de-Calais</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 62860 	- SAUCHY LESTREE](https://docs.stopcoronavirus.tech/#/r/markdown/62860_sauchy-lestree/4XTTM36GvkXwP8F4JqezftBYaTaZv6MZXTsc871bUeCsk1bLo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62860 	- SAUCHY LESTREE](https://docs.stopcoronavirus.tech/#/w/markdown/62860_sauchy-lestree/4XTTM36GvkXwP8F4JqezftBYaTaZv6MZXTsc871bUeCsk1bLo-K3TgUakxjgfVfmDFGUujdBu5gwppAZbo5bRixVkDiMDNUau1zH744kq1MX3a6HZhbWLERZfj6qu5Cj7FWvnyYXYBVccBLavsVedetrnHQtGBuYmhVtoWSNHrx94seTc6ghe9BdfR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62860_sauchy-lestree/4XTTM36GvkXwP8F4JqezftBYaTaZv6MZXTsc871bUeCsk1bLo" class="myButton" style="color:white;">Consulter : 62860 	- SAUCHY LESTREE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62860_sauchy-lestree/4XTTM36GvkXwP8F4JqezftBYaTaZv6MZXTsc871bUeCsk1bLo-K3TgUakxjgfVfmDFGUujdBu5gwppAZbo5bRixVkDiMDNUau1zH744kq1MX3a6HZhbWLERZfj6qu5Cj7FWvnyYXYBVccBLavsVedetrnHQtGBuYmhVtoWSNHrx94seTc6ghe9BdfR" class="myButton" style="color:white;">Déposer : 62860 	- SAUCHY LESTREE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M" class="myButton" style="color:white;">Consulter : 62 	- Pas-de-Calais</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD" class="myButton" style="color:white;">Déposer : 62 	- Pas-de-Calais</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

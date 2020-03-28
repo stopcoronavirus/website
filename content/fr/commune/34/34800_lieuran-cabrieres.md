@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 34800 	- LIEURAN CABRIERES](https://entraide.stopcoronavirus.tech/#/channel/34800_lieuran-cabrieres) (à privilégier)
-- [Canal de votre département : 34 	- Hérault](https://entraide.stopcoronavirus.tech/#/channel/34_herault) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34800_lieuran-cabrieres" class="myButton" style="color:white;">Canal de votre commune : 34800 	- LIEURAN CABRIERES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34_herault" class="myButton" style="color:white;">Canal de votre département : 34 	- Hérault</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 34800 	- LIEURAN CABRIERES](https://docs.stopcoronavirus.tech/#/r/markdown/34800_lieuran-cabrieres/4XTTM7t47vA934eqm5aPQbK7cj6BMsmS6iaKqxEFna7MUWctv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34800 	- LIEURAN CABRIERES](https://docs.stopcoronavirus.tech/#/w/markdown/34800_lieuran-cabrieres/4XTTM7t47vA934eqm5aPQbK7cj6BMsmS6iaKqxEFna7MUWctv-K3TgUgPDctQ9BsBaHYSuUJDn7Ne19ywSrUP3PWs6U7AicMm5AN7Raur23So4STVZtJ785jaehRCcdowxH64mg6xAe3bugXya5DAUnaTqUJuhGXgEjBQvTNNyeUZD3iQ3LGMVwwpz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34800_lieuran-cabrieres/4XTTM7t47vA934eqm5aPQbK7cj6BMsmS6iaKqxEFna7MUWctv" class="myButton" style="color:white;">Consulter : 34800 	- LIEURAN CABRIERES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34800_lieuran-cabrieres/4XTTM7t47vA934eqm5aPQbK7cj6BMsmS6iaKqxEFna7MUWctv-K3TgUgPDctQ9BsBaHYSuUJDn7Ne19ywSrUP3PWs6U7AicMm5AN7Raur23So4STVZtJ785jaehRCcdowxH64mg6xAe3bugXya5DAUnaTqUJuhGXgEjBQvTNNyeUZD3iQ3LGMVwwpz" class="myButton" style="color:white;">Déposer : 34800 	- LIEURAN CABRIERES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8" class="myButton" style="color:white;">Consulter : 34 	- Hérault</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J" class="myButton" style="color:white;">Déposer : 34 	- Hérault</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

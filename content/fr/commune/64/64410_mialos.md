@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 64410 	- MIALOS](https://entraide.stopcoronavirus.tech/#/channel/64410_mialos) (à privilégier)
-- [Canal de votre département : 64 	- Pyrénées-Atlantiques](https://entraide.stopcoronavirus.tech/#/channel/64_pyrenees-atlantiques) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/64410_mialos" class="myButton" style="color:white;">Canal de votre commune : 64410 	- MIALOS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/64_pyrenees-atlantiques" class="myButton" style="color:white;">Canal de votre département : 64 	- Pyrénées-Atlantiques</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 64410 	- MIALOS](https://docs.stopcoronavirus.tech/#/r/markdown/64410_mialos/4XTTM948BHu7E7uvHu83wUVLYnHrpjgucj5CtQCkX4TvfTMDc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64410 	- MIALOS](https://docs.stopcoronavirus.tech/#/w/markdown/64410_mialos/4XTTM948BHu7E7uvHu83wUVLYnHrpjgucj5CtQCkX4TvfTMDc-K3TgUaLiitr9riUEQiAi7GWKAf3c3yU4qSYX7b2DtMZmeF4mP13B9kpYPYFsU9pUDgy8b3bU4FUPzfP7HPRXMu1eTSEq1xNwyWqt6Uds4EpULGwqBu3DX7RUFNUH1uWH9PiBQ9DC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64410_mialos/4XTTM948BHu7E7uvHu83wUVLYnHrpjgucj5CtQCkX4TvfTMDc" class="myButton" style="color:white;">Consulter : 64410 	- MIALOS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64410_mialos/4XTTM948BHu7E7uvHu83wUVLYnHrpjgucj5CtQCkX4TvfTMDc-K3TgUaLiitr9riUEQiAi7GWKAf3c3yU4qSYX7b2DtMZmeF4mP13B9kpYPYFsU9pUDgy8b3bU4FUPzfP7HPRXMu1eTSEq1xNwyWqt6Uds4EpULGwqBu3DX7RUFNUH1uWH9PiBQ9DC" class="myButton" style="color:white;">Déposer : 64410 	- MIALOS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k" class="myButton" style="color:white;">Consulter : 64 	- Pyrénées-Atlantiques</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4" class="myButton" style="color:white;">Déposer : 64 	- Pyrénées-Atlantiques</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

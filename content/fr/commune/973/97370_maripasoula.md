@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 97370 	- MARIPASOULA](https://entraide.stopcoronavirus.tech/#/channel/97370_maripasoula) (à privilégier)
-- [Canal de votre département : 973 	- Guyane](https://entraide.stopcoronavirus.tech/#/channel/973_guyane) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97370_maripasoula" class="myButton" style="color:white;">Canal de votre commune : 97370 	- MARIPASOULA</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/973_guyane" class="myButton" style="color:white;">Canal de votre département : 973 	- Guyane</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97370 	- MARIPASOULA](https://docs.stopcoronavirus.tech/#/r/markdown/97370_maripasoula/4XTTMGpww8CUuY7ePXWCctq79oc5U8y2ykiBe8KnmRY4DANsq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97370 	- MARIPASOULA](https://docs.stopcoronavirus.tech/#/w/markdown/97370_maripasoula/4XTTMGpww8CUuY7ePXWCctq79oc5U8y2ykiBe8KnmRY4DANsq-K3TgUC1i3KT5Kfk72MeXbbHxFyz23uk4MtMcJRAMpUSYsmwhY1aJ5bGKicMtD9iaT2ttqJX16in43SjukdwMdQWpSurFJoGfpBvM4UZatxqpSFxHW8zYaRLYj2x3weMcgT8RqpZ5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97370_maripasoula/4XTTMGpww8CUuY7ePXWCctq79oc5U8y2ykiBe8KnmRY4DANsq" class="myButton" style="color:white;">Consulter : 97370 	- MARIPASOULA</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97370_maripasoula/4XTTMGpww8CUuY7ePXWCctq79oc5U8y2ykiBe8KnmRY4DANsq-K3TgUC1i3KT5Kfk72MeXbbHxFyz23uk4MtMcJRAMpUSYsmwhY1aJ5bGKicMtD9iaT2ttqJX16in43SjukdwMdQWpSurFJoGfpBvM4UZatxqpSFxHW8zYaRLYj2x3weMcgT8RqpZ5" class="myButton" style="color:white;">Déposer : 97370 	- MARIPASOULA</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 973 	- Guyane](https://docs.stopcoronavirus.tech/#/r/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 973 	- Guyane](https://docs.stopcoronavirus.tech/#/w/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc-K3TgTgNFrGYQL7RzdiUs2G5kz5wznH8a7V3hvZcSXNRKvSbg2tsbecC3Je5R7hpbbDk7dogAkEsJV5SFg7UEJUHx8Fogpcmn5vubMjKA1FgiKo3tE8H7NRgUs3M6tfhzyxkWCUs8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc" class="myButton" style="color:white;">Consulter : 973 	- Guyane</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc-K3TgTgNFrGYQL7RzdiUs2G5kz5wznH8a7V3hvZcSXNRKvSbg2tsbecC3Je5R7hpbbDk7dogAkEsJV5SFg7UEJUHx8Fogpcmn5vubMjKA1FgiKo3tE8H7NRgUs3M6tfhzyxkWCUs8" class="myButton" style="color:white;">Déposer : 973 	- Guyane</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

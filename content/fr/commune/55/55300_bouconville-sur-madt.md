@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 55300 	- BOUCONVILLE SUR MADT](https://entraide.stopcoronavirus.tech/#/channel/55300_bouconville-sur-madt) (à privilégier)
-- [Canal de votre département : 55 	- Meuse](https://entraide.stopcoronavirus.tech/#/channel/55_meuse) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/55300_bouconville-sur-madt" class="myButton" style="color:white;">Canal de votre commune : 55300 	- BOUCONVILLE SUR MADT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/55_meuse" class="myButton" style="color:white;">Canal de votre département : 55 	- Meuse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 55300 	- BOUCONVILLE SUR MADT](https://docs.stopcoronavirus.tech/#/r/markdown/55300_bouconville-sur-madt/4XTTM5qWz6NB5A8eSGgcz1Rc6vqLGZEAgMbttE4qWAcEmEhqu) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55300 	- BOUCONVILLE SUR MADT](https://docs.stopcoronavirus.tech/#/w/markdown/55300_bouconville-sur-madt/4XTTM5qWz6NB5A8eSGgcz1Rc6vqLGZEAgMbttE4qWAcEmEhqu-K3TgUJD9ar2y5tZBxjq9GBfF7zPZhtRazp5kJX7zDAPrxdWGhL6wfr2ktiD3VGjJeLBDCKm9tw4Z9DtHxUCiKYvrZma9pUH19ZhN4aBsDHmwo7Gi9Fk5tEmBuY76CjyHjYhpUGSo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55300_bouconville-sur-madt/4XTTM5qWz6NB5A8eSGgcz1Rc6vqLGZEAgMbttE4qWAcEmEhqu" class="myButton" style="color:white;">Consulter : 55300 	- BOUCONVILLE SUR MADT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55300_bouconville-sur-madt/4XTTM5qWz6NB5A8eSGgcz1Rc6vqLGZEAgMbttE4qWAcEmEhqu-K3TgUJD9ar2y5tZBxjq9GBfF7zPZhtRazp5kJX7zDAPrxdWGhL6wfr2ktiD3VGjJeLBDCKm9tw4Z9DtHxUCiKYvrZma9pUH19ZhN4aBsDHmwo7Gi9Fk5tEmBuY76CjyHjYhpUGSo" class="myButton" style="color:white;">Déposer : 55300 	- BOUCONVILLE SUR MADT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit" class="myButton" style="color:white;">Consulter : 55 	- Meuse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G" class="myButton" style="color:white;">Déposer : 55 	- Meuse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 90700 	- CHATENOIS LES FORGES](https://entraide.stopcoronavirus.tech/#/channel/90700_chatenois-les-forges) (à privilégier)
-- [Canal de votre département : 90 	- Territoire de Belfort](https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90700_chatenois-les-forges" class="myButton" style="color:white;">Canal de votre commune : 90700 	- CHATENOIS LES FORGES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort" class="myButton" style="color:white;">Canal de votre département : 90 	- Territoire de Belfort</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 90700 	- CHATENOIS LES FORGES](https://docs.stopcoronavirus.tech/#/r/markdown/90700_chatenois-les-forges/4XTTMDeYGPmNzB9jPUGdbehDB2HGBDg5P5yZcgYpVDwvXyFV2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90700 	- CHATENOIS LES FORGES](https://docs.stopcoronavirus.tech/#/w/markdown/90700_chatenois-les-forges/4XTTMDeYGPmNzB9jPUGdbehDB2HGBDg5P5yZcgYpVDwvXyFV2-K3TgTvtAnDUuJ3dcu8orAV2y3gPUCNH4xqLyvQbPvnrbWaWGNNhDyQwd3CWNGHdmm3aRR8n5Ss9SiSVtEb9ca9sPvc63zuUYJWCaVh6HxH8RS2DusnjXYTR9fPsDVfsN6AHmYvN4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90700_chatenois-les-forges/4XTTMDeYGPmNzB9jPUGdbehDB2HGBDg5P5yZcgYpVDwvXyFV2" class="myButton" style="color:white;">Consulter : 90700 	- CHATENOIS LES FORGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90700_chatenois-les-forges/4XTTMDeYGPmNzB9jPUGdbehDB2HGBDg5P5yZcgYpVDwvXyFV2-K3TgTvtAnDUuJ3dcu8orAV2y3gPUCNH4xqLyvQbPvnrbWaWGNNhDyQwd3CWNGHdmm3aRR8n5Ss9SiSVtEb9ca9sPvc63zuUYJWCaVh6HxH8RS2DusnjXYTR9fPsDVfsN6AHmYvN4" class="myButton" style="color:white;">Déposer : 90700 	- CHATENOIS LES FORGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg" class="myButton" style="color:white;">Consulter : 90 	- Territoire de Belfort</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8" class="myButton" style="color:white;">Déposer : 90 	- Territoire de Belfort</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

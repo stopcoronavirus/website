@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 50190 	- ST MARTIN D AUBIGNY](https://entraide.stopcoronavirus.tech/#/channel/50190_st-martin-d-aubigny) (à privilégier)
-- [Canal de votre département : 50 	- Manche](https://entraide.stopcoronavirus.tech/#/channel/50_manche) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50190_st-martin-d-aubigny" class="myButton" style="color:white;">Canal de votre commune : 50190 	- ST MARTIN D AUBIGNY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50_manche" class="myButton" style="color:white;">Canal de votre département : 50 	- Manche</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50190 	- ST MARTIN D AUBIGNY](https://docs.stopcoronavirus.tech/#/r/markdown/50190_st-martin-d-aubigny/4XTTM3bxrSD3N3oY2xLMhyKF6FagYQP1jisTPqAw4rbCi2rZq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50190 	- ST MARTIN D AUBIGNY](https://docs.stopcoronavirus.tech/#/w/markdown/50190_st-martin-d-aubigny/4XTTM3bxrSD3N3oY2xLMhyKF6FagYQP1jisTPqAw4rbCi2rZq-K3TgTvJcXXuq6RuJP2Y7bFGXE7hCwukPGxi9choa4rrMNAWm76UVx4FUFJj4AeZq6qxfbwAe427eKtrUsqEQr9rDSs5byYYi835dQt5LnpqeKSsaJHVtf7AMgdk6opoAjgnWPdWj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50190_st-martin-d-aubigny/4XTTM3bxrSD3N3oY2xLMhyKF6FagYQP1jisTPqAw4rbCi2rZq" class="myButton" style="color:white;">Consulter : 50190 	- ST MARTIN D AUBIGNY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50190_st-martin-d-aubigny/4XTTM3bxrSD3N3oY2xLMhyKF6FagYQP1jisTPqAw4rbCi2rZq-K3TgTvJcXXuq6RuJP2Y7bFGXE7hCwukPGxi9choa4rrMNAWm76UVx4FUFJj4AeZq6qxfbwAe427eKtrUsqEQr9rDSs5byYYi835dQt5LnpqeKSsaJHVtf7AMgdk6opoAjgnWPdWj" class="myButton" style="color:white;">Déposer : 50190 	- ST MARTIN D AUBIGNY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr" class="myButton" style="color:white;">Consulter : 50 	- Manche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE" class="myButton" style="color:white;">Déposer : 50 	- Manche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

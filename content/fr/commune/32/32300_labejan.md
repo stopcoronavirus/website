@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 32300 	- LABEJAN](https://entraide.stopcoronavirus.tech/#/channel/32300_labejan) (à privilégier)
-- [Canal de votre département : 32 	- Gers](https://entraide.stopcoronavirus.tech/#/channel/32_gers) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32300_labejan" class="myButton" style="color:white;">Canal de votre commune : 32300 	- LABEJAN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32_gers" class="myButton" style="color:white;">Canal de votre département : 32 	- Gers</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32300 	- LABEJAN](https://docs.stopcoronavirus.tech/#/r/markdown/32300_labejan/4XTTMHTEzB1AnipgmAhabB3yBntCAk99yt74u4ADQahwW5E6K) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32300 	- LABEJAN](https://docs.stopcoronavirus.tech/#/w/markdown/32300_labejan/4XTTMHTEzB1AnipgmAhabB3yBntCAk99yt74u4ADQahwW5E6K-K3TgTxFqy3xuoydV3Sp15on7CZ9HPJmrzn9DBm9LQTWbySoH12dKKJhRsHgRLX6hHwyDRoqDYd48WgR1jprK944neQYbrHgunJRdesSX5HjQpwgW3dHhv3Mxn1LnmaebjJ7DVWsq) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32300_labejan/4XTTMHTEzB1AnipgmAhabB3yBntCAk99yt74u4ADQahwW5E6K" class="myButton" style="color:white;">Consulter : 32300 	- LABEJAN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32300_labejan/4XTTMHTEzB1AnipgmAhabB3yBntCAk99yt74u4ADQahwW5E6K-K3TgTxFqy3xuoydV3Sp15on7CZ9HPJmrzn9DBm9LQTWbySoH12dKKJhRsHgRLX6hHwyDRoqDYd48WgR1jprK944neQYbrHgunJRdesSX5HjQpwgW3dHhv3Mxn1LnmaebjJ7DVWsq" class="myButton" style="color:white;">Déposer : 32300 	- LABEJAN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe" class="myButton" style="color:white;">Consulter : 32 	- Gers</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8" class="myButton" style="color:white;">Déposer : 32 	- Gers</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

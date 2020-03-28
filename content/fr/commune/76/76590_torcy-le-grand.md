@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 76590 	- TORCY LE GRAND](https://entraide.stopcoronavirus.tech/#/channel/76590_torcy-le-grand) (à privilégier)
-- [Canal de votre département : 76 	- Seine-Maritime](https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76590_torcy-le-grand" class="myButton" style="color:white;">Canal de votre commune : 76590 	- TORCY LE GRAND</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime" class="myButton" style="color:white;">Canal de votre département : 76 	- Seine-Maritime</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76590 	- TORCY LE GRAND](https://docs.stopcoronavirus.tech/#/r/markdown/76590_torcy-le-grand/4XTTMFD1rcvq3viANHen5TKmKabhZWfYTMi4EcLCZ6zJZ1k3T) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76590 	- TORCY LE GRAND](https://docs.stopcoronavirus.tech/#/w/markdown/76590_torcy-le-grand/4XTTMFD1rcvq3viANHen5TKmKabhZWfYTMi4EcLCZ6zJZ1k3T-K3TgUGWyhP3Ts9d1rw7gJ7epyM79pzKDe1tCFpuRKgJdUxAZfFRaFyu9NPJ3TqmUJonXY729s714X7bMfJnvkQc9EdnkpXH9D4irhzPDt1g6UcZNDVTgK8pnjExp6Zwj3LhrLKjf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76590_torcy-le-grand/4XTTMFD1rcvq3viANHen5TKmKabhZWfYTMi4EcLCZ6zJZ1k3T" class="myButton" style="color:white;">Consulter : 76590 	- TORCY LE GRAND</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76590_torcy-le-grand/4XTTMFD1rcvq3viANHen5TKmKabhZWfYTMi4EcLCZ6zJZ1k3T-K3TgUGWyhP3Ts9d1rw7gJ7epyM79pzKDe1tCFpuRKgJdUxAZfFRaFyu9NPJ3TqmUJonXY729s714X7bMfJnvkQc9EdnkpXH9D4irhzPDt1g6UcZNDVTgK8pnjExp6Zwj3LhrLKjf" class="myButton" style="color:white;">Déposer : 76590 	- TORCY LE GRAND</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt" class="myButton" style="color:white;">Consulter : 76 	- Seine-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r" class="myButton" style="color:white;">Déposer : 76 	- Seine-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

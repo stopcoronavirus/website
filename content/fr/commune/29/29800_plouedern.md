@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 29800 	- PLOUEDERN](https://entraide.stopcoronavirus.tech/#/channel/29800_plouedern) (à privilégier)
-- [Canal de votre département : 29 	- Finistère](https://entraide.stopcoronavirus.tech/#/channel/29_finistere) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/29800_plouedern" class="myButton" style="color:white;">Canal de votre commune : 29800 	- PLOUEDERN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/29_finistere" class="myButton" style="color:white;">Canal de votre département : 29 	- Finistère</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 29800 	- PLOUEDERN](https://docs.stopcoronavirus.tech/#/r/markdown/29800_plouedern/4XTTM1ATHLphQsKQn7nFdn1suUxj2kq9uuddjm46nefj9QyJ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 29800 	- PLOUEDERN](https://docs.stopcoronavirus.tech/#/w/markdown/29800_plouedern/4XTTM1ATHLphQsKQn7nFdn1suUxj2kq9uuddjm46nefj9QyJ5-K3TgThPtF35a4DjSCk1jUKPC5sNzCQJxXtqRe12ggMnU35CFiX9pm5v4An7uEkXD53wNdwRe4G9WkAbqE1x1cxaWmR6cTD3BoNtjHK7gEGLT1wUoDDme48uf1ZbowMJzw4Ti5ZsK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/29800_plouedern/4XTTM1ATHLphQsKQn7nFdn1suUxj2kq9uuddjm46nefj9QyJ5" class="myButton" style="color:white;">Consulter : 29800 	- PLOUEDERN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/29800_plouedern/4XTTM1ATHLphQsKQn7nFdn1suUxj2kq9uuddjm46nefj9QyJ5-K3TgThPtF35a4DjSCk1jUKPC5sNzCQJxXtqRe12ggMnU35CFiX9pm5v4An7uEkXD53wNdwRe4G9WkAbqE1x1cxaWmR6cTD3BoNtjHK7gEGLT1wUoDDme48uf1ZbowMJzw4Ti5ZsK" class="myButton" style="color:white;">Déposer : 29800 	- PLOUEDERN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 29 	- Finistère](https://docs.stopcoronavirus.tech/#/r/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 29 	- Finistère](https://docs.stopcoronavirus.tech/#/w/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC-K3TgUmttHvLKDBu5vxQ3oPzTia91UxXiaB3vEFjsHJiDiJD9aQfr6ibvcPa75Eo3oX7ob78s9tVxCKrtPM9bLAmDziVCSFjEgZbp3rqL8Ji8Q5aZhxfTcqkGX75WxHS6TQxtiQQ6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC" class="myButton" style="color:white;">Consulter : 29 	- Finistère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC-K3TgUmttHvLKDBu5vxQ3oPzTia91UxXiaB3vEFjsHJiDiJD9aQfr6ibvcPa75Eo3oX7ob78s9tVxCKrtPM9bLAmDziVCSFjEgZbp3rqL8Ji8Q5aZhxfTcqkGX75WxHS6TQxtiQQ6" class="myButton" style="color:white;">Déposer : 29 	- Finistère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

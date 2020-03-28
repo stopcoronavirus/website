@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 60220 	- BROQUIERS](https://entraide.stopcoronavirus.tech/#/channel/60220_broquiers) (à privilégier)
-- [Canal de votre département : 60 	- Oise](https://entraide.stopcoronavirus.tech/#/channel/60_oise) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/60220_broquiers" class="myButton" style="color:white;">Canal de votre commune : 60220 	- BROQUIERS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/60_oise" class="myButton" style="color:white;">Canal de votre département : 60 	- Oise</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60220 	- BROQUIERS](https://docs.stopcoronavirus.tech/#/r/markdown/60220_broquiers/4XTTM5uEg2KE8kWuoHg2a4vwUz9oQyFQszMcGUApN61UjnWLL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60220 	- BROQUIERS](https://docs.stopcoronavirus.tech/#/w/markdown/60220_broquiers/4XTTM5uEg2KE8kWuoHg2a4vwUz9oQyFQszMcGUApN61UjnWLL-K3TgUqTGYrw9LfQKryuGxJmNmVfnqJGs7VFQGqdrX2gK8vHUnAShx94Cauq3okxHBU9jxpXmv733k1qP346T3kNNPH6shJtHfQgPEQ1aEF6RT3bmA9Mb79nZ1U57y6cf8Xck74oe) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/60220_broquiers/4XTTM5uEg2KE8kWuoHg2a4vwUz9oQyFQszMcGUApN61UjnWLL" class="myButton" style="color:white;">Consulter : 60220 	- BROQUIERS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/60220_broquiers/4XTTM5uEg2KE8kWuoHg2a4vwUz9oQyFQszMcGUApN61UjnWLL-K3TgUqTGYrw9LfQKryuGxJmNmVfnqJGs7VFQGqdrX2gK8vHUnAShx94Cauq3okxHBU9jxpXmv733k1qP346T3kNNPH6shJtHfQgPEQ1aEF6RT3bmA9Mb79nZ1U57y6cf8Xck74oe" class="myButton" style="color:white;">Déposer : 60220 	- BROQUIERS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY" class="myButton" style="color:white;">Consulter : 60 	- Oise</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn" class="myButton" style="color:white;">Déposer : 60 	- Oise</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

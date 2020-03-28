@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 49260 	- BELLEVIGNE LES CHATEAUX](https://entraide.stopcoronavirus.tech/#/channel/49260_bellevigne-les-chateaux) (à privilégier)
-- [Canal de votre département : 49 	- Maine-et-Loire](https://entraide.stopcoronavirus.tech/#/channel/49_maine-et-loire) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/49260_bellevigne-les-chateaux" class="myButton" style="color:white;">Canal de votre commune : 49260 	- BELLEVIGNE LES CHATEAUX</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/49_maine-et-loire" class="myButton" style="color:white;">Canal de votre département : 49 	- Maine-et-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 49260 	- BELLEVIGNE LES CHATEAUX](https://docs.stopcoronavirus.tech/#/r/markdown/49260_bellevigne-les-chateaux/4XTTM57Ro5jfrbSxdfiJpsNyDQhLa1UAiJVeQxbQq54TB6F7X) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49260 	- BELLEVIGNE LES CHATEAUX](https://docs.stopcoronavirus.tech/#/w/markdown/49260_bellevigne-les-chateaux/4XTTM57Ro5jfrbSxdfiJpsNyDQhLa1UAiJVeQxbQq54TB6F7X-K3TgU6Lo2Yu7Gn6oQNSiQAU3yPB57927FD8PxndRRGLMqmPqmtfYiDVoVS8rcT1DQkdsEUGjgP1erKBd6YeesD1zbqgPV8Q4v2Grk64RwvyznuNuZA6sJfAZ5NBQmLbm7ycuwgkH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/49260_bellevigne-les-chateaux/4XTTM57Ro5jfrbSxdfiJpsNyDQhLa1UAiJVeQxbQq54TB6F7X" class="myButton" style="color:white;">Consulter : 49260 	- BELLEVIGNE LES CHATEAUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/49260_bellevigne-les-chateaux/4XTTM57Ro5jfrbSxdfiJpsNyDQhLa1UAiJVeQxbQq54TB6F7X-K3TgU6Lo2Yu7Gn6oQNSiQAU3yPB57927FD8PxndRRGLMqmPqmtfYiDVoVS8rcT1DQkdsEUGjgP1erKBd6YeesD1zbqgPV8Q4v2Grk64RwvyznuNuZA6sJfAZ5NBQmLbm7ycuwgkH" class="myButton" style="color:white;">Déposer : 49260 	- BELLEVIGNE LES CHATEAUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51" class="myButton" style="color:white;">Consulter : 49 	- Maine-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf" class="myButton" style="color:white;">Déposer : 49 	- Maine-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

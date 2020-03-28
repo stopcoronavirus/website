@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 86700 	- VOULON](https://entraide.stopcoronavirus.tech/#/channel/86700_voulon) (à privilégier)
-- [Canal de votre département : 86 	- Vienne](https://entraide.stopcoronavirus.tech/#/channel/86_vienne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/86700_voulon" class="myButton" style="color:white;">Canal de votre commune : 86700 	- VOULON</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/86_vienne" class="myButton" style="color:white;">Canal de votre département : 86 	- Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86700 	- VOULON](https://docs.stopcoronavirus.tech/#/r/markdown/86700_voulon/4XTTMAJk3ppAFJ8gAbvi5ydrV4G6D9qrN9jezK7HTVxbLVtUa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86700 	- VOULON](https://docs.stopcoronavirus.tech/#/w/markdown/86700_voulon/4XTTMAJk3ppAFJ8gAbvi5ydrV4G6D9qrN9jezK7HTVxbLVtUa-K3TgTf1Bq4SLt8b8qDeen84tYVNRYNv7W6X1s4yFJ7F3QEWGhykfpPn9jCbSZuxC3jMjRjqSbzo6uuU9GzXKEfzZTsQdFhJcVUS7eWetor2XE16b2i93DfNR77uJKHhyqzzX6tnN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86700_voulon/4XTTMAJk3ppAFJ8gAbvi5ydrV4G6D9qrN9jezK7HTVxbLVtUa" class="myButton" style="color:white;">Consulter : 86700 	- VOULON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86700_voulon/4XTTMAJk3ppAFJ8gAbvi5ydrV4G6D9qrN9jezK7HTVxbLVtUa-K3TgTf1Bq4SLt8b8qDeen84tYVNRYNv7W6X1s4yFJ7F3QEWGhykfpPn9jCbSZuxC3jMjRjqSbzo6uuU9GzXKEfzZTsQdFhJcVUS7eWetor2XE16b2i93DfNR77uJKHhyqzzX6tnN" class="myButton" style="color:white;">Déposer : 86700 	- VOULON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN" class="myButton" style="color:white;">Consulter : 86 	- Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA" class="myButton" style="color:white;">Déposer : 86 	- Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

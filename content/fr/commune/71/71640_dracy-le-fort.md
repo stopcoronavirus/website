@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 71640 	- DRACY LE FORT](https://entraide.stopcoronavirus.tech/#/channel/71640_dracy-le-fort) (à privilégier)
-- [Canal de votre département : 71 	- Saône-et-Loire](https://entraide.stopcoronavirus.tech/#/channel/71_saone-et-loire) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/71640_dracy-le-fort" class="myButton" style="color:white;">Canal de votre commune : 71640 	- DRACY LE FORT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/71_saone-et-loire" class="myButton" style="color:white;">Canal de votre département : 71 	- Saône-et-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 71640 	- DRACY LE FORT](https://docs.stopcoronavirus.tech/#/r/markdown/71640_dracy-le-fort/4XTTM6XbFLiEJYyHfkAmF7mnk5VW4yGbwyKFrCg6VvzxXAkvr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71640 	- DRACY LE FORT](https://docs.stopcoronavirus.tech/#/w/markdown/71640_dracy-le-fort/4XTTM6XbFLiEJYyHfkAmF7mnk5VW4yGbwyKFrCg6VvzxXAkvr-K3TgUVnRFsRWF2y8jZzdFcaUaMSBqKg4hufG9HmSPPo3hMEy5fkfejBR8LP9WNDN2XxJ9TqTPytoqadWa3aU4Tjs1jwWR1g7odWJVunHc3x4sA359y3hrfeFBhRAdXoSTXS4KfPt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/71640_dracy-le-fort/4XTTM6XbFLiEJYyHfkAmF7mnk5VW4yGbwyKFrCg6VvzxXAkvr" class="myButton" style="color:white;">Consulter : 71640 	- DRACY LE FORT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/71640_dracy-le-fort/4XTTM6XbFLiEJYyHfkAmF7mnk5VW4yGbwyKFrCg6VvzxXAkvr-K3TgUVnRFsRWF2y8jZzdFcaUaMSBqKg4hufG9HmSPPo3hMEy5fkfejBR8LP9WNDN2XxJ9TqTPytoqadWa3aU4Tjs1jwWR1g7odWJVunHc3x4sA359y3hrfeFBhRAdXoSTXS4KfPt" class="myButton" style="color:white;">Déposer : 71640 	- DRACY LE FORT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 71 	- Saône-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL" class="myButton" style="color:white;">Consulter : 71 	- Saône-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC" class="myButton" style="color:white;">Déposer : 71 	- Saône-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

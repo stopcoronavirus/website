@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 11270 	- CAZALRENOUX](https://entraide.stopcoronavirus.tech/#/channel/11270_cazalrenoux) (à privilégier)
-- [Canal de votre département : 11 	- Aude](https://entraide.stopcoronavirus.tech/#/channel/11_aude) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/11270_cazalrenoux" class="myButton" style="color:white;">Canal de votre commune : 11270 	- CAZALRENOUX</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/11_aude" class="myButton" style="color:white;">Canal de votre département : 11 	- Aude</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 11270 	- CAZALRENOUX](https://docs.stopcoronavirus.tech/#/r/markdown/11270_cazalrenoux/4XTTM9hzeRBS3G9rk7XtjhG1xy7wFp3sUqk5ZW3nyHHJrKgih) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11270 	- CAZALRENOUX](https://docs.stopcoronavirus.tech/#/w/markdown/11270_cazalrenoux/4XTTM9hzeRBS3G9rk7XtjhG1xy7wFp3sUqk5ZW3nyHHJrKgih-K3TgUoiRXmk43ZVcLybssyYApigzet4ND1BX7tfhE2Zpq789o8ydRZVt5hBkBue4f7KnjJcFrAHM2Y5LYRhphmhi4r6waCZpFGA9HBzK1ycQvrEmdvMX4eYHAseUbiqAqbXzCBeV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11270_cazalrenoux/4XTTM9hzeRBS3G9rk7XtjhG1xy7wFp3sUqk5ZW3nyHHJrKgih" class="myButton" style="color:white;">Consulter : 11270 	- CAZALRENOUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11270_cazalrenoux/4XTTM9hzeRBS3G9rk7XtjhG1xy7wFp3sUqk5ZW3nyHHJrKgih-K3TgUoiRXmk43ZVcLybssyYApigzet4ND1BX7tfhE2Zpq789o8ydRZVt5hBkBue4f7KnjJcFrAHM2Y5LYRhphmhi4r6waCZpFGA9HBzK1ycQvrEmdvMX4eYHAseUbiqAqbXzCBeV" class="myButton" style="color:white;">Déposer : 11270 	- CAZALRENOUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 11 	- Aude](https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11 	- Aude](https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk" class="myButton" style="color:white;">Consulter : 11 	- Aude</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr" class="myButton" style="color:white;">Déposer : 11 	- Aude</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

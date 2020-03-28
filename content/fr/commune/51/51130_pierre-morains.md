@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 51130 	- PIERRE MORAINS](https://entraide.stopcoronavirus.tech/#/channel/51130_pierre-morains) (à privilégier)
-- [Canal de votre département : 51 	- Marne](https://entraide.stopcoronavirus.tech/#/channel/51_marne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/51130_pierre-morains" class="myButton" style="color:white;">Canal de votre commune : 51130 	- PIERRE MORAINS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/51_marne" class="myButton" style="color:white;">Canal de votre département : 51 	- Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51130 	- PIERRE MORAINS](https://docs.stopcoronavirus.tech/#/r/markdown/51130_pierre-morains/4XTTM553NeY3TV4c4Axu8MksVeXUnSVNFLp8CXZeAMiTgrxiP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51130 	- PIERRE MORAINS](https://docs.stopcoronavirus.tech/#/w/markdown/51130_pierre-morains/4XTTM553NeY3TV4c4Axu8MksVeXUnSVNFLp8CXZeAMiTgrxiP-K3TgUk2mspuZWdSaErFLGA7iS1JgQ3DJpykqPCrehFcNXTEs9ThYKvt1eG3MwS1344Z4nR6S88rWimhJio6i4gN6jWJ6G2qukth4t2btx3ajgrFhP7MshVQ22DGX1uiukXCzb6w5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51130_pierre-morains/4XTTM553NeY3TV4c4Axu8MksVeXUnSVNFLp8CXZeAMiTgrxiP" class="myButton" style="color:white;">Consulter : 51130 	- PIERRE MORAINS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51130_pierre-morains/4XTTM553NeY3TV4c4Axu8MksVeXUnSVNFLp8CXZeAMiTgrxiP-K3TgUk2mspuZWdSaErFLGA7iS1JgQ3DJpykqPCrehFcNXTEs9ThYKvt1eG3MwS1344Z4nR6S88rWimhJio6i4gN6jWJ6G2qukth4t2btx3ajgrFhP7MshVQ22DGX1uiukXCzb6w5" class="myButton" style="color:white;">Déposer : 51130 	- PIERRE MORAINS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe" class="myButton" style="color:white;">Consulter : 51 	- Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa" class="myButton" style="color:white;">Déposer : 51 	- Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

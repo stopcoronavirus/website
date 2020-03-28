@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 33240 	- ST ANDRE DE CUBZAC](https://entraide.stopcoronavirus.tech/#/channel/33240_st-andre-de-cubzac) (à privilégier)
-- [Canal de votre département : 33 	- Gironde](https://entraide.stopcoronavirus.tech/#/channel/33_gironde) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/33240_st-andre-de-cubzac" class="myButton" style="color:white;">Canal de votre commune : 33240 	- ST ANDRE DE CUBZAC</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/33_gironde" class="myButton" style="color:white;">Canal de votre département : 33 	- Gironde</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33240 	- ST ANDRE DE CUBZAC](https://docs.stopcoronavirus.tech/#/r/markdown/33240_st-andre-de-cubzac/4XTTM31nMYVhpVzNTc8WURo5Kz6kkkZtUfHvjLVFMpK8izCwt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33240 	- ST ANDRE DE CUBZAC](https://docs.stopcoronavirus.tech/#/w/markdown/33240_st-andre-de-cubzac/4XTTM31nMYVhpVzNTc8WURo5Kz6kkkZtUfHvjLVFMpK8izCwt-K3TgUV31fTjdXUW4XjZCGEH8WKk7xPTAGwzNAX1N4RZHy5TXzKr6fwnYAURSMRWhafCsSHZVkQGTZqohQQx66duj78PmTmNBw3f1xT8wSwPPhGxeCA6v1b7bwJ8tsmpAVBwtEJJW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/33240_st-andre-de-cubzac/4XTTM31nMYVhpVzNTc8WURo5Kz6kkkZtUfHvjLVFMpK8izCwt" class="myButton" style="color:white;">Consulter : 33240 	- ST ANDRE DE CUBZAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/33240_st-andre-de-cubzac/4XTTM31nMYVhpVzNTc8WURo5Kz6kkkZtUfHvjLVFMpK8izCwt-K3TgUV31fTjdXUW4XjZCGEH8WKk7xPTAGwzNAX1N4RZHy5TXzKr6fwnYAURSMRWhafCsSHZVkQGTZqohQQx66duj78PmTmNBw3f1xT8wSwPPhGxeCA6v1b7bwJ8tsmpAVBwtEJJW" class="myButton" style="color:white;">Déposer : 33240 	- ST ANDRE DE CUBZAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt" class="myButton" style="color:white;">Consulter : 33 	- Gironde</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ" class="myButton" style="color:white;">Déposer : 33 	- Gironde</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

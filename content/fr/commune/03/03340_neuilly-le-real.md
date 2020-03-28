@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 03340 	- NEUILLY LE REAL](https://entraide.stopcoronavirus.tech/#/channel/03340_neuilly-le-real) (à privilégier)
-- [Canal de votre département : 03 	- Allier](https://entraide.stopcoronavirus.tech/#/channel/03_allier) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03340_neuilly-le-real" class="myButton" style="color:white;">Canal de votre commune : 03340 	- NEUILLY LE REAL</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03_allier" class="myButton" style="color:white;">Canal de votre département : 03 	- Allier</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 03340 	- NEUILLY LE REAL](https://docs.stopcoronavirus.tech/#/r/markdown/03340_neuilly-le-real/4XTTM9fDr1h4tLftvjieWnnhgGBgGDjN2VTasULxXgGjKCL4n) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03340 	- NEUILLY LE REAL](https://docs.stopcoronavirus.tech/#/w/markdown/03340_neuilly-le-real/4XTTM9fDr1h4tLftvjieWnnhgGBgGDjN2VTasULxXgGjKCL4n-K3TgUZpqRfZ5ugWy1bMTX44ToyU2HiqWbRuBGipAE3fDda86RXjamtMWBMHFKB6vJNuLCj3utaZTjrVGm3YLy9a4hHi5SJw33GdpEbjLVVRvnbHbiDfz2yyZ4H6QPS2yV4AdfznS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03340_neuilly-le-real/4XTTM9fDr1h4tLftvjieWnnhgGBgGDjN2VTasULxXgGjKCL4n" class="myButton" style="color:white;">Consulter : 03340 	- NEUILLY LE REAL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03340_neuilly-le-real/4XTTM9fDr1h4tLftvjieWnnhgGBgGDjN2VTasULxXgGjKCL4n-K3TgUZpqRfZ5ugWy1bMTX44ToyU2HiqWbRuBGipAE3fDda86RXjamtMWBMHFKB6vJNuLCj3utaZTjrVGm3YLy9a4hHi5SJw33GdpEbjLVVRvnbHbiDfz2yyZ4H6QPS2yV4AdfznS" class="myButton" style="color:white;">Déposer : 03340 	- NEUILLY LE REAL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy" class="myButton" style="color:white;">Consulter : 03 	- Allier</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3" class="myButton" style="color:white;">Déposer : 03 	- Allier</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

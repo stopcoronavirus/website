@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 15600 	- ST JULIEN DE TOURSAC](https://entraide.stopcoronavirus.tech/#/channel/15600_st-julien-de-toursac) (à privilégier)
-- [Canal de votre département : 15 	- Cantal](https://entraide.stopcoronavirus.tech/#/channel/15_cantal) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/15600_st-julien-de-toursac" class="myButton" style="color:white;">Canal de votre commune : 15600 	- ST JULIEN DE TOURSAC</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/15_cantal" class="myButton" style="color:white;">Canal de votre département : 15 	- Cantal</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15600 	- ST JULIEN DE TOURSAC](https://docs.stopcoronavirus.tech/#/r/markdown/15600_st-julien-de-toursac/4XTTM1qq87TXkSoixz765HkMZjZpBprVPA4hq95iSN5fXQ18X) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15600 	- ST JULIEN DE TOURSAC](https://docs.stopcoronavirus.tech/#/w/markdown/15600_st-julien-de-toursac/4XTTM1qq87TXkSoixz765HkMZjZpBprVPA4hq95iSN5fXQ18X-K3TgUFoxyJHvqE2ahkB8QjMf8DLSds7CWU2moSFYTSAPR74Hh3dJjV1cApCFk3DxLB8ukUg39KcxtMsNgjKAZTzihfT9p5rsjBUQ9yShDrFNtBLoWy94K7Mdfte24zb1Su1kUYp3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15600_st-julien-de-toursac/4XTTM1qq87TXkSoixz765HkMZjZpBprVPA4hq95iSN5fXQ18X" class="myButton" style="color:white;">Consulter : 15600 	- ST JULIEN DE TOURSAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15600_st-julien-de-toursac/4XTTM1qq87TXkSoixz765HkMZjZpBprVPA4hq95iSN5fXQ18X-K3TgUFoxyJHvqE2ahkB8QjMf8DLSds7CWU2moSFYTSAPR74Hh3dJjV1cApCFk3DxLB8ukUg39KcxtMsNgjKAZTzihfT9p5rsjBUQ9yShDrFNtBLoWy94K7Mdfte24zb1Su1kUYp3" class="myButton" style="color:white;">Déposer : 15600 	- ST JULIEN DE TOURSAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi" class="myButton" style="color:white;">Consulter : 15 	- Cantal</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS" class="myButton" style="color:white;">Déposer : 15 	- Cantal</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

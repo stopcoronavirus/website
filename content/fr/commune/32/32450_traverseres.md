@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 32450 	- TRAVERSERES](https://entraide.stopcoronavirus.tech/#/channel/32450_traverseres) (à privilégier)
-- [Canal de votre département : 32 	- Gers](https://entraide.stopcoronavirus.tech/#/channel/32_gers) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32450_traverseres" class="myButton" style="color:white;">Canal de votre commune : 32450 	- TRAVERSERES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32_gers" class="myButton" style="color:white;">Canal de votre département : 32 	- Gers</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32450 	- TRAVERSERES](https://docs.stopcoronavirus.tech/#/r/markdown/32450_traverseres/4XTTM8C1PdD9ZGucWGowNVEkgKrPR9WS2r2vVsPoJRxQmnY7w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32450 	- TRAVERSERES](https://docs.stopcoronavirus.tech/#/w/markdown/32450_traverseres/4XTTM8C1PdD9ZGucWGowNVEkgKrPR9WS2r2vVsPoJRxQmnY7w-K3TgUUuc2GrXTxiUEmmuEASrzJXVYK6Ky8M5Mds7274BdnL3nnGVJdkmdcB2eUDNA9z4KakNxbmVAmKb96WdKD6SiR4i6SY367Y3GF787pY8Yqc1LGv46tLV2n9sKrmejCvpQjoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32450_traverseres/4XTTM8C1PdD9ZGucWGowNVEkgKrPR9WS2r2vVsPoJRxQmnY7w" class="myButton" style="color:white;">Consulter : 32450 	- TRAVERSERES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32450_traverseres/4XTTM8C1PdD9ZGucWGowNVEkgKrPR9WS2r2vVsPoJRxQmnY7w-K3TgUUuc2GrXTxiUEmmuEASrzJXVYK6Ky8M5Mds7274BdnL3nnGVJdkmdcB2eUDNA9z4KakNxbmVAmKb96WdKD6SiR4i6SY367Y3GF787pY8Yqc1LGv46tLV2n9sKrmejCvpQjoT" class="myButton" style="color:white;">Déposer : 32450 	- TRAVERSERES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe" class="myButton" style="color:white;">Consulter : 32 	- Gers</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8" class="myButton" style="color:white;">Déposer : 32 	- Gers</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 91150 	- PUISELET LE MARAIS](https://entraide.stopcoronavirus.tech/#/channel/91150_puiselet-le-marais) (à privilégier)
-- [Canal de votre département : 91 	- Essonne](https://entraide.stopcoronavirus.tech/#/channel/91_essonne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/91150_puiselet-le-marais" class="myButton" style="color:white;">Canal de votre commune : 91150 	- PUISELET LE MARAIS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/91_essonne" class="myButton" style="color:white;">Canal de votre département : 91 	- Essonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 91150 	- PUISELET LE MARAIS](https://docs.stopcoronavirus.tech/#/r/markdown/91150_puiselet-le-marais/4XTTMBa42jqbx9fuMPL9CsabyC4h4qt4qtC8zan8f2mDYJiRq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91150 	- PUISELET LE MARAIS](https://docs.stopcoronavirus.tech/#/w/markdown/91150_puiselet-le-marais/4XTTMBa42jqbx9fuMPL9CsabyC4h4qt4qtC8zan8f2mDYJiRq-K3TgUtNKp9yfFRofReb8bhSp5tSJzWurUJ6ibt9CGYFcQLugDWdxMwC5ADB8Ey34Dm7m7pMcvLQuMAq3mYN6cGYqLUKizkgWga4284p9Zz5VBPVchhSjLCsj2smBPd2JPfsxhLJ7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91150_puiselet-le-marais/4XTTMBa42jqbx9fuMPL9CsabyC4h4qt4qtC8zan8f2mDYJiRq" class="myButton" style="color:white;">Consulter : 91150 	- PUISELET LE MARAIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91150_puiselet-le-marais/4XTTMBa42jqbx9fuMPL9CsabyC4h4qt4qtC8zan8f2mDYJiRq-K3TgUtNKp9yfFRofReb8bhSp5tSJzWurUJ6ibt9CGYFcQLugDWdxMwC5ADB8Ey34Dm7m7pMcvLQuMAq3mYN6cGYqLUKizkgWga4284p9Zz5VBPVchhSjLCsj2smBPd2JPfsxhLJ7" class="myButton" style="color:white;">Déposer : 91150 	- PUISELET LE MARAIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 91 	- Essonne](https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF" class="myButton" style="color:white;">Consulter : 91 	- Essonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3" class="myButton" style="color:white;">Déposer : 91 	- Essonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

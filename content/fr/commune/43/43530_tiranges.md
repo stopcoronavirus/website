@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 43530 	- TIRANGES](https://entraide.stopcoronavirus.tech/#/channel/43530_tiranges) (à privilégier)
-- [Canal de votre département : 43 	- Haute-Loire](https://entraide.stopcoronavirus.tech/#/channel/43_haute-loire) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/43530_tiranges" class="myButton" style="color:white;">Canal de votre commune : 43530 	- TIRANGES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/43_haute-loire" class="myButton" style="color:white;">Canal de votre département : 43 	- Haute-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 43530 	- TIRANGES](https://docs.stopcoronavirus.tech/#/r/markdown/43530_tiranges/4XTTMECt6QHGsGBBXcGULjAGbHxtRA28DckiWEC9DaBWMrbww) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43530 	- TIRANGES](https://docs.stopcoronavirus.tech/#/w/markdown/43530_tiranges/4XTTMECt6QHGsGBBXcGULjAGbHxtRA28DckiWEC9DaBWMrbww-K3TgTxbAiGRmhCe4Ry2rcj8gustqkNgc5caw3F9MRWTyRZGppaYm1NhYLJmAaC6yR8jDNPhc7Ts9JNCf3WnzECzUZntboZ4RCeYvoF7Db8FwJqB59urA3iJgRs5dU4kydvkbUqcV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43530_tiranges/4XTTMECt6QHGsGBBXcGULjAGbHxtRA28DckiWEC9DaBWMrbww" class="myButton" style="color:white;">Consulter : 43530 	- TIRANGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43530_tiranges/4XTTMECt6QHGsGBBXcGULjAGbHxtRA28DckiWEC9DaBWMrbww-K3TgTxbAiGRmhCe4Ry2rcj8gustqkNgc5caw3F9MRWTyRZGppaYm1NhYLJmAaC6yR8jDNPhc7Ts9JNCf3WnzECzUZntboZ4RCeYvoF7Db8FwJqB59urA3iJgRs5dU4kydvkbUqcV" class="myButton" style="color:white;">Déposer : 43530 	- TIRANGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 43 	- Haute-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX" class="myButton" style="color:white;">Consulter : 43 	- Haute-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b" class="myButton" style="color:white;">Déposer : 43 	- Haute-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

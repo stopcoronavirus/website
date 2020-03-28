@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 41170 	- LE PLESSIS DORIN](https://entraide.stopcoronavirus.tech/#/channel/41170_le-plessis-dorin) (à privilégier)
-- [Canal de votre département : 41 	- Loir-et-Cher](https://entraide.stopcoronavirus.tech/#/channel/41_loir-et-cher) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/41170_le-plessis-dorin" class="myButton" style="color:white;">Canal de votre commune : 41170 	- LE PLESSIS DORIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/41_loir-et-cher" class="myButton" style="color:white;">Canal de votre département : 41 	- Loir-et-Cher</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 41170 	- LE PLESSIS DORIN](https://docs.stopcoronavirus.tech/#/r/markdown/41170_le-plessis-dorin/4XTTM2ZpDL4uqm28Lm4rYvVbtDHCEQFmKxUzbfRCn9L2aQCrJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 41170 	- LE PLESSIS DORIN](https://docs.stopcoronavirus.tech/#/w/markdown/41170_le-plessis-dorin/4XTTM2ZpDL4uqm28Lm4rYvVbtDHCEQFmKxUzbfRCn9L2aQCrJ-K3TgUJEpTWu5Fhs4dGMkNw1k8DG9LT89HwocYAGJ5YZBSd9WkgRruXBBcDwcgxLfQmAR9ak3Ruou1gPBdCJXXv7eSdUaEVx6j2mqRVHpM14mSi3YXxNfhKugX59VkNMnguwpZG2z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/41170_le-plessis-dorin/4XTTM2ZpDL4uqm28Lm4rYvVbtDHCEQFmKxUzbfRCn9L2aQCrJ" class="myButton" style="color:white;">Consulter : 41170 	- LE PLESSIS DORIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/41170_le-plessis-dorin/4XTTM2ZpDL4uqm28Lm4rYvVbtDHCEQFmKxUzbfRCn9L2aQCrJ-K3TgUJEpTWu5Fhs4dGMkNw1k8DG9LT89HwocYAGJ5YZBSd9WkgRruXBBcDwcgxLfQmAR9ak3Ruou1gPBdCJXXv7eSdUaEVx6j2mqRVHpM14mSi3YXxNfhKugX59VkNMnguwpZG2z" class="myButton" style="color:white;">Déposer : 41170 	- LE PLESSIS DORIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/#/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 41 	- Loir-et-Cher](https://docs.stopcoronavirus.tech/#/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji" class="myButton" style="color:white;">Consulter : 41 	- Loir-et-Cher</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp" class="myButton" style="color:white;">Déposer : 41 	- Loir-et-Cher</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

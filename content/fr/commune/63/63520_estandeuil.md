@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 63520 	- ESTANDEUIL](https://entraide.stopcoronavirus.tech/#/channel/63520_estandeuil) (à privilégier)
-- [Canal de votre département : 63 	- Puy-de-Dôme](https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63520_estandeuil" class="myButton" style="color:white;">Canal de votre commune : 63520 	- ESTANDEUIL</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome" class="myButton" style="color:white;">Canal de votre département : 63 	- Puy-de-Dôme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 63520 	- ESTANDEUIL](https://docs.stopcoronavirus.tech/#/r/markdown/63520_estandeuil/4XTTM51oXfPFEWe3nQ2vaJqB2vbje24QhzUx2mnCZeXQVbd5z) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63520 	- ESTANDEUIL](https://docs.stopcoronavirus.tech/#/w/markdown/63520_estandeuil/4XTTM51oXfPFEWe3nQ2vaJqB2vbje24QhzUx2mnCZeXQVbd5z-K3TgUDzKma3kgntgFJv7gFSuc6b7DGRND9Gyb6Vfs6GTKRXXnzEGixWdmhnnznj7RHMUzX75QJKoUKyrUC6VsdL1R372AB5rVAfTuLS8itgb11ZvjbiLxpe25tyzUUBA9SEm1ytL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63520_estandeuil/4XTTM51oXfPFEWe3nQ2vaJqB2vbje24QhzUx2mnCZeXQVbd5z" class="myButton" style="color:white;">Consulter : 63520 	- ESTANDEUIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63520_estandeuil/4XTTM51oXfPFEWe3nQ2vaJqB2vbje24QhzUx2mnCZeXQVbd5z-K3TgUDzKma3kgntgFJv7gFSuc6b7DGRND9Gyb6Vfs6GTKRXXnzEGixWdmhnnznj7RHMUzX75QJKoUKyrUC6VsdL1R372AB5rVAfTuLS8itgb11ZvjbiLxpe25tyzUUBA9SEm1ytL" class="myButton" style="color:white;">Déposer : 63520 	- ESTANDEUIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU" class="myButton" style="color:white;">Consulter : 63 	- Puy-de-Dôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g" class="myButton" style="color:white;">Déposer : 63 	- Puy-de-Dôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 53220 	- ST BERTHEVIN LA TANNIERE](https://entraide.stopcoronavirus.tech/#/channel/53220_st-berthevin-la-tanniere) (à privilégier)
-- [Canal de votre département : 53 	- Mayenne](https://entraide.stopcoronavirus.tech/#/channel/53_mayenne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53220_st-berthevin-la-tanniere" class="myButton" style="color:white;">Canal de votre commune : 53220 	- ST BERTHEVIN LA TANNIERE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53_mayenne" class="myButton" style="color:white;">Canal de votre département : 53 	- Mayenne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53220 	- ST BERTHEVIN LA TANNIERE](https://docs.stopcoronavirus.tech/#/r/markdown/53220_st-berthevin-la-tanniere/4XTTM5cCeQQRKVgxakLuk2fb8H7QmVqtF4SUyscV3VNVoe3cz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53220 	- ST BERTHEVIN LA TANNIERE](https://docs.stopcoronavirus.tech/#/w/markdown/53220_st-berthevin-la-tanniere/4XTTM5cCeQQRKVgxakLuk2fb8H7QmVqtF4SUyscV3VNVoe3cz-K3TgUbPboWQGP7CbAu7cv59isLub1MmPSR1rA8gKFt9iPXcAx5tg8WWerFdzukGznLJqQPcgPTZJza2WPe3j8bWNojfJUvv7JLmZRC2kRPYyVGYjn88gju3CRwo97z1vSTQ6LjB4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53220_st-berthevin-la-tanniere/4XTTM5cCeQQRKVgxakLuk2fb8H7QmVqtF4SUyscV3VNVoe3cz" class="myButton" style="color:white;">Consulter : 53220 	- ST BERTHEVIN LA TANNIERE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53220_st-berthevin-la-tanniere/4XTTM5cCeQQRKVgxakLuk2fb8H7QmVqtF4SUyscV3VNVoe3cz-K3TgUbPboWQGP7CbAu7cv59isLub1MmPSR1rA8gKFt9iPXcAx5tg8WWerFdzukGznLJqQPcgPTZJza2WPe3j8bWNojfJUvv7JLmZRC2kRPYyVGYjn88gju3CRwo97z1vSTQ6LjB4" class="myButton" style="color:white;">Déposer : 53220 	- ST BERTHEVIN LA TANNIERE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43" class="myButton" style="color:white;">Consulter : 53 	- Mayenne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es" class="myButton" style="color:white;">Déposer : 53 	- Mayenne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

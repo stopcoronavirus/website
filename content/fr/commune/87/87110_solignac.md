@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 87110 	- SOLIGNAC](https://entraide.stopcoronavirus.tech/#/channel/87110_solignac) (à privilégier)
-- [Canal de votre département : 87 	- Haute-Vienne](https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87110_solignac" class="myButton" style="color:white;">Canal de votre commune : 87110 	- SOLIGNAC</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne" class="myButton" style="color:white;">Canal de votre département : 87 	- Haute-Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 87110 	- SOLIGNAC](https://docs.stopcoronavirus.tech/#/r/markdown/87110_solignac/4XTTMAYWTJPbj1a3QutvEsKxw52M2wr7rSFh1aynCPKzWG7s4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87110 	- SOLIGNAC](https://docs.stopcoronavirus.tech/#/w/markdown/87110_solignac/4XTTMAYWTJPbj1a3QutvEsKxw52M2wr7rSFh1aynCPKzWG7s4-K3TgUUzoVw4y2yzU95V5uR7DLVxursUdN8tA8CrnACwgeJX3cmxfwgcads52K6o3EuSsaRFvdBP6C5BVBYobBu5kD6DhtzU9ApCtKD1dtyQpAFo94zbMjS2RnRcjXKAwyM1RjRmG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87110_solignac/4XTTMAYWTJPbj1a3QutvEsKxw52M2wr7rSFh1aynCPKzWG7s4" class="myButton" style="color:white;">Consulter : 87110 	- SOLIGNAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87110_solignac/4XTTMAYWTJPbj1a3QutvEsKxw52M2wr7rSFh1aynCPKzWG7s4-K3TgUUzoVw4y2yzU95V5uR7DLVxursUdN8tA8CrnACwgeJX3cmxfwgcads52K6o3EuSsaRFvdBP6C5BVBYobBu5kD6DhtzU9ApCtKD1dtyQpAFo94zbMjS2RnRcjXKAwyM1RjRmG" class="myButton" style="color:white;">Déposer : 87110 	- SOLIGNAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q" class="myButton" style="color:white;">Consulter : 87 	- Haute-Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q" class="myButton" style="color:white;">Déposer : 87 	- Haute-Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

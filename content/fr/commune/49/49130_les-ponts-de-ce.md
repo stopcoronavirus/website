@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 49130 	- LES PONTS DE CE](https://entraide.stopcoronavirus.tech/#/channel/49130_les-ponts-de-ce) (à privilégier)
-- [Canal de votre département : 49 	- Maine-et-Loire](https://entraide.stopcoronavirus.tech/#/channel/49_maine-et-loire) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/49130_les-ponts-de-ce" class="myButton" style="color:white;">Canal de votre commune : 49130 	- LES PONTS DE CE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/49_maine-et-loire" class="myButton" style="color:white;">Canal de votre département : 49 	- Maine-et-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 49130 	- LES PONTS DE CE](https://docs.stopcoronavirus.tech/#/r/markdown/49130_les-ponts-de-ce/4XTTMH88P4rBMzR1pf53xqC5rg8Qmbxoxox9G8BA2WzyP8t5Q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49130 	- LES PONTS DE CE](https://docs.stopcoronavirus.tech/#/w/markdown/49130_les-ponts-de-ce/4XTTMH88P4rBMzR1pf53xqC5rg8Qmbxoxox9G8BA2WzyP8t5Q-K3TgTqpqtkY2KSrpruHCJF3DQHUGsXbY9rnHE4WxoVBAfqXyVPYh6BFgff1SRoem43VwLxNEmMxBBoZcwdBfpH5qCFaUS2iG2XUBpWEmHup8pBYj1ReroujyqxDM8yHav1K4hzrN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/49130_les-ponts-de-ce/4XTTMH88P4rBMzR1pf53xqC5rg8Qmbxoxox9G8BA2WzyP8t5Q" class="myButton" style="color:white;">Consulter : 49130 	- LES PONTS DE CE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/49130_les-ponts-de-ce/4XTTMH88P4rBMzR1pf53xqC5rg8Qmbxoxox9G8BA2WzyP8t5Q-K3TgTqpqtkY2KSrpruHCJF3DQHUGsXbY9rnHE4WxoVBAfqXyVPYh6BFgff1SRoem43VwLxNEmMxBBoZcwdBfpH5qCFaUS2iG2XUBpWEmHup8pBYj1ReroujyqxDM8yHav1K4hzrN" class="myButton" style="color:white;">Déposer : 49130 	- LES PONTS DE CE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 49 	- Maine-et-Loire](https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51" class="myButton" style="color:white;">Consulter : 49 	- Maine-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf" class="myButton" style="color:white;">Déposer : 49 	- Maine-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

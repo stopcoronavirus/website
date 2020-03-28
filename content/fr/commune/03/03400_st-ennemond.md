@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 03400 	- ST ENNEMOND](https://entraide.stopcoronavirus.tech/#/channel/03400_st-ennemond) (à privilégier)
-- [Canal de votre département : 03 	- Allier](https://entraide.stopcoronavirus.tech/#/channel/03_allier) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03400_st-ennemond" class="myButton" style="color:white;">Canal de votre commune : 03400 	- ST ENNEMOND</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03_allier" class="myButton" style="color:white;">Canal de votre département : 03 	- Allier</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 03400 	- ST ENNEMOND](https://docs.stopcoronavirus.tech/#/r/markdown/03400_st-ennemond/4XTTM4ogkc5LUiyYE7D8riXUNCQZkGqgzeWhNC1ZuqtRXMJQx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03400 	- ST ENNEMOND](https://docs.stopcoronavirus.tech/#/w/markdown/03400_st-ennemond/4XTTM4ogkc5LUiyYE7D8riXUNCQZkGqgzeWhNC1ZuqtRXMJQx-K3TgTsp6gDt5GLC6g1rnPWrBsobsFh46H4tQCtx7CKEDz5HjUfYFPbPMhMjDuzxyYXBZB8YqJoPmGgM9J5p6yXFm1LZvpKV51fpzrULjgRnRtAZCq5NT6oHWQBwCSf7fZwKWy3qS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03400_st-ennemond/4XTTM4ogkc5LUiyYE7D8riXUNCQZkGqgzeWhNC1ZuqtRXMJQx" class="myButton" style="color:white;">Consulter : 03400 	- ST ENNEMOND</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03400_st-ennemond/4XTTM4ogkc5LUiyYE7D8riXUNCQZkGqgzeWhNC1ZuqtRXMJQx-K3TgTsp6gDt5GLC6g1rnPWrBsobsFh46H4tQCtx7CKEDz5HjUfYFPbPMhMjDuzxyYXBZB8YqJoPmGgM9J5p6yXFm1LZvpKV51fpzrULjgRnRtAZCq5NT6oHWQBwCSf7fZwKWy3qS" class="myButton" style="color:white;">Déposer : 03400 	- ST ENNEMOND</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy" class="myButton" style="color:white;">Consulter : 03 	- Allier</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3" class="myButton" style="color:white;">Déposer : 03 	- Allier</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

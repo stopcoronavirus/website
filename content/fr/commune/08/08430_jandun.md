@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 08430 	- JANDUN](https://entraide.stopcoronavirus.tech/#/channel/08430_jandun) (à privilégier)
-- [Canal de votre département : 08 	- Ardennes](https://entraide.stopcoronavirus.tech/#/channel/08_ardennes) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/08430_jandun" class="myButton" style="color:white;">Canal de votre commune : 08430 	- JANDUN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/08_ardennes" class="myButton" style="color:white;">Canal de votre département : 08 	- Ardennes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08430 	- JANDUN](https://docs.stopcoronavirus.tech/#/r/markdown/08430_jandun/4XTTM21GfqJxLp5Ph1LNhTWDaBw6b4rpjr1GeHcdvd196f5kU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08430 	- JANDUN](https://docs.stopcoronavirus.tech/#/w/markdown/08430_jandun/4XTTM21GfqJxLp5Ph1LNhTWDaBw6b4rpjr1GeHcdvd196f5kU-K3TgUqX7p26tmYNHJpRix5yJz8cK8tBk8MiNQZwe6zXHEPVrEXxnkswn2XFTNypaSfQ83RuNuU8QVFuJD8M56P2sp1Pu4C85yMgyTa28tT2ZputLxUt27jYWgwaQS7vdGKNva3kC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08430_jandun/4XTTM21GfqJxLp5Ph1LNhTWDaBw6b4rpjr1GeHcdvd196f5kU" class="myButton" style="color:white;">Consulter : 08430 	- JANDUN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08430_jandun/4XTTM21GfqJxLp5Ph1LNhTWDaBw6b4rpjr1GeHcdvd196f5kU-K3TgUqX7p26tmYNHJpRix5yJz8cK8tBk8MiNQZwe6zXHEPVrEXxnkswn2XFTNypaSfQ83RuNuU8QVFuJD8M56P2sp1Pu4C85yMgyTa28tT2ZputLxUt27jYWgwaQS7vdGKNva3kC" class="myButton" style="color:white;">Déposer : 08430 	- JANDUN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM" class="myButton" style="color:white;">Consulter : 08 	- Ardennes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP" class="myButton" style="color:white;">Déposer : 08 	- Ardennes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

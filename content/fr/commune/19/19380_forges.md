@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 19380 	- FORGES](https://entraide.stopcoronavirus.tech/#/channel/19380_forges) (à privilégier)
-- [Canal de votre département : 19 	- Corrèze](https://entraide.stopcoronavirus.tech/#/channel/19_correze) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/19380_forges" class="myButton" style="color:white;">Canal de votre commune : 19380 	- FORGES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/19_correze" class="myButton" style="color:white;">Canal de votre département : 19 	- Corrèze</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19380 	- FORGES](https://docs.stopcoronavirus.tech/#/r/markdown/19380_forges/4XTTM3u5B821nJvbKm7rXo8J3DY93jYjuFTcZTJT3d1c2Yq1b) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19380 	- FORGES](https://docs.stopcoronavirus.tech/#/w/markdown/19380_forges/4XTTM3u5B821nJvbKm7rXo8J3DY93jYjuFTcZTJT3d1c2Yq1b-K3TgUshUYGcb9QGzeQQbvSC854ABpSJARdznRY6yPSB6MCX8nv8PUwwvuyMyMk3hWNpWvN3XAG18VPmuHKj38ieokxMgHfvf64WdsvCL4BCEQC7TNbNtmyuJixJTEMew5JLZuPQV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19380_forges/4XTTM3u5B821nJvbKm7rXo8J3DY93jYjuFTcZTJT3d1c2Yq1b" class="myButton" style="color:white;">Consulter : 19380 	- FORGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19380_forges/4XTTM3u5B821nJvbKm7rXo8J3DY93jYjuFTcZTJT3d1c2Yq1b-K3TgUshUYGcb9QGzeQQbvSC854ABpSJARdznRY6yPSB6MCX8nv8PUwwvuyMyMk3hWNpWvN3XAG18VPmuHKj38ieokxMgHfvf64WdsvCL4BCEQC7TNbNtmyuJixJTEMew5JLZuPQV" class="myButton" style="color:white;">Déposer : 19380 	- FORGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS" class="myButton" style="color:white;">Consulter : 19 	- Corrèze</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS" class="myButton" style="color:white;">Déposer : 19 	- Corrèze</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

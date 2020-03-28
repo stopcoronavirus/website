@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 81240 	- LACABAREDE](https://entraide.stopcoronavirus.tech/#/channel/81240_lacabarede) (à privilégier)
-- [Canal de votre département : 81 	- Tarn](https://entraide.stopcoronavirus.tech/#/channel/81_tarn) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/81240_lacabarede" class="myButton" style="color:white;">Canal de votre commune : 81240 	- LACABAREDE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/81_tarn" class="myButton" style="color:white;">Canal de votre département : 81 	- Tarn</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 81240 	- LACABAREDE](https://docs.stopcoronavirus.tech/#/r/markdown/81240_lacabarede/4XTTMAgVyUGmzyE8VZ9EBHBvgziBDBzWR7WyWfBtZvkRQyLQB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81240 	- LACABAREDE](https://docs.stopcoronavirus.tech/#/w/markdown/81240_lacabarede/4XTTMAgVyUGmzyE8VZ9EBHBvgziBDBzWR7WyWfBtZvkRQyLQB-K3TgUih6UimkdyEgsjVimpADogZbR7NB7ShKrQUs1d1UqbyJJjnywcdutqrS4LWgEyAZvyP5fGQAawKS4zsHA9r1JkTTQatMyWCJrAmm7cEyjbKPqfMPJvq5BwVuF3vbVdRkd4jV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/81240_lacabarede/4XTTMAgVyUGmzyE8VZ9EBHBvgziBDBzWR7WyWfBtZvkRQyLQB" class="myButton" style="color:white;">Consulter : 81240 	- LACABAREDE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/81240_lacabarede/4XTTMAgVyUGmzyE8VZ9EBHBvgziBDBzWR7WyWfBtZvkRQyLQB-K3TgUih6UimkdyEgsjVimpADogZbR7NB7ShKrQUs1d1UqbyJJjnywcdutqrS4LWgEyAZvyP5fGQAawKS4zsHA9r1JkTTQatMyWCJrAmm7cEyjbKPqfMPJvq5BwVuF3vbVdRkd4jV" class="myButton" style="color:white;">Déposer : 81240 	- LACABAREDE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 81 	- Tarn](https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY" class="myButton" style="color:white;">Consulter : 81 	- Tarn</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ" class="myButton" style="color:white;">Déposer : 81 	- Tarn</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

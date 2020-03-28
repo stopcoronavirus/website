@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 45250 	- BRIARE](https://entraide.stopcoronavirus.tech/#/channel/45250_briare) (à privilégier)
-- [Canal de votre département : 45 	- Loiret](https://entraide.stopcoronavirus.tech/#/channel/45_loiret) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/45250_briare" class="myButton" style="color:white;">Canal de votre commune : 45250 	- BRIARE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/45_loiret" class="myButton" style="color:white;">Canal de votre département : 45 	- Loiret</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 45250 	- BRIARE](https://docs.stopcoronavirus.tech/#/r/markdown/45250_briare/4XTTM2cYh4325TqFi8n7HGMbaggzdpoxWvaa9iSt1KFFYK5iB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45250 	- BRIARE](https://docs.stopcoronavirus.tech/#/w/markdown/45250_briare/4XTTM2cYh4325TqFi8n7HGMbaggzdpoxWvaa9iSt1KFFYK5iB-K3TgTiNsSdhork8FX2sTjtJW3BNM84ypD9FNtXV8FLuuiNcqCK5hzQARdgJYSozoqWni8HK5US79Q7r4mLs21rmnXiMpitGAJLqzc7iX6fCUJjQChot2cDFREsGkLSBb23o8sgG3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45250_briare/4XTTM2cYh4325TqFi8n7HGMbaggzdpoxWvaa9iSt1KFFYK5iB" class="myButton" style="color:white;">Consulter : 45250 	- BRIARE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45250_briare/4XTTM2cYh4325TqFi8n7HGMbaggzdpoxWvaa9iSt1KFFYK5iB-K3TgTiNsSdhork8FX2sTjtJW3BNM84ypD9FNtXV8FLuuiNcqCK5hzQARdgJYSozoqWni8HK5US79Q7r4mLs21rmnXiMpitGAJLqzc7iX6fCUJjQChot2cDFREsGkLSBb23o8sgG3" class="myButton" style="color:white;">Déposer : 45250 	- BRIARE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4" class="myButton" style="color:white;">Consulter : 45 	- Loiret</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ" class="myButton" style="color:white;">Déposer : 45 	- Loiret</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

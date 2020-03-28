@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 87220 	- EYJEAUX](https://entraide.stopcoronavirus.tech/#/channel/87220_eyjeaux) (à privilégier)
-- [Canal de votre département : 87 	- Haute-Vienne](https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87220_eyjeaux" class="myButton" style="color:white;">Canal de votre commune : 87220 	- EYJEAUX</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne" class="myButton" style="color:white;">Canal de votre département : 87 	- Haute-Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 87220 	- EYJEAUX](https://docs.stopcoronavirus.tech/#/r/markdown/87220_eyjeaux/4XTTM6CzwRvzFNH3E6wK4CHS7ZqR3hgttQZkWhafgNjyaghTB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87220 	- EYJEAUX](https://docs.stopcoronavirus.tech/#/w/markdown/87220_eyjeaux/4XTTM6CzwRvzFNH3E6wK4CHS7ZqR3hgttQZkWhafgNjyaghTB-K3TgTvNbkaGdRFwYCPmpCRdKdDPoamg5BPPTpZw4MEHiM7M7eovZzenRtteYLMmchhWZBVxcD7njy8Q8tYJeonetUB98UGermb8Va2aXE1qMYiCmW8NV97zZAbLYQgFyxdfHXShs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87220_eyjeaux/4XTTM6CzwRvzFNH3E6wK4CHS7ZqR3hgttQZkWhafgNjyaghTB" class="myButton" style="color:white;">Consulter : 87220 	- EYJEAUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87220_eyjeaux/4XTTM6CzwRvzFNH3E6wK4CHS7ZqR3hgttQZkWhafgNjyaghTB-K3TgTvNbkaGdRFwYCPmpCRdKdDPoamg5BPPTpZw4MEHiM7M7eovZzenRtteYLMmchhWZBVxcD7njy8Q8tYJeonetUB98UGermb8Va2aXE1qMYiCmW8NV97zZAbLYQgFyxdfHXShs" class="myButton" style="color:white;">Déposer : 87220 	- EYJEAUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 87 	- Haute-Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q" class="myButton" style="color:white;">Consulter : 87 	- Haute-Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q" class="myButton" style="color:white;">Déposer : 87 	- Haute-Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

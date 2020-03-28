@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 23500 	- FELLETIN](https://entraide.stopcoronavirus.tech/#/channel/23500_felletin) (à privilégier)
-- [Canal de votre département : 23 	- Creuse](https://entraide.stopcoronavirus.tech/#/channel/23_creuse) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/23500_felletin" class="myButton" style="color:white;">Canal de votre commune : 23500 	- FELLETIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/23_creuse" class="myButton" style="color:white;">Canal de votre département : 23 	- Creuse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 23500 	- FELLETIN](https://docs.stopcoronavirus.tech/#/r/markdown/23500_felletin/4XTTM7YswxmjJvgYeyrbgyqosVvBqbXe9z5P1fyE6AibcU1vQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23500 	- FELLETIN](https://docs.stopcoronavirus.tech/#/w/markdown/23500_felletin/4XTTM7YswxmjJvgYeyrbgyqosVvBqbXe9z5P1fyE6AibcU1vQ-K3TgTrA65cMcDBcPv3CbfCA8VUB1Z1bzkSMrGGm5pp6Lo4GBM95gwTULwfsASJF6X8ByUia64jKdDhcinXZ5WCX2QsPtpZHJaEv7MX6VNvTTyeQFLnVL5jLMfTRo8pHbKCpjTdWG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/23500_felletin/4XTTM7YswxmjJvgYeyrbgyqosVvBqbXe9z5P1fyE6AibcU1vQ" class="myButton" style="color:white;">Consulter : 23500 	- FELLETIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/23500_felletin/4XTTM7YswxmjJvgYeyrbgyqosVvBqbXe9z5P1fyE6AibcU1vQ-K3TgTrA65cMcDBcPv3CbfCA8VUB1Z1bzkSMrGGm5pp6Lo4GBM95gwTULwfsASJF6X8ByUia64jKdDhcinXZ5WCX2QsPtpZHJaEv7MX6VNvTTyeQFLnVL5jLMfTRo8pHbKCpjTdWG" class="myButton" style="color:white;">Déposer : 23500 	- FELLETIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 23 	- Creuse](https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7" class="myButton" style="color:white;">Consulter : 23 	- Creuse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1" class="myButton" style="color:white;">Déposer : 23 	- Creuse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

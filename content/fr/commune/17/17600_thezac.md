@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 17600 	- THEZAC](https://entraide.stopcoronavirus.tech/#/channel/17600_thezac) (à privilégier)
-- [Canal de votre département : 17 	- Charente-Maritime](https://entraide.stopcoronavirus.tech/#/channel/17_charente-maritime) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/17600_thezac" class="myButton" style="color:white;">Canal de votre commune : 17600 	- THEZAC</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/17_charente-maritime" class="myButton" style="color:white;">Canal de votre département : 17 	- Charente-Maritime</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 17600 	- THEZAC](https://docs.stopcoronavirus.tech/#/r/markdown/17600_thezac/4XTTM8AbaGzaAFA7JnXbzcb39LhA3WGgDi6ERtJCVbTaG7VuZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17600 	- THEZAC](https://docs.stopcoronavirus.tech/#/w/markdown/17600_thezac/4XTTM8AbaGzaAFA7JnXbzcb39LhA3WGgDi6ERtJCVbTaG7VuZ-K3TgV4io1NZ1s1QmL1r5A8FvkaTFr1gJUwKSCw3CCyWAW3bRx2K4n3XzeDK7LH1W4d3GiDs85q8c34yQdN6ZqdqngGMpBCagzStVmtDMUVTNkJpNqxq9sC21NomeYU1PgR9hkz5u) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/17600_thezac/4XTTM8AbaGzaAFA7JnXbzcb39LhA3WGgDi6ERtJCVbTaG7VuZ" class="myButton" style="color:white;">Consulter : 17600 	- THEZAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/17600_thezac/4XTTM8AbaGzaAFA7JnXbzcb39LhA3WGgDi6ERtJCVbTaG7VuZ-K3TgV4io1NZ1s1QmL1r5A8FvkaTFr1gJUwKSCw3CCyWAW3bRx2K4n3XzeDK7LH1W4d3GiDs85q8c34yQdN6ZqdqngGMpBCagzStVmtDMUVTNkJpNqxq9sC21NomeYU1PgR9hkz5u" class="myButton" style="color:white;">Déposer : 17600 	- THEZAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 17 	- Charente-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x" class="myButton" style="color:white;">Consulter : 17 	- Charente-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S" class="myButton" style="color:white;">Déposer : 17 	- Charente-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

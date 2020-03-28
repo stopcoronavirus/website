@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 63720 	- CLERLANDE](https://entraide.stopcoronavirus.tech/#/channel/63720_clerlande) (à privilégier)
-- [Canal de votre département : 63 	- Puy-de-Dôme](https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63720_clerlande" class="myButton" style="color:white;">Canal de votre commune : 63720 	- CLERLANDE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome" class="myButton" style="color:white;">Canal de votre département : 63 	- Puy-de-Dôme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 63720 	- CLERLANDE](https://docs.stopcoronavirus.tech/#/r/markdown/63720_clerlande/4XTTM1996wjwdcUiRSMC41ZV95sGzhLcxeEt4rSyYV4Ett4g8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63720 	- CLERLANDE](https://docs.stopcoronavirus.tech/#/w/markdown/63720_clerlande/4XTTM1996wjwdcUiRSMC41ZV95sGzhLcxeEt4rSyYV4Ett4g8-K3TgTp5VTayWYgePTw3a85sADYdtEAqWR41wai4A1iU7p1ghYREB5iSpMvkgctD2NZ2oAzfggTnLSrpn5jCfcn15jXrPmmJZ6H3b3ZL86rpcw3D2CQV7NN6Z3EeKLvAgEW5E1ia4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63720_clerlande/4XTTM1996wjwdcUiRSMC41ZV95sGzhLcxeEt4rSyYV4Ett4g8" class="myButton" style="color:white;">Consulter : 63720 	- CLERLANDE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63720_clerlande/4XTTM1996wjwdcUiRSMC41ZV95sGzhLcxeEt4rSyYV4Ett4g8-K3TgTp5VTayWYgePTw3a85sADYdtEAqWR41wai4A1iU7p1ghYREB5iSpMvkgctD2NZ2oAzfggTnLSrpn5jCfcn15jXrPmmJZ6H3b3ZL86rpcw3D2CQV7NN6Z3EeKLvAgEW5E1ia4" class="myButton" style="color:white;">Déposer : 63720 	- CLERLANDE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU" class="myButton" style="color:white;">Consulter : 63 	- Puy-de-Dôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g" class="myButton" style="color:white;">Déposer : 63 	- Puy-de-Dôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

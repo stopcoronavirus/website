@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 34520 	- ST FELIX DE L HERAS](https://entraide.stopcoronavirus.tech/#/channel/34520_st-felix-de-l-heras) (à privilégier)
-- [Canal de votre département : 34 	- Hérault](https://entraide.stopcoronavirus.tech/#/channel/34_herault) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34520_st-felix-de-l-heras" class="myButton" style="color:white;">Canal de votre commune : 34520 	- ST FELIX DE L HERAS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34_herault" class="myButton" style="color:white;">Canal de votre département : 34 	- Hérault</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 34520 	- ST FELIX DE L HERAS](https://docs.stopcoronavirus.tech/#/r/markdown/34520_st-felix-de-l-heras/4XTTM38ZASrPYgSszxztdo2GBab76i3pbLYfPypPQJ4d7hQGx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34520 	- ST FELIX DE L HERAS](https://docs.stopcoronavirus.tech/#/w/markdown/34520_st-felix-de-l-heras/4XTTM38ZASrPYgSszxztdo2GBab76i3pbLYfPypPQJ4d7hQGx-K3TgUjoTkpGbFugYJoYGM6HKfyNzT22nQzehki4AaDejtGRBsbFXvV936A6DoE5VLaS2CRprVTGHyZ8MZGCecEi5TgsVRJiPHBDiCiDzfknme66YSo3G8V25Z5N6FXpACD5R2bWx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34520_st-felix-de-l-heras/4XTTM38ZASrPYgSszxztdo2GBab76i3pbLYfPypPQJ4d7hQGx" class="myButton" style="color:white;">Consulter : 34520 	- ST FELIX DE L HERAS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34520_st-felix-de-l-heras/4XTTM38ZASrPYgSszxztdo2GBab76i3pbLYfPypPQJ4d7hQGx-K3TgUjoTkpGbFugYJoYGM6HKfyNzT22nQzehki4AaDejtGRBsbFXvV936A6DoE5VLaS2CRprVTGHyZ8MZGCecEi5TgsVRJiPHBDiCiDzfknme66YSo3G8V25Z5N6FXpACD5R2bWx" class="myButton" style="color:white;">Déposer : 34520 	- ST FELIX DE L HERAS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 34 	- Hérault](https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8" class="myButton" style="color:white;">Consulter : 34 	- Hérault</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J" class="myButton" style="color:white;">Déposer : 34 	- Hérault</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

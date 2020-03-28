@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 76540 	- GERPONVILLE](https://entraide.stopcoronavirus.tech/#/channel/76540_gerponville) (à privilégier)
-- [Canal de votre département : 76 	- Seine-Maritime](https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76540_gerponville" class="myButton" style="color:white;">Canal de votre commune : 76540 	- GERPONVILLE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime" class="myButton" style="color:white;">Canal de votre département : 76 	- Seine-Maritime</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76540 	- GERPONVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/76540_gerponville/4XTTM6h9wbTy1sMems8TcH6icgddFPH8vn7zSBgCfDTR9NjDv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76540 	- GERPONVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/76540_gerponville/4XTTM6h9wbTy1sMems8TcH6icgddFPH8vn7zSBgCfDTR9NjDv-K3TgUCuqxuvMGq7hujr9ZMSKwp8op2iWUHhcbGsYRUGewAv5vunEHUULCyzeRzfz8xepRxPQLHvXio2yZc3U19Kr3yaFxvofFi4s36xY7GpTbnKmnDRsE71DUpQJ9tZdi1Z85abv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76540_gerponville/4XTTM6h9wbTy1sMems8TcH6icgddFPH8vn7zSBgCfDTR9NjDv" class="myButton" style="color:white;">Consulter : 76540 	- GERPONVILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76540_gerponville/4XTTM6h9wbTy1sMems8TcH6icgddFPH8vn7zSBgCfDTR9NjDv-K3TgUCuqxuvMGq7hujr9ZMSKwp8op2iWUHhcbGsYRUGewAv5vunEHUULCyzeRzfz8xepRxPQLHvXio2yZc3U19Kr3yaFxvofFi4s36xY7GpTbnKmnDRsE71DUpQJ9tZdi1Z85abv" class="myButton" style="color:white;">Déposer : 76540 	- GERPONVILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt" class="myButton" style="color:white;">Consulter : 76 	- Seine-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r" class="myButton" style="color:white;">Déposer : 76 	- Seine-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

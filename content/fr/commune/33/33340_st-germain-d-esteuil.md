@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 33340 	- ST GERMAIN D ESTEUIL](https://entraide.stopcoronavirus.tech/#/channel/33340_st-germain-d-esteuil) (à privilégier)
-- [Canal de votre département : 33 	- Gironde](https://entraide.stopcoronavirus.tech/#/channel/33_gironde) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/33340_st-germain-d-esteuil" class="myButton" style="color:white;">Canal de votre commune : 33340 	- ST GERMAIN D ESTEUIL</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/33_gironde" class="myButton" style="color:white;">Canal de votre département : 33 	- Gironde</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 33340 	- ST GERMAIN D ESTEUIL](https://docs.stopcoronavirus.tech/#/r/markdown/33340_st-germain-d-esteuil/4XTTM4HQKTnjfNWqEMGgk5fqnZL8wtGe568RE6mUSyvFtb5bm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33340 	- ST GERMAIN D ESTEUIL](https://docs.stopcoronavirus.tech/#/w/markdown/33340_st-germain-d-esteuil/4XTTM4HQKTnjfNWqEMGgk5fqnZL8wtGe568RE6mUSyvFtb5bm-K3TgUbfixxFUbFU5NB7cjYprcWUqjizc8yjVJWgNKxcUHPcKYLgMNhJZEQkJV2oiFTqdZ87BoZH9qXmteiebCGHu7kDWLv77fPP7BuZpVXWhpWSW16xcCCabANuJeBiuixMKcdef) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/33340_st-germain-d-esteuil/4XTTM4HQKTnjfNWqEMGgk5fqnZL8wtGe568RE6mUSyvFtb5bm" class="myButton" style="color:white;">Consulter : 33340 	- ST GERMAIN D ESTEUIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/33340_st-germain-d-esteuil/4XTTM4HQKTnjfNWqEMGgk5fqnZL8wtGe568RE6mUSyvFtb5bm-K3TgUbfixxFUbFU5NB7cjYprcWUqjizc8yjVJWgNKxcUHPcKYLgMNhJZEQkJV2oiFTqdZ87BoZH9qXmteiebCGHu7kDWLv77fPP7BuZpVXWhpWSW16xcCCabANuJeBiuixMKcdef" class="myButton" style="color:white;">Déposer : 33340 	- ST GERMAIN D ESTEUIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 33 	- Gironde](https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt" class="myButton" style="color:white;">Consulter : 33 	- Gironde</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/33_gironde/4XTTMAthXvdtPoZt1bgYUR8GBybqy9b1tLUaaKDw5iKj57LRt-K3TgU8ogmN5s8hbKrZhkV9P1KQiFepNWXjoYRvdMTW1jt7eRXTmrjG677tN9mcUTsALjzYGgb8mvcrYPJn2Jd8cTiBmF9aZcbgdcQL1kzCPJnSf6X8tpEcGPdTr5qT6cQqEpt6oQ" class="myButton" style="color:white;">Déposer : 33 	- Gironde</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

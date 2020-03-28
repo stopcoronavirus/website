@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 89420 	- STE MAGNANCE](https://entraide.stopcoronavirus.tech/#/channel/89420_ste-magnance) (à privilégier)
-- [Canal de votre département : 89 	- Yonne](https://entraide.stopcoronavirus.tech/#/channel/89_yonne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/89420_ste-magnance" class="myButton" style="color:white;">Canal de votre commune : 89420 	- STE MAGNANCE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/89_yonne" class="myButton" style="color:white;">Canal de votre département : 89 	- Yonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 89420 	- STE MAGNANCE](https://docs.stopcoronavirus.tech/#/r/markdown/89420_ste-magnance/4XTTMGJ8QPd3SUtrfEnNB7jbmi4ZsTjmZcPQpYDubWhbPjU7A) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89420 	- STE MAGNANCE](https://docs.stopcoronavirus.tech/#/w/markdown/89420_ste-magnance/4XTTMGJ8QPd3SUtrfEnNB7jbmi4ZsTjmZcPQpYDubWhbPjU7A-K3TgUK2dDzSgJih1reF4vamr469vatjpUe15JtD6uJVYivE16GovwKF2FdcxxM5haztsx9nKnQLDeVqgFuGXUCYHLqemUsSCGsX8F4FLJ47KFMDPNiH62gY4msM3uTAmDWUMjSeC) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89420_ste-magnance/4XTTMGJ8QPd3SUtrfEnNB7jbmi4ZsTjmZcPQpYDubWhbPjU7A" class="myButton" style="color:white;">Consulter : 89420 	- STE MAGNANCE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89420_ste-magnance/4XTTMGJ8QPd3SUtrfEnNB7jbmi4ZsTjmZcPQpYDubWhbPjU7A-K3TgUK2dDzSgJih1reF4vamr469vatjpUe15JtD6uJVYivE16GovwKF2FdcxxM5haztsx9nKnQLDeVqgFuGXUCYHLqemUsSCGsX8F4FLJ47KFMDPNiH62gY4msM3uTAmDWUMjSeC" class="myButton" style="color:white;">Déposer : 89420 	- STE MAGNANCE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 89 	- Yonne](https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB" class="myButton" style="color:white;">Consulter : 89 	- Yonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7" class="myButton" style="color:white;">Déposer : 89 	- Yonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 02850 	- BARZY SUR MARNE](https://entraide.stopcoronavirus.tech/#/channel/02850_barzy-sur-marne) (à privilégier)
-- [Canal de votre département : 02 	- Aisne](https://entraide.stopcoronavirus.tech/#/channel/02_aisne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/02850_barzy-sur-marne" class="myButton" style="color:white;">Canal de votre commune : 02850 	- BARZY SUR MARNE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/02_aisne" class="myButton" style="color:white;">Canal de votre département : 02 	- Aisne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02850 	- BARZY SUR MARNE](https://docs.stopcoronavirus.tech/#/r/markdown/02850_barzy-sur-marne/4XTTMJAKbFj4ckGghzKeAk2kTVn6p3rkwxXKLPHoU1Fm3TvRH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02850 	- BARZY SUR MARNE](https://docs.stopcoronavirus.tech/#/w/markdown/02850_barzy-sur-marne/4XTTMJAKbFj4ckGghzKeAk2kTVn6p3rkwxXKLPHoU1Fm3TvRH-K3TgV6SiGvWD2pjwHNvbyc7eYbDvXXRY1UzNJZCk5vpj7qozhR3q9hovqLc1cstBHjAd2H8FLavJWPeiYEK6vSgJ6wG9JGiiBYp7jrMfMoJdMoEwJSVEx42zpdBetk9MN3pYPRzT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02850_barzy-sur-marne/4XTTMJAKbFj4ckGghzKeAk2kTVn6p3rkwxXKLPHoU1Fm3TvRH" class="myButton" style="color:white;">Consulter : 02850 	- BARZY SUR MARNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02850_barzy-sur-marne/4XTTMJAKbFj4ckGghzKeAk2kTVn6p3rkwxXKLPHoU1Fm3TvRH-K3TgV6SiGvWD2pjwHNvbyc7eYbDvXXRY1UzNJZCk5vpj7qozhR3q9hovqLc1cstBHjAd2H8FLavJWPeiYEK6vSgJ6wG9JGiiBYp7jrMfMoJdMoEwJSVEx42zpdBetk9MN3pYPRzT" class="myButton" style="color:white;">Déposer : 02850 	- BARZY SUR MARNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf" class="myButton" style="color:white;">Consulter : 02 	- Aisne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M" class="myButton" style="color:white;">Déposer : 02 	- Aisne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

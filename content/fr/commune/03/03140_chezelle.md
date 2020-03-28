@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 03140 	- CHEZELLE](https://entraide.stopcoronavirus.tech/#/channel/03140_chezelle) (à privilégier)
-- [Canal de votre département : 03 	- Allier](https://entraide.stopcoronavirus.tech/#/channel/03_allier) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03140_chezelle" class="myButton" style="color:white;">Canal de votre commune : 03140 	- CHEZELLE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03_allier" class="myButton" style="color:white;">Canal de votre département : 03 	- Allier</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 03140 	- CHEZELLE](https://docs.stopcoronavirus.tech/#/r/markdown/03140_chezelle/4XTTM4XUcuJJ8F7f3Sj8Z28V3jVNWBRna3xjeaGCGFCkTxvhq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03140 	- CHEZELLE](https://docs.stopcoronavirus.tech/#/w/markdown/03140_chezelle/4XTTM4XUcuJJ8F7f3Sj8Z28V3jVNWBRna3xjeaGCGFCkTxvhq-K3TgTjNExYqKTrdr2ZMaCq4Zab1bTZ1TrN4W1aYvnFs4RcEcGfHRkDnBz59FwF7Bf4tRCFZASBMGnBhb65LEZwK1MVJWJiqWYRVycUafSeaSmgoa16qpPF3UaNh2sCU18hQk1vRR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03140_chezelle/4XTTM4XUcuJJ8F7f3Sj8Z28V3jVNWBRna3xjeaGCGFCkTxvhq" class="myButton" style="color:white;">Consulter : 03140 	- CHEZELLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03140_chezelle/4XTTM4XUcuJJ8F7f3Sj8Z28V3jVNWBRna3xjeaGCGFCkTxvhq-K3TgTjNExYqKTrdr2ZMaCq4Zab1bTZ1TrN4W1aYvnFs4RcEcGfHRkDnBz59FwF7Bf4tRCFZASBMGnBhb65LEZwK1MVJWJiqWYRVycUafSeaSmgoa16qpPF3UaNh2sCU18hQk1vRR" class="myButton" style="color:white;">Déposer : 03140 	- CHEZELLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 03 	- Allier](https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 03 	- Allier](https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy" class="myButton" style="color:white;">Consulter : 03 	- Allier</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3" class="myButton" style="color:white;">Déposer : 03 	- Allier</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

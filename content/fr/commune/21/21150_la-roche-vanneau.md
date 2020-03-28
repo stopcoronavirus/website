@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 21150 	- LA ROCHE VANNEAU](https://entraide.stopcoronavirus.tech/#/channel/21150_la-roche-vanneau) (à privilégier)
-- [Canal de votre département : 21 	- Côte-d'Or](https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21150_la-roche-vanneau" class="myButton" style="color:white;">Canal de votre commune : 21150 	- LA ROCHE VANNEAU</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor" class="myButton" style="color:white;">Canal de votre département : 21 	- Côte-d'Or</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21150 	- LA ROCHE VANNEAU](https://docs.stopcoronavirus.tech/#/r/markdown/21150_la-roche-vanneau/4XTTM6oTpJv6477fNxQ7XGF6NS1qv8fvbZSEoAr1MihJHY1YZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21150 	- LA ROCHE VANNEAU](https://docs.stopcoronavirus.tech/#/w/markdown/21150_la-roche-vanneau/4XTTM6oTpJv6477fNxQ7XGF6NS1qv8fvbZSEoAr1MihJHY1YZ-K3TgUjnSKUvLa1Jje3HEFw3NLEvt7PAdN5xBzecjL8uTfn4vVFYRgcFjqatse52RvqmbvR5CZxbZwKcHASvpo7KuzG9ZCFVsfWBALPGcUwiaurwu9MqHYBCT4FEBgL4UkCn7DES1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21150_la-roche-vanneau/4XTTM6oTpJv6477fNxQ7XGF6NS1qv8fvbZSEoAr1MihJHY1YZ" class="myButton" style="color:white;">Consulter : 21150 	- LA ROCHE VANNEAU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21150_la-roche-vanneau/4XTTM6oTpJv6477fNxQ7XGF6NS1qv8fvbZSEoAr1MihJHY1YZ-K3TgUjnSKUvLa1Jje3HEFw3NLEvt7PAdN5xBzecjL8uTfn4vVFYRgcFjqatse52RvqmbvR5CZxbZwKcHASvpo7KuzG9ZCFVsfWBALPGcUwiaurwu9MqHYBCT4FEBgL4UkCn7DES1" class="myButton" style="color:white;">Déposer : 21150 	- LA ROCHE VANNEAU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv" class="myButton" style="color:white;">Consulter : 21 	- Côte-d'Or</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42" class="myButton" style="color:white;">Déposer : 21 	- Côte-d'Or</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

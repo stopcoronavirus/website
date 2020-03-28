@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 92410 	- VILLE D AVRAY](https://entraide.stopcoronavirus.tech/#/channel/92410_ville-d-avray) (à privilégier)
-- [Canal de votre département : 92 	- Hauts-de-Seine](https://entraide.stopcoronavirus.tech/#/channel/92_hauts-de-seine) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/92410_ville-d-avray" class="myButton" style="color:white;">Canal de votre commune : 92410 	- VILLE D AVRAY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/92_hauts-de-seine" class="myButton" style="color:white;">Canal de votre département : 92 	- Hauts-de-Seine</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 92410 	- VILLE D AVRAY](https://docs.stopcoronavirus.tech/#/r/markdown/92410_ville-d-avray/4XTTM19TRXcQ7sxK6tQdKfrt9txfrfa723BJw5rhJNhNE7Kjt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92410 	- VILLE D AVRAY](https://docs.stopcoronavirus.tech/#/w/markdown/92410_ville-d-avray/4XTTM19TRXcQ7sxK6tQdKfrt9txfrfa723BJw5rhJNhNE7Kjt-K3TgTuWCiVEHNwzJD1rGhbzXj7R1QdbPDZSGZfMfFCJzK18rjUVPkDnQMHAHBJnP533NFnn1v156Sm5656VALr8vd1GGkcYyUN1Cnta3wAaGvjgq8YPMdStYmSaZrjufJ2Ny8Btr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/92410_ville-d-avray/4XTTM19TRXcQ7sxK6tQdKfrt9txfrfa723BJw5rhJNhNE7Kjt" class="myButton" style="color:white;">Consulter : 92410 	- VILLE D AVRAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/92410_ville-d-avray/4XTTM19TRXcQ7sxK6tQdKfrt9txfrfa723BJw5rhJNhNE7Kjt-K3TgTuWCiVEHNwzJD1rGhbzXj7R1QdbPDZSGZfMfFCJzK18rjUVPkDnQMHAHBJnP533NFnn1v156Sm5656VALr8vd1GGkcYyUN1Cnta3wAaGvjgq8YPMdStYmSaZrjufJ2Ny8Btr" class="myButton" style="color:white;">Déposer : 92410 	- VILLE D AVRAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 92 	- Hauts-de-Seine](https://docs.stopcoronavirus.tech/#/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM" class="myButton" style="color:white;">Consulter : 92 	- Hauts-de-Seine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH" class="myButton" style="color:white;">Déposer : 92 	- Hauts-de-Seine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

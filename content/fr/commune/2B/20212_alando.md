@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 20212 	- ALANDO](https://entraide.stopcoronavirus.tech/#/channel/20212_alando) (à privilégier)
-- [Canal de votre département : 2B 	- Haute-Corse](https://entraide.stopcoronavirus.tech/#/channel/2B_haute-corse) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/20212_alando" class="myButton" style="color:white;">Canal de votre commune : 20212 	- ALANDO</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/2B_haute-corse" class="myButton" style="color:white;">Canal de votre département : 2B 	- Haute-Corse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20212 	- ALANDO](https://docs.stopcoronavirus.tech/#/r/markdown/20212_alando/4XTTMHapPa7PjuRsE2Q7xv3a6rVxDHENP5JRtiCLcD9yf1AVF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20212 	- ALANDO](https://docs.stopcoronavirus.tech/#/w/markdown/20212_alando/4XTTMHapPa7PjuRsE2Q7xv3a6rVxDHENP5JRtiCLcD9yf1AVF-K3TgTmtazuGKsHRfPbwPhxmsS21MWJETiQQYYFnrwWjW3ehWAYocs58rCfMApog2Z2n1iKDH2fmBmP94wPyP7seouA41MrXPwi4FNsA2tdUR9vv8CzHk8ihivNVMZeRMHu7dR82M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/20212_alando/4XTTMHapPa7PjuRsE2Q7xv3a6rVxDHENP5JRtiCLcD9yf1AVF" class="myButton" style="color:white;">Consulter : 20212 	- ALANDO</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/20212_alando/4XTTMHapPa7PjuRsE2Q7xv3a6rVxDHENP5JRtiCLcD9yf1AVF-K3TgTmtazuGKsHRfPbwPhxmsS21MWJETiQQYYFnrwWjW3ehWAYocs58rCfMApog2Z2n1iKDH2fmBmP94wPyP7seouA41MrXPwi4FNsA2tdUR9vv8CzHk8ihivNVMZeRMHu7dR82M" class="myButton" style="color:white;">Déposer : 20212 	- ALANDO</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL" class="myButton" style="color:white;">Consulter : 2B 	- Haute-Corse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU" class="myButton" style="color:white;">Déposer : 2B 	- Haute-Corse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

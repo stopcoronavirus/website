@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 57970 	- KUNTZIG](https://entraide.stopcoronavirus.tech/#/channel/57970_kuntzig) (à privilégier)
-- [Canal de votre département : 57 	- Moselle](https://entraide.stopcoronavirus.tech/#/channel/57_moselle) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/57970_kuntzig" class="myButton" style="color:white;">Canal de votre commune : 57970 	- KUNTZIG</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/57_moselle" class="myButton" style="color:white;">Canal de votre département : 57 	- Moselle</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 57970 	- KUNTZIG](https://docs.stopcoronavirus.tech/#/r/markdown/57970_kuntzig/4XTTMEhcyJoEMHZRZRki4CZrTjzVXCkghToAwu2EchRDxRHP4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57970 	- KUNTZIG](https://docs.stopcoronavirus.tech/#/w/markdown/57970_kuntzig/4XTTMEhcyJoEMHZRZRki4CZrTjzVXCkghToAwu2EchRDxRHP4-K3TgUscmxp6vfneRmaM7oDd7d9312662uTGaJ3ua5V9MVdWxZ2EuhdRDTW34iZ7pAv5Nws2CETiXRytWFq5458bK4isv1wEkb5FFdBgq2H3Dy4ZxfqUy2jWcFsSGV1H7nnHQGYA2) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57970_kuntzig/4XTTMEhcyJoEMHZRZRki4CZrTjzVXCkghToAwu2EchRDxRHP4" class="myButton" style="color:white;">Consulter : 57970 	- KUNTZIG</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57970_kuntzig/4XTTMEhcyJoEMHZRZRki4CZrTjzVXCkghToAwu2EchRDxRHP4-K3TgUscmxp6vfneRmaM7oDd7d9312662uTGaJ3ua5V9MVdWxZ2EuhdRDTW34iZ7pAv5Nws2CETiXRytWFq5458bK4isv1wEkb5FFdBgq2H3Dy4ZxfqUy2jWcFsSGV1H7nnHQGYA2" class="myButton" style="color:white;">Déposer : 57970 	- KUNTZIG</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 57 	- Moselle](https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj" class="myButton" style="color:white;">Consulter : 57 	- Moselle</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR" class="myButton" style="color:white;">Déposer : 57 	- Moselle</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

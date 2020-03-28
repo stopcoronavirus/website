@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 11220 	- ST LAURENT DE LA CABRERISSE](https://entraide.stopcoronavirus.tech/#/channel/11220_st-laurent-de-la-cabrerisse) (à privilégier)
-- [Canal de votre département : 11 	- Aude](https://entraide.stopcoronavirus.tech/#/channel/11_aude) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/11220_st-laurent-de-la-cabrerisse" class="myButton" style="color:white;">Canal de votre commune : 11220 	- ST LAURENT DE LA CABRERISSE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/11_aude" class="myButton" style="color:white;">Canal de votre département : 11 	- Aude</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 11220 	- ST LAURENT DE LA CABRERISSE](https://docs.stopcoronavirus.tech/#/r/markdown/11220_st-laurent-de-la-cabrerisse/4XTTM4poFbxdmY3K1wtNj3uZWZLbv9XRSoo7TntBrPecBi6p8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11220 	- ST LAURENT DE LA CABRERISSE](https://docs.stopcoronavirus.tech/#/w/markdown/11220_st-laurent-de-la-cabrerisse/4XTTM4poFbxdmY3K1wtNj3uZWZLbv9XRSoo7TntBrPecBi6p8-K3TgUgy28t1RaJxZL623soimA4xXN2qJSpZN3SX3Ut4Byjf8b8dpYoHgL5kbGX9x6BBdJD4K5xKrzknwew6iBcfG1FFTxgMyxrDb4gtyK84fWz6JSNmyKQiBFMAMk8iFgY7AjTyJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11220_st-laurent-de-la-cabrerisse/4XTTM4poFbxdmY3K1wtNj3uZWZLbv9XRSoo7TntBrPecBi6p8" class="myButton" style="color:white;">Consulter : 11220 	- ST LAURENT DE LA CABRERISSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11220_st-laurent-de-la-cabrerisse/4XTTM4poFbxdmY3K1wtNj3uZWZLbv9XRSoo7TntBrPecBi6p8-K3TgUgy28t1RaJxZL623soimA4xXN2qJSpZN3SX3Ut4Byjf8b8dpYoHgL5kbGX9x6BBdJD4K5xKrzknwew6iBcfG1FFTxgMyxrDb4gtyK84fWz6JSNmyKQiBFMAMk8iFgY7AjTyJ" class="myButton" style="color:white;">Déposer : 11220 	- ST LAURENT DE LA CABRERISSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 11 	- Aude](https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11 	- Aude](https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk" class="myButton" style="color:white;">Consulter : 11 	- Aude</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr" class="myButton" style="color:white;">Déposer : 11 	- Aude</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

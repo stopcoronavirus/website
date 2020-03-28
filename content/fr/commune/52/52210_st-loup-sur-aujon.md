@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 52210 	- ST LOUP SUR AUJON](https://entraide.stopcoronavirus.tech/#/channel/52210_st-loup-sur-aujon) (à privilégier)
-- [Canal de votre département : 52 	- Haute-Marne](https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52210_st-loup-sur-aujon" class="myButton" style="color:white;">Canal de votre commune : 52210 	- ST LOUP SUR AUJON</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne" class="myButton" style="color:white;">Canal de votre département : 52 	- Haute-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 52210 	- ST LOUP SUR AUJON](https://docs.stopcoronavirus.tech/#/r/markdown/52210_st-loup-sur-aujon/4XTTM38bS474aUGcVJzBpxtH8t5wnAeCGGeXGidWQjpvrXf5T) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52210 	- ST LOUP SUR AUJON](https://docs.stopcoronavirus.tech/#/w/markdown/52210_st-loup-sur-aujon/4XTTM38bS474aUGcVJzBpxtH8t5wnAeCGGeXGidWQjpvrXf5T-K3TgTcCwj3SEdoGmw2H1jyBHSpU9sTz11zn9zwaKr9cYmcTVB4NcgzF3R1jyH5UscSX2qe8zyawr84LwM4asF5KvDuESNX2eeYMXmp87DzHTgfdTb7C6uAsHBp3ggQLBsB9KW2tZ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52210_st-loup-sur-aujon/4XTTM38bS474aUGcVJzBpxtH8t5wnAeCGGeXGidWQjpvrXf5T" class="myButton" style="color:white;">Consulter : 52210 	- ST LOUP SUR AUJON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52210_st-loup-sur-aujon/4XTTM38bS474aUGcVJzBpxtH8t5wnAeCGGeXGidWQjpvrXf5T-K3TgTcCwj3SEdoGmw2H1jyBHSpU9sTz11zn9zwaKr9cYmcTVB4NcgzF3R1jyH5UscSX2qe8zyawr84LwM4asF5KvDuESNX2eeYMXmp87DzHTgfdTb7C6uAsHBp3ggQLBsB9KW2tZ" class="myButton" style="color:white;">Déposer : 52210 	- ST LOUP SUR AUJON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o" class="myButton" style="color:white;">Consulter : 52 	- Haute-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3" class="myButton" style="color:white;">Déposer : 52 	- Haute-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

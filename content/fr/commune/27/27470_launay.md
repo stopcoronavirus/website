@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 27470 	- LAUNAY](https://entraide.stopcoronavirus.tech/#/channel/27470_launay) (à privilégier)
-- [Canal de votre département : 27 	- Eure](https://entraide.stopcoronavirus.tech/#/channel/27_eure) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27470_launay" class="myButton" style="color:white;">Canal de votre commune : 27470 	- LAUNAY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27_eure" class="myButton" style="color:white;">Canal de votre département : 27 	- Eure</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27470 	- LAUNAY](https://docs.stopcoronavirus.tech/#/r/markdown/27470_launay/4XTTM2vViKX45LN4g7okiw8RNV2KEWHpKBEyBCNk3tWWoLrC3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27470 	- LAUNAY](https://docs.stopcoronavirus.tech/#/w/markdown/27470_launay/4XTTM2vViKX45LN4g7okiw8RNV2KEWHpKBEyBCNk3tWWoLrC3-K3TgUDW5mdikG2hdfk2yGddWJXHoVEyTdrV9p11bWdGqL5jqcKZTTzWyqnejwWPrSotLoGkHY45A3E2f7US2AJU4K4YWCxxd4t6XqHtMzBD2o45DdP5NEcRXLQC9g8mWMbpyhFoR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27470_launay/4XTTM2vViKX45LN4g7okiw8RNV2KEWHpKBEyBCNk3tWWoLrC3" class="myButton" style="color:white;">Consulter : 27470 	- LAUNAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27470_launay/4XTTM2vViKX45LN4g7okiw8RNV2KEWHpKBEyBCNk3tWWoLrC3-K3TgUDW5mdikG2hdfk2yGddWJXHoVEyTdrV9p11bWdGqL5jqcKZTTzWyqnejwWPrSotLoGkHY45A3E2f7US2AJU4K4YWCxxd4t6XqHtMzBD2o45DdP5NEcRXLQC9g8mWMbpyhFoR" class="myButton" style="color:white;">Déposer : 27470 	- LAUNAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg" class="myButton" style="color:white;">Consulter : 27 	- Eure</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r" class="myButton" style="color:white;">Déposer : 27 	- Eure</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

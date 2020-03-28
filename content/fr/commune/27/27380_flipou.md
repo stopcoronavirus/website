@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 27380 	- FLIPOU](https://entraide.stopcoronavirus.tech/#/channel/27380_flipou) (à privilégier)
-- [Canal de votre département : 27 	- Eure](https://entraide.stopcoronavirus.tech/#/channel/27_eure) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27380_flipou" class="myButton" style="color:white;">Canal de votre commune : 27380 	- FLIPOU</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27_eure" class="myButton" style="color:white;">Canal de votre département : 27 	- Eure</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 27380 	- FLIPOU](https://docs.stopcoronavirus.tech/#/r/markdown/27380_flipou/4XTTM7SuyZTR8UvqjSPTKwkJv8X5usyYHwtCocrqVt78tJL7d) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27380 	- FLIPOU](https://docs.stopcoronavirus.tech/#/w/markdown/27380_flipou/4XTTM7SuyZTR8UvqjSPTKwkJv8X5usyYHwtCocrqVt78tJL7d-K3TgV2PukPzvjMcLnxmTNDtTx5UtBe2vW6sS78cZKpU5cpQeQJXAjpw1BUSYKXxs6rSK28LTBKwtyQ8jim3TYys4UhH7oeeboZvqoHL69iZmVs22TWdK3etngqErKvxiC4K2fpZ9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27380_flipou/4XTTM7SuyZTR8UvqjSPTKwkJv8X5usyYHwtCocrqVt78tJL7d" class="myButton" style="color:white;">Consulter : 27380 	- FLIPOU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27380_flipou/4XTTM7SuyZTR8UvqjSPTKwkJv8X5usyYHwtCocrqVt78tJL7d-K3TgV2PukPzvjMcLnxmTNDtTx5UtBe2vW6sS78cZKpU5cpQeQJXAjpw1BUSYKXxs6rSK28LTBKwtyQ8jim3TYys4UhH7oeeboZvqoHL69iZmVs22TWdK3etngqErKvxiC4K2fpZ9" class="myButton" style="color:white;">Déposer : 27380 	- FLIPOU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 27 	- Eure](https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 27 	- Eure](https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg" class="myButton" style="color:white;">Consulter : 27 	- Eure</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r" class="myButton" style="color:white;">Déposer : 27 	- Eure</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

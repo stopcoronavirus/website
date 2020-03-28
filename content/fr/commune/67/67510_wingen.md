@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 67510 	- WINGEN](https://entraide.stopcoronavirus.tech/#/channel/67510_wingen) (à privilégier)
-- [Canal de votre département : 67 	- Bas-Rhin](https://entraide.stopcoronavirus.tech/#/channel/67_bas-rhin) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/67510_wingen" class="myButton" style="color:white;">Canal de votre commune : 67510 	- WINGEN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/67_bas-rhin" class="myButton" style="color:white;">Canal de votre département : 67 	- Bas-Rhin</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 67510 	- WINGEN](https://docs.stopcoronavirus.tech/#/r/markdown/67510_wingen/4XTTM1HgDEVZVCPK3MHuaKE8cE72h81a7Yz6TCAK7V8mDDQUQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 67510 	- WINGEN](https://docs.stopcoronavirus.tech/#/w/markdown/67510_wingen/4XTTM1HgDEVZVCPK3MHuaKE8cE72h81a7Yz6TCAK7V8mDDQUQ-K3TgTcuczBC7f9UU5yK9oSex5Hqo8faMpG5GMP9fsv4KXpwmFpvk8M6YqMhgX9T9qzQ3Jqw1izp2yNFNZQsZSdg7pDW2Zxie8eTetjsK7jjU5L91PaZgsjkvWQpmkznmA8fZz5XE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/67510_wingen/4XTTM1HgDEVZVCPK3MHuaKE8cE72h81a7Yz6TCAK7V8mDDQUQ" class="myButton" style="color:white;">Consulter : 67510 	- WINGEN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/67510_wingen/4XTTM1HgDEVZVCPK3MHuaKE8cE72h81a7Yz6TCAK7V8mDDQUQ-K3TgTcuczBC7f9UU5yK9oSex5Hqo8faMpG5GMP9fsv4KXpwmFpvk8M6YqMhgX9T9qzQ3Jqw1izp2yNFNZQsZSdg7pDW2Zxie8eTetjsK7jjU5L91PaZgsjkvWQpmkznmA8fZz5XE" class="myButton" style="color:white;">Déposer : 67510 	- WINGEN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/#/r/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 67 	- Bas-Rhin](https://docs.stopcoronavirus.tech/#/w/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24-K3TgU9W9pVWN9ZNXuC5pEDp9v136JmAD3LgUx7xHTmm86fi3KvoJhwqQEXKguZSba62YFt5ik1qbdAF4H61TCwnd1buQJ4xQb84agy6uR7khoqjUGRmD9k4LfibwRBtWd7j9RhhW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24" class="myButton" style="color:white;">Consulter : 67 	- Bas-Rhin</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/67_bas-rhin/4XTTMC5DcuMKZ7e4YTPYnHYPco3xcY4p2LxhosAZy8mBxHy24-K3TgU9W9pVWN9ZNXuC5pEDp9v136JmAD3LgUx7xHTmm86fi3KvoJhwqQEXKguZSba62YFt5ik1qbdAF4H61TCwnd1buQJ4xQb84agy6uR7khoqjUGRmD9k4LfibwRBtWd7j9RhhW" class="myButton" style="color:white;">Déposer : 67 	- Bas-Rhin</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

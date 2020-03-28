@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 72330 	- YVRE LE POLIN](https://entraide.stopcoronavirus.tech/#/channel/72330_yvre-le-polin) (à privilégier)
-- [Canal de votre département : 72 	- Sarthe](https://entraide.stopcoronavirus.tech/#/channel/72_sarthe) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72330_yvre-le-polin" class="myButton" style="color:white;">Canal de votre commune : 72330 	- YVRE LE POLIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72_sarthe" class="myButton" style="color:white;">Canal de votre département : 72 	- Sarthe</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 72330 	- YVRE LE POLIN](https://docs.stopcoronavirus.tech/#/r/markdown/72330_yvre-le-polin/4XTTMADPPB9ZAszrWcTbAbUStn1zpowb2THxePgKmBXTSNKMU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72330 	- YVRE LE POLIN](https://docs.stopcoronavirus.tech/#/w/markdown/72330_yvre-le-polin/4XTTMADPPB9ZAszrWcTbAbUStn1zpowb2THxePgKmBXTSNKMU-K3TgTp95wGaH7gexPyeGTpEe3UtJmyMYNDwLBj6gfRu2TGXUm7rdryTvFJ32EpoHChueHkbPeTMVVpB5wxk6hK6Vf89Zt9JmCosBe4jdganjqT4mio7gAKMy9unVX8Cp2bet2AzW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72330_yvre-le-polin/4XTTMADPPB9ZAszrWcTbAbUStn1zpowb2THxePgKmBXTSNKMU" class="myButton" style="color:white;">Consulter : 72330 	- YVRE LE POLIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72330_yvre-le-polin/4XTTMADPPB9ZAszrWcTbAbUStn1zpowb2THxePgKmBXTSNKMU-K3TgTp95wGaH7gexPyeGTpEe3UtJmyMYNDwLBj6gfRu2TGXUm7rdryTvFJ32EpoHChueHkbPeTMVVpB5wxk6hK6Vf89Zt9JmCosBe4jdganjqT4mio7gAKMy9unVX8Cp2bet2AzW" class="myButton" style="color:white;">Déposer : 72330 	- YVRE LE POLIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5" class="myButton" style="color:white;">Consulter : 72 	- Sarthe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh" class="myButton" style="color:white;">Déposer : 72 	- Sarthe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

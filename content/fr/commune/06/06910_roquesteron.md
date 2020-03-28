@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 06910 	- ROQUESTERON](https://entraide.stopcoronavirus.tech/#/channel/06910_roquesteron) (à privilégier)
-- [Canal de votre département : 06 	- Alpes-Maritimes](https://entraide.stopcoronavirus.tech/#/channel/06_alpes-maritimes) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/06910_roquesteron" class="myButton" style="color:white;">Canal de votre commune : 06910 	- ROQUESTERON</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/06_alpes-maritimes" class="myButton" style="color:white;">Canal de votre département : 06 	- Alpes-Maritimes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 06910 	- ROQUESTERON](https://docs.stopcoronavirus.tech/#/r/markdown/06910_roquesteron/4XTTM3wxyYbGoinfTGNopFtPQJ2PUw9u1Ua28fwgMJ6oZictH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06910 	- ROQUESTERON](https://docs.stopcoronavirus.tech/#/w/markdown/06910_roquesteron/4XTTM3wxyYbGoinfTGNopFtPQJ2PUw9u1Ua28fwgMJ6oZictH-K3TgUt58nw2dB7bJAjttRp4ZUhNtKDHRymafH8xiaMnNHTW8cKVumnRr2UYX1ByZM54xetZReKb62gbdSLDM7WQNyaMeELHXpfgnNXZhUz2U6iUWV4yd2ndYVCosTvV28JCwGVd3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/06910_roquesteron/4XTTM3wxyYbGoinfTGNopFtPQJ2PUw9u1Ua28fwgMJ6oZictH" class="myButton" style="color:white;">Consulter : 06910 	- ROQUESTERON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/06910_roquesteron/4XTTM3wxyYbGoinfTGNopFtPQJ2PUw9u1Ua28fwgMJ6oZictH-K3TgUt58nw2dB7bJAjttRp4ZUhNtKDHRymafH8xiaMnNHTW8cKVumnRr2UYX1ByZM54xetZReKb62gbdSLDM7WQNyaMeELHXpfgnNXZhUz2U6iUWV4yd2ndYVCosTvV28JCwGVd3" class="myButton" style="color:white;">Déposer : 06910 	- ROQUESTERON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 06 	- Alpes-Maritimes](https://docs.stopcoronavirus.tech/#/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi" class="myButton" style="color:white;">Consulter : 06 	- Alpes-Maritimes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde" class="myButton" style="color:white;">Déposer : 06 	- Alpes-Maritimes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

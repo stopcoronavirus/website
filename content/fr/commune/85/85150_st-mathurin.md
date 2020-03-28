@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 85150 	- ST MATHURIN](https://entraide.stopcoronavirus.tech/#/channel/85150_st-mathurin) (à privilégier)
-- [Canal de votre département : 85 	- Vendée](https://entraide.stopcoronavirus.tech/#/channel/85_vendee) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/85150_st-mathurin" class="myButton" style="color:white;">Canal de votre commune : 85150 	- ST MATHURIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/85_vendee" class="myButton" style="color:white;">Canal de votre département : 85 	- Vendée</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 85150 	- ST MATHURIN](https://docs.stopcoronavirus.tech/#/r/markdown/85150_st-mathurin/4XTTMBRhKQYzvBZma3FYACH1BWLYNivxmUHHdxVPj3N9AP2nd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85150 	- ST MATHURIN](https://docs.stopcoronavirus.tech/#/w/markdown/85150_st-mathurin/4XTTMBRhKQYzvBZma3FYACH1BWLYNivxmUHHdxVPj3N9AP2nd-K3TgU9jvge2t8XFeffVnWgpAFkmWhtwMh2RkKni48Gc8BNFiaGU45NEMf2Bsnaos5zv3tsSu5wRWSeKJtxtSTWEPEVw1ixg2JzrzDHR6KDEs63wMhi7MYjFWwMTWJLaNwCgQSUeM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/85150_st-mathurin/4XTTMBRhKQYzvBZma3FYACH1BWLYNivxmUHHdxVPj3N9AP2nd" class="myButton" style="color:white;">Consulter : 85150 	- ST MATHURIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/85150_st-mathurin/4XTTMBRhKQYzvBZma3FYACH1BWLYNivxmUHHdxVPj3N9AP2nd-K3TgU9jvge2t8XFeffVnWgpAFkmWhtwMh2RkKni48Gc8BNFiaGU45NEMf2Bsnaos5zv3tsSu5wRWSeKJtxtSTWEPEVw1ixg2JzrzDHR6KDEs63wMhi7MYjFWwMTWJLaNwCgQSUeM" class="myButton" style="color:white;">Déposer : 85150 	- ST MATHURIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 85 	- Vendée](https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk" class="myButton" style="color:white;">Consulter : 85 	- Vendée</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv" class="myButton" style="color:white;">Déposer : 85 	- Vendée</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

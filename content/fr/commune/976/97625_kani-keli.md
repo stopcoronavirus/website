@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 97625 	- KANI KELI](https://entraide.stopcoronavirus.tech/#/channel/97625_kani-keli) (à privilégier)
-- [Canal de votre département : 976 	- Mayotte](https://entraide.stopcoronavirus.tech/#/channel/976_mayotte) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97625_kani-keli" class="myButton" style="color:white;">Canal de votre commune : 97625 	- KANI KELI</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/976_mayotte" class="myButton" style="color:white;">Canal de votre département : 976 	- Mayotte</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97625 	- KANI KELI](https://docs.stopcoronavirus.tech/#/r/markdown/97625_kani-keli/4XTTM2DyLfaG7xXQYQFu8x2PCA1vfooK3uWR6XgkkGKbehXfY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97625 	- KANI KELI](https://docs.stopcoronavirus.tech/#/w/markdown/97625_kani-keli/4XTTM2DyLfaG7xXQYQFu8x2PCA1vfooK3uWR6XgkkGKbehXfY-K3TgUyuFCTPx5ZjWPYHhVbaU2mhnMKVxYE9GKdsDmw7shhxwNUo7ZMtQn3V6AadfQggRSL8TAdnrpzaWtKjKUoukYP1qJ7A5wSNKdarxNiKogVviNJVWEQqE8BS6r5DMBzjBn2eN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97625_kani-keli/4XTTM2DyLfaG7xXQYQFu8x2PCA1vfooK3uWR6XgkkGKbehXfY" class="myButton" style="color:white;">Consulter : 97625 	- KANI KELI</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97625_kani-keli/4XTTM2DyLfaG7xXQYQFu8x2PCA1vfooK3uWR6XgkkGKbehXfY-K3TgUyuFCTPx5ZjWPYHhVbaU2mhnMKVxYE9GKdsDmw7shhxwNUo7ZMtQn3V6AadfQggRSL8TAdnrpzaWtKjKUoukYP1qJ7A5wSNKdarxNiKogVviNJVWEQqE8BS6r5DMBzjBn2eN" class="myButton" style="color:white;">Déposer : 97625 	- KANI KELI</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 976 	- Mayotte](https://docs.stopcoronavirus.tech/#/r/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 976 	- Mayotte](https://docs.stopcoronavirus.tech/#/w/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5-K3TgUMkcGV5jdzVqb78DtiVWoL3Y1HCauLnRmkc8TF8xqf3YoBJm7ryZ8n5YPPeiPRtwV7LBqJfDJhKmv8bHaryM4ddGh4NZ3DAEqeGMq2gjS2MuqmkX5sBUBizoNXpJ4gaDPXBK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5" class="myButton" style="color:white;">Consulter : 976 	- Mayotte</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5-K3TgUMkcGV5jdzVqb78DtiVWoL3Y1HCauLnRmkc8TF8xqf3YoBJm7ryZ8n5YPPeiPRtwV7LBqJfDJhKmv8bHaryM4ddGh4NZ3DAEqeGMq2gjS2MuqmkX5sBUBizoNXpJ4gaDPXBK" class="myButton" style="color:white;">Déposer : 976 	- Mayotte</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

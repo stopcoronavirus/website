@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 15250 	- NAUCELLES](https://entraide.stopcoronavirus.tech/#/channel/15250_naucelles) (à privilégier)
-- [Canal de votre département : 15 	- Cantal](https://entraide.stopcoronavirus.tech/#/channel/15_cantal) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/15250_naucelles" class="myButton" style="color:white;">Canal de votre commune : 15250 	- NAUCELLES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/15_cantal" class="myButton" style="color:white;">Canal de votre département : 15 	- Cantal</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15250 	- NAUCELLES](https://docs.stopcoronavirus.tech/#/r/markdown/15250_naucelles/4XTTM6VBYfas44QuuGpbZU1BrCYCkk53YSkApU1mAkob96gDT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15250 	- NAUCELLES](https://docs.stopcoronavirus.tech/#/w/markdown/15250_naucelles/4XTTM6VBYfas44QuuGpbZU1BrCYCkk53YSkApU1mAkob96gDT-K3TgUQDyBdNE62T3LN2kWTG3cUUStTHCzDY9MB9a5YGv2BanQdjZkpvfPhp3NiVM6FifPp575fwnRJ8UXcWK1SwYBwnC8Z817Le463Yf8hHb2A4J6GTsuGxC3BDrbC9xq97CSW2q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15250_naucelles/4XTTM6VBYfas44QuuGpbZU1BrCYCkk53YSkApU1mAkob96gDT" class="myButton" style="color:white;">Consulter : 15250 	- NAUCELLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15250_naucelles/4XTTM6VBYfas44QuuGpbZU1BrCYCkk53YSkApU1mAkob96gDT-K3TgUQDyBdNE62T3LN2kWTG3cUUStTHCzDY9MB9a5YGv2BanQdjZkpvfPhp3NiVM6FifPp575fwnRJ8UXcWK1SwYBwnC8Z817Le463Yf8hHb2A4J6GTsuGxC3BDrbC9xq97CSW2q" class="myButton" style="color:white;">Déposer : 15250 	- NAUCELLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi" class="myButton" style="color:white;">Consulter : 15 	- Cantal</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS" class="myButton" style="color:white;">Déposer : 15 	- Cantal</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

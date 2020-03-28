@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 20100 	- GROSSA](https://entraide.stopcoronavirus.tech/#/channel/20100_grossa) (à privilégier)
-- [Canal de votre département : 2A 	- Corse-du-Sud](https://entraide.stopcoronavirus.tech/#/channel/2A_corse-du-sud) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/20100_grossa" class="myButton" style="color:white;">Canal de votre commune : 20100 	- GROSSA</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/2A_corse-du-sud" class="myButton" style="color:white;">Canal de votre département : 2A 	- Corse-du-Sud</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20100 	- GROSSA](https://docs.stopcoronavirus.tech/#/r/markdown/20100_grossa/4XTTM7CsEaabbSpA2UGGxWWWEUjkQd5s6hDUaBWNh3vQAB28P) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20100 	- GROSSA](https://docs.stopcoronavirus.tech/#/w/markdown/20100_grossa/4XTTM7CsEaabbSpA2UGGxWWWEUjkQd5s6hDUaBWNh3vQAB28P-K3TgU9kB9hPp1bSdiYbk8xFb2DieCZ1DQeNu1BfL8D1WEuV7CJ5y6qu1XTX1rr5Fe4FYQc5prSRQa9sUGgkYJ8xHpNXN9MwgJUNr3J4sNwsKxyKgF7FJHzT1YFxAzeQwosGdtnU7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/20100_grossa/4XTTM7CsEaabbSpA2UGGxWWWEUjkQd5s6hDUaBWNh3vQAB28P" class="myButton" style="color:white;">Consulter : 20100 	- GROSSA</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/20100_grossa/4XTTM7CsEaabbSpA2UGGxWWWEUjkQd5s6hDUaBWNh3vQAB28P-K3TgU9kB9hPp1bSdiYbk8xFb2DieCZ1DQeNu1BfL8D1WEuV7CJ5y6qu1XTX1rr5Fe4FYQc5prSRQa9sUGgkYJ8xHpNXN9MwgJUNr3J4sNwsKxyKgF7FJHzT1YFxAzeQwosGdtnU7" class="myButton" style="color:white;">Déposer : 20100 	- GROSSA</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3" class="myButton" style="color:white;">Consulter : 2A 	- Corse-du-Sud</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP" class="myButton" style="color:white;">Déposer : 2A 	- Corse-du-Sud</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

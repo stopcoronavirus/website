@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 82230 	- MONCLAR DE QUERCY](https://entraide.stopcoronavirus.tech/#/channel/82230_monclar-de-quercy) (à privilégier)
-- [Canal de votre département : 82 	- Tarn-et-Garonne](https://entraide.stopcoronavirus.tech/#/channel/82_tarn-et-garonne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/82230_monclar-de-quercy" class="myButton" style="color:white;">Canal de votre commune : 82230 	- MONCLAR DE QUERCY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/82_tarn-et-garonne" class="myButton" style="color:white;">Canal de votre département : 82 	- Tarn-et-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 82230 	- MONCLAR DE QUERCY](https://docs.stopcoronavirus.tech/#/r/markdown/82230_monclar-de-quercy/4XTTMDCM8UQn6wNG23nYY56ssdfVLTpgB94Bh2w6rh3iDR2xX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82230 	- MONCLAR DE QUERCY](https://docs.stopcoronavirus.tech/#/w/markdown/82230_monclar-de-quercy/4XTTMDCM8UQn6wNG23nYY56ssdfVLTpgB94Bh2w6rh3iDR2xX-K3TgUjz1nsTXHybBPfhAWP8VAQm9x8W7CFudjJCrqYryZ4Zvnh9ngyU6HbJf6W9qW1j6dT3ntLGCFJp79GHppZbqCm5LrmD1nPUc6NzguPZPvzmo1ACRKFV7xAckirH6DkeYDeGF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82230_monclar-de-quercy/4XTTMDCM8UQn6wNG23nYY56ssdfVLTpgB94Bh2w6rh3iDR2xX" class="myButton" style="color:white;">Consulter : 82230 	- MONCLAR DE QUERCY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82230_monclar-de-quercy/4XTTMDCM8UQn6wNG23nYY56ssdfVLTpgB94Bh2w6rh3iDR2xX-K3TgUjz1nsTXHybBPfhAWP8VAQm9x8W7CFudjJCrqYryZ4Zvnh9ngyU6HbJf6W9qW1j6dT3ntLGCFJp79GHppZbqCm5LrmD1nPUc6NzguPZPvzmo1ACRKFV7xAckirH6DkeYDeGF" class="myButton" style="color:white;">Déposer : 82230 	- MONCLAR DE QUERCY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP" class="myButton" style="color:white;">Consulter : 82 	- Tarn-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT" class="myButton" style="color:white;">Déposer : 82 	- Tarn-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

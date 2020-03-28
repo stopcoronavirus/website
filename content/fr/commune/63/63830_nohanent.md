@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 63830 	- NOHANENT](https://entraide.stopcoronavirus.tech/#/channel/63830_nohanent) (à privilégier)
-- [Canal de votre département : 63 	- Puy-de-Dôme](https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63830_nohanent" class="myButton" style="color:white;">Canal de votre commune : 63830 	- NOHANENT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome" class="myButton" style="color:white;">Canal de votre département : 63 	- Puy-de-Dôme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 63830 	- NOHANENT](https://docs.stopcoronavirus.tech/#/r/markdown/63830_nohanent/4XTTMDg2Rb11T4tgD4mjbxAkNtffeyW6Kr1DzBDYsndzQFjqE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63830 	- NOHANENT](https://docs.stopcoronavirus.tech/#/w/markdown/63830_nohanent/4XTTMDg2Rb11T4tgD4mjbxAkNtffeyW6Kr1DzBDYsndzQFjqE-K3TgUB8WX2YeS62ouq8vdjcsZc9YqYX9S2VcbBLY2Y1UXLYCw3necAowCkbNP7qDnggtpqth5zruKG1H6RQMiYi679E3pHfPDkF6p3FEowraffHCfp1eTn7CzW5URMENn2GmBhGY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63830_nohanent/4XTTMDg2Rb11T4tgD4mjbxAkNtffeyW6Kr1DzBDYsndzQFjqE" class="myButton" style="color:white;">Consulter : 63830 	- NOHANENT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63830_nohanent/4XTTMDg2Rb11T4tgD4mjbxAkNtffeyW6Kr1DzBDYsndzQFjqE-K3TgUB8WX2YeS62ouq8vdjcsZc9YqYX9S2VcbBLY2Y1UXLYCw3necAowCkbNP7qDnggtpqth5zruKG1H6RQMiYi679E3pHfPDkF6p3FEowraffHCfp1eTn7CzW5URMENn2GmBhGY" class="myButton" style="color:white;">Déposer : 63830 	- NOHANENT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 63 	- Puy-de-Dôme](https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU" class="myButton" style="color:white;">Consulter : 63 	- Puy-de-Dôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g" class="myButton" style="color:white;">Déposer : 63 	- Puy-de-Dôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

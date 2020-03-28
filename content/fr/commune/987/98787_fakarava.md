@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 98787 	- FAKARAVA](https://entraide.stopcoronavirus.tech/#/channel/98787_fakarava) (à privilégier)
-- [Canal de votre département : 987 	- Polynésie française](https://entraide.stopcoronavirus.tech/#/channel/987_polynesie-francaise) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/98787_fakarava" class="myButton" style="color:white;">Canal de votre commune : 98787 	- FAKARAVA</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/987_polynesie-francaise" class="myButton" style="color:white;">Canal de votre département : 987 	- Polynésie française</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 98787 	- FAKARAVA](https://docs.stopcoronavirus.tech/#/r/markdown/98787_fakarava/4XTTM6E2J9m5MGrgj6hBHzskqrD57jRjZe8bTt51eouV8uXga) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 98787 	- FAKARAVA](https://docs.stopcoronavirus.tech/#/w/markdown/98787_fakarava/4XTTM6E2J9m5MGrgj6hBHzskqrD57jRjZe8bTt51eouV8uXga-K3TgUzRvzAZXK85rW1xiDQTVzDbjhhsD6MqR4bp7RG7Zx5vvr7dqoRsJjkJmY24HCfu8ET7487f83cPgVXZuRXS1YKCzNkNdghwVPLrgGsDe6LoNr5Kc4oJZsnAD8iyrNr3qFzvA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/98787_fakarava/4XTTM6E2J9m5MGrgj6hBHzskqrD57jRjZe8bTt51eouV8uXga" class="myButton" style="color:white;">Consulter : 98787 	- FAKARAVA</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/98787_fakarava/4XTTM6E2J9m5MGrgj6hBHzskqrD57jRjZe8bTt51eouV8uXga-K3TgUzRvzAZXK85rW1xiDQTVzDbjhhsD6MqR4bp7RG7Zx5vvr7dqoRsJjkJmY24HCfu8ET7487f83cPgVXZuRXS1YKCzNkNdghwVPLrgGsDe6LoNr5Kc4oJZsnAD8iyrNr3qFzvA" class="myButton" style="color:white;">Déposer : 98787 	- FAKARAVA</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 987 	- Polynésie française](https://docs.stopcoronavirus.tech/#/r/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 987 	- Polynésie française](https://docs.stopcoronavirus.tech/#/w/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF-K3TgUdNTyMijF9cTo2J1xYw2zHQp2hiVzP2Jyv9Qpc8QCK6oa1HmUGnMMRBgbF9KwF6Ngd5n8sqKvLoGGht7YHpFD9aJNnuoZzxN9GtWDnaWdcN4knGpRWZ9y4dX34D4V2y7bPBo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF" class="myButton" style="color:white;">Consulter : 987 	- Polynésie française</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF-K3TgUdNTyMijF9cTo2J1xYw2zHQp2hiVzP2Jyv9Qpc8QCK6oa1HmUGnMMRBgbF9KwF6Ngd5n8sqKvLoGGht7YHpFD9aJNnuoZzxN9GtWDnaWdcN4knGpRWZ9y4dX34D4V2y7bPBo" class="myButton" style="color:white;">Déposer : 987 	- Polynésie française</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

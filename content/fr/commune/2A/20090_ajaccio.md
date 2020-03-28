@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 20090 	- AJACCIO](https://entraide.stopcoronavirus.tech/#/channel/20090_ajaccio) (à privilégier)
-- [Canal de votre département : 2A 	- Corse-du-Sud](https://entraide.stopcoronavirus.tech/#/channel/2A_corse-du-sud) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/20090_ajaccio" class="myButton" style="color:white;">Canal de votre commune : 20090 	- AJACCIO</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/2A_corse-du-sud" class="myButton" style="color:white;">Canal de votre département : 2A 	- Corse-du-Sud</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20090 	- AJACCIO](https://docs.stopcoronavirus.tech/#/r/markdown/20090_ajaccio/4XTTMCUUjoEzYfkQ1m9n1xd2B9s1WXH3D68ofRfwU1vjPhhZS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20090 	- AJACCIO](https://docs.stopcoronavirus.tech/#/w/markdown/20090_ajaccio/4XTTMCUUjoEzYfkQ1m9n1xd2B9s1WXH3D68ofRfwU1vjPhhZS-K3TgUiSM7WA8SgMZ2NqxjmUS7xNg6SJdpaup4FUbbntBKaQseVv3vBxsa11RYJFVPcwcAwKCVE2DUq8dCtxK4mZugkJuRcF8darfPgMZTEMQCKXpv4UQpDCVgwtKHJs2N19BrGPz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/20090_ajaccio/4XTTMCUUjoEzYfkQ1m9n1xd2B9s1WXH3D68ofRfwU1vjPhhZS" class="myButton" style="color:white;">Consulter : 20090 	- AJACCIO</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/20090_ajaccio/4XTTMCUUjoEzYfkQ1m9n1xd2B9s1WXH3D68ofRfwU1vjPhhZS-K3TgUiSM7WA8SgMZ2NqxjmUS7xNg6SJdpaup4FUbbntBKaQseVv3vBxsa11RYJFVPcwcAwKCVE2DUq8dCtxK4mZugkJuRcF8darfPgMZTEMQCKXpv4UQpDCVgwtKHJs2N19BrGPz" class="myButton" style="color:white;">Déposer : 20090 	- AJACCIO</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3" class="myButton" style="color:white;">Consulter : 2A 	- Corse-du-Sud</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP" class="myButton" style="color:white;">Déposer : 2A 	- Corse-du-Sud</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 90400 	- DANJOUTIN](https://entraide.stopcoronavirus.tech/#/channel/90400_danjoutin) (à privilégier)
-- [Canal de votre département : 90 	- Territoire de Belfort](https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90400_danjoutin" class="myButton" style="color:white;">Canal de votre commune : 90400 	- DANJOUTIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort" class="myButton" style="color:white;">Canal de votre département : 90 	- Territoire de Belfort</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 90400 	- DANJOUTIN](https://docs.stopcoronavirus.tech/#/r/markdown/90400_danjoutin/4XTTMELuBG3KcqeVACEbPLwZEUZJ7zLRH4WW8kEr1zRSAmpPm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90400 	- DANJOUTIN](https://docs.stopcoronavirus.tech/#/w/markdown/90400_danjoutin/4XTTMELuBG3KcqeVACEbPLwZEUZJ7zLRH4WW8kEr1zRSAmpPm-K3TgUivY2qZ6w4tVApDL45ABv2gngxtkG3QUmgpc5GW5VtkyG1T6xKMpPEaDCkTr2a3pMF93vtypa4TN5GEEdVxHgNzyuaeGYC8B2rz4NT3rJC5ETKEYhXyWxU95ogkQ77Dimm47) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90400_danjoutin/4XTTMELuBG3KcqeVACEbPLwZEUZJ7zLRH4WW8kEr1zRSAmpPm" class="myButton" style="color:white;">Consulter : 90400 	- DANJOUTIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90400_danjoutin/4XTTMELuBG3KcqeVACEbPLwZEUZJ7zLRH4WW8kEr1zRSAmpPm-K3TgUivY2qZ6w4tVApDL45ABv2gngxtkG3QUmgpc5GW5VtkyG1T6xKMpPEaDCkTr2a3pMF93vtypa4TN5GEEdVxHgNzyuaeGYC8B2rz4NT3rJC5ETKEYhXyWxU95ogkQ77Dimm47" class="myButton" style="color:white;">Déposer : 90400 	- DANJOUTIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg" class="myButton" style="color:white;">Consulter : 90 	- Territoire de Belfort</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8" class="myButton" style="color:white;">Déposer : 90 	- Territoire de Belfort</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

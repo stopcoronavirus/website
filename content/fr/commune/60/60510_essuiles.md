@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 60510 	- ESSUILES](https://entraide.stopcoronavirus.tech/#/channel/60510_essuiles) (à privilégier)
-- [Canal de votre département : 60 	- Oise](https://entraide.stopcoronavirus.tech/#/channel/60_oise) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/60510_essuiles" class="myButton" style="color:white;">Canal de votre commune : 60510 	- ESSUILES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/60_oise" class="myButton" style="color:white;">Canal de votre département : 60 	- Oise</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 60510 	- ESSUILES](https://docs.stopcoronavirus.tech/#/r/markdown/60510_essuiles/4XTTMJ4kZjoYXoUxiaJQFgvLJSmEbdSgDhAnHxsf8XWFpogdW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60510 	- ESSUILES](https://docs.stopcoronavirus.tech/#/w/markdown/60510_essuiles/4XTTMJ4kZjoYXoUxiaJQFgvLJSmEbdSgDhAnHxsf8XWFpogdW-K3TgUXRfo9PUgPFyPzz7EZkT1Lqyuc61T5QaRVEqpxG5Fmdf3QcUiXQFbmyfM4fDWDutrWpWgb21pri9MkguTpyz8FfsBgWoSu8dBx7m6QhgEHy6MqxJbfQAeP8tGb5NJ9CtqAxQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/60510_essuiles/4XTTMJ4kZjoYXoUxiaJQFgvLJSmEbdSgDhAnHxsf8XWFpogdW" class="myButton" style="color:white;">Consulter : 60510 	- ESSUILES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/60510_essuiles/4XTTMJ4kZjoYXoUxiaJQFgvLJSmEbdSgDhAnHxsf8XWFpogdW-K3TgUXRfo9PUgPFyPzz7EZkT1Lqyuc61T5QaRVEqpxG5Fmdf3QcUiXQFbmyfM4fDWDutrWpWgb21pri9MkguTpyz8FfsBgWoSu8dBx7m6QhgEHy6MqxJbfQAeP8tGb5NJ9CtqAxQ" class="myButton" style="color:white;">Déposer : 60510 	- ESSUILES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 60 	- Oise](https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 60 	- Oise](https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY" class="myButton" style="color:white;">Consulter : 60 	- Oise</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn" class="myButton" style="color:white;">Déposer : 60 	- Oise</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

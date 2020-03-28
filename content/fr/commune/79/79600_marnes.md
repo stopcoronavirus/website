@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 79600 	- MARNES](https://entraide.stopcoronavirus.tech/#/channel/79600_marnes) (à privilégier)
-- [Canal de votre département : 79 	- Deux-Sèvres](https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79600_marnes" class="myButton" style="color:white;">Canal de votre commune : 79600 	- MARNES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres" class="myButton" style="color:white;">Canal de votre département : 79 	- Deux-Sèvres</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 79600 	- MARNES](https://docs.stopcoronavirus.tech/#/r/markdown/79600_marnes/4XTTM8e7PqFkzmZGGcMARREcNd3hn3cw4L4Rit6myY1Dg4t8y) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79600 	- MARNES](https://docs.stopcoronavirus.tech/#/w/markdown/79600_marnes/4XTTM8e7PqFkzmZGGcMARREcNd3hn3cw4L4Rit6myY1Dg4t8y-K3TgUhQDXWZbWfKtBDws1sbv9u8YBV7h8jw9QFMiR2HWJD4PA44r2YmFSbHZEXtAq9dQVE4YQTMWRneEJ3UWPcfPsDEg8zFxaGhTkBzTQe5VCERkTf1WXPTeWpS8xJbuCDJRMNUH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79600_marnes/4XTTM8e7PqFkzmZGGcMARREcNd3hn3cw4L4Rit6myY1Dg4t8y" class="myButton" style="color:white;">Consulter : 79600 	- MARNES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79600_marnes/4XTTM8e7PqFkzmZGGcMARREcNd3hn3cw4L4Rit6myY1Dg4t8y-K3TgUhQDXWZbWfKtBDws1sbv9u8YBV7h8jw9QFMiR2HWJD4PA44r2YmFSbHZEXtAq9dQVE4YQTMWRneEJ3UWPcfPsDEg8zFxaGhTkBzTQe5VCERkTf1WXPTeWpS8xJbuCDJRMNUH" class="myButton" style="color:white;">Déposer : 79600 	- MARNES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ" class="myButton" style="color:white;">Consulter : 79 	- Deux-Sèvres</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH" class="myButton" style="color:white;">Déposer : 79 	- Deux-Sèvres</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

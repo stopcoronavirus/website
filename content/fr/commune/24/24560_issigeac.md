@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 24560 	- ISSIGEAC](https://entraide.stopcoronavirus.tech/#/channel/24560_issigeac) (à privilégier)
-- [Canal de votre département : 24 	- Dordogne](https://entraide.stopcoronavirus.tech/#/channel/24_dordogne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/24560_issigeac" class="myButton" style="color:white;">Canal de votre commune : 24560 	- ISSIGEAC</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/24_dordogne" class="myButton" style="color:white;">Canal de votre département : 24 	- Dordogne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 24560 	- ISSIGEAC](https://docs.stopcoronavirus.tech/#/r/markdown/24560_issigeac/4XTTM5Djo2Yy2imSo3PDN86FR9MT1f3YsLeBLjUXVKm75Gjfo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24560 	- ISSIGEAC](https://docs.stopcoronavirus.tech/#/w/markdown/24560_issigeac/4XTTM5Djo2Yy2imSo3PDN86FR9MT1f3YsLeBLjUXVKm75Gjfo-K3TgU6Pv8yYM96bpF2UoKiQYTezVCoE1wL2aNeGwVCzQaqycRzDzLU2ZmSv4TxVXPMgMQWLP9myEzo1r29AeCFdbiDbAQsZZ2j9LiwD6w7gzpszZZ8KtsppXMdcePWc2rrmRU1cd) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/24560_issigeac/4XTTM5Djo2Yy2imSo3PDN86FR9MT1f3YsLeBLjUXVKm75Gjfo" class="myButton" style="color:white;">Consulter : 24560 	- ISSIGEAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/24560_issigeac/4XTTM5Djo2Yy2imSo3PDN86FR9MT1f3YsLeBLjUXVKm75Gjfo-K3TgU6Pv8yYM96bpF2UoKiQYTezVCoE1wL2aNeGwVCzQaqycRzDzLU2ZmSv4TxVXPMgMQWLP9myEzo1r29AeCFdbiDbAQsZZ2j9LiwD6w7gzpszZZ8KtsppXMdcePWc2rrmRU1cd" class="myButton" style="color:white;">Déposer : 24560 	- ISSIGEAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 24 	- Dordogne](https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg" class="myButton" style="color:white;">Consulter : 24 	- Dordogne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp" class="myButton" style="color:white;">Déposer : 24 	- Dordogne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

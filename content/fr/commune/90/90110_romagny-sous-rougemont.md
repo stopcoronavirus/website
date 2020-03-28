@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 90110 	- ROMAGNY SOUS ROUGEMONT](https://entraide.stopcoronavirus.tech/#/channel/90110_romagny-sous-rougemont) (à privilégier)
-- [Canal de votre département : 90 	- Territoire de Belfort](https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90110_romagny-sous-rougemont" class="myButton" style="color:white;">Canal de votre commune : 90110 	- ROMAGNY SOUS ROUGEMONT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort" class="myButton" style="color:white;">Canal de votre département : 90 	- Territoire de Belfort</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 90110 	- ROMAGNY SOUS ROUGEMONT](https://docs.stopcoronavirus.tech/#/r/markdown/90110_romagny-sous-rougemont/4XTTM3T9NKXg9nvtojsY5fnJasxUbFM2zyZNMsjniF8hXrQrW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90110 	- ROMAGNY SOUS ROUGEMONT](https://docs.stopcoronavirus.tech/#/w/markdown/90110_romagny-sous-rougemont/4XTTM3T9NKXg9nvtojsY5fnJasxUbFM2zyZNMsjniF8hXrQrW-K3TgUy9KQCN9GofMkVa2opSTm3LDPgfUSbrX4Q1TYPHPzAefTYZcXt6PzoLX7qCzd9eFfySH6ANiryBELg3yeArLn27LrFAt6p2c2efT23dM48wDLzr7HSwE15MPKh2SQ3ZgiQMY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90110_romagny-sous-rougemont/4XTTM3T9NKXg9nvtojsY5fnJasxUbFM2zyZNMsjniF8hXrQrW" class="myButton" style="color:white;">Consulter : 90110 	- ROMAGNY SOUS ROUGEMONT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90110_romagny-sous-rougemont/4XTTM3T9NKXg9nvtojsY5fnJasxUbFM2zyZNMsjniF8hXrQrW-K3TgUy9KQCN9GofMkVa2opSTm3LDPgfUSbrX4Q1TYPHPzAefTYZcXt6PzoLX7qCzd9eFfySH6ANiryBELg3yeArLn27LrFAt6p2c2efT23dM48wDLzr7HSwE15MPKh2SQ3ZgiQMY" class="myButton" style="color:white;">Déposer : 90110 	- ROMAGNY SOUS ROUGEMONT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 90 	- Territoire de Belfort](https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg" class="myButton" style="color:white;">Consulter : 90 	- Territoire de Belfort</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8" class="myButton" style="color:white;">Déposer : 90 	- Territoire de Belfort</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

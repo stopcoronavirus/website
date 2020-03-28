@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 97227 	- STE ANNE](https://entraide.stopcoronavirus.tech/#/channel/97227_ste-anne) (à privilégier)
-- [Canal de votre département : 972 	- Martinique](https://entraide.stopcoronavirus.tech/#/channel/972_martinique) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97227_ste-anne" class="myButton" style="color:white;">Canal de votre commune : 97227 	- STE ANNE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/972_martinique" class="myButton" style="color:white;">Canal de votre département : 972 	- Martinique</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97227 	- STE ANNE](https://docs.stopcoronavirus.tech/#/r/markdown/97227_ste-anne/4XTTM7BUgcqGgpGW5uvbdsqvUpbhg79QY3u1YF19DZVNvX5M9) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97227 	- STE ANNE](https://docs.stopcoronavirus.tech/#/w/markdown/97227_ste-anne/4XTTM7BUgcqGgpGW5uvbdsqvUpbhg79QY3u1YF19DZVNvX5M9-K3TgUUdi8edj7vU1uYt71iLf3NJXxVGkFYxH2bP4SFvwzUVCWTqvb3jkZVajQv3ZcJUb8mDN96tU8x3YdAD8eENApdnr7LnzDsV71kwkWhS2XkaodX9eLG8G9gNrPzgungfRvGV5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97227_ste-anne/4XTTM7BUgcqGgpGW5uvbdsqvUpbhg79QY3u1YF19DZVNvX5M9" class="myButton" style="color:white;">Consulter : 97227 	- STE ANNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97227_ste-anne/4XTTM7BUgcqGgpGW5uvbdsqvUpbhg79QY3u1YF19DZVNvX5M9-K3TgUUdi8edj7vU1uYt71iLf3NJXxVGkFYxH2bP4SFvwzUVCWTqvb3jkZVajQv3ZcJUb8mDN96tU8x3YdAD8eENApdnr7LnzDsV71kwkWhS2XkaodX9eLG8G9gNrPzgungfRvGV5" class="myButton" style="color:white;">Déposer : 97227 	- STE ANNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 972 	- Martinique](https://docs.stopcoronavirus.tech/#/r/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 972 	- Martinique](https://docs.stopcoronavirus.tech/#/w/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo-K3TgUeaxrptm9NswN2JSgXE3aKS9HKQgEZZxfKsdUeDs9w3MK5eeUTz8x8PBEEF3j1uCcfT9q4aM46ZnJH1PtFEse18Xf51n2ioUCkkCxop5a751j1HQ3bKXvk9CsEq3Wcvzm9gm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo" class="myButton" style="color:white;">Consulter : 972 	- Martinique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo-K3TgUeaxrptm9NswN2JSgXE3aKS9HKQgEZZxfKsdUeDs9w3MK5eeUTz8x8PBEEF3j1uCcfT9q4aM46ZnJH1PtFEse18Xf51n2ioUCkkCxop5a751j1HQ3bKXvk9CsEq3Wcvzm9gm" class="myButton" style="color:white;">Déposer : 972 	- Martinique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

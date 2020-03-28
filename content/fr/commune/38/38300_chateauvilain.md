@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 38300 	- CHATEAUVILAIN](https://entraide.stopcoronavirus.tech/#/channel/38300_chateauvilain) (à privilégier)
-- [Canal de votre département : 38 	- Isère](https://entraide.stopcoronavirus.tech/#/channel/38_isere) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/38300_chateauvilain" class="myButton" style="color:white;">Canal de votre commune : 38300 	- CHATEAUVILAIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/38_isere" class="myButton" style="color:white;">Canal de votre département : 38 	- Isère</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38300 	- CHATEAUVILAIN](https://docs.stopcoronavirus.tech/#/r/markdown/38300_chateauvilain/4XTTM6iNBn4vS1VAAPDGLWPManLZM68B1MZwp5YdpiTUqbeUq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38300 	- CHATEAUVILAIN](https://docs.stopcoronavirus.tech/#/w/markdown/38300_chateauvilain/4XTTM6iNBn4vS1VAAPDGLWPManLZM68B1MZwp5YdpiTUqbeUq-K3TgTyJHwt6uNMzZdJ3BkiJkY9JD2sjW2FZ4Hd1sxDkPoxvaNRQBpM2Ui71fcjqMgqXzwhk7qwaicHexGy4ajhcshvnbvD2b2bEypxK8fsfAdoes2ZjJ4JGRChAeK6rnydCKvS4y) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/38300_chateauvilain/4XTTM6iNBn4vS1VAAPDGLWPManLZM68B1MZwp5YdpiTUqbeUq" class="myButton" style="color:white;">Consulter : 38300 	- CHATEAUVILAIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/38300_chateauvilain/4XTTM6iNBn4vS1VAAPDGLWPManLZM68B1MZwp5YdpiTUqbeUq-K3TgTyJHwt6uNMzZdJ3BkiJkY9JD2sjW2FZ4Hd1sxDkPoxvaNRQBpM2Ui71fcjqMgqXzwhk7qwaicHexGy4ajhcshvnbvD2b2bEypxK8fsfAdoes2ZjJ4JGRChAeK6rnydCKvS4y" class="myButton" style="color:white;">Déposer : 38300 	- CHATEAUVILAIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V" class="myButton" style="color:white;">Consulter : 38 	- Isère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs" class="myButton" style="color:white;">Déposer : 38 	- Isère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

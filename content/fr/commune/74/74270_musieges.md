@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 74270 	- MUSIEGES](https://entraide.stopcoronavirus.tech/#/channel/74270_musieges) (à privilégier)
-- [Canal de votre département : 74 	- Haute-Savoie](https://entraide.stopcoronavirus.tech/#/channel/74_haute-savoie) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/74270_musieges" class="myButton" style="color:white;">Canal de votre commune : 74270 	- MUSIEGES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/74_haute-savoie" class="myButton" style="color:white;">Canal de votre département : 74 	- Haute-Savoie</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 74270 	- MUSIEGES](https://docs.stopcoronavirus.tech/#/r/markdown/74270_musieges/4XTTMAG85imX4quA465S5B1Qxo1LRbQMcBjndNKKimnpYTYAd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74270 	- MUSIEGES](https://docs.stopcoronavirus.tech/#/w/markdown/74270_musieges/4XTTMAG85imX4quA465S5B1Qxo1LRbQMcBjndNKKimnpYTYAd-K3TgTqe7r8b8CVMZDZ9aju8zeGyzx3q9zSuXkpLocNwnpKNgvw1FhJKQw3TznfgdjuDrQ7nXbeUVvB7fXNZb49njZkHiMMHLdMt9JCu6g1kWjR7u44PfJGzEJCGDgCX51XwgPe4h) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74270_musieges/4XTTMAG85imX4quA465S5B1Qxo1LRbQMcBjndNKKimnpYTYAd" class="myButton" style="color:white;">Consulter : 74270 	- MUSIEGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74270_musieges/4XTTMAG85imX4quA465S5B1Qxo1LRbQMcBjndNKKimnpYTYAd-K3TgTqe7r8b8CVMZDZ9aju8zeGyzx3q9zSuXkpLocNwnpKNgvw1FhJKQw3TznfgdjuDrQ7nXbeUVvB7fXNZb49njZkHiMMHLdMt9JCu6g1kWjR7u44PfJGzEJCGDgCX51XwgPe4h" class="myButton" style="color:white;">Déposer : 74270 	- MUSIEGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 74 	- Haute-Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1" class="myButton" style="color:white;">Consulter : 74 	- Haute-Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1" class="myButton" style="color:white;">Déposer : 74 	- Haute-Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

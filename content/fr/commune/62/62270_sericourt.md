@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 62270 	- SERICOURT](https://entraide.stopcoronavirus.tech/#/channel/62270_sericourt) (à privilégier)
-- [Canal de votre département : 62 	- Pas-de-Calais](https://entraide.stopcoronavirus.tech/#/channel/62_pas-de-calais) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/62270_sericourt" class="myButton" style="color:white;">Canal de votre commune : 62270 	- SERICOURT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/62_pas-de-calais" class="myButton" style="color:white;">Canal de votre département : 62 	- Pas-de-Calais</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 62270 	- SERICOURT](https://docs.stopcoronavirus.tech/#/r/markdown/62270_sericourt/4XTTMGUWEZ4veNX86ocMdCeorYo1oWfrP24V3sySRbzxUjb95) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62270 	- SERICOURT](https://docs.stopcoronavirus.tech/#/w/markdown/62270_sericourt/4XTTMGUWEZ4veNX86ocMdCeorYo1oWfrP24V3sySRbzxUjb95-K3TgUARzXhcHTAydH3VcMQSz7pDMvzc2UJvLLU5ZEbYpGweRE1w28EZ1ALMJzEc7gMVM641rL1qBc5iLEnyA7tQdn1eJLkm9GqJrqKQTiwUiRATjBxp9AoBsfzqA61ugBs6h87Zm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62270_sericourt/4XTTMGUWEZ4veNX86ocMdCeorYo1oWfrP24V3sySRbzxUjb95" class="myButton" style="color:white;">Consulter : 62270 	- SERICOURT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62270_sericourt/4XTTMGUWEZ4veNX86ocMdCeorYo1oWfrP24V3sySRbzxUjb95-K3TgUARzXhcHTAydH3VcMQSz7pDMvzc2UJvLLU5ZEbYpGweRE1w28EZ1ALMJzEc7gMVM641rL1qBc5iLEnyA7tQdn1eJLkm9GqJrqKQTiwUiRATjBxp9AoBsfzqA61ugBs6h87Zm" class="myButton" style="color:white;">Déposer : 62270 	- SERICOURT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 62 	- Pas-de-Calais](https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M" class="myButton" style="color:white;">Consulter : 62 	- Pas-de-Calais</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD" class="myButton" style="color:white;">Déposer : 62 	- Pas-de-Calais</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

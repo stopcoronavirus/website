@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 76133 	- MANEGLISE](https://entraide.stopcoronavirus.tech/#/channel/76133_maneglise) (à privilégier)
-- [Canal de votre département : 76 	- Seine-Maritime](https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76133_maneglise" class="myButton" style="color:white;">Canal de votre commune : 76133 	- MANEGLISE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime" class="myButton" style="color:white;">Canal de votre département : 76 	- Seine-Maritime</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76133 	- MANEGLISE](https://docs.stopcoronavirus.tech/#/r/markdown/76133_maneglise/4XTTME3mZ3ZH2S8hosZdQZaySp85XtYm4rxvz1fjFJeZw8pTk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76133 	- MANEGLISE](https://docs.stopcoronavirus.tech/#/w/markdown/76133_maneglise/4XTTME3mZ3ZH2S8hosZdQZaySp85XtYm4rxvz1fjFJeZw8pTk-K3TgUgZBr1qHcnHGT78kQGSAJE2xwJDqT5M9gSejSzZTJT3j4ZfR3FoBL3TMHVS3TxTC7oRRvsic3TtY3R6fgdiT7Ser4UaB4G1uj4nooNio4QjzMtVomwM5T4R1LnJ21p3A7bWA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76133_maneglise/4XTTME3mZ3ZH2S8hosZdQZaySp85XtYm4rxvz1fjFJeZw8pTk" class="myButton" style="color:white;">Consulter : 76133 	- MANEGLISE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76133_maneglise/4XTTME3mZ3ZH2S8hosZdQZaySp85XtYm4rxvz1fjFJeZw8pTk-K3TgUgZBr1qHcnHGT78kQGSAJE2xwJDqT5M9gSejSzZTJT3j4ZfR3FoBL3TMHVS3TxTC7oRRvsic3TtY3R6fgdiT7Ser4UaB4G1uj4nooNio4QjzMtVomwM5T4R1LnJ21p3A7bWA" class="myButton" style="color:white;">Déposer : 76133 	- MANEGLISE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt" class="myButton" style="color:white;">Consulter : 76 	- Seine-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r" class="myButton" style="color:white;">Déposer : 76 	- Seine-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 76370 	- ANCOURT](https://entraide.stopcoronavirus.tech/#/channel/76370_ancourt) (à privilégier)
-- [Canal de votre département : 76 	- Seine-Maritime](https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76370_ancourt" class="myButton" style="color:white;">Canal de votre commune : 76370 	- ANCOURT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime" class="myButton" style="color:white;">Canal de votre département : 76 	- Seine-Maritime</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76370 	- ANCOURT](https://docs.stopcoronavirus.tech/#/r/markdown/76370_ancourt/4XTTMFLvA464kNgxZzWdxH95BB3NYtaYmwjPsJxaLNcYxB87D) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76370 	- ANCOURT](https://docs.stopcoronavirus.tech/#/w/markdown/76370_ancourt/4XTTMFLvA464kNgxZzWdxH95BB3NYtaYmwjPsJxaLNcYxB87D-K3TgU1GndDKJhsVsWFKt6zLJEvy4i36hLQnS3rNda6fdJshXMaFBcbfhfrttCsobAm6dR2dzYGXdbzuBWEmN33oYUG6p6aSpoiNDipDtZfWUCnPnxNvxTg2piknEYhmzhte6VvTV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76370_ancourt/4XTTMFLvA464kNgxZzWdxH95BB3NYtaYmwjPsJxaLNcYxB87D" class="myButton" style="color:white;">Consulter : 76370 	- ANCOURT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76370_ancourt/4XTTMFLvA464kNgxZzWdxH95BB3NYtaYmwjPsJxaLNcYxB87D-K3TgU1GndDKJhsVsWFKt6zLJEvy4i36hLQnS3rNda6fdJshXMaFBcbfhfrttCsobAm6dR2dzYGXdbzuBWEmN33oYUG6p6aSpoiNDipDtZfWUCnPnxNvxTg2piknEYhmzhte6VvTV" class="myButton" style="color:white;">Déposer : 76370 	- ANCOURT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt" class="myButton" style="color:white;">Consulter : 76 	- Seine-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r" class="myButton" style="color:white;">Déposer : 76 	- Seine-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

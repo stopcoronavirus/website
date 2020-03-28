@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 52290 	- ECLARON BRAUCOURT STE LIVIERE](https://entraide.stopcoronavirus.tech/#/channel/52290_eclaron-braucourt-ste-liviere) (à privilégier)
-- [Canal de votre département : 52 	- Haute-Marne](https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52290_eclaron-braucourt-ste-liviere" class="myButton" style="color:white;">Canal de votre commune : 52290 	- ECLARON BRAUCOURT STE LIVIERE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne" class="myButton" style="color:white;">Canal de votre département : 52 	- Haute-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 52290 	- ECLARON BRAUCOURT STE LIVIERE](https://docs.stopcoronavirus.tech/#/r/markdown/52290_eclaron-braucourt-ste-liviere/4XTTM9s3vUaDnie61wupuu6a4NLvYGgpELJyFz4ZHPD8XzJFw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52290 	- ECLARON BRAUCOURT STE LIVIERE](https://docs.stopcoronavirus.tech/#/w/markdown/52290_eclaron-braucourt-ste-liviere/4XTTM9s3vUaDnie61wupuu6a4NLvYGgpELJyFz4ZHPD8XzJFw-K3TgThJ7AgYR1gocnmcKZnVWxRB6sQk9Fk7Qfovwsn8L1eiiWx5cLqBC3SF6wzk656LwQ394Lgufav35Myv7TPF9BYHv4VcVtx1oHv4pKFg6k4wN3hFZCpbXW64kVEH7rmjZR1id) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52290_eclaron-braucourt-ste-liviere/4XTTM9s3vUaDnie61wupuu6a4NLvYGgpELJyFz4ZHPD8XzJFw" class="myButton" style="color:white;">Consulter : 52290 	- ECLARON BRAUCOURT STE LIVIERE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52290_eclaron-braucourt-ste-liviere/4XTTM9s3vUaDnie61wupuu6a4NLvYGgpELJyFz4ZHPD8XzJFw-K3TgThJ7AgYR1gocnmcKZnVWxRB6sQk9Fk7Qfovwsn8L1eiiWx5cLqBC3SF6wzk656LwQ394Lgufav35Myv7TPF9BYHv4VcVtx1oHv4pKFg6k4wN3hFZCpbXW64kVEH7rmjZR1id" class="myButton" style="color:white;">Déposer : 52290 	- ECLARON BRAUCOURT STE LIVIERE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o" class="myButton" style="color:white;">Consulter : 52 	- Haute-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3" class="myButton" style="color:white;">Déposer : 52 	- Haute-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

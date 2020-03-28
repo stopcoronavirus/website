@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 86200 	- CEAUX EN LOUDUN](https://entraide.stopcoronavirus.tech/#/channel/86200_ceaux-en-loudun) (à privilégier)
-- [Canal de votre département : 86 	- Vienne](https://entraide.stopcoronavirus.tech/#/channel/86_vienne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/86200_ceaux-en-loudun" class="myButton" style="color:white;">Canal de votre commune : 86200 	- CEAUX EN LOUDUN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/86_vienne" class="myButton" style="color:white;">Canal de votre département : 86 	- Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 86200 	- CEAUX EN LOUDUN](https://docs.stopcoronavirus.tech/#/r/markdown/86200_ceaux-en-loudun/4XTTM6WCZ3WodiVRrc3p32JURRbCRwsq6snuzFuV4ucXYzxne) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86200 	- CEAUX EN LOUDUN](https://docs.stopcoronavirus.tech/#/w/markdown/86200_ceaux-en-loudun/4XTTM6WCZ3WodiVRrc3p32JURRbCRwsq6snuzFuV4ucXYzxne-K3TgUCkLgYFupEqbnFLXanQcLtxVUVhUCZufbg3pqbNUuF2VG1sizs7XkWiAMh95arokES3PsTN8Bf4SbUe3ssynpfMkMXz6XqP57Nvb9bzEBKEQued16r3JFTpS4f24z6aUdMJJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86200_ceaux-en-loudun/4XTTM6WCZ3WodiVRrc3p32JURRbCRwsq6snuzFuV4ucXYzxne" class="myButton" style="color:white;">Consulter : 86200 	- CEAUX EN LOUDUN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86200_ceaux-en-loudun/4XTTM6WCZ3WodiVRrc3p32JURRbCRwsq6snuzFuV4ucXYzxne-K3TgUCkLgYFupEqbnFLXanQcLtxVUVhUCZufbg3pqbNUuF2VG1sizs7XkWiAMh95arokES3PsTN8Bf4SbUe3ssynpfMkMXz6XqP57Nvb9bzEBKEQued16r3JFTpS4f24z6aUdMJJ" class="myButton" style="color:white;">Déposer : 86200 	- CEAUX EN LOUDUN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 86 	- Vienne](https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN" class="myButton" style="color:white;">Consulter : 86 	- Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA" class="myButton" style="color:white;">Déposer : 86 	- Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

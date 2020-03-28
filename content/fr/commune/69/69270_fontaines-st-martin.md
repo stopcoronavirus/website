@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 69270 	- FONTAINES ST MARTIN](https://entraide.stopcoronavirus.tech/#/channel/69270_fontaines-st-martin) (à privilégier)
-- [Canal de votre département : 69 	- Rhône](https://entraide.stopcoronavirus.tech/#/channel/69_rhone) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/69270_fontaines-st-martin" class="myButton" style="color:white;">Canal de votre commune : 69270 	- FONTAINES ST MARTIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/69_rhone" class="myButton" style="color:white;">Canal de votre département : 69 	- Rhône</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69270 	- FONTAINES ST MARTIN](https://docs.stopcoronavirus.tech/#/r/markdown/69270_fontaines-st-martin/4XTTMAPYZ6555FBgkm8hCTCUBgMJUYZ2344jZeDzSJMTReh3L) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69270 	- FONTAINES ST MARTIN](https://docs.stopcoronavirus.tech/#/w/markdown/69270_fontaines-st-martin/4XTTMAPYZ6555FBgkm8hCTCUBgMJUYZ2344jZeDzSJMTReh3L-K3TgU1h7mQhpQxvRk3Hh7mrwmXvYP73zw1H16k5Nh2iQP24t1id55tiLT7XW8JR6mhFezAco4aw7RidcxNtjNJszYQm7NTvShGnpsJNFaqfc2dJZzk7byFNuxhMigN6y9gswMZKU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69270_fontaines-st-martin/4XTTMAPYZ6555FBgkm8hCTCUBgMJUYZ2344jZeDzSJMTReh3L" class="myButton" style="color:white;">Consulter : 69270 	- FONTAINES ST MARTIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69270_fontaines-st-martin/4XTTMAPYZ6555FBgkm8hCTCUBgMJUYZ2344jZeDzSJMTReh3L-K3TgU1h7mQhpQxvRk3Hh7mrwmXvYP73zw1H16k5Nh2iQP24t1id55tiLT7XW8JR6mhFezAco4aw7RidcxNtjNJszYQm7NTvShGnpsJNFaqfc2dJZzk7byFNuxhMigN6y9gswMZKU" class="myButton" style="color:white;">Déposer : 69270 	- FONTAINES ST MARTIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW" class="myButton" style="color:white;">Consulter : 69 	- Rhône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz" class="myButton" style="color:white;">Déposer : 69 	- Rhône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

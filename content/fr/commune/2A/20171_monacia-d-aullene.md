@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 20171 	- MONACIA D AULLENE](https://entraide.stopcoronavirus.tech/#/channel/20171_monacia-d-aullene) (à privilégier)
-- [Canal de votre département : 2A 	- Corse-du-Sud](https://entraide.stopcoronavirus.tech/#/channel/2A_corse-du-sud) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/20171_monacia-d-aullene" class="myButton" style="color:white;">Canal de votre commune : 20171 	- MONACIA D AULLENE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/2A_corse-du-sud" class="myButton" style="color:white;">Canal de votre département : 2A 	- Corse-du-Sud</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20171 	- MONACIA D AULLENE](https://docs.stopcoronavirus.tech/#/r/markdown/20171_monacia-d-aullene/4XTTMAphGnf7tEJVrMk9yCcTt86A3PaCkh55hDPH51yFsTANF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20171 	- MONACIA D AULLENE](https://docs.stopcoronavirus.tech/#/w/markdown/20171_monacia-d-aullene/4XTTMAphGnf7tEJVrMk9yCcTt86A3PaCkh55hDPH51yFsTANF-K3TgUyUqsjtdNXviTFKcvLabiZYvdZ2RfjXwcqr6RjE6rAGj8eeh45DL6SBpWBcprnnj7aUgt9Q35MUSVgcUh9zyiXceVpGKUWuXBy1NYjK2fdC2bNLFqAdKyELdjv9KzhVgsgro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/20171_monacia-d-aullene/4XTTMAphGnf7tEJVrMk9yCcTt86A3PaCkh55hDPH51yFsTANF" class="myButton" style="color:white;">Consulter : 20171 	- MONACIA D AULLENE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/20171_monacia-d-aullene/4XTTMAphGnf7tEJVrMk9yCcTt86A3PaCkh55hDPH51yFsTANF-K3TgUyUqsjtdNXviTFKcvLabiZYvdZ2RfjXwcqr6RjE6rAGj8eeh45DL6SBpWBcprnnj7aUgt9Q35MUSVgcUh9zyiXceVpGKUWuXBy1NYjK2fdC2bNLFqAdKyELdjv9KzhVgsgro" class="myButton" style="color:white;">Déposer : 20171 	- MONACIA D AULLENE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2A 	- Corse-du-Sud](https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3" class="myButton" style="color:white;">Consulter : 2A 	- Corse-du-Sud</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP" class="myButton" style="color:white;">Déposer : 2A 	- Corse-du-Sud</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

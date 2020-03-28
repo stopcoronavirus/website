@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 19430 	- GOULLES](https://entraide.stopcoronavirus.tech/#/channel/19430_goulles) (à privilégier)
-- [Canal de votre département : 19 	- Corrèze](https://entraide.stopcoronavirus.tech/#/channel/19_correze) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/19430_goulles" class="myButton" style="color:white;">Canal de votre commune : 19430 	- GOULLES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/19_correze" class="myButton" style="color:white;">Canal de votre département : 19 	- Corrèze</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 19430 	- GOULLES](https://docs.stopcoronavirus.tech/#/r/markdown/19430_goulles/4XTTM9GPsCAjbtWpkTpzovZwvN5P9fP4JR1hARjNYKDjTwTyQ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19430 	- GOULLES](https://docs.stopcoronavirus.tech/#/w/markdown/19430_goulles/4XTTM9GPsCAjbtWpkTpzovZwvN5P9fP4JR1hARjNYKDjTwTyQ-K3TgTfW695B9prLCy6hLXe3ARm9MbAMV3ZBub7bHMV6UuyL5hfJDSQSRX7Nqc12JSW5K8UDT6a2MnTN7SrwaW42n5mec9wQG5aiZQ68rc5qd7cydzHXm5kxkLcJNc1xKTcTGaA2i) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19430_goulles/4XTTM9GPsCAjbtWpkTpzovZwvN5P9fP4JR1hARjNYKDjTwTyQ" class="myButton" style="color:white;">Consulter : 19430 	- GOULLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19430_goulles/4XTTM9GPsCAjbtWpkTpzovZwvN5P9fP4JR1hARjNYKDjTwTyQ-K3TgTfW695B9prLCy6hLXe3ARm9MbAMV3ZBub7bHMV6UuyL5hfJDSQSRX7Nqc12JSW5K8UDT6a2MnTN7SrwaW42n5mec9wQG5aiZQ68rc5qd7cydzHXm5kxkLcJNc1xKTcTGaA2i" class="myButton" style="color:white;">Déposer : 19430 	- GOULLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 19 	- Corrèze](https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS" class="myButton" style="color:white;">Consulter : 19 	- Corrèze</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS" class="myButton" style="color:white;">Déposer : 19 	- Corrèze</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

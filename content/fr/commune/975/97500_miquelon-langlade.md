@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 97500 	- MIQUELON LANGLADE](https://entraide.stopcoronavirus.tech/#/channel/97500_miquelon-langlade) (à privilégier)
-- [Canal de votre département : 975 	- Saint-Pierre-et-Miquelon](https://entraide.stopcoronavirus.tech/#/channel/975_saint-pierre-et-miquelon) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97500_miquelon-langlade" class="myButton" style="color:white;">Canal de votre commune : 97500 	- MIQUELON LANGLADE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/975_saint-pierre-et-miquelon" class="myButton" style="color:white;">Canal de votre département : 975 	- Saint-Pierre-et-Miquelon</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97500 	- MIQUELON LANGLADE](https://docs.stopcoronavirus.tech/#/r/markdown/97500_miquelon-langlade/4XTTM1fmEM9LDBnpa4oPSLHuirBUPkHB1DzHRHrwvkvk4fSLo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97500 	- MIQUELON LANGLADE](https://docs.stopcoronavirus.tech/#/w/markdown/97500_miquelon-langlade/4XTTM1fmEM9LDBnpa4oPSLHuirBUPkHB1DzHRHrwvkvk4fSLo-K3TgUVd1NZhNMvKDZtRekpgmxm6XvyUWVA76swpqSUrGmfg32KJiTQqWSk2eEHVCjsyU2jXzsKeiAnGEYMGmnVaB99gVkdCMsEfmPgZyRShLMcm6tpjUwU7cvWmrN1Sw2P9TnNAT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97500_miquelon-langlade/4XTTM1fmEM9LDBnpa4oPSLHuirBUPkHB1DzHRHrwvkvk4fSLo" class="myButton" style="color:white;">Consulter : 97500 	- MIQUELON LANGLADE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97500_miquelon-langlade/4XTTM1fmEM9LDBnpa4oPSLHuirBUPkHB1DzHRHrwvkvk4fSLo-K3TgUVd1NZhNMvKDZtRekpgmxm6XvyUWVA76swpqSUrGmfg32KJiTQqWSk2eEHVCjsyU2jXzsKeiAnGEYMGmnVaB99gVkdCMsEfmPgZyRShLMcm6tpjUwU7cvWmrN1Sw2P9TnNAT" class="myButton" style="color:white;">Déposer : 97500 	- MIQUELON LANGLADE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 975 	- Saint-Pierre-et-Miquelon](https://docs.stopcoronavirus.tech/#/r/markdown/975_saint-pierre-et-miquelon/4XTTMER9sF7dM6txvW5veDyctjZooCH5rWPoHb2L4fVpTmumZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 975 	- Saint-Pierre-et-Miquelon](https://docs.stopcoronavirus.tech/#/w/markdown/975_saint-pierre-et-miquelon/4XTTMER9sF7dM6txvW5veDyctjZooCH5rWPoHb2L4fVpTmumZ-K3TgV16P5UzNdRtSZnFVgnQvGoEZkrbwboxjGRjXVmuMUjq1rUdycbg7fUrqdaCdZ2HsgRgqBEzsRrZRHfHCVjhRdXMEP2tP3u3KxwREo2E7ajW5Gca4FDsC7gewnWe59qaCmoxj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/975_saint-pierre-et-miquelon/4XTTMER9sF7dM6txvW5veDyctjZooCH5rWPoHb2L4fVpTmumZ" class="myButton" style="color:white;">Consulter : 975 	- Saint-Pierre-et-Miquelon</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/975_saint-pierre-et-miquelon/4XTTMER9sF7dM6txvW5veDyctjZooCH5rWPoHb2L4fVpTmumZ-K3TgV16P5UzNdRtSZnFVgnQvGoEZkrbwboxjGRjXVmuMUjq1rUdycbg7fUrqdaCdZ2HsgRgqBEzsRrZRHfHCVjhRdXMEP2tP3u3KxwREo2E7ajW5Gca4FDsC7gewnWe59qaCmoxj" class="myButton" style="color:white;">Déposer : 975 	- Saint-Pierre-et-Miquelon</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 26740 	- LA LAUPIE](https://entraide.stopcoronavirus.tech/#/channel/26740_la-laupie) (à privilégier)
-- [Canal de votre département : 26 	- Drôme](https://entraide.stopcoronavirus.tech/#/channel/26_drome) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/26740_la-laupie" class="myButton" style="color:white;">Canal de votre commune : 26740 	- LA LAUPIE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/26_drome" class="myButton" style="color:white;">Canal de votre département : 26 	- Drôme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 26740 	- LA LAUPIE](https://docs.stopcoronavirus.tech/#/r/markdown/26740_la-laupie/4XTTM5q8PUKEe3ndEN6A4gPCGVbMxecydYU6aZEejfo7Zk8ZD) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26740 	- LA LAUPIE](https://docs.stopcoronavirus.tech/#/w/markdown/26740_la-laupie/4XTTM5q8PUKEe3ndEN6A4gPCGVbMxecydYU6aZEejfo7Zk8ZD-K3TgUAhKBm1DFJ5MhmWARx5kSLGrCCUtpANSniMjcfEmjctLKZxN4mv4m4Ku3p4Ux9sbqBy7Ddp7XkGCLtN2HeJuXaVaaJ3oy4AELvWubDQmaxUmS5K4u7dhntJd77euKjM3GCQ7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/26740_la-laupie/4XTTM5q8PUKEe3ndEN6A4gPCGVbMxecydYU6aZEejfo7Zk8ZD" class="myButton" style="color:white;">Consulter : 26740 	- LA LAUPIE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/26740_la-laupie/4XTTM5q8PUKEe3ndEN6A4gPCGVbMxecydYU6aZEejfo7Zk8ZD-K3TgUAhKBm1DFJ5MhmWARx5kSLGrCCUtpANSniMjcfEmjctLKZxN4mv4m4Ku3p4Ux9sbqBy7Ddp7XkGCLtN2HeJuXaVaaJ3oy4AELvWubDQmaxUmS5K4u7dhntJd77euKjM3GCQ7" class="myButton" style="color:white;">Déposer : 26740 	- LA LAUPIE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 26 	- Drôme](https://docs.stopcoronavirus.tech/#/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv" class="myButton" style="color:white;">Consulter : 26 	- Drôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q" class="myButton" style="color:white;">Déposer : 26 	- Drôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

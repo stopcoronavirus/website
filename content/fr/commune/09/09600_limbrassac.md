@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 09600 	- LIMBRASSAC](https://entraide.stopcoronavirus.tech/#/channel/09600_limbrassac) (à privilégier)
-- [Canal de votre département : 09 	- Ariège](https://entraide.stopcoronavirus.tech/#/channel/09_ariege) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/09600_limbrassac" class="myButton" style="color:white;">Canal de votre commune : 09600 	- LIMBRASSAC</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/09_ariege" class="myButton" style="color:white;">Canal de votre département : 09 	- Ariège</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09600 	- LIMBRASSAC](https://docs.stopcoronavirus.tech/#/r/markdown/09600_limbrassac/4XTTM2ZVytWSELkoXVzXzn2V9cCuML86BKxZjTz1zEWNzmE26) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09600 	- LIMBRASSAC](https://docs.stopcoronavirus.tech/#/w/markdown/09600_limbrassac/4XTTM2ZVytWSELkoXVzXzn2V9cCuML86BKxZjTz1zEWNzmE26-K3TgUedKkBTnGQwh7Pj7hKqx8xsr1TvnUaRNB49ZUAy8Q5iZi59LVow1ffaSupAktKVFGjvNkHGpbB4gXmjLyw38QSCYzcPwhgm8qSqzpZ9guVuF4hGTXm99kk55PwWQhyFe86RQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/09600_limbrassac/4XTTM2ZVytWSELkoXVzXzn2V9cCuML86BKxZjTz1zEWNzmE26" class="myButton" style="color:white;">Consulter : 09600 	- LIMBRASSAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/09600_limbrassac/4XTTM2ZVytWSELkoXVzXzn2V9cCuML86BKxZjTz1zEWNzmE26-K3TgUedKkBTnGQwh7Pj7hKqx8xsr1TvnUaRNB49ZUAy8Q5iZi59LVow1ffaSupAktKVFGjvNkHGpbB4gXmjLyw38QSCYzcPwhgm8qSqzpZ9guVuF4hGTXm99kk55PwWQhyFe86RQ" class="myButton" style="color:white;">Déposer : 09600 	- LIMBRASSAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7" class="myButton" style="color:white;">Consulter : 09 	- Ariège</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD" class="myButton" style="color:white;">Déposer : 09 	- Ariège</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

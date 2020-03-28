@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 93000 	- BOBIGNY](https://entraide.stopcoronavirus.tech/#/channel/93000_bobigny) (à privilégier)
-- [Canal de votre département : 93 	- Seine-Saint-Denis](https://entraide.stopcoronavirus.tech/#/channel/93_seine-saint-denis) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/93000_bobigny" class="myButton" style="color:white;">Canal de votre commune : 93000 	- BOBIGNY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/93_seine-saint-denis" class="myButton" style="color:white;">Canal de votre département : 93 	- Seine-Saint-Denis</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 93000 	- BOBIGNY](https://docs.stopcoronavirus.tech/#/r/markdown/93000_bobigny/4XTTM6WXmwrFivVH6DXbv99szYRpCiFTAmw8ZpYJvJMnHBG11) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93000 	- BOBIGNY](https://docs.stopcoronavirus.tech/#/w/markdown/93000_bobigny/4XTTM6WXmwrFivVH6DXbv99szYRpCiFTAmw8ZpYJvJMnHBG11-K3TgUJQNMjsvfh9BfCinBdMQwaxNRpayhY2BCN5RTTBkt94FR3SJzNjCH9BC9aQB1gDtW1koKmdgtfejQeybvvmjyZeMEVBt6HUXEPsGGXwTUs6oVCtV977RYVarDzrJUuaUjgVR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/93000_bobigny/4XTTM6WXmwrFivVH6DXbv99szYRpCiFTAmw8ZpYJvJMnHBG11" class="myButton" style="color:white;">Consulter : 93000 	- BOBIGNY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/93000_bobigny/4XTTM6WXmwrFivVH6DXbv99szYRpCiFTAmw8ZpYJvJMnHBG11-K3TgUJQNMjsvfh9BfCinBdMQwaxNRpayhY2BCN5RTTBkt94FR3SJzNjCH9BC9aQB1gDtW1koKmdgtfejQeybvvmjyZeMEVBt6HUXEPsGGXwTUs6oVCtV977RYVarDzrJUuaUjgVR" class="myButton" style="color:white;">Déposer : 93000 	- BOBIGNY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 93 	- Seine-Saint-Denis](https://docs.stopcoronavirus.tech/#/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j" class="myButton" style="color:white;">Consulter : 93 	- Seine-Saint-Denis</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/93_seine-saint-denis/4XTTMJATmxH2hTiUA7mFpxh7CX7ayP5AC3AMkrp1RRZr6wE4j-K3TgUd8Pn1uMNKaHyngd5dLuNAy8KB6fwyvTeS1YNQweEEHnCzVqDnZechADXoiryRmnbLrLv7Coo3ksTRUjofAah3tkg8E32s9nr8Bbk211FDc1gzs64Pt6RhgCvgXto3zmE3NT" class="myButton" style="color:white;">Déposer : 93 	- Seine-Saint-Denis</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

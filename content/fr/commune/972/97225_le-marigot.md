@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 97225 	- LE MARIGOT](https://entraide.stopcoronavirus.tech/#/channel/97225_le-marigot) (à privilégier)
-- [Canal de votre département : 972 	- Martinique](https://entraide.stopcoronavirus.tech/#/channel/972_martinique) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97225_le-marigot" class="myButton" style="color:white;">Canal de votre commune : 97225 	- LE MARIGOT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/972_martinique" class="myButton" style="color:white;">Canal de votre département : 972 	- Martinique</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97225 	- LE MARIGOT](https://docs.stopcoronavirus.tech/#/r/markdown/97225_le-marigot/4XTTM5LrEwqVzc3g1ADJfG97xSHEJKg37ffUnMacaaDGDKdkJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97225 	- LE MARIGOT](https://docs.stopcoronavirus.tech/#/w/markdown/97225_le-marigot/4XTTM5LrEwqVzc3g1ADJfG97xSHEJKg37ffUnMacaaDGDKdkJ-K3TgUTdckEMV6uqwjv2cYqgjy9BrrJ3xkXAeB9vvRtg1xHenzu2QBgaG6sTk474eZAxqDMnFJxPoe7JBMQ4kRk6yFYssPeV6gUb86x99rsm1GHWhpim9hcy6NGy9XRQcKfq3JyrE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97225_le-marigot/4XTTM5LrEwqVzc3g1ADJfG97xSHEJKg37ffUnMacaaDGDKdkJ" class="myButton" style="color:white;">Consulter : 97225 	- LE MARIGOT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97225_le-marigot/4XTTM5LrEwqVzc3g1ADJfG97xSHEJKg37ffUnMacaaDGDKdkJ-K3TgUTdckEMV6uqwjv2cYqgjy9BrrJ3xkXAeB9vvRtg1xHenzu2QBgaG6sTk474eZAxqDMnFJxPoe7JBMQ4kRk6yFYssPeV6gUb86x99rsm1GHWhpim9hcy6NGy9XRQcKfq3JyrE" class="myButton" style="color:white;">Déposer : 97225 	- LE MARIGOT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 972 	- Martinique](https://docs.stopcoronavirus.tech/#/r/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 972 	- Martinique](https://docs.stopcoronavirus.tech/#/w/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo-K3TgUeaxrptm9NswN2JSgXE3aKS9HKQgEZZxfKsdUeDs9w3MK5eeUTz8x8PBEEF3j1uCcfT9q4aM46ZnJH1PtFEse18Xf51n2ioUCkkCxop5a751j1HQ3bKXvk9CsEq3Wcvzm9gm) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo" class="myButton" style="color:white;">Consulter : 972 	- Martinique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo-K3TgUeaxrptm9NswN2JSgXE3aKS9HKQgEZZxfKsdUeDs9w3MK5eeUTz8x8PBEEF3j1uCcfT9q4aM46ZnJH1PtFEse18Xf51n2ioUCkkCxop5a751j1HQ3bKXvk9CsEq3Wcvzm9gm" class="myButton" style="color:white;">Déposer : 972 	- Martinique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

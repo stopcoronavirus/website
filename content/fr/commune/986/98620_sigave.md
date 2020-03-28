@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 98620 	- SIGAVE](https://entraide.stopcoronavirus.tech/#/channel/98620_sigave) (à privilégier)
-- [Canal de votre département : 986 	- Wallis-et-Futuna](https://entraide.stopcoronavirus.tech/#/channel/986_wallis-et-futuna) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/98620_sigave" class="myButton" style="color:white;">Canal de votre commune : 98620 	- SIGAVE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/986_wallis-et-futuna" class="myButton" style="color:white;">Canal de votre département : 986 	- Wallis-et-Futuna</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 98620 	- SIGAVE](https://docs.stopcoronavirus.tech/#/r/markdown/98620_sigave/4XTTM5JjK7LAvCVHupUVLToxGeBxfi5KfD6pPxrDmRuR36ozT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 98620 	- SIGAVE](https://docs.stopcoronavirus.tech/#/w/markdown/98620_sigave/4XTTM5JjK7LAvCVHupUVLToxGeBxfi5KfD6pPxrDmRuR36ozT-K3TgTz84UuYJhDLrQDF6VWr3eA6Dbypw6kKWWvA6cHNkMHitxFXMwYjjcBELGhMUmZrVWTTLBAVn3LpnMarWvYx7Kxg1XhnQREY9uGkzTANqF6BT3aGPbUnPzqUSVH5FPD9B4aWP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/98620_sigave/4XTTM5JjK7LAvCVHupUVLToxGeBxfi5KfD6pPxrDmRuR36ozT" class="myButton" style="color:white;">Consulter : 98620 	- SIGAVE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/98620_sigave/4XTTM5JjK7LAvCVHupUVLToxGeBxfi5KfD6pPxrDmRuR36ozT-K3TgTz84UuYJhDLrQDF6VWr3eA6Dbypw6kKWWvA6cHNkMHitxFXMwYjjcBELGhMUmZrVWTTLBAVn3LpnMarWvYx7Kxg1XhnQREY9uGkzTANqF6BT3aGPbUnPzqUSVH5FPD9B4aWP" class="myButton" style="color:white;">Déposer : 98620 	- SIGAVE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 986 	- Wallis-et-Futuna](https://docs.stopcoronavirus.tech/#/r/markdown/986_wallis-et-futuna/4XTTMG5Ric2hB9iRk8ajRkwP5rv1bkZW3mE2R5FfXFrXx8K7r) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 986 	- Wallis-et-Futuna](https://docs.stopcoronavirus.tech/#/w/markdown/986_wallis-et-futuna/4XTTMG5Ric2hB9iRk8ajRkwP5rv1bkZW3mE2R5FfXFrXx8K7r-K3TgUW8KU1QTvT35d229n2shmLLu31HVZuU9Sg1o4VmAgC7HfeGmsyjuK4nP45dZ1oXT24vEyCgkt57kKTeo7FWyihkbsArDF2goS51KHwgJvSrFfed8a4tDTV7d1dV5LVXBFndJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/986_wallis-et-futuna/4XTTMG5Ric2hB9iRk8ajRkwP5rv1bkZW3mE2R5FfXFrXx8K7r" class="myButton" style="color:white;">Consulter : 986 	- Wallis-et-Futuna</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/986_wallis-et-futuna/4XTTMG5Ric2hB9iRk8ajRkwP5rv1bkZW3mE2R5FfXFrXx8K7r-K3TgUW8KU1QTvT35d229n2shmLLu31HVZuU9Sg1o4VmAgC7HfeGmsyjuK4nP45dZ1oXT24vEyCgkt57kKTeo7FWyihkbsArDF2goS51KHwgJvSrFfed8a4tDTV7d1dV5LVXBFndJ" class="myButton" style="color:white;">Déposer : 986 	- Wallis-et-Futuna</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

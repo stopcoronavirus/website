@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 08150 	- TREMBLOIS LES ROCROI](https://entraide.stopcoronavirus.tech/#/channel/08150_tremblois-les-rocroi) (à privilégier)
-- [Canal de votre département : 08 	- Ardennes](https://entraide.stopcoronavirus.tech/#/channel/08_ardennes) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/08150_tremblois-les-rocroi" class="myButton" style="color:white;">Canal de votre commune : 08150 	- TREMBLOIS LES ROCROI</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/08_ardennes" class="myButton" style="color:white;">Canal de votre département : 08 	- Ardennes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 08150 	- TREMBLOIS LES ROCROI](https://docs.stopcoronavirus.tech/#/r/markdown/08150_tremblois-les-rocroi/4XTTMGtLAPwba7pRn1Ri8pZkbZXE95JLCR9YAmmnXebhJQ6Vq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08150 	- TREMBLOIS LES ROCROI](https://docs.stopcoronavirus.tech/#/w/markdown/08150_tremblois-les-rocroi/4XTTMGtLAPwba7pRn1Ri8pZkbZXE95JLCR9YAmmnXebhJQ6Vq-K3TgTxmQMAawoGhSys6zkW8R5AmtsoG9xa2z7LdL1V5LgwRmPRB6egpqR14mLavXBZ7aEN6gviMQbgGb3yWQe9haREC1WUoXM57G4qKZnLbBm9HWZi1zbcZAcVwq83PMfNAYzfkP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08150_tremblois-les-rocroi/4XTTMGtLAPwba7pRn1Ri8pZkbZXE95JLCR9YAmmnXebhJQ6Vq" class="myButton" style="color:white;">Consulter : 08150 	- TREMBLOIS LES ROCROI</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08150_tremblois-les-rocroi/4XTTMGtLAPwba7pRn1Ri8pZkbZXE95JLCR9YAmmnXebhJQ6Vq-K3TgTxmQMAawoGhSys6zkW8R5AmtsoG9xa2z7LdL1V5LgwRmPRB6egpqR14mLavXBZ7aEN6gviMQbgGb3yWQe9haREC1WUoXM57G4qKZnLbBm9HWZi1zbcZAcVwq83PMfNAYzfkP" class="myButton" style="color:white;">Déposer : 08150 	- TREMBLOIS LES ROCROI</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 08 	- Ardennes](https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM" class="myButton" style="color:white;">Consulter : 08 	- Ardennes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP" class="myButton" style="color:white;">Déposer : 08 	- Ardennes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

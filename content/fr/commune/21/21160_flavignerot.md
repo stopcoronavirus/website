@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 21160 	- FLAVIGNEROT](https://entraide.stopcoronavirus.tech/#/channel/21160_flavignerot) (à privilégier)
-- [Canal de votre département : 21 	- Côte-d'Or](https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21160_flavignerot" class="myButton" style="color:white;">Canal de votre commune : 21160 	- FLAVIGNEROT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor" class="myButton" style="color:white;">Canal de votre département : 21 	- Côte-d'Or</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 21160 	- FLAVIGNEROT](https://docs.stopcoronavirus.tech/#/r/markdown/21160_flavignerot/4XTTMF4BYxP9Dut72i327zHPLof8EAuuMep8985GS9xtH6LAy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21160 	- FLAVIGNEROT](https://docs.stopcoronavirus.tech/#/w/markdown/21160_flavignerot/4XTTMF4BYxP9Dut72i327zHPLof8EAuuMep8985GS9xtH6LAy-K3TgUeK8gf5oXHChr7G9xRXUzKqXkgLYoeDN5gzWpKtzrRCP44kWKcdUdDdgv91AYZTbc24BRL6zmCcYvWTHssNvsnZB4KKwjJYrhVUHFdGkA9BWfNPj1zFftWBGzNJsa8EWwYFo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21160_flavignerot/4XTTMF4BYxP9Dut72i327zHPLof8EAuuMep8985GS9xtH6LAy" class="myButton" style="color:white;">Consulter : 21160 	- FLAVIGNEROT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21160_flavignerot/4XTTMF4BYxP9Dut72i327zHPLof8EAuuMep8985GS9xtH6LAy-K3TgUeK8gf5oXHChr7G9xRXUzKqXkgLYoeDN5gzWpKtzrRCP44kWKcdUdDdgv91AYZTbc24BRL6zmCcYvWTHssNvsnZB4KKwjJYrhVUHFdGkA9BWfNPj1zFftWBGzNJsa8EWwYFo" class="myButton" style="color:white;">Déposer : 21160 	- FLAVIGNEROT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 21 	- Côte-d'Or](https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv" class="myButton" style="color:white;">Consulter : 21 	- Côte-d'Or</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42" class="myButton" style="color:white;">Déposer : 21 	- Côte-d'Or</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

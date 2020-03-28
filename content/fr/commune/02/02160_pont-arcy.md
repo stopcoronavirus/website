@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 02160 	- PONT ARCY](https://entraide.stopcoronavirus.tech/#/channel/02160_pont-arcy) (à privilégier)
-- [Canal de votre département : 02 	- Aisne](https://entraide.stopcoronavirus.tech/#/channel/02_aisne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/02160_pont-arcy" class="myButton" style="color:white;">Canal de votre commune : 02160 	- PONT ARCY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/02_aisne" class="myButton" style="color:white;">Canal de votre département : 02 	- Aisne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 02160 	- PONT ARCY](https://docs.stopcoronavirus.tech/#/r/markdown/02160_pont-arcy/4XTTMDpZUujJUKfR2PwqJiTjK4LzhU1FMLumbgYjjukXiU5d6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02160 	- PONT ARCY](https://docs.stopcoronavirus.tech/#/w/markdown/02160_pont-arcy/4XTTMDpZUujJUKfR2PwqJiTjK4LzhU1FMLumbgYjjukXiU5d6-K3TgUxGd23Ur1yGiZDaoHcYEYg9Ur9899RG8LrzKmzYaCmweP1PeFhHXnW8ff8U7DjWxpPa6wZR9UWeDpaiqknXjHLYAmkqC1dNfzvv2CkLQWN4L8AuweBe6SyhC1ikQFTPn4soA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02160_pont-arcy/4XTTMDpZUujJUKfR2PwqJiTjK4LzhU1FMLumbgYjjukXiU5d6" class="myButton" style="color:white;">Consulter : 02160 	- PONT ARCY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02160_pont-arcy/4XTTMDpZUujJUKfR2PwqJiTjK4LzhU1FMLumbgYjjukXiU5d6-K3TgUxGd23Ur1yGiZDaoHcYEYg9Ur9899RG8LrzKmzYaCmweP1PeFhHXnW8ff8U7DjWxpPa6wZR9UWeDpaiqknXjHLYAmkqC1dNfzvv2CkLQWN4L8AuweBe6SyhC1ikQFTPn4soA" class="myButton" style="color:white;">Déposer : 02160 	- PONT ARCY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 02 	- Aisne](https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf" class="myButton" style="color:white;">Consulter : 02 	- Aisne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M" class="myButton" style="color:white;">Déposer : 02 	- Aisne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

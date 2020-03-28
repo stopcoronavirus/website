@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 94230 	- CACHAN](https://entraide.stopcoronavirus.tech/#/channel/94230_cachan) (à privilégier)
-- [Canal de votre département : 94 	- Val-de-Marne](https://entraide.stopcoronavirus.tech/#/channel/94_val-de-marne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/94230_cachan" class="myButton" style="color:white;">Canal de votre commune : 94230 	- CACHAN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/94_val-de-marne" class="myButton" style="color:white;">Canal de votre département : 94 	- Val-de-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 94230 	- CACHAN](https://docs.stopcoronavirus.tech/#/r/markdown/94230_cachan/4XTTM9uiVR49U1U42GZHteRpdk4KxMa2VZKTgxhYwvuRjcvTL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94230 	- CACHAN](https://docs.stopcoronavirus.tech/#/w/markdown/94230_cachan/4XTTM9uiVR49U1U42GZHteRpdk4KxMa2VZKTgxhYwvuRjcvTL-K3TgV7AbVKeVkiNez4N9Cj1KgoeHrbhecLeGiM3mDMsiWg5KzNijzX2yviq5xC9ugo7rTbjcAiiiFXLj7cKCSmjtQg7prsafPCoMzYBtNe1URdK6Y5toZQkrSzgcMBBR3o8cqtKt) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94230_cachan/4XTTM9uiVR49U1U42GZHteRpdk4KxMa2VZKTgxhYwvuRjcvTL" class="myButton" style="color:white;">Consulter : 94230 	- CACHAN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94230_cachan/4XTTM9uiVR49U1U42GZHteRpdk4KxMa2VZKTgxhYwvuRjcvTL-K3TgV7AbVKeVkiNez4N9Cj1KgoeHrbhecLeGiM3mDMsiWg5KzNijzX2yviq5xC9ugo7rTbjcAiiiFXLj7cKCSmjtQg7prsafPCoMzYBtNe1URdK6Y5toZQkrSzgcMBBR3o8cqtKt" class="myButton" style="color:white;">Déposer : 94230 	- CACHAN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 94 	- Val-de-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp" class="myButton" style="color:white;">Consulter : 94 	- Val-de-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p" class="myButton" style="color:white;">Déposer : 94 	- Val-de-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

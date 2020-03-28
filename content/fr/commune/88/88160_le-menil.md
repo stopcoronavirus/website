@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 88160 	- LE MENIL](https://entraide.stopcoronavirus.tech/#/channel/88160_le-menil) (à privilégier)
-- [Canal de votre département : 88 	- Vosges](https://entraide.stopcoronavirus.tech/#/channel/88_vosges) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/88160_le-menil" class="myButton" style="color:white;">Canal de votre commune : 88160 	- LE MENIL</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/88_vosges" class="myButton" style="color:white;">Canal de votre département : 88 	- Vosges</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 88160 	- LE MENIL](https://docs.stopcoronavirus.tech/#/r/markdown/88160_le-menil/4XTTM9RCuyUcbWtYGyiSZN6ab3ijAV8zV7M8DZ3oFNs8uCSC1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88160 	- LE MENIL](https://docs.stopcoronavirus.tech/#/w/markdown/88160_le-menil/4XTTM9RCuyUcbWtYGyiSZN6ab3ijAV8zV7M8DZ3oFNs8uCSC1-K3TgUFZERtdyvTkdtXEQ1eWHQws3jJNYBEx2FqWz5poyepksy6thkcShQc5YjQuuSgfmK4ACcLFm2Cy1iKaFthW7rqe8boUEEW7fLzwMpB5B9PFBWRxV6L27rzTpkjzRBWtcDo8V) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88160_le-menil/4XTTM9RCuyUcbWtYGyiSZN6ab3ijAV8zV7M8DZ3oFNs8uCSC1" class="myButton" style="color:white;">Consulter : 88160 	- LE MENIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88160_le-menil/4XTTM9RCuyUcbWtYGyiSZN6ab3ijAV8zV7M8DZ3oFNs8uCSC1-K3TgUFZERtdyvTkdtXEQ1eWHQws3jJNYBEx2FqWz5poyepksy6thkcShQc5YjQuuSgfmK4ACcLFm2Cy1iKaFthW7rqe8boUEEW7fLzwMpB5B9PFBWRxV6L27rzTpkjzRBWtcDo8V" class="myButton" style="color:white;">Déposer : 88160 	- LE MENIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 88 	- Vosges](https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh" class="myButton" style="color:white;">Consulter : 88 	- Vosges</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z" class="myButton" style="color:white;">Déposer : 88 	- Vosges</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

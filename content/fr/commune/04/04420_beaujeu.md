@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 04420 	- BEAUJEU](https://entraide.stopcoronavirus.tech/#/channel/04420_beaujeu) (à privilégier)
-- [Canal de votre département : 04 	- Alpes-de-Haute-Provence](https://entraide.stopcoronavirus.tech/#/channel/04_alpes-de-haute-provence) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/04420_beaujeu" class="myButton" style="color:white;">Canal de votre commune : 04420 	- BEAUJEU</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/04_alpes-de-haute-provence" class="myButton" style="color:white;">Canal de votre département : 04 	- Alpes-de-Haute-Provence</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 04420 	- BEAUJEU](https://docs.stopcoronavirus.tech/#/r/markdown/04420_beaujeu/4XTTMBbX4T9VgvXMLsWnc7RBVUkU16oBePY1piLPrysc1Tsgn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04420 	- BEAUJEU](https://docs.stopcoronavirus.tech/#/w/markdown/04420_beaujeu/4XTTMBbX4T9VgvXMLsWnc7RBVUkU16oBePY1piLPrysc1Tsgn-K3TgUihFuE3kvf3QZ4SpmB5z4EkRac2fCJp1yDTTsExpEaguYxfvQSas57gAccvgTVytJhPFNdcB8LbCENwSj3zdmkFcX1BdbL1V3CtVF2UyhHwVHmCvy4qE33QQV6i64dabpyTY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/04420_beaujeu/4XTTMBbX4T9VgvXMLsWnc7RBVUkU16oBePY1piLPrysc1Tsgn" class="myButton" style="color:white;">Consulter : 04420 	- BEAUJEU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/04420_beaujeu/4XTTMBbX4T9VgvXMLsWnc7RBVUkU16oBePY1piLPrysc1Tsgn-K3TgUihFuE3kvf3QZ4SpmB5z4EkRac2fCJp1yDTTsExpEaguYxfvQSas57gAccvgTVytJhPFNdcB8LbCENwSj3zdmkFcX1BdbL1V3CtVF2UyhHwVHmCvy4qE33QQV6i64dabpyTY" class="myButton" style="color:white;">Déposer : 04420 	- BEAUJEU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 04 	- Alpes-de-Haute-Provence](https://docs.stopcoronavirus.tech/#/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF" class="myButton" style="color:white;">Consulter : 04 	- Alpes-de-Haute-Provence</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh" class="myButton" style="color:white;">Déposer : 04 	- Alpes-de-Haute-Provence</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

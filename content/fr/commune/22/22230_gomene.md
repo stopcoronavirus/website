@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 22230 	- GOMENE](https://entraide.stopcoronavirus.tech/#/channel/22230_gomene) (à privilégier)
-- [Canal de votre département : 22 	- Côtes-d'Armor](https://entraide.stopcoronavirus.tech/#/channel/22_cotes-darmor) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/22230_gomene" class="myButton" style="color:white;">Canal de votre commune : 22230 	- GOMENE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/22_cotes-darmor" class="myButton" style="color:white;">Canal de votre département : 22 	- Côtes-d'Armor</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 22230 	- GOMENE](https://docs.stopcoronavirus.tech/#/r/markdown/22230_gomene/4XTTMG3xgyJGbyFde7JckhrgWmqEfepet2hmh1hjW9BsqYLkq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22230 	- GOMENE](https://docs.stopcoronavirus.tech/#/w/markdown/22230_gomene/4XTTMG3xgyJGbyFde7JckhrgWmqEfepet2hmh1hjW9BsqYLkq-K3TgU2ksvbGqRNixxQUKso43pyUbNzYfJpUu2Qr4UYw2yk6x4bEZdQSfuXPu84GXREUtHomLQphw5LU9hUyw1G69dvhSvnpSXfDifqXezgx1RoNtaJepX8UaAY2u2xzSsjxkSpPb) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22230_gomene/4XTTMG3xgyJGbyFde7JckhrgWmqEfepet2hmh1hjW9BsqYLkq" class="myButton" style="color:white;">Consulter : 22230 	- GOMENE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22230_gomene/4XTTMG3xgyJGbyFde7JckhrgWmqEfepet2hmh1hjW9BsqYLkq-K3TgU2ksvbGqRNixxQUKso43pyUbNzYfJpUu2Qr4UYw2yk6x4bEZdQSfuXPu84GXREUtHomLQphw5LU9hUyw1G69dvhSvnpSXfDifqXezgx1RoNtaJepX8UaAY2u2xzSsjxkSpPb" class="myButton" style="color:white;">Déposer : 22230 	- GOMENE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX" class="myButton" style="color:white;">Consulter : 22 	- Côtes-d'Armor</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho" class="myButton" style="color:white;">Déposer : 22 	- Côtes-d'Armor</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

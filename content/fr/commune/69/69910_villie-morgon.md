@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 69910 	- VILLIE MORGON](https://entraide.stopcoronavirus.tech/#/channel/69910_villie-morgon) (à privilégier)
-- [Canal de votre département : 69 	- Rhône](https://entraide.stopcoronavirus.tech/#/channel/69_rhone) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/69910_villie-morgon" class="myButton" style="color:white;">Canal de votre commune : 69910 	- VILLIE MORGON</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/69_rhone" class="myButton" style="color:white;">Canal de votre département : 69 	- Rhône</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 69910 	- VILLIE MORGON](https://docs.stopcoronavirus.tech/#/r/markdown/69910_villie-morgon/4XTTMA8UsixPnqh4g5dR15fD3JjNz9MoxSAvoatxfuqP4APf8) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69910 	- VILLIE MORGON](https://docs.stopcoronavirus.tech/#/w/markdown/69910_villie-morgon/4XTTMA8UsixPnqh4g5dR15fD3JjNz9MoxSAvoatxfuqP4APf8-K3TgUgrYYoPnDetNMLoc94M8Uj1xkP5VqvNwUVdqQZJ8EVSEPQuUJhhgpzdaNUnSreGxPAS5j1D3X1PHNB4CxjXWe1dKS9rhWpsjjNmRVDrBbocUdUkvEqufHZV5xMdq7eJbQ1oG) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69910_villie-morgon/4XTTMA8UsixPnqh4g5dR15fD3JjNz9MoxSAvoatxfuqP4APf8" class="myButton" style="color:white;">Consulter : 69910 	- VILLIE MORGON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69910_villie-morgon/4XTTMA8UsixPnqh4g5dR15fD3JjNz9MoxSAvoatxfuqP4APf8-K3TgUgrYYoPnDetNMLoc94M8Uj1xkP5VqvNwUVdqQZJ8EVSEPQuUJhhgpzdaNUnSreGxPAS5j1D3X1PHNB4CxjXWe1dKS9rhWpsjjNmRVDrBbocUdUkvEqufHZV5xMdq7eJbQ1oG" class="myButton" style="color:white;">Déposer : 69910 	- VILLIE MORGON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 69 	- Rhône](https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW" class="myButton" style="color:white;">Consulter : 69 	- Rhône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz" class="myButton" style="color:white;">Déposer : 69 	- Rhône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 80160 	- VELENNES](https://entraide.stopcoronavirus.tech/#/channel/80160_velennes) (à privilégier)
-- [Canal de votre département : 80 	- Somme](https://entraide.stopcoronavirus.tech/#/channel/80_somme) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/80160_velennes" class="myButton" style="color:white;">Canal de votre commune : 80160 	- VELENNES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/80_somme" class="myButton" style="color:white;">Canal de votre département : 80 	- Somme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 80160 	- VELENNES](https://docs.stopcoronavirus.tech/#/r/markdown/80160_velennes/4XTTM1byKm8AzTtJMhVPiRtxoKtahJhqmaFqVLS86YLDwQEfB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80160 	- VELENNES](https://docs.stopcoronavirus.tech/#/w/markdown/80160_velennes/4XTTM1byKm8AzTtJMhVPiRtxoKtahJhqmaFqVLS86YLDwQEfB-K3TgU29mn1qJstz36RLVbpC7buXqLLhh6GvLg6HDnHyVLJ6njG5kuZ7hQu6kjjFEVVQp3t5um6Cg75jcqStgqnvHyCgWF8GttZVF7NRd1KyjE52TKogrC7ZfaHEEGVRrKQzQngg9) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80160_velennes/4XTTM1byKm8AzTtJMhVPiRtxoKtahJhqmaFqVLS86YLDwQEfB" class="myButton" style="color:white;">Consulter : 80160 	- VELENNES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80160_velennes/4XTTM1byKm8AzTtJMhVPiRtxoKtahJhqmaFqVLS86YLDwQEfB-K3TgU29mn1qJstz36RLVbpC7buXqLLhh6GvLg6HDnHyVLJ6njG5kuZ7hQu6kjjFEVVQp3t5um6Cg75jcqStgqnvHyCgWF8GttZVF7NRd1KyjE52TKogrC7ZfaHEEGVRrKQzQngg9" class="myButton" style="color:white;">Déposer : 80160 	- VELENNES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 80 	- Somme](https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 80 	- Somme](https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw" class="myButton" style="color:white;">Consulter : 80 	- Somme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM" class="myButton" style="color:white;">Déposer : 80 	- Somme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

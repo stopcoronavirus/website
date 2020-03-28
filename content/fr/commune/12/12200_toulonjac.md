@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 12200 	- TOULONJAC](https://entraide.stopcoronavirus.tech/#/channel/12200_toulonjac) (à privilégier)
-- [Canal de votre département : 12 	- Aveyron](https://entraide.stopcoronavirus.tech/#/channel/12_aveyron) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/12200_toulonjac" class="myButton" style="color:white;">Canal de votre commune : 12200 	- TOULONJAC</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/12_aveyron" class="myButton" style="color:white;">Canal de votre département : 12 	- Aveyron</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12200 	- TOULONJAC](https://docs.stopcoronavirus.tech/#/r/markdown/12200_toulonjac/4XTTMCFgkUzUB51YTjjp9AdaoQvT28ZvG5xbdPh8517tkN6jv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12200 	- TOULONJAC](https://docs.stopcoronavirus.tech/#/w/markdown/12200_toulonjac/4XTTMCFgkUzUB51YTjjp9AdaoQvT28ZvG5xbdPh8517tkN6jv-K3TgTzPShdDma5M6StNUv6kNxcQNqfQjV3X495BUwBFQ42Px3Fh6TDWKGfmccgd2eMDohu5cmWskAjfHLFfFTLskEW9CESLD8RiuK3qkYVVfeuhis5spj8GBTofUqGDbeyaWhdLx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12200_toulonjac/4XTTMCFgkUzUB51YTjjp9AdaoQvT28ZvG5xbdPh8517tkN6jv" class="myButton" style="color:white;">Consulter : 12200 	- TOULONJAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12200_toulonjac/4XTTMCFgkUzUB51YTjjp9AdaoQvT28ZvG5xbdPh8517tkN6jv-K3TgTzPShdDma5M6StNUv6kNxcQNqfQjV3X495BUwBFQ42Px3Fh6TDWKGfmccgd2eMDohu5cmWskAjfHLFfFTLskEW9CESLD8RiuK3qkYVVfeuhis5spj8GBTofUqGDbeyaWhdLx" class="myButton" style="color:white;">Déposer : 12200 	- TOULONJAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq" class="myButton" style="color:white;">Consulter : 12 	- Aveyron</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV" class="myButton" style="color:white;">Déposer : 12 	- Aveyron</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

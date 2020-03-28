@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 18390 	- ST GERMAIN DU PUY](https://entraide.stopcoronavirus.tech/#/channel/18390_st-germain-du-puy) (à privilégier)
-- [Canal de votre département : 18 	- Cher](https://entraide.stopcoronavirus.tech/#/channel/18_cher) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/18390_st-germain-du-puy" class="myButton" style="color:white;">Canal de votre commune : 18390 	- ST GERMAIN DU PUY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/18_cher" class="myButton" style="color:white;">Canal de votre département : 18 	- Cher</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 18390 	- ST GERMAIN DU PUY](https://docs.stopcoronavirus.tech/#/r/markdown/18390_st-germain-du-puy/4XTTMBgwKpfEPDUPf3JdWfjf9UtfFW31eKPGYk7HddHVALHdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18390 	- ST GERMAIN DU PUY](https://docs.stopcoronavirus.tech/#/w/markdown/18390_st-germain-du-puy/4XTTMBgwKpfEPDUPf3JdWfjf9UtfFW31eKPGYk7HddHVALHdJ-K3TgUZRnJhujhGxrYqrGAiNdd7Avr3JPwQTEEf9o6zJL3tCm6Y57RAtpBYuxRLYLh4wPwJ1paAA8UYfYwr4vDZy7JJxK3PrsTxkcBEx5jFK6Zbvt1Sho321e8qWTkpPB3poxCYGQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18390_st-germain-du-puy/4XTTMBgwKpfEPDUPf3JdWfjf9UtfFW31eKPGYk7HddHVALHdJ" class="myButton" style="color:white;">Consulter : 18390 	- ST GERMAIN DU PUY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18390_st-germain-du-puy/4XTTMBgwKpfEPDUPf3JdWfjf9UtfFW31eKPGYk7HddHVALHdJ-K3TgUZRnJhujhGxrYqrGAiNdd7Avr3JPwQTEEf9o6zJL3tCm6Y57RAtpBYuxRLYLh4wPwJ1paAA8UYfYwr4vDZy7JJxK3PrsTxkcBEx5jFK6Zbvt1Sho321e8qWTkpPB3poxCYGQ" class="myButton" style="color:white;">Déposer : 18390 	- ST GERMAIN DU PUY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 18 	- Cher](https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 18 	- Cher](https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w" class="myButton" style="color:white;">Consulter : 18 	- Cher</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD" class="myButton" style="color:white;">Déposer : 18 	- Cher</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

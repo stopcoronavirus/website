@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 73360 	- ST PIERRE DE GENEBROZ](https://entraide.stopcoronavirus.tech/#/channel/73360_st-pierre-de-genebroz) (à privilégier)
-- [Canal de votre département : 73 	- Savoie](https://entraide.stopcoronavirus.tech/#/channel/73_savoie) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/73360_st-pierre-de-genebroz" class="myButton" style="color:white;">Canal de votre commune : 73360 	- ST PIERRE DE GENEBROZ</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/73_savoie" class="myButton" style="color:white;">Canal de votre département : 73 	- Savoie</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 73360 	- ST PIERRE DE GENEBROZ](https://docs.stopcoronavirus.tech/#/r/markdown/73360_st-pierre-de-genebroz/4XTTM1QUfJCgQdiGc1f1djJUWRTCK6sJhJp7ZvDbm3FNKwNMP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73360 	- ST PIERRE DE GENEBROZ](https://docs.stopcoronavirus.tech/#/w/markdown/73360_st-pierre-de-genebroz/4XTTM1QUfJCgQdiGc1f1djJUWRTCK6sJhJp7ZvDbm3FNKwNMP-K3TgUFis1Uz9PJcPLyLFNQT1tC2VF34Fb35sDU8RZhrN37cFoLhaPiGaPczNcPkDBoLzL6oogm8eEEAtPwooVGKiBfLtnfBqrq1WcEZYmz3iY7rQ81VBVdYRpMVeoiaskfyCXfER) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73360_st-pierre-de-genebroz/4XTTM1QUfJCgQdiGc1f1djJUWRTCK6sJhJp7ZvDbm3FNKwNMP" class="myButton" style="color:white;">Consulter : 73360 	- ST PIERRE DE GENEBROZ</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73360_st-pierre-de-genebroz/4XTTM1QUfJCgQdiGc1f1djJUWRTCK6sJhJp7ZvDbm3FNKwNMP-K3TgUFis1Uz9PJcPLyLFNQT1tC2VF34Fb35sDU8RZhrN37cFoLhaPiGaPczNcPkDBoLzL6oogm8eEEAtPwooVGKiBfLtnfBqrq1WcEZYmz3iY7rQ81VBVdYRpMVeoiaskfyCXfER" class="myButton" style="color:white;">Déposer : 73360 	- ST PIERRE DE GENEBROZ</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur" class="myButton" style="color:white;">Consulter : 73 	- Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY" class="myButton" style="color:white;">Déposer : 73 	- Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

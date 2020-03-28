@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 38340 	- LA SURE EN CHARTREUSE](https://entraide.stopcoronavirus.tech/#/channel/38340_la-sure-en-chartreuse) (à privilégier)
-- [Canal de votre département : 38 	- Isère](https://entraide.stopcoronavirus.tech/#/channel/38_isere) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/38340_la-sure-en-chartreuse" class="myButton" style="color:white;">Canal de votre commune : 38340 	- LA SURE EN CHARTREUSE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/38_isere" class="myButton" style="color:white;">Canal de votre département : 38 	- Isère</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 38340 	- LA SURE EN CHARTREUSE](https://docs.stopcoronavirus.tech/#/r/markdown/38340_la-sure-en-chartreuse/4XTTM1HqhPYnEATMsvkcpbe4EJrbvkDGUi35YzehhVwne17rC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38340 	- LA SURE EN CHARTREUSE](https://docs.stopcoronavirus.tech/#/w/markdown/38340_la-sure-en-chartreuse/4XTTM1HqhPYnEATMsvkcpbe4EJrbvkDGUi35YzehhVwne17rC-K3TgUV3R4VhpqU4Dn2WydTE3js1XAb2NLovwCd2ow8B1heYgHDPcG8xCrDBwQkBdGnNDKE8paPisapzZmd6JAgVrhuaJXJ6BbpSLRNkPGpykAtwRj9wCZR31FQtXMiEttMALEQs6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/38340_la-sure-en-chartreuse/4XTTM1HqhPYnEATMsvkcpbe4EJrbvkDGUi35YzehhVwne17rC" class="myButton" style="color:white;">Consulter : 38340 	- LA SURE EN CHARTREUSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/38340_la-sure-en-chartreuse/4XTTM1HqhPYnEATMsvkcpbe4EJrbvkDGUi35YzehhVwne17rC-K3TgUV3R4VhpqU4Dn2WydTE3js1XAb2NLovwCd2ow8B1heYgHDPcG8xCrDBwQkBdGnNDKE8paPisapzZmd6JAgVrhuaJXJ6BbpSLRNkPGpykAtwRj9wCZR31FQtXMiEttMALEQs6" class="myButton" style="color:white;">Déposer : 38340 	- LA SURE EN CHARTREUSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 38 	- Isère](https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 38 	- Isère](https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V" class="myButton" style="color:white;">Consulter : 38 	- Isère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs" class="myButton" style="color:white;">Déposer : 38 	- Isère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

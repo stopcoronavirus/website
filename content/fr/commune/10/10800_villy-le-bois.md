@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 10800 	- VILLY LE BOIS](https://entraide.stopcoronavirus.tech/#/channel/10800_villy-le-bois) (à privilégier)
-- [Canal de votre département : 10 	- Aube](https://entraide.stopcoronavirus.tech/#/channel/10_aube) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/10800_villy-le-bois" class="myButton" style="color:white;">Canal de votre commune : 10800 	- VILLY LE BOIS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/10_aube" class="myButton" style="color:white;">Canal de votre département : 10 	- Aube</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 10800 	- VILLY LE BOIS](https://docs.stopcoronavirus.tech/#/r/markdown/10800_villy-le-bois/4XTTMHVvWoRrb2B62TWDXAtsQFxyTmeRRdbmdJRxZwakU3tVB) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10800 	- VILLY LE BOIS](https://docs.stopcoronavirus.tech/#/w/markdown/10800_villy-le-bois/4XTTMHVvWoRrb2B62TWDXAtsQFxyTmeRRdbmdJRxZwakU3tVB-K3TgTooUPMKMihpM4pEJ95cGauDYtPWMtGoHGLoySwuu7cEE5F7AakHTMT5q5TtZQD6ggHgh6D34sW4NUx1WvZbxAD3KSaXtyoQzLHgvBaiyLzJG7Uj1chpvZrNzLXDhvx31VhPs) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/10800_villy-le-bois/4XTTMHVvWoRrb2B62TWDXAtsQFxyTmeRRdbmdJRxZwakU3tVB" class="myButton" style="color:white;">Consulter : 10800 	- VILLY LE BOIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/10800_villy-le-bois/4XTTMHVvWoRrb2B62TWDXAtsQFxyTmeRRdbmdJRxZwakU3tVB-K3TgTooUPMKMihpM4pEJ95cGauDYtPWMtGoHGLoySwuu7cEE5F7AakHTMT5q5TtZQD6ggHgh6D34sW4NUx1WvZbxAD3KSaXtyoQzLHgvBaiyLzJG7Uj1chpvZrNzLXDhvx31VhPs" class="myButton" style="color:white;">Déposer : 10800 	- VILLY LE BOIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 10 	- Aube](https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 10 	- Aube](https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz" class="myButton" style="color:white;">Consulter : 10 	- Aube</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW" class="myButton" style="color:white;">Déposer : 10 	- Aube</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

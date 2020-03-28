@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 09800 	- ST JEAN DU CASTILLONNAIS](https://entraide.stopcoronavirus.tech/#/channel/09800_st-jean-du-castillonnais) (à privilégier)
-- [Canal de votre département : 09 	- Ariège](https://entraide.stopcoronavirus.tech/#/channel/09_ariege) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/09800_st-jean-du-castillonnais" class="myButton" style="color:white;">Canal de votre commune : 09800 	- ST JEAN DU CASTILLONNAIS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/09_ariege" class="myButton" style="color:white;">Canal de votre département : 09 	- Ariège</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 09800 	- ST JEAN DU CASTILLONNAIS](https://docs.stopcoronavirus.tech/#/r/markdown/09800_st-jean-du-castillonnais/4XTTM2WqzXiVtcKDth3ipnXv9CuFHzTNkGCcy3vop8Goz5H2p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09800 	- ST JEAN DU CASTILLONNAIS](https://docs.stopcoronavirus.tech/#/w/markdown/09800_st-jean-du-castillonnais/4XTTM2WqzXiVtcKDth3ipnXv9CuFHzTNkGCcy3vop8Goz5H2p-K3TgUh3BMhaJrzXSVY5LZoSd12utf3mxFtLPQaDfwhZ4y8uYxV54ZuS8zjvshF3cPdUS7scVgYUyfioCuG6HbBoj6VakDjvbXAAg5NhfgvQW9Le5ERCYUB5YoPpNdieCHbUKAQCx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/09800_st-jean-du-castillonnais/4XTTM2WqzXiVtcKDth3ipnXv9CuFHzTNkGCcy3vop8Goz5H2p" class="myButton" style="color:white;">Consulter : 09800 	- ST JEAN DU CASTILLONNAIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/09800_st-jean-du-castillonnais/4XTTM2WqzXiVtcKDth3ipnXv9CuFHzTNkGCcy3vop8Goz5H2p-K3TgUh3BMhaJrzXSVY5LZoSd12utf3mxFtLPQaDfwhZ4y8uYxV54ZuS8zjvshF3cPdUS7scVgYUyfioCuG6HbBoj6VakDjvbXAAg5NhfgvQW9Le5ERCYUB5YoPpNdieCHbUKAQCx" class="myButton" style="color:white;">Déposer : 09800 	- ST JEAN DU CASTILLONNAIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 09 	- Ariège](https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7" class="myButton" style="color:white;">Consulter : 09 	- Ariège</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD" class="myButton" style="color:white;">Déposer : 09 	- Ariège</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

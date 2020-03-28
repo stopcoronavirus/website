@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 40110 	- MORCENX LA NOUVELLE](https://entraide.stopcoronavirus.tech/#/channel/40110_morcenx-la-nouvelle) (à privilégier)
-- [Canal de votre département : 40 	- Landes](https://entraide.stopcoronavirus.tech/#/channel/40_landes) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/40110_morcenx-la-nouvelle" class="myButton" style="color:white;">Canal de votre commune : 40110 	- MORCENX LA NOUVELLE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/40_landes" class="myButton" style="color:white;">Canal de votre département : 40 	- Landes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 40110 	- MORCENX LA NOUVELLE](https://docs.stopcoronavirus.tech/#/r/markdown/40110_morcenx-la-nouvelle/4XTTM38wt9WYDmjwC3J1xmvtFvFgLw3n9tpJVLMV8PdvgPPmc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40110 	- MORCENX LA NOUVELLE](https://docs.stopcoronavirus.tech/#/w/markdown/40110_morcenx-la-nouvelle/4XTTM38wt9WYDmjwC3J1xmvtFvFgLw3n9tpJVLMV8PdvgPPmc-K3TgTh8hM2U4JXRZd6REPTn7774jPjy9pW4Y5ZhNn55Nt9b3CpAE5D526KeACuzioqZzGHysvEFCp7JtjKZusjoT7qdAQNHBeKDDCRnhovqqEd3eazvF3UymR59s1rADe93bbqht) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/40110_morcenx-la-nouvelle/4XTTM38wt9WYDmjwC3J1xmvtFvFgLw3n9tpJVLMV8PdvgPPmc" class="myButton" style="color:white;">Consulter : 40110 	- MORCENX LA NOUVELLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/40110_morcenx-la-nouvelle/4XTTM38wt9WYDmjwC3J1xmvtFvFgLw3n9tpJVLMV8PdvgPPmc-K3TgTh8hM2U4JXRZd6REPTn7774jPjy9pW4Y5ZhNn55Nt9b3CpAE5D526KeACuzioqZzGHysvEFCp7JtjKZusjoT7qdAQNHBeKDDCRnhovqqEd3eazvF3UymR59s1rADe93bbqht" class="myButton" style="color:white;">Déposer : 40110 	- MORCENX LA NOUVELLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 40 	- Landes](https://docs.stopcoronavirus.tech/#/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 40 	- Landes](https://docs.stopcoronavirus.tech/#/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h" class="myButton" style="color:white;">Consulter : 40 	- Landes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK" class="myButton" style="color:white;">Déposer : 40 	- Landes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

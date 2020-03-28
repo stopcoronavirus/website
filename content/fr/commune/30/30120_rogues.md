@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 30120 	- ROGUES](https://entraide.stopcoronavirus.tech/#/channel/30120_rogues) (à privilégier)
-- [Canal de votre département : 30 	- Gard](https://entraide.stopcoronavirus.tech/#/channel/30_gard) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/30120_rogues" class="myButton" style="color:white;">Canal de votre commune : 30120 	- ROGUES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/30_gard" class="myButton" style="color:white;">Canal de votre département : 30 	- Gard</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 30120 	- ROGUES](https://docs.stopcoronavirus.tech/#/r/markdown/30120_rogues/4XTTM2DmEULPyz2H2rbWdkx8horVzCmBEbbjNXrVA87KtUDBq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30120 	- ROGUES](https://docs.stopcoronavirus.tech/#/w/markdown/30120_rogues/4XTTM2DmEULPyz2H2rbWdkx8horVzCmBEbbjNXrVA87KtUDBq-K3TgUffocb4stvbq3DoNV3yEmjm9eQqu1d5GUjmy1we1eRq3zqpyfPdN3HSLpsbMTmR2a9wSND395AbXtq1vp8Y9VCKZcp9drZMGYYgkKrLycHBWdp1bUkpVz6g6rcThKWTdR7eK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/30120_rogues/4XTTM2DmEULPyz2H2rbWdkx8horVzCmBEbbjNXrVA87KtUDBq" class="myButton" style="color:white;">Consulter : 30120 	- ROGUES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/30120_rogues/4XTTM2DmEULPyz2H2rbWdkx8horVzCmBEbbjNXrVA87KtUDBq-K3TgUffocb4stvbq3DoNV3yEmjm9eQqu1d5GUjmy1we1eRq3zqpyfPdN3HSLpsbMTmR2a9wSND395AbXtq1vp8Y9VCKZcp9drZMGYYgkKrLycHBWdp1bUkpVz6g6rcThKWTdR7eK" class="myButton" style="color:white;">Déposer : 30120 	- ROGUES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 30 	- Gard](https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 30 	- Gard](https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj" class="myButton" style="color:white;">Consulter : 30 	- Gard</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK" class="myButton" style="color:white;">Déposer : 30 	- Gard</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

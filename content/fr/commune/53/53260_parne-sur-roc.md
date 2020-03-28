@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 53260 	- PARNE SUR ROC](https://entraide.stopcoronavirus.tech/#/channel/53260_parne-sur-roc) (à privilégier)
-- [Canal de votre département : 53 	- Mayenne](https://entraide.stopcoronavirus.tech/#/channel/53_mayenne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53260_parne-sur-roc" class="myButton" style="color:white;">Canal de votre commune : 53260 	- PARNE SUR ROC</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53_mayenne" class="myButton" style="color:white;">Canal de votre département : 53 	- Mayenne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53260 	- PARNE SUR ROC](https://docs.stopcoronavirus.tech/#/r/markdown/53260_parne-sur-roc/4XTTM7WAGdPDQeCTTiXPpVnTC7azYJFymbkrsgRCPeMWovmmG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53260 	- PARNE SUR ROC](https://docs.stopcoronavirus.tech/#/w/markdown/53260_parne-sur-roc/4XTTM7WAGdPDQeCTTiXPpVnTC7azYJFymbkrsgRCPeMWovmmG-K3TgU5ZxPjLrWxo336jDyw6q6UvwdtnxoaGU2eP6icA18gdVXksoxCFKaDWdTtrQ6Nubv3mZBDyDpKP7ENfiUj3jXzkkm3WJt3AGT1FAGXWc5iqg7MGh4x2DZ7mMAvsjse9tnP2v) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53260_parne-sur-roc/4XTTM7WAGdPDQeCTTiXPpVnTC7azYJFymbkrsgRCPeMWovmmG" class="myButton" style="color:white;">Consulter : 53260 	- PARNE SUR ROC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53260_parne-sur-roc/4XTTM7WAGdPDQeCTTiXPpVnTC7azYJFymbkrsgRCPeMWovmmG-K3TgU5ZxPjLrWxo336jDyw6q6UvwdtnxoaGU2eP6icA18gdVXksoxCFKaDWdTtrQ6Nubv3mZBDyDpKP7ENfiUj3jXzkkm3WJt3AGT1FAGXWc5iqg7MGh4x2DZ7mMAvsjse9tnP2v" class="myButton" style="color:white;">Déposer : 53260 	- PARNE SUR ROC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43" class="myButton" style="color:white;">Consulter : 53 	- Mayenne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es" class="myButton" style="color:white;">Déposer : 53 	- Mayenne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

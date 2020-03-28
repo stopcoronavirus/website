@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 59310 	- FAUMONT](https://entraide.stopcoronavirus.tech/#/channel/59310_faumont) (à privilégier)
-- [Canal de votre département : 59 	- Nord](https://entraide.stopcoronavirus.tech/#/channel/59_nord) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/59310_faumont" class="myButton" style="color:white;">Canal de votre commune : 59310 	- FAUMONT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/59_nord" class="myButton" style="color:white;">Canal de votre département : 59 	- Nord</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 59310 	- FAUMONT](https://docs.stopcoronavirus.tech/#/r/markdown/59310_faumont/4XTTM38pd9nD1tktaerKg71dfhfnaX1S19BfF6su1nt6PjnYh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59310 	- FAUMONT](https://docs.stopcoronavirus.tech/#/w/markdown/59310_faumont/4XTTM38pd9nD1tktaerKg71dfhfnaX1S19BfF6su1nt6PjnYh-K3TgUNXUVLzK3Q8XsFhL4Fystpv2MgLn9sFEQfz8uHRpHkLHyzDomdgFdRYaQva4vJJzQeKyJ576MQq5buJLsQU5XEWPKg55Wfg8hrrot7U8bL2zXN4VxbAxJU6Ur9Yn6eXyudah) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/59310_faumont/4XTTM38pd9nD1tktaerKg71dfhfnaX1S19BfF6su1nt6PjnYh" class="myButton" style="color:white;">Consulter : 59310 	- FAUMONT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/59310_faumont/4XTTM38pd9nD1tktaerKg71dfhfnaX1S19BfF6su1nt6PjnYh-K3TgUNXUVLzK3Q8XsFhL4Fystpv2MgLn9sFEQfz8uHRpHkLHyzDomdgFdRYaQva4vJJzQeKyJ576MQq5buJLsQU5XEWPKg55Wfg8hrrot7U8bL2zXN4VxbAxJU6Ur9Yn6eXyudah" class="myButton" style="color:white;">Déposer : 59310 	- FAUMONT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 59 	- Nord](https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 59 	- Nord](https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ" class="myButton" style="color:white;">Consulter : 59 	- Nord</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ" class="myButton" style="color:white;">Déposer : 59 	- Nord</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 07400 	- ALBA LA ROMAINE](https://entraide.stopcoronavirus.tech/#/channel/07400_alba-la-romaine) (à privilégier)
-- [Canal de votre département : 07 	- Ardèche](https://entraide.stopcoronavirus.tech/#/channel/07_ardeche) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/07400_alba-la-romaine" class="myButton" style="color:white;">Canal de votre commune : 07400 	- ALBA LA ROMAINE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/07_ardeche" class="myButton" style="color:white;">Canal de votre département : 07 	- Ardèche</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 07400 	- ALBA LA ROMAINE](https://docs.stopcoronavirus.tech/#/r/markdown/07400_alba-la-romaine/4XTTMAEctpxP1sXpokyHHtQfBgLsqX6fZTq7eNij1TBqbeuSt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07400 	- ALBA LA ROMAINE](https://docs.stopcoronavirus.tech/#/w/markdown/07400_alba-la-romaine/4XTTMAEctpxP1sXpokyHHtQfBgLsqX6fZTq7eNij1TBqbeuSt-K3TgTyG8FYSVuXCu1vQyebTfAd1zhUCSB3nM7ALGcZcKBJX1qXZ2MHa9wwdJCCzhVA5Vk68VECrsNNyiakxpp6HbNVN1syoH7HM1AG6VpgjP8epuxx18LVCFTgA37yf8iGCQEoec) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07400_alba-la-romaine/4XTTMAEctpxP1sXpokyHHtQfBgLsqX6fZTq7eNij1TBqbeuSt" class="myButton" style="color:white;">Consulter : 07400 	- ALBA LA ROMAINE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07400_alba-la-romaine/4XTTMAEctpxP1sXpokyHHtQfBgLsqX6fZTq7eNij1TBqbeuSt-K3TgTyG8FYSVuXCu1vQyebTfAd1zhUCSB3nM7ALGcZcKBJX1qXZ2MHa9wwdJCCzhVA5Vk68VECrsNNyiakxpp6HbNVN1syoH7HM1AG6VpgjP8epuxx18LVCFTgA37yf8iGCQEoec" class="myButton" style="color:white;">Déposer : 07400 	- ALBA LA ROMAINE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 07 	- Ardèche](https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H" class="myButton" style="color:white;">Consulter : 07 	- Ardèche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR" class="myButton" style="color:white;">Déposer : 07 	- Ardèche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

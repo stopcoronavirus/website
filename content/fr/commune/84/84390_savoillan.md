@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 84390 	- SAVOILLAN](https://entraide.stopcoronavirus.tech/#/channel/84390_savoillan) (à privilégier)
-- [Canal de votre département : 84 	- Vaucluse](https://entraide.stopcoronavirus.tech/#/channel/84_vaucluse) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/84390_savoillan" class="myButton" style="color:white;">Canal de votre commune : 84390 	- SAVOILLAN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/84_vaucluse" class="myButton" style="color:white;">Canal de votre département : 84 	- Vaucluse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84390 	- SAVOILLAN](https://docs.stopcoronavirus.tech/#/r/markdown/84390_savoillan/4XTTMEoHEK3cwgj6XqTRtGVF6BvukRDfUs1Z3xiH3TiyBrtgy) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84390 	- SAVOILLAN](https://docs.stopcoronavirus.tech/#/w/markdown/84390_savoillan/4XTTMEoHEK3cwgj6XqTRtGVF6BvukRDfUs1Z3xiH3TiyBrtgy-K3TgUeCobzfa8h1VMB6zEpqCkAsC78W26rfkX79tj7uZGmt2xynoQ5AV36eVwwJf7yHptrSuAwRiFzqC5hEUzx36LYe5LxgKBe7w8UL1KWb7ztXffAv9P1YxdvAm3S2wWCaLRbd3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/84390_savoillan/4XTTMEoHEK3cwgj6XqTRtGVF6BvukRDfUs1Z3xiH3TiyBrtgy" class="myButton" style="color:white;">Consulter : 84390 	- SAVOILLAN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/84390_savoillan/4XTTMEoHEK3cwgj6XqTRtGVF6BvukRDfUs1Z3xiH3TiyBrtgy-K3TgUeCobzfa8h1VMB6zEpqCkAsC78W26rfkX79tj7uZGmt2xynoQ5AV36eVwwJf7yHptrSuAwRiFzqC5hEUzx36LYe5LxgKBe7w8UL1KWb7ztXffAv9P1YxdvAm3S2wWCaLRbd3" class="myButton" style="color:white;">Déposer : 84390 	- SAVOILLAN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr" class="myButton" style="color:white;">Consulter : 84 	- Vaucluse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A" class="myButton" style="color:white;">Déposer : 84 	- Vaucluse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

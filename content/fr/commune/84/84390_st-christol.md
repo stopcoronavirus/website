@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 84390 	- ST CHRISTOL](https://entraide.stopcoronavirus.tech/#/channel/84390_st-christol) (à privilégier)
-- [Canal de votre département : 84 	- Vaucluse](https://entraide.stopcoronavirus.tech/#/channel/84_vaucluse) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/84390_st-christol" class="myButton" style="color:white;">Canal de votre commune : 84390 	- ST CHRISTOL</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/84_vaucluse" class="myButton" style="color:white;">Canal de votre département : 84 	- Vaucluse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 84390 	- ST CHRISTOL](https://docs.stopcoronavirus.tech/#/r/markdown/84390_st-christol/4XTTM1tP2HGuv74DaRgFoyvyNgWuZS3euGcjn24sCWqFf4Ruh) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84390 	- ST CHRISTOL](https://docs.stopcoronavirus.tech/#/w/markdown/84390_st-christol/4XTTM1tP2HGuv74DaRgFoyvyNgWuZS3euGcjn24sCWqFf4Ruh-K3TgUebkNoQfPKUtF9K4aPNgNXNnH8678sdUwHDScfVvFQE5bnubM9AsuKNcV6znegTvqG7y3jYy2X3UFUSkZqbQAbqWECpiXcnPnG9xQepg9NtdorVpdpMQJnBDqYV1UQAdmTbD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/84390_st-christol/4XTTM1tP2HGuv74DaRgFoyvyNgWuZS3euGcjn24sCWqFf4Ruh" class="myButton" style="color:white;">Consulter : 84390 	- ST CHRISTOL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/84390_st-christol/4XTTM1tP2HGuv74DaRgFoyvyNgWuZS3euGcjn24sCWqFf4Ruh-K3TgUebkNoQfPKUtF9K4aPNgNXNnH8678sdUwHDScfVvFQE5bnubM9AsuKNcV6znegTvqG7y3jYy2X3UFUSkZqbQAbqWECpiXcnPnG9xQepg9NtdorVpdpMQJnBDqYV1UQAdmTbD" class="myButton" style="color:white;">Déposer : 84390 	- ST CHRISTOL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 84 	- Vaucluse](https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr" class="myButton" style="color:white;">Consulter : 84 	- Vaucluse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A" class="myButton" style="color:white;">Déposer : 84 	- Vaucluse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

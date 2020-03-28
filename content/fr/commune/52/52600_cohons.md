@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 52600 	- COHONS](https://entraide.stopcoronavirus.tech/#/channel/52600_cohons) (à privilégier)
-- [Canal de votre département : 52 	- Haute-Marne](https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52600_cohons" class="myButton" style="color:white;">Canal de votre commune : 52600 	- COHONS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne" class="myButton" style="color:white;">Canal de votre département : 52 	- Haute-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 52600 	- COHONS](https://docs.stopcoronavirus.tech/#/r/markdown/52600_cohons/4XTTMJFozYXbBTgbhSzmJBfo2Tkq83uU1DwXYMGjVhWGk8rqn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52600 	- COHONS](https://docs.stopcoronavirus.tech/#/w/markdown/52600_cohons/4XTTMJFozYXbBTgbhSzmJBfo2Tkq83uU1DwXYMGjVhWGk8rqn-K3TgV2aC1dAAwCt5NYjLeyfigvRiEGEg2PJDyZbzJrKnpx5jZieLQdYkavQhZPZACWeXXj1e4vBPmmW4D8PAkfoNFhPNGpcULtqwYQJTk83n8S4xkisP5tv9DHt3DVgv5QuNjPmi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52600_cohons/4XTTMJFozYXbBTgbhSzmJBfo2Tkq83uU1DwXYMGjVhWGk8rqn" class="myButton" style="color:white;">Consulter : 52600 	- COHONS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52600_cohons/4XTTMJFozYXbBTgbhSzmJBfo2Tkq83uU1DwXYMGjVhWGk8rqn-K3TgV2aC1dAAwCt5NYjLeyfigvRiEGEg2PJDyZbzJrKnpx5jZieLQdYkavQhZPZACWeXXj1e4vBPmmW4D8PAkfoNFhPNGpcULtqwYQJTk83n8S4xkisP5tv9DHt3DVgv5QuNjPmi" class="myButton" style="color:white;">Déposer : 52600 	- COHONS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 52 	- Haute-Marne](https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o" class="myButton" style="color:white;">Consulter : 52 	- Haute-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3" class="myButton" style="color:white;">Déposer : 52 	- Haute-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

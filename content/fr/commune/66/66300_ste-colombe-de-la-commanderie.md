@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 66300 	- STE COLOMBE DE LA COMMANDERIE](https://entraide.stopcoronavirus.tech/#/channel/66300_ste-colombe-de-la-commanderie) (à privilégier)
-- [Canal de votre département : 66 	- Pyrénées-Orientales](https://entraide.stopcoronavirus.tech/#/channel/66_pyrenees-orientales) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/66300_ste-colombe-de-la-commanderie" class="myButton" style="color:white;">Canal de votre commune : 66300 	- STE COLOMBE DE LA COMMANDERIE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/66_pyrenees-orientales" class="myButton" style="color:white;">Canal de votre département : 66 	- Pyrénées-Orientales</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 66300 	- STE COLOMBE DE LA COMMANDERIE](https://docs.stopcoronavirus.tech/#/r/markdown/66300_ste-colombe-de-la-commanderie/4XTTMEa9HJ3Mijx92XmBXwnTf3JuBsjFTzCHRsC54eow13ZVd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66300 	- STE COLOMBE DE LA COMMANDERIE](https://docs.stopcoronavirus.tech/#/w/markdown/66300_ste-colombe-de-la-commanderie/4XTTMEa9HJ3Mijx92XmBXwnTf3JuBsjFTzCHRsC54eow13ZVd-K3TgV2mkioFe7tDy1EWR8EahuPP641heyuQN9ypXtn11ULwiQZY21zXLR8AbEffp6hGyKYn4T4EioFioQQSzq55JAX2sFy44YVoCW5KdrsGjE9yTJxhfokqG1L7zFkXNEKCoCgzo) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/66300_ste-colombe-de-la-commanderie/4XTTMEa9HJ3Mijx92XmBXwnTf3JuBsjFTzCHRsC54eow13ZVd" class="myButton" style="color:white;">Consulter : 66300 	- STE COLOMBE DE LA COMMANDERIE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/66300_ste-colombe-de-la-commanderie/4XTTMEa9HJ3Mijx92XmBXwnTf3JuBsjFTzCHRsC54eow13ZVd-K3TgV2mkioFe7tDy1EWR8EahuPP641heyuQN9ypXtn11ULwiQZY21zXLR8AbEffp6hGyKYn4T4EioFioQQSzq55JAX2sFy44YVoCW5KdrsGjE9yTJxhfokqG1L7zFkXNEKCoCgzo" class="myButton" style="color:white;">Déposer : 66300 	- STE COLOMBE DE LA COMMANDERIE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf" class="myButton" style="color:white;">Consulter : 66 	- Pyrénées-Orientales</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro" class="myButton" style="color:white;">Déposer : 66 	- Pyrénées-Orientales</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

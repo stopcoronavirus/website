@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 51490 	- PONTFAVERGER MORONVILLIERS](https://entraide.stopcoronavirus.tech/#/channel/51490_pontfaverger-moronvilliers) (à privilégier)
-- [Canal de votre département : 51 	- Marne](https://entraide.stopcoronavirus.tech/#/channel/51_marne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/51490_pontfaverger-moronvilliers" class="myButton" style="color:white;">Canal de votre commune : 51490 	- PONTFAVERGER MORONVILLIERS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/51_marne" class="myButton" style="color:white;">Canal de votre département : 51 	- Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51490 	- PONTFAVERGER MORONVILLIERS](https://docs.stopcoronavirus.tech/#/r/markdown/51490_pontfaverger-moronvilliers/4XTTM8ncUMU3PKXh8jj6qu28Du6wtkfMAy6uspGTEz2emkVhm) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51490 	- PONTFAVERGER MORONVILLIERS](https://docs.stopcoronavirus.tech/#/w/markdown/51490_pontfaverger-moronvilliers/4XTTM8ncUMU3PKXh8jj6qu28Du6wtkfMAy6uspGTEz2emkVhm-K3TgUmA4Q13LX4eYHPvzG91YcYGdchHD6aQavTAdydzgnYvE7B5FvoY3KehJbgFnmxDw6V7ATExSiNUyjp5gM9qgMXcFuVxGD51sjy8XL1mk21VEZ6dVb2ju5KroJuhoRSgYaV4o) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51490_pontfaverger-moronvilliers/4XTTM8ncUMU3PKXh8jj6qu28Du6wtkfMAy6uspGTEz2emkVhm" class="myButton" style="color:white;">Consulter : 51490 	- PONTFAVERGER MORONVILLIERS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51490_pontfaverger-moronvilliers/4XTTM8ncUMU3PKXh8jj6qu28Du6wtkfMAy6uspGTEz2emkVhm-K3TgUmA4Q13LX4eYHPvzG91YcYGdchHD6aQavTAdydzgnYvE7B5FvoY3KehJbgFnmxDw6V7ATExSiNUyjp5gM9qgMXcFuVxGD51sjy8XL1mk21VEZ6dVb2ju5KroJuhoRSgYaV4o" class="myButton" style="color:white;">Déposer : 51490 	- PONTFAVERGER MORONVILLIERS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe" class="myButton" style="color:white;">Consulter : 51 	- Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa" class="myButton" style="color:white;">Déposer : 51 	- Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

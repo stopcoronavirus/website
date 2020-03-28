@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 45490 	- PREFONTAINES](https://entraide.stopcoronavirus.tech/#/channel/45490_prefontaines) (à privilégier)
-- [Canal de votre département : 45 	- Loiret](https://entraide.stopcoronavirus.tech/#/channel/45_loiret) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/45490_prefontaines" class="myButton" style="color:white;">Canal de votre commune : 45490 	- PREFONTAINES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/45_loiret" class="myButton" style="color:white;">Canal de votre département : 45 	- Loiret</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 45490 	- PREFONTAINES](https://docs.stopcoronavirus.tech/#/r/markdown/45490_prefontaines/4XTTM2WhCfaRiEsQ3bLrkQukJ8JaxcMF4mugxKzmY5gQ5SXG1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45490 	- PREFONTAINES](https://docs.stopcoronavirus.tech/#/w/markdown/45490_prefontaines/4XTTM2WhCfaRiEsQ3bLrkQukJ8JaxcMF4mugxKzmY5gQ5SXG1-K3TgUhYj6qhpTQrwc9exBoMyHJtJDcfvhwyPcKt3jZ3n1afPmfTrUbKqCJJi7iaEABpiuWgXapkrNniGYZ76uNtTRL7CjkdVwxTMqANEbW1u1aKMSrv7ZaUfiXeQVaRQtBrq6rtD) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45490_prefontaines/4XTTM2WhCfaRiEsQ3bLrkQukJ8JaxcMF4mugxKzmY5gQ5SXG1" class="myButton" style="color:white;">Consulter : 45490 	- PREFONTAINES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45490_prefontaines/4XTTM2WhCfaRiEsQ3bLrkQukJ8JaxcMF4mugxKzmY5gQ5SXG1-K3TgUhYj6qhpTQrwc9exBoMyHJtJDcfvhwyPcKt3jZ3n1afPmfTrUbKqCJJi7iaEABpiuWgXapkrNniGYZ76uNtTRL7CjkdVwxTMqANEbW1u1aKMSrv7ZaUfiXeQVaRQtBrq6rtD" class="myButton" style="color:white;">Déposer : 45490 	- PREFONTAINES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 45 	- Loiret](https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4" class="myButton" style="color:white;">Consulter : 45 	- Loiret</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ" class="myButton" style="color:white;">Déposer : 45 	- Loiret</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

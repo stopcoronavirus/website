@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 79420 	- VAUSSEROUX](https://entraide.stopcoronavirus.tech/#/channel/79420_vausseroux) (à privilégier)
-- [Canal de votre département : 79 	- Deux-Sèvres](https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79420_vausseroux" class="myButton" style="color:white;">Canal de votre commune : 79420 	- VAUSSEROUX</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres" class="myButton" style="color:white;">Canal de votre département : 79 	- Deux-Sèvres</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 79420 	- VAUSSEROUX](https://docs.stopcoronavirus.tech/#/r/markdown/79420_vausseroux/4XTTM6hepKqas52Euz6Z2y321WCW6ZpZi3XqCXMb7EufM43Ap) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79420 	- VAUSSEROUX](https://docs.stopcoronavirus.tech/#/w/markdown/79420_vausseroux/4XTTM6hepKqas52Euz6Z2y321WCW6ZpZi3XqCXMb7EufM43Ap-K3TgUmh8aSs7QkMi1zRkasnQgdzEhh6tSZ3JvNX2wVuMuZkoxXxvo53pX4sfvWWCGy8P7GjMvPqxcNMCEbueUcpdeXQ7s63CJcXaac4NKCDiY8Q6RrPmhjnNyKxoXYy7x7eDCEzc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79420_vausseroux/4XTTM6hepKqas52Euz6Z2y321WCW6ZpZi3XqCXMb7EufM43Ap" class="myButton" style="color:white;">Consulter : 79420 	- VAUSSEROUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79420_vausseroux/4XTTM6hepKqas52Euz6Z2y321WCW6ZpZi3XqCXMb7EufM43Ap-K3TgUmh8aSs7QkMi1zRkasnQgdzEhh6tSZ3JvNX2wVuMuZkoxXxvo53pX4sfvWWCGy8P7GjMvPqxcNMCEbueUcpdeXQ7s63CJcXaac4NKCDiY8Q6RrPmhjnNyKxoXYy7x7eDCEzc" class="myButton" style="color:white;">Déposer : 79420 	- VAUSSEROUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ" class="myButton" style="color:white;">Consulter : 79 	- Deux-Sèvres</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH" class="myButton" style="color:white;">Déposer : 79 	- Deux-Sèvres</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

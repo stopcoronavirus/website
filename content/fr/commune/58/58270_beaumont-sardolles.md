@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 58270 	- BEAUMONT SARDOLLES](https://entraide.stopcoronavirus.tech/#/channel/58270_beaumont-sardolles) (à privilégier)
-- [Canal de votre département : 58 	- Nièvre](https://entraide.stopcoronavirus.tech/#/channel/58_nievre) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/58270_beaumont-sardolles" class="myButton" style="color:white;">Canal de votre commune : 58270 	- BEAUMONT SARDOLLES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/58_nievre" class="myButton" style="color:white;">Canal de votre département : 58 	- Nièvre</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 58270 	- BEAUMONT SARDOLLES](https://docs.stopcoronavirus.tech/#/r/markdown/58270_beaumont-sardolles/4XTTM7NcTxkfejK2hyQBuVz4TJLwCYvfPWrkvdjNRLJejUCuN) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58270 	- BEAUMONT SARDOLLES](https://docs.stopcoronavirus.tech/#/w/markdown/58270_beaumont-sardolles/4XTTM7NcTxkfejK2hyQBuVz4TJLwCYvfPWrkvdjNRLJejUCuN-K3TgUqepwLakTc7SCD8H3GSHZ6UTF5dkmCysQXFT92PmCZKt91xG5gfcMvxkUE9w33558hhZwDNbbkXhfm5Eb9mryx1pTLe2ijHUkyTu6XSed951dHRiT8QEF6d7HWDsYusWccrL) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/58270_beaumont-sardolles/4XTTM7NcTxkfejK2hyQBuVz4TJLwCYvfPWrkvdjNRLJejUCuN" class="myButton" style="color:white;">Consulter : 58270 	- BEAUMONT SARDOLLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/58270_beaumont-sardolles/4XTTM7NcTxkfejK2hyQBuVz4TJLwCYvfPWrkvdjNRLJejUCuN-K3TgUqepwLakTc7SCD8H3GSHZ6UTF5dkmCysQXFT92PmCZKt91xG5gfcMvxkUE9w33558hhZwDNbbkXhfm5Eb9mryx1pTLe2ijHUkyTu6XSed951dHRiT8QEF6d7HWDsYusWccrL" class="myButton" style="color:white;">Déposer : 58270 	- BEAUMONT SARDOLLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 58 	- Nièvre](https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb" class="myButton" style="color:white;">Consulter : 58 	- Nièvre</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf" class="myButton" style="color:white;">Déposer : 58 	- Nièvre</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

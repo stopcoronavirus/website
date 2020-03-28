@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 25410 	- VILLARS ST GEORGES](https://entraide.stopcoronavirus.tech/#/channel/25410_villars-st-georges) (à privilégier)
-- [Canal de votre département : 25 	- Doubs](https://entraide.stopcoronavirus.tech/#/channel/25_doubs) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/25410_villars-st-georges" class="myButton" style="color:white;">Canal de votre commune : 25410 	- VILLARS ST GEORGES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/25_doubs" class="myButton" style="color:white;">Canal de votre département : 25 	- Doubs</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 25410 	- VILLARS ST GEORGES](https://docs.stopcoronavirus.tech/#/r/markdown/25410_villars-st-georges/4XTTMBm5T5MTCk9evbHn9fshebJvRkvZXkD8nDEqymP1kvsjn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25410 	- VILLARS ST GEORGES](https://docs.stopcoronavirus.tech/#/w/markdown/25410_villars-st-georges/4XTTMBm5T5MTCk9evbHn9fshebJvRkvZXkD8nDEqymP1kvsjn-K3TgUDiCjbu9LQj5JkbL37HLu1WSwm8UrEP827ReiA6uMsDydMyfYiijLmVGez5qAYp7DrL3FTzbYNgzDXxHp1sCVG5P4iD4gyQ9h4UsvyQvjmNnEsLLAyHuxGj3XM7f7fHWfUAU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25410_villars-st-georges/4XTTMBm5T5MTCk9evbHn9fshebJvRkvZXkD8nDEqymP1kvsjn" class="myButton" style="color:white;">Consulter : 25410 	- VILLARS ST GEORGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25410_villars-st-georges/4XTTMBm5T5MTCk9evbHn9fshebJvRkvZXkD8nDEqymP1kvsjn-K3TgUDiCjbu9LQj5JkbL37HLu1WSwm8UrEP827ReiA6uMsDydMyfYiijLmVGez5qAYp7DrL3FTzbYNgzDXxHp1sCVG5P4iD4gyQ9h4UsvyQvjmNnEsLLAyHuxGj3XM7f7fHWfUAU" class="myButton" style="color:white;">Déposer : 25410 	- VILLARS ST GEORGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 25 	- Doubs](https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv" class="myButton" style="color:white;">Consulter : 25 	- Doubs</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp" class="myButton" style="color:white;">Déposer : 25 	- Doubs</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

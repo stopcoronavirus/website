@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 14210 	- MAIZET](https://entraide.stopcoronavirus.tech/#/channel/14210_maizet) (à privilégier)
-- [Canal de votre département : 14 	- Calvados](https://entraide.stopcoronavirus.tech/#/channel/14_calvados) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/14210_maizet" class="myButton" style="color:white;">Canal de votre commune : 14210 	- MAIZET</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/14_calvados" class="myButton" style="color:white;">Canal de votre département : 14 	- Calvados</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 14210 	- MAIZET](https://docs.stopcoronavirus.tech/#/r/markdown/14210_maizet/4XTTM7Nj9HLpnjer3Vb9sFE3wgyFKLhEoqS8r6iYu2zTMQe5y) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14210 	- MAIZET](https://docs.stopcoronavirus.tech/#/w/markdown/14210_maizet/4XTTM7Nj9HLpnjer3Vb9sFE3wgyFKLhEoqS8r6iYu2zTMQe5y-K3TgTmMeyq9ZG69A4yngt7Nh3buyf1KfbJcWmjCDBuu4PAYAH9mg15HAfSG3ks4rfGWi5miNC4cnDxXK7X86rZfKDfsTPBksyY2GPni3AJ4RJmXwN2c3TAo1NRmzTdJLgGBeCK5u) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/14210_maizet/4XTTM7Nj9HLpnjer3Vb9sFE3wgyFKLhEoqS8r6iYu2zTMQe5y" class="myButton" style="color:white;">Consulter : 14210 	- MAIZET</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/14210_maizet/4XTTM7Nj9HLpnjer3Vb9sFE3wgyFKLhEoqS8r6iYu2zTMQe5y-K3TgTmMeyq9ZG69A4yngt7Nh3buyf1KfbJcWmjCDBuu4PAYAH9mg15HAfSG3ks4rfGWi5miNC4cnDxXK7X86rZfKDfsTPBksyY2GPni3AJ4RJmXwN2c3TAo1NRmzTdJLgGBeCK5u" class="myButton" style="color:white;">Déposer : 14210 	- MAIZET</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 14 	- Calvados](https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6" class="myButton" style="color:white;">Consulter : 14 	- Calvados</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi" class="myButton" style="color:white;">Déposer : 14 	- Calvados</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

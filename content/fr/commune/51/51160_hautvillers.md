@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 51160 	- HAUTVILLERS](https://entraide.stopcoronavirus.tech/#/channel/51160_hautvillers) (à privilégier)
-- [Canal de votre département : 51 	- Marne](https://entraide.stopcoronavirus.tech/#/channel/51_marne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/51160_hautvillers" class="myButton" style="color:white;">Canal de votre commune : 51160 	- HAUTVILLERS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/51_marne" class="myButton" style="color:white;">Canal de votre département : 51 	- Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 51160 	- HAUTVILLERS](https://docs.stopcoronavirus.tech/#/r/markdown/51160_hautvillers/4XTTM7zb9xZBc8wrvM2DEjwk56X7QxWctfAR9exkdvuireN6R) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51160 	- HAUTVILLERS](https://docs.stopcoronavirus.tech/#/w/markdown/51160_hautvillers/4XTTM7zb9xZBc8wrvM2DEjwk56X7QxWctfAR9exkdvuireN6R-K3TgU2hLnfAdDHTQjscMUqMt38EAqzoK4ncfw8a3tD2ykExhYXt3L3tjKtAR1hPRSCGGj18gnqMZwS6wJo4YMSHzhZNC9m7ea8VU8dzY6vHF9snWknupUJNXnonoRSzEwdBqofV7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51160_hautvillers/4XTTM7zb9xZBc8wrvM2DEjwk56X7QxWctfAR9exkdvuireN6R" class="myButton" style="color:white;">Consulter : 51160 	- HAUTVILLERS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51160_hautvillers/4XTTM7zb9xZBc8wrvM2DEjwk56X7QxWctfAR9exkdvuireN6R-K3TgU2hLnfAdDHTQjscMUqMt38EAqzoK4ncfw8a3tD2ykExhYXt3L3tjKtAR1hPRSCGGj18gnqMZwS6wJo4YMSHzhZNC9m7ea8VU8dzY6vHF9snWknupUJNXnonoRSzEwdBqofV7" class="myButton" style="color:white;">Déposer : 51160 	- HAUTVILLERS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 51 	- Marne](https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 51 	- Marne](https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe" class="myButton" style="color:white;">Consulter : 51 	- Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa" class="myButton" style="color:white;">Déposer : 51 	- Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

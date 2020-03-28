@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 12340 	- PALMAS D AVEYRON](https://entraide.stopcoronavirus.tech/#/channel/12340_palmas-d-aveyron) (à privilégier)
-- [Canal de votre département : 12 	- Aveyron](https://entraide.stopcoronavirus.tech/#/channel/12_aveyron) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/12340_palmas-d-aveyron" class="myButton" style="color:white;">Canal de votre commune : 12340 	- PALMAS D AVEYRON</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/12_aveyron" class="myButton" style="color:white;">Canal de votre département : 12 	- Aveyron</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 12340 	- PALMAS D AVEYRON](https://docs.stopcoronavirus.tech/#/r/markdown/12340_palmas-d-aveyron/4XTTM4agA1RhoDYhtNE4X6odZriiebbWbChwPoVhHMLmurdxi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12340 	- PALMAS D AVEYRON](https://docs.stopcoronavirus.tech/#/w/markdown/12340_palmas-d-aveyron/4XTTM4agA1RhoDYhtNE4X6odZriiebbWbChwPoVhHMLmurdxi-K3TgUgqq2iu497DC5ETEey49nbQiy8QUDuVNcYjvy4hg2ajxU2SxXM9xSoWeCN5b9r3F9tYH21Z8xkGzSeR9NLJXcKFXd5FEdJP1iYZB7Bzs234btoaZ25apCPCnjB8EbjLzN2Bx) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12340_palmas-d-aveyron/4XTTM4agA1RhoDYhtNE4X6odZriiebbWbChwPoVhHMLmurdxi" class="myButton" style="color:white;">Consulter : 12340 	- PALMAS D AVEYRON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12340_palmas-d-aveyron/4XTTM4agA1RhoDYhtNE4X6odZriiebbWbChwPoVhHMLmurdxi-K3TgUgqq2iu497DC5ETEey49nbQiy8QUDuVNcYjvy4hg2ajxU2SxXM9xSoWeCN5b9r3F9tYH21Z8xkGzSeR9NLJXcKFXd5FEdJP1iYZB7Bzs234btoaZ25apCPCnjB8EbjLzN2Bx" class="myButton" style="color:white;">Déposer : 12340 	- PALMAS D AVEYRON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 12 	- Aveyron](https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq" class="myButton" style="color:white;">Consulter : 12 	- Aveyron</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV" class="myButton" style="color:white;">Déposer : 12 	- Aveyron</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

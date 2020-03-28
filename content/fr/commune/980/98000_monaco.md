@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 98000 	- MONACO](https://entraide.stopcoronavirus.tech/#/channel/98000_monaco) (à privilégier)
-- [Canal de votre département : 980 	- Monaco](https://entraide.stopcoronavirus.tech/#/channel/980_monaco) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/98000_monaco" class="myButton" style="color:white;">Canal de votre commune : 98000 	- MONACO</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/980_monaco" class="myButton" style="color:white;">Canal de votre département : 980 	- Monaco</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 98000 	- MONACO](https://docs.stopcoronavirus.tech/#/r/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 98000 	- MONACO](https://docs.stopcoronavirus.tech/#/w/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16-K3TgUtFsSznmDW7XeMYhydyyehT9BAEfyET4L1q65BAHZZc9nteYehEL3GBtLNUSfTPoFd4kuWycr9zGsfbowGvSFHN6xjXnS8XJynRxJRiNenzJASCMEPKe2LmPiCbusgKY3teg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16" class="myButton" style="color:white;">Consulter : 98000 	- MONACO</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16-K3TgUtFsSznmDW7XeMYhydyyehT9BAEfyET4L1q65BAHZZc9nteYehEL3GBtLNUSfTPoFd4kuWycr9zGsfbowGvSFHN6xjXnS8XJynRxJRiNenzJASCMEPKe2LmPiCbusgKY3teg" class="myButton" style="color:white;">Déposer : 98000 	- MONACO</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 980 	- Monaco](https://docs.stopcoronavirus.tech/#/r/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 980 	- Monaco](https://docs.stopcoronavirus.tech/#/w/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q-K3TgUGcM2qAZHhTBzkxatCSxJAEDuidHMdkxMVAc2vsV65qqJsknsDRKB7fcZ1heMXrd1o5QTPr8u8ji3VLJEPS2xXXAbmMd4cuD8P9uhECLPUpJ5QLyhAeWmAuhEM3mQ58jQ7eP) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q" class="myButton" style="color:white;">Consulter : 980 	- Monaco</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q-K3TgUGcM2qAZHhTBzkxatCSxJAEDuidHMdkxMVAc2vsV65qqJsknsDRKB7fcZ1heMXrd1o5QTPr8u8ji3VLJEPS2xXXAbmMd4cuD8P9uhECLPUpJ5QLyhAeWmAuhEM3mQ58jQ7eP" class="myButton" style="color:white;">Déposer : 980 	- Monaco</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 15310 	- TOURNEMIRE](https://entraide.stopcoronavirus.tech/#/channel/15310_tournemire) (à privilégier)
-- [Canal de votre département : 15 	- Cantal](https://entraide.stopcoronavirus.tech/#/channel/15_cantal) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/15310_tournemire" class="myButton" style="color:white;">Canal de votre commune : 15310 	- TOURNEMIRE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/15_cantal" class="myButton" style="color:white;">Canal de votre département : 15 	- Cantal</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 15310 	- TOURNEMIRE](https://docs.stopcoronavirus.tech/#/r/markdown/15310_tournemire/4XTTM5B58cca9XvLthJnN7C3jquCtzGNSZR1gGLcJxMiTXGsG) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15310 	- TOURNEMIRE](https://docs.stopcoronavirus.tech/#/w/markdown/15310_tournemire/4XTTM5B58cca9XvLthJnN7C3jquCtzGNSZR1gGLcJxMiTXGsG-K3TgUnFLfSVAaSEsJs19K4Gd28yJSHP9EDYJZUF7CRaQUwUr2MX8iweG66924MP8RyUJjWA27NeK5zn45X9UkbtJX1xfpa1iigYZ1ShdUfrrsSwnsp9PmAA93EzxqEjb9TLjw7jc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15310_tournemire/4XTTM5B58cca9XvLthJnN7C3jquCtzGNSZR1gGLcJxMiTXGsG" class="myButton" style="color:white;">Consulter : 15310 	- TOURNEMIRE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15310_tournemire/4XTTM5B58cca9XvLthJnN7C3jquCtzGNSZR1gGLcJxMiTXGsG-K3TgUnFLfSVAaSEsJs19K4Gd28yJSHP9EDYJZUF7CRaQUwUr2MX8iweG66924MP8RyUJjWA27NeK5zn45X9UkbtJX1xfpa1iigYZ1ShdUfrrsSwnsp9PmAA93EzxqEjb9TLjw7jc" class="myButton" style="color:white;">Déposer : 15310 	- TOURNEMIRE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 15 	- Cantal](https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi" class="myButton" style="color:white;">Consulter : 15 	- Cantal</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS" class="myButton" style="color:white;">Déposer : 15 	- Cantal</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

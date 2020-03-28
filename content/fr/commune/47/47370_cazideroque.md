@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 47370 	- CAZIDEROQUE](https://entraide.stopcoronavirus.tech/#/channel/47370_cazideroque) (à privilégier)
-- [Canal de votre département : 47 	- Lot-et-Garonne](https://entraide.stopcoronavirus.tech/#/channel/47_lot-et-garonne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/47370_cazideroque" class="myButton" style="color:white;">Canal de votre commune : 47370 	- CAZIDEROQUE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/47_lot-et-garonne" class="myButton" style="color:white;">Canal de votre département : 47 	- Lot-et-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 47370 	- CAZIDEROQUE](https://docs.stopcoronavirus.tech/#/r/markdown/47370_cazideroque/4XTTM3UyouWpxEXjEPZFheE96Zo2EJuRAK68cBcLMhwmRxbHT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47370 	- CAZIDEROQUE](https://docs.stopcoronavirus.tech/#/w/markdown/47370_cazideroque/4XTTM3UyouWpxEXjEPZFheE96Zo2EJuRAK68cBcLMhwmRxbHT-K3TgU1CPEMSUvHf7GTWhu1C758rfqQsRNKuVKa5pnD5uEsPecR5QHk92kTuR8UQ7TYZUg1pZJttU4fBCfhKcVCSxMUaMuKqKgFGv6Yfcz2UgJwQ4n4M9z1h8hkr7e4AT6TmmZrZw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47370_cazideroque/4XTTM3UyouWpxEXjEPZFheE96Zo2EJuRAK68cBcLMhwmRxbHT" class="myButton" style="color:white;">Consulter : 47370 	- CAZIDEROQUE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47370_cazideroque/4XTTM3UyouWpxEXjEPZFheE96Zo2EJuRAK68cBcLMhwmRxbHT-K3TgU1CPEMSUvHf7GTWhu1C758rfqQsRNKuVKa5pnD5uEsPecR5QHk92kTuR8UQ7TYZUg1pZJttU4fBCfhKcVCSxMUaMuKqKgFGv6Yfcz2UgJwQ4n4M9z1h8hkr7e4AT6TmmZrZw" class="myButton" style="color:white;">Déposer : 47370 	- CAZIDEROQUE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 47 	- Lot-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn" class="myButton" style="color:white;">Consulter : 47 	- Lot-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA" class="myButton" style="color:white;">Déposer : 47 	- Lot-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

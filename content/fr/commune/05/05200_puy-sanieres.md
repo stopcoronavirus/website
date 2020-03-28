@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 05200 	- PUY SANIERES](https://entraide.stopcoronavirus.tech/#/channel/05200_puy-sanieres) (à privilégier)
-- [Canal de votre département : 05 	- Hautes-Alpes](https://entraide.stopcoronavirus.tech/#/channel/05_hautes-alpes) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/05200_puy-sanieres" class="myButton" style="color:white;">Canal de votre commune : 05200 	- PUY SANIERES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/05_hautes-alpes" class="myButton" style="color:white;">Canal de votre département : 05 	- Hautes-Alpes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 05200 	- PUY SANIERES](https://docs.stopcoronavirus.tech/#/r/markdown/05200_puy-sanieres/4XTTM8pT2ZVq91Aa26QVHXMWo5V6qJJRd4LhTquHToaAv56jL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05200 	- PUY SANIERES](https://docs.stopcoronavirus.tech/#/w/markdown/05200_puy-sanieres/4XTTM8pT2ZVq91Aa26QVHXMWo5V6qJJRd4LhTquHToaAv56jL-K3TgUQwes15ZLSQcbBMnQ5Q5zDSuWiJ3ppjMV9QSiEtDa6dhUDqKAjgYJ6S3ErsX4MifxWg9JWJtQJPjk5tFHHFX2qdVT7LTyLpDNMdGev8FLAWtouSmAi74mrNcBXAHvZcAWYZ8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/05200_puy-sanieres/4XTTM8pT2ZVq91Aa26QVHXMWo5V6qJJRd4LhTquHToaAv56jL" class="myButton" style="color:white;">Consulter : 05200 	- PUY SANIERES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/05200_puy-sanieres/4XTTM8pT2ZVq91Aa26QVHXMWo5V6qJJRd4LhTquHToaAv56jL-K3TgUQwes15ZLSQcbBMnQ5Q5zDSuWiJ3ppjMV9QSiEtDa6dhUDqKAjgYJ6S3ErsX4MifxWg9JWJtQJPjk5tFHHFX2qdVT7LTyLpDNMdGev8FLAWtouSmAi74mrNcBXAHvZcAWYZ8" class="myButton" style="color:white;">Déposer : 05200 	- PUY SANIERES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK" class="myButton" style="color:white;">Consulter : 05 	- Hautes-Alpes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7" class="myButton" style="color:white;">Déposer : 05 	- Hautes-Alpes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

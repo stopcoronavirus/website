@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 78250 	- TESSANCOURT SUR AUBETTE](https://entraide.stopcoronavirus.tech/#/channel/78250_tessancourt-sur-aubette) (à privilégier)
-- [Canal de votre département : 78 	- Yvelines](https://entraide.stopcoronavirus.tech/#/channel/78_yvelines) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/78250_tessancourt-sur-aubette" class="myButton" style="color:white;">Canal de votre commune : 78250 	- TESSANCOURT SUR AUBETTE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/78_yvelines" class="myButton" style="color:white;">Canal de votre département : 78 	- Yvelines</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 78250 	- TESSANCOURT SUR AUBETTE](https://docs.stopcoronavirus.tech/#/r/markdown/78250_tessancourt-sur-aubette/4XTTM5YhBxWxyJfE8gGPRW6yGDKWNJ2iaQbMxwT9UZRV1n9Gd) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78250 	- TESSANCOURT SUR AUBETTE](https://docs.stopcoronavirus.tech/#/w/markdown/78250_tessancourt-sur-aubette/4XTTM5YhBxWxyJfE8gGPRW6yGDKWNJ2iaQbMxwT9UZRV1n9Gd-K3TgURdjC44f6f1hXatmMfa6VK5bfyEVC6pK1Y4dpfVFgCM8zWvTNSnsMzynL9rMZ42tHybe82aTpUfaiC3hoKR7Rf5MkXEP7688f7qED92oMiVxvoEr4SGPas1YhZQnTSToADb7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/78250_tessancourt-sur-aubette/4XTTM5YhBxWxyJfE8gGPRW6yGDKWNJ2iaQbMxwT9UZRV1n9Gd" class="myButton" style="color:white;">Consulter : 78250 	- TESSANCOURT SUR AUBETTE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/78250_tessancourt-sur-aubette/4XTTM5YhBxWxyJfE8gGPRW6yGDKWNJ2iaQbMxwT9UZRV1n9Gd-K3TgURdjC44f6f1hXatmMfa6VK5bfyEVC6pK1Y4dpfVFgCM8zWvTNSnsMzynL9rMZ42tHybe82aTpUfaiC3hoKR7Rf5MkXEP7688f7qED92oMiVxvoEr4SGPas1YhZQnTSToADb7" class="myButton" style="color:white;">Déposer : 78250 	- TESSANCOURT SUR AUBETTE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 78 	- Yvelines](https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p" class="myButton" style="color:white;">Consulter : 78 	- Yvelines</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS" class="myButton" style="color:white;">Déposer : 78 	- Yvelines</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

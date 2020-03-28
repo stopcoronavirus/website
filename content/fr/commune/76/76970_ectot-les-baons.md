@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 76970 	- ECTOT LES BAONS](https://entraide.stopcoronavirus.tech/#/channel/76970_ectot-les-baons) (à privilégier)
-- [Canal de votre département : 76 	- Seine-Maritime](https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76970_ectot-les-baons" class="myButton" style="color:white;">Canal de votre commune : 76970 	- ECTOT LES BAONS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime" class="myButton" style="color:white;">Canal de votre département : 76 	- Seine-Maritime</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 76970 	- ECTOT LES BAONS](https://docs.stopcoronavirus.tech/#/r/markdown/76970_ectot-les-baons/4XTTM7eBKBsbf3Ng77M22AoyFzxUdMRpkVMS6rxq3ZdxDK2Y2) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76970 	- ECTOT LES BAONS](https://docs.stopcoronavirus.tech/#/w/markdown/76970_ectot-les-baons/4XTTM7eBKBsbf3Ng77M22AoyFzxUdMRpkVMS6rxq3ZdxDK2Y2-K3TgTpFV4XDXrDfaoBTwcAF9TSdz24MdyNPSwbEAyfoKjWjhVbAcXDoy7mnpmAN4Q28RdcFq7ASQADkV1CdbvGFo9fmTtyPbGCE3V6zCFPEuEENFLdznBQenQtuPsQxSnkK9oH3x) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76970_ectot-les-baons/4XTTM7eBKBsbf3Ng77M22AoyFzxUdMRpkVMS6rxq3ZdxDK2Y2" class="myButton" style="color:white;">Consulter : 76970 	- ECTOT LES BAONS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76970_ectot-les-baons/4XTTM7eBKBsbf3Ng77M22AoyFzxUdMRpkVMS6rxq3ZdxDK2Y2-K3TgTpFV4XDXrDfaoBTwcAF9TSdz24MdyNPSwbEAyfoKjWjhVbAcXDoy7mnpmAN4Q28RdcFq7ASQADkV1CdbvGFo9fmTtyPbGCE3V6zCFPEuEENFLdznBQenQtuPsQxSnkK9oH3x" class="myButton" style="color:white;">Déposer : 76970 	- ECTOT LES BAONS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 76 	- Seine-Maritime](https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt" class="myButton" style="color:white;">Consulter : 76 	- Seine-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r" class="myButton" style="color:white;">Déposer : 76 	- Seine-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

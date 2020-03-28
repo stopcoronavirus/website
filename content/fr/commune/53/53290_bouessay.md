@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 53290 	- BOUESSAY](https://entraide.stopcoronavirus.tech/#/channel/53290_bouessay) (à privilégier)
-- [Canal de votre département : 53 	- Mayenne](https://entraide.stopcoronavirus.tech/#/channel/53_mayenne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53290_bouessay" class="myButton" style="color:white;">Canal de votre commune : 53290 	- BOUESSAY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53_mayenne" class="myButton" style="color:white;">Canal de votre département : 53 	- Mayenne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 53290 	- BOUESSAY](https://docs.stopcoronavirus.tech/#/r/markdown/53290_bouessay/4XTTMCt1bAUHD8iLU45Vte2bepQA7ZjLprCvLxHFQP8oMhkwY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53290 	- BOUESSAY](https://docs.stopcoronavirus.tech/#/w/markdown/53290_bouessay/4XTTMCt1bAUHD8iLU45Vte2bepQA7ZjLprCvLxHFQP8oMhkwY-K3TgTvJZgmKk39gJv8Ka7CBQnyy54VoiEyPAmRTGdBycPR69jjV4FbuNS7g1bqvHfQoM6EeNYsMmCmVt95yk5Fw8XHRLjKAFovWWga6AEV3L87ZVDWQQKkXbDfNxWQ19F6ZNkoan) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53290_bouessay/4XTTMCt1bAUHD8iLU45Vte2bepQA7ZjLprCvLxHFQP8oMhkwY" class="myButton" style="color:white;">Consulter : 53290 	- BOUESSAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53290_bouessay/4XTTMCt1bAUHD8iLU45Vte2bepQA7ZjLprCvLxHFQP8oMhkwY-K3TgTvJZgmKk39gJv8Ka7CBQnyy54VoiEyPAmRTGdBycPR69jjV4FbuNS7g1bqvHfQoM6EeNYsMmCmVt95yk5Fw8XHRLjKAFovWWga6AEV3L87ZVDWQQKkXbDfNxWQ19F6ZNkoan" class="myButton" style="color:white;">Déposer : 53290 	- BOUESSAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 53 	- Mayenne](https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43" class="myButton" style="color:white;">Consulter : 53 	- Mayenne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es" class="myButton" style="color:white;">Déposer : 53 	- Mayenne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

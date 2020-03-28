@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 73300 	- ALBIEZ LE JEUNE](https://entraide.stopcoronavirus.tech/#/channel/73300_albiez-le-jeune) (à privilégier)
-- [Canal de votre département : 73 	- Savoie](https://entraide.stopcoronavirus.tech/#/channel/73_savoie) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/73300_albiez-le-jeune" class="myButton" style="color:white;">Canal de votre commune : 73300 	- ALBIEZ LE JEUNE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/73_savoie" class="myButton" style="color:white;">Canal de votre département : 73 	- Savoie</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 73300 	- ALBIEZ LE JEUNE](https://docs.stopcoronavirus.tech/#/r/markdown/73300_albiez-le-jeune/4XTTMBE4XafRz7AXKZ86vRUDZmGWpLbGcCcFSU46Sx6fEF5nk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73300 	- ALBIEZ LE JEUNE](https://docs.stopcoronavirus.tech/#/w/markdown/73300_albiez-le-jeune/4XTTMBE4XafRz7AXKZ86vRUDZmGWpLbGcCcFSU46Sx6fEF5nk-K3TgUGMRfwEcS2Npiuw7eNYPbRNiXxJdZimXB4bXjKrXkeEbj6Q9v8gjK15SCrdHv39VjSBp4trnDr2oxqG8C2HhjU3bjWv81cGpEK3dUht4XeZyDZKnC4oEBPzfkPQWzc2Jm9x8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73300_albiez-le-jeune/4XTTMBE4XafRz7AXKZ86vRUDZmGWpLbGcCcFSU46Sx6fEF5nk" class="myButton" style="color:white;">Consulter : 73300 	- ALBIEZ LE JEUNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73300_albiez-le-jeune/4XTTMBE4XafRz7AXKZ86vRUDZmGWpLbGcCcFSU46Sx6fEF5nk-K3TgUGMRfwEcS2Npiuw7eNYPbRNiXxJdZimXB4bXjKrXkeEbj6Q9v8gjK15SCrdHv39VjSBp4trnDr2oxqG8C2HhjU3bjWv81cGpEK3dUht4XeZyDZKnC4oEBPzfkPQWzc2Jm9x8" class="myButton" style="color:white;">Déposer : 73300 	- ALBIEZ LE JEUNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 73 	- Savoie](https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur" class="myButton" style="color:white;">Consulter : 73 	- Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY" class="myButton" style="color:white;">Déposer : 73 	- Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

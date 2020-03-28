@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 36150 	- REBOURSIN](https://entraide.stopcoronavirus.tech/#/channel/36150_reboursin) (à privilégier)
-- [Canal de votre département : 36 	- Indre](https://entraide.stopcoronavirus.tech/#/channel/36_indre) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/36150_reboursin" class="myButton" style="color:white;">Canal de votre commune : 36150 	- REBOURSIN</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/36_indre" class="myButton" style="color:white;">Canal de votre département : 36 	- Indre</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36150 	- REBOURSIN](https://docs.stopcoronavirus.tech/#/r/markdown/36150_reboursin/4XTTM4eFiNipSrB7ozz1z5AArM6xE2CJfLYrXxP499gZLt9fT) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36150 	- REBOURSIN](https://docs.stopcoronavirus.tech/#/w/markdown/36150_reboursin/4XTTM4eFiNipSrB7ozz1z5AArM6xE2CJfLYrXxP499gZLt9fT-K3TgUe2Gd1p1VYuFhS9zrbmfBbQf6yYhCHiwpsM5LSmhJmj6BY1tP8UWwj8S2KWiS9h7AygqvSnoPCSwMDXKwwciL5WAu6QwZQCv52KMC4umHanLn3Fcfz9VpVNxN6PhNmu62JDj) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36150_reboursin/4XTTM4eFiNipSrB7ozz1z5AArM6xE2CJfLYrXxP499gZLt9fT" class="myButton" style="color:white;">Consulter : 36150 	- REBOURSIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36150_reboursin/4XTTM4eFiNipSrB7ozz1z5AArM6xE2CJfLYrXxP499gZLt9fT-K3TgUe2Gd1p1VYuFhS9zrbmfBbQf6yYhCHiwpsM5LSmhJmj6BY1tP8UWwj8S2KWiS9h7AygqvSnoPCSwMDXKwwciL5WAu6QwZQCv52KMC4umHanLn3Fcfz9VpVNxN6PhNmu62JDj" class="myButton" style="color:white;">Déposer : 36150 	- REBOURSIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1" class="myButton" style="color:white;">Consulter : 36 	- Indre</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT" class="myButton" style="color:white;">Déposer : 36 	- Indre</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

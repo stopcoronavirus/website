@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 20290 	- LUCCIANA](https://entraide.stopcoronavirus.tech/#/channel/20290_lucciana) (à privilégier)
-- [Canal de votre département : 2B 	- Haute-Corse](https://entraide.stopcoronavirus.tech/#/channel/2B_haute-corse) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/20290_lucciana" class="myButton" style="color:white;">Canal de votre commune : 20290 	- LUCCIANA</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/2B_haute-corse" class="myButton" style="color:white;">Canal de votre département : 2B 	- Haute-Corse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 20290 	- LUCCIANA](https://docs.stopcoronavirus.tech/#/r/markdown/20290_lucciana/4XTTMFor3sFhoR2tsB4zXmxPKKFt5MmfaAHEooy1xfozUXDx4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 20290 	- LUCCIANA](https://docs.stopcoronavirus.tech/#/w/markdown/20290_lucciana/4XTTMFor3sFhoR2tsB4zXmxPKKFt5MmfaAHEooy1xfozUXDx4-K3TgUZGKikW8GfZSkU3PJxNTF5yjknS99V3GtfRzMqyGooAHHkje5dghkdUTBi3Hf1unHb5qmqve2UT9b7e9JGZVQdQYUFWV7twVw3ugRppBNnfHFTamPomUaNYNo9SFqksSPG3S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/20290_lucciana/4XTTMFor3sFhoR2tsB4zXmxPKKFt5MmfaAHEooy1xfozUXDx4" class="myButton" style="color:white;">Consulter : 20290 	- LUCCIANA</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/20290_lucciana/4XTTMFor3sFhoR2tsB4zXmxPKKFt5MmfaAHEooy1xfozUXDx4-K3TgUZGKikW8GfZSkU3PJxNTF5yjknS99V3GtfRzMqyGooAHHkje5dghkdUTBi3Hf1unHb5qmqve2UT9b7e9JGZVQdQYUFWV7twVw3ugRppBNnfHFTamPomUaNYNo9SFqksSPG3S" class="myButton" style="color:white;">Déposer : 20290 	- LUCCIANA</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 2B 	- Haute-Corse](https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL" class="myButton" style="color:white;">Consulter : 2B 	- Haute-Corse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU" class="myButton" style="color:white;">Déposer : 2B 	- Haute-Corse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

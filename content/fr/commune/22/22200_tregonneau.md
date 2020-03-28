@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 22200 	- TREGONNEAU](https://entraide.stopcoronavirus.tech/#/channel/22200_tregonneau) (à privilégier)
-- [Canal de votre département : 22 	- Côtes-d'Armor](https://entraide.stopcoronavirus.tech/#/channel/22_cotes-darmor) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/22200_tregonneau" class="myButton" style="color:white;">Canal de votre commune : 22200 	- TREGONNEAU</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/22_cotes-darmor" class="myButton" style="color:white;">Canal de votre département : 22 	- Côtes-d'Armor</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 22200 	- TREGONNEAU](https://docs.stopcoronavirus.tech/#/r/markdown/22200_tregonneau/4XTTMGx2XaijqozQmw9EjJmigdr1fVLurrQrpQ2cn8SV18NJX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22200 	- TREGONNEAU](https://docs.stopcoronavirus.tech/#/w/markdown/22200_tregonneau/4XTTMGx2XaijqozQmw9EjJmigdr1fVLurrQrpQ2cn8SV18NJX-K3TgTfR4XPEcMgs5oojhjJpYLuoWZuFY3CnyQRYTqe9RxYpvNSDxhm4dbSASVpQ2qVn4RjoWXWCzBvo2TrWR1Sb6hQHMtDLH8GcRaxQXzu9Yd1WK3Y256KWEN3fXRVwLcXz7PKKy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22200_tregonneau/4XTTMGx2XaijqozQmw9EjJmigdr1fVLurrQrpQ2cn8SV18NJX" class="myButton" style="color:white;">Consulter : 22200 	- TREGONNEAU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22200_tregonneau/4XTTMGx2XaijqozQmw9EjJmigdr1fVLurrQrpQ2cn8SV18NJX-K3TgTfR4XPEcMgs5oojhjJpYLuoWZuFY3CnyQRYTqe9RxYpvNSDxhm4dbSASVpQ2qVn4RjoWXWCzBvo2TrWR1Sb6hQHMtDLH8GcRaxQXzu9Yd1WK3Y256KWEN3fXRVwLcXz7PKKy" class="myButton" style="color:white;">Déposer : 22200 	- TREGONNEAU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 22 	- Côtes-d'Armor](https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX" class="myButton" style="color:white;">Consulter : 22 	- Côtes-d'Armor</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho" class="myButton" style="color:white;">Déposer : 22 	- Côtes-d'Armor</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

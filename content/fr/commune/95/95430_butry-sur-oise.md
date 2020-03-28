@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 95430 	- BUTRY SUR OISE](https://entraide.stopcoronavirus.tech/#/channel/95430_butry-sur-oise) (à privilégier)
-- [Canal de votre département : 95 	- Val-d'Oise](https://entraide.stopcoronavirus.tech/#/channel/95_val-doise) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/95430_butry-sur-oise" class="myButton" style="color:white;">Canal de votre commune : 95430 	- BUTRY SUR OISE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/95_val-doise" class="myButton" style="color:white;">Canal de votre département : 95 	- Val-d'Oise</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 95430 	- BUTRY SUR OISE](https://docs.stopcoronavirus.tech/#/r/markdown/95430_butry-sur-oise/4XTTM4jukmQ21animVaKPdmMPBQk3Qt7x8yiNkTXUoViP21E5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95430 	- BUTRY SUR OISE](https://docs.stopcoronavirus.tech/#/w/markdown/95430_butry-sur-oise/4XTTM4jukmQ21animVaKPdmMPBQk3Qt7x8yiNkTXUoViP21E5-K3TgUDS3JWfucLJE4zL9vwvzoH8zZj17uyUkPnre9NKTYe2YWpEUVTT9nXyyt8JdHmnMnn23xk3eQWJrTi6uyWKrRze2FG51JnRoCweJtfBMDjqtVQ9ygwFhDSgwVZexe48rWkg5) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/95430_butry-sur-oise/4XTTM4jukmQ21animVaKPdmMPBQk3Qt7x8yiNkTXUoViP21E5" class="myButton" style="color:white;">Consulter : 95430 	- BUTRY SUR OISE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/95430_butry-sur-oise/4XTTM4jukmQ21animVaKPdmMPBQk3Qt7x8yiNkTXUoViP21E5-K3TgUDS3JWfucLJE4zL9vwvzoH8zZj17uyUkPnre9NKTYe2YWpEUVTT9nXyyt8JdHmnMnn23xk3eQWJrTi6uyWKrRze2FG51JnRoCweJtfBMDjqtVQ9ygwFhDSgwVZexe48rWkg5" class="myButton" style="color:white;">Déposer : 95430 	- BUTRY SUR OISE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 95 	- Val-d'Oise](https://docs.stopcoronavirus.tech/#/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH" class="myButton" style="color:white;">Consulter : 95 	- Val-d'Oise</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud" class="myButton" style="color:white;">Déposer : 95 	- Val-d'Oise</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

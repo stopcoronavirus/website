@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 32600 	- BEAUPUY](https://entraide.stopcoronavirus.tech/#/channel/32600_beaupuy) (à privilégier)
-- [Canal de votre département : 32 	- Gers](https://entraide.stopcoronavirus.tech/#/channel/32_gers) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32600_beaupuy" class="myButton" style="color:white;">Canal de votre commune : 32600 	- BEAUPUY</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32_gers" class="myButton" style="color:white;">Canal de votre département : 32 	- Gers</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 32600 	- BEAUPUY](https://docs.stopcoronavirus.tech/#/r/markdown/32600_beaupuy/4XTTM76Ybyv2oDtfTmtfPqjJB9Giwgg7wScVM4fi3cpE3dEth) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32600 	- BEAUPUY](https://docs.stopcoronavirus.tech/#/w/markdown/32600_beaupuy/4XTTM76Ybyv2oDtfTmtfPqjJB9Giwgg7wScVM4fi3cpE3dEth-K3TgTx91P9ybtgKo4Y5mC7CG9rZoGnM9admULCnLSdQFdG5BbTg13nfMNxeH4JrrF9BAn6c14ynZrf5hDWhgc7obyix5EgMbmWmrCbPvKboKqrV9XKn2NQSb9xHnQAsQFkaeznD7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32600_beaupuy/4XTTM76Ybyv2oDtfTmtfPqjJB9Giwgg7wScVM4fi3cpE3dEth" class="myButton" style="color:white;">Consulter : 32600 	- BEAUPUY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32600_beaupuy/4XTTM76Ybyv2oDtfTmtfPqjJB9Giwgg7wScVM4fi3cpE3dEth-K3TgTx91P9ybtgKo4Y5mC7CG9rZoGnM9admULCnLSdQFdG5BbTg13nfMNxeH4JrrF9BAn6c14ynZrf5hDWhgc7obyix5EgMbmWmrCbPvKboKqrV9XKn2NQSb9xHnQAsQFkaeznD7" class="myButton" style="color:white;">Déposer : 32600 	- BEAUPUY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 32 	- Gers](https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 32 	- Gers](https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe" class="myButton" style="color:white;">Consulter : 32 	- Gers</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8" class="myButton" style="color:white;">Déposer : 32 	- Gers</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

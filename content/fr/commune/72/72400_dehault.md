@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 72400 	- DEHAULT](https://entraide.stopcoronavirus.tech/#/channel/72400_dehault) (à privilégier)
-- [Canal de votre département : 72 	- Sarthe](https://entraide.stopcoronavirus.tech/#/channel/72_sarthe) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72400_dehault" class="myButton" style="color:white;">Canal de votre commune : 72400 	- DEHAULT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72_sarthe" class="myButton" style="color:white;">Canal de votre département : 72 	- Sarthe</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 72400 	- DEHAULT](https://docs.stopcoronavirus.tech/#/r/markdown/72400_dehault/4XTTMCj4zEMwj14GpfBn1bddJwBP2pLBvF1nyY2p4VRySyze6) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72400 	- DEHAULT](https://docs.stopcoronavirus.tech/#/w/markdown/72400_dehault/4XTTMCj4zEMwj14GpfBn1bddJwBP2pLBvF1nyY2p4VRySyze6-K3TgUZ1ok5E9RcY5bRrrPNxZ8JrcuYtGPYxxCBuXr58kk856mPo1chS6L2dbZbS7Aim1sC9y4qog1fq9AefPq6reRR1k9mEvBUBTS8KaKVPSMK6LUyT6jGFGqrGu9ka4psUyd4i6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72400_dehault/4XTTMCj4zEMwj14GpfBn1bddJwBP2pLBvF1nyY2p4VRySyze6" class="myButton" style="color:white;">Consulter : 72400 	- DEHAULT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72400_dehault/4XTTMCj4zEMwj14GpfBn1bddJwBP2pLBvF1nyY2p4VRySyze6-K3TgUZ1ok5E9RcY5bRrrPNxZ8JrcuYtGPYxxCBuXr58kk856mPo1chS6L2dbZbS7Aim1sC9y4qog1fq9AefPq6reRR1k9mEvBUBTS8KaKVPSMK6LUyT6jGFGqrGu9ka4psUyd4i6" class="myButton" style="color:white;">Déposer : 72400 	- DEHAULT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 72 	- Sarthe](https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5" class="myButton" style="color:white;">Consulter : 72 	- Sarthe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh" class="myButton" style="color:white;">Déposer : 72 	- Sarthe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

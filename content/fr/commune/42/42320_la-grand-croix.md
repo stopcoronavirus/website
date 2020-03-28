@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 42320 	- LA GRAND CROIX](https://entraide.stopcoronavirus.tech/#/channel/42320_la-grand-croix) (à privilégier)
-- [Canal de votre département : 42 	- Loire](https://entraide.stopcoronavirus.tech/#/channel/42_loire) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/42320_la-grand-croix" class="myButton" style="color:white;">Canal de votre commune : 42320 	- LA GRAND CROIX</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/42_loire" class="myButton" style="color:white;">Canal de votre département : 42 	- Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 42320 	- LA GRAND CROIX](https://docs.stopcoronavirus.tech/#/r/markdown/42320_la-grand-croix/4XTTMA3QHQPTL35TN9R7iuq4LtL96PLH5AptGHAMEyTwBYuVX) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42320 	- LA GRAND CROIX](https://docs.stopcoronavirus.tech/#/w/markdown/42320_la-grand-croix/4XTTMA3QHQPTL35TN9R7iuq4LtL96PLH5AptGHAMEyTwBYuVX-K3TgU4KorXQs5W5vu6uq6n4nGXrHC9TXUCRvRFPePVFedvvRkqaqy1B9p4yPiRy5QcDKjdfWU7Gq2PeDLMkxGn4MVWkPtVEvppY6Xjg5N5hCPnHvaNAgXGFGKch3DwUye5XmvwGy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42320_la-grand-croix/4XTTMA3QHQPTL35TN9R7iuq4LtL96PLH5AptGHAMEyTwBYuVX" class="myButton" style="color:white;">Consulter : 42320 	- LA GRAND CROIX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42320_la-grand-croix/4XTTMA3QHQPTL35TN9R7iuq4LtL96PLH5AptGHAMEyTwBYuVX-K3TgU4KorXQs5W5vu6uq6n4nGXrHC9TXUCRvRFPePVFedvvRkqaqy1B9p4yPiRy5QcDKjdfWU7Gq2PeDLMkxGn4MVWkPtVEvppY6Xjg5N5hCPnHvaNAgXGFGKch3DwUye5XmvwGy" class="myButton" style="color:white;">Déposer : 42320 	- LA GRAND CROIX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 42 	- Loire](https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 42 	- Loire](https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW" class="myButton" style="color:white;">Consulter : 42 	- Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN" class="myButton" style="color:white;">Déposer : 42 	- Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

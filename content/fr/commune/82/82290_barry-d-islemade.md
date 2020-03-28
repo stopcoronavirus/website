@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 82290 	- BARRY D ISLEMADE](https://entraide.stopcoronavirus.tech/#/channel/82290_barry-d-islemade) (à privilégier)
-- [Canal de votre département : 82 	- Tarn-et-Garonne](https://entraide.stopcoronavirus.tech/#/channel/82_tarn-et-garonne) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/82290_barry-d-islemade" class="myButton" style="color:white;">Canal de votre commune : 82290 	- BARRY D ISLEMADE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/82_tarn-et-garonne" class="myButton" style="color:white;">Canal de votre département : 82 	- Tarn-et-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 82290 	- BARRY D ISLEMADE](https://docs.stopcoronavirus.tech/#/r/markdown/82290_barry-d-islemade/4XTTM8Kem1cUYPT6nLXF6ijdFo94p8d1k7ApNupHWAWDCf1GY) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82290 	- BARRY D ISLEMADE](https://docs.stopcoronavirus.tech/#/w/markdown/82290_barry-d-islemade/4XTTM8Kem1cUYPT6nLXF6ijdFo94p8d1k7ApNupHWAWDCf1GY-K3TgU6ZeShDRkcPQmdhNUw3jt7kamsVkvnrPdnYa8JBpUCGfkNNdrkG7dFbUszQeUr9dmZGbnJUj8BSidqi6p62JGM9e8mxpYvSp46E3gwmRUiaBDCjGVW6ytRRwYfY3qrB3fW8k) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82290_barry-d-islemade/4XTTM8Kem1cUYPT6nLXF6ijdFo94p8d1k7ApNupHWAWDCf1GY" class="myButton" style="color:white;">Consulter : 82290 	- BARRY D ISLEMADE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82290_barry-d-islemade/4XTTM8Kem1cUYPT6nLXF6ijdFo94p8d1k7ApNupHWAWDCf1GY-K3TgU6ZeShDRkcPQmdhNUw3jt7kamsVkvnrPdnYa8JBpUCGfkNNdrkG7dFbUszQeUr9dmZGbnJUj8BSidqi6p62JGM9e8mxpYvSp46E3gwmRUiaBDCjGVW6ytRRwYfY3qrB3fW8k" class="myButton" style="color:white;">Déposer : 82290 	- BARRY D ISLEMADE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 82 	- Tarn-et-Garonne](https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP" class="myButton" style="color:white;">Consulter : 82 	- Tarn-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT" class="myButton" style="color:white;">Déposer : 82 	- Tarn-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

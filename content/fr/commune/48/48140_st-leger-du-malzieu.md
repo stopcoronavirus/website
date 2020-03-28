@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 48140 	- ST LEGER DU MALZIEU](https://entraide.stopcoronavirus.tech/#/channel/48140_st-leger-du-malzieu) (à privilégier)
-- [Canal de votre département : 48 	- Lozère](https://entraide.stopcoronavirus.tech/#/channel/48_lozere) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/48140_st-leger-du-malzieu" class="myButton" style="color:white;">Canal de votre commune : 48140 	- ST LEGER DU MALZIEU</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/48_lozere" class="myButton" style="color:white;">Canal de votre département : 48 	- Lozère</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 48140 	- ST LEGER DU MALZIEU](https://docs.stopcoronavirus.tech/#/r/markdown/48140_st-leger-du-malzieu/4XTTMFdX2SowemYMgJa2TUZtAJNdQtxwxqyS52nYCpq8EHscE) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48140 	- ST LEGER DU MALZIEU](https://docs.stopcoronavirus.tech/#/w/markdown/48140_st-leger-du-malzieu/4XTTMFdX2SowemYMgJa2TUZtAJNdQtxwxqyS52nYCpq8EHscE-K3TgV2hY26wHcLLpx9YLpFWgTA2UTG9BAGvNYJKgd9EWpTrwrMTLD6VhM1qUrcugdRypqWs263sQJ5FhJ8nLjn7qECZNn1zRWrxLWmoyA5xqKNRh3nPW8BVmFBWEucYaAWXL2s2S) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48140_st-leger-du-malzieu/4XTTMFdX2SowemYMgJa2TUZtAJNdQtxwxqyS52nYCpq8EHscE" class="myButton" style="color:white;">Consulter : 48140 	- ST LEGER DU MALZIEU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48140_st-leger-du-malzieu/4XTTMFdX2SowemYMgJa2TUZtAJNdQtxwxqyS52nYCpq8EHscE-K3TgV2hY26wHcLLpx9YLpFWgTA2UTG9BAGvNYJKgd9EWpTrwrMTLD6VhM1qUrcugdRypqWs263sQJ5FhJ8nLjn7qECZNn1zRWrxLWmoyA5xqKNRh3nPW8BVmFBWEucYaAWXL2s2S" class="myButton" style="color:white;">Déposer : 48140 	- ST LEGER DU MALZIEU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 48 	- Lozère](https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp" class="myButton" style="color:white;">Consulter : 48 	- Lozère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa" class="myButton" style="color:white;">Déposer : 48 	- Lozère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

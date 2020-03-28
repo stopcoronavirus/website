@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 05190 	- BREZIERS](https://entraide.stopcoronavirus.tech/#/channel/05190_breziers) (à privilégier)
-- [Canal de votre département : 05 	- Hautes-Alpes](https://entraide.stopcoronavirus.tech/#/channel/05_hautes-alpes) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/05190_breziers" class="myButton" style="color:white;">Canal de votre commune : 05190 	- BREZIERS</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/05_hautes-alpes" class="myButton" style="color:white;">Canal de votre département : 05 	- Hautes-Alpes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 05190 	- BREZIERS](https://docs.stopcoronavirus.tech/#/r/markdown/05190_breziers/4XTTMBDyWeRz7H4Cx8vudqQ18HhbQ3cTVhtaXJFVdta5p6HKF) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05190 	- BREZIERS](https://docs.stopcoronavirus.tech/#/w/markdown/05190_breziers/4XTTMBDyWeRz7H4Cx8vudqQ18HhbQ3cTVhtaXJFVdta5p6HKF-K3TgUfsqYdwqbKToHBemBP86aYQ5oHEhM3bg87Sv2S6iRLJST2Y863QDZwugT8zhC5cobhZX4cSG1HYyra8jiN48yVV1o1PUNGdkmv9QpQmFQA1jWpnxDqzZ6QdTTKXhrVDyCFEy) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/05190_breziers/4XTTMBDyWeRz7H4Cx8vudqQ18HhbQ3cTVhtaXJFVdta5p6HKF" class="myButton" style="color:white;">Consulter : 05190 	- BREZIERS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/05190_breziers/4XTTMBDyWeRz7H4Cx8vudqQ18HhbQ3cTVhtaXJFVdta5p6HKF-K3TgUfsqYdwqbKToHBemBP86aYQ5oHEhM3bg87Sv2S6iRLJST2Y863QDZwugT8zhC5cobhZX4cSG1HYyra8jiN48yVV1o1PUNGdkmv9QpQmFQA1jWpnxDqzZ6QdTTKXhrVDyCFEy" class="myButton" style="color:white;">Déposer : 05190 	- BREZIERS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 05 	- Hautes-Alpes](https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK" class="myButton" style="color:white;">Consulter : 05 	- Hautes-Alpes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7" class="myButton" style="color:white;">Déposer : 05 	- Hautes-Alpes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

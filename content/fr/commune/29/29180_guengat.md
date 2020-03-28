@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 29180 	- GUENGAT](https://entraide.stopcoronavirus.tech/#/channel/29180_guengat) (à privilégier)
-- [Canal de votre département : 29 	- Finistère](https://entraide.stopcoronavirus.tech/#/channel/29_finistere) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/29180_guengat" class="myButton" style="color:white;">Canal de votre commune : 29180 	- GUENGAT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/29_finistere" class="myButton" style="color:white;">Canal de votre département : 29 	- Finistère</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 29180 	- GUENGAT](https://docs.stopcoronavirus.tech/#/r/markdown/29180_guengat/4XTTM9V9ouwueA89QHSzyTMD7ZG4jKypjQTuvjBAh9Pa747B5) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 29180 	- GUENGAT](https://docs.stopcoronavirus.tech/#/w/markdown/29180_guengat/4XTTM9V9ouwueA89QHSzyTMD7ZG4jKypjQTuvjBAh9Pa747B5-K3TgTuGswYz47DLVo2J5BSV52N6CDRmtuQmD89SDCxStb9HvJ9NquSUxX8osQ7rosdJDwnyJCfDUfvWG3MZRp8pFULzcbFgFSJ1uf1Fx7zz5QdYYMYEa3Y5WFKPuUfA5Btp6nurw) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/29180_guengat/4XTTM9V9ouwueA89QHSzyTMD7ZG4jKypjQTuvjBAh9Pa747B5" class="myButton" style="color:white;">Consulter : 29180 	- GUENGAT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/29180_guengat/4XTTM9V9ouwueA89QHSzyTMD7ZG4jKypjQTuvjBAh9Pa747B5-K3TgTuGswYz47DLVo2J5BSV52N6CDRmtuQmD89SDCxStb9HvJ9NquSUxX8osQ7rosdJDwnyJCfDUfvWG3MZRp8pFULzcbFgFSJ1uf1Fx7zz5QdYYMYEa3Y5WFKPuUfA5Btp6nurw" class="myButton" style="color:white;">Déposer : 29180 	- GUENGAT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 29 	- Finistère](https://docs.stopcoronavirus.tech/#/r/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 29 	- Finistère](https://docs.stopcoronavirus.tech/#/w/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC-K3TgUmttHvLKDBu5vxQ3oPzTia91UxXiaB3vEFjsHJiDiJD9aQfr6ibvcPa75Eo3oX7ob78s9tVxCKrtPM9bLAmDziVCSFjEgZbp3rqL8Ji8Q5aZhxfTcqkGX75WxHS6TQxtiQQ6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC" class="myButton" style="color:white;">Consulter : 29 	- Finistère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC-K3TgUmttHvLKDBu5vxQ3oPzTia91UxXiaB3vEFjsHJiDiJD9aQfr6ibvcPa75Eo3oX7ob78s9tVxCKrtPM9bLAmDziVCSFjEgZbp3rqL8Ji8Q5aZhxfTcqkGX75WxHS6TQxtiQQ6" class="myButton" style="color:white;">Déposer : 29 	- Finistère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

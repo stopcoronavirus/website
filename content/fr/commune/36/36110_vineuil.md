@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 36110 	- VINEUIL](https://entraide.stopcoronavirus.tech/#/channel/36110_vineuil) (à privilégier)
-- [Canal de votre département : 36 	- Indre](https://entraide.stopcoronavirus.tech/#/channel/36_indre) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/36110_vineuil" class="myButton" style="color:white;">Canal de votre commune : 36110 	- VINEUIL</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/36_indre" class="myButton" style="color:white;">Canal de votre département : 36 	- Indre</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 36110 	- VINEUIL](https://docs.stopcoronavirus.tech/#/r/markdown/36110_vineuil/4XTTM3tHjYgpofr4EaM2ybT7Xe7B1huTEvGQPR225n3Bx3Qzx) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36110 	- VINEUIL](https://docs.stopcoronavirus.tech/#/w/markdown/36110_vineuil/4XTTM3tHjYgpofr4EaM2ybT7Xe7B1huTEvGQPR225n3Bx3Qzx-K3TgUtCVrCf8wAboN1s9XGrM7ze9Er7d9SXv9CnY3rnU4Q5wor56gUqtN7nuVpASF7z3jZnhU9W794SrmAw2qhPRNEYCx64X8SH95eMsrXhuGQjV2tSr6R2UbQyUH67D4UPNF1yn) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36110_vineuil/4XTTM3tHjYgpofr4EaM2ybT7Xe7B1huTEvGQPR225n3Bx3Qzx" class="myButton" style="color:white;">Consulter : 36110 	- VINEUIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36110_vineuil/4XTTM3tHjYgpofr4EaM2ybT7Xe7B1huTEvGQPR225n3Bx3Qzx-K3TgUtCVrCf8wAboN1s9XGrM7ze9Er7d9SXv9CnY3rnU4Q5wor56gUqtN7nuVpASF7z3jZnhU9W794SrmAw2qhPRNEYCx64X8SH95eMsrXhuGQjV2tSr6R2UbQyUH67D4UPNF1yn" class="myButton" style="color:white;">Déposer : 36110 	- VINEUIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 36 	- Indre](https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 36 	- Indre](https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1" class="myButton" style="color:white;">Consulter : 36 	- Indre</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT" class="myButton" style="color:white;">Déposer : 36 	- Indre</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

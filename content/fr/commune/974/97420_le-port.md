@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 97420 	- LE PORT](https://entraide.stopcoronavirus.tech/#/channel/97420_le-port) (à privilégier)
-- [Canal de votre département : 974 	- La Réunion](https://entraide.stopcoronavirus.tech/#/channel/974_la-reunion) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97420_le-port" class="myButton" style="color:white;">Canal de votre commune : 97420 	- LE PORT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/974_la-reunion" class="myButton" style="color:white;">Canal de votre département : 974 	- La Réunion</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 97420 	- LE PORT](https://docs.stopcoronavirus.tech/#/r/markdown/97420_le-port/4XTTM2hWDfnxopR5CbGqJXtSwATxw2TPNKimZWJNV22uecYSU) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 97420 	- LE PORT](https://docs.stopcoronavirus.tech/#/w/markdown/97420_le-port/4XTTM2hWDfnxopR5CbGqJXtSwATxw2TPNKimZWJNV22uecYSU-K3TgUbVAvDUZwHrm4j3AgJr56PLt6uKaN1hMAxfKuSLH9W6WTKsuxQxi69K8ePBGh8eHtbsqKgkD8M8Qjt5maeser1tRGyC2gXgyzYgvSzGLvNex3288LmtR1eFYYpBLmECmY3Yc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97420_le-port/4XTTM2hWDfnxopR5CbGqJXtSwATxw2TPNKimZWJNV22uecYSU" class="myButton" style="color:white;">Consulter : 97420 	- LE PORT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97420_le-port/4XTTM2hWDfnxopR5CbGqJXtSwATxw2TPNKimZWJNV22uecYSU-K3TgUbVAvDUZwHrm4j3AgJr56PLt6uKaN1hMAxfKuSLH9W6WTKsuxQxi69K8ePBGh8eHtbsqKgkD8M8Qjt5maeser1tRGyC2gXgyzYgvSzGLvNex3288LmtR1eFYYpBLmECmY3Yc" class="myButton" style="color:white;">Déposer : 97420 	- LE PORT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 974 	- La Réunion](https://docs.stopcoronavirus.tech/#/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 974 	- La Réunion](https://docs.stopcoronavirus.tech/#/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa" class="myButton" style="color:white;">Consulter : 974 	- La Réunion</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6" class="myButton" style="color:white;">Déposer : 974 	- La Réunion</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

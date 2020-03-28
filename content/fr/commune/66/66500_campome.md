@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 66500 	- CAMPOME](https://entraide.stopcoronavirus.tech/#/channel/66500_campome) (à privilégier)
-- [Canal de votre département : 66 	- Pyrénées-Orientales](https://entraide.stopcoronavirus.tech/#/channel/66_pyrenees-orientales) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/66500_campome" class="myButton" style="color:white;">Canal de votre commune : 66500 	- CAMPOME</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/66_pyrenees-orientales" class="myButton" style="color:white;">Canal de votre département : 66 	- Pyrénées-Orientales</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 66500 	- CAMPOME](https://docs.stopcoronavirus.tech/#/r/markdown/66500_campome/4XTTMF5n8rprzFbDP54UtwQBKw3pTHNRruJoG8saTVUG2w4Qp) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66500 	- CAMPOME](https://docs.stopcoronavirus.tech/#/w/markdown/66500_campome/4XTTMF5n8rprzFbDP54UtwQBKw3pTHNRruJoG8saTVUG2w4Qp-K3TgTig9pof517dTgPomN1DQiSXri3rAHvWMfMqTJxSyWQo8qWPDgRPPE2AmjdEh8xYgxgHnE7wkWKx7Mb5SAirE9pryjH6JedXPNeMMsHVRuZE21oHyCRyndvRRJA8KxpCCRJit) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/66500_campome/4XTTMF5n8rprzFbDP54UtwQBKw3pTHNRruJoG8saTVUG2w4Qp" class="myButton" style="color:white;">Consulter : 66500 	- CAMPOME</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/66500_campome/4XTTMF5n8rprzFbDP54UtwQBKw3pTHNRruJoG8saTVUG2w4Qp-K3TgTig9pof517dTgPomN1DQiSXri3rAHvWMfMqTJxSyWQo8qWPDgRPPE2AmjdEh8xYgxgHnE7wkWKx7Mb5SAirE9pryjH6JedXPNeMMsHVRuZE21oHyCRyndvRRJA8KxpCCRJit" class="myButton" style="color:white;">Déposer : 66500 	- CAMPOME</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 66 	- Pyrénées-Orientales](https://docs.stopcoronavirus.tech/#/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf" class="myButton" style="color:white;">Consulter : 66 	- Pyrénées-Orientales</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro" class="myButton" style="color:white;">Déposer : 66 	- Pyrénées-Orientales</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

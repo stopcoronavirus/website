@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 64350 	- BETRACQ](https://entraide.stopcoronavirus.tech/#/channel/64350_betracq) (à privilégier)
-- [Canal de votre département : 64 	- Pyrénées-Atlantiques](https://entraide.stopcoronavirus.tech/#/channel/64_pyrenees-atlantiques) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/64350_betracq" class="myButton" style="color:white;">Canal de votre commune : 64350 	- BETRACQ</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/64_pyrenees-atlantiques" class="myButton" style="color:white;">Canal de votre département : 64 	- Pyrénées-Atlantiques</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 64350 	- BETRACQ](https://docs.stopcoronavirus.tech/#/r/markdown/64350_betracq/4XTTMCmfUH6YJGByiGjsq3nD9RRNKtaFVmTh8uDbX3B567Z76) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64350 	- BETRACQ](https://docs.stopcoronavirus.tech/#/w/markdown/64350_betracq/4XTTMCmfUH6YJGByiGjsq3nD9RRNKtaFVmTh8uDbX3B567Z76-K3TgTz7RNXQEsyc2b8MX3QQWit12WHX7H3RroAi3AKWNuqFPSnc6Vg7BgPpHqfJZ4Ty84gjM3EswDBCLsximmPSLiUHuUQvecuhGXQr6M9U4wfpWZdzRjUY5NKhxo8bdgG1Fkv4g) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64350_betracq/4XTTMCmfUH6YJGByiGjsq3nD9RRNKtaFVmTh8uDbX3B567Z76" class="myButton" style="color:white;">Consulter : 64350 	- BETRACQ</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64350_betracq/4XTTMCmfUH6YJGByiGjsq3nD9RRNKtaFVmTh8uDbX3B567Z76-K3TgTz7RNXQEsyc2b8MX3QQWit12WHX7H3RroAi3AKWNuqFPSnc6Vg7BgPpHqfJZ4Ty84gjM3EswDBCLsximmPSLiUHuUQvecuhGXQr6M9U4wfpWZdzRjUY5NKhxo8bdgG1Fkv4g" class="myButton" style="color:white;">Déposer : 64350 	- BETRACQ</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k" class="myButton" style="color:white;">Consulter : 64 	- Pyrénées-Atlantiques</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4" class="myButton" style="color:white;">Déposer : 64 	- Pyrénées-Atlantiques</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

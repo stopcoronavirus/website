@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 55150 	- ROMAGNE SOUS LES COTES](https://entraide.stopcoronavirus.tech/#/channel/55150_romagne-sous-les-cotes) (à privilégier)
-- [Canal de votre département : 55 	- Meuse](https://entraide.stopcoronavirus.tech/#/channel/55_meuse) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/55150_romagne-sous-les-cotes" class="myButton" style="color:white;">Canal de votre commune : 55150 	- ROMAGNE SOUS LES COTES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/55_meuse" class="myButton" style="color:white;">Canal de votre département : 55 	- Meuse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 55150 	- ROMAGNE SOUS LES COTES](https://docs.stopcoronavirus.tech/#/r/markdown/55150_romagne-sous-les-cotes/4XTTM5Dau3aZPGsQhPkaULeokhbvF7NPa87MQ1Rv53SYJER2F) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55150 	- ROMAGNE SOUS LES COTES](https://docs.stopcoronavirus.tech/#/w/markdown/55150_romagne-sous-les-cotes/4XTTM5Dau3aZPGsQhPkaULeokhbvF7NPa87MQ1Rv53SYJER2F-K3TgU3u827BceJXSH3d7xfbzv51CLXCSpqrree8SJ9rDuWHhgZBeWT7zvPLfA3Jcts2aSEBdSGoBYp8RW3nhrMYRMivMWsFHbNAkEKVZLFMvxzfMn9qND95XQFLWiGMvyKHPchsM) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55150_romagne-sous-les-cotes/4XTTM5Dau3aZPGsQhPkaULeokhbvF7NPa87MQ1Rv53SYJER2F" class="myButton" style="color:white;">Consulter : 55150 	- ROMAGNE SOUS LES COTES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55150_romagne-sous-les-cotes/4XTTM5Dau3aZPGsQhPkaULeokhbvF7NPa87MQ1Rv53SYJER2F-K3TgU3u827BceJXSH3d7xfbzv51CLXCSpqrree8SJ9rDuWHhgZBeWT7zvPLfA3Jcts2aSEBdSGoBYp8RW3nhrMYRMivMWsFHbNAkEKVZLFMvxzfMn9qND95XQFLWiGMvyKHPchsM" class="myButton" style="color:white;">Déposer : 55150 	- ROMAGNE SOUS LES COTES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 55 	- Meuse](https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit" class="myButton" style="color:white;">Consulter : 55 	- Meuse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G" class="myButton" style="color:white;">Déposer : 55 	- Meuse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

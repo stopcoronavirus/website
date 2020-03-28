@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 11300 	- VILLARZEL DU RAZES](https://entraide.stopcoronavirus.tech/#/channel/11300_villarzel-du-razes) (à privilégier)
-- [Canal de votre département : 11 	- Aude](https://entraide.stopcoronavirus.tech/#/channel/11_aude) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/11300_villarzel-du-razes" class="myButton" style="color:white;">Canal de votre commune : 11300 	- VILLARZEL DU RAZES</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/11_aude" class="myButton" style="color:white;">Canal de votre département : 11 	- Aude</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 11300 	- VILLARZEL DU RAZES](https://docs.stopcoronavirus.tech/#/r/markdown/11300_villarzel-du-razes/4XTTM1xBoQuyWH7a7z564zptJkFtqa3XYy3TYt5b2af1au2TH) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11300 	- VILLARZEL DU RAZES](https://docs.stopcoronavirus.tech/#/w/markdown/11300_villarzel-du-razes/4XTTM1xBoQuyWH7a7z564zptJkFtqa3XYy3TYt5b2af1au2TH-K3TgTqeXV9bdngab5AZYEG2CQZLW28bf6M2gt5s9KjUKrxdHVhpnACgEuyzsgvL7HkFHjoRJmdbchxRtduDaWvk7WC9hHVn9GRsGeQqR1yJDn7PSm9tptR2KsJEcL9DvXBP7MqyR) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11300_villarzel-du-razes/4XTTM1xBoQuyWH7a7z564zptJkFtqa3XYy3TYt5b2af1au2TH" class="myButton" style="color:white;">Consulter : 11300 	- VILLARZEL DU RAZES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11300_villarzel-du-razes/4XTTM1xBoQuyWH7a7z564zptJkFtqa3XYy3TYt5b2af1au2TH-K3TgTqeXV9bdngab5AZYEG2CQZLW28bf6M2gt5s9KjUKrxdHVhpnACgEuyzsgvL7HkFHjoRJmdbchxRtduDaWvk7WC9hHVn9GRsGeQqR1yJDn7PSm9tptR2KsJEcL9DvXBP7MqyR" class="myButton" style="color:white;">Déposer : 11300 	- VILLARZEL DU RAZES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 11 	- Aude](https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 11 	- Aude](https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk" class="myButton" style="color:white;">Consulter : 11 	- Aude</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr" class="myButton" style="color:white;">Déposer : 11 	- Aude</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

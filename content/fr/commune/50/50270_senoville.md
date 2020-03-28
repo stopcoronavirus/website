@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 50270 	- SENOVILLE](https://entraide.stopcoronavirus.tech/#/channel/50270_senoville) (à privilégier)
-- [Canal de votre département : 50 	- Manche](https://entraide.stopcoronavirus.tech/#/channel/50_manche) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50270_senoville" class="myButton" style="color:white;">Canal de votre commune : 50270 	- SENOVILLE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50_manche" class="myButton" style="color:white;">Canal de votre département : 50 	- Manche</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 50270 	- SENOVILLE](https://docs.stopcoronavirus.tech/#/r/markdown/50270_senoville/4XTTMCUewFsbDDquiyA249RzywF3S5MTRXgCr7GFM3qoDuN4Y) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50270 	- SENOVILLE](https://docs.stopcoronavirus.tech/#/w/markdown/50270_senoville/4XTTMCUewFsbDDquiyA249RzywF3S5MTRXgCr7GFM3qoDuN4Y-K3TgTcfjcfAbmvkJoaGySs4mgDPayTBRfFd1QrBrjen8xXMNkWFvTFK8aLsNKQNA7sSwHeNMmNZhSyYjNz3YjC92UUn7Ayg5Wqfyf48xUoErS2pYkkgy3RJH3pDF8CsVnBQqFWWk) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50270_senoville/4XTTMCUewFsbDDquiyA249RzywF3S5MTRXgCr7GFM3qoDuN4Y" class="myButton" style="color:white;">Consulter : 50270 	- SENOVILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50270_senoville/4XTTMCUewFsbDDquiyA249RzywF3S5MTRXgCr7GFM3qoDuN4Y-K3TgTcfjcfAbmvkJoaGySs4mgDPayTBRfFd1QrBrjen8xXMNkWFvTFK8aLsNKQNA7sSwHeNMmNZhSyYjNz3YjC92UUn7Ayg5Wqfyf48xUoErS2pYkkgy3RJH3pDF8CsVnBQqFWWk" class="myButton" style="color:white;">Déposer : 50270 	- SENOVILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 50 	- Manche](https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 50 	- Manche](https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr" class="myButton" style="color:white;">Consulter : 50 	- Manche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE" class="myButton" style="color:white;">Déposer : 50 	- Manche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

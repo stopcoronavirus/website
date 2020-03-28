@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 44118 	- LA CHEVROLIERE](https://entraide.stopcoronavirus.tech/#/channel/44118_la-chevroliere) (à privilégier)
-- [Canal de votre département : 44 	- Loire-Atlantique](https://entraide.stopcoronavirus.tech/#/channel/44_loire-atlantique) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/44118_la-chevroliere" class="myButton" style="color:white;">Canal de votre commune : 44118 	- LA CHEVROLIERE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/44_loire-atlantique" class="myButton" style="color:white;">Canal de votre département : 44 	- Loire-Atlantique</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 44118 	- LA CHEVROLIERE](https://docs.stopcoronavirus.tech/#/r/markdown/44118_la-chevroliere/4XTTM3jxi8hi1LdC1kJngxVyJq8heN8oLHBGHWiqSeFdzkWU4) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 44118 	- LA CHEVROLIERE](https://docs.stopcoronavirus.tech/#/w/markdown/44118_la-chevroliere/4XTTM3jxi8hi1LdC1kJngxVyJq8heN8oLHBGHWiqSeFdzkWU4-K3TgUJKsFgcR8bFhKp4PU4RR3XsYGFwMkyzyvq5amba78Xmqmb3ZWpRvsS4WSYdbRGk88RAymLLAXJj9CxZLExsCFY7nbbvBjnx7JXdyHxhWSV3aW7X6LPXtUFNFM1EDvkqrAMLg) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44118_la-chevroliere/4XTTM3jxi8hi1LdC1kJngxVyJq8heN8oLHBGHWiqSeFdzkWU4" class="myButton" style="color:white;">Consulter : 44118 	- LA CHEVROLIERE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44118_la-chevroliere/4XTTM3jxi8hi1LdC1kJngxVyJq8heN8oLHBGHWiqSeFdzkWU4-K3TgUJKsFgcR8bFhKp4PU4RR3XsYGFwMkyzyvq5amba78Xmqmb3ZWpRvsS4WSYdbRGk88RAymLLAXJj9CxZLExsCFY7nbbvBjnx7JXdyHxhWSV3aW7X6LPXtUFNFM1EDvkqrAMLg" class="myButton" style="color:white;">Déposer : 44118 	- LA CHEVROLIERE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 44 	- Loire-Atlantique](https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf" class="myButton" style="color:white;">Consulter : 44 	- Loire-Atlantique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF" class="myButton" style="color:white;">Déposer : 44 	- Loire-Atlantique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

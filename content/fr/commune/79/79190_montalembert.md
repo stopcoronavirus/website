@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 79190 	- MONTALEMBERT](https://entraide.stopcoronavirus.tech/#/channel/79190_montalembert) (à privilégier)
-- [Canal de votre département : 79 	- Deux-Sèvres](https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79190_montalembert" class="myButton" style="color:white;">Canal de votre commune : 79190 	- MONTALEMBERT</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres" class="myButton" style="color:white;">Canal de votre département : 79 	- Deux-Sèvres</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 79190 	- MONTALEMBERT](https://docs.stopcoronavirus.tech/#/r/markdown/79190_montalembert/4XTTM3ykZ8qkVE5WJuvCiytxHcAqEyc6q3UX2uQffjW7e59jc) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79190 	- MONTALEMBERT](https://docs.stopcoronavirus.tech/#/w/markdown/79190_montalembert/4XTTM3ykZ8qkVE5WJuvCiytxHcAqEyc6q3UX2uQffjW7e59jc-K3TgV7uUo6SJ9X1nogwSmFpXU7VuKC4yYHQM1fRnd6ThEDRHG1aYj8RB1ZDimtnAdt6hYPyNvW8zCSiyTL5QhaCPBFfC1G86fKHGkHNKoVzZj51gzEfiboDopm31f86CwGyGoxmc) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79190_montalembert/4XTTM3ykZ8qkVE5WJuvCiytxHcAqEyc6q3UX2uQffjW7e59jc" class="myButton" style="color:white;">Consulter : 79190 	- MONTALEMBERT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79190_montalembert/4XTTM3ykZ8qkVE5WJuvCiytxHcAqEyc6q3UX2uQffjW7e59jc-K3TgV7uUo6SJ9X1nogwSmFpXU7VuKC4yYHQM1fRnd6ThEDRHG1aYj8RB1ZDimtnAdt6hYPyNvW8zCSiyTL5QhaCPBFfC1G86fKHGkHNKoVzZj51gzEfiboDopm31f86CwGyGoxmc" class="myButton" style="color:white;">Déposer : 79190 	- MONTALEMBERT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 79 	- Deux-Sèvres](https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ" class="myButton" style="color:white;">Consulter : 79 	- Deux-Sèvres</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH" class="myButton" style="color:white;">Déposer : 79 	- Deux-Sèvres</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

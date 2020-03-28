@@ -15,7 +15,7 @@ _Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
 - un **canal d'entraide** (*)
 - un **document participatif** qui recense les annonces et initiatives
 
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, faites-en bon usage._
+_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
 
 <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
 
@@ -23,8 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les URGENCES, f
 
 ##### Liens
 
-- [Canal de votre commune : 64410 	- POURSIUGUES BOUCOUE](https://entraide.stopcoronavirus.tech/#/channel/64410_poursiugues-boucoue) (à privilégier)
-- [Canal de votre département : 64 	- Pyrénées-Atlantiques](https://entraide.stopcoronavirus.tech/#/channel/64_pyrenees-atlantiques) (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/64410_poursiugues-boucoue" class="myButton" style="color:white;">Canal de votre commune : 64410 	- POURSIUGUES BOUCOUE</a> (à privilégier)
+
+<a href="https://entraide.stopcoronavirus.tech/#/channel/64_pyrenees-atlantiques" class="myButton" style="color:white;">Canal de votre département : 64 	- Pyrénées-Atlantiques</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -37,18 +38,18 @@ _3. **En dernier recours**, demandez du soutien dans le canal du **département*
 #### Annonces & Initiatives
 
 
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **besoins
-URGENTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
+Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
+IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
 
 ##### Dans votre commune (à privilégier)
 
-- [Consulter : 64410 	- POURSIUGUES BOUCOUE](https://docs.stopcoronavirus.tech/#/r/markdown/64410_poursiugues-boucoue/4XTTM1DPugWRB8YpX8D1nhLXnSVtgdYNcB4GaUwMQmQ2YtT8T) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64410 	- POURSIUGUES BOUCOUE](https://docs.stopcoronavirus.tech/#/w/markdown/64410_poursiugues-boucoue/4XTTM1DPugWRB8YpX8D1nhLXnSVtgdYNcB4GaUwMQmQ2YtT8T-K3TgTkYuYK75FayPRq2EA4B6v2x9X1seD8RW6YpqaZDu4NuuHguLVLXjX7ZxXfHGgF6rzu34KLpaPcEyhGPTkLEssD6tBp2Xi4Vti5yWqRYq9XmsyAwDcE8ZT6VM8S76T1PnsFro) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64410_poursiugues-boucoue/4XTTM1DPugWRB8YpX8D1nhLXnSVtgdYNcB4GaUwMQmQ2YtT8T" class="myButton" style="color:white;">Consulter : 64410 	- POURSIUGUES BOUCOUE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64410_poursiugues-boucoue/4XTTM1DPugWRB8YpX8D1nhLXnSVtgdYNcB4GaUwMQmQ2YtT8T-K3TgTkYuYK75FayPRq2EA4B6v2x9X1seD8RW6YpqaZDu4NuuHguLVLXjX7ZxXfHGgF6rzu34KLpaPcEyhGPTkLEssD6tBp2Xi4Vti5yWqRYq9XmsyAwDcE8ZT6VM8S76T1PnsFro" class="myButton" style="color:white;">Déposer : 64410 	- POURSIUGUES BOUCOUE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-- [Consulter : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k) _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-- [Déposer : 64 	- Pyrénées-Atlantiques](https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4) _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k" class="myButton" style="color:white;">Consulter : 64 	- Pyrénées-Atlantiques</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4" class="myButton" style="color:white;">Déposer : 64 	- Pyrénées-Atlantiques</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation

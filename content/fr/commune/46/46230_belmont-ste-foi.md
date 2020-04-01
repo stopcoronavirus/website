@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/46230_belmont-ste-foi" class="myButton" style="color:white;">Canal de votre commune : 46230 	- BELMONT STE FOI</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/46230_belmont-ste-foi" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 46230 	- BELMONT STE FOI</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/46_lot" class="myButton" style="color:white;">Canal de votre département : 46 	- Lot</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/46_lot" target="_blank" class="myButton" style="color:white;">Canal de votre département : 46 	- Lot</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/46230_belmont-ste-foi/4XTTMBxLuQyd5UcmXqEv5VVYCcSC9xdg5PmN4y6brVn753uhG" class="myButton" style="color:white;">Consulter : 46230 	- BELMONT STE FOI</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/46230_belmont-ste-foi/4XTTMBxLuQyd5UcmXqEv5VVYCcSC9xdg5PmN4y6brVn753uhG-K3TgTwbW8GdUL9TL8Kib7NBUp3ykJKLrXzy9bu5zeDTh2aCRuwK7RmfAAjUWtL7GF74ogPrqnZTEUtMuUgENBYtoxpaFcaUntE9KMGENR2s7r5vKzaSgjLEwPqTN8U755hS68Hb4" class="myButton" style="color:white;">Déposer : 46230 	- BELMONT STE FOI</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/46230_belmont-ste-foi/4XTTMBxLuQyd5UcmXqEv5VVYCcSC9xdg5PmN4y6brVn753uhG" target="_blank" class="myButton" style="color:white;">Consulter : 46230 	- BELMONT STE FOI</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/46230_belmont-ste-foi/4XTTMBxLuQyd5UcmXqEv5VVYCcSC9xdg5PmN4y6brVn753uhG-K3TgTwbW8GdUL9TL8Kib7NBUp3ykJKLrXzy9bu5zeDTh2aCRuwK7RmfAAjUWtL7GF74ogPrqnZTEUtMuUgENBYtoxpaFcaUntE9KMGENR2s7r5vKzaSgjLEwPqTN8U755hS68Hb4" target="_blank" class="myButton" style="color:white;">Déposer : 46230 	- BELMONT STE FOI</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY" class="myButton" style="color:white;">Consulter : 46 	- Lot</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc" class="myButton" style="color:white;">Déposer : 46 	- Lot</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY" target="_blank" class="myButton" style="color:white;">Consulter : 46 	- Lot</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc" target="_blank" class="myButton" style="color:white;">Déposer : 46 	- Lot</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

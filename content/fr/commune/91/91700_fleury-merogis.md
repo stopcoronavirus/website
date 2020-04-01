@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/91700_fleury-merogis" class="myButton" style="color:white;">Canal de votre commune : 91700 	- FLEURY MEROGIS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/91700_fleury-merogis" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 91700 	- FLEURY MEROGIS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/91_essonne" class="myButton" style="color:white;">Canal de votre département : 91 	- Essonne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/91_essonne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 91 	- Essonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91700_fleury-merogis/4XTTM77scyDNKA8g5PFzpNvoZv2s4wp74Rja8PTy3PCamK1VW" class="myButton" style="color:white;">Consulter : 91700 	- FLEURY MEROGIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91700_fleury-merogis/4XTTM77scyDNKA8g5PFzpNvoZv2s4wp74Rja8PTy3PCamK1VW-K3TgUYR7ohN7YXVkdn268YoTA7fYd6vHhDcwE4cx2yqZNLPfdom9UAMTfqkLrWevXxcMgX2x4LBSH67ppEHPbUBPVPTSXAWkbsL4bEmPMoBkQ7uzndc8YqQQFPTKuSgiikLxbDye" class="myButton" style="color:white;">Déposer : 91700 	- FLEURY MEROGIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91700_fleury-merogis/4XTTM77scyDNKA8g5PFzpNvoZv2s4wp74Rja8PTy3PCamK1VW" target="_blank" class="myButton" style="color:white;">Consulter : 91700 	- FLEURY MEROGIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91700_fleury-merogis/4XTTM77scyDNKA8g5PFzpNvoZv2s4wp74Rja8PTy3PCamK1VW-K3TgUYR7ohN7YXVkdn268YoTA7fYd6vHhDcwE4cx2yqZNLPfdom9UAMTfqkLrWevXxcMgX2x4LBSH67ppEHPbUBPVPTSXAWkbsL4bEmPMoBkQ7uzndc8YqQQFPTKuSgiikLxbDye" target="_blank" class="myButton" style="color:white;">Déposer : 91700 	- FLEURY MEROGIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF" class="myButton" style="color:white;">Consulter : 91 	- Essonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3" class="myButton" style="color:white;">Déposer : 91 	- Essonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF" target="_blank" class="myButton" style="color:white;">Consulter : 91 	- Essonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3" target="_blank" class="myButton" style="color:white;">Déposer : 91 	- Essonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

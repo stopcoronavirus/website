@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/27720_noyers" class="myButton" style="color:white;">Canal de votre commune : 27720 	- NOYERS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27720_noyers" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 27720 	- NOYERS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/27_eure" class="myButton" style="color:white;">Canal de votre département : 27 	- Eure</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27_eure" target="_blank" class="myButton" style="color:white;">Canal de votre département : 27 	- Eure</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27720_noyers/4XTTMBN3UxwLniW4FG7qY2hae3JY3sjrQVX2J3uNbgmtpooPW" class="myButton" style="color:white;">Consulter : 27720 	- NOYERS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27720_noyers/4XTTMBN3UxwLniW4FG7qY2hae3JY3sjrQVX2J3uNbgmtpooPW-K3TgUUyyU47UH5sQiUEbv6gduviM1C7cp3DQTi1Uff2p5n7HyEpg8jzALqDizRsKZLVoiaHuUKTmZGrgekC32J1PZv3B6n3wCQ7LgSQnZiUZwsipVjtgEzVKYecUC6nVW2wmD15A" class="myButton" style="color:white;">Déposer : 27720 	- NOYERS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27720_noyers/4XTTMBN3UxwLniW4FG7qY2hae3JY3sjrQVX2J3uNbgmtpooPW" target="_blank" class="myButton" style="color:white;">Consulter : 27720 	- NOYERS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27720_noyers/4XTTMBN3UxwLniW4FG7qY2hae3JY3sjrQVX2J3uNbgmtpooPW-K3TgUUyyU47UH5sQiUEbv6gduviM1C7cp3DQTi1Uff2p5n7HyEpg8jzALqDizRsKZLVoiaHuUKTmZGrgekC32J1PZv3B6n3wCQ7LgSQnZiUZwsipVjtgEzVKYecUC6nVW2wmD15A" target="_blank" class="myButton" style="color:white;">Déposer : 27720 	- NOYERS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg" class="myButton" style="color:white;">Consulter : 27 	- Eure</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r" class="myButton" style="color:white;">Déposer : 27 	- Eure</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg" target="_blank" class="myButton" style="color:white;">Consulter : 27 	- Eure</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r" target="_blank" class="myButton" style="color:white;">Déposer : 27 	- Eure</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

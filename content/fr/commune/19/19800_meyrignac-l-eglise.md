@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/19800_meyrignac-l-eglise" class="myButton" style="color:white;">Canal de votre commune : 19800 	- MEYRIGNAC L EGLISE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/19800_meyrignac-l-eglise" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 19800 	- MEYRIGNAC L EGLISE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/19_correze" class="myButton" style="color:white;">Canal de votre département : 19 	- Corrèze</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/19_correze" target="_blank" class="myButton" style="color:white;">Canal de votre département : 19 	- Corrèze</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19800_meyrignac-l-eglise/4XTTMCKqXDiMa8rYgxdryDQodNLwX8nPd1qsBXuJr5gwwnnRX" class="myButton" style="color:white;">Consulter : 19800 	- MEYRIGNAC L EGLISE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19800_meyrignac-l-eglise/4XTTMCKqXDiMa8rYgxdryDQodNLwX8nPd1qsBXuJr5gwwnnRX-K3TgUdcHpzbNhi99oz9KC9S16PHYezD4dbVTdaHWgzguhCRLLMvUjnKBfSWEkUK6JPvGAznCrJtEV7hoicTNkZKw4HrUm2JXSzhGQ4NMptCxt1jh45efFZEFnU2wS7pFS34DHy4V" class="myButton" style="color:white;">Déposer : 19800 	- MEYRIGNAC L EGLISE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19800_meyrignac-l-eglise/4XTTMCKqXDiMa8rYgxdryDQodNLwX8nPd1qsBXuJr5gwwnnRX" target="_blank" class="myButton" style="color:white;">Consulter : 19800 	- MEYRIGNAC L EGLISE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19800_meyrignac-l-eglise/4XTTMCKqXDiMa8rYgxdryDQodNLwX8nPd1qsBXuJr5gwwnnRX-K3TgUdcHpzbNhi99oz9KC9S16PHYezD4dbVTdaHWgzguhCRLLMvUjnKBfSWEkUK6JPvGAznCrJtEV7hoicTNkZKw4HrUm2JXSzhGQ4NMptCxt1jh45efFZEFnU2wS7pFS34DHy4V" target="_blank" class="myButton" style="color:white;">Déposer : 19800 	- MEYRIGNAC L EGLISE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS" class="myButton" style="color:white;">Consulter : 19 	- Corrèze</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS" class="myButton" style="color:white;">Déposer : 19 	- Corrèze</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS" target="_blank" class="myButton" style="color:white;">Consulter : 19 	- Corrèze</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS" target="_blank" class="myButton" style="color:white;">Déposer : 19 	- Corrèze</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

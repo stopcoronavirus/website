@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/79190_alloinay" class="myButton" style="color:white;">Canal de votre commune : 79190 	- ALLOINAY</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79190_alloinay" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 79190 	- ALLOINAY</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres" class="myButton" style="color:white;">Canal de votre département : 79 	- Deux-Sèvres</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres" target="_blank" class="myButton" style="color:white;">Canal de votre département : 79 	- Deux-Sèvres</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79190_alloinay/4XTTM6FG4BtLnR88MfGiRGnBPFhMV2DihCa8RHPpc61e9ELN3" class="myButton" style="color:white;">Consulter : 79190 	- ALLOINAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79190_alloinay/4XTTM6FG4BtLnR88MfGiRGnBPFhMV2DihCa8RHPpc61e9ELN3-K3TgUqbjYAi8wRMyTCXBrQwJYzw24in9p21baDbb2yb1KufYFa7jrZSskMKcDn4LtwiG6p18Fxo1JGTASyq6UnKwz9UrksdrSkrrVwcnK2yuXL596jT8PopmcVaERd6QNBWyKQgP" class="myButton" style="color:white;">Déposer : 79190 	- ALLOINAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79190_alloinay/4XTTM6FG4BtLnR88MfGiRGnBPFhMV2DihCa8RHPpc61e9ELN3" target="_blank" class="myButton" style="color:white;">Consulter : 79190 	- ALLOINAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79190_alloinay/4XTTM6FG4BtLnR88MfGiRGnBPFhMV2DihCa8RHPpc61e9ELN3-K3TgUqbjYAi8wRMyTCXBrQwJYzw24in9p21baDbb2yb1KufYFa7jrZSskMKcDn4LtwiG6p18Fxo1JGTASyq6UnKwz9UrksdrSkrrVwcnK2yuXL596jT8PopmcVaERd6QNBWyKQgP" target="_blank" class="myButton" style="color:white;">Déposer : 79190 	- ALLOINAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ" class="myButton" style="color:white;">Consulter : 79 	- Deux-Sèvres</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH" class="myButton" style="color:white;">Déposer : 79 	- Deux-Sèvres</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ" target="_blank" class="myButton" style="color:white;">Consulter : 79 	- Deux-Sèvres</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH" target="_blank" class="myButton" style="color:white;">Déposer : 79 	- Deux-Sèvres</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

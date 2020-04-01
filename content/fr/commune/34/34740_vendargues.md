@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/34740_vendargues" class="myButton" style="color:white;">Canal de votre commune : 34740 	- VENDARGUES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34740_vendargues" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 34740 	- VENDARGUES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/34_herault" class="myButton" style="color:white;">Canal de votre département : 34 	- Hérault</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34_herault" target="_blank" class="myButton" style="color:white;">Canal de votre département : 34 	- Hérault</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34740_vendargues/4XTTMG3pAHkgH9KQDvvHH3zB9j4XyTFRjiqWgqWPTYKCSdSs7" class="myButton" style="color:white;">Consulter : 34740 	- VENDARGUES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34740_vendargues/4XTTMG3pAHkgH9KQDvvHH3zB9j4XyTFRjiqWgqWPTYKCSdSs7-K3TgUzvh2v6L2Y1K2xNY5Ym1nwwdq4m8PC2gxDRuiCSkQLJ8oE8X7vjEEAF8K9wenAkgAjDGs7NVU9XXVnj3qPV6aSeArSsPLHtfgF1tJjK8x126Koh2DhktUmem8P1mYZozEAX7" class="myButton" style="color:white;">Déposer : 34740 	- VENDARGUES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34740_vendargues/4XTTMG3pAHkgH9KQDvvHH3zB9j4XyTFRjiqWgqWPTYKCSdSs7" target="_blank" class="myButton" style="color:white;">Consulter : 34740 	- VENDARGUES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34740_vendargues/4XTTMG3pAHkgH9KQDvvHH3zB9j4XyTFRjiqWgqWPTYKCSdSs7-K3TgUzvh2v6L2Y1K2xNY5Ym1nwwdq4m8PC2gxDRuiCSkQLJ8oE8X7vjEEAF8K9wenAkgAjDGs7NVU9XXVnj3qPV6aSeArSsPLHtfgF1tJjK8x126Koh2DhktUmem8P1mYZozEAX7" target="_blank" class="myButton" style="color:white;">Déposer : 34740 	- VENDARGUES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8" class="myButton" style="color:white;">Consulter : 34 	- Hérault</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J" class="myButton" style="color:white;">Déposer : 34 	- Hérault</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8" target="_blank" class="myButton" style="color:white;">Consulter : 34 	- Hérault</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J" target="_blank" class="myButton" style="color:white;">Déposer : 34 	- Hérault</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

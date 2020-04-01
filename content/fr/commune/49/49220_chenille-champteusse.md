@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/49220_chenille-champteusse" class="myButton" style="color:white;">Canal de votre commune : 49220 	- CHENILLE CHAMPTEUSSE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/49220_chenille-champteusse" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 49220 	- CHENILLE CHAMPTEUSSE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/49_maine-et-loire" class="myButton" style="color:white;">Canal de votre département : 49 	- Maine-et-Loire</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/49_maine-et-loire" target="_blank" class="myButton" style="color:white;">Canal de votre département : 49 	- Maine-et-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/49220_chenille-champteusse/4XTTM3XLUFmi5uqHFPbtzxuPrh98dQHipmWBBv2A1YAsmanTE" class="myButton" style="color:white;">Consulter : 49220 	- CHENILLE CHAMPTEUSSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/49220_chenille-champteusse/4XTTM3XLUFmi5uqHFPbtzxuPrh98dQHipmWBBv2A1YAsmanTE-K3TgUgUPRpVriJFyHDPdBdBUognCKmx9T1PsuVwRoYgXYivsFN9uKgSBQPkAPCcoCaZouj37v5wbLd2mkZcUz98xfkexX2cEMcc8ZL9xrrfwt3TP811Qs7iP3HmABod7eomdp34Y" class="myButton" style="color:white;">Déposer : 49220 	- CHENILLE CHAMPTEUSSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/49220_chenille-champteusse/4XTTM3XLUFmi5uqHFPbtzxuPrh98dQHipmWBBv2A1YAsmanTE" target="_blank" class="myButton" style="color:white;">Consulter : 49220 	- CHENILLE CHAMPTEUSSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/49220_chenille-champteusse/4XTTM3XLUFmi5uqHFPbtzxuPrh98dQHipmWBBv2A1YAsmanTE-K3TgUgUPRpVriJFyHDPdBdBUognCKmx9T1PsuVwRoYgXYivsFN9uKgSBQPkAPCcoCaZouj37v5wbLd2mkZcUz98xfkexX2cEMcc8ZL9xrrfwt3TP811Qs7iP3HmABod7eomdp34Y" target="_blank" class="myButton" style="color:white;">Déposer : 49220 	- CHENILLE CHAMPTEUSSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51" class="myButton" style="color:white;">Consulter : 49 	- Maine-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf" class="myButton" style="color:white;">Déposer : 49 	- Maine-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51" target="_blank" class="myButton" style="color:white;">Consulter : 49 	- Maine-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/49_maine-et-loire/4XTTM5kWEivdGSW1VZioAFeR9FpQW65q8aNEMpsQHKe3L3w51-K3TgUou4pFa6PsSszDZrp4wBDdthdXBX5EwzKUhExp7n8BKzw5Sop6cQsYViifutavoBtzv7zwzH4iBwqpfCj18hUJY64eghhZJV1FBbvkdmgSuffCY5JQmFSGY1DCwuusuc6WLf" target="_blank" class="myButton" style="color:white;">Déposer : 49 	- Maine-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

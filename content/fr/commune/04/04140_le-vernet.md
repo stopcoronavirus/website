@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/04140_le-vernet" class="myButton" style="color:white;">Canal de votre commune : 04140 	- LE VERNET</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/04140_le-vernet" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 04140 	- LE VERNET</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/04_alpes-de-haute-provence" class="myButton" style="color:white;">Canal de votre département : 04 	- Alpes-de-Haute-Provence</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/04_alpes-de-haute-provence" target="_blank" class="myButton" style="color:white;">Canal de votre département : 04 	- Alpes-de-Haute-Provence</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/04140_le-vernet/4XTTMJ9mBQtW4UuJhSZWvNgHSRAXq6HibEkgeBVGzYvcrEMfE" class="myButton" style="color:white;">Consulter : 04140 	- LE VERNET</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/04140_le-vernet/4XTTMJ9mBQtW4UuJhSZWvNgHSRAXq6HibEkgeBVGzYvcrEMfE-K3TgTnoxS6ys79FWAafvpC6i2QNK776AvxqjwLLQh4A8L2aju7dWjqPnsFFm7vtBpBM36mNgYePPwXvbhny2FrP5sYvxkjXQXGAuGjxPdYZAP711RRDezhyx6hUPXXF1tcLbTnGg" class="myButton" style="color:white;">Déposer : 04140 	- LE VERNET</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/04140_le-vernet/4XTTMJ9mBQtW4UuJhSZWvNgHSRAXq6HibEkgeBVGzYvcrEMfE" target="_blank" class="myButton" style="color:white;">Consulter : 04140 	- LE VERNET</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/04140_le-vernet/4XTTMJ9mBQtW4UuJhSZWvNgHSRAXq6HibEkgeBVGzYvcrEMfE-K3TgTnoxS6ys79FWAafvpC6i2QNK776AvxqjwLLQh4A8L2aju7dWjqPnsFFm7vtBpBM36mNgYePPwXvbhny2FrP5sYvxkjXQXGAuGjxPdYZAP711RRDezhyx6hUPXXF1tcLbTnGg" target="_blank" class="myButton" style="color:white;">Déposer : 04140 	- LE VERNET</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF" class="myButton" style="color:white;">Consulter : 04 	- Alpes-de-Haute-Provence</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh" class="myButton" style="color:white;">Déposer : 04 	- Alpes-de-Haute-Provence</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF" target="_blank" class="myButton" style="color:white;">Consulter : 04 	- Alpes-de-Haute-Provence</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/04_alpes-de-haute-provence/4XTTMAkLpvr5hkF8s3aCRi4TDeAbK6SxVbh4Zhc9oyrBF5zJF-K3TgU6otYgVa1WwMRu7RHPLbjBxXo2XxEcY13pjKC6PiYCNSkQr1yhsrQVPoxByYpCRbhFJuhXdhA2RWRYFVAZndaxkAc76PkzLVD742wq2RiLBK2Fv4T5FCLWbgtpYzaEDNaSMh" target="_blank" class="myButton" style="color:white;">Déposer : 04 	- Alpes-de-Haute-Provence</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

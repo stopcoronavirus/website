@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/02590_germaine" class="myButton" style="color:white;">Canal de votre commune : 02590 	- GERMAINE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/02590_germaine" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 02590 	- GERMAINE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/02_aisne" class="myButton" style="color:white;">Canal de votre département : 02 	- Aisne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/02_aisne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 02 	- Aisne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02590_germaine/4XTTM1V2LdDTDJsKQ972sAMaw1i7k2mgfBu4qkKLHGkxQcXnj" class="myButton" style="color:white;">Consulter : 02590 	- GERMAINE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02590_germaine/4XTTM1V2LdDTDJsKQ972sAMaw1i7k2mgfBu4qkKLHGkxQcXnj-K3TgU9KUda1zKaBv2bLr7ZUwKN3nd8Zi5r2bHABPwkp8A6WYQ3JpoQJRMqQipMiHzDN91kXUJScsQet2PhMjfhMbS2NJ3pLAARcM1a8ssJzDsq1GGzYkYy3QKSMLDz5HdwCT47u5" class="myButton" style="color:white;">Déposer : 02590 	- GERMAINE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02590_germaine/4XTTM1V2LdDTDJsKQ972sAMaw1i7k2mgfBu4qkKLHGkxQcXnj" target="_blank" class="myButton" style="color:white;">Consulter : 02590 	- GERMAINE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02590_germaine/4XTTM1V2LdDTDJsKQ972sAMaw1i7k2mgfBu4qkKLHGkxQcXnj-K3TgU9KUda1zKaBv2bLr7ZUwKN3nd8Zi5r2bHABPwkp8A6WYQ3JpoQJRMqQipMiHzDN91kXUJScsQet2PhMjfhMbS2NJ3pLAARcM1a8ssJzDsq1GGzYkYy3QKSMLDz5HdwCT47u5" target="_blank" class="myButton" style="color:white;">Déposer : 02590 	- GERMAINE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf" class="myButton" style="color:white;">Consulter : 02 	- Aisne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M" class="myButton" style="color:white;">Déposer : 02 	- Aisne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf" target="_blank" class="myButton" style="color:white;">Consulter : 02 	- Aisne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/02_aisne/4XTTM5hFUFHgngNKNLmJx4D214yxbqpj2EXK5CBjZ5LZF3zAf-K3TgUfAP6D753WPagZBnpcFgyCUpnZXNhrQsKU6J8qon6wxmFCHD5kB3GMzCYyJmAGHN58p9qgKDhnEgSAuHEK3wjVXSJoUkHyn6Vb7T2aNZ2y6ez5BMkQCEQxoUkfyK9J3TXU3M" target="_blank" class="myButton" style="color:white;">Déposer : 02 	- Aisne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

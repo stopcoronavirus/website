@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/71200_le-creusot" class="myButton" style="color:white;">Canal de votre commune : 71200 	- LE CREUSOT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/71200_le-creusot" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 71200 	- LE CREUSOT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/71_saone-et-loire" class="myButton" style="color:white;">Canal de votre département : 71 	- Saône-et-Loire</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/71_saone-et-loire" target="_blank" class="myButton" style="color:white;">Canal de votre département : 71 	- Saône-et-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/71200_le-creusot/4XTTM6YtyiQ38iZjCg55TF2NpkorW4GBur7Vy2qwxmaw6GxFF" class="myButton" style="color:white;">Consulter : 71200 	- LE CREUSOT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/71200_le-creusot/4XTTM6YtyiQ38iZjCg55TF2NpkorW4GBur7Vy2qwxmaw6GxFF-K3TgTrDJQGjHbyEeQxncNQu7hUT7EkBH6peYgfzbPcm53wLcA8etrXaG361U1Za6DZR5Nwc3MVEUTDdT1zZvkktt18ThMXmuLWLik4zsD4nScwn5h6WbdKeZ2aeEk4XF7FVEY4eh" class="myButton" style="color:white;">Déposer : 71200 	- LE CREUSOT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/71200_le-creusot/4XTTM6YtyiQ38iZjCg55TF2NpkorW4GBur7Vy2qwxmaw6GxFF" target="_blank" class="myButton" style="color:white;">Consulter : 71200 	- LE CREUSOT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/71200_le-creusot/4XTTM6YtyiQ38iZjCg55TF2NpkorW4GBur7Vy2qwxmaw6GxFF-K3TgTrDJQGjHbyEeQxncNQu7hUT7EkBH6peYgfzbPcm53wLcA8etrXaG361U1Za6DZR5Nwc3MVEUTDdT1zZvkktt18ThMXmuLWLik4zsD4nScwn5h6WbdKeZ2aeEk4XF7FVEY4eh" target="_blank" class="myButton" style="color:white;">Déposer : 71200 	- LE CREUSOT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL" class="myButton" style="color:white;">Consulter : 71 	- Saône-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC" class="myButton" style="color:white;">Déposer : 71 	- Saône-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL" target="_blank" class="myButton" style="color:white;">Consulter : 71 	- Saône-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/71_saone-et-loire/4XTTMFpzneTpkHwGsu1dVxpTh9oELJU2n3f8kDRTX9GvmVpaL-K3TgUPLReTfgPxiSETFtDp9QbUMLKAewzW6GSyW1tRCEja8UNREajzrB2u2WkUGEWMoE4rVmvmozcimnXo5nKKKtXvtPwVVRgb6dM7FqDvsMftTYvpLiKxYeBNePgGihkmco7tNC" target="_blank" class="myButton" style="color:white;">Déposer : 71 	- Saône-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

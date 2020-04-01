@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/17400_st-julien-de-l-escap" class="myButton" style="color:white;">Canal de votre commune : 17400 	- ST JULIEN DE L ESCAP</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/17400_st-julien-de-l-escap" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 17400 	- ST JULIEN DE L ESCAP</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/17_charente-maritime" class="myButton" style="color:white;">Canal de votre département : 17 	- Charente-Maritime</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/17_charente-maritime" target="_blank" class="myButton" style="color:white;">Canal de votre département : 17 	- Charente-Maritime</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/17400_st-julien-de-l-escap/4XTTMHeHmzbZc94kLb2duLuQDxMq5ym8TcczZEsbhmcsjQ836" class="myButton" style="color:white;">Consulter : 17400 	- ST JULIEN DE L ESCAP</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/17400_st-julien-de-l-escap/4XTTMHeHmzbZc94kLb2duLuQDxMq5ym8TcczZEsbhmcsjQ836-K3TgTq48nFT4VhtPoijRSeHtBRocqYyZxDHe5HfUtfguXVZPTWFM631rkM1Fd8vbU3n2HfRkWkjLrAHbCmH3LWZ6DyqmZ4KEAiAhC7Bj3zTi3t89Ytu6L3ypi77Wxfb1uJ89fZAL" class="myButton" style="color:white;">Déposer : 17400 	- ST JULIEN DE L ESCAP</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/17400_st-julien-de-l-escap/4XTTMHeHmzbZc94kLb2duLuQDxMq5ym8TcczZEsbhmcsjQ836" target="_blank" class="myButton" style="color:white;">Consulter : 17400 	- ST JULIEN DE L ESCAP</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/17400_st-julien-de-l-escap/4XTTMHeHmzbZc94kLb2duLuQDxMq5ym8TcczZEsbhmcsjQ836-K3TgTq48nFT4VhtPoijRSeHtBRocqYyZxDHe5HfUtfguXVZPTWFM631rkM1Fd8vbU3n2HfRkWkjLrAHbCmH3LWZ6DyqmZ4KEAiAhC7Bj3zTi3t89Ytu6L3ypi77Wxfb1uJ89fZAL" target="_blank" class="myButton" style="color:white;">Déposer : 17400 	- ST JULIEN DE L ESCAP</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x" class="myButton" style="color:white;">Consulter : 17 	- Charente-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S" class="myButton" style="color:white;">Déposer : 17 	- Charente-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x" target="_blank" class="myButton" style="color:white;">Consulter : 17 	- Charente-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/17_charente-maritime/4XTTMAHJ2mzntotVpGPYjBmWjA2nraF9iK7f6NDCcXvirM61x-K3TgUwtAPDwMxHU88E8VuLmm69aSd9fMravaXpP1NyEYEfKArtCAVbR5aybTui2kV5QTFnaQz2zH2Sn6oRPjKceruacp9QeUFqnECdnXZ9dv7DZJwVRD38Msh2rY2txdMbNiqS4S" target="_blank" class="myButton" style="color:white;">Déposer : 17 	- Charente-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

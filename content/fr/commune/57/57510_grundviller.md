@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/57510_grundviller" class="myButton" style="color:white;">Canal de votre commune : 57510 	- GRUNDVILLER</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/57510_grundviller" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 57510 	- GRUNDVILLER</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/57_moselle" class="myButton" style="color:white;">Canal de votre département : 57 	- Moselle</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/57_moselle" target="_blank" class="myButton" style="color:white;">Canal de votre département : 57 	- Moselle</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57510_grundviller/4XTTM3Z1o5ntXXsMBK3uaStEM7PYsy3tzhNho2SumLDmWByNd" class="myButton" style="color:white;">Consulter : 57510 	- GRUNDVILLER</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57510_grundviller/4XTTM3Z1o5ntXXsMBK3uaStEM7PYsy3tzhNho2SumLDmWByNd-K3TgUFmBJSqpdYSnDh31HNn1FByEj5v87NyW4BaYEwDdyKjzRLo1J4eVapxvGKG8ApD7pyPBb4ym4Qbhcp5e7zVWd5RTtcMdXrrXp893d6BJKzYg6nEVhgGsxSBMN2EDqe51bk5b" class="myButton" style="color:white;">Déposer : 57510 	- GRUNDVILLER</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57510_grundviller/4XTTM3Z1o5ntXXsMBK3uaStEM7PYsy3tzhNho2SumLDmWByNd" target="_blank" class="myButton" style="color:white;">Consulter : 57510 	- GRUNDVILLER</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57510_grundviller/4XTTM3Z1o5ntXXsMBK3uaStEM7PYsy3tzhNho2SumLDmWByNd-K3TgUFmBJSqpdYSnDh31HNn1FByEj5v87NyW4BaYEwDdyKjzRLo1J4eVapxvGKG8ApD7pyPBb4ym4Qbhcp5e7zVWd5RTtcMdXrrXp893d6BJKzYg6nEVhgGsxSBMN2EDqe51bk5b" target="_blank" class="myButton" style="color:white;">Déposer : 57510 	- GRUNDVILLER</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj" class="myButton" style="color:white;">Consulter : 57 	- Moselle</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR" class="myButton" style="color:white;">Déposer : 57 	- Moselle</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj" target="_blank" class="myButton" style="color:white;">Consulter : 57 	- Moselle</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR" target="_blank" class="myButton" style="color:white;">Déposer : 57 	- Moselle</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/76110_annouville-vilmesnil" class="myButton" style="color:white;">Canal de votre commune : 76110 	- ANNOUVILLE VILMESNIL</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76110_annouville-vilmesnil" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 76110 	- ANNOUVILLE VILMESNIL</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime" class="myButton" style="color:white;">Canal de votre département : 76 	- Seine-Maritime</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime" target="_blank" class="myButton" style="color:white;">Canal de votre département : 76 	- Seine-Maritime</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76110_annouville-vilmesnil/4XTTMBR9N22EYcigM5S4Kxg3eN11KEgToBWsLuW43bkSTQUap" class="myButton" style="color:white;">Consulter : 76110 	- ANNOUVILLE VILMESNIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76110_annouville-vilmesnil/4XTTMBR9N22EYcigM5S4Kxg3eN11KEgToBWsLuW43bkSTQUap-K3TgTsXtKWW6ei9mSfYB8p57CSbCdTewEfPGzXnKziR2VwNY4RVVDq9QcFiRPGY2tKeAZX6GNvFPuVVE2H2uVQzGAtdq1UubQr3t3WLukV2r5By99KjFnrNKG81iyaAs5HXLMZsi" class="myButton" style="color:white;">Déposer : 76110 	- ANNOUVILLE VILMESNIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76110_annouville-vilmesnil/4XTTMBR9N22EYcigM5S4Kxg3eN11KEgToBWsLuW43bkSTQUap" target="_blank" class="myButton" style="color:white;">Consulter : 76110 	- ANNOUVILLE VILMESNIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76110_annouville-vilmesnil/4XTTMBR9N22EYcigM5S4Kxg3eN11KEgToBWsLuW43bkSTQUap-K3TgTsXtKWW6ei9mSfYB8p57CSbCdTewEfPGzXnKziR2VwNY4RVVDq9QcFiRPGY2tKeAZX6GNvFPuVVE2H2uVQzGAtdq1UubQr3t3WLukV2r5By99KjFnrNKG81iyaAs5HXLMZsi" target="_blank" class="myButton" style="color:white;">Déposer : 76110 	- ANNOUVILLE VILMESNIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt" class="myButton" style="color:white;">Consulter : 76 	- Seine-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r" class="myButton" style="color:white;">Déposer : 76 	- Seine-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt" target="_blank" class="myButton" style="color:white;">Consulter : 76 	- Seine-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r" target="_blank" class="myButton" style="color:white;">Déposer : 76 	- Seine-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

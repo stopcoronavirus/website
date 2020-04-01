@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/74150_vallieres-sur-fier" class="myButton" style="color:white;">Canal de votre commune : 74150 	- VALLIERES SUR FIER</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/74150_vallieres-sur-fier" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 74150 	- VALLIERES SUR FIER</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/74_haute-savoie" class="myButton" style="color:white;">Canal de votre département : 74 	- Haute-Savoie</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/74_haute-savoie" target="_blank" class="myButton" style="color:white;">Canal de votre département : 74 	- Haute-Savoie</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74150_vallieres-sur-fier/4XTTM7n7LNv3XWhUWbHqqXEs9vwGDbG5DDxR4VdSzrj42Hg4K" class="myButton" style="color:white;">Consulter : 74150 	- VALLIERES SUR FIER</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74150_vallieres-sur-fier/4XTTM7n7LNv3XWhUWbHqqXEs9vwGDbG5DDxR4VdSzrj42Hg4K-K3TgUmB5arShQGJxZCu6y8HMVitTUEyrKNBqDK2Ez7PurN8tqknfmEuKoPvHqoE3wQUNJoLWFXwgE3TpPGSs7niHXZ6jHQ1BfP5tW1WHXSAJnEZEFjhdMtqiKTcdZ3M9So2AscyH" class="myButton" style="color:white;">Déposer : 74150 	- VALLIERES SUR FIER</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74150_vallieres-sur-fier/4XTTM7n7LNv3XWhUWbHqqXEs9vwGDbG5DDxR4VdSzrj42Hg4K" target="_blank" class="myButton" style="color:white;">Consulter : 74150 	- VALLIERES SUR FIER</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74150_vallieres-sur-fier/4XTTM7n7LNv3XWhUWbHqqXEs9vwGDbG5DDxR4VdSzrj42Hg4K-K3TgUmB5arShQGJxZCu6y8HMVitTUEyrKNBqDK2Ez7PurN8tqknfmEuKoPvHqoE3wQUNJoLWFXwgE3TpPGSs7niHXZ6jHQ1BfP5tW1WHXSAJnEZEFjhdMtqiKTcdZ3M9So2AscyH" target="_blank" class="myButton" style="color:white;">Déposer : 74150 	- VALLIERES SUR FIER</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1" class="myButton" style="color:white;">Consulter : 74 	- Haute-Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1" class="myButton" style="color:white;">Déposer : 74 	- Haute-Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1" target="_blank" class="myButton" style="color:white;">Consulter : 74 	- Haute-Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1" target="_blank" class="myButton" style="color:white;">Déposer : 74 	- Haute-Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

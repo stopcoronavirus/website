@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/65170_vielle-aure" class="myButton" style="color:white;">Canal de votre commune : 65170 	- VIELLE AURE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65170_vielle-aure" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 65170 	- VIELLE AURE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees" class="myButton" style="color:white;">Canal de votre département : 65 	- Hautes-Pyrénées</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees" target="_blank" class="myButton" style="color:white;">Canal de votre département : 65 	- Hautes-Pyrénées</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65170_vielle-aure/4XTTM2UkzergcAewdXV5KivTSbPYqzJm2HLKfSHvyJqo85fS7" class="myButton" style="color:white;">Consulter : 65170 	- VIELLE AURE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65170_vielle-aure/4XTTM2UkzergcAewdXV5KivTSbPYqzJm2HLKfSHvyJqo85fS7-K3TgUnhbetLwjQtBKmPstScEKPXC9ncqjVJbZ6d5QjPeiQrvPYcexAoKNDQh2U6SeCF667uXrRdQ5eMC9pmDF3jsKWke6Tto9xh7dYTY7wfWcvi3p9ubQ4T43Pu2V66nBezuzVBV" class="myButton" style="color:white;">Déposer : 65170 	- VIELLE AURE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65170_vielle-aure/4XTTM2UkzergcAewdXV5KivTSbPYqzJm2HLKfSHvyJqo85fS7" target="_blank" class="myButton" style="color:white;">Consulter : 65170 	- VIELLE AURE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65170_vielle-aure/4XTTM2UkzergcAewdXV5KivTSbPYqzJm2HLKfSHvyJqo85fS7-K3TgUnhbetLwjQtBKmPstScEKPXC9ncqjVJbZ6d5QjPeiQrvPYcexAoKNDQh2U6SeCF667uXrRdQ5eMC9pmDF3jsKWke6Tto9xh7dYTY7wfWcvi3p9ubQ4T43Pu2V66nBezuzVBV" target="_blank" class="myButton" style="color:white;">Déposer : 65170 	- VIELLE AURE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB" class="myButton" style="color:white;">Consulter : 65 	- Hautes-Pyrénées</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj" class="myButton" style="color:white;">Déposer : 65 	- Hautes-Pyrénées</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB" target="_blank" class="myButton" style="color:white;">Consulter : 65 	- Hautes-Pyrénées</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj" target="_blank" class="myButton" style="color:white;">Déposer : 65 	- Hautes-Pyrénées</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

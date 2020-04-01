@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/20110_belvedere-campomoro" class="myButton" style="color:white;">Canal de votre commune : 20110 	- BELVEDERE CAMPOMORO</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/20110_belvedere-campomoro" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 20110 	- BELVEDERE CAMPOMORO</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/2A_corse-du-sud" class="myButton" style="color:white;">Canal de votre département : 2A 	- Corse-du-Sud</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/2A_corse-du-sud" target="_blank" class="myButton" style="color:white;">Canal de votre département : 2A 	- Corse-du-Sud</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/20110_belvedere-campomoro/4XTTM4EZMNFEC5fSE1PQUSbCDs16u4JAFvy7wYSzShj3Rag73" class="myButton" style="color:white;">Consulter : 20110 	- BELVEDERE CAMPOMORO</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/20110_belvedere-campomoro/4XTTM4EZMNFEC5fSE1PQUSbCDs16u4JAFvy7wYSzShj3Rag73-K3TgUsUMbJNPZ2aP9QLZ7jP5omZapV2yh7Fu25nDMtSX2sn1wmykmFj9PketvpFM9PJwaLKptjkeR8kLwmCDneuVz1CAmuJM79TGZ8Q37ctEVN51a4aGNnMzZgKiddnguq9ALHBw" class="myButton" style="color:white;">Déposer : 20110 	- BELVEDERE CAMPOMORO</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/20110_belvedere-campomoro/4XTTM4EZMNFEC5fSE1PQUSbCDs16u4JAFvy7wYSzShj3Rag73" target="_blank" class="myButton" style="color:white;">Consulter : 20110 	- BELVEDERE CAMPOMORO</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/20110_belvedere-campomoro/4XTTM4EZMNFEC5fSE1PQUSbCDs16u4JAFvy7wYSzShj3Rag73-K3TgUsUMbJNPZ2aP9QLZ7jP5omZapV2yh7Fu25nDMtSX2sn1wmykmFj9PketvpFM9PJwaLKptjkeR8kLwmCDneuVz1CAmuJM79TGZ8Q37ctEVN51a4aGNnMzZgKiddnguq9ALHBw" target="_blank" class="myButton" style="color:white;">Déposer : 20110 	- BELVEDERE CAMPOMORO</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3" class="myButton" style="color:white;">Consulter : 2A 	- Corse-du-Sud</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP" class="myButton" style="color:white;">Déposer : 2A 	- Corse-du-Sud</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3" target="_blank" class="myButton" style="color:white;">Consulter : 2A 	- Corse-du-Sud</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/2A_corse-du-sud/4XTTM9Dr85yxXoSNMPLqqeVXsy1pqWqGhUHPXUG36pnJXueq3-K3TgV6cwSCfdXeaSy4VoQ9mhukqFKAJyVaitv9jTNsj1pAHEbSJRbPtJU65omPMwDpQzw4VNGvYCrpcZouPFuXTeEqCwYFSrDaj1yCqi14YAr5qN74AKEwUrAv64AinUWqfozRmP" target="_blank" class="myButton" style="color:white;">Déposer : 2A 	- Corse-du-Sud</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

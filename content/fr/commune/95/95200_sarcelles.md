@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/95200_sarcelles" class="myButton" style="color:white;">Canal de votre commune : 95200 	- SARCELLES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/95200_sarcelles" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 95200 	- SARCELLES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/95_val-doise" class="myButton" style="color:white;">Canal de votre département : 95 	- Val-d'Oise</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/95_val-doise" target="_blank" class="myButton" style="color:white;">Canal de votre département : 95 	- Val-d'Oise</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/95200_sarcelles/4XTTM5KVGfsdGyE9yEFqjeiX8U7wUuC3DMQQCk4bjsjH1a5N1" class="myButton" style="color:white;">Consulter : 95200 	- SARCELLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/95200_sarcelles/4XTTM5KVGfsdGyE9yEFqjeiX8U7wUuC3DMQQCk4bjsjH1a5N1-K3TgUkaAWsu2RpbWXJrijwLySrndrGEXggt9NTbfnnKbFuQsnivfFtWgkLsUBSnvNDGu4iQdu7jmT6vjQMyUKXTJnZt4qvV4vHZPViJh9uow8Vz9FjteNnYHruE7rWC2xBtnRuFF" class="myButton" style="color:white;">Déposer : 95200 	- SARCELLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/95200_sarcelles/4XTTM5KVGfsdGyE9yEFqjeiX8U7wUuC3DMQQCk4bjsjH1a5N1" target="_blank" class="myButton" style="color:white;">Consulter : 95200 	- SARCELLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/95200_sarcelles/4XTTM5KVGfsdGyE9yEFqjeiX8U7wUuC3DMQQCk4bjsjH1a5N1-K3TgUkaAWsu2RpbWXJrijwLySrndrGEXggt9NTbfnnKbFuQsnivfFtWgkLsUBSnvNDGu4iQdu7jmT6vjQMyUKXTJnZt4qvV4vHZPViJh9uow8Vz9FjteNnYHruE7rWC2xBtnRuFF" target="_blank" class="myButton" style="color:white;">Déposer : 95200 	- SARCELLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH" class="myButton" style="color:white;">Consulter : 95 	- Val-d'Oise</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud" class="myButton" style="color:white;">Déposer : 95 	- Val-d'Oise</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH" target="_blank" class="myButton" style="color:white;">Consulter : 95 	- Val-d'Oise</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/95_val-doise/4XTTMHcMafNLnorLnk6AychyiDZfi2w1RWMB6rPHcmdneq8DH-K3TgU5qFXtqM3T9Bi3FCArcfTe5qiUbUNMaFRTkC7uvm67LapgbTeFPcUU5DACQ41mXa2KAYAcNpbAYimeg2kCCdprQEUVtC7GbqMzGfKMe6gdaksGH3cpWmNWjumewWQVawoPud" target="_blank" class="myButton" style="color:white;">Déposer : 95 	- Val-d'Oise</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

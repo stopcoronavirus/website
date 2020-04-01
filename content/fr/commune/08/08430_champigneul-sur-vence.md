@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/08430_champigneul-sur-vence" class="myButton" style="color:white;">Canal de votre commune : 08430 	- CHAMPIGNEUL SUR VENCE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/08430_champigneul-sur-vence" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 08430 	- CHAMPIGNEUL SUR VENCE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/08_ardennes" class="myButton" style="color:white;">Canal de votre département : 08 	- Ardennes</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/08_ardennes" target="_blank" class="myButton" style="color:white;">Canal de votre département : 08 	- Ardennes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08430_champigneul-sur-vence/4XTTMEpgB6a4S9fmp9kiBXs7RSy3N2cYLvSNaMMooLr1VgfRi" class="myButton" style="color:white;">Consulter : 08430 	- CHAMPIGNEUL SUR VENCE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08430_champigneul-sur-vence/4XTTMEpgB6a4S9fmp9kiBXs7RSy3N2cYLvSNaMMooLr1VgfRi-K3TgUJsXYVmz8MFrbz7cW4pV4d2JV5H8TxDQ3EChS5KNUeUN4dnQBTthkvJoSXhNA3WBLb4EsPL8x46D4cTzDrzBpERK6VkdK8nYvx5AVT8PTHESUuVFgkGn6a2MwDgDiVCZ1ULG" class="myButton" style="color:white;">Déposer : 08430 	- CHAMPIGNEUL SUR VENCE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08430_champigneul-sur-vence/4XTTMEpgB6a4S9fmp9kiBXs7RSy3N2cYLvSNaMMooLr1VgfRi" target="_blank" class="myButton" style="color:white;">Consulter : 08430 	- CHAMPIGNEUL SUR VENCE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08430_champigneul-sur-vence/4XTTMEpgB6a4S9fmp9kiBXs7RSy3N2cYLvSNaMMooLr1VgfRi-K3TgUJsXYVmz8MFrbz7cW4pV4d2JV5H8TxDQ3EChS5KNUeUN4dnQBTthkvJoSXhNA3WBLb4EsPL8x46D4cTzDrzBpERK6VkdK8nYvx5AVT8PTHESUuVFgkGn6a2MwDgDiVCZ1ULG" target="_blank" class="myButton" style="color:white;">Déposer : 08430 	- CHAMPIGNEUL SUR VENCE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM" class="myButton" style="color:white;">Consulter : 08 	- Ardennes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP" class="myButton" style="color:white;">Déposer : 08 	- Ardennes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM" target="_blank" class="myButton" style="color:white;">Consulter : 08 	- Ardennes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP" target="_blank" class="myButton" style="color:white;">Déposer : 08 	- Ardennes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

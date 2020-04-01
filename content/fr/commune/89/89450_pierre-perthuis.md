@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/89450_pierre-perthuis" class="myButton" style="color:white;">Canal de votre commune : 89450 	- PIERRE PERTHUIS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/89450_pierre-perthuis" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 89450 	- PIERRE PERTHUIS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/89_yonne" class="myButton" style="color:white;">Canal de votre département : 89 	- Yonne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/89_yonne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 89 	- Yonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89450_pierre-perthuis/4XTTM4MHMDUCpDFf8k9Uv6hEKNzz8szAAcZSQ2KBrQimLqaET" class="myButton" style="color:white;">Consulter : 89450 	- PIERRE PERTHUIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89450_pierre-perthuis/4XTTM4MHMDUCpDFf8k9Uv6hEKNzz8szAAcZSQ2KBrQimLqaET-K3TgTxwfvnusnTmaK7H7YyPJ9vb4T538ex4Gs5D1RGaEafgYCxJBmPwhJ7UkBpPGe79wbYef153DqneStUgGReMAUcACavnaSmgicD6ntuW3v1mrucyjMpZWkaTNeMbbeNzehDP5" class="myButton" style="color:white;">Déposer : 89450 	- PIERRE PERTHUIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89450_pierre-perthuis/4XTTM4MHMDUCpDFf8k9Uv6hEKNzz8szAAcZSQ2KBrQimLqaET" target="_blank" class="myButton" style="color:white;">Consulter : 89450 	- PIERRE PERTHUIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89450_pierre-perthuis/4XTTM4MHMDUCpDFf8k9Uv6hEKNzz8szAAcZSQ2KBrQimLqaET-K3TgTxwfvnusnTmaK7H7YyPJ9vb4T538ex4Gs5D1RGaEafgYCxJBmPwhJ7UkBpPGe79wbYef153DqneStUgGReMAUcACavnaSmgicD6ntuW3v1mrucyjMpZWkaTNeMbbeNzehDP5" target="_blank" class="myButton" style="color:white;">Déposer : 89450 	- PIERRE PERTHUIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB" class="myButton" style="color:white;">Consulter : 89 	- Yonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7" class="myButton" style="color:white;">Déposer : 89 	- Yonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB" target="_blank" class="myButton" style="color:white;">Consulter : 89 	- Yonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7" target="_blank" class="myButton" style="color:white;">Déposer : 89 	- Yonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

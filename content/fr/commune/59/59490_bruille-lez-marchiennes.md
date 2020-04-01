@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/59490_bruille-lez-marchiennes" class="myButton" style="color:white;">Canal de votre commune : 59490 	- BRUILLE LEZ MARCHIENNES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/59490_bruille-lez-marchiennes" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 59490 	- BRUILLE LEZ MARCHIENNES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/59_nord" class="myButton" style="color:white;">Canal de votre département : 59 	- Nord</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/59_nord" target="_blank" class="myButton" style="color:white;">Canal de votre département : 59 	- Nord</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/59490_bruille-lez-marchiennes/4XTTM1yCkZSJYsU58JevtSkxz5SeU1dscVwib3NmDZQ1ZPeHA" class="myButton" style="color:white;">Consulter : 59490 	- BRUILLE LEZ MARCHIENNES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/59490_bruille-lez-marchiennes/4XTTM1yCkZSJYsU58JevtSkxz5SeU1dscVwib3NmDZQ1ZPeHA-K3TgTeoP2BEki63BvkHBnziP8a8KgYYUjN3AeyKV3hhLwoK5qDd5mHStA5wMLojHJYnJhcSG9Qvjmk34LxBHGFdRzpetC62u3vj4qmGFmnzYa4ZJyEX3itcva1W1Kwt2nBQx2eNY" class="myButton" style="color:white;">Déposer : 59490 	- BRUILLE LEZ MARCHIENNES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/59490_bruille-lez-marchiennes/4XTTM1yCkZSJYsU58JevtSkxz5SeU1dscVwib3NmDZQ1ZPeHA" target="_blank" class="myButton" style="color:white;">Consulter : 59490 	- BRUILLE LEZ MARCHIENNES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/59490_bruille-lez-marchiennes/4XTTM1yCkZSJYsU58JevtSkxz5SeU1dscVwib3NmDZQ1ZPeHA-K3TgTeoP2BEki63BvkHBnziP8a8KgYYUjN3AeyKV3hhLwoK5qDd5mHStA5wMLojHJYnJhcSG9Qvjmk34LxBHGFdRzpetC62u3vj4qmGFmnzYa4ZJyEX3itcva1W1Kwt2nBQx2eNY" target="_blank" class="myButton" style="color:white;">Déposer : 59490 	- BRUILLE LEZ MARCHIENNES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ" class="myButton" style="color:white;">Consulter : 59 	- Nord</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ" class="myButton" style="color:white;">Déposer : 59 	- Nord</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ" target="_blank" class="myButton" style="color:white;">Consulter : 59 	- Nord</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/59_nord/4XTTM3t39qn3wJ5h23Xy7DcxsGHU2vCoMP2z3iS4TUn3TrtdJ-K3TgTuZGkuZqXfr6fpmH7pGsMT6ndvZQMyRDze5QBt7XScLWHoBi246kLoDKpTH2Yo4f3AFSSJqGc2ozvNww7qPLqsDjpvahxCbQ6F5znbfjp6kVgaDcTYc9LyhwSfYuCevnvZUQ" target="_blank" class="myButton" style="color:white;">Déposer : 59 	- Nord</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

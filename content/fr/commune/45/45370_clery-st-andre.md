@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/45370_clery-st-andre" class="myButton" style="color:white;">Canal de votre commune : 45370 	- CLERY ST ANDRE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/45370_clery-st-andre" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 45370 	- CLERY ST ANDRE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/45_loiret" class="myButton" style="color:white;">Canal de votre département : 45 	- Loiret</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/45_loiret" target="_blank" class="myButton" style="color:white;">Canal de votre département : 45 	- Loiret</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45370_clery-st-andre/4XTTM1mBoEvmcZaWqPMmcSNCLY1heTeB3behVfv2Sv39V1G8Q" class="myButton" style="color:white;">Consulter : 45370 	- CLERY ST ANDRE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45370_clery-st-andre/4XTTM1mBoEvmcZaWqPMmcSNCLY1heTeB3behVfv2Sv39V1G8Q-K3TgTvAhMnuycEAdiGpMu5sY2oDp8Lw8qEBf9pSVdcPVx5hVagqmN68PufM34Ztu4C5MWA5rtzPF1LyofpZMBYRXGyMsT22uFi11bjshRv5ZqtrE4wg78x2C49tApdAJigtCT2ec" class="myButton" style="color:white;">Déposer : 45370 	- CLERY ST ANDRE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45370_clery-st-andre/4XTTM1mBoEvmcZaWqPMmcSNCLY1heTeB3behVfv2Sv39V1G8Q" target="_blank" class="myButton" style="color:white;">Consulter : 45370 	- CLERY ST ANDRE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45370_clery-st-andre/4XTTM1mBoEvmcZaWqPMmcSNCLY1heTeB3behVfv2Sv39V1G8Q-K3TgTvAhMnuycEAdiGpMu5sY2oDp8Lw8qEBf9pSVdcPVx5hVagqmN68PufM34Ztu4C5MWA5rtzPF1LyofpZMBYRXGyMsT22uFi11bjshRv5ZqtrE4wg78x2C49tApdAJigtCT2ec" target="_blank" class="myButton" style="color:white;">Déposer : 45370 	- CLERY ST ANDRE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4" class="myButton" style="color:white;">Consulter : 45 	- Loiret</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ" class="myButton" style="color:white;">Déposer : 45 	- Loiret</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4" target="_blank" class="myButton" style="color:white;">Consulter : 45 	- Loiret</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ" target="_blank" class="myButton" style="color:white;">Déposer : 45 	- Loiret</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

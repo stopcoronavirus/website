@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/72500_montval-sur-loir" class="myButton" style="color:white;">Canal de votre commune : 72500 	- MONTVAL SUR LOIR</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72500_montval-sur-loir" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 72500 	- MONTVAL SUR LOIR</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/72_sarthe" class="myButton" style="color:white;">Canal de votre département : 72 	- Sarthe</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72_sarthe" target="_blank" class="myButton" style="color:white;">Canal de votre département : 72 	- Sarthe</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72500_montval-sur-loir/4XTTMAdz2rXEts3aR96fVVNMnsgXpjp78LgKBmpwq1EF4XeVD" class="myButton" style="color:white;">Consulter : 72500 	- MONTVAL SUR LOIR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72500_montval-sur-loir/4XTTMAdz2rXEts3aR96fVVNMnsgXpjp78LgKBmpwq1EF4XeVD-K3TgUG853W7Msqq8Th5Xb6aGpbLaUVPCvCRtHSd2ELpCfHQ4tur76QzqNeqh9CWurXyrixAsrabt8z9zXeohysR4qARzrGKmAmBA49A4xKz1fkpD5fGBFmHyghdsdy56iL44cqc3" class="myButton" style="color:white;">Déposer : 72500 	- MONTVAL SUR LOIR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72500_montval-sur-loir/4XTTMAdz2rXEts3aR96fVVNMnsgXpjp78LgKBmpwq1EF4XeVD" target="_blank" class="myButton" style="color:white;">Consulter : 72500 	- MONTVAL SUR LOIR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72500_montval-sur-loir/4XTTMAdz2rXEts3aR96fVVNMnsgXpjp78LgKBmpwq1EF4XeVD-K3TgUG853W7Msqq8Th5Xb6aGpbLaUVPCvCRtHSd2ELpCfHQ4tur76QzqNeqh9CWurXyrixAsrabt8z9zXeohysR4qARzrGKmAmBA49A4xKz1fkpD5fGBFmHyghdsdy56iL44cqc3" target="_blank" class="myButton" style="color:white;">Déposer : 72500 	- MONTVAL SUR LOIR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5" class="myButton" style="color:white;">Consulter : 72 	- Sarthe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh" class="myButton" style="color:white;">Déposer : 72 	- Sarthe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5" target="_blank" class="myButton" style="color:white;">Consulter : 72 	- Sarthe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh" target="_blank" class="myButton" style="color:white;">Déposer : 72 	- Sarthe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

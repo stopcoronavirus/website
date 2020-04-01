@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/39230_toulouse-le-chateau" class="myButton" style="color:white;">Canal de votre commune : 39230 	- TOULOUSE LE CHATEAU</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/39230_toulouse-le-chateau" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 39230 	- TOULOUSE LE CHATEAU</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/39_jura" class="myButton" style="color:white;">Canal de votre département : 39 	- Jura</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/39_jura" target="_blank" class="myButton" style="color:white;">Canal de votre département : 39 	- Jura</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39230_toulouse-le-chateau/4XTTM1LoXgM6gAVwp8FoL5Hhw8v4vqfWdtDzyuKrQqGod3aXL" class="myButton" style="color:white;">Consulter : 39230 	- TOULOUSE LE CHATEAU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39230_toulouse-le-chateau/4XTTM1LoXgM6gAVwp8FoL5Hhw8v4vqfWdtDzyuKrQqGod3aXL-K3TgTcTGYTgZmDTtHHxk7oppyKxf7AYcv2cwXZjYd4tck2gHuFDFYu6hHQysELHwHsMdWwVPWcpsNQYKTfLAPA1Mz72NrfRPknW48gwjQLwdncrn9MecruvoG6XRhXGhCgjV8VUn" class="myButton" style="color:white;">Déposer : 39230 	- TOULOUSE LE CHATEAU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39230_toulouse-le-chateau/4XTTM1LoXgM6gAVwp8FoL5Hhw8v4vqfWdtDzyuKrQqGod3aXL" target="_blank" class="myButton" style="color:white;">Consulter : 39230 	- TOULOUSE LE CHATEAU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39230_toulouse-le-chateau/4XTTM1LoXgM6gAVwp8FoL5Hhw8v4vqfWdtDzyuKrQqGod3aXL-K3TgTcTGYTgZmDTtHHxk7oppyKxf7AYcv2cwXZjYd4tck2gHuFDFYu6hHQysELHwHsMdWwVPWcpsNQYKTfLAPA1Mz72NrfRPknW48gwjQLwdncrn9MecruvoG6XRhXGhCgjV8VUn" target="_blank" class="myButton" style="color:white;">Déposer : 39230 	- TOULOUSE LE CHATEAU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7" class="myButton" style="color:white;">Consulter : 39 	- Jura</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1" class="myButton" style="color:white;">Déposer : 39 	- Jura</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7" target="_blank" class="myButton" style="color:white;">Consulter : 39 	- Jura</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1" target="_blank" class="myButton" style="color:white;">Déposer : 39 	- Jura</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

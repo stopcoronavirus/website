@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/56420_billio" class="myButton" style="color:white;">Canal de votre commune : 56420 	- BILLIO</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/56420_billio" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 56420 	- BILLIO</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/56_morbihan" class="myButton" style="color:white;">Canal de votre département : 56 	- Morbihan</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/56_morbihan" target="_blank" class="myButton" style="color:white;">Canal de votre département : 56 	- Morbihan</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/56420_billio/4XTTM4YeDTaQaciAkyX64L1NzwAVaqdZtpvFxzD2uo5fHBmpE" class="myButton" style="color:white;">Consulter : 56420 	- BILLIO</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/56420_billio/4XTTM4YeDTaQaciAkyX64L1NzwAVaqdZtpvFxzD2uo5fHBmpE-K3TgTqPsFJz5J2wfwSf4QfK78wPiAg5c99BHZeNNXAApCABRtDbgyCyQJYcFvGfjUVKxCPrnYuewBK6yhFnPDL73hpM11KG3qDevtbvz1r5Cni1h7ja8NCWBhuhTMQh6i2Sq2fdk" class="myButton" style="color:white;">Déposer : 56420 	- BILLIO</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/56420_billio/4XTTM4YeDTaQaciAkyX64L1NzwAVaqdZtpvFxzD2uo5fHBmpE" target="_blank" class="myButton" style="color:white;">Consulter : 56420 	- BILLIO</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/56420_billio/4XTTM4YeDTaQaciAkyX64L1NzwAVaqdZtpvFxzD2uo5fHBmpE-K3TgTqPsFJz5J2wfwSf4QfK78wPiAg5c99BHZeNNXAApCABRtDbgyCyQJYcFvGfjUVKxCPrnYuewBK6yhFnPDL73hpM11KG3qDevtbvz1r5Cni1h7ja8NCWBhuhTMQh6i2Sq2fdk" target="_blank" class="myButton" style="color:white;">Déposer : 56420 	- BILLIO</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U" class="myButton" style="color:white;">Consulter : 56 	- Morbihan</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES" class="myButton" style="color:white;">Déposer : 56 	- Morbihan</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U" target="_blank" class="myButton" style="color:white;">Consulter : 56 	- Morbihan</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/56_morbihan/4XTTMBhPi6SF1jGwmjy3XBA4sK6EbYDun44EYwF3irZ7aBa5U-K3TgV3HyhWtqSpmJ2GGLPRtHigVTcxkFRVLMX5R66UyRAN55PNUQgmTNwaDuJmWps9EVWQzncDySYbA7Pg7qEdRXsayrZysPHK4HeKM3FG1U8vQvyUvaDoFo4L4Z8coFC71q4zES" target="_blank" class="myButton" style="color:white;">Déposer : 56 	- Morbihan</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/76400_ste-helene-bondeville" class="myButton" style="color:white;">Canal de votre commune : 76400 	- STE HELENE BONDEVILLE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76400_ste-helene-bondeville" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 76400 	- STE HELENE BONDEVILLE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime" class="myButton" style="color:white;">Canal de votre département : 76 	- Seine-Maritime</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/76_seine-maritime" target="_blank" class="myButton" style="color:white;">Canal de votre département : 76 	- Seine-Maritime</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76400_ste-helene-bondeville/4XTTM5oMJdB8vfz2ao6ta7FJAn97Y8cGiiPuJ4CPxf4rhVjEM" class="myButton" style="color:white;">Consulter : 76400 	- STE HELENE BONDEVILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76400_ste-helene-bondeville/4XTTM5oMJdB8vfz2ao6ta7FJAn97Y8cGiiPuJ4CPxf4rhVjEM-K3TgUik8ctnbJgd5mUSYvQ9abubY5dAc851Wtu9QTUb1a97NnjTsGxsrPVQwBDy8Nbk2AfNSarTu7Cg6DbqosDECobj5Xrq6z56YEEMQVfxnHzFfEjzQUJ7NFrvyfyLrJ5RLDtww" class="myButton" style="color:white;">Déposer : 76400 	- STE HELENE BONDEVILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76400_ste-helene-bondeville/4XTTM5oMJdB8vfz2ao6ta7FJAn97Y8cGiiPuJ4CPxf4rhVjEM" target="_blank" class="myButton" style="color:white;">Consulter : 76400 	- STE HELENE BONDEVILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76400_ste-helene-bondeville/4XTTM5oMJdB8vfz2ao6ta7FJAn97Y8cGiiPuJ4CPxf4rhVjEM-K3TgUik8ctnbJgd5mUSYvQ9abubY5dAc851Wtu9QTUb1a97NnjTsGxsrPVQwBDy8Nbk2AfNSarTu7Cg6DbqosDECobj5Xrq6z56YEEMQVfxnHzFfEjzQUJ7NFrvyfyLrJ5RLDtww" target="_blank" class="myButton" style="color:white;">Déposer : 76400 	- STE HELENE BONDEVILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt" class="myButton" style="color:white;">Consulter : 76 	- Seine-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r" class="myButton" style="color:white;">Déposer : 76 	- Seine-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt" target="_blank" class="myButton" style="color:white;">Consulter : 76 	- Seine-Maritime</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/76_seine-maritime/4XTTM7PDPtM4CVQoDyyVqT6Pbvj1SVtndpXJdTDsc7xwdMTdt-K3TgUmo7Qwp8ZQz8qKFjC8WCY27ypEpX2c8BXeSV9rrPY1zRZn2SrYwkBXF8VnHkcepiXsccFfKHYuT2JNgSMXxLRaUGRu6o5B3BB15nZxEho97cTz3yC4eRTX4hZM1hcyAZrn8r" target="_blank" class="myButton" style="color:white;">Déposer : 76 	- Seine-Maritime</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

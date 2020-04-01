@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/03500_bransat" class="myButton" style="color:white;">Canal de votre commune : 03500 	- BRANSAT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03500_bransat" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 03500 	- BRANSAT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/03_allier" class="myButton" style="color:white;">Canal de votre département : 03 	- Allier</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03_allier" target="_blank" class="myButton" style="color:white;">Canal de votre département : 03 	- Allier</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03500_bransat/4XTTM6ps2G18qHc41TjS73uPK9eRwaEPY4Uj4Ra7jR4aRV5vE" class="myButton" style="color:white;">Consulter : 03500 	- BRANSAT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03500_bransat/4XTTM6ps2G18qHc41TjS73uPK9eRwaEPY4Uj4Ra7jR4aRV5vE-K3TgTgAtkEfdQjBa3wgECiB4UR4XoidDghvgWqSuQxb5ncqvrixwMG62rSY81sadkefp4dqLiL8ocraXFar3p8FvDDiNna5wS7Xqj1PWfKL8ni5WBxMwsjj7sNGq5pwmD7Db1JBQ" class="myButton" style="color:white;">Déposer : 03500 	- BRANSAT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03500_bransat/4XTTM6ps2G18qHc41TjS73uPK9eRwaEPY4Uj4Ra7jR4aRV5vE" target="_blank" class="myButton" style="color:white;">Consulter : 03500 	- BRANSAT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03500_bransat/4XTTM6ps2G18qHc41TjS73uPK9eRwaEPY4Uj4Ra7jR4aRV5vE-K3TgTgAtkEfdQjBa3wgECiB4UR4XoidDghvgWqSuQxb5ncqvrixwMG62rSY81sadkefp4dqLiL8ocraXFar3p8FvDDiNna5wS7Xqj1PWfKL8ni5WBxMwsjj7sNGq5pwmD7Db1JBQ" target="_blank" class="myButton" style="color:white;">Déposer : 03500 	- BRANSAT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy" class="myButton" style="color:white;">Consulter : 03 	- Allier</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3" class="myButton" style="color:white;">Déposer : 03 	- Allier</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy" target="_blank" class="myButton" style="color:white;">Consulter : 03 	- Allier</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3" target="_blank" class="myButton" style="color:white;">Déposer : 03 	- Allier</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

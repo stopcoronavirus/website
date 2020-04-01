@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/24140_st-martin-des-combes" class="myButton" style="color:white;">Canal de votre commune : 24140 	- ST MARTIN DES COMBES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/24140_st-martin-des-combes" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 24140 	- ST MARTIN DES COMBES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/24_dordogne" class="myButton" style="color:white;">Canal de votre département : 24 	- Dordogne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/24_dordogne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 24 	- Dordogne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/24140_st-martin-des-combes/4XTTM8LD3UUF5yLSzvyPB26tNYAoZBjDT4uJ6Zm37XahkhcKa" class="myButton" style="color:white;">Consulter : 24140 	- ST MARTIN DES COMBES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/24140_st-martin-des-combes/4XTTM8LD3UUF5yLSzvyPB26tNYAoZBjDT4uJ6Zm37XahkhcKa-K3TgV2pCsWRd4bxxNdeNpjVCw1uzHEL2FaxM6gP7x1ER8WaE58M8y3R9vxVdXWSDjDDq5Y8xYvCNLpE3hJMYXkzDx9AGGg7dpFxsCQFyqv1Ma61Kp7Se7Z3EaaxgyBVMh1pKhkRN" class="myButton" style="color:white;">Déposer : 24140 	- ST MARTIN DES COMBES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/24140_st-martin-des-combes/4XTTM8LD3UUF5yLSzvyPB26tNYAoZBjDT4uJ6Zm37XahkhcKa" target="_blank" class="myButton" style="color:white;">Consulter : 24140 	- ST MARTIN DES COMBES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/24140_st-martin-des-combes/4XTTM8LD3UUF5yLSzvyPB26tNYAoZBjDT4uJ6Zm37XahkhcKa-K3TgV2pCsWRd4bxxNdeNpjVCw1uzHEL2FaxM6gP7x1ER8WaE58M8y3R9vxVdXWSDjDDq5Y8xYvCNLpE3hJMYXkzDx9AGGg7dpFxsCQFyqv1Ma61Kp7Se7Z3EaaxgyBVMh1pKhkRN" target="_blank" class="myButton" style="color:white;">Déposer : 24140 	- ST MARTIN DES COMBES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg" class="myButton" style="color:white;">Consulter : 24 	- Dordogne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp" class="myButton" style="color:white;">Déposer : 24 	- Dordogne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg" target="_blank" class="myButton" style="color:white;">Consulter : 24 	- Dordogne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/24_dordogne/4XTTM4wenBP5v7iXqeBwXH9wLvJwyyuNKzLxRyGzSZXmCuzgg-K3TgUusQQUSAmJPXozCTSBeqjqksxkVWGVxtHwEFrs5RuocQr8weKG2oQg7MVeg2F9Hhv7ggtBiBU8D9pdXEPa9M67VU3BzgAG9BCtQw3VY3Xcxk2YSegk3iUXMkpicGxxJr7mWp" target="_blank" class="myButton" style="color:white;">Déposer : 24 	- Dordogne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

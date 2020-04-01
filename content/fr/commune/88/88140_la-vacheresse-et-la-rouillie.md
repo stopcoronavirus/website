@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/88140_la-vacheresse-et-la-rouillie" class="myButton" style="color:white;">Canal de votre commune : 88140 	- LA VACHERESSE ET LA ROUILLIE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/88140_la-vacheresse-et-la-rouillie" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 88140 	- LA VACHERESSE ET LA ROUILLIE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/88_vosges" class="myButton" style="color:white;">Canal de votre département : 88 	- Vosges</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/88_vosges" target="_blank" class="myButton" style="color:white;">Canal de votre département : 88 	- Vosges</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88140_la-vacheresse-et-la-rouillie/4XTTMFf9ZhJcet2hKdXqH713EYk7MQiFfWLZ2mCLofRsbNq4Z" class="myButton" style="color:white;">Consulter : 88140 	- LA VACHERESSE ET LA ROUILLIE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88140_la-vacheresse-et-la-rouillie/4XTTMFf9ZhJcet2hKdXqH713EYk7MQiFfWLZ2mCLofRsbNq4Z-K3TgU8k9Di9xsxC7YBQjZHP8zZR4QqpFtG6LV1Nz2BKS1hEyDiis6td5apzM4vG1pJswZfLVy4oB4aFqosCt7aMWSvtqPtxqCiT6w7J2tQkuKaomodztyXokuRDDs5TFMZzjFt85" class="myButton" style="color:white;">Déposer : 88140 	- LA VACHERESSE ET LA ROUILLIE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88140_la-vacheresse-et-la-rouillie/4XTTMFf9ZhJcet2hKdXqH713EYk7MQiFfWLZ2mCLofRsbNq4Z" target="_blank" class="myButton" style="color:white;">Consulter : 88140 	- LA VACHERESSE ET LA ROUILLIE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88140_la-vacheresse-et-la-rouillie/4XTTMFf9ZhJcet2hKdXqH713EYk7MQiFfWLZ2mCLofRsbNq4Z-K3TgU8k9Di9xsxC7YBQjZHP8zZR4QqpFtG6LV1Nz2BKS1hEyDiis6td5apzM4vG1pJswZfLVy4oB4aFqosCt7aMWSvtqPtxqCiT6w7J2tQkuKaomodztyXokuRDDs5TFMZzjFt85" target="_blank" class="myButton" style="color:white;">Déposer : 88140 	- LA VACHERESSE ET LA ROUILLIE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh" class="myButton" style="color:white;">Consulter : 88 	- Vosges</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z" class="myButton" style="color:white;">Déposer : 88 	- Vosges</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh" target="_blank" class="myButton" style="color:white;">Consulter : 88 	- Vosges</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z" target="_blank" class="myButton" style="color:white;">Déposer : 88 	- Vosges</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

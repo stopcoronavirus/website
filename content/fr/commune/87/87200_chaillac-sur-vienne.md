@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/87200_chaillac-sur-vienne" class="myButton" style="color:white;">Canal de votre commune : 87200 	- CHAILLAC SUR VIENNE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87200_chaillac-sur-vienne" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 87200 	- CHAILLAC SUR VIENNE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne" class="myButton" style="color:white;">Canal de votre département : 87 	- Haute-Vienne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 87 	- Haute-Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87200_chaillac-sur-vienne/4XTTMCrykNWvsPy7hqxc3ygUbZdURF5ZnC5JyX9VSeEKcg3Ue" class="myButton" style="color:white;">Consulter : 87200 	- CHAILLAC SUR VIENNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87200_chaillac-sur-vienne/4XTTMCrykNWvsPy7hqxc3ygUbZdURF5ZnC5JyX9VSeEKcg3Ue-K3TgV1aR6BJXUn11f3Ysk2S2PYhfYMxFYFery6jePbhp6Ru8odMNxQou3Twe8VEXUXKWAoAfzj3fKQRSbnXoL2of9GHdWdT7ft2hSPY9NvppAPBp4qUeEtyFGfRaTGSQNb1akkqY" class="myButton" style="color:white;">Déposer : 87200 	- CHAILLAC SUR VIENNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87200_chaillac-sur-vienne/4XTTMCrykNWvsPy7hqxc3ygUbZdURF5ZnC5JyX9VSeEKcg3Ue" target="_blank" class="myButton" style="color:white;">Consulter : 87200 	- CHAILLAC SUR VIENNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87200_chaillac-sur-vienne/4XTTMCrykNWvsPy7hqxc3ygUbZdURF5ZnC5JyX9VSeEKcg3Ue-K3TgV1aR6BJXUn11f3Ysk2S2PYhfYMxFYFery6jePbhp6Ru8odMNxQou3Twe8VEXUXKWAoAfzj3fKQRSbnXoL2of9GHdWdT7ft2hSPY9NvppAPBp4qUeEtyFGfRaTGSQNb1akkqY" target="_blank" class="myButton" style="color:white;">Déposer : 87200 	- CHAILLAC SUR VIENNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q" class="myButton" style="color:white;">Consulter : 87 	- Haute-Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q" class="myButton" style="color:white;">Déposer : 87 	- Haute-Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q" target="_blank" class="myButton" style="color:white;">Consulter : 87 	- Haute-Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q" target="_blank" class="myButton" style="color:white;">Déposer : 87 	- Haute-Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

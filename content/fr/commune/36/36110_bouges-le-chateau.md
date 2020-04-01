@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/36110_bouges-le-chateau" class="myButton" style="color:white;">Canal de votre commune : 36110 	- BOUGES LE CHATEAU</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/36110_bouges-le-chateau" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 36110 	- BOUGES LE CHATEAU</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/36_indre" class="myButton" style="color:white;">Canal de votre département : 36 	- Indre</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/36_indre" target="_blank" class="myButton" style="color:white;">Canal de votre département : 36 	- Indre</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36110_bouges-le-chateau/4XTTMBd4t7RCp59E1jSBx1Wi7tun2J4KyDJt1kqADwoeG52iK" class="myButton" style="color:white;">Consulter : 36110 	- BOUGES LE CHATEAU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36110_bouges-le-chateau/4XTTMBd4t7RCp59E1jSBx1Wi7tun2J4KyDJt1kqADwoeG52iK-K3TgU4dHjrpoqzZm9RdzfNBpKjQksyPSuUfCygQGsFmf3mek57SX1riPCGMMrdHpArf8WY9YZfLrs43ffLLJbDCcHcWNMQTsmvBRKn43iWYtCieH3tpEQvuaPAVyH1hSJ1zE4DRh" class="myButton" style="color:white;">Déposer : 36110 	- BOUGES LE CHATEAU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36110_bouges-le-chateau/4XTTMBd4t7RCp59E1jSBx1Wi7tun2J4KyDJt1kqADwoeG52iK" target="_blank" class="myButton" style="color:white;">Consulter : 36110 	- BOUGES LE CHATEAU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36110_bouges-le-chateau/4XTTMBd4t7RCp59E1jSBx1Wi7tun2J4KyDJt1kqADwoeG52iK-K3TgU4dHjrpoqzZm9RdzfNBpKjQksyPSuUfCygQGsFmf3mek57SX1riPCGMMrdHpArf8WY9YZfLrs43ffLLJbDCcHcWNMQTsmvBRKn43iWYtCieH3tpEQvuaPAVyH1hSJ1zE4DRh" target="_blank" class="myButton" style="color:white;">Déposer : 36110 	- BOUGES LE CHATEAU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1" class="myButton" style="color:white;">Consulter : 36 	- Indre</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT" class="myButton" style="color:white;">Déposer : 36 	- Indre</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1" target="_blank" class="myButton" style="color:white;">Consulter : 36 	- Indre</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/36_indre/4XTTM7scdAKT1pQtXuUHYaNU8aLXKD2MZzUyDRUiaoLJH1te1-K3TgUJm9AdSDNtPtmMKFa5Tiw77X4i7zf6CsTYrtgVdahxAwuJV6RAfi8dWyH9wrbVDRxjX7knrwwECg7WApeuWQ945kurMeJLQeKJv4CQZseab78J3HMioZhgr2H44E9b6FqBoT" target="_blank" class="myButton" style="color:white;">Déposer : 36 	- Indre</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

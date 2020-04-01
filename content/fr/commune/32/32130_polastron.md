@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/32130_polastron" class="myButton" style="color:white;">Canal de votre commune : 32130 	- POLASTRON</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32130_polastron" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 32130 	- POLASTRON</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/32_gers" class="myButton" style="color:white;">Canal de votre département : 32 	- Gers</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32_gers" target="_blank" class="myButton" style="color:white;">Canal de votre département : 32 	- Gers</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32130_polastron/4XTTMCzazT56R2pgpi85w956DZBhEmBzuVbkoLZnnggFPLt5N" class="myButton" style="color:white;">Consulter : 32130 	- POLASTRON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32130_polastron/4XTTMCzazT56R2pgpi85w956DZBhEmBzuVbkoLZnnggFPLt5N-K3TgUGbdVeWzQTzd3XUtJkyuu2ruf9iJmN9XgwvjFSHry5ecrQH12WspkgmkpCLmFax29rUimnS7QvHSQ9KvaQUAv7reQ6WiuhU8tDREnJzAbiBbwhx8QMKm8kGSuvHVSZvqKQ96" class="myButton" style="color:white;">Déposer : 32130 	- POLASTRON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32130_polastron/4XTTMCzazT56R2pgpi85w956DZBhEmBzuVbkoLZnnggFPLt5N" target="_blank" class="myButton" style="color:white;">Consulter : 32130 	- POLASTRON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32130_polastron/4XTTMCzazT56R2pgpi85w956DZBhEmBzuVbkoLZnnggFPLt5N-K3TgUGbdVeWzQTzd3XUtJkyuu2ruf9iJmN9XgwvjFSHry5ecrQH12WspkgmkpCLmFax29rUimnS7QvHSQ9KvaQUAv7reQ6WiuhU8tDREnJzAbiBbwhx8QMKm8kGSuvHVSZvqKQ96" target="_blank" class="myButton" style="color:white;">Déposer : 32130 	- POLASTRON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe" class="myButton" style="color:white;">Consulter : 32 	- Gers</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8" class="myButton" style="color:white;">Déposer : 32 	- Gers</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe" target="_blank" class="myButton" style="color:white;">Consulter : 32 	- Gers</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8" target="_blank" class="myButton" style="color:white;">Déposer : 32 	- Gers</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

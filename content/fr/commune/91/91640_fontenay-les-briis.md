@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/91640_fontenay-les-briis" class="myButton" style="color:white;">Canal de votre commune : 91640 	- FONTENAY LES BRIIS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/91640_fontenay-les-briis" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 91640 	- FONTENAY LES BRIIS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/91_essonne" class="myButton" style="color:white;">Canal de votre département : 91 	- Essonne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/91_essonne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 91 	- Essonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91640_fontenay-les-briis/4XTTMA17yQc5gtpJfr7ZAiXNATgpo8jRVsQr59T7S1fMrFgUw" class="myButton" style="color:white;">Consulter : 91640 	- FONTENAY LES BRIIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91640_fontenay-les-briis/4XTTMA17yQc5gtpJfr7ZAiXNATgpo8jRVsQr59T7S1fMrFgUw-K3TgTpa16mFXUxwtc8yUtSDSsh2NW68p5QdGu8dCvkmk3nNMTr6AL3f5cZ5tDQTNAigt3NnEFbiingox4PLgmWe3pjwmNsK785qVWHhFQN7F89ViJTrRZ2JxUvAm39gcja7W4f7M" class="myButton" style="color:white;">Déposer : 91640 	- FONTENAY LES BRIIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91640_fontenay-les-briis/4XTTMA17yQc5gtpJfr7ZAiXNATgpo8jRVsQr59T7S1fMrFgUw" target="_blank" class="myButton" style="color:white;">Consulter : 91640 	- FONTENAY LES BRIIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91640_fontenay-les-briis/4XTTMA17yQc5gtpJfr7ZAiXNATgpo8jRVsQr59T7S1fMrFgUw-K3TgTpa16mFXUxwtc8yUtSDSsh2NW68p5QdGu8dCvkmk3nNMTr6AL3f5cZ5tDQTNAigt3NnEFbiingox4PLgmWe3pjwmNsK785qVWHhFQN7F89ViJTrRZ2JxUvAm39gcja7W4f7M" target="_blank" class="myButton" style="color:white;">Déposer : 91640 	- FONTENAY LES BRIIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF" class="myButton" style="color:white;">Consulter : 91 	- Essonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3" class="myButton" style="color:white;">Déposer : 91 	- Essonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF" target="_blank" class="myButton" style="color:white;">Consulter : 91 	- Essonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/91_essonne/4XTTM3ANpUsBoTi2knbHmboBJda1dTFu7ky8ZK9dB2RyMMfWF-K3TgUyWqeJSocSvH4aaj1ao8GVHVL7XNdUYQ4QUUeH9BAdnr24zoBJ2C3FCPvjfnNG6dyrzadtyfizxGKpMjZFU9wDjSpA4g6VtDcxL8iEmbLsyV9TFoF7XzgcRopbNZHgpYvcW3" target="_blank" class="myButton" style="color:white;">Déposer : 91 	- Essonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

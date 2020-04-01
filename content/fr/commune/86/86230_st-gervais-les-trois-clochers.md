@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/86230_st-gervais-les-trois-clochers" class="myButton" style="color:white;">Canal de votre commune : 86230 	- ST GERVAIS LES TROIS CLOCHERS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/86230_st-gervais-les-trois-clochers" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 86230 	- ST GERVAIS LES TROIS CLOCHERS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/86_vienne" class="myButton" style="color:white;">Canal de votre département : 86 	- Vienne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/86_vienne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 86 	- Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86230_st-gervais-les-trois-clochers/4XTTM4vdQuCNK4bRL5s1jv4hj6kRJNMDrQcFyDVXRdG4Ky6NP" class="myButton" style="color:white;">Consulter : 86230 	- ST GERVAIS LES TROIS CLOCHERS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86230_st-gervais-les-trois-clochers/4XTTM4vdQuCNK4bRL5s1jv4hj6kRJNMDrQcFyDVXRdG4Ky6NP-K3TgUwqfpkV3tcRNbKzQ2XdoLS3sEJfqVU8gfnb7LqM1DcCctgGRFqZFhUVRdy6RSAH3FbUCcQBdc4EPrhoPeBhgFukcWevqisJGqFVF9dYQ5ardi39igyiaEJoSs8gaWs8oKhV5" class="myButton" style="color:white;">Déposer : 86230 	- ST GERVAIS LES TROIS CLOCHERS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86230_st-gervais-les-trois-clochers/4XTTM4vdQuCNK4bRL5s1jv4hj6kRJNMDrQcFyDVXRdG4Ky6NP" target="_blank" class="myButton" style="color:white;">Consulter : 86230 	- ST GERVAIS LES TROIS CLOCHERS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86230_st-gervais-les-trois-clochers/4XTTM4vdQuCNK4bRL5s1jv4hj6kRJNMDrQcFyDVXRdG4Ky6NP-K3TgUwqfpkV3tcRNbKzQ2XdoLS3sEJfqVU8gfnb7LqM1DcCctgGRFqZFhUVRdy6RSAH3FbUCcQBdc4EPrhoPeBhgFukcWevqisJGqFVF9dYQ5ardi39igyiaEJoSs8gaWs8oKhV5" target="_blank" class="myButton" style="color:white;">Déposer : 86230 	- ST GERVAIS LES TROIS CLOCHERS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN" class="myButton" style="color:white;">Consulter : 86 	- Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA" class="myButton" style="color:white;">Déposer : 86 	- Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN" target="_blank" class="myButton" style="color:white;">Consulter : 86 	- Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA" target="_blank" class="myButton" style="color:white;">Déposer : 86 	- Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

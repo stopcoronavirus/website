@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/90150_angeot" class="myButton" style="color:white;">Canal de votre commune : 90150 	- ANGEOT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90150_angeot" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 90150 	- ANGEOT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort" class="myButton" style="color:white;">Canal de votre département : 90 	- Territoire de Belfort</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort" target="_blank" class="myButton" style="color:white;">Canal de votre département : 90 	- Territoire de Belfort</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90150_angeot/4XTTM6ZHNudbyHEzApbWp38wakPLQbnJegFuZoHHzsTM15BAq" class="myButton" style="color:white;">Consulter : 90150 	- ANGEOT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90150_angeot/4XTTM6ZHNudbyHEzApbWp38wakPLQbnJegFuZoHHzsTM15BAq-K3TgTdiRZzKU5ngBG8sMhFnqb63V4tEV2qaUYNT5m4nZZanjxq8UG4gEaYHefx3w1MxPqGwgxQVa6VXw9yrWabBySik37KHws3qRNcDmS4EvmaEAQUVbn1GuUrT72uApo29JCcUq" class="myButton" style="color:white;">Déposer : 90150 	- ANGEOT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90150_angeot/4XTTM6ZHNudbyHEzApbWp38wakPLQbnJegFuZoHHzsTM15BAq" target="_blank" class="myButton" style="color:white;">Consulter : 90150 	- ANGEOT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90150_angeot/4XTTM6ZHNudbyHEzApbWp38wakPLQbnJegFuZoHHzsTM15BAq-K3TgTdiRZzKU5ngBG8sMhFnqb63V4tEV2qaUYNT5m4nZZanjxq8UG4gEaYHefx3w1MxPqGwgxQVa6VXw9yrWabBySik37KHws3qRNcDmS4EvmaEAQUVbn1GuUrT72uApo29JCcUq" target="_blank" class="myButton" style="color:white;">Déposer : 90150 	- ANGEOT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg" class="myButton" style="color:white;">Consulter : 90 	- Territoire de Belfort</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8" class="myButton" style="color:white;">Déposer : 90 	- Territoire de Belfort</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg" target="_blank" class="myButton" style="color:white;">Consulter : 90 	- Territoire de Belfort</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8" target="_blank" class="myButton" style="color:white;">Déposer : 90 	- Territoire de Belfort</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

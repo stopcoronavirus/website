@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/05350_st-veran" class="myButton" style="color:white;">Canal de votre commune : 05350 	- ST VERAN</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/05350_st-veran" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 05350 	- ST VERAN</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/05_hautes-alpes" class="myButton" style="color:white;">Canal de votre département : 05 	- Hautes-Alpes</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/05_hautes-alpes" target="_blank" class="myButton" style="color:white;">Canal de votre département : 05 	- Hautes-Alpes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/05350_st-veran/4XTTM57C8tGFFEVcTB34Zavwn7ub9ZmZhV56FCCRYGoQ5XUXw" class="myButton" style="color:white;">Consulter : 05350 	- ST VERAN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/05350_st-veran/4XTTM57C8tGFFEVcTB34Zavwn7ub9ZmZhV56FCCRYGoQ5XUXw-K3TgULBQs7KwrXVc5Wcqe5di1WDP5ZnfifyJ1fBoqZg4T7cekodiMszNzsH36HXCuxfMCMmXmjV6QX4Cmu72uz2qTYtgKVuDgjeZXnpzfR1XfwfCed9C5SZQmhnFhuU1pqEXGRJD" class="myButton" style="color:white;">Déposer : 05350 	- ST VERAN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/05350_st-veran/4XTTM57C8tGFFEVcTB34Zavwn7ub9ZmZhV56FCCRYGoQ5XUXw" target="_blank" class="myButton" style="color:white;">Consulter : 05350 	- ST VERAN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/05350_st-veran/4XTTM57C8tGFFEVcTB34Zavwn7ub9ZmZhV56FCCRYGoQ5XUXw-K3TgULBQs7KwrXVc5Wcqe5di1WDP5ZnfifyJ1fBoqZg4T7cekodiMszNzsH36HXCuxfMCMmXmjV6QX4Cmu72uz2qTYtgKVuDgjeZXnpzfR1XfwfCed9C5SZQmhnFhuU1pqEXGRJD" target="_blank" class="myButton" style="color:white;">Déposer : 05350 	- ST VERAN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK" class="myButton" style="color:white;">Consulter : 05 	- Hautes-Alpes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7" class="myButton" style="color:white;">Déposer : 05 	- Hautes-Alpes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK" target="_blank" class="myButton" style="color:white;">Consulter : 05 	- Hautes-Alpes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/05_hautes-alpes/4XTTM2u2sX5kpJ8YRe3onsvG4vGnjcSakJYXBQGBF9gS4GnEK-K3TgUFwgrJyocCQyxGEeqX8QfXXiBVNnPCqTCLNsmMqDTekYUDji2ARCZVdrMXaHuESutqyvDGyuv7vKp5zhCH4BNhtZLQ4GQyf7ZeShAx8oYzDbpXjPuQiFRAJ9PDoPxmz3TYt7" target="_blank" class="myButton" style="color:white;">Déposer : 05 	- Hautes-Alpes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/53300_st-fraimbault-de-prieres" class="myButton" style="color:white;">Canal de votre commune : 53300 	- ST FRAIMBAULT DE PRIERES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53300_st-fraimbault-de-prieres" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 53300 	- ST FRAIMBAULT DE PRIERES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/53_mayenne" class="myButton" style="color:white;">Canal de votre département : 53 	- Mayenne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53_mayenne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 53 	- Mayenne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53300_st-fraimbault-de-prieres/4XTTMEtgw4KT3MRNM2FAmEgQvvthgjAEs6bsG3pvTGKEvixC8" class="myButton" style="color:white;">Consulter : 53300 	- ST FRAIMBAULT DE PRIERES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53300_st-fraimbault-de-prieres/4XTTMEtgw4KT3MRNM2FAmEgQvvthgjAEs6bsG3pvTGKEvixC8-K3TgTfUtCmJVa9dLFfWnX5B27XFVNFeEatRFdQkAUNHN9fxRrG5YbsfS3h9voKGXA2zegMmNTTViT9hAegAm8ftB8NfQXAhJu1hxRyAHfcZMogPNTFfn1dy5a4VL4kMCYEv1PFkL" class="myButton" style="color:white;">Déposer : 53300 	- ST FRAIMBAULT DE PRIERES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53300_st-fraimbault-de-prieres/4XTTMEtgw4KT3MRNM2FAmEgQvvthgjAEs6bsG3pvTGKEvixC8" target="_blank" class="myButton" style="color:white;">Consulter : 53300 	- ST FRAIMBAULT DE PRIERES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53300_st-fraimbault-de-prieres/4XTTMEtgw4KT3MRNM2FAmEgQvvthgjAEs6bsG3pvTGKEvixC8-K3TgTfUtCmJVa9dLFfWnX5B27XFVNFeEatRFdQkAUNHN9fxRrG5YbsfS3h9voKGXA2zegMmNTTViT9hAegAm8ftB8NfQXAhJu1hxRyAHfcZMogPNTFfn1dy5a4VL4kMCYEv1PFkL" target="_blank" class="myButton" style="color:white;">Déposer : 53300 	- ST FRAIMBAULT DE PRIERES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43" class="myButton" style="color:white;">Consulter : 53 	- Mayenne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es" class="myButton" style="color:white;">Déposer : 53 	- Mayenne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43" target="_blank" class="myButton" style="color:white;">Consulter : 53 	- Mayenne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es" target="_blank" class="myButton" style="color:white;">Déposer : 53 	- Mayenne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

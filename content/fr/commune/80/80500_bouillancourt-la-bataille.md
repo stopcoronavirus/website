@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/80500_bouillancourt-la-bataille" class="myButton" style="color:white;">Canal de votre commune : 80500 	- BOUILLANCOURT LA BATAILLE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/80500_bouillancourt-la-bataille" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 80500 	- BOUILLANCOURT LA BATAILLE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/80_somme" class="myButton" style="color:white;">Canal de votre département : 80 	- Somme</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/80_somme" target="_blank" class="myButton" style="color:white;">Canal de votre département : 80 	- Somme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80500_bouillancourt-la-bataille/4XTTM8TPeqYaB8AmNQVijMWZbLxdQxDLkb6TB3CfZ231KGvfr" class="myButton" style="color:white;">Consulter : 80500 	- BOUILLANCOURT LA BATAILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80500_bouillancourt-la-bataille/4XTTM8TPeqYaB8AmNQVijMWZbLxdQxDLkb6TB3CfZ231KGvfr-K3TgV6Kqw2XrzthxxCUQkDpGFzAPfvviQk2XfsPPf6Dq1LC2TCqU9Q1un28AU6hh793j5AGXNQ4Zyku2vzAixUeTnFnPK8tXV3s893gJm6NSgaFZ6ZtC8XDEB5da9Tr1LBeHkaKi" class="myButton" style="color:white;">Déposer : 80500 	- BOUILLANCOURT LA BATAILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80500_bouillancourt-la-bataille/4XTTM8TPeqYaB8AmNQVijMWZbLxdQxDLkb6TB3CfZ231KGvfr" target="_blank" class="myButton" style="color:white;">Consulter : 80500 	- BOUILLANCOURT LA BATAILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80500_bouillancourt-la-bataille/4XTTM8TPeqYaB8AmNQVijMWZbLxdQxDLkb6TB3CfZ231KGvfr-K3TgV6Kqw2XrzthxxCUQkDpGFzAPfvviQk2XfsPPf6Dq1LC2TCqU9Q1un28AU6hh793j5AGXNQ4Zyku2vzAixUeTnFnPK8tXV3s893gJm6NSgaFZ6ZtC8XDEB5da9Tr1LBeHkaKi" target="_blank" class="myButton" style="color:white;">Déposer : 80500 	- BOUILLANCOURT LA BATAILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw" class="myButton" style="color:white;">Consulter : 80 	- Somme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM" class="myButton" style="color:white;">Déposer : 80 	- Somme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw" target="_blank" class="myButton" style="color:white;">Consulter : 80 	- Somme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM" target="_blank" class="myButton" style="color:white;">Déposer : 80 	- Somme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

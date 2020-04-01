@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/26460_les-tonils" class="myButton" style="color:white;">Canal de votre commune : 26460 	- LES TONILS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/26460_les-tonils" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 26460 	- LES TONILS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/26_drome" class="myButton" style="color:white;">Canal de votre département : 26 	- Drôme</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/26_drome" target="_blank" class="myButton" style="color:white;">Canal de votre département : 26 	- Drôme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/26460_les-tonils/4XTTM5faC4zSzzqyv8u6cYVSPCjMjJ6HTyJ61ydAeargj9H1M" class="myButton" style="color:white;">Consulter : 26460 	- LES TONILS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/26460_les-tonils/4XTTM5faC4zSzzqyv8u6cYVSPCjMjJ6HTyJ61ydAeargj9H1M-K3TgUJo6U51BosJyNQ1Fo5FT7p9cjBSMmUURjFcB4qhevmgkexaG33oQxyjfoNgE6j4eAKykk5nFr7eXsMVQDh99E7F3Sus7e4hZ3xE7wD918fxbLzy7gLwwGVKphBYjCvR5J3VD" class="myButton" style="color:white;">Déposer : 26460 	- LES TONILS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/26460_les-tonils/4XTTM5faC4zSzzqyv8u6cYVSPCjMjJ6HTyJ61ydAeargj9H1M" target="_blank" class="myButton" style="color:white;">Consulter : 26460 	- LES TONILS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/26460_les-tonils/4XTTM5faC4zSzzqyv8u6cYVSPCjMjJ6HTyJ61ydAeargj9H1M-K3TgUJo6U51BosJyNQ1Fo5FT7p9cjBSMmUURjFcB4qhevmgkexaG33oQxyjfoNgE6j4eAKykk5nFr7eXsMVQDh99E7F3Sus7e4hZ3xE7wD918fxbLzy7gLwwGVKphBYjCvR5J3VD" target="_blank" class="myButton" style="color:white;">Déposer : 26460 	- LES TONILS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv" class="myButton" style="color:white;">Consulter : 26 	- Drôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q" class="myButton" style="color:white;">Déposer : 26 	- Drôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv" target="_blank" class="myButton" style="color:white;">Consulter : 26 	- Drôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/26_drome/4XTTMD3E18D2XxphmfV7Gd9oZp2E6g6Rjy8yoyyuT4SyeeDZv-K3TgUGX4nG6FnUgVjDeodHJBzD4Z7jTqAJwquijk1LCW8AWc9CAemuRZDQCZC8aha3sgQcHNRUHizJ1bQGiTeNjxAKKxoxsNxcJ7pjGzQ4icP1ftCA9sHED31LddZbCgpf6zkM4Q" target="_blank" class="myButton" style="color:white;">Déposer : 26 	- Drôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

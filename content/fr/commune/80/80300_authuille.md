@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/80300_authuille" class="myButton" style="color:white;">Canal de votre commune : 80300 	- AUTHUILLE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/80300_authuille" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 80300 	- AUTHUILLE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/80_somme" class="myButton" style="color:white;">Canal de votre département : 80 	- Somme</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/80_somme" target="_blank" class="myButton" style="color:white;">Canal de votre département : 80 	- Somme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80300_authuille/4XTTM7Mgw4xtHnjsUxq4BGrLtJmBdAJNssoQuVixw25JgmwhV" class="myButton" style="color:white;">Consulter : 80300 	- AUTHUILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80300_authuille/4XTTM7Mgw4xtHnjsUxq4BGrLtJmBdAJNssoQuVixw25JgmwhV-K3TgUJmir6XYiVueVe2TDyCxhzyY19kDgJHBAjTzUCGkbrnuwyQny3wvh68s3WpnQYoZ4HfCyqQREENjG7VnRH6zH9TfsGswuWB9ZpSLJberW5jTTC2J5gD81TKQCnEKEsQcRD6K" class="myButton" style="color:white;">Déposer : 80300 	- AUTHUILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80300_authuille/4XTTM7Mgw4xtHnjsUxq4BGrLtJmBdAJNssoQuVixw25JgmwhV" target="_blank" class="myButton" style="color:white;">Consulter : 80300 	- AUTHUILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80300_authuille/4XTTM7Mgw4xtHnjsUxq4BGrLtJmBdAJNssoQuVixw25JgmwhV-K3TgUJmir6XYiVueVe2TDyCxhzyY19kDgJHBAjTzUCGkbrnuwyQny3wvh68s3WpnQYoZ4HfCyqQREENjG7VnRH6zH9TfsGswuWB9ZpSLJberW5jTTC2J5gD81TKQCnEKEsQcRD6K" target="_blank" class="myButton" style="color:white;">Déposer : 80300 	- AUTHUILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw" class="myButton" style="color:white;">Consulter : 80 	- Somme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM" class="myButton" style="color:white;">Déposer : 80 	- Somme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw" target="_blank" class="myButton" style="color:white;">Consulter : 80 	- Somme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/80_somme/4XTTM75DYEQQimQGkH5F6rrJYrFSA6wyuekdgioEx7v45YjSw-K3TgTuB1DbUNHuFo9Fhh6JTUriPx8E5izGkmw9RSNTjUtMFPoZhqqp87szE8th3EytWSHGdhUuQUPjam8aJZh1SdH8pL3ibgUbMdNhU17kjAmSa49LMB2GjXvVwDVurE8mgce3XM" target="_blank" class="myButton" style="color:white;">Déposer : 80 	- Somme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

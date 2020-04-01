@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/94110_arcueil" class="myButton" style="color:white;">Canal de votre commune : 94110 	- ARCUEIL</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/94110_arcueil" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 94110 	- ARCUEIL</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/94_val-de-marne" class="myButton" style="color:white;">Canal de votre département : 94 	- Val-de-Marne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/94_val-de-marne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 94 	- Val-de-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94110_arcueil/4XTTMF1zv7NbYG6u8fbt4NKoK3qfaAZUK1BvnWGpHntAECFe9" class="myButton" style="color:white;">Consulter : 94110 	- ARCUEIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94110_arcueil/4XTTMF1zv7NbYG6u8fbt4NKoK3qfaAZUK1BvnWGpHntAECFe9-K3TgUvUZr9v1P2TVYPrQYp2nZNnjfnbL1iQk7JQaAEwPTwFNow94wvC7U4WRCJPFVuBSuEwCPotrxVi2vicGgFiY3UJSoiJQcjUyj7Ws7vA52wdztg1WTw97BezJBLKHh5y9xTgu" class="myButton" style="color:white;">Déposer : 94110 	- ARCUEIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94110_arcueil/4XTTMF1zv7NbYG6u8fbt4NKoK3qfaAZUK1BvnWGpHntAECFe9" target="_blank" class="myButton" style="color:white;">Consulter : 94110 	- ARCUEIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94110_arcueil/4XTTMF1zv7NbYG6u8fbt4NKoK3qfaAZUK1BvnWGpHntAECFe9-K3TgUvUZr9v1P2TVYPrQYp2nZNnjfnbL1iQk7JQaAEwPTwFNow94wvC7U4WRCJPFVuBSuEwCPotrxVi2vicGgFiY3UJSoiJQcjUyj7Ws7vA52wdztg1WTw97BezJBLKHh5y9xTgu" target="_blank" class="myButton" style="color:white;">Déposer : 94110 	- ARCUEIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp" class="myButton" style="color:white;">Consulter : 94 	- Val-de-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p" class="myButton" style="color:white;">Déposer : 94 	- Val-de-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp" target="_blank" class="myButton" style="color:white;">Consulter : 94 	- Val-de-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p" target="_blank" class="myButton" style="color:white;">Déposer : 94 	- Val-de-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

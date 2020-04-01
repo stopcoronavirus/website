@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/01990_chaneins" class="myButton" style="color:white;">Canal de votre commune : 01990 	- CHANEINS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/01990_chaneins" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 01990 	- CHANEINS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/01_ain" class="myButton" style="color:white;">Canal de votre département : 01 	- Ain</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/01_ain" target="_blank" class="myButton" style="color:white;">Canal de votre département : 01 	- Ain</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/01990_chaneins/4XTTM2pDMsZPuBBkzgAX5xjQ5RD7cP3NKQfQAa2cGtb3Q75po" class="myButton" style="color:white;">Consulter : 01990 	- CHANEINS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/01990_chaneins/4XTTM2pDMsZPuBBkzgAX5xjQ5RD7cP3NKQfQAa2cGtb3Q75po-K3TgUkbz739ricPsCeyCuoL9HsQ3YgQXG9ngZRstqbBc5oLamJ6n2YN3aFjhymcjbsFy3oAo3jmA4wkkDJK6QxQrxsbxTkDrBsVUGfttZqNbTjCnvWbqKqUZ8yZayroJiKCo78iF" class="myButton" style="color:white;">Déposer : 01990 	- CHANEINS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/01990_chaneins/4XTTM2pDMsZPuBBkzgAX5xjQ5RD7cP3NKQfQAa2cGtb3Q75po" target="_blank" class="myButton" style="color:white;">Consulter : 01990 	- CHANEINS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/01990_chaneins/4XTTM2pDMsZPuBBkzgAX5xjQ5RD7cP3NKQfQAa2cGtb3Q75po-K3TgUkbz739ricPsCeyCuoL9HsQ3YgQXG9ngZRstqbBc5oLamJ6n2YN3aFjhymcjbsFy3oAo3jmA4wkkDJK6QxQrxsbxTkDrBsVUGfttZqNbTjCnvWbqKqUZ8yZayroJiKCo78iF" target="_blank" class="myButton" style="color:white;">Déposer : 01990 	- CHANEINS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr" class="myButton" style="color:white;">Consulter : 01 	- Ain</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2" class="myButton" style="color:white;">Déposer : 01 	- Ain</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr" target="_blank" class="myButton" style="color:white;">Consulter : 01 	- Ain</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2" target="_blank" class="myButton" style="color:white;">Déposer : 01 	- Ain</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

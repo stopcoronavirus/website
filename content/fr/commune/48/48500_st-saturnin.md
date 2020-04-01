@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/48500_st-saturnin" class="myButton" style="color:white;">Canal de votre commune : 48500 	- ST SATURNIN</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/48500_st-saturnin" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 48500 	- ST SATURNIN</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/48_lozere" class="myButton" style="color:white;">Canal de votre département : 48 	- Lozère</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/48_lozere" target="_blank" class="myButton" style="color:white;">Canal de votre département : 48 	- Lozère</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48500_st-saturnin/4XTTMHBXgXUNd4Zkf5WFrPAwDajdCZa2P7gStgjBV2cA9LaTn" class="myButton" style="color:white;">Consulter : 48500 	- ST SATURNIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48500_st-saturnin/4XTTMHBXgXUNd4Zkf5WFrPAwDajdCZa2P7gStgjBV2cA9LaTn-K3TgTobXFdPHYRiKXH1gY3nAx2pH5pDhzd8ps1zyDK92jueq3uNk89h2iitHv9kV7chw1VB6kwdHu4197EKc5NdSSVqDa3fmcoF2LzXRcwo82xgueD2EqTSkTKjNin9maTB6Aqdn" class="myButton" style="color:white;">Déposer : 48500 	- ST SATURNIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48500_st-saturnin/4XTTMHBXgXUNd4Zkf5WFrPAwDajdCZa2P7gStgjBV2cA9LaTn" target="_blank" class="myButton" style="color:white;">Consulter : 48500 	- ST SATURNIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48500_st-saturnin/4XTTMHBXgXUNd4Zkf5WFrPAwDajdCZa2P7gStgjBV2cA9LaTn-K3TgTobXFdPHYRiKXH1gY3nAx2pH5pDhzd8ps1zyDK92jueq3uNk89h2iitHv9kV7chw1VB6kwdHu4197EKc5NdSSVqDa3fmcoF2LzXRcwo82xgueD2EqTSkTKjNin9maTB6Aqdn" target="_blank" class="myButton" style="color:white;">Déposer : 48500 	- ST SATURNIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp" class="myButton" style="color:white;">Consulter : 48 	- Lozère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa" class="myButton" style="color:white;">Déposer : 48 	- Lozère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp" target="_blank" class="myButton" style="color:white;">Consulter : 48 	- Lozère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa" target="_blank" class="myButton" style="color:white;">Déposer : 48 	- Lozère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

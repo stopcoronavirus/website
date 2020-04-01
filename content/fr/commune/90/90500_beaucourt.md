@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/90500_beaucourt" class="myButton" style="color:white;">Canal de votre commune : 90500 	- BEAUCOURT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90500_beaucourt" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 90500 	- BEAUCOURT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort" class="myButton" style="color:white;">Canal de votre département : 90 	- Territoire de Belfort</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/90_territoire-de-belfort" target="_blank" class="myButton" style="color:white;">Canal de votre département : 90 	- Territoire de Belfort</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90500_beaucourt/4XTTMFs3G5V54y7imR4uNWWQfP594xdGHL9z4rjXh4PZBxjsu" class="myButton" style="color:white;">Consulter : 90500 	- BEAUCOURT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90500_beaucourt/4XTTMFs3G5V54y7imR4uNWWQfP594xdGHL9z4rjXh4PZBxjsu-K3TgUkbM73dtkyUzGpLQ1kVhSXaoVzVMpHmJiRVscHmWh2arF1VUzogCRk518pjpYFPPz4YDqvjhJw54Cm6zo7t4dGpXTrz4AGzHiNmirLu1FLueJAgPv1vxoS6aXeCFzjGBpN2b" class="myButton" style="color:white;">Déposer : 90500 	- BEAUCOURT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90500_beaucourt/4XTTMFs3G5V54y7imR4uNWWQfP594xdGHL9z4rjXh4PZBxjsu" target="_blank" class="myButton" style="color:white;">Consulter : 90500 	- BEAUCOURT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90500_beaucourt/4XTTMFs3G5V54y7imR4uNWWQfP594xdGHL9z4rjXh4PZBxjsu-K3TgUkbM73dtkyUzGpLQ1kVhSXaoVzVMpHmJiRVscHmWh2arF1VUzogCRk518pjpYFPPz4YDqvjhJw54Cm6zo7t4dGpXTrz4AGzHiNmirLu1FLueJAgPv1vxoS6aXeCFzjGBpN2b" target="_blank" class="myButton" style="color:white;">Déposer : 90500 	- BEAUCOURT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg" class="myButton" style="color:white;">Consulter : 90 	- Territoire de Belfort</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8" class="myButton" style="color:white;">Déposer : 90 	- Territoire de Belfort</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg" target="_blank" class="myButton" style="color:white;">Consulter : 90 	- Territoire de Belfort</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/90_territoire-de-belfort/4XTTMCMyNEWxTbupzkMcjrsKp6wfFbAhpHsfxSyANWusKxhLg-K3TgUvqyjYALQQ3B4ehgYMk4FDd8bqjjfF92PZSohroHSGw67JvSh23UzFegstyUtcFnmS6PqF8dz4CeGf4FX1Aq4efpNCkkdwce76V2NdXEjnjJqKQ9Jwk27p4bX2phqmEaqUA8" target="_blank" class="myButton" style="color:white;">Déposer : 90 	- Territoire de Belfort</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

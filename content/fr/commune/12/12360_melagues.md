@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/12360_melagues" class="myButton" style="color:white;">Canal de votre commune : 12360 	- MELAGUES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/12360_melagues" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 12360 	- MELAGUES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/12_aveyron" class="myButton" style="color:white;">Canal de votre département : 12 	- Aveyron</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/12_aveyron" target="_blank" class="myButton" style="color:white;">Canal de votre département : 12 	- Aveyron</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12360_melagues/4XTTM3shgoND5ngoiMv5vXrSiPivmRmmbvi7dhMWMAVKvNUf5" class="myButton" style="color:white;">Consulter : 12360 	- MELAGUES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12360_melagues/4XTTM3shgoND5ngoiMv5vXrSiPivmRmmbvi7dhMWMAVKvNUf5-K3TgUkEtY2ZMAXx7xLqG1fMsN4htADokoP9jBQ635d1nWP2WrBjfP7vrpL119wQmAUdeGSEGt5qmQvq2y43SpUcahBbvmuV5cuMXSHLHYGKWcjmDYV1MbyQ9eBPNr64hA2knFPmM" class="myButton" style="color:white;">Déposer : 12360 	- MELAGUES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12360_melagues/4XTTM3shgoND5ngoiMv5vXrSiPivmRmmbvi7dhMWMAVKvNUf5" target="_blank" class="myButton" style="color:white;">Consulter : 12360 	- MELAGUES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12360_melagues/4XTTM3shgoND5ngoiMv5vXrSiPivmRmmbvi7dhMWMAVKvNUf5-K3TgUkEtY2ZMAXx7xLqG1fMsN4htADokoP9jBQ635d1nWP2WrBjfP7vrpL119wQmAUdeGSEGt5qmQvq2y43SpUcahBbvmuV5cuMXSHLHYGKWcjmDYV1MbyQ9eBPNr64hA2knFPmM" target="_blank" class="myButton" style="color:white;">Déposer : 12360 	- MELAGUES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq" class="myButton" style="color:white;">Consulter : 12 	- Aveyron</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV" class="myButton" style="color:white;">Déposer : 12 	- Aveyron</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq" target="_blank" class="myButton" style="color:white;">Consulter : 12 	- Aveyron</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/12_aveyron/4XTTM3CFrTYLeq3t7YZ2GeteRXina8HMy585xLdATaEm28gJq-K3TgUfu3tdsvnJNzfCjLcQBm4uQ83gag77qnaAo9pjUvbpQyfAVAxJdyULKffeJFVcGHHVraYZNVQhiGBeBUKBFLy2Vr8dapgU6tQCmoJQ6dgnoqRGmK9bSxqhW9VArfxRuTPcgV" target="_blank" class="myButton" style="color:white;">Déposer : 12 	- Aveyron</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

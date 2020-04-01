@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/97270_st-esprit" class="myButton" style="color:white;">Canal de votre commune : 97270 	- ST ESPRIT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97270_st-esprit" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 97270 	- ST ESPRIT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/972_martinique" class="myButton" style="color:white;">Canal de votre département : 972 	- Martinique</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/972_martinique" target="_blank" class="myButton" style="color:white;">Canal de votre département : 972 	- Martinique</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97270_st-esprit/4XTTMGrnodJDHeUAmqxkHk1zSswQwtnngzyMMLWnukxyGk1co" class="myButton" style="color:white;">Consulter : 97270 	- ST ESPRIT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97270_st-esprit/4XTTMGrnodJDHeUAmqxkHk1zSswQwtnngzyMMLWnukxyGk1co-K3TgUqRWfiq7zycyGzHYitAfBSebequrmtiGX25U4kpF1RfKANjv4pJoGYn4sR2Chu4Axm64bJk9YKTZtkjBp2Bqr9der11QQSx61yRonE4Hc62G3duRhvpfqA9PzaJz2bPF3St3" class="myButton" style="color:white;">Déposer : 97270 	- ST ESPRIT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97270_st-esprit/4XTTMGrnodJDHeUAmqxkHk1zSswQwtnngzyMMLWnukxyGk1co" target="_blank" class="myButton" style="color:white;">Consulter : 97270 	- ST ESPRIT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97270_st-esprit/4XTTMGrnodJDHeUAmqxkHk1zSswQwtnngzyMMLWnukxyGk1co-K3TgUqRWfiq7zycyGzHYitAfBSebequrmtiGX25U4kpF1RfKANjv4pJoGYn4sR2Chu4Axm64bJk9YKTZtkjBp2Bqr9der11QQSx61yRonE4Hc62G3duRhvpfqA9PzaJz2bPF3St3" target="_blank" class="myButton" style="color:white;">Déposer : 97270 	- ST ESPRIT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo" class="myButton" style="color:white;">Consulter : 972 	- Martinique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo-K3TgUeaxrptm9NswN2JSgXE3aKS9HKQgEZZxfKsdUeDs9w3MK5eeUTz8x8PBEEF3j1uCcfT9q4aM46ZnJH1PtFEse18Xf51n2ioUCkkCxop5a751j1HQ3bKXvk9CsEq3Wcvzm9gm" class="myButton" style="color:white;">Déposer : 972 	- Martinique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo" target="_blank" class="myButton" style="color:white;">Consulter : 972 	- Martinique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/972_martinique/4XTTM9FjR8FRFH39jx2GthF9f5Ut3jiyTsdjpE2SrJvqmXdjo-K3TgUeaxrptm9NswN2JSgXE3aKS9HKQgEZZxfKsdUeDs9w3MK5eeUTz8x8PBEEF3j1uCcfT9q4aM46ZnJH1PtFEse18Xf51n2ioUCkkCxop5a751j1HQ3bKXvk9CsEq3Wcvzm9gm" target="_blank" class="myButton" style="color:white;">Déposer : 972 	- Martinique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/37380_st-laurent-en-gatines" class="myButton" style="color:white;">Canal de votre commune : 37380 	- ST LAURENT EN GATINES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/37380_st-laurent-en-gatines" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 37380 	- ST LAURENT EN GATINES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/37_indre-et-loire" class="myButton" style="color:white;">Canal de votre département : 37 	- Indre-et-Loire</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/37_indre-et-loire" target="_blank" class="myButton" style="color:white;">Canal de votre département : 37 	- Indre-et-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/37380_st-laurent-en-gatines/4XTTMGdE43THUFVwpji7Hgr8zcaMdWNoQWdhfpYjAgsDygqHB" class="myButton" style="color:white;">Consulter : 37380 	- ST LAURENT EN GATINES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/37380_st-laurent-en-gatines/4XTTMGdE43THUFVwpji7Hgr8zcaMdWNoQWdhfpYjAgsDygqHB-K3TgV7TouN2x1HamVco15DbWGNxSeuAZSNFaPJvKCB93AAHJYqG2C69gPuzCo6836YmiSzsMMjNgSx5RB7KzpQkLdzVtWYQRZz19ovB3r2QRCKYtu823rRYABXCCrMfXPWAFZMNq" class="myButton" style="color:white;">Déposer : 37380 	- ST LAURENT EN GATINES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/37380_st-laurent-en-gatines/4XTTMGdE43THUFVwpji7Hgr8zcaMdWNoQWdhfpYjAgsDygqHB" target="_blank" class="myButton" style="color:white;">Consulter : 37380 	- ST LAURENT EN GATINES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/37380_st-laurent-en-gatines/4XTTMGdE43THUFVwpji7Hgr8zcaMdWNoQWdhfpYjAgsDygqHB-K3TgV7TouN2x1HamVco15DbWGNxSeuAZSNFaPJvKCB93AAHJYqG2C69gPuzCo6836YmiSzsMMjNgSx5RB7KzpQkLdzVtWYQRZz19ovB3r2QRCKYtu823rRYABXCCrMfXPWAFZMNq" target="_blank" class="myButton" style="color:white;">Déposer : 37380 	- ST LAURENT EN GATINES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC" class="myButton" style="color:white;">Consulter : 37 	- Indre-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi" class="myButton" style="color:white;">Déposer : 37 	- Indre-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC" target="_blank" class="myButton" style="color:white;">Consulter : 37 	- Indre-et-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/37_indre-et-loire/4XTTMELJ5h8WEwun7bYi58oPx2UUhAuVMWiRXnG3JKD6HCBSC-K3TgUE1Xc5kEfjxrpmzZiy65roucaprgS7x3hGvFuz61DP9skMaVe34nfPLnaT67YAQv9neEJ5R82kUU8emmmxqwvtD26ayPhPXJErxWUtb2ozxcDD3EtUckqeZpufwwn2Gsbjsi" target="_blank" class="myButton" style="color:white;">Déposer : 37 	- Indre-et-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

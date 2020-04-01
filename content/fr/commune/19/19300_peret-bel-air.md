@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/19300_peret-bel-air" class="myButton" style="color:white;">Canal de votre commune : 19300 	- PERET BEL AIR</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/19300_peret-bel-air" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 19300 	- PERET BEL AIR</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/19_correze" class="myButton" style="color:white;">Canal de votre département : 19 	- Corrèze</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/19_correze" target="_blank" class="myButton" style="color:white;">Canal de votre département : 19 	- Corrèze</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19300_peret-bel-air/4XTTM63G9t8krwzWy2gk2avhQ8hZbiKtgNwEcYPHj3mk5DL15" class="myButton" style="color:white;">Consulter : 19300 	- PERET BEL AIR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19300_peret-bel-air/4XTTM63G9t8krwzWy2gk2avhQ8hZbiKtgNwEcYPHj3mk5DL15-K3TgUmM3QQ4ABLAafKfc8KR9gdLmMmiYDvdPAPEv9E2MF3x5rnFJhR4vqomWXyr5bYGfmqeNRbUNrVA2c6p9MzweMKW2voU7ihmc8yAC9xqxyw4Qgw5m5A4u2QPhtS9dWQoG5R4K" class="myButton" style="color:white;">Déposer : 19300 	- PERET BEL AIR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19300_peret-bel-air/4XTTM63G9t8krwzWy2gk2avhQ8hZbiKtgNwEcYPHj3mk5DL15" target="_blank" class="myButton" style="color:white;">Consulter : 19300 	- PERET BEL AIR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19300_peret-bel-air/4XTTM63G9t8krwzWy2gk2avhQ8hZbiKtgNwEcYPHj3mk5DL15-K3TgUmM3QQ4ABLAafKfc8KR9gdLmMmiYDvdPAPEv9E2MF3x5rnFJhR4vqomWXyr5bYGfmqeNRbUNrVA2c6p9MzweMKW2voU7ihmc8yAC9xqxyw4Qgw5m5A4u2QPhtS9dWQoG5R4K" target="_blank" class="myButton" style="color:white;">Déposer : 19300 	- PERET BEL AIR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS" class="myButton" style="color:white;">Consulter : 19 	- Corrèze</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS" class="myButton" style="color:white;">Déposer : 19 	- Corrèze</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS" target="_blank" class="myButton" style="color:white;">Consulter : 19 	- Corrèze</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/19_correze/4XTTMC1QqUVUJNWWk36DEDiVmPLNTTCVay5E5gwEvpSf36VsS-K3TgUzu4fqyixiBZaA5Ejd2iCC9xJnV2MqYc8L2r22c4qVWWx9VnJmMAAFTQjLmwLDBGZ9pgHdAtPGZHV6pZb6y2bhgaqXFUJ1Fp1QgihzJpszTr9ow8JcXoeYzTUZfY7Rzzn9sS" target="_blank" class="myButton" style="color:white;">Déposer : 19 	- Corrèze</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

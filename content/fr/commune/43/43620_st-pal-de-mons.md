@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/43620_st-pal-de-mons" class="myButton" style="color:white;">Canal de votre commune : 43620 	- ST PAL DE MONS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/43620_st-pal-de-mons" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 43620 	- ST PAL DE MONS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/43_haute-loire" class="myButton" style="color:white;">Canal de votre département : 43 	- Haute-Loire</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/43_haute-loire" target="_blank" class="myButton" style="color:white;">Canal de votre département : 43 	- Haute-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43620_st-pal-de-mons/4XTTM1W3nmboPApnKhTddrrH6P5T7yuoM5kT2JD8vBuPqbVQ8" class="myButton" style="color:white;">Consulter : 43620 	- ST PAL DE MONS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43620_st-pal-de-mons/4XTTM1W3nmboPApnKhTddrrH6P5T7yuoM5kT2JD8vBuPqbVQ8-K3TgUZZPeV1VbgBupVSBJKRj9hhsmtG3tofXzFXeXRaTbcAbFYDTAXcmrAq2NeBtm1uxbnAUC8QJKe6CmGUrm8S3XHy8D2u2wuk6dKwYut68neSP1h9pbYukDAqpzYSoJB3QZU8k" class="myButton" style="color:white;">Déposer : 43620 	- ST PAL DE MONS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43620_st-pal-de-mons/4XTTM1W3nmboPApnKhTddrrH6P5T7yuoM5kT2JD8vBuPqbVQ8" target="_blank" class="myButton" style="color:white;">Consulter : 43620 	- ST PAL DE MONS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43620_st-pal-de-mons/4XTTM1W3nmboPApnKhTddrrH6P5T7yuoM5kT2JD8vBuPqbVQ8-K3TgUZZPeV1VbgBupVSBJKRj9hhsmtG3tofXzFXeXRaTbcAbFYDTAXcmrAq2NeBtm1uxbnAUC8QJKe6CmGUrm8S3XHy8D2u2wuk6dKwYut68neSP1h9pbYukDAqpzYSoJB3QZU8k" target="_blank" class="myButton" style="color:white;">Déposer : 43620 	- ST PAL DE MONS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX" class="myButton" style="color:white;">Consulter : 43 	- Haute-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b" class="myButton" style="color:white;">Déposer : 43 	- Haute-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX" target="_blank" class="myButton" style="color:white;">Consulter : 43 	- Haute-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b" target="_blank" class="myButton" style="color:white;">Déposer : 43 	- Haute-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

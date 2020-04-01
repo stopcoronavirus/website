@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/78960_voisins-le-bretonneux" class="myButton" style="color:white;">Canal de votre commune : 78960 	- VOISINS LE BRETONNEUX</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/78960_voisins-le-bretonneux" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 78960 	- VOISINS LE BRETONNEUX</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/78_yvelines" class="myButton" style="color:white;">Canal de votre département : 78 	- Yvelines</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/78_yvelines" target="_blank" class="myButton" style="color:white;">Canal de votre département : 78 	- Yvelines</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/78960_voisins-le-bretonneux/4XTTMH6SyCKzd9rXdvh4Cphe58u4ybbKaDYyWyJpiSB3hSQsB" class="myButton" style="color:white;">Consulter : 78960 	- VOISINS LE BRETONNEUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/78960_voisins-le-bretonneux/4XTTMH6SyCKzd9rXdvh4Cphe58u4ybbKaDYyWyJpiSB3hSQsB-K3TgUtA1XNvMgtitLh4iSxQSrgLTPHvMcUpiKnQ3Vf5d86LPX7NCgznUUYQ8Dt2hXqjN5fTQUuNRX5TjyUdPABaRoKVu4mrxDt5zuGgxh5G6yctkq9Pvy83BEWBthKuPoBhmdDCu" class="myButton" style="color:white;">Déposer : 78960 	- VOISINS LE BRETONNEUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/78960_voisins-le-bretonneux/4XTTMH6SyCKzd9rXdvh4Cphe58u4ybbKaDYyWyJpiSB3hSQsB" target="_blank" class="myButton" style="color:white;">Consulter : 78960 	- VOISINS LE BRETONNEUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/78960_voisins-le-bretonneux/4XTTMH6SyCKzd9rXdvh4Cphe58u4ybbKaDYyWyJpiSB3hSQsB-K3TgUtA1XNvMgtitLh4iSxQSrgLTPHvMcUpiKnQ3Vf5d86LPX7NCgznUUYQ8Dt2hXqjN5fTQUuNRX5TjyUdPABaRoKVu4mrxDt5zuGgxh5G6yctkq9Pvy83BEWBthKuPoBhmdDCu" target="_blank" class="myButton" style="color:white;">Déposer : 78960 	- VOISINS LE BRETONNEUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p" class="myButton" style="color:white;">Consulter : 78 	- Yvelines</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS" class="myButton" style="color:white;">Déposer : 78 	- Yvelines</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p" target="_blank" class="myButton" style="color:white;">Consulter : 78 	- Yvelines</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/78_yvelines/4XTTM6JTBkR8NkNb4WEo1AchzLuq6Cg73ydg7w9pErcQZA13p-K3TgUBFRQCPZwoWqJkunXeSjdgbtU3xzUSsui8DBc3rCTw6mbo4gNvfQRdE99JD3AnVW7fzseq687LKfGWCfAPajih5ByiZ3SpFz1r449oWaDnM5BHKZTbYtf6pEhRvzWbcazhrS" target="_blank" class="myButton" style="color:white;">Déposer : 78 	- Yvelines</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

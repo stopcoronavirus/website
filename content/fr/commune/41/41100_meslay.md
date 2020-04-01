@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/41100_meslay" class="myButton" style="color:white;">Canal de votre commune : 41100 	- MESLAY</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/41100_meslay" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 41100 	- MESLAY</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/41_loir-et-cher" class="myButton" style="color:white;">Canal de votre département : 41 	- Loir-et-Cher</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/41_loir-et-cher" target="_blank" class="myButton" style="color:white;">Canal de votre département : 41 	- Loir-et-Cher</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/41100_meslay/4XTTMB1UAtAd3ccMFYbzVZWrcnX5dMfV762W1MS5xEQafQ9GP" class="myButton" style="color:white;">Consulter : 41100 	- MESLAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/41100_meslay/4XTTMB1UAtAd3ccMFYbzVZWrcnX5dMfV762W1MS5xEQafQ9GP-K3TgV2oAXm4Gbnd1ZYGemW2NcaZXKAG4RcePEJaDnTUuB6QbnM4Gfzg7JRwdNCQ8rUC9Y8yjKgNDq87vV89A2bkK95S2J22Yr9yta14pRDiYD8xjXt9TqZ5TSyZoj6vqxuCdYQ8j" class="myButton" style="color:white;">Déposer : 41100 	- MESLAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/41100_meslay/4XTTMB1UAtAd3ccMFYbzVZWrcnX5dMfV762W1MS5xEQafQ9GP" target="_blank" class="myButton" style="color:white;">Consulter : 41100 	- MESLAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/41100_meslay/4XTTMB1UAtAd3ccMFYbzVZWrcnX5dMfV762W1MS5xEQafQ9GP-K3TgV2oAXm4Gbnd1ZYGemW2NcaZXKAG4RcePEJaDnTUuB6QbnM4Gfzg7JRwdNCQ8rUC9Y8yjKgNDq87vV89A2bkK95S2J22Yr9yta14pRDiYD8xjXt9TqZ5TSyZoj6vqxuCdYQ8j" target="_blank" class="myButton" style="color:white;">Déposer : 41100 	- MESLAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji" class="myButton" style="color:white;">Consulter : 41 	- Loir-et-Cher</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp" class="myButton" style="color:white;">Déposer : 41 	- Loir-et-Cher</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji" target="_blank" class="myButton" style="color:white;">Consulter : 41 	- Loir-et-Cher</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/41_loir-et-cher/4XTTM5QydbxRaUgKXE53na7QRzpLgA7zbPEzEKBeKJkjxEVji-K3TgUJffjnJn1wKv1cDv9KVgiFLT9HJq5tUoMN6tdWn9J3bpNtyKKwaJugsJdUUEcXwD8PBHiDgvWcRuQEeVUtEkQWFG3n5WgY9iHK2oFJVNr6HBG12oYpMJ395KxMZobaAQamkp" target="_blank" class="myButton" style="color:white;">Déposer : 41 	- Loir-et-Cher</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

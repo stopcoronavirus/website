@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/46320_livernon" class="myButton" style="color:white;">Canal de votre commune : 46320 	- LIVERNON</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/46320_livernon" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 46320 	- LIVERNON</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/46_lot" class="myButton" style="color:white;">Canal de votre département : 46 	- Lot</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/46_lot" target="_blank" class="myButton" style="color:white;">Canal de votre département : 46 	- Lot</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/46320_livernon/4XTTMGp4EcnDyXSzZQwrJ4tts9SUzx4gAxptQ7DxcYV3jN5uJ" class="myButton" style="color:white;">Consulter : 46320 	- LIVERNON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/46320_livernon/4XTTMGp4EcnDyXSzZQwrJ4tts9SUzx4gAxptQ7DxcYV3jN5uJ-K3TgUu31pqjMzi75hNxpyLHW4x1zQ6vEhxjQt7Z72o428A43B9KB63FeKKqbNLtvx2KRgvPgJiRygunHH78dksV3qDQQ1gqDdjp7ZL5C1NPvB66eZi6zJcvdbDEEroZYcekmTLqN" class="myButton" style="color:white;">Déposer : 46320 	- LIVERNON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/46320_livernon/4XTTMGp4EcnDyXSzZQwrJ4tts9SUzx4gAxptQ7DxcYV3jN5uJ" target="_blank" class="myButton" style="color:white;">Consulter : 46320 	- LIVERNON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/46320_livernon/4XTTMGp4EcnDyXSzZQwrJ4tts9SUzx4gAxptQ7DxcYV3jN5uJ-K3TgUu31pqjMzi75hNxpyLHW4x1zQ6vEhxjQt7Z72o428A43B9KB63FeKKqbNLtvx2KRgvPgJiRygunHH78dksV3qDQQ1gqDdjp7ZL5C1NPvB66eZi6zJcvdbDEEroZYcekmTLqN" target="_blank" class="myButton" style="color:white;">Déposer : 46320 	- LIVERNON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY" class="myButton" style="color:white;">Consulter : 46 	- Lot</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc" class="myButton" style="color:white;">Déposer : 46 	- Lot</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY" target="_blank" class="myButton" style="color:white;">Consulter : 46 	- Lot</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/46_lot/4XTTM2atDXh7qfad7tjFPGKb8B9D4EeMNQsUG7H6r5PvcsmQY-K3TgUvJaCyZvzJ7KFBouD3E9Db8SxVd6F9MJ4VM5wtYfGyhK8U9f2jgCEG1ZP5QbGj9NK2WPVZdPjtw9bJHLE1PoGwVsSft8aSDsZrWh6CwkugjgRfbWWHf5TabrG7vmtM7v9WUc" target="_blank" class="myButton" style="color:white;">Déposer : 46 	- Lot</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/72260_les-mees" class="myButton" style="color:white;">Canal de votre commune : 72260 	- LES MEES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72260_les-mees" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 72260 	- LES MEES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/72_sarthe" class="myButton" style="color:white;">Canal de votre département : 72 	- Sarthe</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72_sarthe" target="_blank" class="myButton" style="color:white;">Canal de votre département : 72 	- Sarthe</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72260_les-mees/4XTTMFsFCQuo7CmChDwVbTFcnQcB6PVZbd1nUV1JciUMpGixY" class="myButton" style="color:white;">Consulter : 72260 	- LES MEES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72260_les-mees/4XTTMFsFCQuo7CmChDwVbTFcnQcB6PVZbd1nUV1JciUMpGixY-K3TgTuGLqof9UniaPgTayEVimRbaJUfNWKXGA6GCWviJjehg7Qj2vAXUWiMm984WGLFDCops25bDVRt1iKd4gtrnEAAMqQfM8NZiPmgmUnhZ3nonQPjbbmmqELocNbUW3FzPA1Zz" class="myButton" style="color:white;">Déposer : 72260 	- LES MEES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72260_les-mees/4XTTMFsFCQuo7CmChDwVbTFcnQcB6PVZbd1nUV1JciUMpGixY" target="_blank" class="myButton" style="color:white;">Consulter : 72260 	- LES MEES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72260_les-mees/4XTTMFsFCQuo7CmChDwVbTFcnQcB6PVZbd1nUV1JciUMpGixY-K3TgTuGLqof9UniaPgTayEVimRbaJUfNWKXGA6GCWviJjehg7Qj2vAXUWiMm984WGLFDCops25bDVRt1iKd4gtrnEAAMqQfM8NZiPmgmUnhZ3nonQPjbbmmqELocNbUW3FzPA1Zz" target="_blank" class="myButton" style="color:white;">Déposer : 72260 	- LES MEES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5" class="myButton" style="color:white;">Consulter : 72 	- Sarthe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh" class="myButton" style="color:white;">Déposer : 72 	- Sarthe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5" target="_blank" class="myButton" style="color:white;">Consulter : 72 	- Sarthe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh" target="_blank" class="myButton" style="color:white;">Déposer : 72 	- Sarthe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/39700_ranchot" class="myButton" style="color:white;">Canal de votre commune : 39700 	- RANCHOT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/39700_ranchot" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 39700 	- RANCHOT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/39_jura" class="myButton" style="color:white;">Canal de votre département : 39 	- Jura</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/39_jura" target="_blank" class="myButton" style="color:white;">Canal de votre département : 39 	- Jura</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39700_ranchot/4XTTM5Nw1Pn7ntUBXifFHdjBx6vGd5XjsScfs19wnBv5AcZSt" class="myButton" style="color:white;">Consulter : 39700 	- RANCHOT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39700_ranchot/4XTTM5Nw1Pn7ntUBXifFHdjBx6vGd5XjsScfs19wnBv5AcZSt-K3TgV6feap5qWYHVna1b8DcyFzKcSmof5gHL3L5AUDbkrR1o88g3g4WRU8aYKTz2AQDqikWAxSGJemDW6e4XNMNnr1311bHAS7xHT9WLLigMoh5xnSzuYQx4T39LWV132FC4ae4C" class="myButton" style="color:white;">Déposer : 39700 	- RANCHOT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39700_ranchot/4XTTM5Nw1Pn7ntUBXifFHdjBx6vGd5XjsScfs19wnBv5AcZSt" target="_blank" class="myButton" style="color:white;">Consulter : 39700 	- RANCHOT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39700_ranchot/4XTTM5Nw1Pn7ntUBXifFHdjBx6vGd5XjsScfs19wnBv5AcZSt-K3TgV6feap5qWYHVna1b8DcyFzKcSmof5gHL3L5AUDbkrR1o88g3g4WRU8aYKTz2AQDqikWAxSGJemDW6e4XNMNnr1311bHAS7xHT9WLLigMoh5xnSzuYQx4T39LWV132FC4ae4C" target="_blank" class="myButton" style="color:white;">Déposer : 39700 	- RANCHOT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7" class="myButton" style="color:white;">Consulter : 39 	- Jura</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1" class="myButton" style="color:white;">Déposer : 39 	- Jura</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7" target="_blank" class="myButton" style="color:white;">Consulter : 39 	- Jura</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1" target="_blank" class="myButton" style="color:white;">Déposer : 39 	- Jura</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

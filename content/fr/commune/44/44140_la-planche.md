@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/44140_la-planche" class="myButton" style="color:white;">Canal de votre commune : 44140 	- LA PLANCHE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/44140_la-planche" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 44140 	- LA PLANCHE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/44_loire-atlantique" class="myButton" style="color:white;">Canal de votre département : 44 	- Loire-Atlantique</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/44_loire-atlantique" target="_blank" class="myButton" style="color:white;">Canal de votre département : 44 	- Loire-Atlantique</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44140_la-planche/4XTTM5d4dmiY8qU9AUdXPLrrGP2VNxvqyBPJbgnS7omBrkcBg" class="myButton" style="color:white;">Consulter : 44140 	- LA PLANCHE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44140_la-planche/4XTTM5d4dmiY8qU9AUdXPLrrGP2VNxvqyBPJbgnS7omBrkcBg-K3TgUqceFnpf2kvAzJbgNv1HUSMxpiFiVvyYMrbZinBhNEn5oAPR2paWWczSx6eZoT8YrS4dp3j3aWGHUdXHoE8ZpCWn6n97EXfRiDu1WqeqYGwj6zb4jmnQ1y9F2AgH4NTEMvge" class="myButton" style="color:white;">Déposer : 44140 	- LA PLANCHE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44140_la-planche/4XTTM5d4dmiY8qU9AUdXPLrrGP2VNxvqyBPJbgnS7omBrkcBg" target="_blank" class="myButton" style="color:white;">Consulter : 44140 	- LA PLANCHE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44140_la-planche/4XTTM5d4dmiY8qU9AUdXPLrrGP2VNxvqyBPJbgnS7omBrkcBg-K3TgUqceFnpf2kvAzJbgNv1HUSMxpiFiVvyYMrbZinBhNEn5oAPR2paWWczSx6eZoT8YrS4dp3j3aWGHUdXHoE8ZpCWn6n97EXfRiDu1WqeqYGwj6zb4jmnQ1y9F2AgH4NTEMvge" target="_blank" class="myButton" style="color:white;">Déposer : 44140 	- LA PLANCHE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf" class="myButton" style="color:white;">Consulter : 44 	- Loire-Atlantique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF" class="myButton" style="color:white;">Déposer : 44 	- Loire-Atlantique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf" target="_blank" class="myButton" style="color:white;">Consulter : 44 	- Loire-Atlantique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF" target="_blank" class="myButton" style="color:white;">Déposer : 44 	- Loire-Atlantique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

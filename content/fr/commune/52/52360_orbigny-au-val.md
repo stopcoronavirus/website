@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/52360_orbigny-au-val" class="myButton" style="color:white;">Canal de votre commune : 52360 	- ORBIGNY AU VAL</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52360_orbigny-au-val" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 52360 	- ORBIGNY AU VAL</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne" class="myButton" style="color:white;">Canal de votre département : 52 	- Haute-Marne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 52 	- Haute-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52360_orbigny-au-val/4XTTM5gEzMc9g2466CNWichDLzvM2yXqAJmXyQNfmTdGU3zBW" class="myButton" style="color:white;">Consulter : 52360 	- ORBIGNY AU VAL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52360_orbigny-au-val/4XTTM5gEzMc9g2466CNWichDLzvM2yXqAJmXyQNfmTdGU3zBW-K3TgTwc4RYF79T5z1FP4bNZRbcETT8uQYEN23zjhBAL8XuV9WxAq3u71gY54z4jsDgq1hwu5Qz7Y3vt4rZsonPGu552g4h9DVe1qUFrnwbR8nn8LK12BSwnoGZ6bhUqCPksVcwJU" class="myButton" style="color:white;">Déposer : 52360 	- ORBIGNY AU VAL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52360_orbigny-au-val/4XTTM5gEzMc9g2466CNWichDLzvM2yXqAJmXyQNfmTdGU3zBW" target="_blank" class="myButton" style="color:white;">Consulter : 52360 	- ORBIGNY AU VAL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52360_orbigny-au-val/4XTTM5gEzMc9g2466CNWichDLzvM2yXqAJmXyQNfmTdGU3zBW-K3TgTwc4RYF79T5z1FP4bNZRbcETT8uQYEN23zjhBAL8XuV9WxAq3u71gY54z4jsDgq1hwu5Qz7Y3vt4rZsonPGu552g4h9DVe1qUFrnwbR8nn8LK12BSwnoGZ6bhUqCPksVcwJU" target="_blank" class="myButton" style="color:white;">Déposer : 52360 	- ORBIGNY AU VAL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o" class="myButton" style="color:white;">Consulter : 52 	- Haute-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3" class="myButton" style="color:white;">Déposer : 52 	- Haute-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o" target="_blank" class="myButton" style="color:white;">Consulter : 52 	- Haute-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3" target="_blank" class="myButton" style="color:white;">Déposer : 52 	- Haute-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

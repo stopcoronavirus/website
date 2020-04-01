@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/65190_calavante" class="myButton" style="color:white;">Canal de votre commune : 65190 	- CALAVANTE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65190_calavante" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 65190 	- CALAVANTE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees" class="myButton" style="color:white;">Canal de votre département : 65 	- Hautes-Pyrénées</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees" target="_blank" class="myButton" style="color:white;">Canal de votre département : 65 	- Hautes-Pyrénées</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65190_calavante/4XTTM9GVc5j1tXAB1dfpkNgsCrkCxJ7SyvaYcrefFnxbg4y8K" class="myButton" style="color:white;">Consulter : 65190 	- CALAVANTE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65190_calavante/4XTTM9GVc5j1tXAB1dfpkNgsCrkCxJ7SyvaYcrefFnxbg4y8K-K3TgU26xjCHcjGkGqSdBpinsekTZVFtBQPESH9tXoU8U8dRHB4oc1zqR8ktJ3UPBwsE6Gez1fN6mZS7KY3NJtTAHiu38YfmkxT3f236miiAEEAmcSFrCi3HhjpmJkRziZfAxgBkb" class="myButton" style="color:white;">Déposer : 65190 	- CALAVANTE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65190_calavante/4XTTM9GVc5j1tXAB1dfpkNgsCrkCxJ7SyvaYcrefFnxbg4y8K" target="_blank" class="myButton" style="color:white;">Consulter : 65190 	- CALAVANTE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65190_calavante/4XTTM9GVc5j1tXAB1dfpkNgsCrkCxJ7SyvaYcrefFnxbg4y8K-K3TgU26xjCHcjGkGqSdBpinsekTZVFtBQPESH9tXoU8U8dRHB4oc1zqR8ktJ3UPBwsE6Gez1fN6mZS7KY3NJtTAHiu38YfmkxT3f236miiAEEAmcSFrCi3HhjpmJkRziZfAxgBkb" target="_blank" class="myButton" style="color:white;">Déposer : 65190 	- CALAVANTE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB" class="myButton" style="color:white;">Consulter : 65 	- Hautes-Pyrénées</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj" class="myButton" style="color:white;">Déposer : 65 	- Hautes-Pyrénées</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB" target="_blank" class="myButton" style="color:white;">Consulter : 65 	- Hautes-Pyrénées</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj" target="_blank" class="myButton" style="color:white;">Déposer : 65 	- Hautes-Pyrénées</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

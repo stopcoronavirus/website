@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/06830_toudon" class="myButton" style="color:white;">Canal de votre commune : 06830 	- TOUDON</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/06830_toudon" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 06830 	- TOUDON</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/06_alpes-maritimes" class="myButton" style="color:white;">Canal de votre département : 06 	- Alpes-Maritimes</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/06_alpes-maritimes" target="_blank" class="myButton" style="color:white;">Canal de votre département : 06 	- Alpes-Maritimes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/06830_toudon/4XTTM8BTdb43wuJUSL4crjjLrojjbbEajdhp9j5FfLBJ4ds3r" class="myButton" style="color:white;">Consulter : 06830 	- TOUDON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/06830_toudon/4XTTM8BTdb43wuJUSL4crjjLrojjbbEajdhp9j5FfLBJ4ds3r-K3TgTuSoejfc8ZRkL75gAF6dRVm1uLPr8ezxWezM39u5iKyeMG4uU9iQFyVkXvfV6TpbXFupU8yYnxsHX56t9SFiw2kM8qaT3M5MVfmBmgtM5jejCvKwHNvbYavvVU9QVoXJxy2U" class="myButton" style="color:white;">Déposer : 06830 	- TOUDON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/06830_toudon/4XTTM8BTdb43wuJUSL4crjjLrojjbbEajdhp9j5FfLBJ4ds3r" target="_blank" class="myButton" style="color:white;">Consulter : 06830 	- TOUDON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/06830_toudon/4XTTM8BTdb43wuJUSL4crjjLrojjbbEajdhp9j5FfLBJ4ds3r-K3TgTuSoejfc8ZRkL75gAF6dRVm1uLPr8ezxWezM39u5iKyeMG4uU9iQFyVkXvfV6TpbXFupU8yYnxsHX56t9SFiw2kM8qaT3M5MVfmBmgtM5jejCvKwHNvbYavvVU9QVoXJxy2U" target="_blank" class="myButton" style="color:white;">Déposer : 06830 	- TOUDON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi" class="myButton" style="color:white;">Consulter : 06 	- Alpes-Maritimes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde" class="myButton" style="color:white;">Déposer : 06 	- Alpes-Maritimes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi" target="_blank" class="myButton" style="color:white;">Consulter : 06 	- Alpes-Maritimes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/06_alpes-maritimes/4XTTM6jstTuChS19q8Ef27ZKDpSJYDCw8D1QjQYfLr3aLQmqi-K3TgUJHYnsMF5aDJk4Y4nn9Xm5jmwWa5ga3LRYZ6PDBZk8FYpCfe7WN5iHzpvaFGDTJBGTBXyiJvhhsbFNEBXKyipz2QWfFJAcnNXssKCw7wjun65Tea5kaBEYkwiAT3qiMYnpde" target="_blank" class="myButton" style="color:white;">Déposer : 06 	- Alpes-Maritimes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

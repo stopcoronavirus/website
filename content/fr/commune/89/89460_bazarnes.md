@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/89460_bazarnes" class="myButton" style="color:white;">Canal de votre commune : 89460 	- BAZARNES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/89460_bazarnes" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 89460 	- BAZARNES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/89_yonne" class="myButton" style="color:white;">Canal de votre département : 89 	- Yonne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/89_yonne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 89 	- Yonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89460_bazarnes/4XTTMFy4dv4ww9hnu5vZK45QTFbALFQPLPtnp8usLptkvtmoH" class="myButton" style="color:white;">Consulter : 89460 	- BAZARNES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89460_bazarnes/4XTTMFy4dv4ww9hnu5vZK45QTFbALFQPLPtnp8usLptkvtmoH-K3TgUworciWZ66kifthBLsnJ23i72ZUwtLpTXtPDsMWyeq1fq3rHLsvFLY2U59yaNyrYTnwnCBktKLy3CRQYiyyrLDtqg1X6cxaf8GPWRM2re6xvK6D2WcxseWGnJ3CCoKTXuLH9" class="myButton" style="color:white;">Déposer : 89460 	- BAZARNES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89460_bazarnes/4XTTMFy4dv4ww9hnu5vZK45QTFbALFQPLPtnp8usLptkvtmoH" target="_blank" class="myButton" style="color:white;">Consulter : 89460 	- BAZARNES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89460_bazarnes/4XTTMFy4dv4ww9hnu5vZK45QTFbALFQPLPtnp8usLptkvtmoH-K3TgUworciWZ66kifthBLsnJ23i72ZUwtLpTXtPDsMWyeq1fq3rHLsvFLY2U59yaNyrYTnwnCBktKLy3CRQYiyyrLDtqg1X6cxaf8GPWRM2re6xvK6D2WcxseWGnJ3CCoKTXuLH9" target="_blank" class="myButton" style="color:white;">Déposer : 89460 	- BAZARNES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB" class="myButton" style="color:white;">Consulter : 89 	- Yonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7" class="myButton" style="color:white;">Déposer : 89 	- Yonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB" target="_blank" class="myButton" style="color:white;">Consulter : 89 	- Yonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/89_yonne/4XTTM26x4XgjcZTnM5pUnYKKRkysKgfXHh1wiigoPHqn9LDKB-K3TgU4xaMVqzoRnPJNyddApuMoWvJyHL35bzooauYvdhG3MLg3ikjpoueq9BDtqVP4hJBQxpPxix2gohzXyST9tZPnEkyXpDMdHiAFpx7EU6e8WgvFk7NPsBQepM8o13bG9dyqq7" target="_blank" class="myButton" style="color:white;">Déposer : 89 	- Yonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

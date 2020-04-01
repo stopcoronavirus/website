@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/13720_la-bouilladisse" class="myButton" style="color:white;">Canal de votre commune : 13720 	- LA BOUILLADISSE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/13720_la-bouilladisse" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 13720 	- LA BOUILLADISSE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/13_bouches-du-rhone" class="myButton" style="color:white;">Canal de votre département : 13 	- Bouches-du-Rhône</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/13_bouches-du-rhone" target="_blank" class="myButton" style="color:white;">Canal de votre département : 13 	- Bouches-du-Rhône</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/13720_la-bouilladisse/4XTTM73UNsHx2ksFJX9wf8oYDh4R4Rj4Zjy2abhwJLRdsajyL" class="myButton" style="color:white;">Consulter : 13720 	- LA BOUILLADISSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/13720_la-bouilladisse/4XTTM73UNsHx2ksFJX9wf8oYDh4R4Rj4Zjy2abhwJLRdsajyL-K3TgTe2baayYiVaHuLThdZnUgiD73igMcsacK6y2VbE93ZG1dkG3HRNdqB8WS5hFNB3ue6mgpnQC36hMxAkjkfGUEGXa7g3fS9RUYr7ior4NYyoh564oF4NzG1BHjEGqqG1XZnm8" class="myButton" style="color:white;">Déposer : 13720 	- LA BOUILLADISSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/13720_la-bouilladisse/4XTTM73UNsHx2ksFJX9wf8oYDh4R4Rj4Zjy2abhwJLRdsajyL" target="_blank" class="myButton" style="color:white;">Consulter : 13720 	- LA BOUILLADISSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/13720_la-bouilladisse/4XTTM73UNsHx2ksFJX9wf8oYDh4R4Rj4Zjy2abhwJLRdsajyL-K3TgTe2baayYiVaHuLThdZnUgiD73igMcsacK6y2VbE93ZG1dkG3HRNdqB8WS5hFNB3ue6mgpnQC36hMxAkjkfGUEGXa7g3fS9RUYr7ior4NYyoh564oF4NzG1BHjEGqqG1XZnm8" target="_blank" class="myButton" style="color:white;">Déposer : 13720 	- LA BOUILLADISSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx" class="myButton" style="color:white;">Consulter : 13 	- Bouches-du-Rhône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS" class="myButton" style="color:white;">Déposer : 13 	- Bouches-du-Rhône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx" target="_blank" class="myButton" style="color:white;">Consulter : 13 	- Bouches-du-Rhône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/13_bouches-du-rhone/4XTTMGtVTUCUxo9j249Zkn6r5z67vkBKFx7SWcNAdBiijLzYx-K3TgUQoTm1Lz1H8LRjASEztiyqqQKy9EUEcGaVpwo1FVMMbiWEhF9RSQMJctmMSD67TJhyVekkDxasHTfX5jCrQmcuLABSeNFuKpwizT8nmuazBWw83TTobURaiCZWixU2FddafS" target="_blank" class="myButton" style="color:white;">Déposer : 13 	- Bouches-du-Rhône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/84340_malaucene" class="myButton" style="color:white;">Canal de votre commune : 84340 	- MALAUCENE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/84340_malaucene" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 84340 	- MALAUCENE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/84_vaucluse" class="myButton" style="color:white;">Canal de votre département : 84 	- Vaucluse</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/84_vaucluse" target="_blank" class="myButton" style="color:white;">Canal de votre département : 84 	- Vaucluse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/84340_malaucene/4XTTM2G9bQQmB4nwWG5nT3ZHGve1pQmVsSCAporxFePfH6SXQ" class="myButton" style="color:white;">Consulter : 84340 	- MALAUCENE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/84340_malaucene/4XTTM2G9bQQmB4nwWG5nT3ZHGve1pQmVsSCAporxFePfH6SXQ-K3TgUyRXNGC1hpBqdBSavFNE3ACw4pPEH1UepFQUcSB9fSZUzhWUDC8EXJmr17aoNYuTtY3jvQxtvHazDe4YsBq7irUuwY61drxc5Sx14XJTkWrk12sy1fKJZzSAa36f3hapok1c" class="myButton" style="color:white;">Déposer : 84340 	- MALAUCENE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/84340_malaucene/4XTTM2G9bQQmB4nwWG5nT3ZHGve1pQmVsSCAporxFePfH6SXQ" target="_blank" class="myButton" style="color:white;">Consulter : 84340 	- MALAUCENE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/84340_malaucene/4XTTM2G9bQQmB4nwWG5nT3ZHGve1pQmVsSCAporxFePfH6SXQ-K3TgUyRXNGC1hpBqdBSavFNE3ACw4pPEH1UepFQUcSB9fSZUzhWUDC8EXJmr17aoNYuTtY3jvQxtvHazDe4YsBq7irUuwY61drxc5Sx14XJTkWrk12sy1fKJZzSAa36f3hapok1c" target="_blank" class="myButton" style="color:white;">Déposer : 84340 	- MALAUCENE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr" class="myButton" style="color:white;">Consulter : 84 	- Vaucluse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A" class="myButton" style="color:white;">Déposer : 84 	- Vaucluse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr" target="_blank" class="myButton" style="color:white;">Consulter : 84 	- Vaucluse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/84_vaucluse/4XTTMHghfR8bkyGqZ7reVZF2qotjBNhkRh3Khf7iNmGcCTkmr-K3TgUKRZy74DAk6nWzbYgCteCvxL3D5dWhNn81TX7dWQDw7K5tHdUBrbr3Zr86VTyaRHaJUZqEfqmhmHxu4juq1HJQLTeAsoztBbrptk9vD5vweXJwd5AYeqvceMePYTm8p3ep5A" target="_blank" class="myButton" style="color:white;">Déposer : 84 	- Vaucluse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/98821_ouegoa" class="myButton" style="color:white;">Canal de votre commune : 98821 	- OUEGOA</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/98821_ouegoa" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 98821 	- OUEGOA</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/988_nouvelle-caledonie" class="myButton" style="color:white;">Canal de votre département : 988 	- Nouvelle-Calédonie</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/988_nouvelle-caledonie" target="_blank" class="myButton" style="color:white;">Canal de votre département : 988 	- Nouvelle-Calédonie</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/98821_ouegoa/4XTTMHPZ2CW7aCGDsAvosEwhin1gYJ8PdbVVEGukVbHhLMZfP" class="myButton" style="color:white;">Consulter : 98821 	- OUEGOA</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/98821_ouegoa/4XTTMHPZ2CW7aCGDsAvosEwhin1gYJ8PdbVVEGukVbHhLMZfP-K3TgV6uApn2S2QtG3JLiYfFm3261E4tmfiixipMYJfZVMrD74cgzkCRMFXXsF1edJU9ri8PnWPaqa2HqZpZvWPJwiJD3kzA7EZxasDakVAdeF4kgxwdtgnE4yybXLkJRUTNRvpP3" class="myButton" style="color:white;">Déposer : 98821 	- OUEGOA</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/98821_ouegoa/4XTTMHPZ2CW7aCGDsAvosEwhin1gYJ8PdbVVEGukVbHhLMZfP" target="_blank" class="myButton" style="color:white;">Consulter : 98821 	- OUEGOA</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/98821_ouegoa/4XTTMHPZ2CW7aCGDsAvosEwhin1gYJ8PdbVVEGukVbHhLMZfP-K3TgV6uApn2S2QtG3JLiYfFm3261E4tmfiixipMYJfZVMrD74cgzkCRMFXXsF1edJU9ri8PnWPaqa2HqZpZvWPJwiJD3kzA7EZxasDakVAdeF4kgxwdtgnE4yybXLkJRUTNRvpP3" target="_blank" class="myButton" style="color:white;">Déposer : 98821 	- OUEGOA</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/988_nouvelle-caledonie/4XTTMDdtAxs3VwsqhtzibNXZkHeCrdovAN2epCLYxbueu5po9" class="myButton" style="color:white;">Consulter : 988 	- Nouvelle-Calédonie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/988_nouvelle-caledonie/4XTTMDdtAxs3VwsqhtzibNXZkHeCrdovAN2epCLYxbueu5po9-K3TgTt3BJyMtJ7QGnunZdLAvLBZwusGrtrENwmJMEqDfaVJZvTmaeZYpaXTD6T4sogWpGww4wc9zqoNzFaTeAXyVZzjmNZ1qyqSx7GWtYAow9rcwTpKzJxF3gMx3CuLmc13dYDGb" class="myButton" style="color:white;">Déposer : 988 	- Nouvelle-Calédonie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/988_nouvelle-caledonie/4XTTMDdtAxs3VwsqhtzibNXZkHeCrdovAN2epCLYxbueu5po9" target="_blank" class="myButton" style="color:white;">Consulter : 988 	- Nouvelle-Calédonie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/988_nouvelle-caledonie/4XTTMDdtAxs3VwsqhtzibNXZkHeCrdovAN2epCLYxbueu5po9-K3TgTt3BJyMtJ7QGnunZdLAvLBZwusGrtrENwmJMEqDfaVJZvTmaeZYpaXTD6T4sogWpGww4wc9zqoNzFaTeAXyVZzjmNZ1qyqSx7GWtYAow9rcwTpKzJxF3gMx3CuLmc13dYDGb" target="_blank" class="myButton" style="color:white;">Déposer : 988 	- Nouvelle-Calédonie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

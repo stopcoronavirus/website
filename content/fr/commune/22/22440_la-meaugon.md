@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/22440_la-meaugon" class="myButton" style="color:white;">Canal de votre commune : 22440 	- LA MEAUGON</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/22440_la-meaugon" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 22440 	- LA MEAUGON</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/22_cotes-darmor" class="myButton" style="color:white;">Canal de votre département : 22 	- Côtes-d'Armor</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/22_cotes-darmor" target="_blank" class="myButton" style="color:white;">Canal de votre département : 22 	- Côtes-d'Armor</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22440_la-meaugon/4XTTMATx5ShD21foiGt1B2RNLZ1PLhiayYenGiBvj7nMRrtxt" class="myButton" style="color:white;">Consulter : 22440 	- LA MEAUGON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22440_la-meaugon/4XTTMATx5ShD21foiGt1B2RNLZ1PLhiayYenGiBvj7nMRrtxt-K3TgTz8z9kEdWzbeHHfJQ1TaTb2WG2YCp3P1VmGFpVVDnzf3Fsvu7dfvnFygiJBcg7Toy5LuQJKJgsNrJznxCCFnfug4WPiqiSPRVTTgpY68kpqVDWoBmjRLwGG57mA1P7VjBYPv" class="myButton" style="color:white;">Déposer : 22440 	- LA MEAUGON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22440_la-meaugon/4XTTMATx5ShD21foiGt1B2RNLZ1PLhiayYenGiBvj7nMRrtxt" target="_blank" class="myButton" style="color:white;">Consulter : 22440 	- LA MEAUGON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22440_la-meaugon/4XTTMATx5ShD21foiGt1B2RNLZ1PLhiayYenGiBvj7nMRrtxt-K3TgTz8z9kEdWzbeHHfJQ1TaTb2WG2YCp3P1VmGFpVVDnzf3Fsvu7dfvnFygiJBcg7Toy5LuQJKJgsNrJznxCCFnfug4WPiqiSPRVTTgpY68kpqVDWoBmjRLwGG57mA1P7VjBYPv" target="_blank" class="myButton" style="color:white;">Déposer : 22440 	- LA MEAUGON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX" class="myButton" style="color:white;">Consulter : 22 	- Côtes-d'Armor</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho" class="myButton" style="color:white;">Déposer : 22 	- Côtes-d'Armor</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX" target="_blank" class="myButton" style="color:white;">Consulter : 22 	- Côtes-d'Armor</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho" target="_blank" class="myButton" style="color:white;">Déposer : 22 	- Côtes-d'Armor</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/53150_la-chapelle-rainsouin" class="myButton" style="color:white;">Canal de votre commune : 53150 	- LA CHAPELLE RAINSOUIN</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53150_la-chapelle-rainsouin" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 53150 	- LA CHAPELLE RAINSOUIN</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/53_mayenne" class="myButton" style="color:white;">Canal de votre département : 53 	- Mayenne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/53_mayenne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 53 	- Mayenne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53150_la-chapelle-rainsouin/4XTTMFC6deEbKnDz888Ge5QAk7G2sfpZTbz66DWa4XskmGA8T" class="myButton" style="color:white;">Consulter : 53150 	- LA CHAPELLE RAINSOUIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53150_la-chapelle-rainsouin/4XTTMFC6deEbKnDz888Ge5QAk7G2sfpZTbz66DWa4XskmGA8T-K3TgUEpx31ntAJKYrVaFvk2MffsA4EA9vZW8zmvJoiiDezBTeyQ2MmCCALikgFC1Wae3vEZR6MSSWsRHtrLjbKDMKtGdkvTsCnsZdSzKDwcm7FNzZfvrVZZuYiErqo6g5TF3HGZq" class="myButton" style="color:white;">Déposer : 53150 	- LA CHAPELLE RAINSOUIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53150_la-chapelle-rainsouin/4XTTMFC6deEbKnDz888Ge5QAk7G2sfpZTbz66DWa4XskmGA8T" target="_blank" class="myButton" style="color:white;">Consulter : 53150 	- LA CHAPELLE RAINSOUIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53150_la-chapelle-rainsouin/4XTTMFC6deEbKnDz888Ge5QAk7G2sfpZTbz66DWa4XskmGA8T-K3TgUEpx31ntAJKYrVaFvk2MffsA4EA9vZW8zmvJoiiDezBTeyQ2MmCCALikgFC1Wae3vEZR6MSSWsRHtrLjbKDMKtGdkvTsCnsZdSzKDwcm7FNzZfvrVZZuYiErqo6g5TF3HGZq" target="_blank" class="myButton" style="color:white;">Déposer : 53150 	- LA CHAPELLE RAINSOUIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43" class="myButton" style="color:white;">Consulter : 53 	- Mayenne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es" class="myButton" style="color:white;">Déposer : 53 	- Mayenne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43" target="_blank" class="myButton" style="color:white;">Consulter : 53 	- Mayenne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/53_mayenne/4XTTMF933UK1cVtse5mq4qQ7Np2jMYgvbp6qouY9MWyoeWY43-K3TgUcgqTBNoSTxPqkZ94HV7ydPjBnvnBue9tEiK9jakhdXjxdo4Br4iK1oa2CDh4yEVWX1tFyjU9wvcKRuNLDocpAE5TJXkqSv2docSVtfLpqmkB6Zf1obqgGj7oAqY4ytCV5Es" target="_blank" class="myButton" style="color:white;">Déposer : 53 	- Mayenne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

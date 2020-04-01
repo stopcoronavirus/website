@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/97316_papaichton" class="myButton" style="color:white;">Canal de votre commune : 97316 	- PAPAICHTON</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97316_papaichton" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 97316 	- PAPAICHTON</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/973_guyane" class="myButton" style="color:white;">Canal de votre département : 973 	- Guyane</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/973_guyane" target="_blank" class="myButton" style="color:white;">Canal de votre département : 973 	- Guyane</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97316_papaichton/4XTTM7Thy5sphqT1PS3TsdNSmHUVnngYswVAyqnsJ1B75763P" class="myButton" style="color:white;">Consulter : 97316 	- PAPAICHTON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97316_papaichton/4XTTM7Thy5sphqT1PS3TsdNSmHUVnngYswVAyqnsJ1B75763P-K3TgUeyvitqnnGCF3So3SpXPbMqcotA4gQER6Y26F6PZyJrJLsJuWRKsXCGTS73tBzieLZd29U2qBijdaunhqYYMv1K9XoV5Dx9q4AMjVksysfbSBN1mi3XUb3i7za6ZazuRP8Vj" class="myButton" style="color:white;">Déposer : 97316 	- PAPAICHTON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97316_papaichton/4XTTM7Thy5sphqT1PS3TsdNSmHUVnngYswVAyqnsJ1B75763P" target="_blank" class="myButton" style="color:white;">Consulter : 97316 	- PAPAICHTON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97316_papaichton/4XTTM7Thy5sphqT1PS3TsdNSmHUVnngYswVAyqnsJ1B75763P-K3TgUeyvitqnnGCF3So3SpXPbMqcotA4gQER6Y26F6PZyJrJLsJuWRKsXCGTS73tBzieLZd29U2qBijdaunhqYYMv1K9XoV5Dx9q4AMjVksysfbSBN1mi3XUb3i7za6ZazuRP8Vj" target="_blank" class="myButton" style="color:white;">Déposer : 97316 	- PAPAICHTON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc" class="myButton" style="color:white;">Consulter : 973 	- Guyane</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc-K3TgTgNFrGYQL7RzdiUs2G5kz5wznH8a7V3hvZcSXNRKvSbg2tsbecC3Je5R7hpbbDk7dogAkEsJV5SFg7UEJUHx8Fogpcmn5vubMjKA1FgiKo3tE8H7NRgUs3M6tfhzyxkWCUs8" class="myButton" style="color:white;">Déposer : 973 	- Guyane</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc" target="_blank" class="myButton" style="color:white;">Consulter : 973 	- Guyane</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/973_guyane/4XTTM2mY9MRQXfadD3g6hvH2amyLJCsoinYGcPs3moq9GpTwc-K3TgTgNFrGYQL7RzdiUs2G5kz5wznH8a7V3hvZcSXNRKvSbg2tsbecC3Je5R7hpbbDk7dogAkEsJV5SFg7UEJUHx8Fogpcmn5vubMjKA1FgiKo3tE8H7NRgUs3M6tfhzyxkWCUs8" target="_blank" class="myButton" style="color:white;">Déposer : 973 	- Guyane</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

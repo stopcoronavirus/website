@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/58800_marigny-sur-yonne" class="myButton" style="color:white;">Canal de votre commune : 58800 	- MARIGNY SUR YONNE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/58800_marigny-sur-yonne" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 58800 	- MARIGNY SUR YONNE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/58_nievre" class="myButton" style="color:white;">Canal de votre département : 58 	- Nièvre</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/58_nievre" target="_blank" class="myButton" style="color:white;">Canal de votre département : 58 	- Nièvre</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/58800_marigny-sur-yonne/4XTTM9i7YXdfLCjnvedoDbd1PYTEtQVnyUFwtWKreLznEChY1" class="myButton" style="color:white;">Consulter : 58800 	- MARIGNY SUR YONNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/58800_marigny-sur-yonne/4XTTM9i7YXdfLCjnvedoDbd1PYTEtQVnyUFwtWKreLznEChY1-K3TgV2Mz5Q7r9uPJNXMJxMSucTycFpUkCzh8eKHJbKV5YpWwE5L5d3ZXu59DJ42pKJ4u32pnq89TKCKxKuqk97xS6V45y2X1rdbg9djqj67JX21eSP9QJB9eq11aP7q5WLDvJfqX" class="myButton" style="color:white;">Déposer : 58800 	- MARIGNY SUR YONNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/58800_marigny-sur-yonne/4XTTM9i7YXdfLCjnvedoDbd1PYTEtQVnyUFwtWKreLznEChY1" target="_blank" class="myButton" style="color:white;">Consulter : 58800 	- MARIGNY SUR YONNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/58800_marigny-sur-yonne/4XTTM9i7YXdfLCjnvedoDbd1PYTEtQVnyUFwtWKreLznEChY1-K3TgV2Mz5Q7r9uPJNXMJxMSucTycFpUkCzh8eKHJbKV5YpWwE5L5d3ZXu59DJ42pKJ4u32pnq89TKCKxKuqk97xS6V45y2X1rdbg9djqj67JX21eSP9QJB9eq11aP7q5WLDvJfqX" target="_blank" class="myButton" style="color:white;">Déposer : 58800 	- MARIGNY SUR YONNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb" class="myButton" style="color:white;">Consulter : 58 	- Nièvre</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf" class="myButton" style="color:white;">Déposer : 58 	- Nièvre</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb" target="_blank" class="myButton" style="color:white;">Consulter : 58 	- Nièvre</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/58_nievre/4XTTMAH6F29ky6C7h4sa4Edu99Bik6rQu9XbiuBD1DvLw22pb-K3TgUtHs3LnA4VP5N1eQxK9UkiWFz8M5ZP7N97wnUEM9Wfw65apM3LnvEX8HhP2Sd27LDh5t4GgmkbGDUaCqpnkD9BJGbaMbkS8idf1DYkYaRo6rACHXiR4PjahH89PiAFqFL3Lf" target="_blank" class="myButton" style="color:white;">Déposer : 58 	- Nièvre</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

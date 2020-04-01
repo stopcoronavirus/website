@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/22570_lescouet-gouarec" class="myButton" style="color:white;">Canal de votre commune : 22570 	- LESCOUET GOUAREC</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/22570_lescouet-gouarec" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 22570 	- LESCOUET GOUAREC</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/22_cotes-darmor" class="myButton" style="color:white;">Canal de votre département : 22 	- Côtes-d'Armor</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/22_cotes-darmor" target="_blank" class="myButton" style="color:white;">Canal de votre département : 22 	- Côtes-d'Armor</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22570_lescouet-gouarec/4XTTM5ZKxNfwxrkq8AnrCcW7oqQ9SYFw7dtGPRTu8YmVcRKXu" class="myButton" style="color:white;">Consulter : 22570 	- LESCOUET GOUAREC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22570_lescouet-gouarec/4XTTM5ZKxNfwxrkq8AnrCcW7oqQ9SYFw7dtGPRTu8YmVcRKXu-K3TgUUSdrL5L9z3J4PRmzhBfVX1Sjkw4yQZeR6ZHXW7bXFQVPKTzXSDGarj7NQBMxigSnVTg44oe1bR85MaM9ZdiBc9sGf6ZHkLfdYKMm8DA24ee1KuRb6fG6xk6YXxnXrNoNyh1" class="myButton" style="color:white;">Déposer : 22570 	- LESCOUET GOUAREC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22570_lescouet-gouarec/4XTTM5ZKxNfwxrkq8AnrCcW7oqQ9SYFw7dtGPRTu8YmVcRKXu" target="_blank" class="myButton" style="color:white;">Consulter : 22570 	- LESCOUET GOUAREC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22570_lescouet-gouarec/4XTTM5ZKxNfwxrkq8AnrCcW7oqQ9SYFw7dtGPRTu8YmVcRKXu-K3TgUUSdrL5L9z3J4PRmzhBfVX1Sjkw4yQZeR6ZHXW7bXFQVPKTzXSDGarj7NQBMxigSnVTg44oe1bR85MaM9ZdiBc9sGf6ZHkLfdYKMm8DA24ee1KuRb6fG6xk6YXxnXrNoNyh1" target="_blank" class="myButton" style="color:white;">Déposer : 22570 	- LESCOUET GOUAREC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX" class="myButton" style="color:white;">Consulter : 22 	- Côtes-d'Armor</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho" class="myButton" style="color:white;">Déposer : 22 	- Côtes-d'Armor</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX" target="_blank" class="myButton" style="color:white;">Consulter : 22 	- Côtes-d'Armor</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/22_cotes-darmor/4XTTMDuspVsSQkwABch6zASz8WH5mbMPSrinmYAX4KcTzMgsX-K3TgU3sS8ueKv4Q8KEnFcuQ9PTq8bGUsSmyC8Rvj5cRp7aMtU3hS56ihQ84QeUVVtQAJav5GRzGrvcoutncmWq1kr1RqDhyLQ3ypMLkJSmBdsKyWe6WFEkRXjLQGHQtrHZm3Afho" target="_blank" class="myButton" style="color:white;">Déposer : 22 	- Côtes-d'Armor</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

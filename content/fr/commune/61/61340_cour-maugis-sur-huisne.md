@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/61340_cour-maugis-sur-huisne" class="myButton" style="color:white;">Canal de votre commune : 61340 	- COUR MAUGIS SUR HUISNE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/61340_cour-maugis-sur-huisne" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 61340 	- COUR MAUGIS SUR HUISNE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/61_orne" class="myButton" style="color:white;">Canal de votre département : 61 	- Orne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/61_orne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 61 	- Orne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61340_cour-maugis-sur-huisne/4XTTM4JELnFwzUGasVqV4jHsacXjqPbfj6XRSXkmmLT1Ae62L" class="myButton" style="color:white;">Consulter : 61340 	- COUR MAUGIS SUR HUISNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61340_cour-maugis-sur-huisne/4XTTM4JELnFwzUGasVqV4jHsacXjqPbfj6XRSXkmmLT1Ae62L-K3TgTge1DP8D9wZVXL1NA1tqEiLJBFkiRGSSZHgAiFUKbS2cFSaxCXCAEFHfk2J5T6HVDXk6uik5zgE2fxTu29KRpeDJpZtWCoM6YrnL4gMzbJZAn3Cdp5GDVBeAHixDRij5VbsW" class="myButton" style="color:white;">Déposer : 61340 	- COUR MAUGIS SUR HUISNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61340_cour-maugis-sur-huisne/4XTTM4JELnFwzUGasVqV4jHsacXjqPbfj6XRSXkmmLT1Ae62L" target="_blank" class="myButton" style="color:white;">Consulter : 61340 	- COUR MAUGIS SUR HUISNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61340_cour-maugis-sur-huisne/4XTTM4JELnFwzUGasVqV4jHsacXjqPbfj6XRSXkmmLT1Ae62L-K3TgTge1DP8D9wZVXL1NA1tqEiLJBFkiRGSSZHgAiFUKbS2cFSaxCXCAEFHfk2J5T6HVDXk6uik5zgE2fxTu29KRpeDJpZtWCoM6YrnL4gMzbJZAn3Cdp5GDVBeAHixDRij5VbsW" target="_blank" class="myButton" style="color:white;">Déposer : 61340 	- COUR MAUGIS SUR HUISNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6" class="myButton" style="color:white;">Consulter : 61 	- Orne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN" class="myButton" style="color:white;">Déposer : 61 	- Orne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6" target="_blank" class="myButton" style="color:white;">Consulter : 61 	- Orne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN" target="_blank" class="myButton" style="color:white;">Déposer : 61 	- Orne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

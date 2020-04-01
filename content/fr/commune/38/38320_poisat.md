@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/38320_poisat" class="myButton" style="color:white;">Canal de votre commune : 38320 	- POISAT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/38320_poisat" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 38320 	- POISAT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/38_isere" class="myButton" style="color:white;">Canal de votre département : 38 	- Isère</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/38_isere" target="_blank" class="myButton" style="color:white;">Canal de votre département : 38 	- Isère</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/38320_poisat/4XTTM6LzFcYF9sDfHVzgg4eWcwt8jKZMy1xjV6Qt5LfNEzsQm" class="myButton" style="color:white;">Consulter : 38320 	- POISAT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/38320_poisat/4XTTM6LzFcYF9sDfHVzgg4eWcwt8jKZMy1xjV6Qt5LfNEzsQm-K3TgTiaQ2NMqikXLmMhPKPSYumMLWoqpvuTzw5cDBST6rJ9zjUgScmRtJfbpnGn1UTV8vDsDyxbz66DBmmX1Y7WCGLYQirTgJvGx9d6tdPVbJ68L1CppML1vA3HQwVsPqB4rbzx9" class="myButton" style="color:white;">Déposer : 38320 	- POISAT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/38320_poisat/4XTTM6LzFcYF9sDfHVzgg4eWcwt8jKZMy1xjV6Qt5LfNEzsQm" target="_blank" class="myButton" style="color:white;">Consulter : 38320 	- POISAT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/38320_poisat/4XTTM6LzFcYF9sDfHVzgg4eWcwt8jKZMy1xjV6Qt5LfNEzsQm-K3TgTiaQ2NMqikXLmMhPKPSYumMLWoqpvuTzw5cDBST6rJ9zjUgScmRtJfbpnGn1UTV8vDsDyxbz66DBmmX1Y7WCGLYQirTgJvGx9d6tdPVbJ68L1CppML1vA3HQwVsPqB4rbzx9" target="_blank" class="myButton" style="color:white;">Déposer : 38320 	- POISAT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V" class="myButton" style="color:white;">Consulter : 38 	- Isère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs" class="myButton" style="color:white;">Déposer : 38 	- Isère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V" target="_blank" class="myButton" style="color:white;">Consulter : 38 	- Isère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/38_isere/4XTTM8oYPm18cZy2hZcMXTR9BYT3Yi5KwnFvpXu1TXaRq7Q3V-K3TgUoSzs2JpJwfbzBvgU8N95mHo7JXz7NbEctNRM3EDb2iYHA4maKm3pRQwmboULLPnLFTEhRgTawPTWpmxTxKbTwDgAEzA9tUHjpudQTWdKWfdVSegAo77eCwhXTaVG7AyUZEs" target="_blank" class="myButton" style="color:white;">Déposer : 38 	- Isère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

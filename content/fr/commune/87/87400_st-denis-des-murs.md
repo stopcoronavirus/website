@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/87400_st-denis-des-murs" class="myButton" style="color:white;">Canal de votre commune : 87400 	- ST DENIS DES MURS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87400_st-denis-des-murs" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 87400 	- ST DENIS DES MURS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne" class="myButton" style="color:white;">Canal de votre département : 87 	- Haute-Vienne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 87 	- Haute-Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87400_st-denis-des-murs/4XTTMJ3zhzYJbMCuUhxuCty1TKVgDhcdcEX4fCnhz9nJFoN9C" class="myButton" style="color:white;">Consulter : 87400 	- ST DENIS DES MURS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87400_st-denis-des-murs/4XTTMJ3zhzYJbMCuUhxuCty1TKVgDhcdcEX4fCnhz9nJFoN9C-K3TgTgMKvVG2Z2Aw5f9UBtQsY9fQYnFekpZsCBtqgFQq3PmcZn5BFShqeYuJk68AWzu55CX1wCarmoQvzh17Ey8UpVbP2cDkXoDYtqRfqjn1UaDhgpt8Y3pEp8Fz6WK1Vr6XNWEr" class="myButton" style="color:white;">Déposer : 87400 	- ST DENIS DES MURS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87400_st-denis-des-murs/4XTTMJ3zhzYJbMCuUhxuCty1TKVgDhcdcEX4fCnhz9nJFoN9C" target="_blank" class="myButton" style="color:white;">Consulter : 87400 	- ST DENIS DES MURS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87400_st-denis-des-murs/4XTTMJ3zhzYJbMCuUhxuCty1TKVgDhcdcEX4fCnhz9nJFoN9C-K3TgTgMKvVG2Z2Aw5f9UBtQsY9fQYnFekpZsCBtqgFQq3PmcZn5BFShqeYuJk68AWzu55CX1wCarmoQvzh17Ey8UpVbP2cDkXoDYtqRfqjn1UaDhgpt8Y3pEp8Fz6WK1Vr6XNWEr" target="_blank" class="myButton" style="color:white;">Déposer : 87400 	- ST DENIS DES MURS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q" class="myButton" style="color:white;">Consulter : 87 	- Haute-Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q" class="myButton" style="color:white;">Déposer : 87 	- Haute-Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q" target="_blank" class="myButton" style="color:white;">Consulter : 87 	- Haute-Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q" target="_blank" class="myButton" style="color:white;">Déposer : 87 	- Haute-Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/73610_st-alban-de-montbel" class="myButton" style="color:white;">Canal de votre commune : 73610 	- ST ALBAN DE MONTBEL</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/73610_st-alban-de-montbel" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 73610 	- ST ALBAN DE MONTBEL</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/73_savoie" class="myButton" style="color:white;">Canal de votre département : 73 	- Savoie</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/73_savoie" target="_blank" class="myButton" style="color:white;">Canal de votre département : 73 	- Savoie</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73610_st-alban-de-montbel/4XTTM7YnBy5PhzCnzxjQoiF7YQfZA2TZXvu8BZ12mCbBQZYZK" class="myButton" style="color:white;">Consulter : 73610 	- ST ALBAN DE MONTBEL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73610_st-alban-de-montbel/4XTTM7YnBy5PhzCnzxjQoiF7YQfZA2TZXvu8BZ12mCbBQZYZK-K3TgV4VSGQutv29yYYapuKXXgFiepiRDo3EqgdUivJBSsZmpHbKjudkci6n5YXj2ExuCR64BiSDvpChwqegNcKqAG4XmFSYSU8cKcSDM1RrAug4G2HdmtZuGW6uuoDF3eA4cgyRf" class="myButton" style="color:white;">Déposer : 73610 	- ST ALBAN DE MONTBEL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73610_st-alban-de-montbel/4XTTM7YnBy5PhzCnzxjQoiF7YQfZA2TZXvu8BZ12mCbBQZYZK" target="_blank" class="myButton" style="color:white;">Consulter : 73610 	- ST ALBAN DE MONTBEL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73610_st-alban-de-montbel/4XTTM7YnBy5PhzCnzxjQoiF7YQfZA2TZXvu8BZ12mCbBQZYZK-K3TgV4VSGQutv29yYYapuKXXgFiepiRDo3EqgdUivJBSsZmpHbKjudkci6n5YXj2ExuCR64BiSDvpChwqegNcKqAG4XmFSYSU8cKcSDM1RrAug4G2HdmtZuGW6uuoDF3eA4cgyRf" target="_blank" class="myButton" style="color:white;">Déposer : 73610 	- ST ALBAN DE MONTBEL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur" class="myButton" style="color:white;">Consulter : 73 	- Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY" class="myButton" style="color:white;">Déposer : 73 	- Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur" target="_blank" class="myButton" style="color:white;">Consulter : 73 	- Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY" target="_blank" class="myButton" style="color:white;">Déposer : 73 	- Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

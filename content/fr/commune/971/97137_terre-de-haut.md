@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/97137_terre-de-haut" class="myButton" style="color:white;">Canal de votre commune : 97137 	- TERRE DE HAUT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97137_terre-de-haut" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 97137 	- TERRE DE HAUT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/971_guadeloupe" class="myButton" style="color:white;">Canal de votre département : 971 	- Guadeloupe</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/971_guadeloupe" target="_blank" class="myButton" style="color:white;">Canal de votre département : 971 	- Guadeloupe</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97137_terre-de-haut/4XTTMHKaRisviQ1Ah6tFHhRPH5GWVUNVPbchVjj4UFhJkoP2o" class="myButton" style="color:white;">Consulter : 97137 	- TERRE DE HAUT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97137_terre-de-haut/4XTTMHKaRisviQ1Ah6tFHhRPH5GWVUNVPbchVjj4UFhJkoP2o-K3TgUF3YSiw84kJpvS6LvZ51PN3oxquU6fQwok9YWFr6Cu5whBWjHLdd7RyXCCEN8AqR5g6CHiqMSywc8SpzvPdA3QXq132mRAqgqkFHWPf9LBrYBJpcUCrT2psrUseFshjqfqPM" class="myButton" style="color:white;">Déposer : 97137 	- TERRE DE HAUT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97137_terre-de-haut/4XTTMHKaRisviQ1Ah6tFHhRPH5GWVUNVPbchVjj4UFhJkoP2o" target="_blank" class="myButton" style="color:white;">Consulter : 97137 	- TERRE DE HAUT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97137_terre-de-haut/4XTTMHKaRisviQ1Ah6tFHhRPH5GWVUNVPbchVjj4UFhJkoP2o-K3TgUF3YSiw84kJpvS6LvZ51PN3oxquU6fQwok9YWFr6Cu5whBWjHLdd7RyXCCEN8AqR5g6CHiqMSywc8SpzvPdA3QXq132mRAqgqkFHWPf9LBrYBJpcUCrT2psrUseFshjqfqPM" target="_blank" class="myButton" style="color:white;">Déposer : 97137 	- TERRE DE HAUT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/971_guadeloupe/4XTTM7K6rrwq5sDHJdGAPfPs2Pu6j4G8QksLbuzteREYGhenX" class="myButton" style="color:white;">Consulter : 971 	- Guadeloupe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/971_guadeloupe/4XTTM7K6rrwq5sDHJdGAPfPs2Pu6j4G8QksLbuzteREYGhenX-K3TgUFuhCwocQVZNmKS671Zr6y9aFC3DHvHFoAAFmkXX6ADwL8ym1poY1JR13Hjq5veEzRdzCyYS6qdxCgfcj2gmfm7mwY7HA3pw6NqT8BmuA2qR3q5F4ETu8voFg1h5CXGYjwg7" class="myButton" style="color:white;">Déposer : 971 	- Guadeloupe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/971_guadeloupe/4XTTM7K6rrwq5sDHJdGAPfPs2Pu6j4G8QksLbuzteREYGhenX" target="_blank" class="myButton" style="color:white;">Consulter : 971 	- Guadeloupe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/971_guadeloupe/4XTTM7K6rrwq5sDHJdGAPfPs2Pu6j4G8QksLbuzteREYGhenX-K3TgUFuhCwocQVZNmKS671Zr6y9aFC3DHvHFoAAFmkXX6ADwL8ym1poY1JR13Hjq5veEzRdzCyYS6qdxCgfcj2gmfm7mwY7HA3pw6NqT8BmuA2qR3q5F4ETu8voFg1h5CXGYjwg7" target="_blank" class="myButton" style="color:white;">Déposer : 971 	- Guadeloupe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

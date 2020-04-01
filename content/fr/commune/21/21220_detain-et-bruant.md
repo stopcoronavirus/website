@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/21220_detain-et-bruant" class="myButton" style="color:white;">Canal de votre commune : 21220 	- DETAIN ET BRUANT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21220_detain-et-bruant" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 21220 	- DETAIN ET BRUANT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor" class="myButton" style="color:white;">Canal de votre département : 21 	- Côte-d'Or</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor" target="_blank" class="myButton" style="color:white;">Canal de votre département : 21 	- Côte-d'Or</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21220_detain-et-bruant/4XTTMHpvsdXGyC6Xtx25ejEebboPxMJreGj4cTuT8ZPcdBuQH" class="myButton" style="color:white;">Consulter : 21220 	- DETAIN ET BRUANT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21220_detain-et-bruant/4XTTMHpvsdXGyC6Xtx25ejEebboPxMJreGj4cTuT8ZPcdBuQH-K3TgU1U4rVxqG4utS9eFow6hFwcykfQHP2gsEwnpPm4CgDDh8gvDe21TXhxiBcsx1f19x3aGd2i2FVMYNkqM91H3UYw89y2axHW9uWTEc6oWVZ1oK9HXz4s5enC33pnvTPEH8M25" class="myButton" style="color:white;">Déposer : 21220 	- DETAIN ET BRUANT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21220_detain-et-bruant/4XTTMHpvsdXGyC6Xtx25ejEebboPxMJreGj4cTuT8ZPcdBuQH" target="_blank" class="myButton" style="color:white;">Consulter : 21220 	- DETAIN ET BRUANT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21220_detain-et-bruant/4XTTMHpvsdXGyC6Xtx25ejEebboPxMJreGj4cTuT8ZPcdBuQH-K3TgU1U4rVxqG4utS9eFow6hFwcykfQHP2gsEwnpPm4CgDDh8gvDe21TXhxiBcsx1f19x3aGd2i2FVMYNkqM91H3UYw89y2axHW9uWTEc6oWVZ1oK9HXz4s5enC33pnvTPEH8M25" target="_blank" class="myButton" style="color:white;">Déposer : 21220 	- DETAIN ET BRUANT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv" class="myButton" style="color:white;">Consulter : 21 	- Côte-d'Or</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42" class="myButton" style="color:white;">Déposer : 21 	- Côte-d'Or</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv" target="_blank" class="myButton" style="color:white;">Consulter : 21 	- Côte-d'Or</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42" target="_blank" class="myButton" style="color:white;">Déposer : 21 	- Côte-d'Or</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

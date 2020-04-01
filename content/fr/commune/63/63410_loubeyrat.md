@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/63410_loubeyrat" class="myButton" style="color:white;">Canal de votre commune : 63410 	- LOUBEYRAT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63410_loubeyrat" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 63410 	- LOUBEYRAT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome" class="myButton" style="color:white;">Canal de votre département : 63 	- Puy-de-Dôme</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome" target="_blank" class="myButton" style="color:white;">Canal de votre département : 63 	- Puy-de-Dôme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63410_loubeyrat/4XTTM75GX9WXVLYwcnYZ96MxUMM13oCUUqk1f14jz4JrEDU3v" class="myButton" style="color:white;">Consulter : 63410 	- LOUBEYRAT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63410_loubeyrat/4XTTM75GX9WXVLYwcnYZ96MxUMM13oCUUqk1f14jz4JrEDU3v-K3TgTpdr3doGmgYnKSsCfLho4RyKaZJWnxGWvAxwj41Mj2UHt3zC6eyKMoT3ZEPgDVM6yxLdF2eJqXyaWrmSYXPp6JFB7amseBskvpRRSauNTPc8FZ4EHTFAvDvKrSwi5fMw7G5r" class="myButton" style="color:white;">Déposer : 63410 	- LOUBEYRAT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63410_loubeyrat/4XTTM75GX9WXVLYwcnYZ96MxUMM13oCUUqk1f14jz4JrEDU3v" target="_blank" class="myButton" style="color:white;">Consulter : 63410 	- LOUBEYRAT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63410_loubeyrat/4XTTM75GX9WXVLYwcnYZ96MxUMM13oCUUqk1f14jz4JrEDU3v-K3TgTpdr3doGmgYnKSsCfLho4RyKaZJWnxGWvAxwj41Mj2UHt3zC6eyKMoT3ZEPgDVM6yxLdF2eJqXyaWrmSYXPp6JFB7amseBskvpRRSauNTPc8FZ4EHTFAvDvKrSwi5fMw7G5r" target="_blank" class="myButton" style="color:white;">Déposer : 63410 	- LOUBEYRAT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU" class="myButton" style="color:white;">Consulter : 63 	- Puy-de-Dôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g" class="myButton" style="color:white;">Déposer : 63 	- Puy-de-Dôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU" target="_blank" class="myButton" style="color:white;">Consulter : 63 	- Puy-de-Dôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g" target="_blank" class="myButton" style="color:white;">Déposer : 63 	- Puy-de-Dôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

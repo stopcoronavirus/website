@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/21520_veuxhaulles-sur-aube" class="myButton" style="color:white;">Canal de votre commune : 21520 	- VEUXHAULLES SUR AUBE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21520_veuxhaulles-sur-aube" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 21520 	- VEUXHAULLES SUR AUBE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor" class="myButton" style="color:white;">Canal de votre département : 21 	- Côte-d'Or</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor" target="_blank" class="myButton" style="color:white;">Canal de votre département : 21 	- Côte-d'Or</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21520_veuxhaulles-sur-aube/4XTTM426w5hAFkiecDqcL95S8MMcveBnMZwbys8Yx9cLFnTYS" class="myButton" style="color:white;">Consulter : 21520 	- VEUXHAULLES SUR AUBE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21520_veuxhaulles-sur-aube/4XTTM426w5hAFkiecDqcL95S8MMcveBnMZwbys8Yx9cLFnTYS-K3TgUgHJqVoDCMqmT8tLeb1FQHRhxVHyj3eyZrqrBpv6st3dsMiyfS2f7V7aDwHkAq7p11vmiGFWFZcUmiHzKUia34jUZq8T6pFmqrBg3Xy3f2ip43C9zHER9ZedufocqhMXk1hg" class="myButton" style="color:white;">Déposer : 21520 	- VEUXHAULLES SUR AUBE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21520_veuxhaulles-sur-aube/4XTTM426w5hAFkiecDqcL95S8MMcveBnMZwbys8Yx9cLFnTYS" target="_blank" class="myButton" style="color:white;">Consulter : 21520 	- VEUXHAULLES SUR AUBE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21520_veuxhaulles-sur-aube/4XTTM426w5hAFkiecDqcL95S8MMcveBnMZwbys8Yx9cLFnTYS-K3TgUgHJqVoDCMqmT8tLeb1FQHRhxVHyj3eyZrqrBpv6st3dsMiyfS2f7V7aDwHkAq7p11vmiGFWFZcUmiHzKUia34jUZq8T6pFmqrBg3Xy3f2ip43C9zHER9ZedufocqhMXk1hg" target="_blank" class="myButton" style="color:white;">Déposer : 21520 	- VEUXHAULLES SUR AUBE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv" class="myButton" style="color:white;">Consulter : 21 	- Côte-d'Or</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42" class="myButton" style="color:white;">Déposer : 21 	- Côte-d'Or</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv" target="_blank" class="myButton" style="color:white;">Consulter : 21 	- Côte-d'Or</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42" target="_blank" class="myButton" style="color:white;">Déposer : 21 	- Côte-d'Or</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

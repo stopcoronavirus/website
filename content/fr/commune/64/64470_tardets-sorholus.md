@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/64470_tardets-sorholus" class="myButton" style="color:white;">Canal de votre commune : 64470 	- TARDETS SORHOLUS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/64470_tardets-sorholus" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 64470 	- TARDETS SORHOLUS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/64_pyrenees-atlantiques" class="myButton" style="color:white;">Canal de votre département : 64 	- Pyrénées-Atlantiques</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/64_pyrenees-atlantiques" target="_blank" class="myButton" style="color:white;">Canal de votre département : 64 	- Pyrénées-Atlantiques</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64470_tardets-sorholus/4XTTM3DYNJstzhgJf2pFrnjgGFnfXofwzyX76z5G3nSHPPNQf" class="myButton" style="color:white;">Consulter : 64470 	- TARDETS SORHOLUS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64470_tardets-sorholus/4XTTM3DYNJstzhgJf2pFrnjgGFnfXofwzyX76z5G3nSHPPNQf-K3TgUHun8Ys5Mhnmx3gXVpNWg7zc6RHSGfiTA7Js4CuXo9Hf3zK8qDTnaBFoEmFm5UHsW47hJF2mknSzofqK91dN2L3FjWnn3GY3bJm6JTNewZuQDj6eBKag3t2QbaAKNXhcQi2T" class="myButton" style="color:white;">Déposer : 64470 	- TARDETS SORHOLUS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64470_tardets-sorholus/4XTTM3DYNJstzhgJf2pFrnjgGFnfXofwzyX76z5G3nSHPPNQf" target="_blank" class="myButton" style="color:white;">Consulter : 64470 	- TARDETS SORHOLUS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64470_tardets-sorholus/4XTTM3DYNJstzhgJf2pFrnjgGFnfXofwzyX76z5G3nSHPPNQf-K3TgUHun8Ys5Mhnmx3gXVpNWg7zc6RHSGfiTA7Js4CuXo9Hf3zK8qDTnaBFoEmFm5UHsW47hJF2mknSzofqK91dN2L3FjWnn3GY3bJm6JTNewZuQDj6eBKag3t2QbaAKNXhcQi2T" target="_blank" class="myButton" style="color:white;">Déposer : 64470 	- TARDETS SORHOLUS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k" class="myButton" style="color:white;">Consulter : 64 	- Pyrénées-Atlantiques</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4" class="myButton" style="color:white;">Déposer : 64 	- Pyrénées-Atlantiques</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k" target="_blank" class="myButton" style="color:white;">Consulter : 64 	- Pyrénées-Atlantiques</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/64_pyrenees-atlantiques/4XTTMAyjbgTBNUagU9A37yzoKapiUPY6Q6pdye8M6gLQAq87k-K3TgULNpiKDqMYgimjUsTonGXvvMhrCfx6wytABrgvwweaKTYE3fKA9Q2dpSzSkwsmWNiLtNLNX9zFHSSWFh6sT9LWiHFdKt2SnfwuBiu57M4dWWbJD6nXdfDaLKidxCJaUEW6j4" target="_blank" class="myButton" style="color:white;">Déposer : 64 	- Pyrénées-Atlantiques</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

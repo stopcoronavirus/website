@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/82370_reynies" class="myButton" style="color:white;">Canal de votre commune : 82370 	- REYNIES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/82370_reynies" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 82370 	- REYNIES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/82_tarn-et-garonne" class="myButton" style="color:white;">Canal de votre département : 82 	- Tarn-et-Garonne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/82_tarn-et-garonne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 82 	- Tarn-et-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82370_reynies/4XTTMHYUKwSQSiKs9mpynHfqWEjXDKRuGSMHWP6ouPZYiWfPP" class="myButton" style="color:white;">Consulter : 82370 	- REYNIES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82370_reynies/4XTTMHYUKwSQSiKs9mpynHfqWEjXDKRuGSMHWP6ouPZYiWfPP-K3TgUo1GZC4kuvw7aojwgbzhDxpR4VQqJhEjb6DbpeXA5nt6BbJ89ktyZzdPhxUJrHB8TZVuE5VkcMjo44KN6uEBs9xaabPzomVgvbwqV1znBKGwzB4c4R9XKwT4bJrZfihRyPUm" class="myButton" style="color:white;">Déposer : 82370 	- REYNIES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82370_reynies/4XTTMHYUKwSQSiKs9mpynHfqWEjXDKRuGSMHWP6ouPZYiWfPP" target="_blank" class="myButton" style="color:white;">Consulter : 82370 	- REYNIES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82370_reynies/4XTTMHYUKwSQSiKs9mpynHfqWEjXDKRuGSMHWP6ouPZYiWfPP-K3TgUo1GZC4kuvw7aojwgbzhDxpR4VQqJhEjb6DbpeXA5nt6BbJ89ktyZzdPhxUJrHB8TZVuE5VkcMjo44KN6uEBs9xaabPzomVgvbwqV1znBKGwzB4c4R9XKwT4bJrZfihRyPUm" target="_blank" class="myButton" style="color:white;">Déposer : 82370 	- REYNIES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP" class="myButton" style="color:white;">Consulter : 82 	- Tarn-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT" class="myButton" style="color:white;">Déposer : 82 	- Tarn-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP" target="_blank" class="myButton" style="color:white;">Consulter : 82 	- Tarn-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/82_tarn-et-garonne/4XTTM5e7qbPLjcjvffpUoDUtP2wG2E3FWcYHf6gUUcCoWgJmP-K3TgTpFmMG6qjUFuzWriJrrX4DEDnwQKfHryDgnkoVHySTXtiuM5sAeFAECbvY2TgZUmT1yQzfs1SJt9H1YpW17WQrD6489mtTPCmiSZwM7a8W9tpSgRvaAKPT6DoEi3ParueYPT" target="_blank" class="myButton" style="color:white;">Déposer : 82 	- Tarn-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

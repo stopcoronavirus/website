@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/20242_vezzani" class="myButton" style="color:white;">Canal de votre commune : 20242 	- VEZZANI</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/20242_vezzani" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 20242 	- VEZZANI</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/2B_haute-corse" class="myButton" style="color:white;">Canal de votre département : 2B 	- Haute-Corse</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/2B_haute-corse" target="_blank" class="myButton" style="color:white;">Canal de votre département : 2B 	- Haute-Corse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/20242_vezzani/4XTTMGU8txkWRFF6oVAYFd4Mgen92cEyLqPD5PRaic4AitXnh" class="myButton" style="color:white;">Consulter : 20242 	- VEZZANI</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/20242_vezzani/4XTTMGU8txkWRFF6oVAYFd4Mgen92cEyLqPD5PRaic4AitXnh-K3TgUz7N2dABgDVkhN7wDH1uqD15eKFgsjgrmSmV8EuqPWzhX2fsPcnAQ3UTHXoUegJdwSDceuGxaoKWfGMKRYYBDSzyf6yUQcSjm75AcrJioxHKoAhANCZfkw5Yb555LSRGRCqX" class="myButton" style="color:white;">Déposer : 20242 	- VEZZANI</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/20242_vezzani/4XTTMGU8txkWRFF6oVAYFd4Mgen92cEyLqPD5PRaic4AitXnh" target="_blank" class="myButton" style="color:white;">Consulter : 20242 	- VEZZANI</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/20242_vezzani/4XTTMGU8txkWRFF6oVAYFd4Mgen92cEyLqPD5PRaic4AitXnh-K3TgUz7N2dABgDVkhN7wDH1uqD15eKFgsjgrmSmV8EuqPWzhX2fsPcnAQ3UTHXoUegJdwSDceuGxaoKWfGMKRYYBDSzyf6yUQcSjm75AcrJioxHKoAhANCZfkw5Yb555LSRGRCqX" target="_blank" class="myButton" style="color:white;">Déposer : 20242 	- VEZZANI</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL" class="myButton" style="color:white;">Consulter : 2B 	- Haute-Corse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU" class="myButton" style="color:white;">Déposer : 2B 	- Haute-Corse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL" target="_blank" class="myButton" style="color:white;">Consulter : 2B 	- Haute-Corse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/2B_haute-corse/4XTTM87Sq9H9VGhgfUZD3Gezwrj8N5z6knoz5BAwdosheHHeL-K3TgUV59XuvGf18cDdGTrFd1c81zv5nYDYvQ4PS581PiyqBbpp8BuL6ApnJh8kb4G7bkfAKhiVca8JWe4RPEVdqnkmY4488xcqkqrVa3juL21D46BA2j9rwevsFztusEazfqdJGU" target="_blank" class="myButton" style="color:white;">Déposer : 2B 	- Haute-Corse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

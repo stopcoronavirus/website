@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/94170_le-perreux-sur-marne" class="myButton" style="color:white;">Canal de votre commune : 94170 	- LE PERREUX SUR MARNE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/94170_le-perreux-sur-marne" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 94170 	- LE PERREUX SUR MARNE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/94_val-de-marne" class="myButton" style="color:white;">Canal de votre département : 94 	- Val-de-Marne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/94_val-de-marne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 94 	- Val-de-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94170_le-perreux-sur-marne/4XTTM1sLdhXuEBzWzXUBZyfKKJfLm687shd8REtAsQWwcv3WM" class="myButton" style="color:white;">Consulter : 94170 	- LE PERREUX SUR MARNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94170_le-perreux-sur-marne/4XTTM1sLdhXuEBzWzXUBZyfKKJfLm687shd8REtAsQWwcv3WM-K3TgUx1YiXke8WcVTz7JVhtbLikSt67SL69enppnnZQ9Kix14JUVeXph33vJck6pYCEnSAkn1gc1FrpQP15FcYSuozYC65AQanFVYvVPYGbM2NC13gYdkhondvShbkwSiegTMMFB" class="myButton" style="color:white;">Déposer : 94170 	- LE PERREUX SUR MARNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94170_le-perreux-sur-marne/4XTTM1sLdhXuEBzWzXUBZyfKKJfLm687shd8REtAsQWwcv3WM" target="_blank" class="myButton" style="color:white;">Consulter : 94170 	- LE PERREUX SUR MARNE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94170_le-perreux-sur-marne/4XTTM1sLdhXuEBzWzXUBZyfKKJfLm687shd8REtAsQWwcv3WM-K3TgUx1YiXke8WcVTz7JVhtbLikSt67SL69enppnnZQ9Kix14JUVeXph33vJck6pYCEnSAkn1gc1FrpQP15FcYSuozYC65AQanFVYvVPYGbM2NC13gYdkhondvShbkwSiegTMMFB" target="_blank" class="myButton" style="color:white;">Déposer : 94170 	- LE PERREUX SUR MARNE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp" class="myButton" style="color:white;">Consulter : 94 	- Val-de-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p" class="myButton" style="color:white;">Déposer : 94 	- Val-de-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp" target="_blank" class="myButton" style="color:white;">Consulter : 94 	- Val-de-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/94_val-de-marne/4XTTMATxUAopTXUeZ2PnmUyWhrE1nAE6BAMWHeo541LfPQtDp-K3TgV1hCNH2Q1sK2DQuaiFv8vhRfzLDcVGnm66dzXCicEVA3dMoL1ZAWLuZ1H8F2mPhTy5VS9BRZb2k91GKcXL9XN2QT1YcoSaL9WNheu325VyLFYMkgV7VT8n5Dwefz9MPfNk5p" target="_blank" class="myButton" style="color:white;">Déposer : 94 	- Val-de-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

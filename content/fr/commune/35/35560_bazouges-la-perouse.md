@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/35560_bazouges-la-perouse" class="myButton" style="color:white;">Canal de votre commune : 35560 	- BAZOUGES LA PEROUSE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/35560_bazouges-la-perouse" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 35560 	- BAZOUGES LA PEROUSE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/35_ille-et-vilaine" class="myButton" style="color:white;">Canal de votre département : 35 	- Ille-et-Vilaine</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/35_ille-et-vilaine" target="_blank" class="myButton" style="color:white;">Canal de votre département : 35 	- Ille-et-Vilaine</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35560_bazouges-la-perouse/4XTTM1P7N57Zu2jxFM3F8V3YCsV1b9zV9ZtiwakX9XdQgfkhZ" class="myButton" style="color:white;">Consulter : 35560 	- BAZOUGES LA PEROUSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35560_bazouges-la-perouse/4XTTM1P7N57Zu2jxFM3F8V3YCsV1b9zV9ZtiwakX9XdQgfkhZ-K3TgU5xbq7CbwkYtVuxcvHpRUuckR12r8ZBiWVJ3LBPu7y4qhR1MgkSWYb9vW91dBySXDFggw9S3jApxDzKfLFGHvVVm3tVTGm6X731dNVmtWMHBNHxN3wjggbxZw8gbnN3juuby" class="myButton" style="color:white;">Déposer : 35560 	- BAZOUGES LA PEROUSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35560_bazouges-la-perouse/4XTTM1P7N57Zu2jxFM3F8V3YCsV1b9zV9ZtiwakX9XdQgfkhZ" target="_blank" class="myButton" style="color:white;">Consulter : 35560 	- BAZOUGES LA PEROUSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35560_bazouges-la-perouse/4XTTM1P7N57Zu2jxFM3F8V3YCsV1b9zV9ZtiwakX9XdQgfkhZ-K3TgU5xbq7CbwkYtVuxcvHpRUuckR12r8ZBiWVJ3LBPu7y4qhR1MgkSWYb9vW91dBySXDFggw9S3jApxDzKfLFGHvVVm3tVTGm6X731dNVmtWMHBNHxN3wjggbxZw8gbnN3juuby" target="_blank" class="myButton" style="color:white;">Déposer : 35560 	- BAZOUGES LA PEROUSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju" class="myButton" style="color:white;">Consulter : 35 	- Ille-et-Vilaine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy" class="myButton" style="color:white;">Déposer : 35 	- Ille-et-Vilaine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju" target="_blank" class="myButton" style="color:white;">Consulter : 35 	- Ille-et-Vilaine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy" target="_blank" class="myButton" style="color:white;">Déposer : 35 	- Ille-et-Vilaine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

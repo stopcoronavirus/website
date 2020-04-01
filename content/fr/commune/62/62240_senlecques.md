@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/62240_senlecques" class="myButton" style="color:white;">Canal de votre commune : 62240 	- SENLECQUES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/62240_senlecques" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 62240 	- SENLECQUES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/62_pas-de-calais" class="myButton" style="color:white;">Canal de votre département : 62 	- Pas-de-Calais</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/62_pas-de-calais" target="_blank" class="myButton" style="color:white;">Canal de votre département : 62 	- Pas-de-Calais</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62240_senlecques/4XTTM9o2NTPE7aSxx5Mbogd9KWWAMvF1HMcuYeyMHjWWT8jj3" class="myButton" style="color:white;">Consulter : 62240 	- SENLECQUES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62240_senlecques/4XTTM9o2NTPE7aSxx5Mbogd9KWWAMvF1HMcuYeyMHjWWT8jj3-K3TgUji3i6nu7iudeWqgZod8W4ydfidwGUj7rFyUD5zzErGcEcBBhDRgrgecE3METTN51BgrH8AozjUHfHGX5UpWqDRPu7WY8W32odH3XR7ifmZB4oMMSzHR14RQxtuUqCGLMMrm" class="myButton" style="color:white;">Déposer : 62240 	- SENLECQUES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62240_senlecques/4XTTM9o2NTPE7aSxx5Mbogd9KWWAMvF1HMcuYeyMHjWWT8jj3" target="_blank" class="myButton" style="color:white;">Consulter : 62240 	- SENLECQUES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62240_senlecques/4XTTM9o2NTPE7aSxx5Mbogd9KWWAMvF1HMcuYeyMHjWWT8jj3-K3TgUji3i6nu7iudeWqgZod8W4ydfidwGUj7rFyUD5zzErGcEcBBhDRgrgecE3METTN51BgrH8AozjUHfHGX5UpWqDRPu7WY8W32odH3XR7ifmZB4oMMSzHR14RQxtuUqCGLMMrm" target="_blank" class="myButton" style="color:white;">Déposer : 62240 	- SENLECQUES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M" class="myButton" style="color:white;">Consulter : 62 	- Pas-de-Calais</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD" class="myButton" style="color:white;">Déposer : 62 	- Pas-de-Calais</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M" target="_blank" class="myButton" style="color:white;">Consulter : 62 	- Pas-de-Calais</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/62_pas-de-calais/4XTTM75m9wpV3Ekzoo4rfh3wGtVqt7nPTzMg1MYVhwVomdK8M-K3TgUmr9JtwkYScCjcSURkMhybGQe5kHc1bRyhUZ1Wa2wG6pz5UNZNwoMKw4Jus6Jj7CvvxkpNkxiJNsUrpUeN5qz4STN1oot9grws6ozQYd7932KDHnTUhWPve6bWc9W3XBLASD" target="_blank" class="myButton" style="color:white;">Déposer : 62 	- Pas-de-Calais</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

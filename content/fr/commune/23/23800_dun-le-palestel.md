@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/23800_dun-le-palestel" class="myButton" style="color:white;">Canal de votre commune : 23800 	- DUN LE PALESTEL</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/23800_dun-le-palestel" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 23800 	- DUN LE PALESTEL</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/23_creuse" class="myButton" style="color:white;">Canal de votre département : 23 	- Creuse</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/23_creuse" target="_blank" class="myButton" style="color:white;">Canal de votre département : 23 	- Creuse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/23800_dun-le-palestel/4XTTM6J52TaU18QGUhiprBoaWihqE7FhLxnRPq9juW1DpZEs5" class="myButton" style="color:white;">Consulter : 23800 	- DUN LE PALESTEL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/23800_dun-le-palestel/4XTTM6J52TaU18QGUhiprBoaWihqE7FhLxnRPq9juW1DpZEs5-K3TgV2PNhSq2jFtHPZpFFWhkQvpX2np39CqUVjtTKo4vntbhbVmBM3TXRnNibhZRbd8jWA4TweEmhXnEsJkm2pHRWZ9jChYS7Wobuh79VtPwsCLhVRrvYscfU6gghVjA9xT46aVh" class="myButton" style="color:white;">Déposer : 23800 	- DUN LE PALESTEL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/23800_dun-le-palestel/4XTTM6J52TaU18QGUhiprBoaWihqE7FhLxnRPq9juW1DpZEs5" target="_blank" class="myButton" style="color:white;">Consulter : 23800 	- DUN LE PALESTEL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/23800_dun-le-palestel/4XTTM6J52TaU18QGUhiprBoaWihqE7FhLxnRPq9juW1DpZEs5-K3TgV2PNhSq2jFtHPZpFFWhkQvpX2np39CqUVjtTKo4vntbhbVmBM3TXRnNibhZRbd8jWA4TweEmhXnEsJkm2pHRWZ9jChYS7Wobuh79VtPwsCLhVRrvYscfU6gghVjA9xT46aVh" target="_blank" class="myButton" style="color:white;">Déposer : 23800 	- DUN LE PALESTEL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7" class="myButton" style="color:white;">Consulter : 23 	- Creuse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1" class="myButton" style="color:white;">Déposer : 23 	- Creuse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7" target="_blank" class="myButton" style="color:white;">Consulter : 23 	- Creuse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/23_creuse/4XTTM3UzaPYK4ExnG3XV9CZFuonqabg77JTNiqvJ5MQS23jj7-K3TgUKE86JxR4JSYXC5aZe6fqBSBprUrmaVFUW2jmdnpHS2xDyA3bckVFWgGTEWFg2GMkYcK4FztBw3HJgWqQMWmUjaPRWNNPUiVES6qbqTDLs9pxQ3uHzULq9XSj5J8FTp6MDn1" target="_blank" class="myButton" style="color:white;">Déposer : 23 	- Creuse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

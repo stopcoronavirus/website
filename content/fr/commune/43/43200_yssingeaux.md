@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/43200_yssingeaux" class="myButton" style="color:white;">Canal de votre commune : 43200 	- YSSINGEAUX</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/43200_yssingeaux" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 43200 	- YSSINGEAUX</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/43_haute-loire" class="myButton" style="color:white;">Canal de votre département : 43 	- Haute-Loire</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/43_haute-loire" target="_blank" class="myButton" style="color:white;">Canal de votre département : 43 	- Haute-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43200_yssingeaux/4XTTM7QLZ663kMtVjDLDs1N31xbE711UAyvoZoDDeAPLxRram" class="myButton" style="color:white;">Consulter : 43200 	- YSSINGEAUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43200_yssingeaux/4XTTM7QLZ663kMtVjDLDs1N31xbE711UAyvoZoDDeAPLxRram-K3TgV6aTmnkQB7DV4aPqL2q3jULJcMyNZgQy1gn5RYp7apXu5yusnctssxaKoz1THbPk2DQfVV3Dvi3bXDe7myrXN9dPoPS7fvLErEscpMry8SzHQQrmziE749baDz4CyzqKgCoj" class="myButton" style="color:white;">Déposer : 43200 	- YSSINGEAUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43200_yssingeaux/4XTTM7QLZ663kMtVjDLDs1N31xbE711UAyvoZoDDeAPLxRram" target="_blank" class="myButton" style="color:white;">Consulter : 43200 	- YSSINGEAUX</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43200_yssingeaux/4XTTM7QLZ663kMtVjDLDs1N31xbE711UAyvoZoDDeAPLxRram-K3TgV6aTmnkQB7DV4aPqL2q3jULJcMyNZgQy1gn5RYp7apXu5yusnctssxaKoz1THbPk2DQfVV3Dvi3bXDe7myrXN9dPoPS7fvLErEscpMry8SzHQQrmziE749baDz4CyzqKgCoj" target="_blank" class="myButton" style="color:white;">Déposer : 43200 	- YSSINGEAUX</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX" class="myButton" style="color:white;">Consulter : 43 	- Haute-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b" class="myButton" style="color:white;">Déposer : 43 	- Haute-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX" target="_blank" class="myButton" style="color:white;">Consulter : 43 	- Haute-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b" target="_blank" class="myButton" style="color:white;">Déposer : 43 	- Haute-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

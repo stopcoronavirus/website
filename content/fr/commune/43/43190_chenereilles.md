@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/43190_chenereilles" class="myButton" style="color:white;">Canal de votre commune : 43190 	- CHENEREILLES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/43190_chenereilles" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 43190 	- CHENEREILLES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/43_haute-loire" class="myButton" style="color:white;">Canal de votre département : 43 	- Haute-Loire</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/43_haute-loire" target="_blank" class="myButton" style="color:white;">Canal de votre département : 43 	- Haute-Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43190_chenereilles/4XTTMFFWts8LpTaWKVfkDWPChnXgaSAAG5h9qJv4Fco4cQDeC" class="myButton" style="color:white;">Consulter : 43190 	- CHENEREILLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43190_chenereilles/4XTTMFFWts8LpTaWKVfkDWPChnXgaSAAG5h9qJv4Fco4cQDeC-K3TgUJLvpD2wrRidZQJvThsUdgdn4yTyXKa1XmUUFuweUfuka4ZKBWPD3deCWz8TKsdrj7FYkfWiR5FjAHDACYb15JzAu5d1RWWw8FPLdB6EFSrYUg2oSnAxHpXk4278aHMfFKat" class="myButton" style="color:white;">Déposer : 43190 	- CHENEREILLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43190_chenereilles/4XTTMFFWts8LpTaWKVfkDWPChnXgaSAAG5h9qJv4Fco4cQDeC" target="_blank" class="myButton" style="color:white;">Consulter : 43190 	- CHENEREILLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43190_chenereilles/4XTTMFFWts8LpTaWKVfkDWPChnXgaSAAG5h9qJv4Fco4cQDeC-K3TgUJLvpD2wrRidZQJvThsUdgdn4yTyXKa1XmUUFuweUfuka4ZKBWPD3deCWz8TKsdrj7FYkfWiR5FjAHDACYb15JzAu5d1RWWw8FPLdB6EFSrYUg2oSnAxHpXk4278aHMfFKat" target="_blank" class="myButton" style="color:white;">Déposer : 43190 	- CHENEREILLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX" class="myButton" style="color:white;">Consulter : 43 	- Haute-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b" class="myButton" style="color:white;">Déposer : 43 	- Haute-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX" target="_blank" class="myButton" style="color:white;">Consulter : 43 	- Haute-Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/43_haute-loire/4XTTM3hhLVMM3Sx5kxoou4qLMck2RjGiJF8bjxPuKy3VyRdWX-K3TgTnndWXCUw13Pw3gJoEo9qHUCGXZ4frH2coLZWWDcoWKo22cU2VNENpi117F5bi6bu3WHMPd2VTrETU2R5owQhCBrUQgvCKerk4NqeDhN66egG9mHY8CCfEckbCp9SecEdL6b" target="_blank" class="myButton" style="color:white;">Déposer : 43 	- Haute-Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

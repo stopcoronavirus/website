@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/27190_st-elier" class="myButton" style="color:white;">Canal de votre commune : 27190 	- ST ELIER</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27190_st-elier" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 27190 	- ST ELIER</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/27_eure" class="myButton" style="color:white;">Canal de votre département : 27 	- Eure</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/27_eure" target="_blank" class="myButton" style="color:white;">Canal de votre département : 27 	- Eure</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27190_st-elier/4XTTMBAmbVJjMfLtNPM6EJEzZ5cTjnob5jj67bwAHqLZdASbp" class="myButton" style="color:white;">Consulter : 27190 	- ST ELIER</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27190_st-elier/4XTTMBAmbVJjMfLtNPM6EJEzZ5cTjnob5jj67bwAHqLZdASbp-K3TgV4kbKzyH9dJgjY2m4jT1bLEnyJbc4Yp4v7BT7RfAqUeLLBV8AwLyBdEzmSSZTg4whhcdwAoBfxo2N3ADZpDav3Ao9TQLYgBun6y7wY3bh1t7M3jB6RvcLxL3nTC9WB6ev7hp" class="myButton" style="color:white;">Déposer : 27190 	- ST ELIER</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27190_st-elier/4XTTMBAmbVJjMfLtNPM6EJEzZ5cTjnob5jj67bwAHqLZdASbp" target="_blank" class="myButton" style="color:white;">Consulter : 27190 	- ST ELIER</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27190_st-elier/4XTTMBAmbVJjMfLtNPM6EJEzZ5cTjnob5jj67bwAHqLZdASbp-K3TgV4kbKzyH9dJgjY2m4jT1bLEnyJbc4Yp4v7BT7RfAqUeLLBV8AwLyBdEzmSSZTg4whhcdwAoBfxo2N3ADZpDav3Ao9TQLYgBun6y7wY3bh1t7M3jB6RvcLxL3nTC9WB6ev7hp" target="_blank" class="myButton" style="color:white;">Déposer : 27190 	- ST ELIER</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg" class="myButton" style="color:white;">Consulter : 27 	- Eure</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r" class="myButton" style="color:white;">Déposer : 27 	- Eure</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg" target="_blank" class="myButton" style="color:white;">Consulter : 27 	- Eure</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/27_eure/4XTTMBaX6xSM64UAX3YybedrsEGYEJtt6vopdQsPEFtGijgwg-K3TgUmjy61Gu7ZFzjoVmiacXP2Rc4pq6sxVCYUX3mFQZWQw9yCKsEoAMagtuW4jJTYhK96DsWW4cPmZLagvQNZ34BscGcu4btrtJibt18c1mpqofaWe6Q3RartDiuMTjY7NrsH4r" target="_blank" class="myButton" style="color:white;">Déposer : 27 	- Eure</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

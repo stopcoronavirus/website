@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/74390_chatel" class="myButton" style="color:white;">Canal de votre commune : 74390 	- CHATEL</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/74390_chatel" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 74390 	- CHATEL</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/74_haute-savoie" class="myButton" style="color:white;">Canal de votre département : 74 	- Haute-Savoie</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/74_haute-savoie" target="_blank" class="myButton" style="color:white;">Canal de votre département : 74 	- Haute-Savoie</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74390_chatel/4XTTMEASsF14ihC1SX17yS5SUiDguMdctfA1yQqmXQ3REMATV" class="myButton" style="color:white;">Consulter : 74390 	- CHATEL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74390_chatel/4XTTMEASsF14ihC1SX17yS5SUiDguMdctfA1yQqmXQ3REMATV-K3TgU1gyXGRa6xdHAYtfRR9HwHdCndi4y64erSnz9NEaa6U3mRwkLJD7mNxWSWcmfm2NdsaC7UDqVPnnppSWaqJARvfxojXkScJZtaJdSxJVAbdMEn1umMrfXggBUSzbMPznevJo" class="myButton" style="color:white;">Déposer : 74390 	- CHATEL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74390_chatel/4XTTMEASsF14ihC1SX17yS5SUiDguMdctfA1yQqmXQ3REMATV" target="_blank" class="myButton" style="color:white;">Consulter : 74390 	- CHATEL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74390_chatel/4XTTMEASsF14ihC1SX17yS5SUiDguMdctfA1yQqmXQ3REMATV-K3TgU1gyXGRa6xdHAYtfRR9HwHdCndi4y64erSnz9NEaa6U3mRwkLJD7mNxWSWcmfm2NdsaC7UDqVPnnppSWaqJARvfxojXkScJZtaJdSxJVAbdMEn1umMrfXggBUSzbMPznevJo" target="_blank" class="myButton" style="color:white;">Déposer : 74390 	- CHATEL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1" class="myButton" style="color:white;">Consulter : 74 	- Haute-Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1" class="myButton" style="color:white;">Déposer : 74 	- Haute-Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1" target="_blank" class="myButton" style="color:white;">Consulter : 74 	- Haute-Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/74_haute-savoie/4XTTMFDshDtSL6rRR8C8Ep7ooEaScrNDwxDV25EFPHeHZ52x1-K3TgUmVjcaKpCDSkKWpCGUbhE7ZQFBo1ii5Ea22w8hBabevqkbzB6WYLGakWLpyfVQhLdDqwN6hV7KHufsmFnGz97XzEPCcG8sZ1JFmJ2VEoxceE68UFJnVWRpsQxbALCnY5BDJ1" target="_blank" class="myButton" style="color:white;">Déposer : 74 	- Haute-Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

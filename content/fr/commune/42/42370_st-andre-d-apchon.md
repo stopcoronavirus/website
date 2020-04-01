@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/42370_st-andre-d-apchon" class="myButton" style="color:white;">Canal de votre commune : 42370 	- ST ANDRE D APCHON</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/42370_st-andre-d-apchon" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 42370 	- ST ANDRE D APCHON</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/42_loire" class="myButton" style="color:white;">Canal de votre département : 42 	- Loire</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/42_loire" target="_blank" class="myButton" style="color:white;">Canal de votre département : 42 	- Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42370_st-andre-d-apchon/4XTTM3mHTcT51aYaja4HK7j3B9KfAiSPdVQhgnXS3qH612nXk" class="myButton" style="color:white;">Consulter : 42370 	- ST ANDRE D APCHON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42370_st-andre-d-apchon/4XTTM3mHTcT51aYaja4HK7j3B9KfAiSPdVQhgnXS3qH612nXk-K3TgUxyJSb3QUqeq5B3uoW6sjPFqPfAzzic4t5UQVXGAyeNJxA1UzwY4X8DyYHjFfieELmTRqY2f6FMG2eYjA1ShhUynAYrLxMkqDRhSRiTuci1JNTopHL2rQsRdHZfhhyKH5n2e" class="myButton" style="color:white;">Déposer : 42370 	- ST ANDRE D APCHON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42370_st-andre-d-apchon/4XTTM3mHTcT51aYaja4HK7j3B9KfAiSPdVQhgnXS3qH612nXk" target="_blank" class="myButton" style="color:white;">Consulter : 42370 	- ST ANDRE D APCHON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42370_st-andre-d-apchon/4XTTM3mHTcT51aYaja4HK7j3B9KfAiSPdVQhgnXS3qH612nXk-K3TgUxyJSb3QUqeq5B3uoW6sjPFqPfAzzic4t5UQVXGAyeNJxA1UzwY4X8DyYHjFfieELmTRqY2f6FMG2eYjA1ShhUynAYrLxMkqDRhSRiTuci1JNTopHL2rQsRdHZfhhyKH5n2e" target="_blank" class="myButton" style="color:white;">Déposer : 42370 	- ST ANDRE D APCHON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW" class="myButton" style="color:white;">Consulter : 42 	- Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN" class="myButton" style="color:white;">Déposer : 42 	- Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW" target="_blank" class="myButton" style="color:white;">Consulter : 42 	- Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN" target="_blank" class="myButton" style="color:white;">Déposer : 42 	- Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

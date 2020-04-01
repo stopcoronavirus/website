@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/31590_verfeil" class="myButton" style="color:white;">Canal de votre commune : 31590 	- VERFEIL</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/31590_verfeil" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 31590 	- VERFEIL</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/31_haute-garonne" class="myButton" style="color:white;">Canal de votre département : 31 	- Haute-Garonne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/31_haute-garonne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 31 	- Haute-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/31590_verfeil/4XTTMBjHeuPkZUFuT7fEAzpNSHwZgy3qAqVpa8LZVijHR6D1p" class="myButton" style="color:white;">Consulter : 31590 	- VERFEIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/31590_verfeil/4XTTMBjHeuPkZUFuT7fEAzpNSHwZgy3qAqVpa8LZVijHR6D1p-K3TgTiwnU8Rb2c94i2K1FV72xNWFqGk7MgqCmYD4vAuaTkW9YLNkyqqMsojKn9UXzu6f9SiHmksamwPPKmihA5Hjf3EAjLSrFbnvnjpeZjkmAcmZTeUk8CCeJMD9Q7e6nJsPdVhg" class="myButton" style="color:white;">Déposer : 31590 	- VERFEIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/31590_verfeil/4XTTMBjHeuPkZUFuT7fEAzpNSHwZgy3qAqVpa8LZVijHR6D1p" target="_blank" class="myButton" style="color:white;">Consulter : 31590 	- VERFEIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/31590_verfeil/4XTTMBjHeuPkZUFuT7fEAzpNSHwZgy3qAqVpa8LZVijHR6D1p-K3TgTiwnU8Rb2c94i2K1FV72xNWFqGk7MgqCmYD4vAuaTkW9YLNkyqqMsojKn9UXzu6f9SiHmksamwPPKmihA5Hjf3EAjLSrFbnvnjpeZjkmAcmZTeUk8CCeJMD9Q7e6nJsPdVhg" target="_blank" class="myButton" style="color:white;">Déposer : 31590 	- VERFEIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu" class="myButton" style="color:white;">Consulter : 31 	- Haute-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV" class="myButton" style="color:white;">Déposer : 31 	- Haute-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu" target="_blank" class="myButton" style="color:white;">Consulter : 31 	- Haute-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV" target="_blank" class="myButton" style="color:white;">Déposer : 31 	- Haute-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

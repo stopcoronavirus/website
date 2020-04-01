@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/51290_somsois" class="myButton" style="color:white;">Canal de votre commune : 51290 	- SOMSOIS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/51290_somsois" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 51290 	- SOMSOIS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/51_marne" class="myButton" style="color:white;">Canal de votre département : 51 	- Marne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/51_marne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 51 	- Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51290_somsois/4XTTM6GYZtfw2yhnyitff35UXh1LbrSSi1p458rFtzD7fdSv8" class="myButton" style="color:white;">Consulter : 51290 	- SOMSOIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51290_somsois/4XTTM6GYZtfw2yhnyitff35UXh1LbrSSi1p458rFtzD7fdSv8-K3TgU34JzndCQF88uZTDdaYYSF36JYjPns7fQBFQn4p6z8XXnxdGugXZTxds32DyfqyG997hefLPTLAWPV2kYhnBVGuoZsXWYCacF9to9SVrsjHffqXbY5ibpKhUBK6KV4Bqe1gp" class="myButton" style="color:white;">Déposer : 51290 	- SOMSOIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51290_somsois/4XTTM6GYZtfw2yhnyitff35UXh1LbrSSi1p458rFtzD7fdSv8" target="_blank" class="myButton" style="color:white;">Consulter : 51290 	- SOMSOIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51290_somsois/4XTTM6GYZtfw2yhnyitff35UXh1LbrSSi1p458rFtzD7fdSv8-K3TgU34JzndCQF88uZTDdaYYSF36JYjPns7fQBFQn4p6z8XXnxdGugXZTxds32DyfqyG997hefLPTLAWPV2kYhnBVGuoZsXWYCacF9to9SVrsjHffqXbY5ibpKhUBK6KV4Bqe1gp" target="_blank" class="myButton" style="color:white;">Déposer : 51290 	- SOMSOIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe" class="myButton" style="color:white;">Consulter : 51 	- Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa" class="myButton" style="color:white;">Déposer : 51 	- Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe" target="_blank" class="myButton" style="color:white;">Consulter : 51 	- Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa" target="_blank" class="myButton" style="color:white;">Déposer : 51 	- Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

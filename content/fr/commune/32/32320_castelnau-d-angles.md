@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/32320_castelnau-d-angles" class="myButton" style="color:white;">Canal de votre commune : 32320 	- CASTELNAU D ANGLES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32320_castelnau-d-angles" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 32320 	- CASTELNAU D ANGLES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/32_gers" class="myButton" style="color:white;">Canal de votre département : 32 	- Gers</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/32_gers" target="_blank" class="myButton" style="color:white;">Canal de votre département : 32 	- Gers</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32320_castelnau-d-angles/4XTTM7qr6TsLV2WqjyAjf5tYe3nMh5MMutLbChu9xnja6jrB4" class="myButton" style="color:white;">Consulter : 32320 	- CASTELNAU D ANGLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32320_castelnau-d-angles/4XTTM7qr6TsLV2WqjyAjf5tYe3nMh5MMutLbChu9xnja6jrB4-K3TgUUz9jaPddS5m8WQmiENs6F8jA6Qww6hpVpeB6cPNH5zfHfZ3gWXQ7asQA1hHJ4Ys1PK4KebAgUp4uCDrne93oiJBEBD6h6JVxAZXWFsRB5oLDYE9MDcZ64zKVsRsDEo26xEe" class="myButton" style="color:white;">Déposer : 32320 	- CASTELNAU D ANGLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32320_castelnau-d-angles/4XTTM7qr6TsLV2WqjyAjf5tYe3nMh5MMutLbChu9xnja6jrB4" target="_blank" class="myButton" style="color:white;">Consulter : 32320 	- CASTELNAU D ANGLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32320_castelnau-d-angles/4XTTM7qr6TsLV2WqjyAjf5tYe3nMh5MMutLbChu9xnja6jrB4-K3TgUUz9jaPddS5m8WQmiENs6F8jA6Qww6hpVpeB6cPNH5zfHfZ3gWXQ7asQA1hHJ4Ys1PK4KebAgUp4uCDrne93oiJBEBD6h6JVxAZXWFsRB5oLDYE9MDcZ64zKVsRsDEo26xEe" target="_blank" class="myButton" style="color:white;">Déposer : 32320 	- CASTELNAU D ANGLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe" class="myButton" style="color:white;">Consulter : 32 	- Gers</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8" class="myButton" style="color:white;">Déposer : 32 	- Gers</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe" target="_blank" class="myButton" style="color:white;">Consulter : 32 	- Gers</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/32_gers/4XTTM2WNmn4yHBQyoAmovj8KWbv7VUoQTmvDpdT3o124AgWEe-K3TgUpYJfQLfW5uoLbdwErZNx29AEkCAso1EvCZzqaD3z7aQWWvGchjPJifpsj2b2MrnxAXUWCQXyv6K9rEMDPiEmuqTRE8ziuYLh1MUbtQUwwoYxV2abqSdJr66fFRHJZtY62y8" target="_blank" class="myButton" style="color:white;">Déposer : 32 	- Gers</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

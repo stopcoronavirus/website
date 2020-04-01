@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/47380_monclar" class="myButton" style="color:white;">Canal de votre commune : 47380 	- MONCLAR</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/47380_monclar" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 47380 	- MONCLAR</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/47_lot-et-garonne" class="myButton" style="color:white;">Canal de votre département : 47 	- Lot-et-Garonne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/47_lot-et-garonne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 47 	- Lot-et-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47380_monclar/4XTTM9JxuRoqByKXSKxnuPpSEhkwNQHZpGUnRqm3cd4xfrBW8" class="myButton" style="color:white;">Consulter : 47380 	- MONCLAR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47380_monclar/4XTTM9JxuRoqByKXSKxnuPpSEhkwNQHZpGUnRqm3cd4xfrBW8-K3TgV6ANYYZEVeGAYdm4CKrK6XvrfVAXKXAgZtBg3eG7XiFU4iG6Q6ef4r514hDQsZvB1TPCSQt21PMSjYN2jM8hoY3nMkWYTftSfJvg1Epn7KVsRkUXQ8NtcBHze6JvfLyJ995J" class="myButton" style="color:white;">Déposer : 47380 	- MONCLAR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47380_monclar/4XTTM9JxuRoqByKXSKxnuPpSEhkwNQHZpGUnRqm3cd4xfrBW8" target="_blank" class="myButton" style="color:white;">Consulter : 47380 	- MONCLAR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47380_monclar/4XTTM9JxuRoqByKXSKxnuPpSEhkwNQHZpGUnRqm3cd4xfrBW8-K3TgV6ANYYZEVeGAYdm4CKrK6XvrfVAXKXAgZtBg3eG7XiFU4iG6Q6ef4r514hDQsZvB1TPCSQt21PMSjYN2jM8hoY3nMkWYTftSfJvg1Epn7KVsRkUXQ8NtcBHze6JvfLyJ995J" target="_blank" class="myButton" style="color:white;">Déposer : 47380 	- MONCLAR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn" class="myButton" style="color:white;">Consulter : 47 	- Lot-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA" class="myButton" style="color:white;">Déposer : 47 	- Lot-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn" target="_blank" class="myButton" style="color:white;">Consulter : 47 	- Lot-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA" target="_blank" class="myButton" style="color:white;">Déposer : 47 	- Lot-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/44590_sion-les-mines" class="myButton" style="color:white;">Canal de votre commune : 44590 	- SION LES MINES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/44590_sion-les-mines" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 44590 	- SION LES MINES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/44_loire-atlantique" class="myButton" style="color:white;">Canal de votre département : 44 	- Loire-Atlantique</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/44_loire-atlantique" target="_blank" class="myButton" style="color:white;">Canal de votre département : 44 	- Loire-Atlantique</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44590_sion-les-mines/4XTTM5caVPL4c3qM9Px4edAgCJytiDaJeWeTHRVaYjgSyy94N" class="myButton" style="color:white;">Consulter : 44590 	- SION LES MINES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44590_sion-les-mines/4XTTM5caVPL4c3qM9Px4edAgCJytiDaJeWeTHRVaYjgSyy94N-K3TgUXaroYn9FUzyL6zJ4RXJnA6Mt4nX7hSKF1Kc1dEV3t9w3xHqL8jGesGxWecX6hatSHyhFRrH6Mb1vsu2dzovcSehWXZiA3SM3nFHkNwpxUxq81RdSmfTycvRtEvE7WnmArTt" class="myButton" style="color:white;">Déposer : 44590 	- SION LES MINES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44590_sion-les-mines/4XTTM5caVPL4c3qM9Px4edAgCJytiDaJeWeTHRVaYjgSyy94N" target="_blank" class="myButton" style="color:white;">Consulter : 44590 	- SION LES MINES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44590_sion-les-mines/4XTTM5caVPL4c3qM9Px4edAgCJytiDaJeWeTHRVaYjgSyy94N-K3TgUXaroYn9FUzyL6zJ4RXJnA6Mt4nX7hSKF1Kc1dEV3t9w3xHqL8jGesGxWecX6hatSHyhFRrH6Mb1vsu2dzovcSehWXZiA3SM3nFHkNwpxUxq81RdSmfTycvRtEvE7WnmArTt" target="_blank" class="myButton" style="color:white;">Déposer : 44590 	- SION LES MINES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf" class="myButton" style="color:white;">Consulter : 44 	- Loire-Atlantique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF" class="myButton" style="color:white;">Déposer : 44 	- Loire-Atlantique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf" target="_blank" class="myButton" style="color:white;">Consulter : 44 	- Loire-Atlantique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF" target="_blank" class="myButton" style="color:white;">Déposer : 44 	- Loire-Atlantique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

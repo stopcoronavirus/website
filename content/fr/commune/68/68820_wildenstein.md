@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/68820_wildenstein" class="myButton" style="color:white;">Canal de votre commune : 68820 	- WILDENSTEIN</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/68820_wildenstein" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 68820 	- WILDENSTEIN</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/68_haut-rhin" class="myButton" style="color:white;">Canal de votre département : 68 	- Haut-Rhin</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/68_haut-rhin" target="_blank" class="myButton" style="color:white;">Canal de votre département : 68 	- Haut-Rhin</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/68820_wildenstein/4XTTM923TuY4SXPGg1i7W4w5PTRY7XWf9pyML32nogb2MDyMQ" class="myButton" style="color:white;">Consulter : 68820 	- WILDENSTEIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/68820_wildenstein/4XTTM923TuY4SXPGg1i7W4w5PTRY7XWf9pyML32nogb2MDyMQ-K3TgUyB3f793tznEMJF4qRntLLVJkLXXq2FAeUC47n1z5Aao1qHvrixvfLXvbhD4MN4PxeHyyn9Wq2v2FqFPsZQ2PLH8AFHQjbF9n8M57sHHBnmFmcv2m9g3CxndQCEL3xpJzeTG" class="myButton" style="color:white;">Déposer : 68820 	- WILDENSTEIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/68820_wildenstein/4XTTM923TuY4SXPGg1i7W4w5PTRY7XWf9pyML32nogb2MDyMQ" target="_blank" class="myButton" style="color:white;">Consulter : 68820 	- WILDENSTEIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/68820_wildenstein/4XTTM923TuY4SXPGg1i7W4w5PTRY7XWf9pyML32nogb2MDyMQ-K3TgUyB3f793tznEMJF4qRntLLVJkLXXq2FAeUC47n1z5Aao1qHvrixvfLXvbhD4MN4PxeHyyn9Wq2v2FqFPsZQ2PLH8AFHQjbF9n8M57sHHBnmFmcv2m9g3CxndQCEL3xpJzeTG" target="_blank" class="myButton" style="color:white;">Déposer : 68820 	- WILDENSTEIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6" class="myButton" style="color:white;">Consulter : 68 	- Haut-Rhin</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ" class="myButton" style="color:white;">Déposer : 68 	- Haut-Rhin</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6" target="_blank" class="myButton" style="color:white;">Consulter : 68 	- Haut-Rhin</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/68_haut-rhin/4XTTM2ufYLydi63g6vF41DpXecGKsNyPwfYZm17739WmSX8D6-K3TgU54kRPxhV9NQGp69HN4Y5d3LQNuYyH5D4FBbwWQypx4yU2WRuHwHS45pVNzvj4gAPFGwcqH7tBw9rarH3xrmqLGEeBuA7KYb3QDsZTrkPVn1tpH8CBA8iBrzy2eLBP8xSvPJ" target="_blank" class="myButton" style="color:white;">Déposer : 68 	- Haut-Rhin</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

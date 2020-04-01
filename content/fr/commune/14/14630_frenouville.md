@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/14630_frenouville" class="myButton" style="color:white;">Canal de votre commune : 14630 	- FRENOUVILLE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/14630_frenouville" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 14630 	- FRENOUVILLE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/14_calvados" class="myButton" style="color:white;">Canal de votre département : 14 	- Calvados</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/14_calvados" target="_blank" class="myButton" style="color:white;">Canal de votre département : 14 	- Calvados</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/14630_frenouville/4XTTM2FAsnq9jDCLVxDhHcGGXFtuMoEMDBa586PbtGiaMq1ZE" class="myButton" style="color:white;">Consulter : 14630 	- FRENOUVILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/14630_frenouville/4XTTM2FAsnq9jDCLVxDhHcGGXFtuMoEMDBa586PbtGiaMq1ZE-K3TgUFK7in8zBWCLXV5ds2Zyn69VoBfpjKTUnFR8wczjSa71S3tTMcAHFAyqcFVFr5sw9o2XSYybP44NMAaT4uSqeNuoYjMz1oWsmJUZq8PQnzMmdauKmY9b1iC2NAFxoh3vcRcQ" class="myButton" style="color:white;">Déposer : 14630 	- FRENOUVILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/14630_frenouville/4XTTM2FAsnq9jDCLVxDhHcGGXFtuMoEMDBa586PbtGiaMq1ZE" target="_blank" class="myButton" style="color:white;">Consulter : 14630 	- FRENOUVILLE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/14630_frenouville/4XTTM2FAsnq9jDCLVxDhHcGGXFtuMoEMDBa586PbtGiaMq1ZE-K3TgUFK7in8zBWCLXV5ds2Zyn69VoBfpjKTUnFR8wczjSa71S3tTMcAHFAyqcFVFr5sw9o2XSYybP44NMAaT4uSqeNuoYjMz1oWsmJUZq8PQnzMmdauKmY9b1iC2NAFxoh3vcRcQ" target="_blank" class="myButton" style="color:white;">Déposer : 14630 	- FRENOUVILLE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6" class="myButton" style="color:white;">Consulter : 14 	- Calvados</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi" class="myButton" style="color:white;">Déposer : 14 	- Calvados</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6" target="_blank" class="myButton" style="color:white;">Consulter : 14 	- Calvados</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/14_calvados/4XTTM9GPWMAgFeBh1iyPyATgcLotg9e9APJpQBEyY3RZiUwJ6-K3TgUXWJAT2cYJ9ZstQphkkm2za8um5GwwXsivqaDFTgbhMDcHaRXnT3h69szAqCyvWcFfDim5fkwc6CXdUtyvPpirbD1TPAb6xCxpPN6dR3zzDRe29YehQYbhZdjvZYkgztJYvi" target="_blank" class="myButton" style="color:white;">Déposer : 14 	- Calvados</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

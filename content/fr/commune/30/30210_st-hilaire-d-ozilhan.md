@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/30210_st-hilaire-d-ozilhan" class="myButton" style="color:white;">Canal de votre commune : 30210 	- ST HILAIRE D OZILHAN</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/30210_st-hilaire-d-ozilhan" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 30210 	- ST HILAIRE D OZILHAN</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/30_gard" class="myButton" style="color:white;">Canal de votre département : 30 	- Gard</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/30_gard" target="_blank" class="myButton" style="color:white;">Canal de votre département : 30 	- Gard</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/30210_st-hilaire-d-ozilhan/4XTTMBagtShLLqNeA3hN3jzXFcWhhqUp6P6ixsQcbsWPia54L" class="myButton" style="color:white;">Consulter : 30210 	- ST HILAIRE D OZILHAN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/30210_st-hilaire-d-ozilhan/4XTTMBagtShLLqNeA3hN3jzXFcWhhqUp6P6ixsQcbsWPia54L-K3TgU6tYe56TGMsuH78zmKaLccs3NjaCcXiSnv6h9x7gvfQLZiRUeuiQPvfxgrJZ9DTurJJoRP6ynGHLUMpVEspqFv8kfJtucmMjvo6yAMX67sjoNwFfzNSH4nEdArW7RxWLCKWg" class="myButton" style="color:white;">Déposer : 30210 	- ST HILAIRE D OZILHAN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/30210_st-hilaire-d-ozilhan/4XTTMBagtShLLqNeA3hN3jzXFcWhhqUp6P6ixsQcbsWPia54L" target="_blank" class="myButton" style="color:white;">Consulter : 30210 	- ST HILAIRE D OZILHAN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/30210_st-hilaire-d-ozilhan/4XTTMBagtShLLqNeA3hN3jzXFcWhhqUp6P6ixsQcbsWPia54L-K3TgU6tYe56TGMsuH78zmKaLccs3NjaCcXiSnv6h9x7gvfQLZiRUeuiQPvfxgrJZ9DTurJJoRP6ynGHLUMpVEspqFv8kfJtucmMjvo6yAMX67sjoNwFfzNSH4nEdArW7RxWLCKWg" target="_blank" class="myButton" style="color:white;">Déposer : 30210 	- ST HILAIRE D OZILHAN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj" class="myButton" style="color:white;">Consulter : 30 	- Gard</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK" class="myButton" style="color:white;">Déposer : 30 	- Gard</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj" target="_blank" class="myButton" style="color:white;">Consulter : 30 	- Gard</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/30_gard/4XTTM2WjnNPnt1LYBRz8uSfoyfwv6abKjKjNdBGxuvymmgvkj-K3TgUpCvFefN2LRJ7huXqVovWWqmjJgEMWkVs9s4fhfrGjyZZK9z4gxyddycCKs6S9BWFUcJqqZYCKuxj79SWNiGiob7Xchr25rMmkVQhAFrAwBxAqY3T99GTsQfKxLrXrnx3pGK" target="_blank" class="myButton" style="color:white;">Déposer : 30 	- Gard</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

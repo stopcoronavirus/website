@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/83840_bargeme" class="myButton" style="color:white;">Canal de votre commune : 83840 	- BARGEME</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/83840_bargeme" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 83840 	- BARGEME</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/83_var" class="myButton" style="color:white;">Canal de votre département : 83 	- Var</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/83_var" target="_blank" class="myButton" style="color:white;">Canal de votre département : 83 	- Var</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/83840_bargeme/4XTTM5rv5nGHo1UiABnGg5zDvP7yU4diKWta4PvEq7JMPoG75" class="myButton" style="color:white;">Consulter : 83840 	- BARGEME</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/83840_bargeme/4XTTM5rv5nGHo1UiABnGg5zDvP7yU4diKWta4PvEq7JMPoG75-K3TgUDvNS1RhPrMCzF1S56PQQzySWA8Dj9RJiaXzvztfFDouRSewHZfsFEpG6L8h94RoHnT6kMURXskNKxwHdGWujPeVDXb8tNqgk45R8dop1eD56W14g1Ds9AuhbnLNfRNRJoJs" class="myButton" style="color:white;">Déposer : 83840 	- BARGEME</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/83840_bargeme/4XTTM5rv5nGHo1UiABnGg5zDvP7yU4diKWta4PvEq7JMPoG75" target="_blank" class="myButton" style="color:white;">Consulter : 83840 	- BARGEME</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/83840_bargeme/4XTTM5rv5nGHo1UiABnGg5zDvP7yU4diKWta4PvEq7JMPoG75-K3TgUDvNS1RhPrMCzF1S56PQQzySWA8Dj9RJiaXzvztfFDouRSewHZfsFEpG6L8h94RoHnT6kMURXskNKxwHdGWujPeVDXb8tNqgk45R8dop1eD56W14g1Ds9AuhbnLNfRNRJoJs" target="_blank" class="myButton" style="color:white;">Déposer : 83840 	- BARGEME</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ" class="myButton" style="color:white;">Consulter : 83 	- Var</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a" class="myButton" style="color:white;">Déposer : 83 	- Var</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ" target="_blank" class="myButton" style="color:white;">Consulter : 83 	- Var</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/83_var/4XTTM9nrxWeWseNGwJvQKcNrAvhf9daMUtmJFyuTCRVRxiQhJ-K3TgTkbV5EeE5ztheh8tn4MGBxq8r8BVQdiSVrn3rAQKUfBUzy1SpnL7kiXYD24VhE1ooCba4S1a12268DXaVL5Dh1W3oDQu8Yj58kjUk3PAVaf4GwZWkisJBFW5Z6TWnf5Ads7a" target="_blank" class="myButton" style="color:white;">Déposer : 83 	- Var</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

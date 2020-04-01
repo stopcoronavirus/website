@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/63490_st-quentin-sur-sauxillanges" class="myButton" style="color:white;">Canal de votre commune : 63490 	- ST QUENTIN SUR SAUXILLANGES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63490_st-quentin-sur-sauxillanges" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 63490 	- ST QUENTIN SUR SAUXILLANGES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome" class="myButton" style="color:white;">Canal de votre département : 63 	- Puy-de-Dôme</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/63_puy-de-dome" target="_blank" class="myButton" style="color:white;">Canal de votre département : 63 	- Puy-de-Dôme</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63490_st-quentin-sur-sauxillanges/4XTTM4CwBfDvu8ygtRhV5ryXuP2Fczrk724Jk7CDppGQGy4CT" class="myButton" style="color:white;">Consulter : 63490 	- ST QUENTIN SUR SAUXILLANGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63490_st-quentin-sur-sauxillanges/4XTTM4CwBfDvu8ygtRhV5ryXuP2Fczrk724Jk7CDppGQGy4CT-K3TgUmDNMDQSdjeQFM3ew1dkW2tHkFsyXowAvNZogetwLah4EKRmbezMfw5xR233Ro2wWz5BmSJ1ChQZC7eAtJ9yKb6NL2sN3e442Z9TXd6KrTYQdqbseXt5WVTiPojzJtydKBMM" class="myButton" style="color:white;">Déposer : 63490 	- ST QUENTIN SUR SAUXILLANGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63490_st-quentin-sur-sauxillanges/4XTTM4CwBfDvu8ygtRhV5ryXuP2Fczrk724Jk7CDppGQGy4CT" target="_blank" class="myButton" style="color:white;">Consulter : 63490 	- ST QUENTIN SUR SAUXILLANGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63490_st-quentin-sur-sauxillanges/4XTTM4CwBfDvu8ygtRhV5ryXuP2Fczrk724Jk7CDppGQGy4CT-K3TgUmDNMDQSdjeQFM3ew1dkW2tHkFsyXowAvNZogetwLah4EKRmbezMfw5xR233Ro2wWz5BmSJ1ChQZC7eAtJ9yKb6NL2sN3e442Z9TXd6KrTYQdqbseXt5WVTiPojzJtydKBMM" target="_blank" class="myButton" style="color:white;">Déposer : 63490 	- ST QUENTIN SUR SAUXILLANGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU" class="myButton" style="color:white;">Consulter : 63 	- Puy-de-Dôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g" class="myButton" style="color:white;">Déposer : 63 	- Puy-de-Dôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU" target="_blank" class="myButton" style="color:white;">Consulter : 63 	- Puy-de-Dôme</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/63_puy-de-dome/4XTTM33WXSXcz3N8GTyLwBY1p9PJNcUWyBLxomSFALNumGkmU-K3TgURtQ1RdVG3LeCnTW6B7SHw5yAi6GEKhfCtyNRtd7fYhyA8KaMMW86iSyXvmga7aznJSDd7KLLonQbGoKKpWyzp6qZLGAWDYMfzMqg3KbwSCTBcBKWZJqDig4rKe5DyaMao9g" target="_blank" class="myButton" style="color:white;">Déposer : 63 	- Puy-de-Dôme</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

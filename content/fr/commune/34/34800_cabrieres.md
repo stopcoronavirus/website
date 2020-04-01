@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/34800_cabrieres" class="myButton" style="color:white;">Canal de votre commune : 34800 	- CABRIERES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34800_cabrieres" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 34800 	- CABRIERES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/34_herault" class="myButton" style="color:white;">Canal de votre département : 34 	- Hérault</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34_herault" target="_blank" class="myButton" style="color:white;">Canal de votre département : 34 	- Hérault</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34800_cabrieres/4XTTM9HQYc6Bvia6x7DikCKwbWQQgEYKTKHQ7pkCszoFmoaD7" class="myButton" style="color:white;">Consulter : 34800 	- CABRIERES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34800_cabrieres/4XTTM9HQYc6Bvia6x7DikCKwbWQQgEYKTKHQ7pkCszoFmoaD7-K3TgTk9b4EbYLnV4pLoxu961FyVRvHdUyhs8WooEJUewispomygXhRy1Z2cVfxEBv3P3BWiWjpNPSoKFx8hkCJd4yKyADQaEmF2LQ1fD6RsbCJym1f91BubrxfWuKGZin98D6M9B" class="myButton" style="color:white;">Déposer : 34800 	- CABRIERES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34800_cabrieres/4XTTM9HQYc6Bvia6x7DikCKwbWQQgEYKTKHQ7pkCszoFmoaD7" target="_blank" class="myButton" style="color:white;">Consulter : 34800 	- CABRIERES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34800_cabrieres/4XTTM9HQYc6Bvia6x7DikCKwbWQQgEYKTKHQ7pkCszoFmoaD7-K3TgTk9b4EbYLnV4pLoxu961FyVRvHdUyhs8WooEJUewispomygXhRy1Z2cVfxEBv3P3BWiWjpNPSoKFx8hkCJd4yKyADQaEmF2LQ1fD6RsbCJym1f91BubrxfWuKGZin98D6M9B" target="_blank" class="myButton" style="color:white;">Déposer : 34800 	- CABRIERES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8" class="myButton" style="color:white;">Consulter : 34 	- Hérault</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J" class="myButton" style="color:white;">Déposer : 34 	- Hérault</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8" target="_blank" class="myButton" style="color:white;">Consulter : 34 	- Hérault</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J" target="_blank" class="myButton" style="color:white;">Déposer : 34 	- Hérault</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

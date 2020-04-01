@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/09460_le-puch" class="myButton" style="color:white;">Canal de votre commune : 09460 	- LE PUCH</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/09460_le-puch" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 09460 	- LE PUCH</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/09_ariege" class="myButton" style="color:white;">Canal de votre département : 09 	- Ariège</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/09_ariege" target="_blank" class="myButton" style="color:white;">Canal de votre département : 09 	- Ariège</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/09460_le-puch/4XTTMB9k77QXzjBnNevkCAGnw1VAbYyTMwDQtruBUvjfYj4vt" class="myButton" style="color:white;">Consulter : 09460 	- LE PUCH</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/09460_le-puch/4XTTMB9k77QXzjBnNevkCAGnw1VAbYyTMwDQtruBUvjfYj4vt-K3TgUqGLYgdAjYMWGLF4S1FSjiGsKuWoKmMgESKUGViGerSzLAkKV1xrsmRKVHfeH9yXk5Pmh1ctAU61bCJ9ztfMdopxLjPfJkYcfNMDdweYf5sd4tL2zb8gQd2ipL6GLLu2LTZr" class="myButton" style="color:white;">Déposer : 09460 	- LE PUCH</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/09460_le-puch/4XTTMB9k77QXzjBnNevkCAGnw1VAbYyTMwDQtruBUvjfYj4vt" target="_blank" class="myButton" style="color:white;">Consulter : 09460 	- LE PUCH</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/09460_le-puch/4XTTMB9k77QXzjBnNevkCAGnw1VAbYyTMwDQtruBUvjfYj4vt-K3TgUqGLYgdAjYMWGLF4S1FSjiGsKuWoKmMgESKUGViGerSzLAkKV1xrsmRKVHfeH9yXk5Pmh1ctAU61bCJ9ztfMdopxLjPfJkYcfNMDdweYf5sd4tL2zb8gQd2ipL6GLLu2LTZr" target="_blank" class="myButton" style="color:white;">Déposer : 09460 	- LE PUCH</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7" class="myButton" style="color:white;">Consulter : 09 	- Ariège</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD" class="myButton" style="color:white;">Déposer : 09 	- Ariège</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7" target="_blank" class="myButton" style="color:white;">Consulter : 09 	- Ariège</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/09_ariege/4XTTMG7cSSVHtMHKhVzrLHFNkMhJq2GiY37tW1RLaySvmC5m7-K3TgTss1C8HjViVkpwivQX7MahnqC11ekSJQuYEnrMDTmDE1FfJsoB9BatqQw5xZL2YVE8soFWdt5YbjPCiw8Nef7nnDAgssxyMxh5u11RAcuqPo3TLSQutK9TFNiNP3xhEoTkkD" target="_blank" class="myButton" style="color:white;">Déposer : 09 	- Ariège</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/40600_biscarrosse" class="myButton" style="color:white;">Canal de votre commune : 40600 	- BISCARROSSE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/40600_biscarrosse" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 40600 	- BISCARROSSE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/40_landes" class="myButton" style="color:white;">Canal de votre département : 40 	- Landes</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/40_landes" target="_blank" class="myButton" style="color:white;">Canal de votre département : 40 	- Landes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/40600_biscarrosse/4XTTMDpvau9LN3ErLc9qZ5jrTFNxTJtFi7mswpLRY9My41B54" class="myButton" style="color:white;">Consulter : 40600 	- BISCARROSSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/40600_biscarrosse/4XTTMDpvau9LN3ErLc9qZ5jrTFNxTJtFi7mswpLRY9My41B54-K3TgTxbySKWSmcbEGaAW5gF4QFyu5QJ41ki6DSQqA6mnwKRfqBVY4Nzac9yf81VNcxMrKy1a4G4LeQkge4DhjaD7D9kc3bzR32TpjkrGpFTYmMfXt82C4rCW5UhNnai95Q91zU1G" class="myButton" style="color:white;">Déposer : 40600 	- BISCARROSSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/40600_biscarrosse/4XTTMDpvau9LN3ErLc9qZ5jrTFNxTJtFi7mswpLRY9My41B54" target="_blank" class="myButton" style="color:white;">Consulter : 40600 	- BISCARROSSE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/40600_biscarrosse/4XTTMDpvau9LN3ErLc9qZ5jrTFNxTJtFi7mswpLRY9My41B54-K3TgTxbySKWSmcbEGaAW5gF4QFyu5QJ41ki6DSQqA6mnwKRfqBVY4Nzac9yf81VNcxMrKy1a4G4LeQkge4DhjaD7D9kc3bzR32TpjkrGpFTYmMfXt82C4rCW5UhNnai95Q91zU1G" target="_blank" class="myButton" style="color:white;">Déposer : 40600 	- BISCARROSSE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h" class="myButton" style="color:white;">Consulter : 40 	- Landes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK" class="myButton" style="color:white;">Déposer : 40 	- Landes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h" target="_blank" class="myButton" style="color:white;">Consulter : 40 	- Landes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/40_landes/4XTTMB5cJfLstu1dpMutnpb92n58nysBxt2LvNHp8iFa2he7h-K3TgUvrqNj5GqBsxRXbDQxXTucun7uHSVZWT5C8CgQNaESTTE4cfR63JCubPGiKkKruc9dwpRJsb8aWPbJoGCdC5JVr33cPSqpb1rkjpoPrBPEdrj3zMya2yHWSYgr5GG1nyDstK" target="_blank" class="myButton" style="color:white;">Déposer : 40 	- Landes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

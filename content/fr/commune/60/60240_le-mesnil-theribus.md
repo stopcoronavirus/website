@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/60240_le-mesnil-theribus" class="myButton" style="color:white;">Canal de votre commune : 60240 	- LE MESNIL THERIBUS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/60240_le-mesnil-theribus" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 60240 	- LE MESNIL THERIBUS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/60_oise" class="myButton" style="color:white;">Canal de votre département : 60 	- Oise</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/60_oise" target="_blank" class="myButton" style="color:white;">Canal de votre département : 60 	- Oise</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/60240_le-mesnil-theribus/4XTTMEGouf6akyF47DMkBN7g6qp83QxfhG1VtjTqaJaSBjM8x" class="myButton" style="color:white;">Consulter : 60240 	- LE MESNIL THERIBUS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/60240_le-mesnil-theribus/4XTTMEGouf6akyF47DMkBN7g6qp83QxfhG1VtjTqaJaSBjM8x-K3TgTtMH56CnGNTEyM6APQg8J2x9bbtbyY5V1B1FDgHAQRxroR8meoRTYFnTBNe6tDeeHub6TXqFq6L1SA3t7rMYHsdAX9QPqxxQcAujCKBMTNwfz1wtHncpxTis5xnA7DvQtTgg" class="myButton" style="color:white;">Déposer : 60240 	- LE MESNIL THERIBUS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/60240_le-mesnil-theribus/4XTTMEGouf6akyF47DMkBN7g6qp83QxfhG1VtjTqaJaSBjM8x" target="_blank" class="myButton" style="color:white;">Consulter : 60240 	- LE MESNIL THERIBUS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/60240_le-mesnil-theribus/4XTTMEGouf6akyF47DMkBN7g6qp83QxfhG1VtjTqaJaSBjM8x-K3TgTtMH56CnGNTEyM6APQg8J2x9bbtbyY5V1B1FDgHAQRxroR8meoRTYFnTBNe6tDeeHub6TXqFq6L1SA3t7rMYHsdAX9QPqxxQcAujCKBMTNwfz1wtHncpxTis5xnA7DvQtTgg" target="_blank" class="myButton" style="color:white;">Déposer : 60240 	- LE MESNIL THERIBUS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY" class="myButton" style="color:white;">Consulter : 60 	- Oise</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn" class="myButton" style="color:white;">Déposer : 60 	- Oise</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY" target="_blank" class="myButton" style="color:white;">Consulter : 60 	- Oise</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/60_oise/4XTTM5v4LHVeShD8pzKwbruMASSzGXUvKwGPyPNR6Aq6aruGY-K3TgTfEPmBuMGxs3WizC7aafmuSUvuvwsE7nM986pS4fEczEhokrfL1mXNtU722XatpEcDhfhLf5xd24JkCKBD4DcQHeF5CYjEkAVzDN3PuQerZfYGZ5zy2XFcJNh2Z1pYjLoQTn" target="_blank" class="myButton" style="color:white;">Déposer : 60 	- Oise</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/88270_les-ableuvenettes" class="myButton" style="color:white;">Canal de votre commune : 88270 	- LES ABLEUVENETTES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/88270_les-ableuvenettes" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 88270 	- LES ABLEUVENETTES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/88_vosges" class="myButton" style="color:white;">Canal de votre département : 88 	- Vosges</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/88_vosges" target="_blank" class="myButton" style="color:white;">Canal de votre département : 88 	- Vosges</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88270_les-ableuvenettes/4XTTM3Eo7F57covb3imouQR65dfzuPmbdBb5VvR8vtdUytaQX" class="myButton" style="color:white;">Consulter : 88270 	- LES ABLEUVENETTES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88270_les-ableuvenettes/4XTTM3Eo7F57covb3imouQR65dfzuPmbdBb5VvR8vtdUytaQX-K3TgUgt1vf432GB3pg1PCzyJrGZVHgiMkS4SgJB1rpfVSbyWPcjWaytFEnnLuWMgaeYnCKYUxwUqNyeW7iHLmj5yiS6FFbxLSd8wy6qY6sddNx29bxermKGwJgDUCVgmp3NaAM2o" class="myButton" style="color:white;">Déposer : 88270 	- LES ABLEUVENETTES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88270_les-ableuvenettes/4XTTM3Eo7F57covb3imouQR65dfzuPmbdBb5VvR8vtdUytaQX" target="_blank" class="myButton" style="color:white;">Consulter : 88270 	- LES ABLEUVENETTES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88270_les-ableuvenettes/4XTTM3Eo7F57covb3imouQR65dfzuPmbdBb5VvR8vtdUytaQX-K3TgUgt1vf432GB3pg1PCzyJrGZVHgiMkS4SgJB1rpfVSbyWPcjWaytFEnnLuWMgaeYnCKYUxwUqNyeW7iHLmj5yiS6FFbxLSd8wy6qY6sddNx29bxermKGwJgDUCVgmp3NaAM2o" target="_blank" class="myButton" style="color:white;">Déposer : 88270 	- LES ABLEUVENETTES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh" class="myButton" style="color:white;">Consulter : 88 	- Vosges</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z" class="myButton" style="color:white;">Déposer : 88 	- Vosges</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh" target="_blank" class="myButton" style="color:white;">Consulter : 88 	- Vosges</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/88_vosges/4XTTM5gGPXdoMfm9p5dc9sEwn3JS776cHSw64JYpD4AKnKgyh-K3TgUjEFywcTUHQwfrd2vcZqhoXLakdoQGFv4iriv1FKkvQkBsudnBxafkQDfPcxTDRHN5T6bYyganuvcakuKenYoB5mPLKqUBjNMwpn75GQVixUmzXGkneDufRSqDthC8iyXi1Z" target="_blank" class="myButton" style="color:white;">Déposer : 88 	- Vosges</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

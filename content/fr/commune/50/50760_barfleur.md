@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/50760_barfleur" class="myButton" style="color:white;">Canal de votre commune : 50760 	- BARFLEUR</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50760_barfleur" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 50760 	- BARFLEUR</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/50_manche" class="myButton" style="color:white;">Canal de votre département : 50 	- Manche</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50_manche" target="_blank" class="myButton" style="color:white;">Canal de votre département : 50 	- Manche</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50760_barfleur/4XTTM6e9tFTRuXWUknvxC861stLApRCDgLCCECNyHXfg21fnZ" class="myButton" style="color:white;">Consulter : 50760 	- BARFLEUR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50760_barfleur/4XTTM6e9tFTRuXWUknvxC861stLApRCDgLCCECNyHXfg21fnZ-K3TgTpdgEKdtkHrnBhUwREHSFW7aumXccmZr2tcwsC4wFuweF9t1ACU7t89N4PS46YN8zQMJaysvox2MR6XbLAhrE5Yca1zXQs1Dr38dvUqDVPKDZnxN2JXccjS4TjC1yMSvSBiH" class="myButton" style="color:white;">Déposer : 50760 	- BARFLEUR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50760_barfleur/4XTTM6e9tFTRuXWUknvxC861stLApRCDgLCCECNyHXfg21fnZ" target="_blank" class="myButton" style="color:white;">Consulter : 50760 	- BARFLEUR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50760_barfleur/4XTTM6e9tFTRuXWUknvxC861stLApRCDgLCCECNyHXfg21fnZ-K3TgTpdgEKdtkHrnBhUwREHSFW7aumXccmZr2tcwsC4wFuweF9t1ACU7t89N4PS46YN8zQMJaysvox2MR6XbLAhrE5Yca1zXQs1Dr38dvUqDVPKDZnxN2JXccjS4TjC1yMSvSBiH" target="_blank" class="myButton" style="color:white;">Déposer : 50760 	- BARFLEUR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr" class="myButton" style="color:white;">Consulter : 50 	- Manche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE" class="myButton" style="color:white;">Déposer : 50 	- Manche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr" target="_blank" class="myButton" style="color:white;">Consulter : 50 	- Manche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE" target="_blank" class="myButton" style="color:white;">Déposer : 50 	- Manche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/79100_st-jean-de-thouars" class="myButton" style="color:white;">Canal de votre commune : 79100 	- ST JEAN DE THOUARS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79100_st-jean-de-thouars" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 79100 	- ST JEAN DE THOUARS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres" class="myButton" style="color:white;">Canal de votre département : 79 	- Deux-Sèvres</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/79_deux-sevres" target="_blank" class="myButton" style="color:white;">Canal de votre département : 79 	- Deux-Sèvres</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79100_st-jean-de-thouars/4XTTMGLYoDMokwjtq49nHsjfLnkHikYAv3qoVXQQDYaMT2HSt" class="myButton" style="color:white;">Consulter : 79100 	- ST JEAN DE THOUARS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79100_st-jean-de-thouars/4XTTMGLYoDMokwjtq49nHsjfLnkHikYAv3qoVXQQDYaMT2HSt-K3TgUmGVbjJ42ynxm3BQBKwWHCxjZo2PAp7DQGSast4y6KMgCiyvEWWn2hvNsmbMWSmom5PMB445Gdg3rHwiSJgjzqBehjVLLXB82ZxYnfvCWpMvL4HWUNcVvNKNaW3Xrw49CR8Q" class="myButton" style="color:white;">Déposer : 79100 	- ST JEAN DE THOUARS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79100_st-jean-de-thouars/4XTTMGLYoDMokwjtq49nHsjfLnkHikYAv3qoVXQQDYaMT2HSt" target="_blank" class="myButton" style="color:white;">Consulter : 79100 	- ST JEAN DE THOUARS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79100_st-jean-de-thouars/4XTTMGLYoDMokwjtq49nHsjfLnkHikYAv3qoVXQQDYaMT2HSt-K3TgUmGVbjJ42ynxm3BQBKwWHCxjZo2PAp7DQGSast4y6KMgCiyvEWWn2hvNsmbMWSmom5PMB445Gdg3rHwiSJgjzqBehjVLLXB82ZxYnfvCWpMvL4HWUNcVvNKNaW3Xrw49CR8Q" target="_blank" class="myButton" style="color:white;">Déposer : 79100 	- ST JEAN DE THOUARS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ" class="myButton" style="color:white;">Consulter : 79 	- Deux-Sèvres</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH" class="myButton" style="color:white;">Déposer : 79 	- Deux-Sèvres</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ" target="_blank" class="myButton" style="color:white;">Consulter : 79 	- Deux-Sèvres</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/79_deux-sevres/4XTTMCeXJZ8eGWVrBjPpkYVS5a2R1QzAM3kbRyUzmkuC1xDcZ-K3TgUK5JCUUjnpe72fiaSX42JxUz8oM4QHpcPBUyAX8Myfx22cmM4KgnhWTqfctvh4Jvdut6dMpCWq9xpAwJRxEoSjYbBd9FKbPsQbYNeepncyZcGTsQLQmazz5V99tUNR2L8nzH" target="_blank" class="myButton" style="color:white;">Déposer : 79 	- Deux-Sèvres</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

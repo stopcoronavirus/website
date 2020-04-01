@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/03440_buxieres-les-mines" class="myButton" style="color:white;">Canal de votre commune : 03440 	- BUXIERES LES MINES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03440_buxieres-les-mines" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 03440 	- BUXIERES LES MINES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/03_allier" class="myButton" style="color:white;">Canal de votre département : 03 	- Allier</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/03_allier" target="_blank" class="myButton" style="color:white;">Canal de votre département : 03 	- Allier</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03440_buxieres-les-mines/4XTTM5gf3Xg2ouPfJ477FoPttZwZe8LJkokwhS2DtR7WDVR2f" class="myButton" style="color:white;">Consulter : 03440 	- BUXIERES LES MINES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03440_buxieres-les-mines/4XTTM5gf3Xg2ouPfJ477FoPttZwZe8LJkokwhS2DtR7WDVR2f-K3TgTqmsWtsv3nL7xLkfR7uYVjM65eHxNmSrGrx1jgiQZnhdZiH5QMJXo1MjcfEnhaKhaUVT3b16QyZ62XkN5atHDjjut4W7ASZvHGTNBPCoWTk13iXNU75JNGe5TGYpwmnwfFzo" class="myButton" style="color:white;">Déposer : 03440 	- BUXIERES LES MINES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03440_buxieres-les-mines/4XTTM5gf3Xg2ouPfJ477FoPttZwZe8LJkokwhS2DtR7WDVR2f" target="_blank" class="myButton" style="color:white;">Consulter : 03440 	- BUXIERES LES MINES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03440_buxieres-les-mines/4XTTM5gf3Xg2ouPfJ477FoPttZwZe8LJkokwhS2DtR7WDVR2f-K3TgTqmsWtsv3nL7xLkfR7uYVjM65eHxNmSrGrx1jgiQZnhdZiH5QMJXo1MjcfEnhaKhaUVT3b16QyZ62XkN5atHDjjut4W7ASZvHGTNBPCoWTk13iXNU75JNGe5TGYpwmnwfFzo" target="_blank" class="myButton" style="color:white;">Déposer : 03440 	- BUXIERES LES MINES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy" class="myButton" style="color:white;">Consulter : 03 	- Allier</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3" class="myButton" style="color:white;">Déposer : 03 	- Allier</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy" target="_blank" class="myButton" style="color:white;">Consulter : 03 	- Allier</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/03_allier/4XTTM5GzHSbaA5t7H3HPX41CZ5mBVkFwAP4hDd5RoBY2JsEAy-K3TgTfK63S9nh1XDKRdQM5CC7MJ5PWSrKVUCPKbSrFQ3cakeCH8tQGdUR9DTAz4uGC38FSNg947MKdwTpPPt11GSCbnkNPZdBTNtwdL7kw34FMS1ADZJRkGgd1Xx6qPUaEUtuBP3" target="_blank" class="myButton" style="color:white;">Déposer : 03 	- Allier</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

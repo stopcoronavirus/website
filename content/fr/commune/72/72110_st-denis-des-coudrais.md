@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/72110_st-denis-des-coudrais" class="myButton" style="color:white;">Canal de votre commune : 72110 	- ST DENIS DES COUDRAIS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72110_st-denis-des-coudrais" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 72110 	- ST DENIS DES COUDRAIS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/72_sarthe" class="myButton" style="color:white;">Canal de votre département : 72 	- Sarthe</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/72_sarthe" target="_blank" class="myButton" style="color:white;">Canal de votre département : 72 	- Sarthe</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72110_st-denis-des-coudrais/4XTTM6JXxEt7bzJZRyVyveCfULmB5VVaTu5D33swVvsiZ3er5" class="myButton" style="color:white;">Consulter : 72110 	- ST DENIS DES COUDRAIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72110_st-denis-des-coudrais/4XTTM6JXxEt7bzJZRyVyveCfULmB5VVaTu5D33swVvsiZ3er5-K3TgU5ZuupECz4YksM58eufWscfvnia8gZqrooR1XR8ywtxyZhRrn2o7pfqyi6fbYkWjqh2BmXmfogn21Jg3GeQ46yCbQT4y7SRBMHp8SUhWePX333hX1eHW81kcV9QgN6o5iAyf" class="myButton" style="color:white;">Déposer : 72110 	- ST DENIS DES COUDRAIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72110_st-denis-des-coudrais/4XTTM6JXxEt7bzJZRyVyveCfULmB5VVaTu5D33swVvsiZ3er5" target="_blank" class="myButton" style="color:white;">Consulter : 72110 	- ST DENIS DES COUDRAIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72110_st-denis-des-coudrais/4XTTM6JXxEt7bzJZRyVyveCfULmB5VVaTu5D33swVvsiZ3er5-K3TgU5ZuupECz4YksM58eufWscfvnia8gZqrooR1XR8ywtxyZhRrn2o7pfqyi6fbYkWjqh2BmXmfogn21Jg3GeQ46yCbQT4y7SRBMHp8SUhWePX333hX1eHW81kcV9QgN6o5iAyf" target="_blank" class="myButton" style="color:white;">Déposer : 72110 	- ST DENIS DES COUDRAIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5" class="myButton" style="color:white;">Consulter : 72 	- Sarthe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh" class="myButton" style="color:white;">Déposer : 72 	- Sarthe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5" target="_blank" class="myButton" style="color:white;">Consulter : 72 	- Sarthe</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/72_sarthe/4XTTM94PDoxfKWsWMasdzrW998jkGtRkEM3CSUC42xSpuJKZ5-K3TgTpjFyG67yVeuXvSAfSYzY4Yx2FMtDhgpv5HM2EDBJRVMn95z33xx4XjRNYNVaVsBPQ1t4pG9MoyNqwTqa8mcnEUB8rK4BMVbvUhCtGWCPSFnDCaT8GJTyimDgsCirLN3zswh" target="_blank" class="myButton" style="color:white;">Déposer : 72 	- Sarthe</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

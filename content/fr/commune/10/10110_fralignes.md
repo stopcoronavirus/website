@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/10110_fralignes" class="myButton" style="color:white;">Canal de votre commune : 10110 	- FRALIGNES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/10110_fralignes" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 10110 	- FRALIGNES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/10_aube" class="myButton" style="color:white;">Canal de votre département : 10 	- Aube</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/10_aube" target="_blank" class="myButton" style="color:white;">Canal de votre département : 10 	- Aube</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/10110_fralignes/4XTTM7yVZa18HaiAyYbZQ7XjhvoDTQaN1G5YJS2sHCf7JeSxZ" class="myButton" style="color:white;">Consulter : 10110 	- FRALIGNES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/10110_fralignes/4XTTM7yVZa18HaiAyYbZQ7XjhvoDTQaN1G5YJS2sHCf7JeSxZ-K3TgUfK1KSj8JoUPzoD7UCdstHkGYFWgwpREHEsyheGsLP9nMRxsJ4jKu6a8FZY8HHwjgQe7sZttVmD7Eem4meWy9vq2nDVjszVCiJ7WLb7J684inhDT9L4pcRnbRbHhUk63CfvZ" class="myButton" style="color:white;">Déposer : 10110 	- FRALIGNES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/10110_fralignes/4XTTM7yVZa18HaiAyYbZQ7XjhvoDTQaN1G5YJS2sHCf7JeSxZ" target="_blank" class="myButton" style="color:white;">Consulter : 10110 	- FRALIGNES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/10110_fralignes/4XTTM7yVZa18HaiAyYbZQ7XjhvoDTQaN1G5YJS2sHCf7JeSxZ-K3TgUfK1KSj8JoUPzoD7UCdstHkGYFWgwpREHEsyheGsLP9nMRxsJ4jKu6a8FZY8HHwjgQe7sZttVmD7Eem4meWy9vq2nDVjszVCiJ7WLb7J684inhDT9L4pcRnbRbHhUk63CfvZ" target="_blank" class="myButton" style="color:white;">Déposer : 10110 	- FRALIGNES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz" class="myButton" style="color:white;">Consulter : 10 	- Aube</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW" class="myButton" style="color:white;">Déposer : 10 	- Aube</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz" target="_blank" class="myButton" style="color:white;">Consulter : 10 	- Aube</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/10_aube/4XTTM41Zu8MQYJwyv3tJHGTrorxtnyikD68DsVemyiZk3ThMz-K3TgTmGUJaeXhcyrKr3gXoqmq82GkfYoTwSCbr39jXo2qoiz4eMZ1zWf94tEK8PkgCEQwZ6j878iec7q7nyW22BbTVtKr2C3mJwkjMoqhPxRA9brvyfx2cZBiMVgJntTtrf7GrDW" target="_blank" class="myButton" style="color:white;">Déposer : 10 	- Aube</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

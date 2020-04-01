@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/86240_fontaine-le-comte" class="myButton" style="color:white;">Canal de votre commune : 86240 	- FONTAINE LE COMTE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/86240_fontaine-le-comte" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 86240 	- FONTAINE LE COMTE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/86_vienne" class="myButton" style="color:white;">Canal de votre département : 86 	- Vienne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/86_vienne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 86 	- Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86240_fontaine-le-comte/4XTTMAYqbEnoF6vgricVJ7ZeS1oT3nd8qYLCEg5Zh8PDh8u16" class="myButton" style="color:white;">Consulter : 86240 	- FONTAINE LE COMTE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86240_fontaine-le-comte/4XTTMAYqbEnoF6vgricVJ7ZeS1oT3nd8qYLCEg5Zh8PDh8u16-K3TgTkE5uL2jT1AAvJaQpxXydzXmbV91Bqf2V3rGAZtQp4Q394Mtox4i6Rm6YHsSkVVwb8Q5kNLgkC8QSpjoSsKsfznEffE5fGrcdK5fRijLi4SFQyrJcGrfxUeA1kP7YBjfuHBi" class="myButton" style="color:white;">Déposer : 86240 	- FONTAINE LE COMTE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86240_fontaine-le-comte/4XTTMAYqbEnoF6vgricVJ7ZeS1oT3nd8qYLCEg5Zh8PDh8u16" target="_blank" class="myButton" style="color:white;">Consulter : 86240 	- FONTAINE LE COMTE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86240_fontaine-le-comte/4XTTMAYqbEnoF6vgricVJ7ZeS1oT3nd8qYLCEg5Zh8PDh8u16-K3TgTkE5uL2jT1AAvJaQpxXydzXmbV91Bqf2V3rGAZtQp4Q394Mtox4i6Rm6YHsSkVVwb8Q5kNLgkC8QSpjoSsKsfznEffE5fGrcdK5fRijLi4SFQyrJcGrfxUeA1kP7YBjfuHBi" target="_blank" class="myButton" style="color:white;">Déposer : 86240 	- FONTAINE LE COMTE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN" class="myButton" style="color:white;">Consulter : 86 	- Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA" class="myButton" style="color:white;">Déposer : 86 	- Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN" target="_blank" class="myButton" style="color:white;">Consulter : 86 	- Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/86_vienne/4XTTM6ebPnpM89vyqGX616RZRjEbGpJ8VDNVdSCrMHCb86ALN-K3TgUEmU2PzobkNvYrNtR4DXtgm1qYeknzdEZmszmUFpRSMDjV62q8xZv1nUQEJqGnnT9H399N9TnzZMyT3rgAM3pHPbqGxVD33vWNzCSkbf2kxHwBfenpixiJuwbWaCBERwmNeA" target="_blank" class="myButton" style="color:white;">Déposer : 86 	- Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

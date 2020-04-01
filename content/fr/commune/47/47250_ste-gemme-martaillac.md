@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/47250_ste-gemme-martaillac" class="myButton" style="color:white;">Canal de votre commune : 47250 	- STE GEMME MARTAILLAC</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/47250_ste-gemme-martaillac" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 47250 	- STE GEMME MARTAILLAC</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/47_lot-et-garonne" class="myButton" style="color:white;">Canal de votre département : 47 	- Lot-et-Garonne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/47_lot-et-garonne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 47 	- Lot-et-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47250_ste-gemme-martaillac/4XTTM1eVR6AtiLyhWhZbWPrkdy1NEnhouDQbmYp9uq3A77Pve" class="myButton" style="color:white;">Consulter : 47250 	- STE GEMME MARTAILLAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47250_ste-gemme-martaillac/4XTTM1eVR6AtiLyhWhZbWPrkdy1NEnhouDQbmYp9uq3A77Pve-K3TgTdMZDQhqVFF58Q3VrqcDVUVmzDeaspi68qhpMawjjxeKpCqr7u5tMfjASMaFZYDZQf1VvWe8ijgbUFTNCv2T2eMNHbGh9b9fLHtVHqgY2QyRzwoTKUER6p18Ht3LR6DF73bc" class="myButton" style="color:white;">Déposer : 47250 	- STE GEMME MARTAILLAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47250_ste-gemme-martaillac/4XTTM1eVR6AtiLyhWhZbWPrkdy1NEnhouDQbmYp9uq3A77Pve" target="_blank" class="myButton" style="color:white;">Consulter : 47250 	- STE GEMME MARTAILLAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47250_ste-gemme-martaillac/4XTTM1eVR6AtiLyhWhZbWPrkdy1NEnhouDQbmYp9uq3A77Pve-K3TgTdMZDQhqVFF58Q3VrqcDVUVmzDeaspi68qhpMawjjxeKpCqr7u5tMfjASMaFZYDZQf1VvWe8ijgbUFTNCv2T2eMNHbGh9b9fLHtVHqgY2QyRzwoTKUER6p18Ht3LR6DF73bc" target="_blank" class="myButton" style="color:white;">Déposer : 47250 	- STE GEMME MARTAILLAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn" class="myButton" style="color:white;">Consulter : 47 	- Lot-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA" class="myButton" style="color:white;">Déposer : 47 	- Lot-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn" target="_blank" class="myButton" style="color:white;">Consulter : 47 	- Lot-et-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/47_lot-et-garonne/4XTTMHNnLXavmFT1xjt5rh7swFrvXqDiPfspzZ9GxLPQ2v9Wn-K3TgUy1pYrCRA4Fpsj34eti2Kfk3UabA77hFXHPkUuR7dAxpF5AySRM8kQW1SxQwR9LriAvT43gHUdPXrPDiPJ654Ltk2nPARq9jkGKotM7eEtoCSsYVC1vMCn9kSHHJu9c7R8WA" target="_blank" class="myButton" style="color:white;">Déposer : 47 	- Lot-et-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

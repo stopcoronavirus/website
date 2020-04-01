@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/35140_st-hilaire-des-landes" class="myButton" style="color:white;">Canal de votre commune : 35140 	- ST HILAIRE DES LANDES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/35140_st-hilaire-des-landes" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 35140 	- ST HILAIRE DES LANDES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/35_ille-et-vilaine" class="myButton" style="color:white;">Canal de votre département : 35 	- Ille-et-Vilaine</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/35_ille-et-vilaine" target="_blank" class="myButton" style="color:white;">Canal de votre département : 35 	- Ille-et-Vilaine</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35140_st-hilaire-des-landes/4XTTME6PnkNY8RbkNuFzxG5rLByeDGomQF7YWFjb5XMk378zZ" class="myButton" style="color:white;">Consulter : 35140 	- ST HILAIRE DES LANDES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35140_st-hilaire-des-landes/4XTTME6PnkNY8RbkNuFzxG5rLByeDGomQF7YWFjb5XMk378zZ-K3TgUCxEBqFftuT7HKSc3JX4GCLA35Qy4HUbhGsY276cWu8Q4D9yAZJYoEn8dMJex8SEUm5dMPjatCGNqmBzxPT6DR9SbUSV8zzsN4r1y6d5178Qp3R5PjRN5cyq7V9EXaugPwyF" class="myButton" style="color:white;">Déposer : 35140 	- ST HILAIRE DES LANDES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35140_st-hilaire-des-landes/4XTTME6PnkNY8RbkNuFzxG5rLByeDGomQF7YWFjb5XMk378zZ" target="_blank" class="myButton" style="color:white;">Consulter : 35140 	- ST HILAIRE DES LANDES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35140_st-hilaire-des-landes/4XTTME6PnkNY8RbkNuFzxG5rLByeDGomQF7YWFjb5XMk378zZ-K3TgUCxEBqFftuT7HKSc3JX4GCLA35Qy4HUbhGsY276cWu8Q4D9yAZJYoEn8dMJex8SEUm5dMPjatCGNqmBzxPT6DR9SbUSV8zzsN4r1y6d5178Qp3R5PjRN5cyq7V9EXaugPwyF" target="_blank" class="myButton" style="color:white;">Déposer : 35140 	- ST HILAIRE DES LANDES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju" class="myButton" style="color:white;">Consulter : 35 	- Ille-et-Vilaine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy" class="myButton" style="color:white;">Déposer : 35 	- Ille-et-Vilaine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju" target="_blank" class="myButton" style="color:white;">Consulter : 35 	- Ille-et-Vilaine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy" target="_blank" class="myButton" style="color:white;">Déposer : 35 	- Ille-et-Vilaine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

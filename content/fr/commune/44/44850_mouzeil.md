@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/44850_mouzeil" class="myButton" style="color:white;">Canal de votre commune : 44850 	- MOUZEIL</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/44850_mouzeil" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 44850 	- MOUZEIL</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/44_loire-atlantique" class="myButton" style="color:white;">Canal de votre département : 44 	- Loire-Atlantique</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/44_loire-atlantique" target="_blank" class="myButton" style="color:white;">Canal de votre département : 44 	- Loire-Atlantique</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44850_mouzeil/4XTTM2w8m4HhG2pSp8KCps6XLQwiqg8zK9939jDaijwfbWVtU" class="myButton" style="color:white;">Consulter : 44850 	- MOUZEIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44850_mouzeil/4XTTM2w8m4HhG2pSp8KCps6XLQwiqg8zK9939jDaijwfbWVtU-K3TgUiHRjRo7BfjP43pAGCa1wY1Z9WBsSCGJrWfxPex1SMQCsNhZ63sAw9gpq6y4vETY59r4yP7m4s31e93m5f21HPWKuEzF37sqaozcDmivKEd8bHxCa7kPt73rWYAyncQ3D1Di" class="myButton" style="color:white;">Déposer : 44850 	- MOUZEIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44850_mouzeil/4XTTM2w8m4HhG2pSp8KCps6XLQwiqg8zK9939jDaijwfbWVtU" target="_blank" class="myButton" style="color:white;">Consulter : 44850 	- MOUZEIL</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44850_mouzeil/4XTTM2w8m4HhG2pSp8KCps6XLQwiqg8zK9939jDaijwfbWVtU-K3TgUiHRjRo7BfjP43pAGCa1wY1Z9WBsSCGJrWfxPex1SMQCsNhZ63sAw9gpq6y4vETY59r4yP7m4s31e93m5f21HPWKuEzF37sqaozcDmivKEd8bHxCa7kPt73rWYAyncQ3D1Di" target="_blank" class="myButton" style="color:white;">Déposer : 44850 	- MOUZEIL</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf" class="myButton" style="color:white;">Consulter : 44 	- Loire-Atlantique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF" class="myButton" style="color:white;">Déposer : 44 	- Loire-Atlantique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf" target="_blank" class="myButton" style="color:white;">Consulter : 44 	- Loire-Atlantique</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/44_loire-atlantique/4XTTM2LndjPaeg2sq2Xkn7DPCmvYe5CA5Cr371NyyimgAgNDf-K3TgUuYAPHCmMKnpbHtzeumF7bzeMx1Q8qW5eXJTQ8EEXHzmUbG3jNtMLUNgsdCVUK74rpYkM3BoMmK94sf5B6Evif57zS34h5QS7uoWtPTa8VQ63fMrVqF3WZsFWm52Ye1DjdFF" target="_blank" class="myButton" style="color:white;">Déposer : 44 	- Loire-Atlantique</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

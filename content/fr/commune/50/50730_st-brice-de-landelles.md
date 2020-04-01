@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/50730_st-brice-de-landelles" class="myButton" style="color:white;">Canal de votre commune : 50730 	- ST BRICE DE LANDELLES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50730_st-brice-de-landelles" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 50730 	- ST BRICE DE LANDELLES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/50_manche" class="myButton" style="color:white;">Canal de votre département : 50 	- Manche</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/50_manche" target="_blank" class="myButton" style="color:white;">Canal de votre département : 50 	- Manche</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50730_st-brice-de-landelles/4XTTMAKZq9wujsBL3LWEazn9Q8yJXdCCgKjiTWasuC5JVazsz" class="myButton" style="color:white;">Consulter : 50730 	- ST BRICE DE LANDELLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50730_st-brice-de-landelles/4XTTMAKZq9wujsBL3LWEazn9Q8yJXdCCgKjiTWasuC5JVazsz-K3TgU4Qhp45ne1ZLeRUEF64Lv8pb24VL1SZeSLoFsCXvNj6b7JVeDJn17UBYnbaAm1GdvmJsMfLTtVj2K4Nqsr75az9eJA9tnqTi9UUSVAA9DnwAXv5DbofhZ9M5s1rHDNRpkZKW" class="myButton" style="color:white;">Déposer : 50730 	- ST BRICE DE LANDELLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50730_st-brice-de-landelles/4XTTMAKZq9wujsBL3LWEazn9Q8yJXdCCgKjiTWasuC5JVazsz" target="_blank" class="myButton" style="color:white;">Consulter : 50730 	- ST BRICE DE LANDELLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50730_st-brice-de-landelles/4XTTMAKZq9wujsBL3LWEazn9Q8yJXdCCgKjiTWasuC5JVazsz-K3TgU4Qhp45ne1ZLeRUEF64Lv8pb24VL1SZeSLoFsCXvNj6b7JVeDJn17UBYnbaAm1GdvmJsMfLTtVj2K4Nqsr75az9eJA9tnqTi9UUSVAA9DnwAXv5DbofhZ9M5s1rHDNRpkZKW" target="_blank" class="myButton" style="color:white;">Déposer : 50730 	- ST BRICE DE LANDELLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr" class="myButton" style="color:white;">Consulter : 50 	- Manche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE" class="myButton" style="color:white;">Déposer : 50 	- Manche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr" target="_blank" class="myButton" style="color:white;">Consulter : 50 	- Manche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/50_manche/4XTTMEGkHvbt2wXFyvTQYEaMKhHk6haGH1SzsRNevKgBDTuXr-K3TgUSx1rwmRRLqHcTLLdo4dVfTRKvf94KKagmUFPevWSp2f9nuc6fJF25TtLArzK8teuQ5TvuAMqW38N2MYgT18hBoXtjmKX9WuSn2vkujmSJPp3gF4gsuMmfEM8Th4Ap94heFE" target="_blank" class="myButton" style="color:white;">Déposer : 50 	- Manche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

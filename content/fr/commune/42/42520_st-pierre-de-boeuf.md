@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/42520_st-pierre-de-boeuf" class="myButton" style="color:white;">Canal de votre commune : 42520 	- ST PIERRE DE BOEUF</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/42520_st-pierre-de-boeuf" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 42520 	- ST PIERRE DE BOEUF</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/42_loire" class="myButton" style="color:white;">Canal de votre département : 42 	- Loire</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/42_loire" target="_blank" class="myButton" style="color:white;">Canal de votre département : 42 	- Loire</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42520_st-pierre-de-boeuf/4XTTM722n1NwUKHrJpL8vmMAugW3zHKrdFM6NANKpcvqgL5sA" class="myButton" style="color:white;">Consulter : 42520 	- ST PIERRE DE BOEUF</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42520_st-pierre-de-boeuf/4XTTM722n1NwUKHrJpL8vmMAugW3zHKrdFM6NANKpcvqgL5sA-K3TgU3j9UrYLNngsZ7ib1fQ7sPpBFe94NVLaaDGsE4AzMdgaFtU6bzg1LMgzJemwUqjuK4fPsUdsxCpr5eSj8UY8fnpwt4Hnj2GQ1zCocjzQ8nXXRPF7hXSa7JjiJ4H94VyJ2kFe" class="myButton" style="color:white;">Déposer : 42520 	- ST PIERRE DE BOEUF</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42520_st-pierre-de-boeuf/4XTTM722n1NwUKHrJpL8vmMAugW3zHKrdFM6NANKpcvqgL5sA" target="_blank" class="myButton" style="color:white;">Consulter : 42520 	- ST PIERRE DE BOEUF</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42520_st-pierre-de-boeuf/4XTTM722n1NwUKHrJpL8vmMAugW3zHKrdFM6NANKpcvqgL5sA-K3TgU3j9UrYLNngsZ7ib1fQ7sPpBFe94NVLaaDGsE4AzMdgaFtU6bzg1LMgzJemwUqjuK4fPsUdsxCpr5eSj8UY8fnpwt4Hnj2GQ1zCocjzQ8nXXRPF7hXSa7JjiJ4H94VyJ2kFe" target="_blank" class="myButton" style="color:white;">Déposer : 42520 	- ST PIERRE DE BOEUF</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW" class="myButton" style="color:white;">Consulter : 42 	- Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN" class="myButton" style="color:white;">Déposer : 42 	- Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW" target="_blank" class="myButton" style="color:white;">Consulter : 42 	- Loire</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/42_loire/4XTTM8SNJiYkCLPtBfEQExdM2GQMoYUSTuTytLrQfQVaaYJeW-K3TgUi5YJecchkttgL3M6Pu99u8hH2akRrHDb4XXZXATCvGiyzrNbe23fQbzNYiKWDR2re6vQN4Gxv5BQ2dayjGg1AqxtpHRtgi6cm74UeqjVtXM2ZJFa6mvBKTRc4s3X6tJYycN" target="_blank" class="myButton" style="color:white;">Déposer : 42 	- Loire</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

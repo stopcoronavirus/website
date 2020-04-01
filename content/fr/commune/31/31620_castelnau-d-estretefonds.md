@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/31620_castelnau-d-estretefonds" class="myButton" style="color:white;">Canal de votre commune : 31620 	- CASTELNAU D ESTRETEFONDS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/31620_castelnau-d-estretefonds" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 31620 	- CASTELNAU D ESTRETEFONDS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/31_haute-garonne" class="myButton" style="color:white;">Canal de votre département : 31 	- Haute-Garonne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/31_haute-garonne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 31 	- Haute-Garonne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/31620_castelnau-d-estretefonds/4XTTM2DwbA7LtDhp1usk6Nqni3twcwRgushkmJtRQKdYiUzSf" class="myButton" style="color:white;">Consulter : 31620 	- CASTELNAU D ESTRETEFONDS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/31620_castelnau-d-estretefonds/4XTTM2DwbA7LtDhp1usk6Nqni3twcwRgushkmJtRQKdYiUzSf-K3TgV12TjDf5BLa1chXBtJsyqgmEr7MKY8VWgtn3yRVfNCZSw5YBbp9sGPh96Vyr8Cv1fxQcEEmZMX6uJL2V8Vw7SVWxhA4LBaiUa2ohToFQMS11som7JRNrPUa87PNsS3du4dtf" class="myButton" style="color:white;">Déposer : 31620 	- CASTELNAU D ESTRETEFONDS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/31620_castelnau-d-estretefonds/4XTTM2DwbA7LtDhp1usk6Nqni3twcwRgushkmJtRQKdYiUzSf" target="_blank" class="myButton" style="color:white;">Consulter : 31620 	- CASTELNAU D ESTRETEFONDS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/31620_castelnau-d-estretefonds/4XTTM2DwbA7LtDhp1usk6Nqni3twcwRgushkmJtRQKdYiUzSf-K3TgV12TjDf5BLa1chXBtJsyqgmEr7MKY8VWgtn3yRVfNCZSw5YBbp9sGPh96Vyr8Cv1fxQcEEmZMX6uJL2V8Vw7SVWxhA4LBaiUa2ohToFQMS11som7JRNrPUa87PNsS3du4dtf" target="_blank" class="myButton" style="color:white;">Déposer : 31620 	- CASTELNAU D ESTRETEFONDS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu" class="myButton" style="color:white;">Consulter : 31 	- Haute-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV" class="myButton" style="color:white;">Déposer : 31 	- Haute-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu" target="_blank" class="myButton" style="color:white;">Consulter : 31 	- Haute-Garonne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/31_haute-garonne/4XTTM48m5xE87fjWfaZUcsh69Uk2cJV7wygFNQLQTTK2LfbDu-K3TgTwv6r5AxFQijVeZJepAvDs8LuL87ofLWuvMPBqA5LYbNack8gKRRM6gaGZz5FrgAjyGypn7yKxg6USn9sHDLcyfQpD7KSPEh6egAGBy5d2r62HX9tmkZ6n7QUgiEcQ6H7quV" target="_blank" class="myButton" style="color:white;">Déposer : 31 	- Haute-Garonne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

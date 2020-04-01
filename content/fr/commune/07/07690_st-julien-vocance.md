@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/07690_st-julien-vocance" class="myButton" style="color:white;">Canal de votre commune : 07690 	- ST JULIEN VOCANCE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/07690_st-julien-vocance" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 07690 	- ST JULIEN VOCANCE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/07_ardeche" class="myButton" style="color:white;">Canal de votre département : 07 	- Ardèche</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/07_ardeche" target="_blank" class="myButton" style="color:white;">Canal de votre département : 07 	- Ardèche</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07690_st-julien-vocance/4XTTMCz77PYtUBnQ8PNUKLHB3XAVy4CuWerd4fL3snA6ZURMJ" class="myButton" style="color:white;">Consulter : 07690 	- ST JULIEN VOCANCE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07690_st-julien-vocance/4XTTMCz77PYtUBnQ8PNUKLHB3XAVy4CuWerd4fL3snA6ZURMJ-K3TgUoStLLf7zEwKpjDRNhpWQZgWKzvvkDroUuuE8z8kMe5BcVHqbzu6YGo42V6MUu3yoY2L6ntga78164PyqxEPk2uffEWo3pHgBsLgtBD5T6NmuAxV8ZvbtW4pUuMnnyDzgixp" class="myButton" style="color:white;">Déposer : 07690 	- ST JULIEN VOCANCE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07690_st-julien-vocance/4XTTMCz77PYtUBnQ8PNUKLHB3XAVy4CuWerd4fL3snA6ZURMJ" target="_blank" class="myButton" style="color:white;">Consulter : 07690 	- ST JULIEN VOCANCE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07690_st-julien-vocance/4XTTMCz77PYtUBnQ8PNUKLHB3XAVy4CuWerd4fL3snA6ZURMJ-K3TgUoStLLf7zEwKpjDRNhpWQZgWKzvvkDroUuuE8z8kMe5BcVHqbzu6YGo42V6MUu3yoY2L6ntga78164PyqxEPk2uffEWo3pHgBsLgtBD5T6NmuAxV8ZvbtW4pUuMnnyDzgixp" target="_blank" class="myButton" style="color:white;">Déposer : 07690 	- ST JULIEN VOCANCE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H" class="myButton" style="color:white;">Consulter : 07 	- Ardèche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR" class="myButton" style="color:white;">Déposer : 07 	- Ardèche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H" target="_blank" class="myButton" style="color:white;">Consulter : 07 	- Ardèche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR" target="_blank" class="myButton" style="color:white;">Déposer : 07 	- Ardèche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/52260_rolampont" class="myButton" style="color:white;">Canal de votre commune : 52260 	- ROLAMPONT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52260_rolampont" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 52260 	- ROLAMPONT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne" class="myButton" style="color:white;">Canal de votre département : 52 	- Haute-Marne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/52_haute-marne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 52 	- Haute-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52260_rolampont/4XTTM41a7ye7Ec9VTdHp7ankzjyF1BxRM8rsKFo9L1te9iSkp" class="myButton" style="color:white;">Consulter : 52260 	- ROLAMPONT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52260_rolampont/4XTTM41a7ye7Ec9VTdHp7ankzjyF1BxRM8rsKFo9L1te9iSkp-K3TgV8J7BPc1szQpRNyxSgP6Zw3fWgjFo4tAUwcuwRVpyK6LznD8wFYReeKS3AJhB9yYamvcfEkEDxn93gz5GFSTmDitXw67W2SwT5dX5dxkgKhaBvr1zZRuqxyiMyKADhSQ5W7S" class="myButton" style="color:white;">Déposer : 52260 	- ROLAMPONT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52260_rolampont/4XTTM41a7ye7Ec9VTdHp7ankzjyF1BxRM8rsKFo9L1te9iSkp" target="_blank" class="myButton" style="color:white;">Consulter : 52260 	- ROLAMPONT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52260_rolampont/4XTTM41a7ye7Ec9VTdHp7ankzjyF1BxRM8rsKFo9L1te9iSkp-K3TgV8J7BPc1szQpRNyxSgP6Zw3fWgjFo4tAUwcuwRVpyK6LznD8wFYReeKS3AJhB9yYamvcfEkEDxn93gz5GFSTmDitXw67W2SwT5dX5dxkgKhaBvr1zZRuqxyiMyKADhSQ5W7S" target="_blank" class="myButton" style="color:white;">Déposer : 52260 	- ROLAMPONT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o" class="myButton" style="color:white;">Consulter : 52 	- Haute-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3" class="myButton" style="color:white;">Déposer : 52 	- Haute-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o" target="_blank" class="myButton" style="color:white;">Consulter : 52 	- Haute-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/52_haute-marne/4XTTM6fCEbvDFSUns6WjQt9UkBcsimmAKzpQhckmHfjo9ge8o-K3TgUGvGHtMmXdwXETVBFccyg95L4SnvichaSxtD4HKYb9e3UnHhZWwVQcSjcWpBZVA1XvJj88acJTD2D4jDEFCA7qZ66BB7GDGvTQVY9pSsjyj8dJPkTz2hmT3Gc1mUHBxqmsY3" target="_blank" class="myButton" style="color:white;">Déposer : 52 	- Haute-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

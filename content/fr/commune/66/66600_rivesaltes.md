@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/66600_rivesaltes" class="myButton" style="color:white;">Canal de votre commune : 66600 	- RIVESALTES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/66600_rivesaltes" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 66600 	- RIVESALTES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/66_pyrenees-orientales" class="myButton" style="color:white;">Canal de votre département : 66 	- Pyrénées-Orientales</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/66_pyrenees-orientales" target="_blank" class="myButton" style="color:white;">Canal de votre département : 66 	- Pyrénées-Orientales</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/66600_rivesaltes/4XTTM6BpvC35zhyyFpyrL3Lf2f42rRU8mS53Pn5RoJzwaQg1J" class="myButton" style="color:white;">Consulter : 66600 	- RIVESALTES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/66600_rivesaltes/4XTTM6BpvC35zhyyFpyrL3Lf2f42rRU8mS53Pn5RoJzwaQg1J-K3TgU5k8bo4jabeVYzCGrBR48Lua51Va1UFf3vDh6WGT6rZFiXFeDTGYLqiu74fvpe9HABFgzcqfaXwPjNzuhxmbfE2kJFv1Bg37bywJdyCz5NHvn1rSQuEk1jDPfBttGsPGQRA4" class="myButton" style="color:white;">Déposer : 66600 	- RIVESALTES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/66600_rivesaltes/4XTTM6BpvC35zhyyFpyrL3Lf2f42rRU8mS53Pn5RoJzwaQg1J" target="_blank" class="myButton" style="color:white;">Consulter : 66600 	- RIVESALTES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/66600_rivesaltes/4XTTM6BpvC35zhyyFpyrL3Lf2f42rRU8mS53Pn5RoJzwaQg1J-K3TgU5k8bo4jabeVYzCGrBR48Lua51Va1UFf3vDh6WGT6rZFiXFeDTGYLqiu74fvpe9HABFgzcqfaXwPjNzuhxmbfE2kJFv1Bg37bywJdyCz5NHvn1rSQuEk1jDPfBttGsPGQRA4" target="_blank" class="myButton" style="color:white;">Déposer : 66600 	- RIVESALTES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf" class="myButton" style="color:white;">Consulter : 66 	- Pyrénées-Orientales</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro" class="myButton" style="color:white;">Déposer : 66 	- Pyrénées-Orientales</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf" target="_blank" class="myButton" style="color:white;">Consulter : 66 	- Pyrénées-Orientales</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/66_pyrenees-orientales/4XTTM3afUip6Rgx1NuPyghUa14kgTqPXnmDEBposmGgneayAf-K3TgUoccpQuHJoDLEpffojuonv9AF6V42uJqvRngyFmT2AwGwN9tPsrz2nf1fzCNpZaKRMMnD1gZiLbrcE1TiGWzNhdWw8C2qKfZkxaRgJVdAb8sfLLsgGJhGstBy2eaenCpjZro" target="_blank" class="myButton" style="color:white;">Déposer : 66 	- Pyrénées-Orientales</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

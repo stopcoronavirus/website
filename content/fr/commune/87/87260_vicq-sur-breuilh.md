@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/87260_vicq-sur-breuilh" class="myButton" style="color:white;">Canal de votre commune : 87260 	- VICQ SUR BREUILH</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87260_vicq-sur-breuilh" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 87260 	- VICQ SUR BREUILH</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne" class="myButton" style="color:white;">Canal de votre département : 87 	- Haute-Vienne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/87_haute-vienne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 87 	- Haute-Vienne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87260_vicq-sur-breuilh/4XTTMHhgT8MMeFom2zSf1j6y2dV6PPkB32vg5g9XVBHmLXzrB" class="myButton" style="color:white;">Consulter : 87260 	- VICQ SUR BREUILH</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87260_vicq-sur-breuilh/4XTTMHhgT8MMeFom2zSf1j6y2dV6PPkB32vg5g9XVBHmLXzrB-K3TgUoB1hProthpELawrjRBqZwXdB2GwEjn1ni3Ywuk8WSH3dBZJDfVeDiYR9njRJkZkmfSfkzXqZaMMUw3aJdox8jX7b4zKGR92AGTP5q5M2vB4JqtLZ4aeBi4r2Ksp78LXh5n7" class="myButton" style="color:white;">Déposer : 87260 	- VICQ SUR BREUILH</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87260_vicq-sur-breuilh/4XTTMHhgT8MMeFom2zSf1j6y2dV6PPkB32vg5g9XVBHmLXzrB" target="_blank" class="myButton" style="color:white;">Consulter : 87260 	- VICQ SUR BREUILH</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87260_vicq-sur-breuilh/4XTTMHhgT8MMeFom2zSf1j6y2dV6PPkB32vg5g9XVBHmLXzrB-K3TgUoB1hProthpELawrjRBqZwXdB2GwEjn1ni3Ywuk8WSH3dBZJDfVeDiYR9njRJkZkmfSfkzXqZaMMUw3aJdox8jX7b4zKGR92AGTP5q5M2vB4JqtLZ4aeBi4r2Ksp78LXh5n7" target="_blank" class="myButton" style="color:white;">Déposer : 87260 	- VICQ SUR BREUILH</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q" class="myButton" style="color:white;">Consulter : 87 	- Haute-Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q" class="myButton" style="color:white;">Déposer : 87 	- Haute-Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q" target="_blank" class="myButton" style="color:white;">Consulter : 87 	- Haute-Vienne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/87_haute-vienne/4XTTM9E8soEUDBWDosVGD7hHSJd1eNBisRtqRx3cPx1YWDY4q-K3TgTqHUTwo2rdXezkaX81Dxtz3Qe5Nb4ZhUYUHcXgCcumAHWy9Hf4rw9TUi3xe5Y5C9wdgojQhCqrh1Z3kvVqNLQjR5KwN1YKgW9MpwQ9Hzvj18fGN8Gc3oyVRJnvuJw7T2LD6q" target="_blank" class="myButton" style="color:white;">Déposer : 87 	- Haute-Vienne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

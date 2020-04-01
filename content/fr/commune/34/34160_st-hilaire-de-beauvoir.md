@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/34160_st-hilaire-de-beauvoir" class="myButton" style="color:white;">Canal de votre commune : 34160 	- ST HILAIRE DE BEAUVOIR</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34160_st-hilaire-de-beauvoir" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 34160 	- ST HILAIRE DE BEAUVOIR</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/34_herault" class="myButton" style="color:white;">Canal de votre département : 34 	- Hérault</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/34_herault" target="_blank" class="myButton" style="color:white;">Canal de votre département : 34 	- Hérault</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34160_st-hilaire-de-beauvoir/4XTTMBWMus5EK2PLqB6K8SCPSfq3fy3xa1auFayh8fTgW3Fw9" class="myButton" style="color:white;">Consulter : 34160 	- ST HILAIRE DE BEAUVOIR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34160_st-hilaire-de-beauvoir/4XTTMBWMus5EK2PLqB6K8SCPSfq3fy3xa1auFayh8fTgW3Fw9-K3TgUc4mWQCppMczjAwW1bAEGFe2iYjKnxcQtCwapsjeyUvPg1fpGP2ZAr9hfpYKsRVLpepSgdgSpHqtf1rrmKBAvYtcajGyZLY5prKHgJURb4BK2qeB52TGKAD98G13WdZsiT3R" class="myButton" style="color:white;">Déposer : 34160 	- ST HILAIRE DE BEAUVOIR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34160_st-hilaire-de-beauvoir/4XTTMBWMus5EK2PLqB6K8SCPSfq3fy3xa1auFayh8fTgW3Fw9" target="_blank" class="myButton" style="color:white;">Consulter : 34160 	- ST HILAIRE DE BEAUVOIR</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34160_st-hilaire-de-beauvoir/4XTTMBWMus5EK2PLqB6K8SCPSfq3fy3xa1auFayh8fTgW3Fw9-K3TgUc4mWQCppMczjAwW1bAEGFe2iYjKnxcQtCwapsjeyUvPg1fpGP2ZAr9hfpYKsRVLpepSgdgSpHqtf1rrmKBAvYtcajGyZLY5prKHgJURb4BK2qeB52TGKAD98G13WdZsiT3R" target="_blank" class="myButton" style="color:white;">Déposer : 34160 	- ST HILAIRE DE BEAUVOIR</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8" class="myButton" style="color:white;">Consulter : 34 	- Hérault</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J" class="myButton" style="color:white;">Déposer : 34 	- Hérault</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8" target="_blank" class="myButton" style="color:white;">Consulter : 34 	- Hérault</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/34_herault/4XTTMBaUoHPLycDdXPtqBJGVh78NEVoMZNyf8Wnh1X5DK6Ew8-K3TgTd4rzWVX1F82NgGyNepGUxhqCmodCALjxNZeEdBQWQhd1NJYx1gHMW9QBLL6sN41ALXRejLsG2VetgVferfVncrvVCz47dChJvN8ouQLRMdWs4KpxKPeRYR1nspmhzdBqF8J" target="_blank" class="myButton" style="color:white;">Déposer : 34 	- Hérault</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

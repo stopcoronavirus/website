@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/45290_nogent-sur-vernisson" class="myButton" style="color:white;">Canal de votre commune : 45290 	- NOGENT SUR VERNISSON</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/45290_nogent-sur-vernisson" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 45290 	- NOGENT SUR VERNISSON</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/45_loiret" class="myButton" style="color:white;">Canal de votre département : 45 	- Loiret</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/45_loiret" target="_blank" class="myButton" style="color:white;">Canal de votre département : 45 	- Loiret</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45290_nogent-sur-vernisson/4XTTM6GvJThuvGVJ7G2Qv5sye4bp4Sk6XhmheHKsdYeP4kep1" class="myButton" style="color:white;">Consulter : 45290 	- NOGENT SUR VERNISSON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45290_nogent-sur-vernisson/4XTTM6GvJThuvGVJ7G2Qv5sye4bp4Sk6XhmheHKsdYeP4kep1-K3TgUhD5QDorECoznScLUP4VdR3EFaYTTufAkJv4SkHkfKKhiepKV2u1sPXidgVoaKQ8bzubYWk6sXx1jTRRg98PzNcS7AiZj7ExNNiKi4vwxpeWkziGSUuTYEzvxy4Ew5KH6bo7" class="myButton" style="color:white;">Déposer : 45290 	- NOGENT SUR VERNISSON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45290_nogent-sur-vernisson/4XTTM6GvJThuvGVJ7G2Qv5sye4bp4Sk6XhmheHKsdYeP4kep1" target="_blank" class="myButton" style="color:white;">Consulter : 45290 	- NOGENT SUR VERNISSON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45290_nogent-sur-vernisson/4XTTM6GvJThuvGVJ7G2Qv5sye4bp4Sk6XhmheHKsdYeP4kep1-K3TgUhD5QDorECoznScLUP4VdR3EFaYTTufAkJv4SkHkfKKhiepKV2u1sPXidgVoaKQ8bzubYWk6sXx1jTRRg98PzNcS7AiZj7ExNNiKi4vwxpeWkziGSUuTYEzvxy4Ew5KH6bo7" target="_blank" class="myButton" style="color:white;">Déposer : 45290 	- NOGENT SUR VERNISSON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4" class="myButton" style="color:white;">Consulter : 45 	- Loiret</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ" class="myButton" style="color:white;">Déposer : 45 	- Loiret</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4" target="_blank" class="myButton" style="color:white;">Consulter : 45 	- Loiret</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/45_loiret/4XTTME2kSQrSgerkNd6EmDKdA5o9jfzUG2SAG8C2qVYb3YXN4-K3TgULpEDoP6p5UphGUnEGQQDb2AQTj81Z2trE1ZVsdtBZSXUbkVLE9oEias3DdMz5vmgxRH8ErfnuyVj2VYfJxxhBMoq5ZxQCDrb2jTVFkww5uEThgDKwT8pF9LfJGTpqNraKjJ" target="_blank" class="myButton" style="color:white;">Déposer : 45 	- Loiret</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/97440_st-andre" class="myButton" style="color:white;">Canal de votre commune : 97440 	- ST ANDRE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97440_st-andre" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 97440 	- ST ANDRE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/974_la-reunion" class="myButton" style="color:white;">Canal de votre département : 974 	- La Réunion</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/974_la-reunion" target="_blank" class="myButton" style="color:white;">Canal de votre département : 974 	- La Réunion</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97440_st-andre/4XTTM3FwwQJa8GsdUEQQqT45ZGmL9Bw7mzZF8My3T3VhLC8Ey" class="myButton" style="color:white;">Consulter : 97440 	- ST ANDRE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97440_st-andre/4XTTM3FwwQJa8GsdUEQQqT45ZGmL9Bw7mzZF8My3T3VhLC8Ey-K3TgU1nKQDSENKgeYAWJf3VtHkt47UReW7zpA8aUMxDvcPGYjt94dm2qeQ4KJVypKbabuvev8jUy3eHeG3PjPiBxqa9EWyzzYFDm27ASDXNywvfNa2rmKzWZDBSaaVQ6rCvi3941" class="myButton" style="color:white;">Déposer : 97440 	- ST ANDRE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97440_st-andre/4XTTM3FwwQJa8GsdUEQQqT45ZGmL9Bw7mzZF8My3T3VhLC8Ey" target="_blank" class="myButton" style="color:white;">Consulter : 97440 	- ST ANDRE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97440_st-andre/4XTTM3FwwQJa8GsdUEQQqT45ZGmL9Bw7mzZF8My3T3VhLC8Ey-K3TgU1nKQDSENKgeYAWJf3VtHkt47UReW7zpA8aUMxDvcPGYjt94dm2qeQ4KJVypKbabuvev8jUy3eHeG3PjPiBxqa9EWyzzYFDm27ASDXNywvfNa2rmKzWZDBSaaVQ6rCvi3941" target="_blank" class="myButton" style="color:white;">Déposer : 97440 	- ST ANDRE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa" class="myButton" style="color:white;">Consulter : 974 	- La Réunion</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6" class="myButton" style="color:white;">Déposer : 974 	- La Réunion</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa" target="_blank" class="myButton" style="color:white;">Consulter : 974 	- La Réunion</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6" target="_blank" class="myButton" style="color:white;">Déposer : 974 	- La Réunion</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

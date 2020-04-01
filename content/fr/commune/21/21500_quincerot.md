@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/21500_quincerot" class="myButton" style="color:white;">Canal de votre commune : 21500 	- QUINCEROT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21500_quincerot" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 21500 	- QUINCEROT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor" class="myButton" style="color:white;">Canal de votre département : 21 	- Côte-d'Or</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/21_cote-dor" target="_blank" class="myButton" style="color:white;">Canal de votre département : 21 	- Côte-d'Or</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21500_quincerot/4XTTM1K6jZZ28wKW61s3fvQXAtWNW8nXERrWkMtSvyXG5dLMU" class="myButton" style="color:white;">Consulter : 21500 	- QUINCEROT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21500_quincerot/4XTTM1K6jZZ28wKW61s3fvQXAtWNW8nXERrWkMtSvyXG5dLMU-K3TgUHFzAcBLMR2tid3XRDXddUcJfWKqUFbp1n2LYsrAqX2VLhA58S9WkboyaoCuJLraoCvK8Q7qTzod5aAaVPbGN2X9Uft9DTRNftPdd3dyZd4sb3YTyvoqpt5yPnpsZvf9Qq6N" class="myButton" style="color:white;">Déposer : 21500 	- QUINCEROT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21500_quincerot/4XTTM1K6jZZ28wKW61s3fvQXAtWNW8nXERrWkMtSvyXG5dLMU" target="_blank" class="myButton" style="color:white;">Consulter : 21500 	- QUINCEROT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21500_quincerot/4XTTM1K6jZZ28wKW61s3fvQXAtWNW8nXERrWkMtSvyXG5dLMU-K3TgUHFzAcBLMR2tid3XRDXddUcJfWKqUFbp1n2LYsrAqX2VLhA58S9WkboyaoCuJLraoCvK8Q7qTzod5aAaVPbGN2X9Uft9DTRNftPdd3dyZd4sb3YTyvoqpt5yPnpsZvf9Qq6N" target="_blank" class="myButton" style="color:white;">Déposer : 21500 	- QUINCEROT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv" class="myButton" style="color:white;">Consulter : 21 	- Côte-d'Or</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42" class="myButton" style="color:white;">Déposer : 21 	- Côte-d'Or</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv" target="_blank" class="myButton" style="color:white;">Consulter : 21 	- Côte-d'Or</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/21_cote-dor/4XTTM8hZXtCmNtuAvUQu6QJqz9xmPQnUgNuMDYNfAgpgTJEnv-K3TgUAeCfvU7btKCTnFt82Ar1hy6SVpjko5mtz5cmP6TWwJrRZUwDdCuA26r5DKH7yPX8rEwihi6Q8mZanjKHPbdYhxDxUKDawWsAN5pqFheHA2F1nfLoQoMhZE5LiQfmbksDW42" target="_blank" class="myButton" style="color:white;">Déposer : 21 	- Côte-d'Or</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

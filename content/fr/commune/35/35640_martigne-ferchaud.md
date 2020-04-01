@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/35640_martigne-ferchaud" class="myButton" style="color:white;">Canal de votre commune : 35640 	- MARTIGNE FERCHAUD</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/35640_martigne-ferchaud" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 35640 	- MARTIGNE FERCHAUD</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/35_ille-et-vilaine" class="myButton" style="color:white;">Canal de votre département : 35 	- Ille-et-Vilaine</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/35_ille-et-vilaine" target="_blank" class="myButton" style="color:white;">Canal de votre département : 35 	- Ille-et-Vilaine</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35640_martigne-ferchaud/4XTTMCmUoanf2WyZe3QBxaBQ2D4Q6kiY9LmGT62RkuSJxogeY" class="myButton" style="color:white;">Consulter : 35640 	- MARTIGNE FERCHAUD</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35640_martigne-ferchaud/4XTTMCmUoanf2WyZe3QBxaBQ2D4Q6kiY9LmGT62RkuSJxogeY-K3TgU3e1d84KQVwGUA1fCaZLH3N8qwueuNwnLgisK63q6iGP17PxCT4VtNHTZJrogmNe2E6cH4TkKnKEzkyyRLguLRZSS6bRunbVngyraqcSihBC1hQm5BDELsvWoEUkkQd3n4mr" class="myButton" style="color:white;">Déposer : 35640 	- MARTIGNE FERCHAUD</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35640_martigne-ferchaud/4XTTMCmUoanf2WyZe3QBxaBQ2D4Q6kiY9LmGT62RkuSJxogeY" target="_blank" class="myButton" style="color:white;">Consulter : 35640 	- MARTIGNE FERCHAUD</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35640_martigne-ferchaud/4XTTMCmUoanf2WyZe3QBxaBQ2D4Q6kiY9LmGT62RkuSJxogeY-K3TgU3e1d84KQVwGUA1fCaZLH3N8qwueuNwnLgisK63q6iGP17PxCT4VtNHTZJrogmNe2E6cH4TkKnKEzkyyRLguLRZSS6bRunbVngyraqcSihBC1hQm5BDELsvWoEUkkQd3n4mr" target="_blank" class="myButton" style="color:white;">Déposer : 35640 	- MARTIGNE FERCHAUD</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju" class="myButton" style="color:white;">Consulter : 35 	- Ille-et-Vilaine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy" class="myButton" style="color:white;">Déposer : 35 	- Ille-et-Vilaine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju" target="_blank" class="myButton" style="color:white;">Consulter : 35 	- Ille-et-Vilaine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/35_ille-et-vilaine/4XTTM7StMhAJC3ez8pPevkgAqiNUcS52kKrehssYfFVHMMrju-K3TgV811yenhEuJqddUBYpbTnifd7BiFRX3fLXndB5RCuJzLDEnHE8qwLhvTPZqyjgmx9neeCerm4fwxpw8eGk7eo7QbbFxp5NaSoYYyNHRHpjtPop1gdSHcKUNwdRVVfwYCtWdy" target="_blank" class="myButton" style="color:white;">Déposer : 35 	- Ille-et-Vilaine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

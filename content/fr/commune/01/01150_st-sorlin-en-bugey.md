@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/01150_st-sorlin-en-bugey" class="myButton" style="color:white;">Canal de votre commune : 01150 	- ST SORLIN EN BUGEY</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/01150_st-sorlin-en-bugey" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 01150 	- ST SORLIN EN BUGEY</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/01_ain" class="myButton" style="color:white;">Canal de votre département : 01 	- Ain</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/01_ain" target="_blank" class="myButton" style="color:white;">Canal de votre département : 01 	- Ain</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/01150_st-sorlin-en-bugey/4XTTM4bTV4NL9PnYwkBgLXd94JhaLcv4pMFthVd2SZeaWTxBM" class="myButton" style="color:white;">Consulter : 01150 	- ST SORLIN EN BUGEY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/01150_st-sorlin-en-bugey/4XTTM4bTV4NL9PnYwkBgLXd94JhaLcv4pMFthVd2SZeaWTxBM-K3TgUzYePHPdVs3jCUjSGeRHeNQuxTEPr6xRiceefeyqP5G6rUCJUAf9Mf43PcETbwpmAEbEQQCWYrrW6koaokha6jsR3Rds95rkMdpfNbYVRFujeRqtR94Dm6C8786phb5wB7mM" class="myButton" style="color:white;">Déposer : 01150 	- ST SORLIN EN BUGEY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/01150_st-sorlin-en-bugey/4XTTM4bTV4NL9PnYwkBgLXd94JhaLcv4pMFthVd2SZeaWTxBM" target="_blank" class="myButton" style="color:white;">Consulter : 01150 	- ST SORLIN EN BUGEY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/01150_st-sorlin-en-bugey/4XTTM4bTV4NL9PnYwkBgLXd94JhaLcv4pMFthVd2SZeaWTxBM-K3TgUzYePHPdVs3jCUjSGeRHeNQuxTEPr6xRiceefeyqP5G6rUCJUAf9Mf43PcETbwpmAEbEQQCWYrrW6koaokha6jsR3Rds95rkMdpfNbYVRFujeRqtR94Dm6C8786phb5wB7mM" target="_blank" class="myButton" style="color:white;">Déposer : 01150 	- ST SORLIN EN BUGEY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr" class="myButton" style="color:white;">Consulter : 01 	- Ain</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2" class="myButton" style="color:white;">Déposer : 01 	- Ain</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr" target="_blank" class="myButton" style="color:white;">Consulter : 01 	- Ain</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/01_ain/4XTTM9F5Lu5rzByUwAPpyzfuAZHNExy1TWE3X3wiTrPFfiAJr-K3TgUnxzeFoJA4CB58vXNvKXURJneTNZHUsypAQGicGiZu7AS2sPbjspGpj7s3MmMv58YhkLaSUMQMHaiKAfoMv6wF36Urxbqqh8MmnXpnKkbVhnAishABEkMRAiyAt8GGJ1Jer2" target="_blank" class="myButton" style="color:white;">Déposer : 01 	- Ain</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

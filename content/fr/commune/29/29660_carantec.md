@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/29660_carantec" class="myButton" style="color:white;">Canal de votre commune : 29660 	- CARANTEC</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/29660_carantec" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 29660 	- CARANTEC</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/29_finistere" class="myButton" style="color:white;">Canal de votre département : 29 	- Finistère</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/29_finistere" target="_blank" class="myButton" style="color:white;">Canal de votre département : 29 	- Finistère</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/29660_carantec/4XTTM45oLpSb9SpYaXS4nwfDz2KFtS1XQ3YwkkRhRo3Mzytrs" class="myButton" style="color:white;">Consulter : 29660 	- CARANTEC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/29660_carantec/4XTTM45oLpSb9SpYaXS4nwfDz2KFtS1XQ3YwkkRhRo3Mzytrs-K3TgTeSAzF5sUWJRMo37n9ojWoPNMJLKj2uJtDiJnTLuWiyXUoiitEsKeEfJpJMSFLrmNwNdzXL9Cq3GwPL7jAj3pWETt1ErehCN225j65idVjZz3HKFqtZ6Q3EQsvZw764iChyH" class="myButton" style="color:white;">Déposer : 29660 	- CARANTEC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/29660_carantec/4XTTM45oLpSb9SpYaXS4nwfDz2KFtS1XQ3YwkkRhRo3Mzytrs" target="_blank" class="myButton" style="color:white;">Consulter : 29660 	- CARANTEC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/29660_carantec/4XTTM45oLpSb9SpYaXS4nwfDz2KFtS1XQ3YwkkRhRo3Mzytrs-K3TgTeSAzF5sUWJRMo37n9ojWoPNMJLKj2uJtDiJnTLuWiyXUoiitEsKeEfJpJMSFLrmNwNdzXL9Cq3GwPL7jAj3pWETt1ErehCN225j65idVjZz3HKFqtZ6Q3EQsvZw764iChyH" target="_blank" class="myButton" style="color:white;">Déposer : 29660 	- CARANTEC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC" class="myButton" style="color:white;">Consulter : 29 	- Finistère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC-K3TgUmttHvLKDBu5vxQ3oPzTia91UxXiaB3vEFjsHJiDiJD9aQfr6ibvcPa75Eo3oX7ob78s9tVxCKrtPM9bLAmDziVCSFjEgZbp3rqL8Ji8Q5aZhxfTcqkGX75WxHS6TQxtiQQ6" class="myButton" style="color:white;">Déposer : 29 	- Finistère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC" target="_blank" class="myButton" style="color:white;">Consulter : 29 	- Finistère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/29_finistere/4XTTM4K4sSN8E5nbCnrs5W4MfHv8SjkZXZkMiZwJKZCUFreuC-K3TgUmttHvLKDBu5vxQ3oPzTia91UxXiaB3vEFjsHJiDiJD9aQfr6ibvcPa75Eo3oX7ob78s9tVxCKrtPM9bLAmDziVCSFjEgZbp3rqL8Ji8Q5aZhxfTcqkGX75WxHS6TQxtiQQ6" target="_blank" class="myButton" style="color:white;">Déposer : 29 	- Finistère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

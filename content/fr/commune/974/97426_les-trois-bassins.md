@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/97426_les-trois-bassins" class="myButton" style="color:white;">Canal de votre commune : 97426 	- LES TROIS BASSINS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97426_les-trois-bassins" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 97426 	- LES TROIS BASSINS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/974_la-reunion" class="myButton" style="color:white;">Canal de votre département : 974 	- La Réunion</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/974_la-reunion" target="_blank" class="myButton" style="color:white;">Canal de votre département : 974 	- La Réunion</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97426_les-trois-bassins/4XTTM79yQ9RuFHHt6UQuVAF3y6YaCPvr2Ldu2ju42nq3Aosdt" class="myButton" style="color:white;">Consulter : 97426 	- LES TROIS BASSINS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97426_les-trois-bassins/4XTTM79yQ9RuFHHt6UQuVAF3y6YaCPvr2Ldu2ju42nq3Aosdt-K3TgTpFHDCPTPHKfcEUVxAJM7nhHQnt9iDbeKtpBrYvmMiBs6XtJnszRf1rFfRMV5ku8C97G1iWp4NRzVEkgDe8EqeJe7D2fWfn67QHKuaqCUVg7zx5zdXaZXZttWPYT9AYgDNqY" class="myButton" style="color:white;">Déposer : 97426 	- LES TROIS BASSINS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97426_les-trois-bassins/4XTTM79yQ9RuFHHt6UQuVAF3y6YaCPvr2Ldu2ju42nq3Aosdt" target="_blank" class="myButton" style="color:white;">Consulter : 97426 	- LES TROIS BASSINS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97426_les-trois-bassins/4XTTM79yQ9RuFHHt6UQuVAF3y6YaCPvr2Ldu2ju42nq3Aosdt-K3TgTpFHDCPTPHKfcEUVxAJM7nhHQnt9iDbeKtpBrYvmMiBs6XtJnszRf1rFfRMV5ku8C97G1iWp4NRzVEkgDe8EqeJe7D2fWfn67QHKuaqCUVg7zx5zdXaZXZttWPYT9AYgDNqY" target="_blank" class="myButton" style="color:white;">Déposer : 97426 	- LES TROIS BASSINS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa" class="myButton" style="color:white;">Consulter : 974 	- La Réunion</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6" class="myButton" style="color:white;">Déposer : 974 	- La Réunion</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa" target="_blank" class="myButton" style="color:white;">Consulter : 974 	- La Réunion</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/974_la-reunion/4XTTM7moZfpJxjtoPCFhDCSeFAKf5ndNcapmHubD8swd8THCa-K3TgUBgCwxTwhTqNptj6hkN2w89wwoHzBb4BqtNkHCXsK4gQZSGWFofTczFdfdacMnsZcERFfB8ooqZgLiBUMEYZ7BECLbmjreaoWWaa3LPWugtwLuXYCQwox9iwiiDTsjH2rec6" target="_blank" class="myButton" style="color:white;">Déposer : 974 	- La Réunion</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

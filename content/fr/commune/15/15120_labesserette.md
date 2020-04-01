@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/15120_labesserette" class="myButton" style="color:white;">Canal de votre commune : 15120 	- LABESSERETTE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/15120_labesserette" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 15120 	- LABESSERETTE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/15_cantal" class="myButton" style="color:white;">Canal de votre département : 15 	- Cantal</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/15_cantal" target="_blank" class="myButton" style="color:white;">Canal de votre département : 15 	- Cantal</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15120_labesserette/4XTTMFaX4Z4JKbeZFTWyArJm5ofwp2keLTgZPn6t3XV8Kr8wY" class="myButton" style="color:white;">Consulter : 15120 	- LABESSERETTE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15120_labesserette/4XTTMFaX4Z4JKbeZFTWyArJm5ofwp2keLTgZPn6t3XV8Kr8wY-K3TgV5Dk4EXzZsiQ9HwAafUiJgqYYjhXqizXaCM5zc2RQF11WRxRifSmtzxP9MvjH521HT3JHTtRjMBUnGzAGFnBhAyzPRWBe6hN5SNsYPoo6JQba21QmoQpL5FjuNzYywBqD66A" class="myButton" style="color:white;">Déposer : 15120 	- LABESSERETTE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15120_labesserette/4XTTMFaX4Z4JKbeZFTWyArJm5ofwp2keLTgZPn6t3XV8Kr8wY" target="_blank" class="myButton" style="color:white;">Consulter : 15120 	- LABESSERETTE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15120_labesserette/4XTTMFaX4Z4JKbeZFTWyArJm5ofwp2keLTgZPn6t3XV8Kr8wY-K3TgV5Dk4EXzZsiQ9HwAafUiJgqYYjhXqizXaCM5zc2RQF11WRxRifSmtzxP9MvjH521HT3JHTtRjMBUnGzAGFnBhAyzPRWBe6hN5SNsYPoo6JQba21QmoQpL5FjuNzYywBqD66A" target="_blank" class="myButton" style="color:white;">Déposer : 15120 	- LABESSERETTE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi" class="myButton" style="color:white;">Consulter : 15 	- Cantal</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS" class="myButton" style="color:white;">Déposer : 15 	- Cantal</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi" target="_blank" class="myButton" style="color:white;">Consulter : 15 	- Cantal</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/15_cantal/4XTTM4AbJ2X6iKQkT6VnBNhdpUq3gTjF5xvzeLXgyMbip7oZi-K3TgUzLxcVoV3Spfk4WRRT7ns4FZHP5DRn3T5Xt1HAMNkCgdMWpswwmyZFy1f4TzqjHqM6bwRLmH4WDVWsNZdM34scPnnmiNG41mKcAmEspoSpDYQr7FHqoFAfy15CJrkSEmsoqS" target="_blank" class="myButton" style="color:white;">Déposer : 15 	- Cantal</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

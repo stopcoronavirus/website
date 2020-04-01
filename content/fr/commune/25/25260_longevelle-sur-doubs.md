@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/25260_longevelle-sur-doubs" class="myButton" style="color:white;">Canal de votre commune : 25260 	- LONGEVELLE SUR DOUBS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/25260_longevelle-sur-doubs" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 25260 	- LONGEVELLE SUR DOUBS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/25_doubs" class="myButton" style="color:white;">Canal de votre département : 25 	- Doubs</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/25_doubs" target="_blank" class="myButton" style="color:white;">Canal de votre département : 25 	- Doubs</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25260_longevelle-sur-doubs/4XTTM1FKyF14DxcBHFSJoi2jfYkHtLNNSPDcA3tiZnt6Mc6N4" class="myButton" style="color:white;">Consulter : 25260 	- LONGEVELLE SUR DOUBS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25260_longevelle-sur-doubs/4XTTM1FKyF14DxcBHFSJoi2jfYkHtLNNSPDcA3tiZnt6Mc6N4-K3TgUGZgFei8XdiGptunQB1A541THxkUgbpmFJQvMWAAtS4aZjcqNkpawCBDvJ3U5YNv7TJXDX3ybgHUpNh2SCVkwL7pg12aQ9MTjBV7NHz6RnxBhE8QNBTVRys9HY2Be9j7BoQt" class="myButton" style="color:white;">Déposer : 25260 	- LONGEVELLE SUR DOUBS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25260_longevelle-sur-doubs/4XTTM1FKyF14DxcBHFSJoi2jfYkHtLNNSPDcA3tiZnt6Mc6N4" target="_blank" class="myButton" style="color:white;">Consulter : 25260 	- LONGEVELLE SUR DOUBS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25260_longevelle-sur-doubs/4XTTM1FKyF14DxcBHFSJoi2jfYkHtLNNSPDcA3tiZnt6Mc6N4-K3TgUGZgFei8XdiGptunQB1A541THxkUgbpmFJQvMWAAtS4aZjcqNkpawCBDvJ3U5YNv7TJXDX3ybgHUpNh2SCVkwL7pg12aQ9MTjBV7NHz6RnxBhE8QNBTVRys9HY2Be9j7BoQt" target="_blank" class="myButton" style="color:white;">Déposer : 25260 	- LONGEVELLE SUR DOUBS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv" class="myButton" style="color:white;">Consulter : 25 	- Doubs</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp" class="myButton" style="color:white;">Déposer : 25 	- Doubs</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv" target="_blank" class="myButton" style="color:white;">Consulter : 25 	- Doubs</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp" target="_blank" class="myButton" style="color:white;">Déposer : 25 	- Doubs</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

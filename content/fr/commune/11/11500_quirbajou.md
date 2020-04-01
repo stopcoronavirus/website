@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/11500_quirbajou" class="myButton" style="color:white;">Canal de votre commune : 11500 	- QUIRBAJOU</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/11500_quirbajou" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 11500 	- QUIRBAJOU</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/11_aude" class="myButton" style="color:white;">Canal de votre département : 11 	- Aude</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/11_aude" target="_blank" class="myButton" style="color:white;">Canal de votre département : 11 	- Aude</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11500_quirbajou/4XTTM1eLnF9PY6WF81yt6YrkqMJCPQWipK8edHhsQZCQUxUXs" class="myButton" style="color:white;">Consulter : 11500 	- QUIRBAJOU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11500_quirbajou/4XTTM1eLnF9PY6WF81yt6YrkqMJCPQWipK8edHhsQZCQUxUXs-K3TgTiEtgRGq4cwQ8TfWmrk9CBqbg5Y89ZMVL8aUimkCYiTqQVeNM2bve8uAE8b73d7rZBX4TF2c1U6VWWtzDRszxd6cso3sEM42Q7CxviEzTJVL2P9aUUiaJ66pTdceCtTjLW17" class="myButton" style="color:white;">Déposer : 11500 	- QUIRBAJOU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11500_quirbajou/4XTTM1eLnF9PY6WF81yt6YrkqMJCPQWipK8edHhsQZCQUxUXs" target="_blank" class="myButton" style="color:white;">Consulter : 11500 	- QUIRBAJOU</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11500_quirbajou/4XTTM1eLnF9PY6WF81yt6YrkqMJCPQWipK8edHhsQZCQUxUXs-K3TgTiEtgRGq4cwQ8TfWmrk9CBqbg5Y89ZMVL8aUimkCYiTqQVeNM2bve8uAE8b73d7rZBX4TF2c1U6VWWtzDRszxd6cso3sEM42Q7CxviEzTJVL2P9aUUiaJ66pTdceCtTjLW17" target="_blank" class="myButton" style="color:white;">Déposer : 11500 	- QUIRBAJOU</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk" class="myButton" style="color:white;">Consulter : 11 	- Aude</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr" class="myButton" style="color:white;">Déposer : 11 	- Aude</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk" target="_blank" class="myButton" style="color:white;">Consulter : 11 	- Aude</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/11_aude/4XTTMAGp75xRqnHSCY5CHaiDgxDaUgXuTXvSZDHnY1JdjJiUk-K3TgUenjCPDfs1W21bst2JvrPDW324QBfMvPid11puzXxXGQEeNw9p4QtfnUhSn4LYSwR6UDBQmdr3wFq2CDRGqNz2QynSm58zgCpz2PKP6Y24UTpxW22MudfeZ339ZPKnHm6XTr" target="_blank" class="myButton" style="color:white;">Déposer : 11 	- Aude</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

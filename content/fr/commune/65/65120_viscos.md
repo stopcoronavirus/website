@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/65120_viscos" class="myButton" style="color:white;">Canal de votre commune : 65120 	- VISCOS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65120_viscos" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 65120 	- VISCOS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees" class="myButton" style="color:white;">Canal de votre département : 65 	- Hautes-Pyrénées</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/65_hautes-pyrenees" target="_blank" class="myButton" style="color:white;">Canal de votre département : 65 	- Hautes-Pyrénées</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65120_viscos/4XTTM6oHhS9rv1gEW7oUyUu6T3t4D3eitxBjkvsHWgXVwrJip" class="myButton" style="color:white;">Consulter : 65120 	- VISCOS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65120_viscos/4XTTM6oHhS9rv1gEW7oUyUu6T3t4D3eitxBjkvsHWgXVwrJip-K3TgTvSXUYRzq7gdWCZcYMhqYGC7DMcAxuYgt4K3feTXd2a7U3Xf7rJqXpXic73JJDX5qQwmke3bghLEocAWbigGP1PSLCs6gRwDs4XYVTgQkQs5maTKbQUX33kEGBD1nR8LDAPv" class="myButton" style="color:white;">Déposer : 65120 	- VISCOS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65120_viscos/4XTTM6oHhS9rv1gEW7oUyUu6T3t4D3eitxBjkvsHWgXVwrJip" target="_blank" class="myButton" style="color:white;">Consulter : 65120 	- VISCOS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65120_viscos/4XTTM6oHhS9rv1gEW7oUyUu6T3t4D3eitxBjkvsHWgXVwrJip-K3TgTvSXUYRzq7gdWCZcYMhqYGC7DMcAxuYgt4K3feTXd2a7U3Xf7rJqXpXic73JJDX5qQwmke3bghLEocAWbigGP1PSLCs6gRwDs4XYVTgQkQs5maTKbQUX33kEGBD1nR8LDAPv" target="_blank" class="myButton" style="color:white;">Déposer : 65120 	- VISCOS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB" class="myButton" style="color:white;">Consulter : 65 	- Hautes-Pyrénées</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj" class="myButton" style="color:white;">Déposer : 65 	- Hautes-Pyrénées</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB" target="_blank" class="myButton" style="color:white;">Consulter : 65 	- Hautes-Pyrénées</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/65_hautes-pyrenees/4XTTM3vW8cc2Tbjqt9mVfbVSUAH9xcwMWwsa1QeVP8NGfSkcB-K3TgUqbbY3e2f1nwkc2f5oyooSxMX2yEPZpefEfNGN9gz2f93N7m2m16knqkAcf6sotdkJTGbpadMfCys9Hd3fKkct3QjCYdABrJRdWBg5xiz9szhAcPe3CZzoUDF2f8sKWAtKWj" target="_blank" class="myButton" style="color:white;">Déposer : 65 	- Hautes-Pyrénées</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

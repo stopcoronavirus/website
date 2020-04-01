@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/07470_le-lac-d-issarles" class="myButton" style="color:white;">Canal de votre commune : 07470 	- LE LAC D ISSARLES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/07470_le-lac-d-issarles" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 07470 	- LE LAC D ISSARLES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/07_ardeche" class="myButton" style="color:white;">Canal de votre département : 07 	- Ardèche</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/07_ardeche" target="_blank" class="myButton" style="color:white;">Canal de votre département : 07 	- Ardèche</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07470_le-lac-d-issarles/4XTTMDSjXR9hJvNo79nuLqzJQf6wWZ8RXqVDLeGMQ98GBJZmA" class="myButton" style="color:white;">Consulter : 07470 	- LE LAC D ISSARLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07470_le-lac-d-issarles/4XTTMDSjXR9hJvNo79nuLqzJQf6wWZ8RXqVDLeGMQ98GBJZmA-K3TgUtfFT5pYHTtHA3Jkj1LscYc1bv9PTp4oJcKBP7GbT3SrvmyPxDJXbkopJKcqpBHQ2fvdY5Eb71Z1rj7TsmiBvqqFMdyth1svxWLPfUE8LE2J7XRjCnNWzuQYRa41iqqUnvdN" class="myButton" style="color:white;">Déposer : 07470 	- LE LAC D ISSARLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07470_le-lac-d-issarles/4XTTMDSjXR9hJvNo79nuLqzJQf6wWZ8RXqVDLeGMQ98GBJZmA" target="_blank" class="myButton" style="color:white;">Consulter : 07470 	- LE LAC D ISSARLES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07470_le-lac-d-issarles/4XTTMDSjXR9hJvNo79nuLqzJQf6wWZ8RXqVDLeGMQ98GBJZmA-K3TgUtfFT5pYHTtHA3Jkj1LscYc1bv9PTp4oJcKBP7GbT3SrvmyPxDJXbkopJKcqpBHQ2fvdY5Eb71Z1rj7TsmiBvqqFMdyth1svxWLPfUE8LE2J7XRjCnNWzuQYRa41iqqUnvdN" target="_blank" class="myButton" style="color:white;">Déposer : 07470 	- LE LAC D ISSARLES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H" class="myButton" style="color:white;">Consulter : 07 	- Ardèche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR" class="myButton" style="color:white;">Déposer : 07 	- Ardèche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H" target="_blank" class="myButton" style="color:white;">Consulter : 07 	- Ardèche</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/07_ardeche/4XTTM76t1KrvjKn5xskpK35oUjHPH8CQaLdMsC4TVbgaVPp9H-K3TgTz6XqMtb1TG26LozWQGWzYCmeEroVRKKCBntm7SADEzfC88gC5qx4GzHEVb3Y3CHH1FRtgCq45v9wokwFBFS6YysdmDNnD29f5C4C6FuF2ZpCUFJZY3XzmFx1kWscUwpw6qR" target="_blank" class="myButton" style="color:white;">Déposer : 07 	- Ardèche</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

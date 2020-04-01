@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/70120_cintrey" class="myButton" style="color:white;">Canal de votre commune : 70120 	- CINTREY</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/70120_cintrey" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 70120 	- CINTREY</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/70_haute-saone" class="myButton" style="color:white;">Canal de votre département : 70 	- Haute-Saône</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/70_haute-saone" target="_blank" class="myButton" style="color:white;">Canal de votre département : 70 	- Haute-Saône</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/70120_cintrey/4XTTMH5bVL98i7pRot1BNxC4itsyvVUkQJJQEVVfzL1HbUZjN" class="myButton" style="color:white;">Consulter : 70120 	- CINTREY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/70120_cintrey/4XTTMH5bVL98i7pRot1BNxC4itsyvVUkQJJQEVVfzL1HbUZjN-K3TgUQoTcT7b3cTGw5fSubXuMAaG39yFhzfSKbn4hsxsTv8hhu4oRqffrAfCWm8HMJ1293EZVAb7yjFohUBgvTouHQJbgydwH786Nx7Vq5H6963guwFUqAiF3ZGzYsFQshgnembN" class="myButton" style="color:white;">Déposer : 70120 	- CINTREY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/70120_cintrey/4XTTMH5bVL98i7pRot1BNxC4itsyvVUkQJJQEVVfzL1HbUZjN" target="_blank" class="myButton" style="color:white;">Consulter : 70120 	- CINTREY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/70120_cintrey/4XTTMH5bVL98i7pRot1BNxC4itsyvVUkQJJQEVVfzL1HbUZjN-K3TgUQoTcT7b3cTGw5fSubXuMAaG39yFhzfSKbn4hsxsTv8hhu4oRqffrAfCWm8HMJ1293EZVAb7yjFohUBgvTouHQJbgydwH786Nx7Vq5H6963guwFUqAiF3ZGzYsFQshgnembN" target="_blank" class="myButton" style="color:white;">Déposer : 70120 	- CINTREY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa" class="myButton" style="color:white;">Consulter : 70 	- Haute-Saône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN" class="myButton" style="color:white;">Déposer : 70 	- Haute-Saône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa" target="_blank" class="myButton" style="color:white;">Consulter : 70 	- Haute-Saône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/70_haute-saone/4XTTM1Qw5gWJwnbmhPrvSKEuxzFSLfcan2ojFT8rGLtekRBxa-K3TgV3DzQqgvogJp4ssr5C4LtuwodpPuPzeyYteF7RYpPmB6qZReU6MSLhXwicMUyp48x2iAZ6d5rb8nj2gdVeVdHTnHytfw8TXYuYis3ugBtveCp9sqAoRBPaTyXCxThvxaN7zN" target="_blank" class="myButton" style="color:white;">Déposer : 70 	- Haute-Saône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

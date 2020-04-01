@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/25130_villers-le-lac" class="myButton" style="color:white;">Canal de votre commune : 25130 	- VILLERS LE LAC</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/25130_villers-le-lac" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 25130 	- VILLERS LE LAC</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/25_doubs" class="myButton" style="color:white;">Canal de votre département : 25 	- Doubs</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/25_doubs" target="_blank" class="myButton" style="color:white;">Canal de votre département : 25 	- Doubs</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25130_villers-le-lac/4XTTM1HMWRkfVsoLrH7kErDHf9FY9XxTD3RsGHPAk2LVdV3iE" class="myButton" style="color:white;">Consulter : 25130 	- VILLERS LE LAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25130_villers-le-lac/4XTTM1HMWRkfVsoLrH7kErDHf9FY9XxTD3RsGHPAk2LVdV3iE-K3TgTyeu6Gwc4Akg8gDReBRbfm7YVncGAfEJ8EsAnPntjT2q3fTNjKGzA28qLaGSWp1Jrm6mntUyatwPKUE5K7Qr8MzhyrHfkF5j3y5S7LqHaEnAwdiTa6K8q42hZEaxm6fbCMZQ" class="myButton" style="color:white;">Déposer : 25130 	- VILLERS LE LAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25130_villers-le-lac/4XTTM1HMWRkfVsoLrH7kErDHf9FY9XxTD3RsGHPAk2LVdV3iE" target="_blank" class="myButton" style="color:white;">Consulter : 25130 	- VILLERS LE LAC</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25130_villers-le-lac/4XTTM1HMWRkfVsoLrH7kErDHf9FY9XxTD3RsGHPAk2LVdV3iE-K3TgTyeu6Gwc4Akg8gDReBRbfm7YVncGAfEJ8EsAnPntjT2q3fTNjKGzA28qLaGSWp1Jrm6mntUyatwPKUE5K7Qr8MzhyrHfkF5j3y5S7LqHaEnAwdiTa6K8q42hZEaxm6fbCMZQ" target="_blank" class="myButton" style="color:white;">Déposer : 25130 	- VILLERS LE LAC</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv" class="myButton" style="color:white;">Consulter : 25 	- Doubs</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp" class="myButton" style="color:white;">Déposer : 25 	- Doubs</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv" target="_blank" class="myButton" style="color:white;">Consulter : 25 	- Doubs</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/25_doubs/4XTTM9HdyFdcsmEJw91cq1yramubS2Nmf1ps2s84xcMxY74Zv-K3TgURza6A4QY75MscA2g52nUX9tjMQaHW9mgBSgyRKNNp3M6gkaXA9iDDtpbSx22mTSZbQLYS1izbwsznz8e9u5BERCmGKxZ379xV2nAaDe1bGyxrjytc7G1EcbGtknRFYQ1Lxp" target="_blank" class="myButton" style="color:white;">Déposer : 25 	- Doubs</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

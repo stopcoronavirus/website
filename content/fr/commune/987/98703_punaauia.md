@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/98703_punaauia" class="myButton" style="color:white;">Canal de votre commune : 98703 	- PUNAAUIA</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/98703_punaauia" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 98703 	- PUNAAUIA</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/987_polynesie-francaise" class="myButton" style="color:white;">Canal de votre département : 987 	- Polynésie française</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/987_polynesie-francaise" target="_blank" class="myButton" style="color:white;">Canal de votre département : 987 	- Polynésie française</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/98703_punaauia/4XTTMC2fJCjMQQUNKKGbYda2TR3CB6MWwPiZTtcfvEKXkp6y2" class="myButton" style="color:white;">Consulter : 98703 	- PUNAAUIA</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/98703_punaauia/4XTTMC2fJCjMQQUNKKGbYda2TR3CB6MWwPiZTtcfvEKXkp6y2-K3TgUcyUTbRPt1V3MbJPwrgvY6oiULuQY2XLbm6PFrq3zVjmpKE6RwA5aWExS3kPfxknxEfx2HyaPXeQhXpWJ3AaZGdecG38ERHC4RvRDoWwWedvdthXDj2G1D13gX1DkZue4UGt" class="myButton" style="color:white;">Déposer : 98703 	- PUNAAUIA</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/98703_punaauia/4XTTMC2fJCjMQQUNKKGbYda2TR3CB6MWwPiZTtcfvEKXkp6y2" target="_blank" class="myButton" style="color:white;">Consulter : 98703 	- PUNAAUIA</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/98703_punaauia/4XTTMC2fJCjMQQUNKKGbYda2TR3CB6MWwPiZTtcfvEKXkp6y2-K3TgUcyUTbRPt1V3MbJPwrgvY6oiULuQY2XLbm6PFrq3zVjmpKE6RwA5aWExS3kPfxknxEfx2HyaPXeQhXpWJ3AaZGdecG38ERHC4RvRDoWwWedvdthXDj2G1D13gX1DkZue4UGt" target="_blank" class="myButton" style="color:white;">Déposer : 98703 	- PUNAAUIA</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF" class="myButton" style="color:white;">Consulter : 987 	- Polynésie française</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF-K3TgUdNTyMijF9cTo2J1xYw2zHQp2hiVzP2Jyv9Qpc8QCK6oa1HmUGnMMRBgbF9KwF6Ngd5n8sqKvLoGGht7YHpFD9aJNnuoZzxN9GtWDnaWdcN4knGpRWZ9y4dX34D4V2y7bPBo" class="myButton" style="color:white;">Déposer : 987 	- Polynésie française</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF" target="_blank" class="myButton" style="color:white;">Consulter : 987 	- Polynésie française</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/987_polynesie-francaise/4XTTMCAbs73G15wdFMQRdPaL5enBi8Kzdh8X7Wo2dU4FeAvZF-K3TgUdNTyMijF9cTo2J1xYw2zHQp2hiVzP2Jyv9Qpc8QCK6oa1HmUGnMMRBgbF9KwF6Ngd5n8sqKvLoGGht7YHpFD9aJNnuoZzxN9GtWDnaWdcN4knGpRWZ9y4dX34D4V2y7bPBo" target="_blank" class="myButton" style="color:white;">Déposer : 987 	- Polynésie française</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

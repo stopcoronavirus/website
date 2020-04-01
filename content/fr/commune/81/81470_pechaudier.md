@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/81470_pechaudier" class="myButton" style="color:white;">Canal de votre commune : 81470 	- PECHAUDIER</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/81470_pechaudier" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 81470 	- PECHAUDIER</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/81_tarn" class="myButton" style="color:white;">Canal de votre département : 81 	- Tarn</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/81_tarn" target="_blank" class="myButton" style="color:white;">Canal de votre département : 81 	- Tarn</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/81470_pechaudier/4XTTM6iMKUWXxQynZTJVynpuGRhgLR9r392Pmk4J4DHtbMN4L" class="myButton" style="color:white;">Consulter : 81470 	- PECHAUDIER</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/81470_pechaudier/4XTTM6iMKUWXxQynZTJVynpuGRhgLR9r392Pmk4J4DHtbMN4L-K3TgU9i176sYGZMEJiYnAM1UBHFF4CpMU8oeKHrd7Qr3tqCpqtUs5G7r7X4rezyzGz3a8bXRnXhypCf9dwpW9f5v61rUvZ6rh1BuGSyXq33n3umVjYZBYNrt5eYdXUVN6pknx3Jk" class="myButton" style="color:white;">Déposer : 81470 	- PECHAUDIER</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/81470_pechaudier/4XTTM6iMKUWXxQynZTJVynpuGRhgLR9r392Pmk4J4DHtbMN4L" target="_blank" class="myButton" style="color:white;">Consulter : 81470 	- PECHAUDIER</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/81470_pechaudier/4XTTM6iMKUWXxQynZTJVynpuGRhgLR9r392Pmk4J4DHtbMN4L-K3TgU9i176sYGZMEJiYnAM1UBHFF4CpMU8oeKHrd7Qr3tqCpqtUs5G7r7X4rezyzGz3a8bXRnXhypCf9dwpW9f5v61rUvZ6rh1BuGSyXq33n3umVjYZBYNrt5eYdXUVN6pknx3Jk" target="_blank" class="myButton" style="color:white;">Déposer : 81470 	- PECHAUDIER</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY" class="myButton" style="color:white;">Consulter : 81 	- Tarn</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ" class="myButton" style="color:white;">Déposer : 81 	- Tarn</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY" target="_blank" class="myButton" style="color:white;">Consulter : 81 	- Tarn</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/81_tarn/4XTTM4Gp79jv63pVJkrwy2pJgytb85PWuUF46qZV3RNcf9bTY-K3TgUQULAfYZTaNEYQn663imu6tLJ5XUSYV3bG6y2QwZHe2hiw5KiHgnyL8wpzhjjRKSLQVjHCuMHvPTtVgD4tm7BFQTVwqLNiZgb8d93Riu34VNq5t6eFocUS5Ezct8i9MJtUHQ" target="_blank" class="myButton" style="color:white;">Déposer : 81 	- Tarn</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

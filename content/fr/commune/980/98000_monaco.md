@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/98000_monaco" class="myButton" style="color:white;">Canal de votre commune : 98000 	- MONACO</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/98000_monaco" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 98000 	- MONACO</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/980_monaco" class="myButton" style="color:white;">Canal de votre département : 980 	- Monaco</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/980_monaco" target="_blank" class="myButton" style="color:white;">Canal de votre département : 980 	- Monaco</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16" class="myButton" style="color:white;">Consulter : 98000 	- MONACO</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16-K3TgUtFsSznmDW7XeMYhydyyehT9BAEfyET4L1q65BAHZZc9nteYehEL3GBtLNUSfTPoFd4kuWycr9zGsfbowGvSFHN6xjXnS8XJynRxJRiNenzJASCMEPKe2LmPiCbusgKY3teg" class="myButton" style="color:white;">Déposer : 98000 	- MONACO</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16" target="_blank" class="myButton" style="color:white;">Consulter : 98000 	- MONACO</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/98000_monaco/4XTTMJCFh36n9Z3S3zCypnVNrXksKatHPWXTNLhJHcdoBns16-K3TgUtFsSznmDW7XeMYhydyyehT9BAEfyET4L1q65BAHZZc9nteYehEL3GBtLNUSfTPoFd4kuWycr9zGsfbowGvSFHN6xjXnS8XJynRxJRiNenzJASCMEPKe2LmPiCbusgKY3teg" target="_blank" class="myButton" style="color:white;">Déposer : 98000 	- MONACO</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q" class="myButton" style="color:white;">Consulter : 980 	- Monaco</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q-K3TgUGcM2qAZHhTBzkxatCSxJAEDuidHMdkxMVAc2vsV65qqJsknsDRKB7fcZ1heMXrd1o5QTPr8u8ji3VLJEPS2xXXAbmMd4cuD8P9uhECLPUpJ5QLyhAeWmAuhEM3mQ58jQ7eP" class="myButton" style="color:white;">Déposer : 980 	- Monaco</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q" target="_blank" class="myButton" style="color:white;">Consulter : 980 	- Monaco</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/980_monaco/4XTTM3NrnmoWF6bZHkeSVpegVzazHwCNhXdLwcRixu7jLrM9q-K3TgUGcM2qAZHhTBzkxatCSxJAEDuidHMdkxMVAc2vsV65qqJsknsDRKB7fcZ1heMXrd1o5QTPr8u8ji3VLJEPS2xXXAbmMd4cuD8P9uhECLPUpJ5QLyhAeWmAuhEM3mQ58jQ7eP" target="_blank" class="myButton" style="color:white;">Déposer : 980 	- Monaco</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

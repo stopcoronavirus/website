@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/28260_boncourt" class="myButton" style="color:white;">Canal de votre commune : 28260 	- BONCOURT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/28260_boncourt" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 28260 	- BONCOURT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/28_eure-et-loir" class="myButton" style="color:white;">Canal de votre département : 28 	- Eure-et-Loir</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/28_eure-et-loir" target="_blank" class="myButton" style="color:white;">Canal de votre département : 28 	- Eure-et-Loir</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/28260_boncourt/4XTTMG7GzAx1yFcJ5JUweqDx5QfstYkZie82FyxLzMmMCmZmS" class="myButton" style="color:white;">Consulter : 28260 	- BONCOURT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/28260_boncourt/4XTTMG7GzAx1yFcJ5JUweqDx5QfstYkZie82FyxLzMmMCmZmS-K3TgUrzELtSZA4HDrcwbmLsnE2RDjtNsAhgy4mVhDQp9aJKowbedVLVSVrD7mK5qoh27s6HAS9FPYUtffm57nquf2UKj2aPyrE5fAEH5C87ZUwDedaDH9RScqmHQU496py5tUK8U" class="myButton" style="color:white;">Déposer : 28260 	- BONCOURT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/28260_boncourt/4XTTMG7GzAx1yFcJ5JUweqDx5QfstYkZie82FyxLzMmMCmZmS" target="_blank" class="myButton" style="color:white;">Consulter : 28260 	- BONCOURT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/28260_boncourt/4XTTMG7GzAx1yFcJ5JUweqDx5QfstYkZie82FyxLzMmMCmZmS-K3TgUrzELtSZA4HDrcwbmLsnE2RDjtNsAhgy4mVhDQp9aJKowbedVLVSVrD7mK5qoh27s6HAS9FPYUtffm57nquf2UKj2aPyrE5fAEH5C87ZUwDedaDH9RScqmHQU496py5tUK8U" target="_blank" class="myButton" style="color:white;">Déposer : 28260 	- BONCOURT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq" class="myButton" style="color:white;">Consulter : 28 	- Eure-et-Loir</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF" class="myButton" style="color:white;">Déposer : 28 	- Eure-et-Loir</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq" target="_blank" class="myButton" style="color:white;">Consulter : 28 	- Eure-et-Loir</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/28_eure-et-loir/4XTTM5LepCtg9GBmFEMW23CbsQb2HZx5ehMUU2csFUTyjYrSq-K3TgUYHFLv3YjcrDiwyMMKWvJ83kdck4nBTyywkZSNzFT7MbvSpMdPmf6hhNoNki7GCmkZS8sZAN5Y2QKihoZuSH76Ainox4Qx5isjyMghURVc9ASC39tvmKp1uogBmL1dqnEFVF" target="_blank" class="myButton" style="color:white;">Déposer : 28 	- Eure-et-Loir</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

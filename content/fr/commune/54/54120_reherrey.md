@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/54120_reherrey" class="myButton" style="color:white;">Canal de votre commune : 54120 	- REHERREY</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/54120_reherrey" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 54120 	- REHERREY</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/54_meurthe-et-moselle" class="myButton" style="color:white;">Canal de votre département : 54 	- Meurthe-et-Moselle</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/54_meurthe-et-moselle" target="_blank" class="myButton" style="color:white;">Canal de votre département : 54 	- Meurthe-et-Moselle</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/54120_reherrey/4XTTMBgYDR7HtQSw2obpfGFe3TxSrwLCpgpgBdCy42HUCfDXK" class="myButton" style="color:white;">Consulter : 54120 	- REHERREY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/54120_reherrey/4XTTMBgYDR7HtQSw2obpfGFe3TxSrwLCpgpgBdCy42HUCfDXK-K3TgU42j4dj5mj9bVXXRTNQbhfoZ7xNnrnuqbq87xiXMeD97vCSxQh7yAnGwEE9LoNpbZoQrux9kstUy4D76LoRKnErrNTPARWJjJPqDaRRfsePmThCQSPBxLgtQdNo3ftYfvuZw" class="myButton" style="color:white;">Déposer : 54120 	- REHERREY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/54120_reherrey/4XTTMBgYDR7HtQSw2obpfGFe3TxSrwLCpgpgBdCy42HUCfDXK" target="_blank" class="myButton" style="color:white;">Consulter : 54120 	- REHERREY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/54120_reherrey/4XTTMBgYDR7HtQSw2obpfGFe3TxSrwLCpgpgBdCy42HUCfDXK-K3TgU42j4dj5mj9bVXXRTNQbhfoZ7xNnrnuqbq87xiXMeD97vCSxQh7yAnGwEE9LoNpbZoQrux9kstUy4D76LoRKnErrNTPARWJjJPqDaRRfsePmThCQSPBxLgtQdNo3ftYfvuZw" target="_blank" class="myButton" style="color:white;">Déposer : 54120 	- REHERREY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt" class="myButton" style="color:white;">Consulter : 54 	- Meurthe-et-Moselle</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG" class="myButton" style="color:white;">Déposer : 54 	- Meurthe-et-Moselle</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt" target="_blank" class="myButton" style="color:white;">Consulter : 54 	- Meurthe-et-Moselle</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/54_meurthe-et-moselle/4XTTMGYXbBF99ukojejagBoCGE142xZvS8nsMKfYHENNuwrTt-K3TgUfY1T8nSqbgmvGnKxY2DmfqgrDd2YvbJdvJeqcdFBJwHHRJZtJ8KhvZCvH8Ner7tvWa61n73wrfktPDcCwgpbX2nuJAQ6w5MWVS4Yh2tsSQbaCE4Mug8GdPUbMuRBux9AwfG" target="_blank" class="myButton" style="color:white;">Déposer : 54 	- Meurthe-et-Moselle</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

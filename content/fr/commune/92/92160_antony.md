@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/92160_antony" class="myButton" style="color:white;">Canal de votre commune : 92160 	- ANTONY</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/92160_antony" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 92160 	- ANTONY</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/92_hauts-de-seine" class="myButton" style="color:white;">Canal de votre département : 92 	- Hauts-de-Seine</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/92_hauts-de-seine" target="_blank" class="myButton" style="color:white;">Canal de votre département : 92 	- Hauts-de-Seine</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/92160_antony/4XTTMEiVE1Ly8mbNZ2VQsqG63ergxKgzDdWu7q8LtCUcxfMWE" class="myButton" style="color:white;">Consulter : 92160 	- ANTONY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/92160_antony/4XTTMEiVE1Ly8mbNZ2VQsqG63ergxKgzDdWu7q8LtCUcxfMWE-K3TgUD2Rtn7AHXhVHNVV8q1urGav2aqFBWv3vvP4M9nNEQmaSSP17fqd4EWDUqQFd9oQEEC2ehi7ZdWcNtB3e8WTnHkirDb9KpjHWmxE1G6HcYvHPpq7RaegQH5bfJbxsBHwN8NA" class="myButton" style="color:white;">Déposer : 92160 	- ANTONY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/92160_antony/4XTTMEiVE1Ly8mbNZ2VQsqG63ergxKgzDdWu7q8LtCUcxfMWE" target="_blank" class="myButton" style="color:white;">Consulter : 92160 	- ANTONY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/92160_antony/4XTTMEiVE1Ly8mbNZ2VQsqG63ergxKgzDdWu7q8LtCUcxfMWE-K3TgUD2Rtn7AHXhVHNVV8q1urGav2aqFBWv3vvP4M9nNEQmaSSP17fqd4EWDUqQFd9oQEEC2ehi7ZdWcNtB3e8WTnHkirDb9KpjHWmxE1G6HcYvHPpq7RaegQH5bfJbxsBHwN8NA" target="_blank" class="myButton" style="color:white;">Déposer : 92160 	- ANTONY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM" class="myButton" style="color:white;">Consulter : 92 	- Hauts-de-Seine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH" class="myButton" style="color:white;">Déposer : 92 	- Hauts-de-Seine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM" target="_blank" class="myButton" style="color:white;">Consulter : 92 	- Hauts-de-Seine</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/92_hauts-de-seine/4XTTMFxApCSqdgqgJ23SEbfuzX2JaK27NrkCySZYLCmNtPSZM-K3TgUf65U6ofBF2STBLxktH4LTH9YWAtf764qNgjtJEgvdf4oVaDqjNPmWC1tADkfpmR8oTWxskBrYeyPBrw1hn57nPLfSfM2CoUcqwqWzZmaxPyuAoUoydYJo6fEKtMs3GnfhuH" target="_blank" class="myButton" style="color:white;">Déposer : 92 	- Hauts-de-Seine</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

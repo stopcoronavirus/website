@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/08400_monthois" class="myButton" style="color:white;">Canal de votre commune : 08400 	- MONTHOIS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/08400_monthois" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 08400 	- MONTHOIS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/08_ardennes" class="myButton" style="color:white;">Canal de votre département : 08 	- Ardennes</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/08_ardennes" target="_blank" class="myButton" style="color:white;">Canal de votre département : 08 	- Ardennes</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08400_monthois/4XTTMAGBGN6Q9sv4LoKcEPaeHCZmxEKJomh26hA5ny5XbSdqo" class="myButton" style="color:white;">Consulter : 08400 	- MONTHOIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08400_monthois/4XTTMAGBGN6Q9sv4LoKcEPaeHCZmxEKJomh26hA5ny5XbSdqo-K3TgU6MdRfbx9NDZiWx88BeL8TpZeAKki616sp1CgR2Fzi8KR4JqnuhWMmQcX6fc9MUdXMGaHHjwK2P2zDtWDcV1sUQr9gz2VsShb5ehAnL2FymMZuKSN8Eu14gNbeSBBa65isHw" class="myButton" style="color:white;">Déposer : 08400 	- MONTHOIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08400_monthois/4XTTMAGBGN6Q9sv4LoKcEPaeHCZmxEKJomh26hA5ny5XbSdqo" target="_blank" class="myButton" style="color:white;">Consulter : 08400 	- MONTHOIS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08400_monthois/4XTTMAGBGN6Q9sv4LoKcEPaeHCZmxEKJomh26hA5ny5XbSdqo-K3TgU6MdRfbx9NDZiWx88BeL8TpZeAKki616sp1CgR2Fzi8KR4JqnuhWMmQcX6fc9MUdXMGaHHjwK2P2zDtWDcV1sUQr9gz2VsShb5ehAnL2FymMZuKSN8Eu14gNbeSBBa65isHw" target="_blank" class="myButton" style="color:white;">Déposer : 08400 	- MONTHOIS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM" class="myButton" style="color:white;">Consulter : 08 	- Ardennes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP" class="myButton" style="color:white;">Déposer : 08 	- Ardennes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM" target="_blank" class="myButton" style="color:white;">Consulter : 08 	- Ardennes</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/08_ardennes/4XTTM3vUKm4qxzWbEMHr4zr6AsU2stjkKdsaY9uMbmhXjv9QM-K3TgUMB9u4JvtZdFBPfBexH6pGeKJREiRZLakfAxGDqg6fgd1ib6XHxM9tkwaYxqJV2qNTbboL5jGpTS7re5rUf5cB5fLzdnicM4aJkF5ZXmkvCRXEh5XT7432iWRZFby5MMVbKP" target="_blank" class="myButton" style="color:white;">Déposer : 08 	- Ardennes</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

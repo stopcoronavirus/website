@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/57930_bettborn" class="myButton" style="color:white;">Canal de votre commune : 57930 	- BETTBORN</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/57930_bettborn" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 57930 	- BETTBORN</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/57_moselle" class="myButton" style="color:white;">Canal de votre département : 57 	- Moselle</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/57_moselle" target="_blank" class="myButton" style="color:white;">Canal de votre département : 57 	- Moselle</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57930_bettborn/4XTTMG6X8pK8rtvL6v12BrDXpoXGHidgC4d3JYpzkpQW9xXH3" class="myButton" style="color:white;">Consulter : 57930 	- BETTBORN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57930_bettborn/4XTTMG6X8pK8rtvL6v12BrDXpoXGHidgC4d3JYpzkpQW9xXH3-K3TgTwX3jCEuDjAF5viGbRZ9DqPKoYhE8jbF3cJPhBHh7sbNxBvFZKxX8yVzamFMWKJmfge9UUuJRdz14awjqBY6hrymZk4Ahp9y7XciEHmve8bCH5UP4bhJU24SaRgAzCzdNNuo" class="myButton" style="color:white;">Déposer : 57930 	- BETTBORN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57930_bettborn/4XTTMG6X8pK8rtvL6v12BrDXpoXGHidgC4d3JYpzkpQW9xXH3" target="_blank" class="myButton" style="color:white;">Consulter : 57930 	- BETTBORN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57930_bettborn/4XTTMG6X8pK8rtvL6v12BrDXpoXGHidgC4d3JYpzkpQW9xXH3-K3TgTwX3jCEuDjAF5viGbRZ9DqPKoYhE8jbF3cJPhBHh7sbNxBvFZKxX8yVzamFMWKJmfge9UUuJRdz14awjqBY6hrymZk4Ahp9y7XciEHmve8bCH5UP4bhJU24SaRgAzCzdNNuo" target="_blank" class="myButton" style="color:white;">Déposer : 57930 	- BETTBORN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj" class="myButton" style="color:white;">Consulter : 57 	- Moselle</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR" class="myButton" style="color:white;">Déposer : 57 	- Moselle</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj" target="_blank" class="myButton" style="color:white;">Consulter : 57 	- Moselle</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/57_moselle/4XTTM9E5m1uQpFfoRvYAkHA7kgkSuJdFBSCmoLnZ6YvxmqAKj-K3TgTxpsRhjGfb3pJqDaX4rYTLkyLoK3BLA4awBfhTSCoyNhResrhhmfsEF8aKnccedt5XoBzWeRYfKxQxNKv71ETcpGharLRE7rdgTKY3uSaW3Du2dz8v23YEY268mfYmweTFnR" target="_blank" class="myButton" style="color:white;">Déposer : 57 	- Moselle</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

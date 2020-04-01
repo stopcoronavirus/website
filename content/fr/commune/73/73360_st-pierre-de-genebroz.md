@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/73360_st-pierre-de-genebroz" class="myButton" style="color:white;">Canal de votre commune : 73360 	- ST PIERRE DE GENEBROZ</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/73360_st-pierre-de-genebroz" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 73360 	- ST PIERRE DE GENEBROZ</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/73_savoie" class="myButton" style="color:white;">Canal de votre département : 73 	- Savoie</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/73_savoie" target="_blank" class="myButton" style="color:white;">Canal de votre département : 73 	- Savoie</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73360_st-pierre-de-genebroz/4XTTM1QUfJCgQdiGc1f1djJUWRTCK6sJhJp7ZvDbm3FNKwNMP" class="myButton" style="color:white;">Consulter : 73360 	- ST PIERRE DE GENEBROZ</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73360_st-pierre-de-genebroz/4XTTM1QUfJCgQdiGc1f1djJUWRTCK6sJhJp7ZvDbm3FNKwNMP-K3TgUFis1Uz9PJcPLyLFNQT1tC2VF34Fb35sDU8RZhrN37cFoLhaPiGaPczNcPkDBoLzL6oogm8eEEAtPwooVGKiBfLtnfBqrq1WcEZYmz3iY7rQ81VBVdYRpMVeoiaskfyCXfER" class="myButton" style="color:white;">Déposer : 73360 	- ST PIERRE DE GENEBROZ</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73360_st-pierre-de-genebroz/4XTTM1QUfJCgQdiGc1f1djJUWRTCK6sJhJp7ZvDbm3FNKwNMP" target="_blank" class="myButton" style="color:white;">Consulter : 73360 	- ST PIERRE DE GENEBROZ</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73360_st-pierre-de-genebroz/4XTTM1QUfJCgQdiGc1f1djJUWRTCK6sJhJp7ZvDbm3FNKwNMP-K3TgUFis1Uz9PJcPLyLFNQT1tC2VF34Fb35sDU8RZhrN37cFoLhaPiGaPczNcPkDBoLzL6oogm8eEEAtPwooVGKiBfLtnfBqrq1WcEZYmz3iY7rQ81VBVdYRpMVeoiaskfyCXfER" target="_blank" class="myButton" style="color:white;">Déposer : 73360 	- ST PIERRE DE GENEBROZ</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur" class="myButton" style="color:white;">Consulter : 73 	- Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY" class="myButton" style="color:white;">Déposer : 73 	- Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur" target="_blank" class="myButton" style="color:white;">Consulter : 73 	- Savoie</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/73_savoie/4XTTM7mk6MofJ1mjH5Dcs53yRSgs6qtxaWYjKD54ttqHGEMur-K3TgTorsK1WLw8S2EgnkoX8tJEgZgam6ANhvqrVqNfiz9fX8kbMKu5AF1rqzXyxMRZgoVPrb5EERe3PeBhqF1SBfP5G1PJnvsDUF2LQSxevobpkDM4djQDebTYoo6Yx53thenJpY" target="_blank" class="myButton" style="color:white;">Déposer : 73 	- Savoie</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

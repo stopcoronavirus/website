@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/55700_luzy-st-martin" class="myButton" style="color:white;">Canal de votre commune : 55700 	- LUZY ST MARTIN</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/55700_luzy-st-martin" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 55700 	- LUZY ST MARTIN</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/55_meuse" class="myButton" style="color:white;">Canal de votre département : 55 	- Meuse</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/55_meuse" target="_blank" class="myButton" style="color:white;">Canal de votre département : 55 	- Meuse</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55700_luzy-st-martin/4XTTM5TskqdoNWzaU2Udaq4fS8gsud1zMX2GN2g5MbaSddz8h" class="myButton" style="color:white;">Consulter : 55700 	- LUZY ST MARTIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55700_luzy-st-martin/4XTTM5TskqdoNWzaU2Udaq4fS8gsud1zMX2GN2g5MbaSddz8h-K3TgUvfe82444NsgdMVqKj6L4jiuDN57WVGenCXGc1yfcCu3WLR16t3MBTniqYPezfEW6Fx67yskwtFrHE2ZyEBb5saazJHe9MHhMLhXRuLJ5cYHas9g78hghJ6bReJ95KyE6fYD" class="myButton" style="color:white;">Déposer : 55700 	- LUZY ST MARTIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55700_luzy-st-martin/4XTTM5TskqdoNWzaU2Udaq4fS8gsud1zMX2GN2g5MbaSddz8h" target="_blank" class="myButton" style="color:white;">Consulter : 55700 	- LUZY ST MARTIN</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55700_luzy-st-martin/4XTTM5TskqdoNWzaU2Udaq4fS8gsud1zMX2GN2g5MbaSddz8h-K3TgUvfe82444NsgdMVqKj6L4jiuDN57WVGenCXGc1yfcCu3WLR16t3MBTniqYPezfEW6Fx67yskwtFrHE2ZyEBb5saazJHe9MHhMLhXRuLJ5cYHas9g78hghJ6bReJ95KyE6fYD" target="_blank" class="myButton" style="color:white;">Déposer : 55700 	- LUZY ST MARTIN</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit" class="myButton" style="color:white;">Consulter : 55 	- Meuse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G" class="myButton" style="color:white;">Déposer : 55 	- Meuse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit" target="_blank" class="myButton" style="color:white;">Consulter : 55 	- Meuse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G" target="_blank" class="myButton" style="color:white;">Déposer : 55 	- Meuse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

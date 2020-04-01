@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/85410_st-cyr-des-gats" class="myButton" style="color:white;">Canal de votre commune : 85410 	- ST CYR DES GATS</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/85410_st-cyr-des-gats" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 85410 	- ST CYR DES GATS</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/85_vendee" class="myButton" style="color:white;">Canal de votre département : 85 	- Vendée</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/85_vendee" target="_blank" class="myButton" style="color:white;">Canal de votre département : 85 	- Vendée</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/85410_st-cyr-des-gats/4XTTMHU2b4NVot3TmRHjafxKGEZjrJN5Qxdb7kF1R5N7ksJ8u" class="myButton" style="color:white;">Consulter : 85410 	- ST CYR DES GATS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/85410_st-cyr-des-gats/4XTTMHU2b4NVot3TmRHjafxKGEZjrJN5Qxdb7kF1R5N7ksJ8u-K3TgULHrrgjaoMgtL9sdAVKzSPf44m966BqmPrJp7RpsPLJqn1TpMXkAN2pWGV8LkQ7k2EsWWTucy9F28gQucSCTeAegDhsvCShuixb5QH6YXbyUXNxJnfp6sSc1Ffyi8USENonD" class="myButton" style="color:white;">Déposer : 85410 	- ST CYR DES GATS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/85410_st-cyr-des-gats/4XTTMHU2b4NVot3TmRHjafxKGEZjrJN5Qxdb7kF1R5N7ksJ8u" target="_blank" class="myButton" style="color:white;">Consulter : 85410 	- ST CYR DES GATS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/85410_st-cyr-des-gats/4XTTMHU2b4NVot3TmRHjafxKGEZjrJN5Qxdb7kF1R5N7ksJ8u-K3TgULHrrgjaoMgtL9sdAVKzSPf44m966BqmPrJp7RpsPLJqn1TpMXkAN2pWGV8LkQ7k2EsWWTucy9F28gQucSCTeAegDhsvCShuixb5QH6YXbyUXNxJnfp6sSc1Ffyi8USENonD" target="_blank" class="myButton" style="color:white;">Déposer : 85410 	- ST CYR DES GATS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk" class="myButton" style="color:white;">Consulter : 85 	- Vendée</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv" class="myButton" style="color:white;">Déposer : 85 	- Vendée</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk" target="_blank" class="myButton" style="color:white;">Consulter : 85 	- Vendée</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/85_vendee/4XTTM9oWT3UezVT2xNaDrrh876PqDDvzbaovSPP6P6ha63Ezk-K3TgTz4T2Ao5CxcmNgKRpi6DXEbSZWgvvZNdT7V4KiJycR1vvtGLxg5iYYYKajishdNzKNazAywn7vjwqtQs859ALiENaqFJQsULDwd4rYqVPy8n3JbNCeuPxinCnetCgcSuCcyv" target="_blank" class="myButton" style="color:white;">Déposer : 85 	- Vendée</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

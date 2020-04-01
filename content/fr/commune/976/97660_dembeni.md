@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/97660_dembeni" class="myButton" style="color:white;">Canal de votre commune : 97660 	- DEMBENI</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/97660_dembeni" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 97660 	- DEMBENI</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/976_mayotte" class="myButton" style="color:white;">Canal de votre département : 976 	- Mayotte</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/976_mayotte" target="_blank" class="myButton" style="color:white;">Canal de votre département : 976 	- Mayotte</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97660_dembeni/4XTTM8zfLVFApsSPbzmsWTcak2j4d84F88d6qFcaCfw4d52is" class="myButton" style="color:white;">Consulter : 97660 	- DEMBENI</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97660_dembeni/4XTTM8zfLVFApsSPbzmsWTcak2j4d84F88d6qFcaCfw4d52is-K3TgUYeDbr5PC2L9Y2No2V22FeLdtvY3epsbdFjwMQxjx1fnXuLZ3fe5rEenz6x94hecbKhoRH77aF7sxaeRriCbytc72A9mBsexPjZWZjPd7DXBvkM2RDDzm8F4dWmXyd9Lmmou" class="myButton" style="color:white;">Déposer : 97660 	- DEMBENI</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/97660_dembeni/4XTTM8zfLVFApsSPbzmsWTcak2j4d84F88d6qFcaCfw4d52is" target="_blank" class="myButton" style="color:white;">Consulter : 97660 	- DEMBENI</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/97660_dembeni/4XTTM8zfLVFApsSPbzmsWTcak2j4d84F88d6qFcaCfw4d52is-K3TgUYeDbr5PC2L9Y2No2V22FeLdtvY3epsbdFjwMQxjx1fnXuLZ3fe5rEenz6x94hecbKhoRH77aF7sxaeRriCbytc72A9mBsexPjZWZjPd7DXBvkM2RDDzm8F4dWmXyd9Lmmou" target="_blank" class="myButton" style="color:white;">Déposer : 97660 	- DEMBENI</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5" class="myButton" style="color:white;">Consulter : 976 	- Mayotte</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5-K3TgUMkcGV5jdzVqb78DtiVWoL3Y1HCauLnRmkc8TF8xqf3YoBJm7ryZ8n5YPPeiPRtwV7LBqJfDJhKmv8bHaryM4ddGh4NZ3DAEqeGMq2gjS2MuqmkX5sBUBizoNXpJ4gaDPXBK" class="myButton" style="color:white;">Déposer : 976 	- Mayotte</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5" target="_blank" class="myButton" style="color:white;">Consulter : 976 	- Mayotte</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/976_mayotte/4XTTMBuZCnBeMnBksiWpXywCcoeFbErSwmkzzXCaFr3XCVgL5-K3TgUMkcGV5jdzVqb78DtiVWoL3Y1HCauLnRmkc8TF8xqf3YoBJm7ryZ8n5YPPeiPRtwV7LBqJfDJhKmv8bHaryM4ddGh4NZ3DAEqeGMq2gjS2MuqmkX5sBUBizoNXpJ4gaDPXBK" target="_blank" class="myButton" style="color:white;">Déposer : 976 	- Mayotte</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

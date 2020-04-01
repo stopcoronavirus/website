@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/18100_st-georges-sur-la-pree" class="myButton" style="color:white;">Canal de votre commune : 18100 	- ST GEORGES SUR LA PREE</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/18100_st-georges-sur-la-pree" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 18100 	- ST GEORGES SUR LA PREE</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/18_cher" class="myButton" style="color:white;">Canal de votre département : 18 	- Cher</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/18_cher" target="_blank" class="myButton" style="color:white;">Canal de votre département : 18 	- Cher</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18100_st-georges-sur-la-pree/4XTTME7ue4ox3XSCFizPqZKfhb9ss12MWbgcDA1qJN3RyPcMS" class="myButton" style="color:white;">Consulter : 18100 	- ST GEORGES SUR LA PREE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18100_st-georges-sur-la-pree/4XTTME7ue4ox3XSCFizPqZKfhb9ss12MWbgcDA1qJN3RyPcMS-K3TgV1LNucoayrW6uVEm35Ya3fz7mWpYC5VeDStLuWF3aywYStN455z5HeBKyuobkL93JjFuY1DKg3CEuqZd5Qz6qwSn8ZzpEeMgDagUqtsEqat7hQBTTxeSW5mW3d2C5AKHYTVe" class="myButton" style="color:white;">Déposer : 18100 	- ST GEORGES SUR LA PREE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18100_st-georges-sur-la-pree/4XTTME7ue4ox3XSCFizPqZKfhb9ss12MWbgcDA1qJN3RyPcMS" target="_blank" class="myButton" style="color:white;">Consulter : 18100 	- ST GEORGES SUR LA PREE</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18100_st-georges-sur-la-pree/4XTTME7ue4ox3XSCFizPqZKfhb9ss12MWbgcDA1qJN3RyPcMS-K3TgV1LNucoayrW6uVEm35Ya3fz7mWpYC5VeDStLuWF3aywYStN455z5HeBKyuobkL93JjFuY1DKg3CEuqZd5Qz6qwSn8ZzpEeMgDagUqtsEqat7hQBTTxeSW5mW3d2C5AKHYTVe" target="_blank" class="myButton" style="color:white;">Déposer : 18100 	- ST GEORGES SUR LA PREE</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w" class="myButton" style="color:white;">Consulter : 18 	- Cher</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD" class="myButton" style="color:white;">Déposer : 18 	- Cher</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w" target="_blank" class="myButton" style="color:white;">Consulter : 18 	- Cher</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD" target="_blank" class="myButton" style="color:white;">Déposer : 18 	- Cher</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

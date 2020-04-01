@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/69690_bessenay" class="myButton" style="color:white;">Canal de votre commune : 69690 	- BESSENAY</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/69690_bessenay" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 69690 	- BESSENAY</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/69_rhone" class="myButton" style="color:white;">Canal de votre département : 69 	- Rhône</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/69_rhone" target="_blank" class="myButton" style="color:white;">Canal de votre département : 69 	- Rhône</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69690_bessenay/4XTTMEMte5vd8PtMc2FdaxqLnwdftNGvKHb64Ht9NY66p75hM" class="myButton" style="color:white;">Consulter : 69690 	- BESSENAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69690_bessenay/4XTTMEMte5vd8PtMc2FdaxqLnwdftNGvKHb64Ht9NY66p75hM-K3TgUkKoWW1zg6WgvKHXViepXAMDf3dQUiDNuwjBF3PX7ZUFRJk6fjuQJMFAV96qzQQX1Pam5iUHxPSc3XEbyHrjVapEaouHEHcFRkpCaTHqm79CE9VDw74VT8juxbWHWWwahpv7" class="myButton" style="color:white;">Déposer : 69690 	- BESSENAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69690_bessenay/4XTTMEMte5vd8PtMc2FdaxqLnwdftNGvKHb64Ht9NY66p75hM" target="_blank" class="myButton" style="color:white;">Consulter : 69690 	- BESSENAY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69690_bessenay/4XTTMEMte5vd8PtMc2FdaxqLnwdftNGvKHb64Ht9NY66p75hM-K3TgUkKoWW1zg6WgvKHXViepXAMDf3dQUiDNuwjBF3PX7ZUFRJk6fjuQJMFAV96qzQQX1Pam5iUHxPSc3XEbyHrjVapEaouHEHcFRkpCaTHqm79CE9VDw74VT8juxbWHWWwahpv7" target="_blank" class="myButton" style="color:white;">Déposer : 69690 	- BESSENAY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW" class="myButton" style="color:white;">Consulter : 69 	- Rhône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz" class="myButton" style="color:white;">Déposer : 69 	- Rhône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW" target="_blank" class="myButton" style="color:white;">Consulter : 69 	- Rhône</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/69_rhone/4XTTMJC39vu6sVwWPNxu5BRH16MCqEEJsbYu4RNyAxnNmNtVW-K3TgUzVUEXrXvc8NoaD9JfiBpc5MBFP7KZFqLEsm11xqJDEwSVMy7UACp2eYMzek3K6y2WLoyzq5xdKMZeizKNpfHbUBgJcoYSqfidBaPx8RcTCPmdCXhdgeLZLEYHVco5fHD6Pz" target="_blank" class="myButton" style="color:white;">Déposer : 69 	- Rhône</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

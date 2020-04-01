@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/61600_magny-le-desert" class="myButton" style="color:white;">Canal de votre commune : 61600 	- MAGNY LE DESERT</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/61600_magny-le-desert" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 61600 	- MAGNY LE DESERT</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/61_orne" class="myButton" style="color:white;">Canal de votre département : 61 	- Orne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/61_orne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 61 	- Orne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61600_magny-le-desert/4XTTM1ouvoX5S4FDQJj5co4NuosSauFcLLB9CvV5VLwEQRfzi" class="myButton" style="color:white;">Consulter : 61600 	- MAGNY LE DESERT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61600_magny-le-desert/4XTTM1ouvoX5S4FDQJj5co4NuosSauFcLLB9CvV5VLwEQRfzi-K3TgTpwEz5KWd74TvcsQRinHkxSkKiVVLHzpsAGqW2YcakT1PTZ4P25J7Uip6qDBmeo8Bd957kktuFj4JbbR15NmbFDu7Aq5KtnQ8rSWSSn8DaAbPDjGU1vzHz3HpxnjfFxp36XU" class="myButton" style="color:white;">Déposer : 61600 	- MAGNY LE DESERT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61600_magny-le-desert/4XTTM1ouvoX5S4FDQJj5co4NuosSauFcLLB9CvV5VLwEQRfzi" target="_blank" class="myButton" style="color:white;">Consulter : 61600 	- MAGNY LE DESERT</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61600_magny-le-desert/4XTTM1ouvoX5S4FDQJj5co4NuosSauFcLLB9CvV5VLwEQRfzi-K3TgTpwEz5KWd74TvcsQRinHkxSkKiVVLHzpsAGqW2YcakT1PTZ4P25J7Uip6qDBmeo8Bd957kktuFj4JbbR15NmbFDu7Aq5KtnQ8rSWSSn8DaAbPDjGU1vzHz3HpxnjfFxp36XU" target="_blank" class="myButton" style="color:white;">Déposer : 61600 	- MAGNY LE DESERT</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6" class="myButton" style="color:white;">Consulter : 61 	- Orne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN" class="myButton" style="color:white;">Déposer : 61 	- Orne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6" target="_blank" class="myButton" style="color:white;">Consulter : 61 	- Orne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/61_orne/4XTTM7JxGK6NxaKY6Y8dKGfHmSManyy6z5d78TaTcUn3zJjy6-K3TgUN9f9h2Fmk7w15QXNPtmJYWWDYEB4sLb6BW46ErzRh2NG4TmnnXd3GJfJ3dVSNBE8WudjKbLAy4CD2mQTtYeoUAUzvKztzGsCxcQ4ezpe7WGMgkNubsBkL3vV47Zushr5DqN" target="_blank" class="myButton" style="color:white;">Déposer : 61 	- Orne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

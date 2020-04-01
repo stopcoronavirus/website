@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/77940_noisy-rudignon" class="myButton" style="color:white;">Canal de votre commune : 77940 	- NOISY RUDIGNON</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/77940_noisy-rudignon" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 77940 	- NOISY RUDIGNON</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/77_seine-et-marne" class="myButton" style="color:white;">Canal de votre département : 77 	- Seine-et-Marne</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/77_seine-et-marne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 77 	- Seine-et-Marne</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/77940_noisy-rudignon/4XTTM9NFWo7AR7wQCJrrv8ATkU2796fZeJJjfaJtb75dx6zYP" class="myButton" style="color:white;">Consulter : 77940 	- NOISY RUDIGNON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/77940_noisy-rudignon/4XTTM9NFWo7AR7wQCJrrv8ATkU2796fZeJJjfaJtb75dx6zYP-K3TgU5Ppc1F7uD4D9p1sq4bpjmiThJXhebiHhMrtRDkp8XK69Ha7g89jFfcgMQfzTRtCC7kY2LWvq2zWEn5rnpMh1WF5GV9dV3pm1T9oyLncJmtwid6NMbp5fF27Rufm4Nk4CfzF" class="myButton" style="color:white;">Déposer : 77940 	- NOISY RUDIGNON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/77940_noisy-rudignon/4XTTM9NFWo7AR7wQCJrrv8ATkU2796fZeJJjfaJtb75dx6zYP" target="_blank" class="myButton" style="color:white;">Consulter : 77940 	- NOISY RUDIGNON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/77940_noisy-rudignon/4XTTM9NFWo7AR7wQCJrrv8ATkU2796fZeJJjfaJtb75dx6zYP-K3TgU5Ppc1F7uD4D9p1sq4bpjmiThJXhebiHhMrtRDkp8XK69Ha7g89jFfcgMQfzTRtCC7kY2LWvq2zWEn5rnpMh1WF5GV9dV3pm1T9oyLncJmtwid6NMbp5fF27Rufm4Nk4CfzF" target="_blank" class="myButton" style="color:white;">Déposer : 77940 	- NOISY RUDIGNON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6" class="myButton" style="color:white;">Consulter : 77 	- Seine-et-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU" class="myButton" style="color:white;">Déposer : 77 	- Seine-et-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6" target="_blank" class="myButton" style="color:white;">Consulter : 77 	- Seine-et-Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/77_seine-et-marne/4XTTM7DPk6ZUx6Vj876m4pAUFpEZk1PGYXzKv3QLmyTWjTXs6-K3TgUJaGRJNFp8j49tUVTq5VduW7vpx3N6uJ8sSkKrVzxRDzpZdLbF1mLKcMnT8itzRZmv16XZL4wqFvZR8fFJrAxyuf5EeqDHSTQ1aggYWWKyYzSaQ4JYFne5XMZkqP9a8WvTGU" target="_blank" class="myButton" style="color:white;">Déposer : 77 	- Seine-et-Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

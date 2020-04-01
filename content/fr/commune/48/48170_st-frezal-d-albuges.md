@@ -23,9 +23,9 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 
 ##### Liens
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/48170_st-frezal-d-albuges" class="myButton" style="color:white;">Canal de votre commune : 48170 	- ST FREZAL D ALBUGES</a> (à privilégier)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/48170_st-frezal-d-albuges" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 48170 	- ST FREZAL D ALBUGES</a> (à privilégier)
 
-<a href="https://entraide.stopcoronavirus.tech/#/channel/48_lozere" class="myButton" style="color:white;">Canal de votre département : 48 	- Lozère</a> (en dernier recours)
+<a href="https://entraide.stopcoronavirus.tech/#/channel/48_lozere" target="_blank" class="myButton" style="color:white;">Canal de votre département : 48 	- Lozère</a> (en dernier recours)
 
 ##### Utilisation
 
@@ -43,13 +43,13 @@ IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _
 
 ##### Dans votre commune (à privilégier)
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48170_st-frezal-d-albuges/4XTTM7aTjE4ze4Q4edrKSNB9umA49uTdTiwAK9QL4NJHhmzeH" class="myButton" style="color:white;">Consulter : 48170 	- ST FREZAL D ALBUGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48170_st-frezal-d-albuges/4XTTM7aTjE4ze4Q4edrKSNB9umA49uTdTiwAK9QL4NJHhmzeH-K3TgUQJxnooQsxEEjkp79gqv6m99ZBjaocJSoyAY2uEUZwWSSKwcKUpR9yPMnb2v3XA7utcFuisJLuz1PvXkDjPcYKZRcKkhrFJq1Zeb9KYQqXk5AqjWzQuU6CN3CTh3tDeqQysj" class="myButton" style="color:white;">Déposer : 48170 	- ST FREZAL D ALBUGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48170_st-frezal-d-albuges/4XTTM7aTjE4ze4Q4edrKSNB9umA49uTdTiwAK9QL4NJHhmzeH" target="_blank" class="myButton" style="color:white;">Consulter : 48170 	- ST FREZAL D ALBUGES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48170_st-frezal-d-albuges/4XTTM7aTjE4ze4Q4edrKSNB9umA49uTdTiwAK9QL4NJHhmzeH-K3TgUQJxnooQsxEEjkp79gqv6m99ZBjaocJSoyAY2uEUZwWSSKwcKUpR9yPMnb2v3XA7utcFuisJLuz1PvXkDjPcYKZRcKkhrFJq1Zeb9KYQqXk5AqjWzQuU6CN3CTh3tDeqQysj" target="_blank" class="myButton" style="color:white;">Déposer : 48170 	- ST FREZAL D ALBUGES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 ##### Dans votre département
 
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp" class="myButton" style="color:white;">Consulter : 48 	- Lozère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa" class="myButton" style="color:white;">Déposer : 48 	- Lozère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
+<a href="https://docs.stopcoronavirus.tech/#/r/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp" target="_blank" class="myButton" style="color:white;">Consulter : 48 	- Lozère</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
+<a href="https://docs.stopcoronavirus.tech/#/w/markdown/48_lozere/4XTTM2U2YXwwTt9AqQBFToaPGqKphXXMCbRQJd3ieCWApZKhp-K3TgU8LFw2VbEvF8YT63nrQb5nBCHp3LkChLkTGaYr9v91U6euBJvc2gC6ZE26iQLtBcf6bgLU5YQs5jKcnyLY5qYAH3MFy4H4ZDybCAkb97J6HGTY7nKmFopGDHEk7j5murpeJa" target="_blank" class="myButton" style="color:white;">Déposer : 48 	- Lozère</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
 
 
 ##### Utilisation
@@ -85,7 +85,7 @@ Ne publiez pas d'informations sensibles.
 
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate">
+<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
 </a>
 
@@ -94,6 +94,6 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : _documentation en cours_
-- Proposez vos améliorations, fonctionnalités : _liens à venir_
+- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
+- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

@@ -5,7 +5,7 @@ description = "Entraide, Annonces, Initiatives pour la gestion du COVID-19" # fo
 
 themeOptions = ["light", "dark"] # select options for site color theme
 
-useFaviconGenerator = true # https://www.favicon-generator.org/
+useFaviconGenerator = false # https://www.favicon-generator.org/
 
 enableSearch = false
 enableLangChange = false

@@ -42,6 +42,12 @@ Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
 
 ##### Par vos compétences
 
+Les idées de propositions sont détaillées <a href="/contribuer" target="_blank">SUR CETTE PAGE</a>. 
+
+Nous avons besoin de vous.
+
+##### Par vos compétences techniques
+
 - Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 - Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

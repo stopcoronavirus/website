@@ -4,6 +4,12 @@
   url = "departements"
   weight = 1
 
+[[main]]
+  identifier = "contribuer"
+  name = "Contribuer"
+  url = "contribuer"
+  weight = 2
+
 # [[main]]
 #   identifier = "projets"
 #   name = "Projets"

@@ -39,7 +39,7 @@ Voici quelques propositions.
 ### Je souhaite me porter volontaire pour aider ceux qui sont dans le besoin
 
 - Je consulte les annonces et **je contacte les porteurs de ces initiatives** pour me porter volontaire.
-- Sinon, je m'ajoute à la section **Volontaires** sur la page de ma commune et mentionne **comment me contacter, mes disponibilités**, et éventuellement mes compétences et envies.
+- Sinon, je créé et je m'ajoute à la section **volontaires** sur la page initiatives de ma commune et je mentionne **comment me contacter, mes disponibilités**, et éventuellement mes compétences et envies.
 
 ### J'ai des compétences pour animer ou fédérer une communauté
 

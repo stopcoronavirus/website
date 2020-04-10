@@ -20,7 +20,7 @@ _Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMP
 Pour commencer, rendez-vous sur la page de <a href="/departements" class="myButton" style="color:white;">VOTRE COMMUNE en cliquant sur ce lien</a>
 
 <p><small><i>
-(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur
+(*) A ce stade, le canal d'entraide n'est pas accessible sur iOS mais fonctionne sous Android ou sur un ordinateur
 </i></small></p>
 
 #### Confidentialité

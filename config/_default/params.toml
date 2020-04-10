@@ -1,7 +1,7 @@
 logo = false # Logo that appears in the site navigation bar.
 logoText = "StopCoronavirus.Tech" # Logo text that appears in the site navigation bar.
 logoType = "short" # long, short
-description = "Entraide, Annonces, Initiatives pour la gestion du COVID-19" # for SEO
+description = "Entraide de proximité par commune et par département pour recenser les annonces, besoins et initiatives afin de gérer au mieux la crise du COVID-19." # for SEO
 
 themeOptions = ["light", "dark"] # select options for site color theme
 

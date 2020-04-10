@@ -1,5 +1,5 @@
 ---
-title: "83250 - LA LONDE LES MAURES | Entraide, Annonces, Initiatives"
+title: "83250 - LA LONDE LES MAURES"
 description: "83250 - LA LONDE LES MAURES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

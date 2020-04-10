@@ -1,5 +1,5 @@
 ---
-title: "77400 - POMPONNE | Entraide, Annonces, Initiatives"
+title: "77400 - POMPONNE"
 description: "77400 - POMPONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

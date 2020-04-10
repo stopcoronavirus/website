@@ -1,5 +1,5 @@
 ---
-title: "54360 - BLAINVILLE SUR L EAU | Entraide, Annonces, Initiatives"
+title: "54360 - BLAINVILLE SUR L EAU"
 description: "54360 - BLAINVILLE SUR L EAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

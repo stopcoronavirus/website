@@ -1,5 +1,5 @@
 ---
-title: "59670 - WINNEZEELE | Entraide, Annonces, Initiatives"
+title: "59670 - WINNEZEELE"
 description: "59670 - WINNEZEELE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

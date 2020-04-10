@@ -1,5 +1,5 @@
 ---
-title: "23400 - BOSMOREAU LES MINES | Entraide, Annonces, Initiatives"
+title: "23400 - BOSMOREAU LES MINES"
 description: "23400 - BOSMOREAU LES MINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "27380 - DOUVILLE SUR ANDELLE | Entraide, Annonces, Initiatives"
+title: "27380 - DOUVILLE SUR ANDELLE"
 description: "27380 - DOUVILLE SUR ANDELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

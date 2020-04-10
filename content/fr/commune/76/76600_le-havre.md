@@ -1,5 +1,5 @@
 ---
-title: "76600 - LE HAVRE | Entraide, Annonces, Initiatives"
+title: "76600 - LE HAVRE"
 description: "76600 - LE HAVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

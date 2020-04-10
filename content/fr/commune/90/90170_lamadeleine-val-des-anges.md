@@ -1,5 +1,5 @@
 ---
-title: "90170 - LAMADELEINE VAL DES ANGES | Entraide, Annonces, Initiatives"
+title: "90170 - LAMADELEINE VAL DES ANGES"
 description: "90170 - LAMADELEINE VAL DES ANGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

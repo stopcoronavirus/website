@@ -1,5 +1,5 @@
 ---
-title: "54450 - FREMENIL | Entraide, Annonces, Initiatives"
+title: "54450 - FREMENIL"
 description: "54450 - FREMENIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

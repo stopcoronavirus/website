@@ -1,5 +1,5 @@
 ---
-title: "63140 - CHATEL GUYON | Entraide, Annonces, Initiatives"
+title: "63140 - CHATEL GUYON"
 description: "63140 - CHATEL GUYON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

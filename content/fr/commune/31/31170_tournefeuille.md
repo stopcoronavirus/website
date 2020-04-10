@@ -1,5 +1,5 @@
 ---
-title: "31170 - TOURNEFEUILLE | Entraide, Annonces, Initiatives"
+title: "31170 - TOURNEFEUILLE"
 description: "31170 - TOURNEFEUILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

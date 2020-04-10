@@ -1,5 +1,5 @@
 ---
-title: "69220 - CERCIE | Entraide, Annonces, Initiatives"
+title: "69220 - CERCIE"
 description: "69220 - CERCIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

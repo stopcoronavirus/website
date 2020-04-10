@@ -1,5 +1,5 @@
 ---
-title: "92250 - LA GARENNE COLOMBES | Entraide, Annonces, Initiatives"
+title: "92250 - LA GARENNE COLOMBES"
 description: "92250 - LA GARENNE COLOMBES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

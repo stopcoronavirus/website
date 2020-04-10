@@ -1,5 +1,5 @@
 ---
-title: "54540 - BREMENIL | Entraide, Annonces, Initiatives"
+title: "54540 - BREMENIL"
 description: "54540 - BREMENIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

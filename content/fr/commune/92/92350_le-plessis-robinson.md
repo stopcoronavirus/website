@@ -1,5 +1,5 @@
 ---
-title: "92350 - LE PLESSIS ROBINSON | Entraide, Annonces, Initiatives"
+title: "92350 - LE PLESSIS ROBINSON"
 description: "92350 - LE PLESSIS ROBINSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

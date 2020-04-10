@@ -1,5 +1,5 @@
 ---
-title: "68100 - MULHOUSE | Entraide, Annonces, Initiatives"
+title: "68100 - MULHOUSE"
 description: "68100 - MULHOUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

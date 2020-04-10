@@ -1,5 +1,5 @@
 ---
-title: "78100 - ST GERMAIN EN LAYE | Entraide, Annonces, Initiatives"
+title: "78100 - ST GERMAIN EN LAYE"
 description: "78100 - ST GERMAIN EN LAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

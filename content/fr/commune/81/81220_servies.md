@@ -1,5 +1,5 @@
 ---
-title: "81220 - SERVIES | Entraide, Annonces, Initiatives"
+title: "81220 - SERVIES"
 description: "81220 - SERVIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

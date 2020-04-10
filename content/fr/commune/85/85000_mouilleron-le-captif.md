@@ -1,5 +1,5 @@
 ---
-title: "85000 - MOUILLERON LE CAPTIF | Entraide, Annonces, Initiatives"
+title: "85000 - MOUILLERON LE CAPTIF"
 description: "85000 - MOUILLERON LE CAPTIF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

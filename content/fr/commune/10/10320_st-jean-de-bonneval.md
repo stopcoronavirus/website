@@ -1,5 +1,5 @@
 ---
-title: "10320 - ST JEAN DE BONNEVAL | Entraide, Annonces, Initiatives"
+title: "10320 - ST JEAN DE BONNEVAL"
 description: "10320 - ST JEAN DE BONNEVAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "07230 - PAYZAC | Entraide, Annonces, Initiatives"
+title: "07230 - PAYZAC"
 description: "07230 - PAYZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

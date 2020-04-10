@@ -1,5 +1,5 @@
 ---
-title: "28410 - ST LUBIN DE LA HAYE | Entraide, Annonces, Initiatives"
+title: "28410 - ST LUBIN DE LA HAYE"
 description: "28410 - ST LUBIN DE LA HAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

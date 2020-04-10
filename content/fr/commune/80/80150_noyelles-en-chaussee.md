@@ -1,5 +1,5 @@
 ---
-title: "80150 - NOYELLES EN CHAUSSEE | Entraide, Annonces, Initiatives"
+title: "80150 - NOYELLES EN CHAUSSEE"
 description: "80150 - NOYELLES EN CHAUSSEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

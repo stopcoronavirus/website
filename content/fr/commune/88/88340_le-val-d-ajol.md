@@ -1,5 +1,5 @@
 ---
-title: "88340 - LE VAL D AJOL | Entraide, Annonces, Initiatives"
+title: "88340 - LE VAL D AJOL"
 description: "88340 - LE VAL D AJOL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

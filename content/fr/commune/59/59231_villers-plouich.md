@@ -1,5 +1,5 @@
 ---
-title: "59231 - VILLERS PLOUICH | Entraide, Annonces, Initiatives"
+title: "59231 - VILLERS PLOUICH"
 description: "59231 - VILLERS PLOUICH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

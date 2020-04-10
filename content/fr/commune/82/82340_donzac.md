@@ -1,5 +1,5 @@
 ---
-title: "82340 - DONZAC | Entraide, Annonces, Initiatives"
+title: "82340 - DONZAC"
 description: "82340 - DONZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

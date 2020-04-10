@@ -1,5 +1,5 @@
 ---
-title: "54320 - MAXEVILLE | Entraide, Annonces, Initiatives"
+title: "54320 - MAXEVILLE"
 description: "54320 - MAXEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

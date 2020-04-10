@@ -1,5 +1,5 @@
 ---
-title: "09290 - LE MAS D AZIL | Entraide, Annonces, Initiatives"
+title: "09290 - LE MAS D AZIL"
 description: "09290 - LE MAS D AZIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

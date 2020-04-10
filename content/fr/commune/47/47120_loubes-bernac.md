@@ -1,5 +1,5 @@
 ---
-title: "47120 - LOUBES BERNAC | Entraide, Annonces, Initiatives"
+title: "47120 - LOUBES BERNAC"
 description: "47120 - LOUBES BERNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

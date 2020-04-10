@@ -1,5 +1,5 @@
 ---
-title: "28120 - MESLAY LE GRENET | Entraide, Annonces, Initiatives"
+title: "28120 - MESLAY LE GRENET"
 description: "28120 - MESLAY LE GRENET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

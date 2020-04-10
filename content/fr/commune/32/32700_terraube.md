@@ -1,5 +1,5 @@
 ---
-title: "32700 - TERRAUBE | Entraide, Annonces, Initiatives"
+title: "32700 - TERRAUBE"
 description: "32700 - TERRAUBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

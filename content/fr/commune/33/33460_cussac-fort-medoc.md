@@ -1,5 +1,5 @@
 ---
-title: "33460 - CUSSAC FORT MEDOC | Entraide, Annonces, Initiatives"
+title: "33460 - CUSSAC FORT MEDOC"
 description: "33460 - CUSSAC FORT MEDOC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

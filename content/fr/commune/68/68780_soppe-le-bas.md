@@ -1,5 +1,5 @@
 ---
-title: "68780 - SOPPE LE BAS | Entraide, Annonces, Initiatives"
+title: "68780 - SOPPE LE BAS"
 description: "68780 - SOPPE LE BAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

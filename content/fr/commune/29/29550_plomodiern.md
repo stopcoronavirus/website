@@ -1,5 +1,5 @@
 ---
-title: "29550 - PLOMODIERN | Entraide, Annonces, Initiatives"
+title: "29550 - PLOMODIERN"
 description: "29550 - PLOMODIERN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

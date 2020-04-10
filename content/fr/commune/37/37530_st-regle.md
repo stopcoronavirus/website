@@ -1,5 +1,5 @@
 ---
-title: "37530 - ST REGLE | Entraide, Annonces, Initiatives"
+title: "37530 - ST REGLE"
 description: "37530 - ST REGLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

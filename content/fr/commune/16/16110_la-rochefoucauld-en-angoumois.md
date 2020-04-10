@@ -1,5 +1,5 @@
 ---
-title: "16110 - LA ROCHEFOUCAULD EN ANGOUMOIS | Entraide, Annonces, Initiatives"
+title: "16110 - LA ROCHEFOUCAULD EN ANGOUMOIS"
 description: "16110 - LA ROCHEFOUCAULD EN ANGOUMOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

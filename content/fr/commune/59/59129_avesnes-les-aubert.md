@@ -1,5 +1,5 @@
 ---
-title: "59129 - AVESNES LES AUBERT | Entraide, Annonces, Initiatives"
+title: "59129 - AVESNES LES AUBERT"
 description: "59129 - AVESNES LES AUBERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

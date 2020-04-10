@@ -1,5 +1,5 @@
 ---
-title: "73390 - BETTON BETTONET | Entraide, Annonces, Initiatives"
+title: "73390 - BETTON BETTONET"
 description: "73390 - BETTON BETTONET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

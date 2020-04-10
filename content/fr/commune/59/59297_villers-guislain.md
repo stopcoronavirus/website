@@ -1,5 +1,5 @@
 ---
-title: "59297 - VILLERS GUISLAIN | Entraide, Annonces, Initiatives"
+title: "59297 - VILLERS GUISLAIN"
 description: "59297 - VILLERS GUISLAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

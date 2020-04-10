@@ -1,5 +1,5 @@
 ---
-title: "12120 - RULLAC ST CIRQ | Entraide, Annonces, Initiatives"
+title: "12120 - RULLAC ST CIRQ"
 description: "12120 - RULLAC ST CIRQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

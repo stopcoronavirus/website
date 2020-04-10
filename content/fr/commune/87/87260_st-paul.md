@@ -1,5 +1,5 @@
 ---
-title: "87260 - ST PAUL | Entraide, Annonces, Initiatives"
+title: "87260 - ST PAUL"
 description: "87260 - ST PAUL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

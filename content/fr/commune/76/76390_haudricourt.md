@@ -1,5 +1,5 @@
 ---
-title: "76390 - HAUDRICOURT | Entraide, Annonces, Initiatives"
+title: "76390 - HAUDRICOURT"
 description: "76390 - HAUDRICOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

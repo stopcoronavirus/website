@@ -1,5 +1,5 @@
 ---
-title: "15170 - NEUSSARGUES EN PINATELLE | Entraide, Annonces, Initiatives"
+title: "15170 - NEUSSARGUES EN PINATELLE"
 description: "15170 - NEUSSARGUES EN PINATELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

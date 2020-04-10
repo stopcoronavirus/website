@@ -1,5 +1,5 @@
 ---
-title: "33250 - ST SAUVEUR | Entraide, Annonces, Initiatives"
+title: "33250 - ST SAUVEUR"
 description: "33250 - ST SAUVEUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

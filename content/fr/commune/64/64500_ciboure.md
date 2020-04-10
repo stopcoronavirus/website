@@ -1,5 +1,5 @@
 ---
-title: "64500 - CIBOURE | Entraide, Annonces, Initiatives"
+title: "64500 - CIBOURE"
 description: "64500 - CIBOURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

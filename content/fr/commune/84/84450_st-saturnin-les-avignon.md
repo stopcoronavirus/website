@@ -1,5 +1,5 @@
 ---
-title: "84450 - ST SATURNIN LES AVIGNON | Entraide, Annonces, Initiatives"
+title: "84450 - ST SATURNIN LES AVIGNON"
 description: "84450 - ST SATURNIN LES AVIGNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "08090 - BELVAL | Entraide, Annonces, Initiatives"
+title: "08090 - BELVAL"
 description: "08090 - BELVAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

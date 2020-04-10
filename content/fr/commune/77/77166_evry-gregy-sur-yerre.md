@@ -1,5 +1,5 @@
 ---
-title: "77166 - EVRY GREGY SUR YERRE | Entraide, Annonces, Initiatives"
+title: "77166 - EVRY GREGY SUR YERRE"
 description: "77166 - EVRY GREGY SUR YERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

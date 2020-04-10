@@ -1,5 +1,5 @@
 ---
-title: "77940 - LA BROSSE MONTCEAUX | Entraide, Annonces, Initiatives"
+title: "77940 - LA BROSSE MONTCEAUX"
 description: "77940 - LA BROSSE MONTCEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

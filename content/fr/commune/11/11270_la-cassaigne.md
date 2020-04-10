@@ -1,5 +1,5 @@
 ---
-title: "11270 - LA CASSAIGNE | Entraide, Annonces, Initiatives"
+title: "11270 - LA CASSAIGNE"
 description: "11270 - LA CASSAIGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

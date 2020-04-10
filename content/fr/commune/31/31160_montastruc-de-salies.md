@@ -1,5 +1,5 @@
 ---
-title: "31160 - MONTASTRUC DE SALIES | Entraide, Annonces, Initiatives"
+title: "31160 - MONTASTRUC DE SALIES"
 description: "31160 - MONTASTRUC DE SALIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

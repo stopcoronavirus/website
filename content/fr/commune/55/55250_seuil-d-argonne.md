@@ -1,5 +1,5 @@
 ---
-title: "55250 - SEUIL D ARGONNE | Entraide, Annonces, Initiatives"
+title: "55250 - SEUIL D ARGONNE"
 description: "55250 - SEUIL D ARGONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "35460 - LE TIERCENT | Entraide, Annonces, Initiatives"
+title: "35460 - LE TIERCENT"
 description: "35460 - LE TIERCENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

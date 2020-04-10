@@ -1,5 +1,5 @@
 ---
-title: "62157 - ALLOUAGNE | Entraide, Annonces, Initiatives"
+title: "62157 - ALLOUAGNE"
 description: "62157 - ALLOUAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

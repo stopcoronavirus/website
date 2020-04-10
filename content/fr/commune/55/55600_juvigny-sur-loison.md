@@ -1,5 +1,5 @@
 ---
-title: "55600 - JUVIGNY SUR LOISON | Entraide, Annonces, Initiatives"
+title: "55600 - JUVIGNY SUR LOISON"
 description: "55600 - JUVIGNY SUR LOISON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

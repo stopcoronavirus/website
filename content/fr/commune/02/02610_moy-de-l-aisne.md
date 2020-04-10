@@ -1,5 +1,5 @@
 ---
-title: "02610 - MOY DE L AISNE | Entraide, Annonces, Initiatives"
+title: "02610 - MOY DE L AISNE"
 description: "02610 - MOY DE L AISNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

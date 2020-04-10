@@ -1,5 +1,5 @@
 ---
-title: "56200 - LES FOUGERETS | Entraide, Annonces, Initiatives"
+title: "56200 - LES FOUGERETS"
 description: "56200 - LES FOUGERETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

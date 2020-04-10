@@ -1,5 +1,5 @@
 ---
-title: "45240 - LA FERTE ST AUBIN | Entraide, Annonces, Initiatives"
+title: "45240 - LA FERTE ST AUBIN"
 description: "45240 - LA FERTE ST AUBIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

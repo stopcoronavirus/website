@@ -1,5 +1,5 @@
 ---
-title: "61100 - CALIGNY | Entraide, Annonces, Initiatives"
+title: "61100 - CALIGNY"
 description: "61100 - CALIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

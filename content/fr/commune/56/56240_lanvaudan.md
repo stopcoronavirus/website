@@ -1,5 +1,5 @@
 ---
-title: "56240 - LANVAUDAN | Entraide, Annonces, Initiatives"
+title: "56240 - LANVAUDAN"
 description: "56240 - LANVAUDAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

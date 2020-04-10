@@ -1,5 +1,5 @@
 ---
-title: "08190 - GOMONT | Entraide, Annonces, Initiatives"
+title: "08190 - GOMONT"
 description: "08190 - GOMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

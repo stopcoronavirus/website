@@ -1,5 +1,5 @@
 ---
-title: "61100 - ST GEORGES DES GROSEILLERS | Entraide, Annonces, Initiatives"
+title: "61100 - ST GEORGES DES GROSEILLERS"
 description: "61100 - ST GEORGES DES GROSEILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

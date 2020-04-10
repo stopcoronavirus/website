@@ -1,5 +1,5 @@
 ---
-title: "88260 - PONT LES BONFAYS | Entraide, Annonces, Initiatives"
+title: "88260 - PONT LES BONFAYS"
 description: "88260 - PONT LES BONFAYS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59174 - LA SENTINELLE | Entraide, Annonces, Initiatives"
+title: "59174 - LA SENTINELLE"
 description: "59174 - LA SENTINELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

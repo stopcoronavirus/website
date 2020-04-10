@@ -1,5 +1,5 @@
 ---
-title: "46100 - LENTILLAC ST BLAISE | Entraide, Annonces, Initiatives"
+title: "46100 - LENTILLAC ST BLAISE"
 description: "46100 - LENTILLAC ST BLAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

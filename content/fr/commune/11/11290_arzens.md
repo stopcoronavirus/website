@@ -1,5 +1,5 @@
 ---
-title: "11290 - ARZENS | Entraide, Annonces, Initiatives"
+title: "11290 - ARZENS"
 description: "11290 - ARZENS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

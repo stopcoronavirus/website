@@ -1,5 +1,5 @@
 ---
-title: "27140 - AMECOURT | Entraide, Annonces, Initiatives"
+title: "27140 - AMECOURT"
 description: "27140 - AMECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

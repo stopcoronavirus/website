@@ -1,5 +1,5 @@
 ---
-title: "03210 - CHATILLON | Entraide, Annonces, Initiatives"
+title: "03210 - CHATILLON"
 description: "03210 - CHATILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

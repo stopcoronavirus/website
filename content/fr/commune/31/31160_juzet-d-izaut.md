@@ -1,5 +1,5 @@
 ---
-title: "31160 - JUZET D IZAUT | Entraide, Annonces, Initiatives"
+title: "31160 - JUZET D IZAUT"
 description: "31160 - JUZET D IZAUT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

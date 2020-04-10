@@ -1,5 +1,5 @@
 ---
-title: "14230 - DEUX JUMEAUX | Entraide, Annonces, Initiatives"
+title: "14230 - DEUX JUMEAUX"
 description: "14230 - DEUX JUMEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

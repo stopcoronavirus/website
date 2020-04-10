@@ -1,5 +1,5 @@
 ---
-title: "83400 - HYERES | Entraide, Annonces, Initiatives"
+title: "83400 - HYERES"
 description: "83400 - HYERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

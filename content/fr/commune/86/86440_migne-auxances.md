@@ -1,5 +1,5 @@
 ---
-title: "86440 - MIGNE AUXANCES | Entraide, Annonces, Initiatives"
+title: "86440 - MIGNE AUXANCES"
 description: "86440 - MIGNE AUXANCES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

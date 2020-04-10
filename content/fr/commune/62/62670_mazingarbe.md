@@ -1,5 +1,5 @@
 ---
-title: "62670 - MAZINGARBE | Entraide, Annonces, Initiatives"
+title: "62670 - MAZINGARBE"
 description: "62670 - MAZINGARBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

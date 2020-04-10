@@ -1,5 +1,5 @@
 ---
-title: "17520 - CELLES | Entraide, Annonces, Initiatives"
+title: "17520 - CELLES"
 description: "17520 - CELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

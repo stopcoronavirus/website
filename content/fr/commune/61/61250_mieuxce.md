@@ -1,5 +1,5 @@
 ---
-title: "61250 - MIEUXCE | Entraide, Annonces, Initiatives"
+title: "61250 - MIEUXCE"
 description: "61250 - MIEUXCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

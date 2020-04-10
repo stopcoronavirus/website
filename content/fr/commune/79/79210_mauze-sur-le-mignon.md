@@ -1,5 +1,5 @@
 ---
-title: "79210 - MAUZE SUR LE MIGNON | Entraide, Annonces, Initiatives"
+title: "79210 - MAUZE SUR LE MIGNON"
 description: "79210 - MAUZE SUR LE MIGNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "02120 - VILLERS LES GUISE | Entraide, Annonces, Initiatives"
+title: "02120 - VILLERS LES GUISE"
 description: "02120 - VILLERS LES GUISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

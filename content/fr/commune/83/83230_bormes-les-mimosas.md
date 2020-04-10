@@ -1,5 +1,5 @@
 ---
-title: "83230 - BORMES LES MIMOSAS | Entraide, Annonces, Initiatives"
+title: "83230 - BORMES LES MIMOSAS"
 description: "83230 - BORMES LES MIMOSAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

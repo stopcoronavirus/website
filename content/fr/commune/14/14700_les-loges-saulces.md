@@ -1,5 +1,5 @@
 ---
-title: "14700 - LES LOGES SAULCES | Entraide, Annonces, Initiatives"
+title: "14700 - LES LOGES SAULCES"
 description: "14700 - LES LOGES SAULCES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

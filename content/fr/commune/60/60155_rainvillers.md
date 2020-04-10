@@ -1,5 +1,5 @@
 ---
-title: "60155 - RAINVILLERS | Entraide, Annonces, Initiatives"
+title: "60155 - RAINVILLERS"
 description: "60155 - RAINVILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

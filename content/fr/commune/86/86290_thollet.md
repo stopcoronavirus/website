@@ -1,5 +1,5 @@
 ---
-title: "86290 - THOLLET | Entraide, Annonces, Initiatives"
+title: "86290 - THOLLET"
 description: "86290 - THOLLET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

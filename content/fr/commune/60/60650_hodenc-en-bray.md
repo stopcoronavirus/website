@@ -1,5 +1,5 @@
 ---
-title: "60650 - HODENC EN BRAY | Entraide, Annonces, Initiatives"
+title: "60650 - HODENC EN BRAY"
 description: "60650 - HODENC EN BRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

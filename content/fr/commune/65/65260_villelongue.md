@@ -1,5 +1,5 @@
 ---
-title: "65260 - VILLELONGUE | Entraide, Annonces, Initiatives"
+title: "65260 - VILLELONGUE"
 description: "65260 - VILLELONGUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

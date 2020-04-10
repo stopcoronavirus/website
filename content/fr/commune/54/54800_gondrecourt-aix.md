@@ -1,5 +1,5 @@
 ---
-title: "54800 - GONDRECOURT AIX | Entraide, Annonces, Initiatives"
+title: "54800 - GONDRECOURT AIX"
 description: "54800 - GONDRECOURT AIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

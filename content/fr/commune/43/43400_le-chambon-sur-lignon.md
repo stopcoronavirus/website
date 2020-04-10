@@ -1,5 +1,5 @@
 ---
-title: "43400 - LE CHAMBON SUR LIGNON | Entraide, Annonces, Initiatives"
+title: "43400 - LE CHAMBON SUR LIGNON"
 description: "43400 - LE CHAMBON SUR LIGNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

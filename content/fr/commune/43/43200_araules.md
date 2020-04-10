@@ -1,5 +1,5 @@
 ---
-title: "43200 - ARAULES | Entraide, Annonces, Initiatives"
+title: "43200 - ARAULES"
 description: "43200 - ARAULES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

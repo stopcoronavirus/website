@@ -1,5 +1,5 @@
 ---
-title: "36500 - ST LACTENCIN | Entraide, Annonces, Initiatives"
+title: "36500 - ST LACTENCIN"
 description: "36500 - ST LACTENCIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

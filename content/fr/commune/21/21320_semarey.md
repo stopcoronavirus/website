@@ -1,5 +1,5 @@
 ---
-title: "21320 - SEMAREY | Entraide, Annonces, Initiatives"
+title: "21320 - SEMAREY"
 description: "21320 - SEMAREY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

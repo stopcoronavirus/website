@@ -1,5 +1,5 @@
 ---
-title: "76380 - MONTIGNY | Entraide, Annonces, Initiatives"
+title: "76380 - MONTIGNY"
 description: "76380 - MONTIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

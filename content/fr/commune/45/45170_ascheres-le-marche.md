@@ -1,5 +1,5 @@
 ---
-title: "45170 - ASCHERES LE MARCHE | Entraide, Annonces, Initiatives"
+title: "45170 - ASCHERES LE MARCHE"
 description: "45170 - ASCHERES LE MARCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

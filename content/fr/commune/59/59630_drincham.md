@@ -1,5 +1,5 @@
 ---
-title: "59630 - DRINCHAM | Entraide, Annonces, Initiatives"
+title: "59630 - DRINCHAM"
 description: "59630 - DRINCHAM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

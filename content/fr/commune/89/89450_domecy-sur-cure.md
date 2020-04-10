@@ -1,5 +1,5 @@
 ---
-title: "89450 - DOMECY SUR CURE | Entraide, Annonces, Initiatives"
+title: "89450 - DOMECY SUR CURE"
 description: "89450 - DOMECY SUR CURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "83320 - CARQUEIRANNE | Entraide, Annonces, Initiatives"
+title: "83320 - CARQUEIRANNE"
 description: "83320 - CARQUEIRANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

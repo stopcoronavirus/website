@@ -1,5 +1,5 @@
 ---
-title: "36160 - URCIERS | Entraide, Annonces, Initiatives"
+title: "36160 - URCIERS"
 description: "36160 - URCIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

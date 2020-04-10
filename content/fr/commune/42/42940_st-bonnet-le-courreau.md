@@ -1,5 +1,5 @@
 ---
-title: "42940 - ST BONNET LE COURREAU | Entraide, Annonces, Initiatives"
+title: "42940 - ST BONNET LE COURREAU"
 description: "42940 - ST BONNET LE COURREAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

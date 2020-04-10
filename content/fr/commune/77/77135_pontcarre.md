@@ -1,5 +1,5 @@
 ---
-title: "77135 - PONTCARRE | Entraide, Annonces, Initiatives"
+title: "77135 - PONTCARRE"
 description: "77135 - PONTCARRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59210 - COUDEKERQUE BRANCHE | Entraide, Annonces, Initiatives"
+title: "59210 - COUDEKERQUE BRANCHE"
 description: "59210 - COUDEKERQUE BRANCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

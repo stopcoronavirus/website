@@ -1,5 +1,5 @@
 ---
-title: "38142 - CLAVANS EN HAUT OISANS | Entraide, Annonces, Initiatives"
+title: "38142 - CLAVANS EN HAUT OISANS"
 description: "38142 - CLAVANS EN HAUT OISANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

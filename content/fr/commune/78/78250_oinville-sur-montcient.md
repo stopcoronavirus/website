@@ -1,5 +1,5 @@
 ---
-title: "78250 - OINVILLE SUR MONTCIENT | Entraide, Annonces, Initiatives"
+title: "78250 - OINVILLE SUR MONTCIENT"
 description: "78250 - OINVILLE SUR MONTCIENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

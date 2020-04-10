@@ -1,5 +1,5 @@
 ---
-title: "46600 - ST DENIS LES MARTEL | Entraide, Annonces, Initiatives"
+title: "46600 - ST DENIS LES MARTEL"
 description: "46600 - ST DENIS LES MARTEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

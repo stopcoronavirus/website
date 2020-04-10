@@ -1,5 +1,5 @@
 ---
-title: "32170 - MARSEILLAN | Entraide, Annonces, Initiatives"
+title: "32170 - MARSEILLAN"
 description: "32170 - MARSEILLAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

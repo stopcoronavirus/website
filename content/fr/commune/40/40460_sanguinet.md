@@ -1,5 +1,5 @@
 ---
-title: "40460 - SANGUINET | Entraide, Annonces, Initiatives"
+title: "40460 - SANGUINET"
 description: "40460 - SANGUINET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

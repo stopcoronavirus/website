@@ -1,5 +1,5 @@
 ---
-title: "60350 - ST JEAN AUX BOIS | Entraide, Annonces, Initiatives"
+title: "60350 - ST JEAN AUX BOIS"
 description: "60350 - ST JEAN AUX BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

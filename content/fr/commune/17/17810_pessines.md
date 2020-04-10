@@ -1,5 +1,5 @@
 ---
-title: "17810 - PESSINES | Entraide, Annonces, Initiatives"
+title: "17810 - PESSINES"
 description: "17810 - PESSINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "05130 - TALLARD | Entraide, Annonces, Initiatives"
+title: "05130 - TALLARD"
 description: "05130 - TALLARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

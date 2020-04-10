@@ -1,5 +1,5 @@
 ---
-title: "97100 - BASSE TERRE | Entraide, Annonces, Initiatives"
+title: "97100 - BASSE TERRE"
 description: "97100 - BASSE TERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

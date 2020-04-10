@@ -1,5 +1,5 @@
 ---
-title: "65370 - IZAOURT | Entraide, Annonces, Initiatives"
+title: "65370 - IZAOURT"
 description: "65370 - IZAOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

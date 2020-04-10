@@ -1,5 +1,5 @@
 ---
-title: "63150 - MURAT LE QUAIRE | Entraide, Annonces, Initiatives"
+title: "63150 - MURAT LE QUAIRE"
 description: "63150 - MURAT LE QUAIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

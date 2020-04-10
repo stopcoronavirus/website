@@ -1,5 +1,5 @@
 ---
-title: "33330 - ST PEY D ARMENS | Entraide, Annonces, Initiatives"
+title: "33330 - ST PEY D ARMENS"
 description: "33330 - ST PEY D ARMENS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

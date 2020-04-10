@@ -1,5 +1,5 @@
 ---
-title: "08130 - AMBLY FLEURY | Entraide, Annonces, Initiatives"
+title: "08130 - AMBLY FLEURY"
 description: "08130 - AMBLY FLEURY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

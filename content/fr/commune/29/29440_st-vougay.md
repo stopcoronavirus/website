@@ -1,5 +1,5 @@
 ---
-title: "29440 - ST VOUGAY | Entraide, Annonces, Initiatives"
+title: "29440 - ST VOUGAY"
 description: "29440 - ST VOUGAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

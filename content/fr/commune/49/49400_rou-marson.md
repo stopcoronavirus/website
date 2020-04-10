@@ -1,5 +1,5 @@
 ---
-title: "49400 - ROU MARSON | Entraide, Annonces, Initiatives"
+title: "49400 - ROU MARSON"
 description: "49400 - ROU MARSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

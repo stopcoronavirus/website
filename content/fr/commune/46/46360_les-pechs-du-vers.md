@@ -1,5 +1,5 @@
 ---
-title: "46360 - LES PECHS DU VERS | Entraide, Annonces, Initiatives"
+title: "46360 - LES PECHS DU VERS"
 description: "46360 - LES PECHS DU VERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

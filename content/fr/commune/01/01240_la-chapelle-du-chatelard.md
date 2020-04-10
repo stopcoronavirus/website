@@ -1,5 +1,5 @@
 ---
-title: "01240 - LA CHAPELLE DU CHATELARD | Entraide, Annonces, Initiatives"
+title: "01240 - LA CHAPELLE DU CHATELARD"
 description: "01240 - LA CHAPELLE DU CHATELARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

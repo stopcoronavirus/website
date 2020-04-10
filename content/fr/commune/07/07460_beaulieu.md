@@ -1,5 +1,5 @@
 ---
-title: "07460 - BEAULIEU | Entraide, Annonces, Initiatives"
+title: "07460 - BEAULIEU"
 description: "07460 - BEAULIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

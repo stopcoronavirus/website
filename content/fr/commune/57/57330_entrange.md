@@ -1,5 +1,5 @@
 ---
-title: "57330 - ENTRANGE | Entraide, Annonces, Initiatives"
+title: "57330 - ENTRANGE"
 description: "57330 - ENTRANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

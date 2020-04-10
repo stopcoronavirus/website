@@ -1,5 +1,5 @@
 ---
-title: "77930 - FLEURY EN BIERE | Entraide, Annonces, Initiatives"
+title: "77930 - FLEURY EN BIERE"
 description: "77930 - FLEURY EN BIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

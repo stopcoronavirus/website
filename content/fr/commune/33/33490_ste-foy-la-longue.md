@@ -1,5 +1,5 @@
 ---
-title: "33490 - STE FOY LA LONGUE | Entraide, Annonces, Initiatives"
+title: "33490 - STE FOY LA LONGUE"
 description: "33490 - STE FOY LA LONGUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

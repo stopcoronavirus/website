@@ -1,5 +1,5 @@
 ---
-title: "56250 - LA VRAIE CROIX | Entraide, Annonces, Initiatives"
+title: "56250 - LA VRAIE CROIX"
 description: "56250 - LA VRAIE CROIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

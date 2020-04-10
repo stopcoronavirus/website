@@ -1,5 +1,5 @@
 ---
-title: "65200 - GERMS SUR L OUSSOUET | Entraide, Annonces, Initiatives"
+title: "65200 - GERMS SUR L OUSSOUET"
 description: "65200 - GERMS SUR L OUSSOUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

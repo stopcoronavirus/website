@@ -1,5 +1,5 @@
 ---
-title: "88540 - BUSSANG | Entraide, Annonces, Initiatives"
+title: "88540 - BUSSANG"
 description: "88540 - BUSSANG | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

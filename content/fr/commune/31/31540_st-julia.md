@@ -1,5 +1,5 @@
 ---
-title: "31540 - ST JULIA | Entraide, Annonces, Initiatives"
+title: "31540 - ST JULIA"
 description: "31540 - ST JULIA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

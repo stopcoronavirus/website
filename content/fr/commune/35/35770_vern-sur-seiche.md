@@ -1,5 +1,5 @@
 ---
-title: "35770 - VERN SUR SEICHE | Entraide, Annonces, Initiatives"
+title: "35770 - VERN SUR SEICHE"
 description: "35770 - VERN SUR SEICHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

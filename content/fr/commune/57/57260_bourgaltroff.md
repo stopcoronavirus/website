@@ -1,5 +1,5 @@
 ---
-title: "57260 - BOURGALTROFF | Entraide, Annonces, Initiatives"
+title: "57260 - BOURGALTROFF"
 description: "57260 - BOURGALTROFF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

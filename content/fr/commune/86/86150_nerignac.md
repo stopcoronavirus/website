@@ -1,5 +1,5 @@
 ---
-title: "86150 - NERIGNAC | Entraide, Annonces, Initiatives"
+title: "86150 - NERIGNAC"
 description: "86150 - NERIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

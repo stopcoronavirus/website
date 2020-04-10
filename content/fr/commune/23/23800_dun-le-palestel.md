@@ -1,5 +1,5 @@
 ---
-title: "23800 - DUN LE PALESTEL | Entraide, Annonces, Initiatives"
+title: "23800 - DUN LE PALESTEL"
 description: "23800 - DUN LE PALESTEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

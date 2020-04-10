@@ -1,5 +1,5 @@
 ---
-title: "21450 - ST MARC SUR SEINE | Entraide, Annonces, Initiatives"
+title: "21450 - ST MARC SUR SEINE"
 description: "21450 - ST MARC SUR SEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

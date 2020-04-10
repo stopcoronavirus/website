@@ -1,5 +1,5 @@
 ---
-title: "60380 - SONGEONS | Entraide, Annonces, Initiatives"
+title: "60380 - SONGEONS"
 description: "60380 - SONGEONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

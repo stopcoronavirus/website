@@ -1,5 +1,5 @@
 ---
-title: "82700 - MONTECH | Entraide, Annonces, Initiatives"
+title: "82700 - MONTECH"
 description: "82700 - MONTECH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

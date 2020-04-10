@@ -1,5 +1,5 @@
 ---
-title: "73530 - ST SORLIN D ARVES | Entraide, Annonces, Initiatives"
+title: "73530 - ST SORLIN D ARVES"
 description: "73530 - ST SORLIN D ARVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "22270 - MEGRIT | Entraide, Annonces, Initiatives"
+title: "22270 - MEGRIT"
 description: "22270 - MEGRIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

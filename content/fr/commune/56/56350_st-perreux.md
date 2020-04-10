@@ -1,5 +1,5 @@
 ---
-title: "56350 - ST PERREUX | Entraide, Annonces, Initiatives"
+title: "56350 - ST PERREUX"
 description: "56350 - ST PERREUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "54930 - FRAISNES EN SAINTOIS | Entraide, Annonces, Initiatives"
+title: "54930 - FRAISNES EN SAINTOIS"
 description: "54930 - FRAISNES EN SAINTOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

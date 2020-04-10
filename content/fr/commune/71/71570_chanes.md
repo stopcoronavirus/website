@@ -1,5 +1,5 @@
 ---
-title: "71570 - CHANES | Entraide, Annonces, Initiatives"
+title: "71570 - CHANES"
 description: "71570 - CHANES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

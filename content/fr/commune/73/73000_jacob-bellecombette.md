@@ -1,5 +1,5 @@
 ---
-title: "73000 - JACOB BELLECOMBETTE | Entraide, Annonces, Initiatives"
+title: "73000 - JACOB BELLECOMBETTE"
 description: "73000 - JACOB BELLECOMBETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

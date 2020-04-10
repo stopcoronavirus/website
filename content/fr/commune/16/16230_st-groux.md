@@ -1,5 +1,5 @@
 ---
-title: "16230 - ST GROUX | Entraide, Annonces, Initiatives"
+title: "16230 - ST GROUX"
 description: "16230 - ST GROUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

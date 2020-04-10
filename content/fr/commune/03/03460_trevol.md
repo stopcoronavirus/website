@@ -1,5 +1,5 @@
 ---
-title: "03460 - TREVOL | Entraide, Annonces, Initiatives"
+title: "03460 - TREVOL"
 description: "03460 - TREVOL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

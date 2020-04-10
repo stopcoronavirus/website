@@ -1,5 +1,5 @@
 ---
-title: "59224 - THIANT | Entraide, Annonces, Initiatives"
+title: "59224 - THIANT"
 description: "59224 - THIANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

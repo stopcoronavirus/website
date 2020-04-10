@@ -1,5 +1,5 @@
 ---
-title: "14130 - LE MESNIL SUR BLANGY | Entraide, Annonces, Initiatives"
+title: "14130 - LE MESNIL SUR BLANGY"
 description: "14130 - LE MESNIL SUR BLANGY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

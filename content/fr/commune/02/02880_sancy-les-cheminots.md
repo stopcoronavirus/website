@@ -1,5 +1,5 @@
 ---
-title: "02880 - SANCY LES CHEMINOTS | Entraide, Annonces, Initiatives"
+title: "02880 - SANCY LES CHEMINOTS"
 description: "02880 - SANCY LES CHEMINOTS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

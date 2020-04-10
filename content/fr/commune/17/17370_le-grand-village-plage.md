@@ -1,5 +1,5 @@
 ---
-title: "17370 - LE GRAND VILLAGE PLAGE | Entraide, Annonces, Initiatives"
+title: "17370 - LE GRAND VILLAGE PLAGE"
 description: "17370 - LE GRAND VILLAGE PLAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

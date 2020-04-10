@@ -1,5 +1,5 @@
 ---
-title: "70250 - RONCHAMP | Entraide, Annonces, Initiatives"
+title: "70250 - RONCHAMP"
 description: "70250 - RONCHAMP | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "78570 - CHANTELOUP LES VIGNES | Entraide, Annonces, Initiatives"
+title: "78570 - CHANTELOUP LES VIGNES"
 description: "78570 - CHANTELOUP LES VIGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

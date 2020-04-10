@@ -1,5 +1,5 @@
 ---
-title: "93460 - GOURNAY SUR MARNE | Entraide, Annonces, Initiatives"
+title: "93460 - GOURNAY SUR MARNE"
 description: "93460 - GOURNAY SUR MARNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

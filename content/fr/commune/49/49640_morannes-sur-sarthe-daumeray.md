@@ -1,5 +1,5 @@
 ---
-title: "49640 - MORANNES SUR SARTHE DAUMERAY | Entraide, Annonces, Initiatives"
+title: "49640 - MORANNES SUR SARTHE DAUMERAY"
 description: "49640 - MORANNES SUR SARTHE DAUMERAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

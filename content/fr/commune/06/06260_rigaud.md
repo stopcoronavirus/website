@@ -1,5 +1,5 @@
 ---
-title: "06260 - RIGAUD | Entraide, Annonces, Initiatives"
+title: "06260 - RIGAUD"
 description: "06260 - RIGAUD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

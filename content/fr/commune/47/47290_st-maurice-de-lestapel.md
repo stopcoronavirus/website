@@ -1,5 +1,5 @@
 ---
-title: "47290 - ST MAURICE DE LESTAPEL | Entraide, Annonces, Initiatives"
+title: "47290 - ST MAURICE DE LESTAPEL"
 description: "47290 - ST MAURICE DE LESTAPEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

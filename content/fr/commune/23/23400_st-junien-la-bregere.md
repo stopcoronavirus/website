@@ -1,5 +1,5 @@
 ---
-title: "23400 - ST JUNIEN LA BREGERE | Entraide, Annonces, Initiatives"
+title: "23400 - ST JUNIEN LA BREGERE"
 description: "23400 - ST JUNIEN LA BREGERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

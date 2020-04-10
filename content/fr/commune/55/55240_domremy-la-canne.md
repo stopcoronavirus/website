@@ -1,5 +1,5 @@
 ---
-title: "55240 - DOMREMY LA CANNE | Entraide, Annonces, Initiatives"
+title: "55240 - DOMREMY LA CANNE"
 description: "55240 - DOMREMY LA CANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

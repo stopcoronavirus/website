@@ -1,5 +1,5 @@
 ---
-title: "70130 - NOIDANS LE FERROUX | Entraide, Annonces, Initiatives"
+title: "70130 - NOIDANS LE FERROUX"
 description: "70130 - NOIDANS LE FERROUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

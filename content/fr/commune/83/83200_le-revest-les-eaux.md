@@ -1,5 +1,5 @@
 ---
-title: "83200 - LE REVEST LES EAUX | Entraide, Annonces, Initiatives"
+title: "83200 - LE REVEST LES EAUX"
 description: "83200 - LE REVEST LES EAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

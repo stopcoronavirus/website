@@ -1,5 +1,5 @@
 ---
-title: "45380 - CHAINGY | Entraide, Annonces, Initiatives"
+title: "45380 - CHAINGY"
 description: "45380 - CHAINGY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "01480 - ARS SUR FORMANS | Entraide, Annonces, Initiatives"
+title: "01480 - ARS SUR FORMANS"
 description: "01480 - ARS SUR FORMANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

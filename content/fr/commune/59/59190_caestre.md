@@ -1,5 +1,5 @@
 ---
-title: "59190 - CAESTRE | Entraide, Annonces, Initiatives"
+title: "59190 - CAESTRE"
 description: "59190 - CAESTRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

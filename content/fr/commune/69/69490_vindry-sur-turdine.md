@@ -1,5 +1,5 @@
 ---
-title: "69490 - VINDRY SUR TURDINE | Entraide, Annonces, Initiatives"
+title: "69490 - VINDRY SUR TURDINE"
 description: "69490 - VINDRY SUR TURDINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

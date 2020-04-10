@@ -1,5 +1,5 @@
 ---
-title: "10700 - TORCY LE GRAND | Entraide, Annonces, Initiatives"
+title: "10700 - TORCY LE GRAND"
 description: "10700 - TORCY LE GRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

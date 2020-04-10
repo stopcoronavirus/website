@@ -1,5 +1,5 @@
 ---
-title: "42130 - MARCOUX | Entraide, Annonces, Initiatives"
+title: "42130 - MARCOUX"
 description: "42130 - MARCOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

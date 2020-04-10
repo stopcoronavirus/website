@@ -1,5 +1,5 @@
 ---
-title: "60480 - LE QUESNEL AUBRY | Entraide, Annonces, Initiatives"
+title: "60480 - LE QUESNEL AUBRY"
 description: "60480 - LE QUESNEL AUBRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

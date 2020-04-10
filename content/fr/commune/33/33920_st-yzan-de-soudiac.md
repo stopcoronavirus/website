@@ -1,5 +1,5 @@
 ---
-title: "33920 - ST YZAN DE SOUDIAC | Entraide, Annonces, Initiatives"
+title: "33920 - ST YZAN DE SOUDIAC"
 description: "33920 - ST YZAN DE SOUDIAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

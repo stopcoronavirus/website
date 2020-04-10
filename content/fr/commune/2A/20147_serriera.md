@@ -1,5 +1,5 @@
 ---
-title: "20147 - SERRIERA | Entraide, Annonces, Initiatives"
+title: "20147 - SERRIERA"
 description: "20147 - SERRIERA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

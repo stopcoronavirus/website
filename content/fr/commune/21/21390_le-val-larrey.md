@@ -1,5 +1,5 @@
 ---
-title: "21390 - LE VAL LARREY | Entraide, Annonces, Initiatives"
+title: "21390 - LE VAL LARREY"
 description: "21390 - LE VAL LARREY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

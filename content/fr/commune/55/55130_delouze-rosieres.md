@@ -1,5 +1,5 @@
 ---
-title: "55130 - DELOUZE ROSIERES | Entraide, Annonces, Initiatives"
+title: "55130 - DELOUZE ROSIERES"
 description: "55130 - DELOUZE ROSIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

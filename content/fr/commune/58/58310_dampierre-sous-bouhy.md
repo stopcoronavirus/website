@@ -1,5 +1,5 @@
 ---
-title: "58310 - DAMPIERRE SOUS BOUHY | Entraide, Annonces, Initiatives"
+title: "58310 - DAMPIERRE SOUS BOUHY"
 description: "58310 - DAMPIERRE SOUS BOUHY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

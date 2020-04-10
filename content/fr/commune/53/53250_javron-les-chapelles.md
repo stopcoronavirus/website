@@ -1,5 +1,5 @@
 ---
-title: "53250 - JAVRON LES CHAPELLES | Entraide, Annonces, Initiatives"
+title: "53250 - JAVRON LES CHAPELLES"
 description: "53250 - JAVRON LES CHAPELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

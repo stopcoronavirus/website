@@ -1,5 +1,5 @@
 ---
-title: "12330 - NAUVIALE | Entraide, Annonces, Initiatives"
+title: "12330 - NAUVIALE"
 description: "12330 - NAUVIALE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

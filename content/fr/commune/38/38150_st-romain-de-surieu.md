@@ -1,5 +1,5 @@
 ---
-title: "38150 - ST ROMAIN DE SURIEU | Entraide, Annonces, Initiatives"
+title: "38150 - ST ROMAIN DE SURIEU"
 description: "38150 - ST ROMAIN DE SURIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "76490 - ST ARNOULT | Entraide, Annonces, Initiatives"
+title: "76490 - ST ARNOULT"
 description: "76490 - ST ARNOULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

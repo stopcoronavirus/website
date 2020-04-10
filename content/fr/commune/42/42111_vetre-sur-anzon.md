@@ -1,5 +1,5 @@
 ---
-title: "42111 - VETRE SUR ANZON | Entraide, Annonces, Initiatives"
+title: "42111 - VETRE SUR ANZON"
 description: "42111 - VETRE SUR ANZON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

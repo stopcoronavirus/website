@@ -1,5 +1,5 @@
 ---
-title: "81140 - ST MICHEL DE VAX | Entraide, Annonces, Initiatives"
+title: "81140 - ST MICHEL DE VAX"
 description: "81140 - ST MICHEL DE VAX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

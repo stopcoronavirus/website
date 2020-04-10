@@ -1,5 +1,5 @@
 ---
-title: "01600 - ST BERNARD | Entraide, Annonces, Initiatives"
+title: "01600 - ST BERNARD"
 description: "01600 - ST BERNARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

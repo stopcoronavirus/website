@@ -1,5 +1,5 @@
 ---
-title: "27120 - CAILLOUET ORGEVILLE | Entraide, Annonces, Initiatives"
+title: "27120 - CAILLOUET ORGEVILLE"
 description: "27120 - CAILLOUET ORGEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

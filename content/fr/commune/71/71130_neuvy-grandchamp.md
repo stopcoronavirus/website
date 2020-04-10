@@ -1,5 +1,5 @@
 ---
-title: "71130 - NEUVY GRANDCHAMP | Entraide, Annonces, Initiatives"
+title: "71130 - NEUVY GRANDCHAMP"
 description: "71130 - NEUVY GRANDCHAMP | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

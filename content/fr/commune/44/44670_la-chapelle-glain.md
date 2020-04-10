@@ -1,5 +1,5 @@
 ---
-title: "44670 - LA CHAPELLE GLAIN | Entraide, Annonces, Initiatives"
+title: "44670 - LA CHAPELLE GLAIN"
 description: "44670 - LA CHAPELLE GLAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

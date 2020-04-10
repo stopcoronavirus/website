@@ -1,5 +1,5 @@
 ---
-title: "22600 - HEMONSTOIR | Entraide, Annonces, Initiatives"
+title: "22600 - HEMONSTOIR"
 description: "22600 - HEMONSTOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

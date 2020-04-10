@@ -1,5 +1,5 @@
 ---
-title: "42130 - STE AGATHE LA BOUTERESSE | Entraide, Annonces, Initiatives"
+title: "42130 - STE AGATHE LA BOUTERESSE"
 description: "42130 - STE AGATHE LA BOUTERESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

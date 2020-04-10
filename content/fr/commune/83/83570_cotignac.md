@@ -1,5 +1,5 @@
 ---
-title: "83570 - COTIGNAC | Entraide, Annonces, Initiatives"
+title: "83570 - COTIGNAC"
 description: "83570 - COTIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

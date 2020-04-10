@@ -1,5 +1,5 @@
 ---
-title: "28170 - CHATEAUNEUF EN THYMERAIS | Entraide, Annonces, Initiatives"
+title: "28170 - CHATEAUNEUF EN THYMERAIS"
 description: "28170 - CHATEAUNEUF EN THYMERAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

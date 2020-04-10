@@ -1,5 +1,5 @@
 ---
-title: "27430 - PORTE DE SEINE | Entraide, Annonces, Initiatives"
+title: "27430 - PORTE DE SEINE"
 description: "27430 - PORTE DE SEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "47140 - ST SYLVESTRE SUR LOT | Entraide, Annonces, Initiatives"
+title: "47140 - ST SYLVESTRE SUR LOT"
 description: "47140 - ST SYLVESTRE SUR LOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "42520 - ROISEY | Entraide, Annonces, Initiatives"
+title: "42520 - ROISEY"
 description: "42520 - ROISEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

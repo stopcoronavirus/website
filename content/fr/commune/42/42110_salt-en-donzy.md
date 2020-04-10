@@ -1,5 +1,5 @@
 ---
-title: "42110 - SALT EN DONZY | Entraide, Annonces, Initiatives"
+title: "42110 - SALT EN DONZY"
 description: "42110 - SALT EN DONZY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "26170 - PLAISIANS | Entraide, Annonces, Initiatives"
+title: "26170 - PLAISIANS"
 description: "26170 - PLAISIANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

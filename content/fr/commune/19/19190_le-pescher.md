@@ -1,5 +1,5 @@
 ---
-title: "19190 - LE PESCHER | Entraide, Annonces, Initiatives"
+title: "19190 - LE PESCHER"
 description: "19190 - LE PESCHER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

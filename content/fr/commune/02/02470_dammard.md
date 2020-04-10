@@ -1,5 +1,5 @@
 ---
-title: "02470 - DAMMARD | Entraide, Annonces, Initiatives"
+title: "02470 - DAMMARD"
 description: "02470 - DAMMARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "35134 - STE COLOMBE | Entraide, Annonces, Initiatives"
+title: "35134 - STE COLOMBE"
 description: "35134 - STE COLOMBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

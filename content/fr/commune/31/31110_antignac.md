@@ -1,5 +1,5 @@
 ---
-title: "31110 - ANTIGNAC | Entraide, Annonces, Initiatives"
+title: "31110 - ANTIGNAC"
 description: "31110 - ANTIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

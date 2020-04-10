@@ -1,5 +1,5 @@
 ---
-title: "55160 - ST HILAIRE EN WOEVRE | Entraide, Annonces, Initiatives"
+title: "55160 - ST HILAIRE EN WOEVRE"
 description: "55160 - ST HILAIRE EN WOEVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

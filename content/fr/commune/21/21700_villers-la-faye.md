@@ -1,5 +1,5 @@
 ---
-title: "21700 - VILLERS LA FAYE | Entraide, Annonces, Initiatives"
+title: "21700 - VILLERS LA FAYE"
 description: "21700 - VILLERS LA FAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

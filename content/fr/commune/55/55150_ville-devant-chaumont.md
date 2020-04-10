@@ -1,5 +1,5 @@
 ---
-title: "55150 - VILLE DEVANT CHAUMONT | Entraide, Annonces, Initiatives"
+title: "55150 - VILLE DEVANT CHAUMONT"
 description: "55150 - VILLE DEVANT CHAUMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

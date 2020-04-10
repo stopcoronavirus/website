@@ -1,5 +1,5 @@
 ---
-title: "80110 - VILLERS AUX ERABLES | Entraide, Annonces, Initiatives"
+title: "80110 - VILLERS AUX ERABLES"
 description: "80110 - VILLERS AUX ERABLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

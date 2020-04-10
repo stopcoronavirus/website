@@ -1,5 +1,5 @@
 ---
-title: "28630 - MIGNIERES | Entraide, Annonces, Initiatives"
+title: "28630 - MIGNIERES"
 description: "28630 - MIGNIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

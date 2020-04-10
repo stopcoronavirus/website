@@ -1,5 +1,5 @@
 ---
-title: "24560 - PLAISANCE | Entraide, Annonces, Initiatives"
+title: "24560 - PLAISANCE"
 description: "24560 - PLAISANCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

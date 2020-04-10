@@ -1,5 +1,5 @@
 ---
-title: "78450 - CHAVENAY | Entraide, Annonces, Initiatives"
+title: "78450 - CHAVENAY"
 description: "78450 - CHAVENAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

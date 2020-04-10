@@ -1,5 +1,5 @@
 ---
-title: "49460 - ECUILLE | Entraide, Annonces, Initiatives"
+title: "49460 - ECUILLE"
 description: "49460 - ECUILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

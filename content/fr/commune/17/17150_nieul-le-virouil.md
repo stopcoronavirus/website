@@ -1,5 +1,5 @@
 ---
-title: "17150 - NIEUL LE VIROUIL | Entraide, Annonces, Initiatives"
+title: "17150 - NIEUL LE VIROUIL"
 description: "17150 - NIEUL LE VIROUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

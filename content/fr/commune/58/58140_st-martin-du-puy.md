@@ -1,5 +1,5 @@
 ---
-title: "58140 - ST MARTIN DU PUY | Entraide, Annonces, Initiatives"
+title: "58140 - ST MARTIN DU PUY"
 description: "58140 - ST MARTIN DU PUY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

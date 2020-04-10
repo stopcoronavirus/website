@@ -1,5 +1,5 @@
 ---
-title: "49070 - ST LEGER DE LINIERES | Entraide, Annonces, Initiatives"
+title: "49070 - ST LEGER DE LINIERES"
 description: "49070 - ST LEGER DE LINIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

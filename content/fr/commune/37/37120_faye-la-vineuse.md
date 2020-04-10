@@ -1,5 +1,5 @@
 ---
-title: "37120 - FAYE LA VINEUSE | Entraide, Annonces, Initiatives"
+title: "37120 - FAYE LA VINEUSE"
 description: "37120 - FAYE LA VINEUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

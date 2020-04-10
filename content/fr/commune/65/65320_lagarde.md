@@ -1,5 +1,5 @@
 ---
-title: "65320 - LAGARDE | Entraide, Annonces, Initiatives"
+title: "65320 - LAGARDE"
 description: "65320 - LAGARDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

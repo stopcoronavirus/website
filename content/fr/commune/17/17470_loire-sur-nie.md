@@ -1,5 +1,5 @@
 ---
-title: "17470 - LOIRE SUR NIE | Entraide, Annonces, Initiatives"
+title: "17470 - LOIRE SUR NIE"
 description: "17470 - LOIRE SUR NIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

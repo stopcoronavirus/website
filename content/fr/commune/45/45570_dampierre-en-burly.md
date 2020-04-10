@@ -1,5 +1,5 @@
 ---
-title: "45570 - DAMPIERRE EN BURLY | Entraide, Annonces, Initiatives"
+title: "45570 - DAMPIERRE EN BURLY"
 description: "45570 - DAMPIERRE EN BURLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

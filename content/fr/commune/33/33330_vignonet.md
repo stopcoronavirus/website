@@ -1,5 +1,5 @@
 ---
-title: "33330 - VIGNONET | Entraide, Annonces, Initiatives"
+title: "33330 - VIGNONET"
 description: "33330 - VIGNONET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

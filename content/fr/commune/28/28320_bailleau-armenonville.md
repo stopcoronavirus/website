@@ -1,5 +1,5 @@
 ---
-title: "28320 - BAILLEAU ARMENONVILLE | Entraide, Annonces, Initiatives"
+title: "28320 - BAILLEAU ARMENONVILLE"
 description: "28320 - BAILLEAU ARMENONVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

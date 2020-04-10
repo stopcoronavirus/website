@@ -1,5 +1,5 @@
 ---
-title: "78270 - CHAUFOUR LES BONNIERES | Entraide, Annonces, Initiatives"
+title: "78270 - CHAUFOUR LES BONNIERES"
 description: "78270 - CHAUFOUR LES BONNIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59199 - HERGNIES | Entraide, Annonces, Initiatives"
+title: "59199 - HERGNIES"
 description: "59199 - HERGNIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

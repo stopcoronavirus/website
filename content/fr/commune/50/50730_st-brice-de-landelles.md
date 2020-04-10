@@ -1,5 +1,5 @@
 ---
-title: "50730 - ST BRICE DE LANDELLES | Entraide, Annonces, Initiatives"
+title: "50730 - ST BRICE DE LANDELLES"
 description: "50730 - ST BRICE DE LANDELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

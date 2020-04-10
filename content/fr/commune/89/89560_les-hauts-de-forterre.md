@@ -1,5 +1,5 @@
 ---
-title: "89560 - LES HAUTS DE FORTERRE | Entraide, Annonces, Initiatives"
+title: "89560 - LES HAUTS DE FORTERRE"
 description: "89560 - LES HAUTS DE FORTERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

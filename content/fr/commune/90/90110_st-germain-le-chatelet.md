@@ -1,5 +1,5 @@
 ---
-title: "90110 - ST GERMAIN LE CHATELET | Entraide, Annonces, Initiatives"
+title: "90110 - ST GERMAIN LE CHATELET"
 description: "90110 - ST GERMAIN LE CHATELET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

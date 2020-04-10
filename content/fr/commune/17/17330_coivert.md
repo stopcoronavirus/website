@@ -1,5 +1,5 @@
 ---
-title: "17330 - COIVERT | Entraide, Annonces, Initiatives"
+title: "17330 - COIVERT"
 description: "17330 - COIVERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

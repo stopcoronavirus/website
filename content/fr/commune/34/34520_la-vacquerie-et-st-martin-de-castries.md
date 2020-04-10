@@ -1,5 +1,5 @@
 ---
-title: "34520 - LA VACQUERIE ET ST MARTIN DE CASTRIES | Entraide, Annonces, Initiatives"
+title: "34520 - LA VACQUERIE ET ST MARTIN DE CASTRIES"
 description: "34520 - LA VACQUERIE ET ST MARTIN DE CASTRIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

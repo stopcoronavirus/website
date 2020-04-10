@@ -1,5 +1,5 @@
 ---
-title: "43320 - VAZEILLES LIMANDRE | Entraide, Annonces, Initiatives"
+title: "43320 - VAZEILLES LIMANDRE"
 description: "43320 - VAZEILLES LIMANDRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

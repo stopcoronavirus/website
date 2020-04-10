@@ -1,5 +1,5 @@
 ---
-title: "67117 - ITTENHEIM | Entraide, Annonces, Initiatives"
+title: "67117 - ITTENHEIM"
 description: "67117 - ITTENHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

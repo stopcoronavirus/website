@@ -1,5 +1,5 @@
 ---
-title: "10190 - ESTISSAC | Entraide, Annonces, Initiatives"
+title: "10190 - ESTISSAC"
 description: "10190 - ESTISSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "26300 - BESAYES | Entraide, Annonces, Initiatives"
+title: "26300 - BESAYES"
 description: "26300 - BESAYES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

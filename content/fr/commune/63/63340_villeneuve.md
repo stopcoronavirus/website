@@ -1,5 +1,5 @@
 ---
-title: "63340 - VILLENEUVE | Entraide, Annonces, Initiatives"
+title: "63340 - VILLENEUVE"
 description: "63340 - VILLENEUVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "22140 - BERHET | Entraide, Annonces, Initiatives"
+title: "22140 - BERHET"
 description: "22140 - BERHET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "11260 - ST JEAN DE PARACOL | Entraide, Annonces, Initiatives"
+title: "11260 - ST JEAN DE PARACOL"
 description: "11260 - ST JEAN DE PARACOL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

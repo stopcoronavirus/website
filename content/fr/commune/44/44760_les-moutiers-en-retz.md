@@ -1,5 +1,5 @@
 ---
-title: "44760 - LES MOUTIERS EN RETZ | Entraide, Annonces, Initiatives"
+title: "44760 - LES MOUTIERS EN RETZ"
 description: "44760 - LES MOUTIERS EN RETZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

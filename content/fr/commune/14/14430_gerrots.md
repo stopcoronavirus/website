@@ -1,5 +1,5 @@
 ---
-title: "14430 - GERROTS | Entraide, Annonces, Initiatives"
+title: "14430 - GERROTS"
 description: "14430 - GERROTS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

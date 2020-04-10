@@ -1,5 +1,5 @@
 ---
-title: "24270 - ANGOISSE | Entraide, Annonces, Initiatives"
+title: "24270 - ANGOISSE"
 description: "24270 - ANGOISSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

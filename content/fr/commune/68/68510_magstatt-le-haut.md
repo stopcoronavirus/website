@@ -1,5 +1,5 @@
 ---
-title: "68510 - MAGSTATT LE HAUT | Entraide, Annonces, Initiatives"
+title: "68510 - MAGSTATT LE HAUT"
 description: "68510 - MAGSTATT LE HAUT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

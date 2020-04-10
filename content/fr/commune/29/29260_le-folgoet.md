@@ -1,5 +1,5 @@
 ---
-title: "29260 - LE FOLGOET | Entraide, Annonces, Initiatives"
+title: "29260 - LE FOLGOET"
 description: "29260 - LE FOLGOET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

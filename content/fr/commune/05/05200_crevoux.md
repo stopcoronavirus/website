@@ -1,5 +1,5 @@
 ---
-title: "05200 - CREVOUX | Entraide, Annonces, Initiatives"
+title: "05200 - CREVOUX"
 description: "05200 - CREVOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

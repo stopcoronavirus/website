@@ -1,5 +1,5 @@
 ---
-title: "74500 - CHEVENOZ | Entraide, Annonces, Initiatives"
+title: "74500 - CHEVENOZ"
 description: "74500 - CHEVENOZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "83440 - TANNERON | Entraide, Annonces, Initiatives"
+title: "83440 - TANNERON"
 description: "83440 - TANNERON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

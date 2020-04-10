@@ -1,5 +1,5 @@
 ---
-title: "35550 - LIEURON | Entraide, Annonces, Initiatives"
+title: "35550 - LIEURON"
 description: "35550 - LIEURON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

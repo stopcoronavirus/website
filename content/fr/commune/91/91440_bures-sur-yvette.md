@@ -1,5 +1,5 @@
 ---
-title: "91440 - BURES SUR YVETTE | Entraide, Annonces, Initiatives"
+title: "91440 - BURES SUR YVETTE"
 description: "91440 - BURES SUR YVETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "08270 - WASIGNY | Entraide, Annonces, Initiatives"
+title: "08270 - WASIGNY"
 description: "08270 - WASIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

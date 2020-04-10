@@ -1,5 +1,5 @@
 ---
-title: "29000 - QUIMPER | Entraide, Annonces, Initiatives"
+title: "29000 - QUIMPER"
 description: "29000 - QUIMPER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

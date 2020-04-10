@@ -1,5 +1,5 @@
 ---
-title: "42260 - ST MARTIN LA SAUVETE | Entraide, Annonces, Initiatives"
+title: "42260 - ST MARTIN LA SAUVETE"
 description: "42260 - ST MARTIN LA SAUVETE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

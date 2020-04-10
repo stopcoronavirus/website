@@ -1,5 +1,5 @@
 ---
-title: "48000 - BRENOUX | Entraide, Annonces, Initiatives"
+title: "48000 - BRENOUX"
 description: "48000 - BRENOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

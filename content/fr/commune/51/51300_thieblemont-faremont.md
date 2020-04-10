@@ -1,5 +1,5 @@
 ---
-title: "51300 - THIEBLEMONT FAREMONT | Entraide, Annonces, Initiatives"
+title: "51300 - THIEBLEMONT FAREMONT"
 description: "51300 - THIEBLEMONT FAREMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

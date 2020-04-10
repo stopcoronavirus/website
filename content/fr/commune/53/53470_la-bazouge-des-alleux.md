@@ -1,5 +1,5 @@
 ---
-title: "53470 - LA BAZOUGE DES ALLEUX | Entraide, Annonces, Initiatives"
+title: "53470 - LA BAZOUGE DES ALLEUX"
 description: "53470 - LA BAZOUGE DES ALLEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

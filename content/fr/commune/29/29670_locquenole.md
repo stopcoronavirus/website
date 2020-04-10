@@ -1,5 +1,5 @@
 ---
-title: "29670 - LOCQUENOLE | Entraide, Annonces, Initiatives"
+title: "29670 - LOCQUENOLE"
 description: "29670 - LOCQUENOLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

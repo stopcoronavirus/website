@@ -1,5 +1,5 @@
 ---
-title: "19490 - STE FORTUNADE | Entraide, Annonces, Initiatives"
+title: "19490 - STE FORTUNADE"
 description: "19490 - STE FORTUNADE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

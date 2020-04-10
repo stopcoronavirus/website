@@ -1,5 +1,5 @@
 ---
-title: "63120 - SERMENTIZON | Entraide, Annonces, Initiatives"
+title: "63120 - SERMENTIZON"
 description: "63120 - SERMENTIZON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

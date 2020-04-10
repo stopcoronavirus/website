@@ -1,5 +1,5 @@
 ---
-title: "78810 - FEUCHEROLLES | Entraide, Annonces, Initiatives"
+title: "78810 - FEUCHEROLLES"
 description: "78810 - FEUCHEROLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

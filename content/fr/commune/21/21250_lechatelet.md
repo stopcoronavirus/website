@@ -1,5 +1,5 @@
 ---
-title: "21250 - LECHATELET | Entraide, Annonces, Initiatives"
+title: "21250 - LECHATELET"
 description: "21250 - LECHATELET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

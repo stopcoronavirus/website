@@ -1,5 +1,5 @@
 ---
-title: "72650 - LA CHAPELLE ST AUBIN | Entraide, Annonces, Initiatives"
+title: "72650 - LA CHAPELLE ST AUBIN"
 description: "72650 - LA CHAPELLE ST AUBIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

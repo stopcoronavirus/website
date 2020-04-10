@@ -1,5 +1,5 @@
 ---
-title: "03380 - LA CHAPELAUDE | Entraide, Annonces, Initiatives"
+title: "03380 - LA CHAPELAUDE"
 description: "03380 - LA CHAPELAUDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

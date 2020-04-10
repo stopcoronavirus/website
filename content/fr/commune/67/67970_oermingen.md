@@ -1,5 +1,5 @@
 ---
-title: "67970 - OERMINGEN | Entraide, Annonces, Initiatives"
+title: "67970 - OERMINGEN"
 description: "67970 - OERMINGEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

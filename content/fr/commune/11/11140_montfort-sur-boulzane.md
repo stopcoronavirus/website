@@ -1,5 +1,5 @@
 ---
-title: "11140 - MONTFORT SUR BOULZANE | Entraide, Annonces, Initiatives"
+title: "11140 - MONTFORT SUR BOULZANE"
 description: "11140 - MONTFORT SUR BOULZANE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

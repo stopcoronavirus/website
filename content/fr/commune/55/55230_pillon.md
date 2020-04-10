@@ -1,5 +1,5 @@
 ---
-title: "55230 - PILLON | Entraide, Annonces, Initiatives"
+title: "55230 - PILLON"
 description: "55230 - PILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

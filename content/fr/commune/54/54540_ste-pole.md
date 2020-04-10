@@ -1,5 +1,5 @@
 ---
-title: "54540 - STE POLE | Entraide, Annonces, Initiatives"
+title: "54540 - STE POLE"
 description: "54540 - STE POLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

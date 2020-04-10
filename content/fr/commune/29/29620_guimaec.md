@@ -1,5 +1,5 @@
 ---
-title: "29620 - GUIMAEC | Entraide, Annonces, Initiatives"
+title: "29620 - GUIMAEC"
 description: "29620 - GUIMAEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

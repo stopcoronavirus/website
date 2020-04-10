@@ -1,5 +1,5 @@
 ---
-title: "63122 - CEYRAT | Entraide, Annonces, Initiatives"
+title: "63122 - CEYRAT"
 description: "63122 - CEYRAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

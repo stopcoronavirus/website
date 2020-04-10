@@ -1,5 +1,5 @@
 ---
-title: "24230 - ST ANTOINE DE BREUILH | Entraide, Annonces, Initiatives"
+title: "24230 - ST ANTOINE DE BREUILH"
 description: "24230 - ST ANTOINE DE BREUILH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

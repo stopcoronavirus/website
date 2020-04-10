@@ -1,5 +1,5 @@
 ---
-title: "92410 - VILLE D AVRAY | Entraide, Annonces, Initiatives"
+title: "92410 - VILLE D AVRAY"
 description: "92410 - VILLE D AVRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

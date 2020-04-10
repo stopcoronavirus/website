@@ -1,5 +1,5 @@
 ---
-title: "63590 - LA CHAPELLE AGNON | Entraide, Annonces, Initiatives"
+title: "63590 - LA CHAPELLE AGNON"
 description: "63590 - LA CHAPELLE AGNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

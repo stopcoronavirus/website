@@ -1,5 +1,5 @@
 ---
-title: "57140 - NORROY LE VENEUR | Entraide, Annonces, Initiatives"
+title: "57140 - NORROY LE VENEUR"
 description: "57140 - NORROY LE VENEUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

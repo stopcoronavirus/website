@@ -1,5 +1,5 @@
 ---
-title: "74300 - CHATILLON SUR CLUSES | Entraide, Annonces, Initiatives"
+title: "74300 - CHATILLON SUR CLUSES"
 description: "74300 - CHATILLON SUR CLUSES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "87360 - AZAT LE RIS | Entraide, Annonces, Initiatives"
+title: "87360 - AZAT LE RIS"
 description: "87360 - AZAT LE RIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

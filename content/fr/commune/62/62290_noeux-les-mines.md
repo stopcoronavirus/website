@@ -1,5 +1,5 @@
 ---
-title: "62290 - NOEUX LES MINES | Entraide, Annonces, Initiatives"
+title: "62290 - NOEUX LES MINES"
 description: "62290 - NOEUX LES MINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

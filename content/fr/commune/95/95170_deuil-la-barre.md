@@ -1,5 +1,5 @@
 ---
-title: "95170 - DEUIL LA BARRE | Entraide, Annonces, Initiatives"
+title: "95170 - DEUIL LA BARRE"
 description: "95170 - DEUIL LA BARRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

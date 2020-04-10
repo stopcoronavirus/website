@@ -1,5 +1,5 @@
 ---
-title: "24610 - CARSAC DE GURSON | Entraide, Annonces, Initiatives"
+title: "24610 - CARSAC DE GURSON"
 description: "24610 - CARSAC DE GURSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

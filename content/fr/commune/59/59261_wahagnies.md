@@ -1,5 +1,5 @@
 ---
-title: "59261 - WAHAGNIES | Entraide, Annonces, Initiatives"
+title: "59261 - WAHAGNIES"
 description: "59261 - WAHAGNIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

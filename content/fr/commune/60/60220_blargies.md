@@ -1,5 +1,5 @@
 ---
-title: "60220 - BLARGIES | Entraide, Annonces, Initiatives"
+title: "60220 - BLARGIES"
 description: "60220 - BLARGIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

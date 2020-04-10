@@ -1,5 +1,5 @@
 ---
-title: "76280 - GONNEVILLE LA MALLET | Entraide, Annonces, Initiatives"
+title: "76280 - GONNEVILLE LA MALLET"
 description: "76280 - GONNEVILLE LA MALLET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

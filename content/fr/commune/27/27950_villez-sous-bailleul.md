@@ -1,5 +1,5 @@
 ---
-title: "27950 - VILLEZ SOUS BAILLEUL | Entraide, Annonces, Initiatives"
+title: "27950 - VILLEZ SOUS BAILLEUL"
 description: "27950 - VILLEZ SOUS BAILLEUL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

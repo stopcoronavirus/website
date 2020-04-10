@@ -1,5 +1,5 @@
 ---
-title: "73870 - MONTRICHER ALBANNE | Entraide, Annonces, Initiatives"
+title: "73870 - MONTRICHER ALBANNE"
 description: "73870 - MONTRICHER ALBANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

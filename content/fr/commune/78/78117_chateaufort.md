@@ -1,5 +1,5 @@
 ---
-title: "78117 - CHATEAUFORT | Entraide, Annonces, Initiatives"
+title: "78117 - CHATEAUFORT"
 description: "78117 - CHATEAUFORT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

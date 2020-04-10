@@ -1,5 +1,5 @@
 ---
-title: "16300 - ANGEDUC | Entraide, Annonces, Initiatives"
+title: "16300 - ANGEDUC"
 description: "16300 - ANGEDUC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

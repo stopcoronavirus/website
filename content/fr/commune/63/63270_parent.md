@@ -1,5 +1,5 @@
 ---
-title: "63270 - PARENT | Entraide, Annonces, Initiatives"
+title: "63270 - PARENT"
 description: "63270 - PARENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "03370 - COURCAIS | Entraide, Annonces, Initiatives"
+title: "03370 - COURCAIS"
 description: "03370 - COURCAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "95400 - VILLIERS LE BEL | Entraide, Annonces, Initiatives"
+title: "95400 - VILLIERS LE BEL"
 description: "95400 - VILLIERS LE BEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

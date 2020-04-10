@@ -1,5 +1,5 @@
 ---
-title: "33340 - BLAIGNAN PRIGNAC | Entraide, Annonces, Initiatives"
+title: "33340 - BLAIGNAN PRIGNAC"
 description: "33340 - BLAIGNAN PRIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

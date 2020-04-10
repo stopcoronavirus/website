@@ -1,5 +1,5 @@
 ---
-title: "23100 - FENIERS | Entraide, Annonces, Initiatives"
+title: "23100 - FENIERS"
 description: "23100 - FENIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

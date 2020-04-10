@@ -1,5 +1,5 @@
 ---
-title: "67420 - RANRUPT | Entraide, Annonces, Initiatives"
+title: "67420 - RANRUPT"
 description: "67420 - RANRUPT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "25530 - CHEVIGNEY LES VERCEL | Entraide, Annonces, Initiatives"
+title: "25530 - CHEVIGNEY LES VERCEL"
 description: "25530 - CHEVIGNEY LES VERCEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "47410 - SEGALAS | Entraide, Annonces, Initiatives"
+title: "47410 - SEGALAS"
 description: "47410 - SEGALAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

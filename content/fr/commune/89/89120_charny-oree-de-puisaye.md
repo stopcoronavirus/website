@@ -1,5 +1,5 @@
 ---
-title: "89120 - CHARNY OREE DE PUISAYE | Entraide, Annonces, Initiatives"
+title: "89120 - CHARNY OREE DE PUISAYE"
 description: "89120 - CHARNY OREE DE PUISAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

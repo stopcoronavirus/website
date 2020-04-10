@@ -1,5 +1,5 @@
 ---
-title: "27120 - DOUAINS | Entraide, Annonces, Initiatives"
+title: "27120 - DOUAINS"
 description: "27120 - DOUAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

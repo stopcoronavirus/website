@@ -1,5 +1,5 @@
 ---
-title: "61240 - ST GERMAIN DE CLAIREFEUILLE | Entraide, Annonces, Initiatives"
+title: "61240 - ST GERMAIN DE CLAIREFEUILLE"
 description: "61240 - ST GERMAIN DE CLAIREFEUILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

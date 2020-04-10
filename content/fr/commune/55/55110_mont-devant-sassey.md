@@ -1,5 +1,5 @@
 ---
-title: "55110 - MONT DEVANT SASSEY | Entraide, Annonces, Initiatives"
+title: "55110 - MONT DEVANT SASSEY"
 description: "55110 - MONT DEVANT SASSEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

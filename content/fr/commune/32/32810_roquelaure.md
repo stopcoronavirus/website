@@ -1,5 +1,5 @@
 ---
-title: "32810 - ROQUELAURE | Entraide, Annonces, Initiatives"
+title: "32810 - ROQUELAURE"
 description: "32810 - ROQUELAURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

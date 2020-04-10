@@ -1,5 +1,5 @@
 ---
-title: "59249 - FROMELLES | Entraide, Annonces, Initiatives"
+title: "59249 - FROMELLES"
 description: "59249 - FROMELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

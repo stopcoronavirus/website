@@ -1,5 +1,5 @@
 ---
-title: "02140 - BRAYE EN THIERACHE | Entraide, Annonces, Initiatives"
+title: "02140 - BRAYE EN THIERACHE"
 description: "02140 - BRAYE EN THIERACHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

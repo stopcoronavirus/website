@@ -1,5 +1,5 @@
 ---
-title: "38350 - ST MICHEL EN BEAUMONT | Entraide, Annonces, Initiatives"
+title: "38350 - ST MICHEL EN BEAUMONT"
 description: "38350 - ST MICHEL EN BEAUMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "90100 - THIANCOURT | Entraide, Annonces, Initiatives"
+title: "90100 - THIANCOURT"
 description: "90100 - THIANCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39330 - PAGNOZ | Entraide, Annonces, Initiatives"
+title: "39330 - PAGNOZ"
 description: "39330 - PAGNOZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

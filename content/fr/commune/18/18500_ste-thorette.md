@@ -1,5 +1,5 @@
 ---
-title: "18500 - STE THORETTE | Entraide, Annonces, Initiatives"
+title: "18500 - STE THORETTE"
 description: "18500 - STE THORETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "56120 - LA CROIX HELLEAN | Entraide, Annonces, Initiatives"
+title: "56120 - LA CROIX HELLEAN"
 description: "56120 - LA CROIX HELLEAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

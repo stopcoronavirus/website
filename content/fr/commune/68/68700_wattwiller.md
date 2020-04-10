@@ -1,5 +1,5 @@
 ---
-title: "68700 - WATTWILLER | Entraide, Annonces, Initiatives"
+title: "68700 - WATTWILLER"
 description: "68700 - WATTWILLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "21510 - ST GERMAIN LE ROCHEUX | Entraide, Annonces, Initiatives"
+title: "21510 - ST GERMAIN LE ROCHEUX"
 description: "21510 - ST GERMAIN LE ROCHEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

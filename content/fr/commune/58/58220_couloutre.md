@@ -1,5 +1,5 @@
 ---
-title: "58220 - COULOUTRE | Entraide, Annonces, Initiatives"
+title: "58220 - COULOUTRE"
 description: "58220 - COULOUTRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

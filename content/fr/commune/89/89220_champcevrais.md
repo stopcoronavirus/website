@@ -1,5 +1,5 @@
 ---
-title: "89220 - CHAMPCEVRAIS | Entraide, Annonces, Initiatives"
+title: "89220 - CHAMPCEVRAIS"
 description: "89220 - CHAMPCEVRAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

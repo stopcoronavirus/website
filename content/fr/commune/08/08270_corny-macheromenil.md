@@ -1,5 +1,5 @@
 ---
-title: "08270 - CORNY MACHEROMENIL | Entraide, Annonces, Initiatives"
+title: "08270 - CORNY MACHEROMENIL"
 description: "08270 - CORNY MACHEROMENIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

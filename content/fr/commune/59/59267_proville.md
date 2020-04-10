@@ -1,5 +1,5 @@
 ---
-title: "59267 - PROVILLE | Entraide, Annonces, Initiatives"
+title: "59267 - PROVILLE"
 description: "59267 - PROVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

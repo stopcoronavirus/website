@@ -1,5 +1,5 @@
 ---
-title: "81260 - FONTRIEU | Entraide, Annonces, Initiatives"
+title: "81260 - FONTRIEU"
 description: "81260 - FONTRIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

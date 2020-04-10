@@ -1,5 +1,5 @@
 ---
-title: "59286 - ROOST WARENDIN | Entraide, Annonces, Initiatives"
+title: "59286 - ROOST WARENDIN"
 description: "59286 - ROOST WARENDIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

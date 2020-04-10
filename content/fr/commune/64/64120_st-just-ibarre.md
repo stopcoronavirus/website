@@ -1,5 +1,5 @@
 ---
-title: "64120 - ST JUST IBARRE | Entraide, Annonces, Initiatives"
+title: "64120 - ST JUST IBARRE"
 description: "64120 - ST JUST IBARRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

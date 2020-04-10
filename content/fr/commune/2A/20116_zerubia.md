@@ -1,5 +1,5 @@
 ---
-title: "20116 - ZERUBIA | Entraide, Annonces, Initiatives"
+title: "20116 - ZERUBIA"
 description: "20116 - ZERUBIA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

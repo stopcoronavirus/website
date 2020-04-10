@@ -1,5 +1,5 @@
 ---
-title: "28120 - ERMENONVILLE LA PETITE | Entraide, Annonces, Initiatives"
+title: "28120 - ERMENONVILLE LA PETITE"
 description: "28120 - ERMENONVILLE LA PETITE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

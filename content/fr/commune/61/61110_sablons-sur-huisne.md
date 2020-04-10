@@ -1,5 +1,5 @@
 ---
-title: "61110 - SABLONS SUR HUISNE | Entraide, Annonces, Initiatives"
+title: "61110 - SABLONS SUR HUISNE"
 description: "61110 - SABLONS SUR HUISNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

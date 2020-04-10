@@ -1,5 +1,5 @@
 ---
-title: "80680 - RUMIGNY | Entraide, Annonces, Initiatives"
+title: "80680 - RUMIGNY"
 description: "80680 - RUMIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

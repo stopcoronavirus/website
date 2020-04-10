@@ -1,5 +1,5 @@
 ---
-title: "07450 - SAGNES ET GOUDOULET | Entraide, Annonces, Initiatives"
+title: "07450 - SAGNES ET GOUDOULET"
 description: "07450 - SAGNES ET GOUDOULET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

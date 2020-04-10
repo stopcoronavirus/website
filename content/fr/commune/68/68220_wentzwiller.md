@@ -1,5 +1,5 @@
 ---
-title: "68220 - WENTZWILLER | Entraide, Annonces, Initiatives"
+title: "68220 - WENTZWILLER"
 description: "68220 - WENTZWILLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

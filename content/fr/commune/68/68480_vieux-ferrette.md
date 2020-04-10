@@ -1,5 +1,5 @@
 ---
-title: "68480 - VIEUX FERRETTE | Entraide, Annonces, Initiatives"
+title: "68480 - VIEUX FERRETTE"
 description: "68480 - VIEUX FERRETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

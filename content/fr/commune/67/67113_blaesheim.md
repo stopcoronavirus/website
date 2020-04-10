@@ -1,5 +1,5 @@
 ---
-title: "67113 - BLAESHEIM | Entraide, Annonces, Initiatives"
+title: "67113 - BLAESHEIM"
 description: "67113 - BLAESHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

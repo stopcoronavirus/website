@@ -1,5 +1,5 @@
 ---
-title: "24250 - VEYRINES DE DOMME | Entraide, Annonces, Initiatives"
+title: "24250 - VEYRINES DE DOMME"
 description: "24250 - VEYRINES DE DOMME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

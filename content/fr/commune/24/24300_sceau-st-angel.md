@@ -1,5 +1,5 @@
 ---
-title: "24300 - SCEAU ST ANGEL | Entraide, Annonces, Initiatives"
+title: "24300 - SCEAU ST ANGEL"
 description: "24300 - SCEAU ST ANGEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

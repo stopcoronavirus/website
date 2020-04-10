@@ -1,5 +1,5 @@
 ---
-title: "17110 - ST GEORGES DE DIDONNE | Entraide, Annonces, Initiatives"
+title: "17110 - ST GEORGES DE DIDONNE"
 description: "17110 - ST GEORGES DE DIDONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

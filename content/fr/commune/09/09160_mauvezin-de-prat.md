@@ -1,5 +1,5 @@
 ---
-title: "09160 - MAUVEZIN DE PRAT | Entraide, Annonces, Initiatives"
+title: "09160 - MAUVEZIN DE PRAT"
 description: "09160 - MAUVEZIN DE PRAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

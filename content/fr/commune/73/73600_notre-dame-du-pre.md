@@ -1,5 +1,5 @@
 ---
-title: "73600 - NOTRE DAME DU PRE | Entraide, Annonces, Initiatives"
+title: "73600 - NOTRE DAME DU PRE"
 description: "73600 - NOTRE DAME DU PRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

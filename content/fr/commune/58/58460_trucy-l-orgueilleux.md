@@ -1,5 +1,5 @@
 ---
-title: "58460 - TRUCY L ORGUEILLEUX | Entraide, Annonces, Initiatives"
+title: "58460 - TRUCY L ORGUEILLEUX"
 description: "58460 - TRUCY L ORGUEILLEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

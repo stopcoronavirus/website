@@ -1,5 +1,5 @@
 ---
-title: "72380 - SOUILLE | Entraide, Annonces, Initiatives"
+title: "72380 - SOUILLE"
 description: "72380 - SOUILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

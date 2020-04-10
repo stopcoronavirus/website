@@ -1,5 +1,5 @@
 ---
-title: "70120 - LAVIGNEY | Entraide, Annonces, Initiatives"
+title: "70120 - LAVIGNEY"
 description: "70120 - LAVIGNEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

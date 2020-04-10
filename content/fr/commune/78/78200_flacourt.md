@@ -1,5 +1,5 @@
 ---
-title: "78200 - FLACOURT | Entraide, Annonces, Initiatives"
+title: "78200 - FLACOURT"
 description: "78200 - FLACOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

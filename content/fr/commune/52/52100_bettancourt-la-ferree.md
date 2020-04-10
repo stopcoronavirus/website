@@ -1,5 +1,5 @@
 ---
-title: "52100 - BETTANCOURT LA FERREE | Entraide, Annonces, Initiatives"
+title: "52100 - BETTANCOURT LA FERREE"
 description: "52100 - BETTANCOURT LA FERREE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13510 - EGUILLES | Entraide, Annonces, Initiatives"
+title: "13510 - EGUILLES"
 description: "13510 - EGUILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "61560 - ST AUBIN DE COURTERAIE | Entraide, Annonces, Initiatives"
+title: "61560 - ST AUBIN DE COURTERAIE"
 description: "61560 - ST AUBIN DE COURTERAIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

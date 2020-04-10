@@ -1,5 +1,5 @@
 ---
-title: "14800 - VAUVILLE | Entraide, Annonces, Initiatives"
+title: "14800 - VAUVILLE"
 description: "14800 - VAUVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

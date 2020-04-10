@@ -1,5 +1,5 @@
 ---
-title: "93310 - LE PRE ST GERVAIS | Entraide, Annonces, Initiatives"
+title: "93310 - LE PRE ST GERVAIS"
 description: "93310 - LE PRE ST GERVAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

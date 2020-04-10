@@ -1,5 +1,5 @@
 ---
-title: "29410 - PLOUNEOUR MENEZ | Entraide, Annonces, Initiatives"
+title: "29410 - PLOUNEOUR MENEZ"
 description: "29410 - PLOUNEOUR MENEZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

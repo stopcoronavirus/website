@@ -1,5 +1,5 @@
 ---
-title: "45510 - NEUVY EN SULLIAS | Entraide, Annonces, Initiatives"
+title: "45510 - NEUVY EN SULLIAS"
 description: "45510 - NEUVY EN SULLIAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

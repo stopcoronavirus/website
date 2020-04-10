@@ -1,5 +1,5 @@
 ---
-title: "78310 - COIGNIERES | Entraide, Annonces, Initiatives"
+title: "78310 - COIGNIERES"
 description: "78310 - COIGNIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

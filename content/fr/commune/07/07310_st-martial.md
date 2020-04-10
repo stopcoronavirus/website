@@ -1,5 +1,5 @@
 ---
-title: "07310 - ST MARTIAL | Entraide, Annonces, Initiatives"
+title: "07310 - ST MARTIAL"
 description: "07310 - ST MARTIAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

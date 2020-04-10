@@ -1,5 +1,5 @@
 ---
-title: "59290 - WASQUEHAL | Entraide, Annonces, Initiatives"
+title: "59290 - WASQUEHAL"
 description: "59290 - WASQUEHAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "17130 - MESSAC | Entraide, Annonces, Initiatives"
+title: "17130 - MESSAC"
 description: "17130 - MESSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

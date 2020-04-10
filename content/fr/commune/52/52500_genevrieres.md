@@ -1,5 +1,5 @@
 ---
-title: "52500 - GENEVRIERES | Entraide, Annonces, Initiatives"
+title: "52500 - GENEVRIERES"
 description: "52500 - GENEVRIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

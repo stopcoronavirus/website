@@ -1,5 +1,5 @@
 ---
-title: "86190 - CHIRE EN MONTREUIL | Entraide, Annonces, Initiatives"
+title: "86190 - CHIRE EN MONTREUIL"
 description: "86190 - CHIRE EN MONTREUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

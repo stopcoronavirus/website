@@ -1,5 +1,5 @@
 ---
-title: "27300 - ST LEGER DE ROTES | Entraide, Annonces, Initiatives"
+title: "27300 - ST LEGER DE ROTES"
 description: "27300 - ST LEGER DE ROTES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

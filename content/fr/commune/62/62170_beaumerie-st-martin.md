@@ -1,5 +1,5 @@
 ---
-title: "62170 - BEAUMERIE ST MARTIN | Entraide, Annonces, Initiatives"
+title: "62170 - BEAUMERIE ST MARTIN"
 description: "62170 - BEAUMERIE ST MARTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

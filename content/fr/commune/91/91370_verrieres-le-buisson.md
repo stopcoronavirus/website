@@ -1,5 +1,5 @@
 ---
-title: "91370 - VERRIERES LE BUISSON | Entraide, Annonces, Initiatives"
+title: "91370 - VERRIERES LE BUISSON"
 description: "91370 - VERRIERES LE BUISSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

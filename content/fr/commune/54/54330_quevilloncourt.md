@@ -1,5 +1,5 @@
 ---
-title: "54330 - QUEVILLONCOURT | Entraide, Annonces, Initiatives"
+title: "54330 - QUEVILLONCOURT"
 description: "54330 - QUEVILLONCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

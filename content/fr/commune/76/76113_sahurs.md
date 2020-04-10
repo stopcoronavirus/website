@@ -1,5 +1,5 @@
 ---
-title: "76113 - SAHURS | Entraide, Annonces, Initiatives"
+title: "76113 - SAHURS"
 description: "76113 - SAHURS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

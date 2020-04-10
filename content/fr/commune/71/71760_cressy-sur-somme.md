@@ -1,5 +1,5 @@
 ---
-title: "71760 - CRESSY SUR SOMME | Entraide, Annonces, Initiatives"
+title: "71760 - CRESSY SUR SOMME"
 description: "71760 - CRESSY SUR SOMME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

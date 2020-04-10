@@ -1,5 +1,5 @@
 ---
-title: "61440 - ECHALOU | Entraide, Annonces, Initiatives"
+title: "61440 - ECHALOU"
 description: "61440 - ECHALOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

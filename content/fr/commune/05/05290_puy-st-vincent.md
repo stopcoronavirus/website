@@ -1,5 +1,5 @@
 ---
-title: "05290 - PUY ST VINCENT | Entraide, Annonces, Initiatives"
+title: "05290 - PUY ST VINCENT"
 description: "05290 - PUY ST VINCENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

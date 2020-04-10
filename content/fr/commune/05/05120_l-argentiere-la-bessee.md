@@ -1,5 +1,5 @@
 ---
-title: "05120 - L ARGENTIERE LA BESSEE | Entraide, Annonces, Initiatives"
+title: "05120 - L ARGENTIERE LA BESSEE"
 description: "05120 - L ARGENTIERE LA BESSEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

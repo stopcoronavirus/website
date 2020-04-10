@@ -1,5 +1,5 @@
 ---
-title: "85210 - ST ETIENNE DE BRILLOUET | Entraide, Annonces, Initiatives"
+title: "85210 - ST ETIENNE DE BRILLOUET"
 description: "85210 - ST ETIENNE DE BRILLOUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

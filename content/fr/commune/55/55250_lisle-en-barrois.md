@@ -1,5 +1,5 @@
 ---
-title: "55250 - LISLE EN BARROIS | Entraide, Annonces, Initiatives"
+title: "55250 - LISLE EN BARROIS"
 description: "55250 - LISLE EN BARROIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

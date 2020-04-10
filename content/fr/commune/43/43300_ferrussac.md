@@ -1,5 +1,5 @@
 ---
-title: "43300 - FERRUSSAC | Entraide, Annonces, Initiatives"
+title: "43300 - FERRUSSAC"
 description: "43300 - FERRUSSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

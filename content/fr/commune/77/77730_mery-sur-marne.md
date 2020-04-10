@@ -1,5 +1,5 @@
 ---
-title: "77730 - MERY SUR MARNE | Entraide, Annonces, Initiatives"
+title: "77730 - MERY SUR MARNE"
 description: "77730 - MERY SUR MARNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

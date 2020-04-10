@@ -1,5 +1,5 @@
 ---
-title: "17150 - SEMOUSSAC | Entraide, Annonces, Initiatives"
+title: "17150 - SEMOUSSAC"
 description: "17150 - SEMOUSSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "33460 - MARGAUX CANTENAC | Entraide, Annonces, Initiatives"
+title: "33460 - MARGAUX CANTENAC"
 description: "33460 - MARGAUX CANTENAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

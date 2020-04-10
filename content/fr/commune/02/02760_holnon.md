@@ -1,5 +1,5 @@
 ---
-title: "02760 - HOLNON | Entraide, Annonces, Initiatives"
+title: "02760 - HOLNON"
 description: "02760 - HOLNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "30220 - ST LAURENT D AIGOUZE | Entraide, Annonces, Initiatives"
+title: "30220 - ST LAURENT D AIGOUZE"
 description: "30220 - ST LAURENT D AIGOUZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

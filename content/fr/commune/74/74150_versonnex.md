@@ -1,5 +1,5 @@
 ---
-title: "74150 - VERSONNEX | Entraide, Annonces, Initiatives"
+title: "74150 - VERSONNEX"
 description: "74150 - VERSONNEX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

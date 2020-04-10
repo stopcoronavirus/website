@@ -1,5 +1,5 @@
 ---
-title: "38460 - CREMIEU | Entraide, Annonces, Initiatives"
+title: "38460 - CREMIEU"
 description: "38460 - CREMIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

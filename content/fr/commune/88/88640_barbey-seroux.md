@@ -1,5 +1,5 @@
 ---
-title: "88640 - BARBEY SEROUX | Entraide, Annonces, Initiatives"
+title: "88640 - BARBEY SEROUX"
 description: "88640 - BARBEY SEROUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

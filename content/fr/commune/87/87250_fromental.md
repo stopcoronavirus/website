@@ -1,5 +1,5 @@
 ---
-title: "87250 - FROMENTAL | Entraide, Annonces, Initiatives"
+title: "87250 - FROMENTAL"
 description: "87250 - FROMENTAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

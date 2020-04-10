@@ -1,5 +1,5 @@
 ---
-title: "06330 - ROQUEFORT LES PINS | Entraide, Annonces, Initiatives"
+title: "06330 - ROQUEFORT LES PINS"
 description: "06330 - ROQUEFORT LES PINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

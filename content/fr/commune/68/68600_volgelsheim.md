@@ -1,5 +1,5 @@
 ---
-title: "68600 - VOLGELSHEIM | Entraide, Annonces, Initiatives"
+title: "68600 - VOLGELSHEIM"
 description: "68600 - VOLGELSHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

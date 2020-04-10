@@ -1,5 +1,5 @@
 ---
-title: "22830 - PLOUASNE | Entraide, Annonces, Initiatives"
+title: "22830 - PLOUASNE"
 description: "22830 - PLOUASNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

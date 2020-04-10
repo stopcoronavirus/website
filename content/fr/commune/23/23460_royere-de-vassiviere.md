@@ -1,5 +1,5 @@
 ---
-title: "23460 - ROYERE DE VASSIVIERE | Entraide, Annonces, Initiatives"
+title: "23460 - ROYERE DE VASSIVIERE"
 description: "23460 - ROYERE DE VASSIVIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

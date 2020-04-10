@@ -1,5 +1,5 @@
 ---
-title: "78700 - CONFLANS STE HONORINE | Entraide, Annonces, Initiatives"
+title: "78700 - CONFLANS STE HONORINE"
 description: "78700 - CONFLANS STE HONORINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

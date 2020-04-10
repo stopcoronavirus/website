@@ -1,5 +1,5 @@
 ---
-title: "24460 - ST FRONT D ALEMPS | Entraide, Annonces, Initiatives"
+title: "24460 - ST FRONT D ALEMPS"
 description: "24460 - ST FRONT D ALEMPS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

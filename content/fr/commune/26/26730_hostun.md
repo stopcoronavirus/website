@@ -1,5 +1,5 @@
 ---
-title: "26730 - HOSTUN | Entraide, Annonces, Initiatives"
+title: "26730 - HOSTUN"
 description: "26730 - HOSTUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "46320 - DURBANS | Entraide, Annonces, Initiatives"
+title: "46320 - DURBANS"
 description: "46320 - DURBANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

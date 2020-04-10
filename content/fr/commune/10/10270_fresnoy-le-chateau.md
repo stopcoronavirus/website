@@ -1,5 +1,5 @@
 ---
-title: "10270 - FRESNOY LE CHATEAU | Entraide, Annonces, Initiatives"
+title: "10270 - FRESNOY LE CHATEAU"
 description: "10270 - FRESNOY LE CHATEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

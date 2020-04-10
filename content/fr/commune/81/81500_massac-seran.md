@@ -1,5 +1,5 @@
 ---
-title: "81500 - MASSAC SERAN | Entraide, Annonces, Initiatives"
+title: "81500 - MASSAC SERAN"
 description: "81500 - MASSAC SERAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

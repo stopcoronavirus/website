@@ -1,5 +1,5 @@
 ---
-title: "30200 - ST LAURENT DE CARNOLS | Entraide, Annonces, Initiatives"
+title: "30200 - ST LAURENT DE CARNOLS"
 description: "30200 - ST LAURENT DE CARNOLS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

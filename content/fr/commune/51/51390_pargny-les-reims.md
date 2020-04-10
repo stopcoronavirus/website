@@ -1,5 +1,5 @@
 ---
-title: "51390 - PARGNY LES REIMS | Entraide, Annonces, Initiatives"
+title: "51390 - PARGNY LES REIMS"
 description: "51390 - PARGNY LES REIMS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

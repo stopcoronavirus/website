@@ -1,5 +1,5 @@
 ---
-title: "38590 - ST GEOIRS | Entraide, Annonces, Initiatives"
+title: "38590 - ST GEOIRS"
 description: "38590 - ST GEOIRS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

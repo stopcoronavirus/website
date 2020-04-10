@@ -1,5 +1,5 @@
 ---
-title: "82290 - MEAUZAC | Entraide, Annonces, Initiatives"
+title: "82290 - MEAUZAC"
 description: "82290 - MEAUZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

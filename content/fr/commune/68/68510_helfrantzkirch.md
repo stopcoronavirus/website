@@ -1,5 +1,5 @@
 ---
-title: "68510 - HELFRANTZKIRCH | Entraide, Annonces, Initiatives"
+title: "68510 - HELFRANTZKIRCH"
 description: "68510 - HELFRANTZKIRCH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "03160 - ST LEOPARDIN D AUGY | Entraide, Annonces, Initiatives"
+title: "03160 - ST LEOPARDIN D AUGY"
 description: "03160 - ST LEOPARDIN D AUGY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

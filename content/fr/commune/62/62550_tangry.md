@@ -1,5 +1,5 @@
 ---
-title: "62550 - TANGRY | Entraide, Annonces, Initiatives"
+title: "62550 - TANGRY"
 description: "62550 - TANGRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

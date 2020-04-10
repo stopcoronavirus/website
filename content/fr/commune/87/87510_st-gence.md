@@ -1,5 +1,5 @@
 ---
-title: "87510 - ST GENCE | Entraide, Annonces, Initiatives"
+title: "87510 - ST GENCE"
 description: "87510 - ST GENCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

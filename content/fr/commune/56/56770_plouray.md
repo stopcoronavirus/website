@@ -1,5 +1,5 @@
 ---
-title: "56770 - PLOURAY | Entraide, Annonces, Initiatives"
+title: "56770 - PLOURAY"
 description: "56770 - PLOURAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

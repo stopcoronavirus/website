@@ -1,5 +1,5 @@
 ---
-title: "07410 - ST FELICIEN | Entraide, Annonces, Initiatives"
+title: "07410 - ST FELICIEN"
 description: "07410 - ST FELICIEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

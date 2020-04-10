@@ -1,5 +1,5 @@
 ---
-title: "02320 - ANIZY LE GRAND | Entraide, Annonces, Initiatives"
+title: "02320 - ANIZY LE GRAND"
 description: "02320 - ANIZY LE GRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

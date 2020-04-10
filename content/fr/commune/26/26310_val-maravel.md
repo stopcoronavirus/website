@@ -1,5 +1,5 @@
 ---
-title: "26310 - VAL MARAVEL | Entraide, Annonces, Initiatives"
+title: "26310 - VAL MARAVEL"
 description: "26310 - VAL MARAVEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

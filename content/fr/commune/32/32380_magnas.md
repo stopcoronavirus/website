@@ -1,5 +1,5 @@
 ---
-title: "32380 - MAGNAS | Entraide, Annonces, Initiatives"
+title: "32380 - MAGNAS"
 description: "32380 - MAGNAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

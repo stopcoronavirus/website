@@ -1,5 +1,5 @@
 ---
-title: "32190 - ST PAUL DE BAISE | Entraide, Annonces, Initiatives"
+title: "32190 - ST PAUL DE BAISE"
 description: "32190 - ST PAUL DE BAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

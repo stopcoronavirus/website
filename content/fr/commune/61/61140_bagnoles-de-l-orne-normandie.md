@@ -1,5 +1,5 @@
 ---
-title: "61140 - BAGNOLES DE L ORNE NORMANDIE | Entraide, Annonces, Initiatives"
+title: "61140 - BAGNOLES DE L ORNE NORMANDIE"
 description: "61140 - BAGNOLES DE L ORNE NORMANDIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

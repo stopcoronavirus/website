@@ -1,5 +1,5 @@
 ---
-title: "78660 - ST MARTIN DE BRETHENCOURT | Entraide, Annonces, Initiatives"
+title: "78660 - ST MARTIN DE BRETHENCOURT"
 description: "78660 - ST MARTIN DE BRETHENCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

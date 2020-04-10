@@ -1,5 +1,5 @@
 ---
-title: "87240 - ST SYLVESTRE | Entraide, Annonces, Initiatives"
+title: "87240 - ST SYLVESTRE"
 description: "87240 - ST SYLVESTRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "78650 - SAULX MARCHAIS | Entraide, Annonces, Initiatives"
+title: "78650 - SAULX MARCHAIS"
 description: "78650 - SAULX MARCHAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

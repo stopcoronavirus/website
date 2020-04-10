@@ -1,5 +1,5 @@
 ---
-title: "40400 - LESGOR | Entraide, Annonces, Initiatives"
+title: "40400 - LESGOR"
 description: "40400 - LESGOR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

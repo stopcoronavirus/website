@@ -1,5 +1,5 @@
 ---
-title: "50270 - BARNEVILLE CARTERET | Entraide, Annonces, Initiatives"
+title: "50270 - BARNEVILLE CARTERET"
 description: "50270 - BARNEVILLE CARTERET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

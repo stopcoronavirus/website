@@ -1,5 +1,5 @@
 ---
-title: "31120 - LACROIX FALGARDE | Entraide, Annonces, Initiatives"
+title: "31120 - LACROIX FALGARDE"
 description: "31120 - LACROIX FALGARDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

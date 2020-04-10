@@ -1,5 +1,5 @@
 ---
-title: "53200 - MARIGNE PEUTON | Entraide, Annonces, Initiatives"
+title: "53200 - MARIGNE PEUTON"
 description: "53200 - MARIGNE PEUTON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

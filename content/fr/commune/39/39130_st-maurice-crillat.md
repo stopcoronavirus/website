@@ -1,5 +1,5 @@
 ---
-title: "39130 - ST MAURICE CRILLAT | Entraide, Annonces, Initiatives"
+title: "39130 - ST MAURICE CRILLAT"
 description: "39130 - ST MAURICE CRILLAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

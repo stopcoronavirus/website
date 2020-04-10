@@ -1,5 +1,5 @@
 ---
-title: "63800 - COURNON D AUVERGNE | Entraide, Annonces, Initiatives"
+title: "63800 - COURNON D AUVERGNE"
 description: "63800 - COURNON D AUVERGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

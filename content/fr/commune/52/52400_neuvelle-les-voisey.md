@@ -1,5 +1,5 @@
 ---
-title: "52400 - NEUVELLE LES VOISEY | Entraide, Annonces, Initiatives"
+title: "52400 - NEUVELLE LES VOISEY"
 description: "52400 - NEUVELLE LES VOISEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

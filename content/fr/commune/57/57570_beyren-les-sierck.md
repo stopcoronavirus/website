@@ -1,5 +1,5 @@
 ---
-title: "57570 - BEYREN LES SIERCK | Entraide, Annonces, Initiatives"
+title: "57570 - BEYREN LES SIERCK"
 description: "57570 - BEYREN LES SIERCK | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "62390 - FONTAINE L ETALON | Entraide, Annonces, Initiatives"
+title: "62390 - FONTAINE L ETALON"
 description: "62390 - FONTAINE L ETALON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

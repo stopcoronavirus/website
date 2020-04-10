@@ -1,5 +1,5 @@
 ---
-title: "86800 - SEVRES ANXAUMONT | Entraide, Annonces, Initiatives"
+title: "86800 - SEVRES ANXAUMONT"
 description: "86800 - SEVRES ANXAUMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

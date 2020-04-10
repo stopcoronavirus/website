@@ -1,5 +1,5 @@
 ---
-title: "87380 - ST GERMAIN LES BELLES | Entraide, Annonces, Initiatives"
+title: "87380 - ST GERMAIN LES BELLES"
 description: "87380 - ST GERMAIN LES BELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

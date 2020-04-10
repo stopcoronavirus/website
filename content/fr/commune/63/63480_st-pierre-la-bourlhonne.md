@@ -1,5 +1,5 @@
 ---
-title: "63480 - ST PIERRE LA BOURLHONNE | Entraide, Annonces, Initiatives"
+title: "63480 - ST PIERRE LA BOURLHONNE"
 description: "63480 - ST PIERRE LA BOURLHONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

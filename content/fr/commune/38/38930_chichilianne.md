@@ -1,5 +1,5 @@
 ---
-title: "38930 - CHICHILIANNE | Entraide, Annonces, Initiatives"
+title: "38930 - CHICHILIANNE"
 description: "38930 - CHICHILIANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

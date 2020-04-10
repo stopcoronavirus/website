@@ -1,5 +1,5 @@
 ---
-title: "14270 - CONDE SUR IFS | Entraide, Annonces, Initiatives"
+title: "14270 - CONDE SUR IFS"
 description: "14270 - CONDE SUR IFS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

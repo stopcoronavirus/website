@@ -1,5 +1,5 @@
 ---
-title: "59226 - RUMEGIES | Entraide, Annonces, Initiatives"
+title: "59226 - RUMEGIES"
 description: "59226 - RUMEGIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

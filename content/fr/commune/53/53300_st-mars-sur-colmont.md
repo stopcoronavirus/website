@@ -1,5 +1,5 @@
 ---
-title: "53300 - ST MARS SUR COLMONT | Entraide, Annonces, Initiatives"
+title: "53300 - ST MARS SUR COLMONT"
 description: "53300 - ST MARS SUR COLMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

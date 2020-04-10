@@ -1,5 +1,5 @@
 ---
-title: "80210 - FEUQUIERES EN VIMEU | Entraide, Annonces, Initiatives"
+title: "80210 - FEUQUIERES EN VIMEU"
 description: "80210 - FEUQUIERES EN VIMEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

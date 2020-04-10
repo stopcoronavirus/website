@@ -1,5 +1,5 @@
 ---
-title: "53200 - FROMENTIERES | Entraide, Annonces, Initiatives"
+title: "53200 - FROMENTIERES"
 description: "53200 - FROMENTIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

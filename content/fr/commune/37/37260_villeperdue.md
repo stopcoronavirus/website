@@ -1,5 +1,5 @@
 ---
-title: "37260 - VILLEPERDUE | Entraide, Annonces, Initiatives"
+title: "37260 - VILLEPERDUE"
 description: "37260 - VILLEPERDUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

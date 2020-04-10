@@ -1,5 +1,5 @@
 ---
-title: "62140 - RAYE SUR AUTHIE | Entraide, Annonces, Initiatives"
+title: "62140 - RAYE SUR AUTHIE"
 description: "62140 - RAYE SUR AUTHIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

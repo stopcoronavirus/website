@@ -1,5 +1,5 @@
 ---
-title: "83560 - ARTIGUES | Entraide, Annonces, Initiatives"
+title: "83560 - ARTIGUES"
 description: "83560 - ARTIGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

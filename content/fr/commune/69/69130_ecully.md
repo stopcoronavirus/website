@@ -1,5 +1,5 @@
 ---
-title: "69130 - ECULLY | Entraide, Annonces, Initiatives"
+title: "69130 - ECULLY"
 description: "69130 - ECULLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

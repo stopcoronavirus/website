@@ -1,5 +1,5 @@
 ---
-title: "17290 - ARDILLIERES | Entraide, Annonces, Initiatives"
+title: "17290 - ARDILLIERES"
 description: "17290 - ARDILLIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

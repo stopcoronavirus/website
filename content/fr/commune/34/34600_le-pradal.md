@@ -1,5 +1,5 @@
 ---
-title: "34600 - LE PRADAL | Entraide, Annonces, Initiatives"
+title: "34600 - LE PRADAL"
 description: "34600 - LE PRADAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

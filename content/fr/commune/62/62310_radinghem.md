@@ -1,5 +1,5 @@
 ---
-title: "62310 - RADINGHEM | Entraide, Annonces, Initiatives"
+title: "62310 - RADINGHEM"
 description: "62310 - RADINGHEM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

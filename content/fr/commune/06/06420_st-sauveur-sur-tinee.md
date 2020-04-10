@@ -1,5 +1,5 @@
 ---
-title: "06420 - ST SAUVEUR SUR TINEE | Entraide, Annonces, Initiatives"
+title: "06420 - ST SAUVEUR SUR TINEE"
 description: "06420 - ST SAUVEUR SUR TINEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "50220 - LE MESNIL OZENNE | Entraide, Annonces, Initiatives"
+title: "50220 - LE MESNIL OZENNE"
 description: "50220 - LE MESNIL OZENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

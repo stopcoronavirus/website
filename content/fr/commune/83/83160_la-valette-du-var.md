@@ -1,5 +1,5 @@
 ---
-title: "83160 - LA VALETTE DU VAR | Entraide, Annonces, Initiatives"
+title: "83160 - LA VALETTE DU VAR"
 description: "83160 - LA VALETTE DU VAR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

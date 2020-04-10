@@ -1,5 +1,5 @@
 ---
-title: "53410 - ST PIERRE LA COUR | Entraide, Annonces, Initiatives"
+title: "53410 - ST PIERRE LA COUR"
 description: "53410 - ST PIERRE LA COUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "21120 - IS SUR TILLE | Entraide, Annonces, Initiatives"
+title: "21120 - IS SUR TILLE"
 description: "21120 - IS SUR TILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

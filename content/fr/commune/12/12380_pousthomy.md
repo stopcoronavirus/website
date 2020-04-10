@@ -1,5 +1,5 @@
 ---
-title: "12380 - POUSTHOMY | Entraide, Annonces, Initiatives"
+title: "12380 - POUSTHOMY"
 description: "12380 - POUSTHOMY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

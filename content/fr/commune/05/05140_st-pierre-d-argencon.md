@@ -1,5 +1,5 @@
 ---
-title: "05140 - ST PIERRE D ARGENCON | Entraide, Annonces, Initiatives"
+title: "05140 - ST PIERRE D ARGENCON"
 description: "05140 - ST PIERRE D ARGENCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "55110 - MURVAUX | Entraide, Annonces, Initiatives"
+title: "55110 - MURVAUX"
 description: "55110 - MURVAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

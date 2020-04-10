@@ -1,5 +1,5 @@
 ---
-title: "52270 - DOULAINCOURT SAUCOURT | Entraide, Annonces, Initiatives"
+title: "52270 - DOULAINCOURT SAUCOURT"
 description: "52270 - DOULAINCOURT SAUCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

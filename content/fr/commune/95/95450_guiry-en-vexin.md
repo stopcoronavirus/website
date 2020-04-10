@@ -1,5 +1,5 @@
 ---
-title: "95450 - GUIRY EN VEXIN | Entraide, Annonces, Initiatives"
+title: "95450 - GUIRY EN VEXIN"
 description: "95450 - GUIRY EN VEXIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

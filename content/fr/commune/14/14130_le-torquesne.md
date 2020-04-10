@@ -1,5 +1,5 @@
 ---
-title: "14130 - LE TORQUESNE | Entraide, Annonces, Initiatives"
+title: "14130 - LE TORQUESNE"
 description: "14130 - LE TORQUESNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

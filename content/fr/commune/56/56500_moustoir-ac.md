@@ -1,5 +1,5 @@
 ---
-title: "56500 - MOUSTOIR AC | Entraide, Annonces, Initiatives"
+title: "56500 - MOUSTOIR AC"
 description: "56500 - MOUSTOIR AC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "51240 - MOIVRE | Entraide, Annonces, Initiatives"
+title: "51240 - MOIVRE"
 description: "51240 - MOIVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

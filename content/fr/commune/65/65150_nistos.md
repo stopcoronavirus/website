@@ -1,5 +1,5 @@
 ---
-title: "65150 - NISTOS | Entraide, Annonces, Initiatives"
+title: "65150 - NISTOS"
 description: "65150 - NISTOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

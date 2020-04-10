@@ -1,5 +1,5 @@
 ---
-title: "42530 - ST GENEST LERPT | Entraide, Annonces, Initiatives"
+title: "42530 - ST GENEST LERPT"
 description: "42530 - ST GENEST LERPT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

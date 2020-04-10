@@ -1,5 +1,5 @@
 ---
-title: "43260 - ST JULIEN CHAPTEUIL | Entraide, Annonces, Initiatives"
+title: "43260 - ST JULIEN CHAPTEUIL"
 description: "43260 - ST JULIEN CHAPTEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12540 - FONDAMENTE | Entraide, Annonces, Initiatives"
+title: "12540 - FONDAMENTE"
 description: "12540 - FONDAMENTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

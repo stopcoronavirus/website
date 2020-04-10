@@ -1,5 +1,5 @@
 ---
-title: "62700 - BRUAY LA BUISSIERE | Entraide, Annonces, Initiatives"
+title: "62700 - BRUAY LA BUISSIERE"
 description: "62700 - BRUAY LA BUISSIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "60620 - CUVERGNON | Entraide, Annonces, Initiatives"
+title: "60620 - CUVERGNON"
 description: "60620 - CUVERGNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

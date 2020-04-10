@@ -1,5 +1,5 @@
 ---
-title: "30170 - DURFORT ET ST MARTIN DE SOSSENAC | Entraide, Annonces, Initiatives"
+title: "30170 - DURFORT ET ST MARTIN DE SOSSENAC"
 description: "30170 - DURFORT ET ST MARTIN DE SOSSENAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

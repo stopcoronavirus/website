@@ -1,5 +1,5 @@
 ---
-title: "21390 - DOMPIERRE EN MORVAN | Entraide, Annonces, Initiatives"
+title: "21390 - DOMPIERRE EN MORVAN"
 description: "21390 - DOMPIERRE EN MORVAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "10380 - CHARNY LE BACHOT | Entraide, Annonces, Initiatives"
+title: "10380 - CHARNY LE BACHOT"
 description: "10380 - CHARNY LE BACHOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "35240 - MARCILLE ROBERT | Entraide, Annonces, Initiatives"
+title: "35240 - MARCILLE ROBERT"
 description: "35240 - MARCILLE ROBERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

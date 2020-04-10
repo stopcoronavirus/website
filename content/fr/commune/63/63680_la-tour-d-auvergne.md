@@ -1,5 +1,5 @@
 ---
-title: "63680 - LA TOUR D AUVERGNE | Entraide, Annonces, Initiatives"
+title: "63680 - LA TOUR D AUVERGNE"
 description: "63680 - LA TOUR D AUVERGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

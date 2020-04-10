@@ -1,5 +1,5 @@
 ---
-title: "91690 - FONTAINE LA RIVIERE | Entraide, Annonces, Initiatives"
+title: "91690 - FONTAINE LA RIVIERE"
 description: "91690 - FONTAINE LA RIVIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

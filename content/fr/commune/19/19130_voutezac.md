@@ -1,5 +1,5 @@
 ---
-title: "19130 - VOUTEZAC | Entraide, Annonces, Initiatives"
+title: "19130 - VOUTEZAC"
 description: "19130 - VOUTEZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

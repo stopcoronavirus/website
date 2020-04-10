@@ -1,5 +1,5 @@
 ---
-title: "95130 - FRANCONVILLE | Entraide, Annonces, Initiatives"
+title: "95130 - FRANCONVILLE"
 description: "95130 - FRANCONVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

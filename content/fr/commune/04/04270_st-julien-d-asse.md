@@ -1,5 +1,5 @@
 ---
-title: "04270 - ST JULIEN D ASSE | Entraide, Annonces, Initiatives"
+title: "04270 - ST JULIEN D ASSE"
 description: "04270 - ST JULIEN D ASSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "53250 - COUPTRAIN | Entraide, Annonces, Initiatives"
+title: "53250 - COUPTRAIN"
 description: "53250 - COUPTRAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

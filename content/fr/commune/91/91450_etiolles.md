@@ -1,5 +1,5 @@
 ---
-title: "91450 - ETIOLLES | Entraide, Annonces, Initiatives"
+title: "91450 - ETIOLLES"
 description: "91450 - ETIOLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

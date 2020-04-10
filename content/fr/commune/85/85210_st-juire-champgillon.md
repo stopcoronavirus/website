@@ -1,5 +1,5 @@
 ---
-title: "85210 - ST JUIRE CHAMPGILLON | Entraide, Annonces, Initiatives"
+title: "85210 - ST JUIRE CHAMPGILLON"
 description: "85210 - ST JUIRE CHAMPGILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

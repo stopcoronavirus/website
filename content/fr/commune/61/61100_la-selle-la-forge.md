@@ -1,5 +1,5 @@
 ---
-title: "61100 - LA SELLE LA FORGE | Entraide, Annonces, Initiatives"
+title: "61100 - LA SELLE LA FORGE"
 description: "61100 - LA SELLE LA FORGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

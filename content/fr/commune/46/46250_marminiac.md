@@ -1,5 +1,5 @@
 ---
-title: "46250 - MARMINIAC | Entraide, Annonces, Initiatives"
+title: "46250 - MARMINIAC"
 description: "46250 - MARMINIAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

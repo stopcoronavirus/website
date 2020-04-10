@@ -1,5 +1,5 @@
 ---
-title: "50390 - ST JACQUES DE NEHOU | Entraide, Annonces, Initiatives"
+title: "50390 - ST JACQUES DE NEHOU"
 description: "50390 - ST JACQUES DE NEHOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

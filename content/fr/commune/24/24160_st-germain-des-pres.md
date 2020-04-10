@@ -1,5 +1,5 @@
 ---
-title: "24160 - ST GERMAIN DES PRES | Entraide, Annonces, Initiatives"
+title: "24160 - ST GERMAIN DES PRES"
 description: "24160 - ST GERMAIN DES PRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

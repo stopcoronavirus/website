@@ -1,5 +1,5 @@
 ---
-title: "56500 - LA CHAPELLE NEUVE | Entraide, Annonces, Initiatives"
+title: "56500 - LA CHAPELLE NEUVE"
 description: "56500 - LA CHAPELLE NEUVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

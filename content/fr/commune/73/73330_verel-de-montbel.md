@@ -1,5 +1,5 @@
 ---
-title: "73330 - VEREL DE MONTBEL | Entraide, Annonces, Initiatives"
+title: "73330 - VEREL DE MONTBEL"
 description: "73330 - VEREL DE MONTBEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

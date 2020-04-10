@@ -1,5 +1,5 @@
 ---
-title: "21350 - VELOGNY | Entraide, Annonces, Initiatives"
+title: "21350 - VELOGNY"
 description: "21350 - VELOGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

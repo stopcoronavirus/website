@@ -1,5 +1,5 @@
 ---
-title: "37120 - COURCOUE | Entraide, Annonces, Initiatives"
+title: "37120 - COURCOUE"
 description: "37120 - COURCOUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

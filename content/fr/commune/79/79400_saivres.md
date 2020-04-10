@@ -1,5 +1,5 @@
 ---
-title: "79400 - SAIVRES | Entraide, Annonces, Initiatives"
+title: "79400 - SAIVRES"
 description: "79400 - SAIVRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

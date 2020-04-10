@@ -1,5 +1,5 @@
 ---
-title: "69490 - ST ROMAIN DE POPEY | Entraide, Annonces, Initiatives"
+title: "69490 - ST ROMAIN DE POPEY"
 description: "69490 - ST ROMAIN DE POPEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

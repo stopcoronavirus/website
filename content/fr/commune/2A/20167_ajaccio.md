@@ -1,5 +1,5 @@
 ---
-title: "20167 - AJACCIO | Entraide, Annonces, Initiatives"
+title: "20167 - AJACCIO"
 description: "20167 - AJACCIO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

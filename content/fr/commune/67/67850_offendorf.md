@@ -1,5 +1,5 @@
 ---
-title: "67850 - OFFENDORF | Entraide, Annonces, Initiatives"
+title: "67850 - OFFENDORF"
 description: "67850 - OFFENDORF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "10340 - AVIREY LINGEY | Entraide, Annonces, Initiatives"
+title: "10340 - AVIREY LINGEY"
 description: "10340 - AVIREY LINGEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

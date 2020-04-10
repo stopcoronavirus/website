@@ -1,5 +1,5 @@
 ---
-title: "55300 - KOEUR LA PETITE | Entraide, Annonces, Initiatives"
+title: "55300 - KOEUR LA PETITE"
 description: "55300 - KOEUR LA PETITE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

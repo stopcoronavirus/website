@@ -1,5 +1,5 @@
 ---
-title: "66230 - PRATS DE MOLLO LA PRESTE | Entraide, Annonces, Initiatives"
+title: "66230 - PRATS DE MOLLO LA PRESTE"
 description: "66230 - PRATS DE MOLLO LA PRESTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

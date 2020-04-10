@@ -1,5 +1,5 @@
 ---
-title: "61300 - CRULAI | Entraide, Annonces, Initiatives"
+title: "61300 - CRULAI"
 description: "61300 - CRULAI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

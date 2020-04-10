@@ -1,5 +1,5 @@
 ---
-title: "73490 - LA RAVOIRE | Entraide, Annonces, Initiatives"
+title: "73490 - LA RAVOIRE"
 description: "73490 - LA RAVOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

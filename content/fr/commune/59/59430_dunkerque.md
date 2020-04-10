@@ -1,5 +1,5 @@
 ---
-title: "59430 - DUNKERQUE | Entraide, Annonces, Initiatives"
+title: "59430 - DUNKERQUE"
 description: "59430 - DUNKERQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

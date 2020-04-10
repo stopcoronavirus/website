@@ -1,5 +1,5 @@
 ---
-title: "46500 - ALVIGNAC | Entraide, Annonces, Initiatives"
+title: "46500 - ALVIGNAC"
 description: "46500 - ALVIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

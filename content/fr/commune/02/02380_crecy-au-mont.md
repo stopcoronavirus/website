@@ -1,5 +1,5 @@
 ---
-title: "02380 - CRECY AU MONT | Entraide, Annonces, Initiatives"
+title: "02380 - CRECY AU MONT"
 description: "02380 - CRECY AU MONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

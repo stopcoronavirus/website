@@ -1,5 +1,5 @@
 ---
-title: "60310 - OGNOLLES | Entraide, Annonces, Initiatives"
+title: "60310 - OGNOLLES"
 description: "60310 - OGNOLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

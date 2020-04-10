@@ -1,5 +1,5 @@
 ---
-title: "32420 - TOURNAN | Entraide, Annonces, Initiatives"
+title: "32420 - TOURNAN"
 description: "32420 - TOURNAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

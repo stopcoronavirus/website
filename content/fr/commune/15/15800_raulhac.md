@@ -1,5 +1,5 @@
 ---
-title: "15800 - RAULHAC | Entraide, Annonces, Initiatives"
+title: "15800 - RAULHAC"
 description: "15800 - RAULHAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

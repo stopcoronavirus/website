@@ -1,5 +1,5 @@
 ---
-title: "31320 - MERVILLA | Entraide, Annonces, Initiatives"
+title: "31320 - MERVILLA"
 description: "31320 - MERVILLA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

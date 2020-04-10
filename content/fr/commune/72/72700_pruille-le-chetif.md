@@ -1,5 +1,5 @@
 ---
-title: "72700 - PRUILLE LE CHETIF | Entraide, Annonces, Initiatives"
+title: "72700 - PRUILLE LE CHETIF"
 description: "72700 - PRUILLE LE CHETIF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

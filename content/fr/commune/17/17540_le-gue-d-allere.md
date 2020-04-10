@@ -1,5 +1,5 @@
 ---
-title: "17540 - LE GUE D ALLERE | Entraide, Annonces, Initiatives"
+title: "17540 - LE GUE D ALLERE"
 description: "17540 - LE GUE D ALLERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "04150 - LA ROCHEGIRON | Entraide, Annonces, Initiatives"
+title: "04150 - LA ROCHEGIRON"
 description: "04150 - LA ROCHEGIRON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

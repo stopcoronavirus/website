@@ -1,5 +1,5 @@
 ---
-title: "15230 - NARNHAC | Entraide, Annonces, Initiatives"
+title: "15230 - NARNHAC"
 description: "15230 - NARNHAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

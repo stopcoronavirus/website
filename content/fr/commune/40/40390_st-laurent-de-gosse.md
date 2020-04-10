@@ -1,5 +1,5 @@
 ---
-title: "40390 - ST LAURENT DE GOSSE | Entraide, Annonces, Initiatives"
+title: "40390 - ST LAURENT DE GOSSE"
 description: "40390 - ST LAURENT DE GOSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

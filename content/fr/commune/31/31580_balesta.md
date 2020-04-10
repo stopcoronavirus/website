@@ -1,5 +1,5 @@
 ---
-title: "31580 - BALESTA | Entraide, Annonces, Initiatives"
+title: "31580 - BALESTA"
 description: "31580 - BALESTA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "83840 - LE BOURGUET | Entraide, Annonces, Initiatives"
+title: "83840 - LE BOURGUET"
 description: "83840 - LE BOURGUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

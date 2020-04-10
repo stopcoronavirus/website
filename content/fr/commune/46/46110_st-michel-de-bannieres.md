@@ -1,5 +1,5 @@
 ---
-title: "46110 - ST MICHEL DE BANNIERES | Entraide, Annonces, Initiatives"
+title: "46110 - ST MICHEL DE BANNIERES"
 description: "46110 - ST MICHEL DE BANNIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

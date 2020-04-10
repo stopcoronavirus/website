@@ -1,5 +1,5 @@
 ---
-title: "06670 - LEVENS | Entraide, Annonces, Initiatives"
+title: "06670 - LEVENS"
 description: "06670 - LEVENS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

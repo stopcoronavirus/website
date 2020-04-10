@@ -1,5 +1,5 @@
 ---
-title: "72430 - PIRMIL | Entraide, Annonces, Initiatives"
+title: "72430 - PIRMIL"
 description: "72430 - PIRMIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

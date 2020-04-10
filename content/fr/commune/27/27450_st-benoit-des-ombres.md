@@ -1,5 +1,5 @@
 ---
-title: "27450 - ST BENOIT DES OMBRES | Entraide, Annonces, Initiatives"
+title: "27450 - ST BENOIT DES OMBRES"
 description: "27450 - ST BENOIT DES OMBRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

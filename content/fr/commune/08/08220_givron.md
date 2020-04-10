@@ -1,5 +1,5 @@
 ---
-title: "08220 - GIVRON | Entraide, Annonces, Initiatives"
+title: "08220 - GIVRON"
 description: "08220 - GIVRON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

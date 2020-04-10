@@ -1,5 +1,5 @@
 ---
-title: "79160 - PUIHARDY | Entraide, Annonces, Initiatives"
+title: "79160 - PUIHARDY"
 description: "79160 - PUIHARDY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "01640 - BOYEUX ST JEROME | Entraide, Annonces, Initiatives"
+title: "01640 - BOYEUX ST JEROME"
 description: "01640 - BOYEUX ST JEROME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

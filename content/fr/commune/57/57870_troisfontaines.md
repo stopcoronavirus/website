@@ -1,5 +1,5 @@
 ---
-title: "57870 - TROISFONTAINES | Entraide, Annonces, Initiatives"
+title: "57870 - TROISFONTAINES"
 description: "57870 - TROISFONTAINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

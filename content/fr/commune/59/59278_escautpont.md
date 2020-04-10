@@ -1,5 +1,5 @@
 ---
-title: "59278 - ESCAUTPONT | Entraide, Annonces, Initiatives"
+title: "59278 - ESCAUTPONT"
 description: "59278 - ESCAUTPONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "15120 - LEUCAMP | Entraide, Annonces, Initiatives"
+title: "15120 - LEUCAMP"
 description: "15120 - LEUCAMP | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

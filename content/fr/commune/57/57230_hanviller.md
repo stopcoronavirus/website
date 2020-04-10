@@ -1,5 +1,5 @@
 ---
-title: "57230 - HANVILLER | Entraide, Annonces, Initiatives"
+title: "57230 - HANVILLER"
 description: "57230 - HANVILLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

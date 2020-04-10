@@ -1,5 +1,5 @@
 ---
-title: "77710 - TREUZY LEVELAY | Entraide, Annonces, Initiatives"
+title: "77710 - TREUZY LEVELAY"
 description: "77710 - TREUZY LEVELAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

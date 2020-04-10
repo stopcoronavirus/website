@@ -1,5 +1,5 @@
 ---
-title: "36150 - GUILLY | Entraide, Annonces, Initiatives"
+title: "36150 - GUILLY"
 description: "36150 - GUILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

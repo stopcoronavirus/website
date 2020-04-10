@@ -1,5 +1,5 @@
 ---
-title: "73240 - ROCHEFORT | Entraide, Annonces, Initiatives"
+title: "73240 - ROCHEFORT"
 description: "73240 - ROCHEFORT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

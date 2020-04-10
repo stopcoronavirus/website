@@ -1,5 +1,5 @@
 ---
-title: "15800 - VIC SUR CERE | Entraide, Annonces, Initiatives"
+title: "15800 - VIC SUR CERE"
 description: "15800 - VIC SUR CERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

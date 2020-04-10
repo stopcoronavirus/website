@@ -1,5 +1,5 @@
 ---
-title: "26160 - SOUSPIERRE | Entraide, Annonces, Initiatives"
+title: "26160 - SOUSPIERRE"
 description: "26160 - SOUSPIERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13116 - VERNEGUES | Entraide, Annonces, Initiatives"
+title: "13116 - VERNEGUES"
 description: "13116 - VERNEGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "16200 - REPARSAC | Entraide, Annonces, Initiatives"
+title: "16200 - REPARSAC"
 description: "16200 - REPARSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

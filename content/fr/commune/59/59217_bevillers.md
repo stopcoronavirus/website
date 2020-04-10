@@ -1,5 +1,5 @@
 ---
-title: "59217 - BEVILLERS | Entraide, Annonces, Initiatives"
+title: "59217 - BEVILLERS"
 description: "59217 - BEVILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

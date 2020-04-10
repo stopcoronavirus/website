@@ -1,5 +1,5 @@
 ---
-title: "14940 - BANNEVILLE LA CAMPAGNE | Entraide, Annonces, Initiatives"
+title: "14940 - BANNEVILLE LA CAMPAGNE"
 description: "14940 - BANNEVILLE LA CAMPAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

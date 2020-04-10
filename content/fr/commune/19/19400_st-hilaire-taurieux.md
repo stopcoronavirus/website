@@ -1,5 +1,5 @@
 ---
-title: "19400 - ST HILAIRE TAURIEUX | Entraide, Annonces, Initiatives"
+title: "19400 - ST HILAIRE TAURIEUX"
 description: "19400 - ST HILAIRE TAURIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

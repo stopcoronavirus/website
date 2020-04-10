@@ -1,5 +1,5 @@
 ---
-title: "26150 - ST JULIEN EN QUINT | Entraide, Annonces, Initiatives"
+title: "26150 - ST JULIEN EN QUINT"
 description: "26150 - ST JULIEN EN QUINT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

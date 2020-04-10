@@ -1,5 +1,5 @@
 ---
-title: "80130 - FRIVILLE ESCARBOTIN | Entraide, Annonces, Initiatives"
+title: "80130 - FRIVILLE ESCARBOTIN"
 description: "80130 - FRIVILLE ESCARBOTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

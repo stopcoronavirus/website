@@ -1,5 +1,5 @@
 ---
-title: "64470 - OSSAS SUHARE | Entraide, Annonces, Initiatives"
+title: "64470 - OSSAS SUHARE"
 description: "64470 - OSSAS SUHARE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

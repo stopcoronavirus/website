@@ -1,5 +1,5 @@
 ---
-title: "65350 - SOREAC | Entraide, Annonces, Initiatives"
+title: "65350 - SOREAC"
 description: "65350 - SOREAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

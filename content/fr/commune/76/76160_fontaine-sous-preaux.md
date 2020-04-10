@@ -1,5 +1,5 @@
 ---
-title: "76160 - FONTAINE SOUS PREAUX | Entraide, Annonces, Initiatives"
+title: "76160 - FONTAINE SOUS PREAUX"
 description: "76160 - FONTAINE SOUS PREAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

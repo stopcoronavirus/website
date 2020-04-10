@@ -1,5 +1,5 @@
 ---
-title: "72330 - CERANS FOULLETOURTE | Entraide, Annonces, Initiatives"
+title: "72330 - CERANS FOULLETOURTE"
 description: "72330 - CERANS FOULLETOURTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "17220 - ST CHRISTOPHE | Entraide, Annonces, Initiatives"
+title: "17220 - ST CHRISTOPHE"
 description: "17220 - ST CHRISTOPHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

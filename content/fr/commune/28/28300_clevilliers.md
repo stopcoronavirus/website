@@ -1,5 +1,5 @@
 ---
-title: "28300 - CLEVILLIERS | Entraide, Annonces, Initiatives"
+title: "28300 - CLEVILLIERS"
 description: "28300 - CLEVILLIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

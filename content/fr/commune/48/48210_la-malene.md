@@ -1,5 +1,5 @@
 ---
-title: "48210 - LA MALENE | Entraide, Annonces, Initiatives"
+title: "48210 - LA MALENE"
 description: "48210 - LA MALENE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

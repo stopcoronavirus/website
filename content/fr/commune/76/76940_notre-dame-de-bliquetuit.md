@@ -1,5 +1,5 @@
 ---
-title: "76940 - NOTRE DAME DE BLIQUETUIT | Entraide, Annonces, Initiatives"
+title: "76940 - NOTRE DAME DE BLIQUETUIT"
 description: "76940 - NOTRE DAME DE BLIQUETUIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "19800 - MEYRIGNAC L EGLISE | Entraide, Annonces, Initiatives"
+title: "19800 - MEYRIGNAC L EGLISE"
 description: "19800 - MEYRIGNAC L EGLISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

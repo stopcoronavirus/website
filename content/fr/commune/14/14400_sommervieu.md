@@ -1,5 +1,5 @@
 ---
-title: "14400 - SOMMERVIEU | Entraide, Annonces, Initiatives"
+title: "14400 - SOMMERVIEU"
 description: "14400 - SOMMERVIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

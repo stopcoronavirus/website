@@ -1,5 +1,5 @@
 ---
-title: "42380 - LA CHAPELLE EN LAFAYE | Entraide, Annonces, Initiatives"
+title: "42380 - LA CHAPELLE EN LAFAYE"
 description: "42380 - LA CHAPELLE EN LAFAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

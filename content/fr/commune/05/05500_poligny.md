@@ -1,5 +1,5 @@
 ---
-title: "05500 - POLIGNY | Entraide, Annonces, Initiatives"
+title: "05500 - POLIGNY"
 description: "05500 - POLIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

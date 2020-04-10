@@ -1,5 +1,5 @@
 ---
-title: "91170 - VIRY CHATILLON | Entraide, Annonces, Initiatives"
+title: "91170 - VIRY CHATILLON"
 description: "91170 - VIRY CHATILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

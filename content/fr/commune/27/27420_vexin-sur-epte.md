@@ -1,5 +1,5 @@
 ---
-title: "27420 - VEXIN SUR EPTE | Entraide, Annonces, Initiatives"
+title: "27420 - VEXIN SUR EPTE"
 description: "27420 - VEXIN SUR EPTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "46400 - ST VINCENT DU PENDIT | Entraide, Annonces, Initiatives"
+title: "46400 - ST VINCENT DU PENDIT"
 description: "46400 - ST VINCENT DU PENDIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

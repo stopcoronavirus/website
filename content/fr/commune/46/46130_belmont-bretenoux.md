@@ -1,5 +1,5 @@
 ---
-title: "46130 - BELMONT BRETENOUX | Entraide, Annonces, Initiatives"
+title: "46130 - BELMONT BRETENOUX"
 description: "46130 - BELMONT BRETENOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

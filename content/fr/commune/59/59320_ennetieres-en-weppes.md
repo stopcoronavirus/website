@@ -1,5 +1,5 @@
 ---
-title: "59320 - ENNETIERES EN WEPPES | Entraide, Annonces, Initiatives"
+title: "59320 - ENNETIERES EN WEPPES"
 description: "59320 - ENNETIERES EN WEPPES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

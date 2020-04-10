@@ -1,5 +1,5 @@
 ---
-title: "49610 - MOZE SUR LOUET | Entraide, Annonces, Initiatives"
+title: "49610 - MOZE SUR LOUET"
 description: "49610 - MOZE SUR LOUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

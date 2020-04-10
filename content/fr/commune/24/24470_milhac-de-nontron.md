@@ -1,5 +1,5 @@
 ---
-title: "24470 - MILHAC DE NONTRON | Entraide, Annonces, Initiatives"
+title: "24470 - MILHAC DE NONTRON"
 description: "24470 - MILHAC DE NONTRON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

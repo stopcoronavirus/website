@@ -1,5 +1,5 @@
 ---
-title: "19170 - L EGLISE AUX BOIS | Entraide, Annonces, Initiatives"
+title: "19170 - L EGLISE AUX BOIS"
 description: "19170 - L EGLISE AUX BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

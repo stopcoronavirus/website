@@ -1,5 +1,5 @@
 ---
-title: "49125 - BRIOLLAY | Entraide, Annonces, Initiatives"
+title: "49125 - BRIOLLAY"
 description: "49125 - BRIOLLAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "51510 - COMPERTRIX | Entraide, Annonces, Initiatives"
+title: "51510 - COMPERTRIX"
 description: "51510 - COMPERTRIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

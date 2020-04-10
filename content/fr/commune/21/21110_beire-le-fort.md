@@ -1,5 +1,5 @@
 ---
-title: "21110 - BEIRE LE FORT | Entraide, Annonces, Initiatives"
+title: "21110 - BEIRE LE FORT"
 description: "21110 - BEIRE LE FORT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

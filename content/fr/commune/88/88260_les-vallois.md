@@ -1,5 +1,5 @@
 ---
-title: "88260 - LES VALLOIS | Entraide, Annonces, Initiatives"
+title: "88260 - LES VALLOIS"
 description: "88260 - LES VALLOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

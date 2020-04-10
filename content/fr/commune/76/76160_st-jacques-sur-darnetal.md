@@ -1,5 +1,5 @@
 ---
-title: "76160 - ST JACQUES SUR DARNETAL | Entraide, Annonces, Initiatives"
+title: "76160 - ST JACQUES SUR DARNETAL"
 description: "76160 - ST JACQUES SUR DARNETAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

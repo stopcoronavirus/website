@@ -1,5 +1,5 @@
 ---
-title: "28190 - ST ARNOULT DES BOIS | Entraide, Annonces, Initiatives"
+title: "28190 - ST ARNOULT DES BOIS"
 description: "28190 - ST ARNOULT DES BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

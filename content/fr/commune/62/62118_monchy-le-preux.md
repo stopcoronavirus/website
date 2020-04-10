@@ -1,5 +1,5 @@
 ---
-title: "62118 - MONCHY LE PREUX | Entraide, Annonces, Initiatives"
+title: "62118 - MONCHY LE PREUX"
 description: "62118 - MONCHY LE PREUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

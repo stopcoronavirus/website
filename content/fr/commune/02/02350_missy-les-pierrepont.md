@@ -1,5 +1,5 @@
 ---
-title: "02350 - MISSY LES PIERREPONT | Entraide, Annonces, Initiatives"
+title: "02350 - MISSY LES PIERREPONT"
 description: "02350 - MISSY LES PIERREPONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

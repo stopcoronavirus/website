@@ -1,5 +1,5 @@
 ---
-title: "68150 - RIBEAUVILLE | Entraide, Annonces, Initiatives"
+title: "68150 - RIBEAUVILLE"
 description: "68150 - RIBEAUVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

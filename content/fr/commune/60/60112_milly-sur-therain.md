@@ -1,5 +1,5 @@
 ---
-title: "60112 - MILLY SUR THERAIN | Entraide, Annonces, Initiatives"
+title: "60112 - MILLY SUR THERAIN"
 description: "60112 - MILLY SUR THERAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

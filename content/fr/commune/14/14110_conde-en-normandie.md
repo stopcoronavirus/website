@@ -1,5 +1,5 @@
 ---
-title: "14110 - CONDE EN NORMANDIE | Entraide, Annonces, Initiatives"
+title: "14110 - CONDE EN NORMANDIE"
 description: "14110 - CONDE EN NORMANDIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

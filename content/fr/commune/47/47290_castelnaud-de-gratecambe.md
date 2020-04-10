@@ -1,5 +1,5 @@
 ---
-title: "47290 - CASTELNAUD DE GRATECAMBE | Entraide, Annonces, Initiatives"
+title: "47290 - CASTELNAUD DE GRATECAMBE"
 description: "47290 - CASTELNAUD DE GRATECAMBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

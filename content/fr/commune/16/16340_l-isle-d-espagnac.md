@@ -1,5 +1,5 @@
 ---
-title: "16340 - L ISLE D ESPAGNAC | Entraide, Annonces, Initiatives"
+title: "16340 - L ISLE D ESPAGNAC"
 description: "16340 - L ISLE D ESPAGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "20148 - COZZANO | Entraide, Annonces, Initiatives"
+title: "20148 - COZZANO"
 description: "20148 - COZZANO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

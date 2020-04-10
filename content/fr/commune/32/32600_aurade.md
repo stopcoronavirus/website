@@ -1,5 +1,5 @@
 ---
-title: "32600 - AURADE | Entraide, Annonces, Initiatives"
+title: "32600 - AURADE"
 description: "32600 - AURADE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

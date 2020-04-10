@@ -1,5 +1,5 @@
 ---
-title: "35360 - MONTAUBAN DE BRETAGNE | Entraide, Annonces, Initiatives"
+title: "35360 - MONTAUBAN DE BRETAGNE"
 description: "35360 - MONTAUBAN DE BRETAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "72260 - DANGEUL | Entraide, Annonces, Initiatives"
+title: "72260 - DANGEUL"
 description: "72260 - DANGEUL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "84800 - L ISLE SUR LA SORGUE | Entraide, Annonces, Initiatives"
+title: "84800 - L ISLE SUR LA SORGUE"
 description: "84800 - L ISLE SUR LA SORGUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "77840 - CROUY SUR OURCQ | Entraide, Annonces, Initiatives"
+title: "77840 - CROUY SUR OURCQ"
 description: "77840 - CROUY SUR OURCQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

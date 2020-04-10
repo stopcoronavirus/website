@@ -1,5 +1,5 @@
 ---
-title: "70190 - BUTHIERS | Entraide, Annonces, Initiatives"
+title: "70190 - BUTHIERS"
 description: "70190 - BUTHIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

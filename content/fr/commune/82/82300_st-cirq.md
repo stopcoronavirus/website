@@ -1,5 +1,5 @@
 ---
-title: "82300 - ST CIRQ | Entraide, Annonces, Initiatives"
+title: "82300 - ST CIRQ"
 description: "82300 - ST CIRQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

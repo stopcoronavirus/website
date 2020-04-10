@@ -1,5 +1,5 @@
 ---
-title: "03100 - LAVAULT STE ANNE | Entraide, Annonces, Initiatives"
+title: "03100 - LAVAULT STE ANNE"
 description: "03100 - LAVAULT STE ANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

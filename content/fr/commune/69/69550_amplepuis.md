@@ -1,5 +1,5 @@
 ---
-title: "69550 - AMPLEPUIS | Entraide, Annonces, Initiatives"
+title: "69550 - AMPLEPUIS"
 description: "69550 - AMPLEPUIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

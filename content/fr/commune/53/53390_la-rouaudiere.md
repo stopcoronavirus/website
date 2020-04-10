@@ -1,5 +1,5 @@
 ---
-title: "53390 - LA ROUAUDIERE | Entraide, Annonces, Initiatives"
+title: "53390 - LA ROUAUDIERE"
 description: "53390 - LA ROUAUDIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

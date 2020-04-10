@@ -1,5 +1,5 @@
 ---
-title: "83430 - ST MANDRIER SUR MER | Entraide, Annonces, Initiatives"
+title: "83430 - ST MANDRIER SUR MER"
 description: "83430 - ST MANDRIER SUR MER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

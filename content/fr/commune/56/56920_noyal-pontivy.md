@@ -1,5 +1,5 @@
 ---
-title: "56920 - NOYAL PONTIVY | Entraide, Annonces, Initiatives"
+title: "56920 - NOYAL PONTIVY"
 description: "56920 - NOYAL PONTIVY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

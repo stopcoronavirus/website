@@ -1,5 +1,5 @@
 ---
-title: "62112 - GOUY SOUS BELLONNE | Entraide, Annonces, Initiatives"
+title: "62112 - GOUY SOUS BELLONNE"
 description: "62112 - GOUY SOUS BELLONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

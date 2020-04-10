@@ -1,5 +1,5 @@
 ---
-title: "42840 - MONTAGNY | Entraide, Annonces, Initiatives"
+title: "42840 - MONTAGNY"
 description: "42840 - MONTAGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "32330 - LAGRAULET DU GERS | Entraide, Annonces, Initiatives"
+title: "32330 - LAGRAULET DU GERS"
 description: "32330 - LAGRAULET DU GERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

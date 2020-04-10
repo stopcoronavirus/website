@@ -1,5 +1,5 @@
 ---
-title: "70150 - CHENEVREY ET MOROGNE | Entraide, Annonces, Initiatives"
+title: "70150 - CHENEVREY ET MOROGNE"
 description: "70150 - CHENEVREY ET MOROGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

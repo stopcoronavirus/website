@@ -1,5 +1,5 @@
 ---
-title: "53320 - BEAULIEU SUR OUDON | Entraide, Annonces, Initiatives"
+title: "53320 - BEAULIEU SUR OUDON"
 description: "53320 - BEAULIEU SUR OUDON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

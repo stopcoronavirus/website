@@ -1,5 +1,5 @@
 ---
-title: "25250 - FAIMBE | Entraide, Annonces, Initiatives"
+title: "25250 - FAIMBE"
 description: "25250 - FAIMBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

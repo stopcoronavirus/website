@@ -1,5 +1,5 @@
 ---
-title: "38300 - SEREZIN DE LA TOUR | Entraide, Annonces, Initiatives"
+title: "38300 - SEREZIN DE LA TOUR"
 description: "38300 - SEREZIN DE LA TOUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

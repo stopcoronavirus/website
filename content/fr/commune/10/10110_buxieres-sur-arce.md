@@ -1,5 +1,5 @@
 ---
-title: "10110 - BUXIERES SUR ARCE | Entraide, Annonces, Initiatives"
+title: "10110 - BUXIERES SUR ARCE"
 description: "10110 - BUXIERES SUR ARCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

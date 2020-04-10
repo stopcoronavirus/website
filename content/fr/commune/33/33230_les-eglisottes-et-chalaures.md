@@ -1,5 +1,5 @@
 ---
-title: "33230 - LES EGLISOTTES ET CHALAURES | Entraide, Annonces, Initiatives"
+title: "33230 - LES EGLISOTTES ET CHALAURES"
 description: "33230 - LES EGLISOTTES ET CHALAURES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

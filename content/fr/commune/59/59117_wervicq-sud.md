@@ -1,5 +1,5 @@
 ---
-title: "59117 - WERVICQ SUD | Entraide, Annonces, Initiatives"
+title: "59117 - WERVICQ SUD"
 description: "59117 - WERVICQ SUD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

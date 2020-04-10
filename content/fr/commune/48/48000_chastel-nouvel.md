@@ -1,5 +1,5 @@
 ---
-title: "48000 - CHASTEL NOUVEL | Entraide, Annonces, Initiatives"
+title: "48000 - CHASTEL NOUVEL"
 description: "48000 - CHASTEL NOUVEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

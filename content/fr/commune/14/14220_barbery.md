@@ -1,5 +1,5 @@
 ---
-title: "14220 - BARBERY | Entraide, Annonces, Initiatives"
+title: "14220 - BARBERY"
 description: "14220 - BARBERY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

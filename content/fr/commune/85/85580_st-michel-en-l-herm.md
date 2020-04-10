@@ -1,5 +1,5 @@
 ---
-title: "85580 - ST MICHEL EN L HERM | Entraide, Annonces, Initiatives"
+title: "85580 - ST MICHEL EN L HERM"
 description: "85580 - ST MICHEL EN L HERM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "37130 - CINQ MARS LA PILE | Entraide, Annonces, Initiatives"
+title: "37130 - CINQ MARS LA PILE"
 description: "37130 - CINQ MARS LA PILE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

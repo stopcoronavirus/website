@@ -1,5 +1,5 @@
 ---
-title: "84110 - ST MARCELLIN LES VAISON | Entraide, Annonces, Initiatives"
+title: "84110 - ST MARCELLIN LES VAISON"
 description: "84110 - ST MARCELLIN LES VAISON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "29850 - GOUESNOU | Entraide, Annonces, Initiatives"
+title: "29850 - GOUESNOU"
 description: "29850 - GOUESNOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

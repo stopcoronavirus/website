@@ -1,5 +1,5 @@
 ---
-title: "58490 - ST PARIZE LE CHATEL | Entraide, Annonces, Initiatives"
+title: "58490 - ST PARIZE LE CHATEL"
 description: "58490 - ST PARIZE LE CHATEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "01250 - JASSERON | Entraide, Annonces, Initiatives"
+title: "01250 - JASSERON"
 description: "01250 - JASSERON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

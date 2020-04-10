@@ -1,5 +1,5 @@
 ---
-title: "16160 - GOND PONTOUVRE | Entraide, Annonces, Initiatives"
+title: "16160 - GOND PONTOUVRE"
 description: "16160 - GOND PONTOUVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "54134 - CEINTREY | Entraide, Annonces, Initiatives"
+title: "54134 - CEINTREY"
 description: "54134 - CEINTREY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

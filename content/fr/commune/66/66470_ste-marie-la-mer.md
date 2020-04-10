@@ -1,5 +1,5 @@
 ---
-title: "66470 - STE MARIE LA MER | Entraide, Annonces, Initiatives"
+title: "66470 - STE MARIE LA MER"
 description: "66470 - STE MARIE LA MER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

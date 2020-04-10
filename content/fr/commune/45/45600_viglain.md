@@ -1,5 +1,5 @@
 ---
-title: "45600 - VIGLAIN | Entraide, Annonces, Initiatives"
+title: "45600 - VIGLAIN"
 description: "45600 - VIGLAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

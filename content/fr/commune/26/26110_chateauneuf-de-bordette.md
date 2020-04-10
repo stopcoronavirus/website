@@ -1,5 +1,5 @@
 ---
-title: "26110 - CHATEAUNEUF DE BORDETTE | Entraide, Annonces, Initiatives"
+title: "26110 - CHATEAUNEUF DE BORDETTE"
 description: "26110 - CHATEAUNEUF DE BORDETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

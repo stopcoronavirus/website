@@ -1,5 +1,5 @@
 ---
-title: "23360 - NOUZEROLLES | Entraide, Annonces, Initiatives"
+title: "23360 - NOUZEROLLES"
 description: "23360 - NOUZEROLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

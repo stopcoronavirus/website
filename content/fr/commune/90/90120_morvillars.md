@@ -1,5 +1,5 @@
 ---
-title: "90120 - MORVILLARS | Entraide, Annonces, Initiatives"
+title: "90120 - MORVILLARS"
 description: "90120 - MORVILLARS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

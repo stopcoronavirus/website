@@ -1,5 +1,5 @@
 ---
-title: "36290 - ST MICHEL EN BRENNE | Entraide, Annonces, Initiatives"
+title: "36290 - ST MICHEL EN BRENNE"
 description: "36290 - ST MICHEL EN BRENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

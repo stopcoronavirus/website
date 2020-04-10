@@ -1,5 +1,5 @@
 ---
-title: "56190 - LE GUERNO | Entraide, Annonces, Initiatives"
+title: "56190 - LE GUERNO"
 description: "56190 - LE GUERNO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

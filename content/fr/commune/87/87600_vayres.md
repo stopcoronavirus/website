@@ -1,5 +1,5 @@
 ---
-title: "87600 - VAYRES | Entraide, Annonces, Initiatives"
+title: "87600 - VAYRES"
 description: "87600 - VAYRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

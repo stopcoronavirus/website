@@ -1,5 +1,5 @@
 ---
-title: "38290 - SATOLAS ET BONCE | Entraide, Annonces, Initiatives"
+title: "38290 - SATOLAS ET BONCE"
 description: "38290 - SATOLAS ET BONCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

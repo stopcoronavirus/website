@@ -1,5 +1,5 @@
 ---
-title: "09350 - FORNEX | Entraide, Annonces, Initiatives"
+title: "09350 - FORNEX"
 description: "09350 - FORNEX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

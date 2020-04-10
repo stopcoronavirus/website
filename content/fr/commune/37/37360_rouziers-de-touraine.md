@@ -1,5 +1,5 @@
 ---
-title: "37360 - ROUZIERS DE TOURAINE | Entraide, Annonces, Initiatives"
+title: "37360 - ROUZIERS DE TOURAINE"
 description: "37360 - ROUZIERS DE TOURAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

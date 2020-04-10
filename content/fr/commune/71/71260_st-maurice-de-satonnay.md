@@ -1,5 +1,5 @@
 ---
-title: "71260 - ST MAURICE DE SATONNAY | Entraide, Annonces, Initiatives"
+title: "71260 - ST MAURICE DE SATONNAY"
 description: "71260 - ST MAURICE DE SATONNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "08250 - LANCON | Entraide, Annonces, Initiatives"
+title: "08250 - LANCON"
 description: "08250 - LANCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

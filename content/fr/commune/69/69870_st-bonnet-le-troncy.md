@@ -1,5 +1,5 @@
 ---
-title: "69870 - ST BONNET LE TRONCY | Entraide, Annonces, Initiatives"
+title: "69870 - ST BONNET LE TRONCY"
 description: "69870 - ST BONNET LE TRONCY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

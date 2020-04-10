@@ -1,5 +1,5 @@
 ---
-title: "85120 - ST HILAIRE DE VOUST | Entraide, Annonces, Initiatives"
+title: "85120 - ST HILAIRE DE VOUST"
 description: "85120 - ST HILAIRE DE VOUST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

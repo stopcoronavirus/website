@@ -1,5 +1,5 @@
 ---
-title: "51340 - VANAULT LES DAMES | Entraide, Annonces, Initiatives"
+title: "51340 - VANAULT LES DAMES"
 description: "51340 - VANAULT LES DAMES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

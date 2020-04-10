@@ -1,5 +1,5 @@
 ---
-title: "33910 - ST MARTIN DE LAYE | Entraide, Annonces, Initiatives"
+title: "33910 - ST MARTIN DE LAYE"
 description: "33910 - ST MARTIN DE LAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

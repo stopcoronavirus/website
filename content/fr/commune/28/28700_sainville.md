@@ -1,5 +1,5 @@
 ---
-title: "28700 - SAINVILLE | Entraide, Annonces, Initiatives"
+title: "28700 - SAINVILLE"
 description: "28700 - SAINVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

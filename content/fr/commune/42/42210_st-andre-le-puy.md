@@ -1,5 +1,5 @@
 ---
-title: "42210 - ST ANDRE LE PUY | Entraide, Annonces, Initiatives"
+title: "42210 - ST ANDRE LE PUY"
 description: "42210 - ST ANDRE LE PUY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

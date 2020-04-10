@@ -1,5 +1,5 @@
 ---
-title: "98774 - PUKAPUKA | Entraide, Annonces, Initiatives"
+title: "98774 - PUKAPUKA"
 description: "98774 - PUKAPUKA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

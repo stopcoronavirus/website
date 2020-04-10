@@ -1,5 +1,5 @@
 ---
-title: "36600 - VICQ SUR NAHON | Entraide, Annonces, Initiatives"
+title: "36600 - VICQ SUR NAHON"
 description: "36600 - VICQ SUR NAHON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

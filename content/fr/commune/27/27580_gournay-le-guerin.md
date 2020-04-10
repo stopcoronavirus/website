@@ -1,5 +1,5 @@
 ---
-title: "27580 - GOURNAY LE GUERIN | Entraide, Annonces, Initiatives"
+title: "27580 - GOURNAY LE GUERIN"
 description: "27580 - GOURNAY LE GUERIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

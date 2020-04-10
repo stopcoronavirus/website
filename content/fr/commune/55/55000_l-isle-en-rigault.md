@@ -1,5 +1,5 @@
 ---
-title: "55000 - L ISLE EN RIGAULT | Entraide, Annonces, Initiatives"
+title: "55000 - L ISLE EN RIGAULT"
 description: "55000 - L ISLE EN RIGAULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

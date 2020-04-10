@@ -1,5 +1,5 @@
 ---
-title: "11700 - AZILLE | Entraide, Annonces, Initiatives"
+title: "11700 - AZILLE"
 description: "11700 - AZILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

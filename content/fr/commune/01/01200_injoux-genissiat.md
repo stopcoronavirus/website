@@ -1,5 +1,5 @@
 ---
-title: "01200 - INJOUX GENISSIAT | Entraide, Annonces, Initiatives"
+title: "01200 - INJOUX GENISSIAT"
 description: "01200 - INJOUX GENISSIAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

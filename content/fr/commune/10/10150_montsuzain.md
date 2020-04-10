@@ -1,5 +1,5 @@
 ---
-title: "10150 - MONTSUZAIN | Entraide, Annonces, Initiatives"
+title: "10150 - MONTSUZAIN"
 description: "10150 - MONTSUZAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

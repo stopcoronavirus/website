@@ -1,5 +1,5 @@
 ---
-title: "10240 - MOREMBERT | Entraide, Annonces, Initiatives"
+title: "10240 - MOREMBERT"
 description: "10240 - MOREMBERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

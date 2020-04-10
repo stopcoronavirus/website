@@ -1,5 +1,5 @@
 ---
-title: "72400 - SOUVIGNE SUR MEME | Entraide, Annonces, Initiatives"
+title: "72400 - SOUVIGNE SUR MEME"
 description: "72400 - SOUVIGNE SUR MEME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

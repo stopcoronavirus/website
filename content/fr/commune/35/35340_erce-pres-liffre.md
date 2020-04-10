@@ -1,5 +1,5 @@
 ---
-title: "35340 - ERCE PRES LIFFRE | Entraide, Annonces, Initiatives"
+title: "35340 - ERCE PRES LIFFRE"
 description: "35340 - ERCE PRES LIFFRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "33580 - COURS DE MONSEGUR | Entraide, Annonces, Initiatives"
+title: "33580 - COURS DE MONSEGUR"
 description: "33580 - COURS DE MONSEGUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

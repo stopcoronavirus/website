@@ -1,5 +1,5 @@
 ---
-title: "47500 - MONTAYRAL | Entraide, Annonces, Initiatives"
+title: "47500 - MONTAYRAL"
 description: "47500 - MONTAYRAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

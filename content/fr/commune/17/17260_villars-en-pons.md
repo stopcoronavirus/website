@@ -1,5 +1,5 @@
 ---
-title: "17260 - VILLARS EN PONS | Entraide, Annonces, Initiatives"
+title: "17260 - VILLARS EN PONS"
 description: "17260 - VILLARS EN PONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

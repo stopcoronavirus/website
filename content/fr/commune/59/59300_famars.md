@@ -1,5 +1,5 @@
 ---
-title: "59300 - FAMARS | Entraide, Annonces, Initiatives"
+title: "59300 - FAMARS"
 description: "59300 - FAMARS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

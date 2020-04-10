@@ -1,5 +1,5 @@
 ---
-title: "60600 - REMECOURT | Entraide, Annonces, Initiatives"
+title: "60600 - REMECOURT"
 description: "60600 - REMECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

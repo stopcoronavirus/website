@@ -1,5 +1,5 @@
 ---
-title: "61300 - VITRAI SOUS LAIGLE | Entraide, Annonces, Initiatives"
+title: "61300 - VITRAI SOUS LAIGLE"
 description: "61300 - VITRAI SOUS LAIGLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

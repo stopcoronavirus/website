@@ -1,5 +1,5 @@
 ---
-title: "64350 - CORBERE ABERES | Entraide, Annonces, Initiatives"
+title: "64350 - CORBERE ABERES"
 description: "64350 - CORBERE ABERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

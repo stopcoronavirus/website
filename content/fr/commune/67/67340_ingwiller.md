@@ -1,5 +1,5 @@
 ---
-title: "67340 - INGWILLER | Entraide, Annonces, Initiatives"
+title: "67340 - INGWILLER"
 description: "67340 - INGWILLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

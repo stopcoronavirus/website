@@ -1,5 +1,5 @@
 ---
-title: "24460 - NEGRONDES | Entraide, Annonces, Initiatives"
+title: "24460 - NEGRONDES"
 description: "24460 - NEGRONDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "37240 - BOURNAN | Entraide, Annonces, Initiatives"
+title: "37240 - BOURNAN"
 description: "37240 - BOURNAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

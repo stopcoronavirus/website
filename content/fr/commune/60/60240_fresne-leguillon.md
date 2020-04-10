@@ -1,5 +1,5 @@
 ---
-title: "60240 - FRESNE LEGUILLON | Entraide, Annonces, Initiatives"
+title: "60240 - FRESNE LEGUILLON"
 description: "60240 - FRESNE LEGUILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "51240 - VESIGNEUL SUR MARNE | Entraide, Annonces, Initiatives"
+title: "51240 - VESIGNEUL SUR MARNE"
 description: "51240 - VESIGNEUL SUR MARNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

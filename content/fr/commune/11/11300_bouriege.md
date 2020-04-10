@@ -1,5 +1,5 @@
 ---
-title: "11300 - BOURIEGE | Entraide, Annonces, Initiatives"
+title: "11300 - BOURIEGE"
 description: "11300 - BOURIEGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

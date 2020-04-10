@@ -1,5 +1,5 @@
 ---
-title: "35370 - ST GERMAIN DU PINEL | Entraide, Annonces, Initiatives"
+title: "35370 - ST GERMAIN DU PINEL"
 description: "35370 - ST GERMAIN DU PINEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

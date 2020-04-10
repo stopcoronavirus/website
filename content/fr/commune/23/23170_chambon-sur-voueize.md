@@ -1,5 +1,5 @@
 ---
-title: "23170 - CHAMBON SUR VOUEIZE | Entraide, Annonces, Initiatives"
+title: "23170 - CHAMBON SUR VOUEIZE"
 description: "23170 - CHAMBON SUR VOUEIZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

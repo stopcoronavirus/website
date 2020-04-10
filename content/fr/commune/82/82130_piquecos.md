@@ -1,5 +1,5 @@
 ---
-title: "82130 - PIQUECOS | Entraide, Annonces, Initiatives"
+title: "82130 - PIQUECOS"
 description: "82130 - PIQUECOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

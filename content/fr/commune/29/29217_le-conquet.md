@@ -1,5 +1,5 @@
 ---
-title: "29217 - LE CONQUET | Entraide, Annonces, Initiatives"
+title: "29217 - LE CONQUET"
 description: "29217 - LE CONQUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

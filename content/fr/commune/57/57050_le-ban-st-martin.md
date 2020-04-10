@@ -1,5 +1,5 @@
 ---
-title: "57050 - LE BAN ST MARTIN | Entraide, Annonces, Initiatives"
+title: "57050 - LE BAN ST MARTIN"
 description: "57050 - LE BAN ST MARTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

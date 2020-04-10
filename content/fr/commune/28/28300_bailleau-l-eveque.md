@@ -1,5 +1,5 @@
 ---
-title: "28300 - BAILLEAU L EVEQUE | Entraide, Annonces, Initiatives"
+title: "28300 - BAILLEAU L EVEQUE"
 description: "28300 - BAILLEAU L EVEQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

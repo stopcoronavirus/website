@@ -1,5 +1,5 @@
 ---
-title: "14670 - ST PIERRE DU JONQUET | Entraide, Annonces, Initiatives"
+title: "14670 - ST PIERRE DU JONQUET"
 description: "14670 - ST PIERRE DU JONQUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

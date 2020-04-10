@@ -1,5 +1,5 @@
 ---
-title: "62340 - BONNINGUES LES CALAIS | Entraide, Annonces, Initiatives"
+title: "62340 - BONNINGUES LES CALAIS"
 description: "62340 - BONNINGUES LES CALAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

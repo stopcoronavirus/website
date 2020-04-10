@@ -1,5 +1,5 @@
 ---
-title: "21510 - BEAULIEU | Entraide, Annonces, Initiatives"
+title: "21510 - BEAULIEU"
 description: "21510 - BEAULIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

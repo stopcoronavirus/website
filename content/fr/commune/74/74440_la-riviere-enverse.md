@@ -1,5 +1,5 @@
 ---
-title: "74440 - LA RIVIERE ENVERSE | Entraide, Annonces, Initiatives"
+title: "74440 - LA RIVIERE ENVERSE"
 description: "74440 - LA RIVIERE ENVERSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

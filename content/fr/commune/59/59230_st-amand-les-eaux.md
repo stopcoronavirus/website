@@ -1,5 +1,5 @@
 ---
-title: "59230 - ST AMAND LES EAUX | Entraide, Annonces, Initiatives"
+title: "59230 - ST AMAND LES EAUX"
 description: "59230 - ST AMAND LES EAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

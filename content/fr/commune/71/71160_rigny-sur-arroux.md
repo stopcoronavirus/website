@@ -1,5 +1,5 @@
 ---
-title: "71160 - RIGNY SUR ARROUX | Entraide, Annonces, Initiatives"
+title: "71160 - RIGNY SUR ARROUX"
 description: "71160 - RIGNY SUR ARROUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

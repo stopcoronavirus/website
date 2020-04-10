@@ -1,5 +1,5 @@
 ---
-title: "24380 - LACROPTE | Entraide, Annonces, Initiatives"
+title: "24380 - LACROPTE"
 description: "24380 - LACROPTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

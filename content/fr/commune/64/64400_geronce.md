@@ -1,5 +1,5 @@
 ---
-title: "64400 - GERONCE | Entraide, Annonces, Initiatives"
+title: "64400 - GERONCE"
 description: "64400 - GERONCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

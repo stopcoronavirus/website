@@ -1,5 +1,5 @@
 ---
-title: "81320 - MURAT SUR VEBRE | Entraide, Annonces, Initiatives"
+title: "81320 - MURAT SUR VEBRE"
 description: "81320 - MURAT SUR VEBRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "17210 - CHATENET | Entraide, Annonces, Initiatives"
+title: "17210 - CHATENET"
 description: "17210 - CHATENET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

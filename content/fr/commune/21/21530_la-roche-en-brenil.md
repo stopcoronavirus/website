@@ -1,5 +1,5 @@
 ---
-title: "21530 - LA ROCHE EN BRENIL | Entraide, Annonces, Initiatives"
+title: "21530 - LA ROCHE EN BRENIL"
 description: "21530 - LA ROCHE EN BRENIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

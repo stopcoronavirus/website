@@ -1,5 +1,5 @@
 ---
-title: "16130 - GENSAC LA PALLUE | Entraide, Annonces, Initiatives"
+title: "16130 - GENSAC LA PALLUE"
 description: "16130 - GENSAC LA PALLUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

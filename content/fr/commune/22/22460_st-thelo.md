@@ -1,5 +1,5 @@
 ---
-title: "22460 - ST THELO | Entraide, Annonces, Initiatives"
+title: "22460 - ST THELO"
 description: "22460 - ST THELO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

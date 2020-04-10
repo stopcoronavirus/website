@@ -1,5 +1,5 @@
 ---
-title: "30114 - BOISSIERES | Entraide, Annonces, Initiatives"
+title: "30114 - BOISSIERES"
 description: "30114 - BOISSIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

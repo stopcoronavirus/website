@@ -1,5 +1,5 @@
 ---
-title: "74250 - VILLE EN SALLAZ | Entraide, Annonces, Initiatives"
+title: "74250 - VILLE EN SALLAZ"
 description: "74250 - VILLE EN SALLAZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "17500 - ST MARTIAL DE VITATERNE | Entraide, Annonces, Initiatives"
+title: "17500 - ST MARTIAL DE VITATERNE"
 description: "17500 - ST MARTIAL DE VITATERNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

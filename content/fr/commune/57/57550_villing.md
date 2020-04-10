@@ -1,5 +1,5 @@
 ---
-title: "57550 - VILLING | Entraide, Annonces, Initiatives"
+title: "57550 - VILLING"
 description: "57550 - VILLING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

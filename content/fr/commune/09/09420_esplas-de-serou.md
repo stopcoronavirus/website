@@ -1,5 +1,5 @@
 ---
-title: "09420 - ESPLAS DE SEROU | Entraide, Annonces, Initiatives"
+title: "09420 - ESPLAS DE SEROU"
 description: "09420 - ESPLAS DE SEROU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

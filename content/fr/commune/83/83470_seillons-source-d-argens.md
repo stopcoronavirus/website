@@ -1,5 +1,5 @@
 ---
-title: "83470 - SEILLONS SOURCE D ARGENS | Entraide, Annonces, Initiatives"
+title: "83470 - SEILLONS SOURCE D ARGENS"
 description: "83470 - SEILLONS SOURCE D ARGENS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

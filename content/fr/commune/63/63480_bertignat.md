@@ -1,5 +1,5 @@
 ---
-title: "63480 - BERTIGNAT | Entraide, Annonces, Initiatives"
+title: "63480 - BERTIGNAT"
 description: "63480 - BERTIGNAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

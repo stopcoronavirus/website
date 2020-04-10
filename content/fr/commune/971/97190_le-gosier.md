@@ -1,5 +1,5 @@
 ---
-title: "97190 - LE GOSIER | Entraide, Annonces, Initiatives"
+title: "97190 - LE GOSIER"
 description: "97190 - LE GOSIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

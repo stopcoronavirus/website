@@ -1,5 +1,5 @@
 ---
-title: "23400 - ST PARDOUX MORTEROLLES | Entraide, Annonces, Initiatives"
+title: "23400 - ST PARDOUX MORTEROLLES"
 description: "23400 - ST PARDOUX MORTEROLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "08000 - VILLERS SEMEUSE | Entraide, Annonces, Initiatives"
+title: "08000 - VILLERS SEMEUSE"
 description: "08000 - VILLERS SEMEUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

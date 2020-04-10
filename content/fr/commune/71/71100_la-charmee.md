@@ -1,5 +1,5 @@
 ---
-title: "71100 - LA CHARMEE | Entraide, Annonces, Initiatives"
+title: "71100 - LA CHARMEE"
 description: "71100 - LA CHARMEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

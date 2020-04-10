@@ -1,5 +1,5 @@
 ---
-title: "77260 - LA FERTE SOUS JOUARRE | Entraide, Annonces, Initiatives"
+title: "77260 - LA FERTE SOUS JOUARRE"
 description: "77260 - LA FERTE SOUS JOUARRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

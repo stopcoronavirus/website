@@ -1,5 +1,5 @@
 ---
-title: "72370 - LE BREIL SUR MERIZE | Entraide, Annonces, Initiatives"
+title: "72370 - LE BREIL SUR MERIZE"
 description: "72370 - LE BREIL SUR MERIZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

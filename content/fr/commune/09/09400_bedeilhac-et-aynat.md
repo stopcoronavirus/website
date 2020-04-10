@@ -1,5 +1,5 @@
 ---
-title: "09400 - BEDEILHAC ET AYNAT | Entraide, Annonces, Initiatives"
+title: "09400 - BEDEILHAC ET AYNAT"
 description: "09400 - BEDEILHAC ET AYNAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

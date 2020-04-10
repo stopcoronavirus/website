@@ -1,5 +1,5 @@
 ---
-title: "17140 - LAGORD | Entraide, Annonces, Initiatives"
+title: "17140 - LAGORD"
 description: "17140 - LAGORD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "22160 - CARNOET | Entraide, Annonces, Initiatives"
+title: "22160 - CARNOET"
 description: "22160 - CARNOET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

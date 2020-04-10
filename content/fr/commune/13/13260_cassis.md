@@ -1,5 +1,5 @@
 ---
-title: "13260 - CASSIS | Entraide, Annonces, Initiatives"
+title: "13260 - CASSIS"
 description: "13260 - CASSIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

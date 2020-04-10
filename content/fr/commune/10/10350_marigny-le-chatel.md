@@ -1,5 +1,5 @@
 ---
-title: "10350 - MARIGNY LE CHATEL | Entraide, Annonces, Initiatives"
+title: "10350 - MARIGNY LE CHATEL"
 description: "10350 - MARIGNY LE CHATEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

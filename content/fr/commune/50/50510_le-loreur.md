@@ -1,5 +1,5 @@
 ---
-title: "50510 - LE LOREUR | Entraide, Annonces, Initiatives"
+title: "50510 - LE LOREUR"
 description: "50510 - LE LOREUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

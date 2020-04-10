@@ -1,5 +1,5 @@
 ---
-title: "14700 - MARTIGNY SUR L ANTE | Entraide, Annonces, Initiatives"
+title: "14700 - MARTIGNY SUR L ANTE"
 description: "14700 - MARTIGNY SUR L ANTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "09600 - AIGUES VIVES | Entraide, Annonces, Initiatives"
+title: "09600 - AIGUES VIVES"
 description: "09600 - AIGUES VIVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

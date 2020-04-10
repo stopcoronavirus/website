@@ -1,5 +1,5 @@
 ---
-title: "19000 - LES ANGLES SUR CORREZE | Entraide, Annonces, Initiatives"
+title: "19000 - LES ANGLES SUR CORREZE"
 description: "19000 - LES ANGLES SUR CORREZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

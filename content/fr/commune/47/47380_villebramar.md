@@ -1,5 +1,5 @@
 ---
-title: "47380 - VILLEBRAMAR | Entraide, Annonces, Initiatives"
+title: "47380 - VILLEBRAMAR"
 description: "47380 - VILLEBRAMAR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "77310 - ST FARGEAU PONTHIERRY | Entraide, Annonces, Initiatives"
+title: "77310 - ST FARGEAU PONTHIERRY"
 description: "77310 - ST FARGEAU PONTHIERRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

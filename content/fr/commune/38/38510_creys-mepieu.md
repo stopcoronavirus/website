@@ -1,5 +1,5 @@
 ---
-title: "38510 - CREYS MEPIEU | Entraide, Annonces, Initiatives"
+title: "38510 - CREYS MEPIEU"
 description: "38510 - CREYS MEPIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

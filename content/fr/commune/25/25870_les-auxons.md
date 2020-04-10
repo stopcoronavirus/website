@@ -1,5 +1,5 @@
 ---
-title: "25870 - LES AUXONS | Entraide, Annonces, Initiatives"
+title: "25870 - LES AUXONS"
 description: "25870 - LES AUXONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

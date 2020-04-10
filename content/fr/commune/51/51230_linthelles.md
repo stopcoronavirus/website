@@ -1,5 +1,5 @@
 ---
-title: "51230 - LINTHELLES | Entraide, Annonces, Initiatives"
+title: "51230 - LINTHELLES"
 description: "51230 - LINTHELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

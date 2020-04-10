@@ -1,5 +1,5 @@
 ---
-title: "89740 - QUINCEROT | Entraide, Annonces, Initiatives"
+title: "89740 - QUINCEROT"
 description: "89740 - QUINCEROT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

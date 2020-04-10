@@ -1,5 +1,5 @@
 ---
-title: "08300 - NOVY CHEVRIERES | Entraide, Annonces, Initiatives"
+title: "08300 - NOVY CHEVRIERES"
 description: "08300 - NOVY CHEVRIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

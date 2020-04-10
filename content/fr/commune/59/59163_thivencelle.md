@@ -1,5 +1,5 @@
 ---
-title: "59163 - THIVENCELLE | Entraide, Annonces, Initiatives"
+title: "59163 - THIVENCELLE"
 description: "59163 - THIVENCELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

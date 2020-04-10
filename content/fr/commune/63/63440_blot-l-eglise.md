@@ -1,5 +1,5 @@
 ---
-title: "63440 - BLOT L EGLISE | Entraide, Annonces, Initiatives"
+title: "63440 - BLOT L EGLISE"
 description: "63440 - BLOT L EGLISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "73350 - FEISSONS SUR SALINS | Entraide, Annonces, Initiatives"
+title: "73350 - FEISSONS SUR SALINS"
 description: "73350 - FEISSONS SUR SALINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

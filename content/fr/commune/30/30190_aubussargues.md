@@ -1,5 +1,5 @@
 ---
-title: "30190 - AUBUSSARGUES | Entraide, Annonces, Initiatives"
+title: "30190 - AUBUSSARGUES"
 description: "30190 - AUBUSSARGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

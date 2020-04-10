@@ -1,5 +1,5 @@
 ---
-title: "13610 - LE PUY STE REPARADE | Entraide, Annonces, Initiatives"
+title: "13610 - LE PUY STE REPARADE"
 description: "13610 - LE PUY STE REPARADE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

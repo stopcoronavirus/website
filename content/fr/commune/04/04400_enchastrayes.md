@@ -1,5 +1,5 @@
 ---
-title: "04400 - ENCHASTRAYES | Entraide, Annonces, Initiatives"
+title: "04400 - ENCHASTRAYES"
 description: "04400 - ENCHASTRAYES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

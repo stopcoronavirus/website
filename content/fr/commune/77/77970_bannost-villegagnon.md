@@ -1,5 +1,5 @@
 ---
-title: "77970 - BANNOST VILLEGAGNON | Entraide, Annonces, Initiatives"
+title: "77970 - BANNOST VILLEGAGNON"
 description: "77970 - BANNOST VILLEGAGNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

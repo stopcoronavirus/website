@@ -1,5 +1,5 @@
 ---
-title: "95340 - PERSAN | Entraide, Annonces, Initiatives"
+title: "95340 - PERSAN"
 description: "95340 - PERSAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

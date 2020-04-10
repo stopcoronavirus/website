@@ -1,5 +1,5 @@
 ---
-title: "54110 - HUDIVILLER | Entraide, Annonces, Initiatives"
+title: "54110 - HUDIVILLER"
 description: "54110 - HUDIVILLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

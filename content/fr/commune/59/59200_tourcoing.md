@@ -1,5 +1,5 @@
 ---
-title: "59200 - TOURCOING | Entraide, Annonces, Initiatives"
+title: "59200 - TOURCOING"
 description: "59200 - TOURCOING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

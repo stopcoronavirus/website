@@ -1,5 +1,5 @@
 ---
-title: "65170 - ST LARY SOULAN | Entraide, Annonces, Initiatives"
+title: "65170 - ST LARY SOULAN"
 description: "65170 - ST LARY SOULAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

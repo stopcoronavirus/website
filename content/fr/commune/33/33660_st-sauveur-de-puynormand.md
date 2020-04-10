@@ -1,5 +1,5 @@
 ---
-title: "33660 - ST SAUVEUR DE PUYNORMAND | Entraide, Annonces, Initiatives"
+title: "33660 - ST SAUVEUR DE PUYNORMAND"
 description: "33660 - ST SAUVEUR DE PUYNORMAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

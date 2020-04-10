@@ -1,5 +1,5 @@
 ---
-title: "10260 - JULLY SUR SARCE | Entraide, Annonces, Initiatives"
+title: "10260 - JULLY SUR SARCE"
 description: "10260 - JULLY SUR SARCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

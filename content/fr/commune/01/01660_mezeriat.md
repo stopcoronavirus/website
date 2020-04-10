@@ -1,5 +1,5 @@
 ---
-title: "01660 - MEZERIAT | Entraide, Annonces, Initiatives"
+title: "01660 - MEZERIAT"
 description: "01660 - MEZERIAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

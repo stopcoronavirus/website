@@ -1,5 +1,5 @@
 ---
-title: "34730 - ST VINCENT DE BARBEYRARGUES | Entraide, Annonces, Initiatives"
+title: "34730 - ST VINCENT DE BARBEYRARGUES"
 description: "34730 - ST VINCENT DE BARBEYRARGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

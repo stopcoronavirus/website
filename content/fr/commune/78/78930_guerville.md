@@ -1,5 +1,5 @@
 ---
-title: "78930 - GUERVILLE | Entraide, Annonces, Initiatives"
+title: "78930 - GUERVILLE"
 description: "78930 - GUERVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

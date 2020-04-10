@@ -1,5 +1,5 @@
 ---
-title: "97650 - M TSANGAMOUJI | Entraide, Annonces, Initiatives"
+title: "97650 - M TSANGAMOUJI"
 description: "97650 - M TSANGAMOUJI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

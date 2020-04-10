@@ -1,5 +1,5 @@
 ---
-title: "32310 - MANSENCOME | Entraide, Annonces, Initiatives"
+title: "32310 - MANSENCOME"
 description: "32310 - MANSENCOME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

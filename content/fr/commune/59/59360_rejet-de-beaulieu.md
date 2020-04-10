@@ -1,5 +1,5 @@
 ---
-title: "59360 - REJET DE BEAULIEU | Entraide, Annonces, Initiatives"
+title: "59360 - REJET DE BEAULIEU"
 description: "59360 - REJET DE BEAULIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

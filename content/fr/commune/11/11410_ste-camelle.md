@@ -1,5 +1,5 @@
 ---
-title: "11410 - STE CAMELLE | Entraide, Annonces, Initiatives"
+title: "11410 - STE CAMELLE"
 description: "11410 - STE CAMELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

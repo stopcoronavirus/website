@@ -1,5 +1,5 @@
 ---
-title: "80120 - REGNIERE ECLUSE | Entraide, Annonces, Initiatives"
+title: "80120 - REGNIERE ECLUSE"
 description: "80120 - REGNIERE ECLUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

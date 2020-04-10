@@ -1,5 +1,5 @@
 ---
-title: "37210 - VOUVRAY | Entraide, Annonces, Initiatives"
+title: "37210 - VOUVRAY"
 description: "37210 - VOUVRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

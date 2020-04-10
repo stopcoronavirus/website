@@ -1,5 +1,5 @@
 ---
-title: "55100 - VERDUN | Entraide, Annonces, Initiatives"
+title: "55100 - VERDUN"
 description: "55100 - VERDUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

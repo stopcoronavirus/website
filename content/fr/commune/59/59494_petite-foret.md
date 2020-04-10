@@ -1,5 +1,5 @@
 ---
-title: "59494 - PETITE FORET | Entraide, Annonces, Initiatives"
+title: "59494 - PETITE FORET"
 description: "59494 - PETITE FORET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

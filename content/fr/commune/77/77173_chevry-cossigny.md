@@ -1,5 +1,5 @@
 ---
-title: "77173 - CHEVRY COSSIGNY | Entraide, Annonces, Initiatives"
+title: "77173 - CHEVRY COSSIGNY"
 description: "77173 - CHEVRY COSSIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

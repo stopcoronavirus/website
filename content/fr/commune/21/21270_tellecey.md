@@ -1,5 +1,5 @@
 ---
-title: "21270 - TELLECEY | Entraide, Annonces, Initiatives"
+title: "21270 - TELLECEY"
 description: "21270 - TELLECEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "55400 - DIEPPE SOUS DOUAUMONT | Entraide, Annonces, Initiatives"
+title: "55400 - DIEPPE SOUS DOUAUMONT"
 description: "55400 - DIEPPE SOUS DOUAUMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

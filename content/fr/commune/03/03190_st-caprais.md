@@ -1,5 +1,5 @@
 ---
-title: "03190 - ST CAPRAIS | Entraide, Annonces, Initiatives"
+title: "03190 - ST CAPRAIS"
 description: "03190 - ST CAPRAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

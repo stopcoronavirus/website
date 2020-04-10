@@ -1,5 +1,5 @@
 ---
-title: "80260 - MONTIGNY SUR L HALLUE | Entraide, Annonces, Initiatives"
+title: "80260 - MONTIGNY SUR L HALLUE"
 description: "80260 - MONTIGNY SUR L HALLUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

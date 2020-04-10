@@ -1,5 +1,5 @@
 ---
-title: "55430 - BELLEVILLE SUR MEUSE | Entraide, Annonces, Initiatives"
+title: "55430 - BELLEVILLE SUR MEUSE"
 description: "55430 - BELLEVILLE SUR MEUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

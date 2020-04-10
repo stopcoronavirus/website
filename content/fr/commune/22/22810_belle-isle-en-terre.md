@@ -1,5 +1,5 @@
 ---
-title: "22810 - BELLE ISLE EN TERRE | Entraide, Annonces, Initiatives"
+title: "22810 - BELLE ISLE EN TERRE"
 description: "22810 - BELLE ISLE EN TERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

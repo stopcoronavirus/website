@@ -1,5 +1,5 @@
 ---
-title: "14112 - BIEVILLE BEUVILLE | Entraide, Annonces, Initiatives"
+title: "14112 - BIEVILLE BEUVILLE"
 description: "14112 - BIEVILLE BEUVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

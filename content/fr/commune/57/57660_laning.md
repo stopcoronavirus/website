@@ -1,5 +1,5 @@
 ---
-title: "57660 - LANING | Entraide, Annonces, Initiatives"
+title: "57660 - LANING"
 description: "57660 - LANING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "83136 - MEOUNES LES MONTRIEUX | Entraide, Annonces, Initiatives"
+title: "83136 - MEOUNES LES MONTRIEUX"
 description: "83136 - MEOUNES LES MONTRIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "46800 - MONTLAUZUN | Entraide, Annonces, Initiatives"
+title: "46800 - MONTLAUZUN"
 description: "46800 - MONTLAUZUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

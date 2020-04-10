@@ -1,5 +1,5 @@
 ---
-title: "45220 - DOUCHY MONTCORBON | Entraide, Annonces, Initiatives"
+title: "45220 - DOUCHY MONTCORBON"
 description: "45220 - DOUCHY MONTCORBON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

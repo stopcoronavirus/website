@@ -1,5 +1,5 @@
 ---
-title: "58640 - VARENNES VAUZELLES | Entraide, Annonces, Initiatives"
+title: "58640 - VARENNES VAUZELLES"
 description: "58640 - VARENNES VAUZELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

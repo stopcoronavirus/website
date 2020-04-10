@@ -1,5 +1,5 @@
 ---
-title: "87230 - DOURNAZAC | Entraide, Annonces, Initiatives"
+title: "87230 - DOURNAZAC"
 description: "87230 - DOURNAZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

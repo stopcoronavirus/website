@@ -1,5 +1,5 @@
 ---
-title: "30230 - RODILHAN | Entraide, Annonces, Initiatives"
+title: "30230 - RODILHAN"
 description: "30230 - RODILHAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

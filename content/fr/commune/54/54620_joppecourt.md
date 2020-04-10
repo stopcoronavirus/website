@@ -1,5 +1,5 @@
 ---
-title: "54620 - JOPPECOURT | Entraide, Annonces, Initiatives"
+title: "54620 - JOPPECOURT"
 description: "54620 - JOPPECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "85230 - ST URBAIN | Entraide, Annonces, Initiatives"
+title: "85230 - ST URBAIN"
 description: "85230 - ST URBAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

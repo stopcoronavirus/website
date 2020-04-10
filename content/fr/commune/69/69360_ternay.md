@@ -1,5 +1,5 @@
 ---
-title: "69360 - TERNAY | Entraide, Annonces, Initiatives"
+title: "69360 - TERNAY"
 description: "69360 - TERNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

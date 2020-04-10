@@ -1,5 +1,5 @@
 ---
-title: "63330 - ST MAURICE PRES PIONSAT | Entraide, Annonces, Initiatives"
+title: "63330 - ST MAURICE PRES PIONSAT"
 description: "63330 - ST MAURICE PRES PIONSAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

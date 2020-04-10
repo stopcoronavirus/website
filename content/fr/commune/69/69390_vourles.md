@@ -1,5 +1,5 @@
 ---
-title: "69390 - VOURLES | Entraide, Annonces, Initiatives"
+title: "69390 - VOURLES"
 description: "69390 - VOURLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

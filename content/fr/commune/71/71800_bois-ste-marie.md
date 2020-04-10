@@ -1,5 +1,5 @@
 ---
-title: "71800 - BOIS STE MARIE | Entraide, Annonces, Initiatives"
+title: "71800 - BOIS STE MARIE"
 description: "71800 - BOIS STE MARIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

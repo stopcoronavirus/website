@@ -1,5 +1,5 @@
 ---
-title: "72130 - SOUGE LE GANELON | Entraide, Annonces, Initiatives"
+title: "72130 - SOUGE LE GANELON"
 description: "72130 - SOUGE LE GANELON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

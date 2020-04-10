@@ -1,5 +1,5 @@
 ---
-title: "70160 - ST REMY EN COMTE | Entraide, Annonces, Initiatives"
+title: "70160 - ST REMY EN COMTE"
 description: "70160 - ST REMY EN COMTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "87400 - ST LEONARD DE NOBLAT | Entraide, Annonces, Initiatives"
+title: "87400 - ST LEONARD DE NOBLAT"
 description: "87400 - ST LEONARD DE NOBLAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

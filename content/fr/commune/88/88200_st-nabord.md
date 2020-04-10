@@ -1,5 +1,5 @@
 ---
-title: "88200 - ST NABORD | Entraide, Annonces, Initiatives"
+title: "88200 - ST NABORD"
 description: "88200 - ST NABORD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

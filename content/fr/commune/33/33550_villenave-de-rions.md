@@ -1,5 +1,5 @@
 ---
-title: "33550 - VILLENAVE DE RIONS | Entraide, Annonces, Initiatives"
+title: "33550 - VILLENAVE DE RIONS"
 description: "33550 - VILLENAVE DE RIONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

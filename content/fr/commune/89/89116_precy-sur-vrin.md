@@ -1,5 +1,5 @@
 ---
-title: "89116 - PRECY SUR VRIN | Entraide, Annonces, Initiatives"
+title: "89116 - PRECY SUR VRIN"
 description: "89116 - PRECY SUR VRIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

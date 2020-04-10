@@ -1,5 +1,5 @@
 ---
-title: "44530 - GUENROUET | Entraide, Annonces, Initiatives"
+title: "44530 - GUENROUET"
 description: "44530 - GUENROUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

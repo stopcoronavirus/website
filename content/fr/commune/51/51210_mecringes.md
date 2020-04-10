@@ -1,5 +1,5 @@
 ---
-title: "51210 - MECRINGES | Entraide, Annonces, Initiatives"
+title: "51210 - MECRINGES"
 description: "51210 - MECRINGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

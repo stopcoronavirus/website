@@ -1,5 +1,5 @@
 ---
-title: "32810 - CASTIN | Entraide, Annonces, Initiatives"
+title: "32810 - CASTIN"
 description: "32810 - CASTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

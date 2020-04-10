@@ -1,5 +1,5 @@
 ---
-title: "48600 - BEL AIR VAL D ANCE | Entraide, Annonces, Initiatives"
+title: "48600 - BEL AIR VAL D ANCE"
 description: "48600 - BEL AIR VAL D ANCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

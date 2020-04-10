@@ -1,5 +1,5 @@
 ---
-title: "79420 - REFFANNES | Entraide, Annonces, Initiatives"
+title: "79420 - REFFANNES"
 description: "79420 - REFFANNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

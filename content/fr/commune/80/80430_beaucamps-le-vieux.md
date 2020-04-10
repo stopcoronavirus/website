@@ -1,5 +1,5 @@
 ---
-title: "80430 - BEAUCAMPS LE VIEUX | Entraide, Annonces, Initiatives"
+title: "80430 - BEAUCAMPS LE VIEUX"
 description: "80430 - BEAUCAMPS LE VIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

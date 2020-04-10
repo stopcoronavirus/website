@@ -1,5 +1,5 @@
 ---
-title: "61270 - BONNEFOI | Entraide, Annonces, Initiatives"
+title: "61270 - BONNEFOI"
 description: "61270 - BONNEFOI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

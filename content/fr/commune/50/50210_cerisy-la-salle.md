@@ -1,5 +1,5 @@
 ---
-title: "50210 - CERISY LA SALLE | Entraide, Annonces, Initiatives"
+title: "50210 - CERISY LA SALLE"
 description: "50210 - CERISY LA SALLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

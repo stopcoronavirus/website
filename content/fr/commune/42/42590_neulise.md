@@ -1,5 +1,5 @@
 ---
-title: "42590 - NEULISE | Entraide, Annonces, Initiatives"
+title: "42590 - NEULISE"
 description: "42590 - NEULISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "17350 - FENIOUX | Entraide, Annonces, Initiatives"
+title: "17350 - FENIOUX"
 description: "17350 - FENIOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

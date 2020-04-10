@@ -1,5 +1,5 @@
 ---
-title: "88110 - ALLARMONT | Entraide, Annonces, Initiatives"
+title: "88110 - ALLARMONT"
 description: "88110 - ALLARMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

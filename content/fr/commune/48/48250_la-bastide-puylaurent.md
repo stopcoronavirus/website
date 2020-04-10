@@ -1,5 +1,5 @@
 ---
-title: "48250 - LA BASTIDE PUYLAURENT | Entraide, Annonces, Initiatives"
+title: "48250 - LA BASTIDE PUYLAURENT"
 description: "48250 - LA BASTIDE PUYLAURENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

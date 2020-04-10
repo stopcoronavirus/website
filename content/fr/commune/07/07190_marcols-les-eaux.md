@@ -1,5 +1,5 @@
 ---
-title: "07190 - MARCOLS LES EAUX | Entraide, Annonces, Initiatives"
+title: "07190 - MARCOLS LES EAUX"
 description: "07190 - MARCOLS LES EAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

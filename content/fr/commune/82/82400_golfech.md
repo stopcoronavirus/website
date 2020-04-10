@@ -1,5 +1,5 @@
 ---
-title: "82400 - GOLFECH | Entraide, Annonces, Initiatives"
+title: "82400 - GOLFECH"
 description: "82400 - GOLFECH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

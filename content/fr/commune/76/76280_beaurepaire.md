@@ -1,5 +1,5 @@
 ---
-title: "76280 - BEAUREPAIRE | Entraide, Annonces, Initiatives"
+title: "76280 - BEAUREPAIRE"
 description: "76280 - BEAUREPAIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

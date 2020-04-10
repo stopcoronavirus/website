@@ -1,5 +1,5 @@
 ---
-title: "91610 - BALLANCOURT SUR ESSONNE | Entraide, Annonces, Initiatives"
+title: "91610 - BALLANCOURT SUR ESSONNE"
 description: "91610 - BALLANCOURT SUR ESSONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "63500 - ST YVOINE | Entraide, Annonces, Initiatives"
+title: "63500 - ST YVOINE"
 description: "63500 - ST YVOINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

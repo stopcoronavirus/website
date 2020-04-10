@@ -1,5 +1,5 @@
 ---
-title: "80134 - HANGEST EN SANTERRE | Entraide, Annonces, Initiatives"
+title: "80134 - HANGEST EN SANTERRE"
 description: "80134 - HANGEST EN SANTERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "34480 - FOUZILHON | Entraide, Annonces, Initiatives"
+title: "34480 - FOUZILHON"
 description: "34480 - FOUZILHON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

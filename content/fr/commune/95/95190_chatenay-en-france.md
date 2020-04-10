@@ -1,5 +1,5 @@
 ---
-title: "95190 - CHATENAY EN FRANCE | Entraide, Annonces, Initiatives"
+title: "95190 - CHATENAY EN FRANCE"
 description: "95190 - CHATENAY EN FRANCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "48340 - ST GERMAIN DU TEIL | Entraide, Annonces, Initiatives"
+title: "48340 - ST GERMAIN DU TEIL"
 description: "48340 - ST GERMAIN DU TEIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

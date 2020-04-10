@@ -1,5 +1,5 @@
 ---
-title: "19140 - ST YBARD | Entraide, Annonces, Initiatives"
+title: "19140 - ST YBARD"
 description: "19140 - ST YBARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

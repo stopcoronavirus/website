@@ -1,5 +1,5 @@
 ---
-title: "43150 - ST MARTIN DE FUGERES | Entraide, Annonces, Initiatives"
+title: "43150 - ST MARTIN DE FUGERES"
 description: "43150 - ST MARTIN DE FUGERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

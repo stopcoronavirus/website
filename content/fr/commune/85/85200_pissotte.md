@@ -1,5 +1,5 @@
 ---
-title: "85200 - PISSOTTE | Entraide, Annonces, Initiatives"
+title: "85200 - PISSOTTE"
 description: "85200 - PISSOTTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

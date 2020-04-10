@@ -1,5 +1,5 @@
 ---
-title: "68730 - MICHELBACH LE BAS | Entraide, Annonces, Initiatives"
+title: "68730 - MICHELBACH LE BAS"
 description: "68730 - MICHELBACH LE BAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

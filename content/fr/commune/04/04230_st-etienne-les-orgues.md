@@ -1,5 +1,5 @@
 ---
-title: "04230 - ST ETIENNE LES ORGUES | Entraide, Annonces, Initiatives"
+title: "04230 - ST ETIENNE LES ORGUES"
 description: "04230 - ST ETIENNE LES ORGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

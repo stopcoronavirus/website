@@ -1,5 +1,5 @@
 ---
-title: "77510 - ST DENIS LES REBAIS | Entraide, Annonces, Initiatives"
+title: "77510 - ST DENIS LES REBAIS"
 description: "77510 - ST DENIS LES REBAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

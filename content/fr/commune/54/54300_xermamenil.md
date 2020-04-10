@@ -1,5 +1,5 @@
 ---
-title: "54300 - XERMAMENIL | Entraide, Annonces, Initiatives"
+title: "54300 - XERMAMENIL"
 description: "54300 - XERMAMENIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

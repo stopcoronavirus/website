@@ -1,5 +1,5 @@
 ---
-title: "88270 - VELOTTE ET TATIGNECOURT | Entraide, Annonces, Initiatives"
+title: "88270 - VELOTTE ET TATIGNECOURT"
 description: "88270 - VELOTTE ET TATIGNECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

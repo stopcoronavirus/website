@@ -1,5 +1,5 @@
 ---
-title: "81340 - ST MICHEL LABADIE | Entraide, Annonces, Initiatives"
+title: "81340 - ST MICHEL LABADIE"
 description: "81340 - ST MICHEL LABADIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

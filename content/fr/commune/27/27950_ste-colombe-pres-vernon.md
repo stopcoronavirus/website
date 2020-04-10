@@ -1,5 +1,5 @@
 ---
-title: "27950 - STE COLOMBE PRES VERNON | Entraide, Annonces, Initiatives"
+title: "27950 - STE COLOMBE PRES VERNON"
 description: "27950 - STE COLOMBE PRES VERNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

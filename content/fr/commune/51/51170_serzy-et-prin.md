@@ -1,5 +1,5 @@
 ---
-title: "51170 - SERZY ET PRIN | Entraide, Annonces, Initiatives"
+title: "51170 - SERZY ET PRIN"
 description: "51170 - SERZY ET PRIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

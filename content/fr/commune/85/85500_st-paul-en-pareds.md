@@ -1,5 +1,5 @@
 ---
-title: "85500 - ST PAUL EN PAREDS | Entraide, Annonces, Initiatives"
+title: "85500 - ST PAUL EN PAREDS"
 description: "85500 - ST PAUL EN PAREDS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

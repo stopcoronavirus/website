@@ -1,5 +1,5 @@
 ---
-title: "40290 - MOUSCARDES | Entraide, Annonces, Initiatives"
+title: "40290 - MOUSCARDES"
 description: "40290 - MOUSCARDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

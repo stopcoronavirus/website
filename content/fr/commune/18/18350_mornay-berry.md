@@ -1,5 +1,5 @@
 ---
-title: "18350 - MORNAY BERRY | Entraide, Annonces, Initiatives"
+title: "18350 - MORNAY BERRY"
 description: "18350 - MORNAY BERRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

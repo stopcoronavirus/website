@@ -1,5 +1,5 @@
 ---
-title: "65700 - VILLEFRANQUE | Entraide, Annonces, Initiatives"
+title: "65700 - VILLEFRANQUE"
 description: "65700 - VILLEFRANQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

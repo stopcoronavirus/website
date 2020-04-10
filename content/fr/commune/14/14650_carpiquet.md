@@ -1,5 +1,5 @@
 ---
-title: "14650 - CARPIQUET | Entraide, Annonces, Initiatives"
+title: "14650 - CARPIQUET"
 description: "14650 - CARPIQUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

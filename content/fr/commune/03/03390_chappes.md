@@ -1,5 +1,5 @@
 ---
-title: "03390 - CHAPPES | Entraide, Annonces, Initiatives"
+title: "03390 - CHAPPES"
 description: "03390 - CHAPPES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

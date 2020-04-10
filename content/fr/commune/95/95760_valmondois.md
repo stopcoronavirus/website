@@ -1,5 +1,5 @@
 ---
-title: "95760 - VALMONDOIS | Entraide, Annonces, Initiatives"
+title: "95760 - VALMONDOIS"
 description: "95760 - VALMONDOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

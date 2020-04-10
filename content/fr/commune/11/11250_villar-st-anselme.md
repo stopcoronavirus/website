@@ -1,5 +1,5 @@
 ---
-title: "11250 - VILLAR ST ANSELME | Entraide, Annonces, Initiatives"
+title: "11250 - VILLAR ST ANSELME"
 description: "11250 - VILLAR ST ANSELME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

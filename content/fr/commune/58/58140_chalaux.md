@@ -1,5 +1,5 @@
 ---
-title: "58140 - CHALAUX | Entraide, Annonces, Initiatives"
+title: "58140 - CHALAUX"
 description: "58140 - CHALAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

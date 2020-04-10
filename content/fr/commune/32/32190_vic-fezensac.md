@@ -1,5 +1,5 @@
 ---
-title: "32190 - VIC FEZENSAC | Entraide, Annonces, Initiatives"
+title: "32190 - VIC FEZENSAC"
 description: "32190 - VIC FEZENSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

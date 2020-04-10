@@ -1,5 +1,5 @@
 ---
-title: "24480 - LE BUISSON DE CADOUIN | Entraide, Annonces, Initiatives"
+title: "24480 - LE BUISSON DE CADOUIN"
 description: "24480 - LE BUISSON DE CADOUIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

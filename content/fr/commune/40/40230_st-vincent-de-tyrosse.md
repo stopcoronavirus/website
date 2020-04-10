@@ -1,5 +1,5 @@
 ---
-title: "40230 - ST VINCENT DE TYROSSE | Entraide, Annonces, Initiatives"
+title: "40230 - ST VINCENT DE TYROSSE"
 description: "40230 - ST VINCENT DE TYROSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

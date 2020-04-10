@@ -1,5 +1,5 @@
 ---
-title: "87130 - ROZIERS ST GEORGES | Entraide, Annonces, Initiatives"
+title: "87130 - ROZIERS ST GEORGES"
 description: "87130 - ROZIERS ST GEORGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

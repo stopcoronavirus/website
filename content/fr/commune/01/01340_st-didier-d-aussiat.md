@@ -1,5 +1,5 @@
 ---
-title: "01340 - ST DIDIER D AUSSIAT | Entraide, Annonces, Initiatives"
+title: "01340 - ST DIDIER D AUSSIAT"
 description: "01340 - ST DIDIER D AUSSIAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

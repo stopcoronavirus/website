@@ -1,5 +1,5 @@
 ---
-title: "68150 - HUNAWIHR | Entraide, Annonces, Initiatives"
+title: "68150 - HUNAWIHR"
 description: "68150 - HUNAWIHR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

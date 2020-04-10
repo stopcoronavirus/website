@@ -1,5 +1,5 @@
 ---
-title: "73460 - NOTRE DAME DES MILLIERES | Entraide, Annonces, Initiatives"
+title: "73460 - NOTRE DAME DES MILLIERES"
 description: "73460 - NOTRE DAME DES MILLIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

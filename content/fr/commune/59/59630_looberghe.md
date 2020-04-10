@@ -1,5 +1,5 @@
 ---
-title: "59630 - LOOBERGHE | Entraide, Annonces, Initiatives"
+title: "59630 - LOOBERGHE"
 description: "59630 - LOOBERGHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

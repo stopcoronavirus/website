@@ -1,5 +1,5 @@
 ---
-title: "56660 - ST JEAN BREVELAY | Entraide, Annonces, Initiatives"
+title: "56660 - ST JEAN BREVELAY"
 description: "56660 - ST JEAN BREVELAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

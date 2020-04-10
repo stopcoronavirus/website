@@ -1,5 +1,5 @@
 ---
-title: "71360 - COLLONGE LA MADELEINE | Entraide, Annonces, Initiatives"
+title: "71360 - COLLONGE LA MADELEINE"
 description: "71360 - COLLONGE LA MADELEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

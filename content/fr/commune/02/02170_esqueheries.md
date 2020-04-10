@@ -1,5 +1,5 @@
 ---
-title: "02170 - ESQUEHERIES | Entraide, Annonces, Initiatives"
+title: "02170 - ESQUEHERIES"
 description: "02170 - ESQUEHERIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "42830 - LA TUILIERE | Entraide, Annonces, Initiatives"
+title: "42830 - LA TUILIERE"
 description: "42830 - LA TUILIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "06530 - ST CEZAIRE SUR SIAGNE | Entraide, Annonces, Initiatives"
+title: "06530 - ST CEZAIRE SUR SIAGNE"
 description: "06530 - ST CEZAIRE SUR SIAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

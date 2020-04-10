@@ -1,5 +1,5 @@
 ---
-title: "72150 - ST VINCENT DU LOROUER | Entraide, Annonces, Initiatives"
+title: "72150 - ST VINCENT DU LOROUER"
 description: "72150 - ST VINCENT DU LOROUER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

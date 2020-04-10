@@ -1,5 +1,5 @@
 ---
-title: "61300 - ST SULPICE SUR RISLE | Entraide, Annonces, Initiatives"
+title: "61300 - ST SULPICE SUR RISLE"
 description: "61300 - ST SULPICE SUR RISLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "80330 - LONGUEAU | Entraide, Annonces, Initiatives"
+title: "80330 - LONGUEAU"
 description: "80330 - LONGUEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

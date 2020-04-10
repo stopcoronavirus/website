@@ -1,5 +1,5 @@
 ---
-title: "50700 - FLOTTEMANVILLE | Entraide, Annonces, Initiatives"
+title: "50700 - FLOTTEMANVILLE"
 description: "50700 - FLOTTEMANVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

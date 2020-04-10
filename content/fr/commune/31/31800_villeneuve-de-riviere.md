@@ -1,5 +1,5 @@
 ---
-title: "31800 - VILLENEUVE DE RIVIERE | Entraide, Annonces, Initiatives"
+title: "31800 - VILLENEUVE DE RIVIERE"
 description: "31800 - VILLENEUVE DE RIVIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

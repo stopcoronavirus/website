@@ -1,5 +1,5 @@
 ---
-title: "11400 - TREVILLE | Entraide, Annonces, Initiatives"
+title: "11400 - TREVILLE"
 description: "11400 - TREVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

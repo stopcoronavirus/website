@@ -1,5 +1,5 @@
 ---
-title: "54760 - ARRAYE ET HAN | Entraide, Annonces, Initiatives"
+title: "54760 - ARRAYE ET HAN"
 description: "54760 - ARRAYE ET HAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

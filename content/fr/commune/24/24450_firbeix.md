@@ -1,5 +1,5 @@
 ---
-title: "24450 - FIRBEIX | Entraide, Annonces, Initiatives"
+title: "24450 - FIRBEIX"
 description: "24450 - FIRBEIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

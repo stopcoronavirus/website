@@ -1,5 +1,5 @@
 ---
-title: "24400 - ST MEDARD DE MUSSIDAN | Entraide, Annonces, Initiatives"
+title: "24400 - ST MEDARD DE MUSSIDAN"
 description: "24400 - ST MEDARD DE MUSSIDAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

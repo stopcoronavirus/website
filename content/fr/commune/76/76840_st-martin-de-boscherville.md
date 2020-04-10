@@ -1,5 +1,5 @@
 ---
-title: "76840 - ST MARTIN DE BOSCHERVILLE | Entraide, Annonces, Initiatives"
+title: "76840 - ST MARTIN DE BOSCHERVILLE"
 description: "76840 - ST MARTIN DE BOSCHERVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "02240 - BRISSAY CHOIGNY | Entraide, Annonces, Initiatives"
+title: "02240 - BRISSAY CHOIGNY"
 description: "02240 - BRISSAY CHOIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

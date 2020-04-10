@@ -1,5 +1,5 @@
 ---
-title: "33790 - AURIOLLES | Entraide, Annonces, Initiatives"
+title: "33790 - AURIOLLES"
 description: "33790 - AURIOLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

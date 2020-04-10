@@ -1,5 +1,5 @@
 ---
-title: "26170 - BUIS LES BARONNIES | Entraide, Annonces, Initiatives"
+title: "26170 - BUIS LES BARONNIES"
 description: "26170 - BUIS LES BARONNIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

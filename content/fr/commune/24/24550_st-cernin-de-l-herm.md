@@ -1,5 +1,5 @@
 ---
-title: "24550 - ST CERNIN DE L HERM | Entraide, Annonces, Initiatives"
+title: "24550 - ST CERNIN DE L HERM"
 description: "24550 - ST CERNIN DE L HERM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

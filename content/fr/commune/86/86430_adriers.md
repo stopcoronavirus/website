@@ -1,5 +1,5 @@
 ---
-title: "86430 - ADRIERS | Entraide, Annonces, Initiatives"
+title: "86430 - ADRIERS"
 description: "86430 - ADRIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "34980 - COMBAILLAUX | Entraide, Annonces, Initiatives"
+title: "34980 - COMBAILLAUX"
 description: "34980 - COMBAILLAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

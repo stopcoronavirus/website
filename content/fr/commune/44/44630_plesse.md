@@ -1,5 +1,5 @@
 ---
-title: "44630 - PLESSE | Entraide, Annonces, Initiatives"
+title: "44630 - PLESSE"
 description: "44630 - PLESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

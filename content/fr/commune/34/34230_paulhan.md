@@ -1,5 +1,5 @@
 ---
-title: "34230 - PAULHAN | Entraide, Annonces, Initiatives"
+title: "34230 - PAULHAN"
 description: "34230 - PAULHAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

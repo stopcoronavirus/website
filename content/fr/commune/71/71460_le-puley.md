@@ -1,5 +1,5 @@
 ---
-title: "71460 - LE PULEY | Entraide, Annonces, Initiatives"
+title: "71460 - LE PULEY"
 description: "71460 - LE PULEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

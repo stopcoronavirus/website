@@ -1,5 +1,5 @@
 ---
-title: "35490 - VIEUX VY SUR COUESNON | Entraide, Annonces, Initiatives"
+title: "35490 - VIEUX VY SUR COUESNON"
 description: "35490 - VIEUX VY SUR COUESNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

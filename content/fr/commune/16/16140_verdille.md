@@ -1,5 +1,5 @@
 ---
-title: "16140 - VERDILLE | Entraide, Annonces, Initiatives"
+title: "16140 - VERDILLE"
 description: "16140 - VERDILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

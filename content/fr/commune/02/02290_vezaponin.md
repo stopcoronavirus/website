@@ -1,5 +1,5 @@
 ---
-title: "02290 - VEZAPONIN | Entraide, Annonces, Initiatives"
+title: "02290 - VEZAPONIN"
 description: "02290 - VEZAPONIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

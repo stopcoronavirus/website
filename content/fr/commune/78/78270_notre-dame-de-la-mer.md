@@ -1,5 +1,5 @@
 ---
-title: "78270 - NOTRE DAME DE LA MER | Entraide, Annonces, Initiatives"
+title: "78270 - NOTRE DAME DE LA MER"
 description: "78270 - NOTRE DAME DE LA MER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

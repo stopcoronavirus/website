@@ -1,5 +1,5 @@
 ---
-title: "43590 - BEAUZAC | Entraide, Annonces, Initiatives"
+title: "43590 - BEAUZAC"
 description: "43590 - BEAUZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

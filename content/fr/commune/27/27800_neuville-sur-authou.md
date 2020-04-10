@@ -1,5 +1,5 @@
 ---
-title: "27800 - NEUVILLE SUR AUTHOU | Entraide, Annonces, Initiatives"
+title: "27800 - NEUVILLE SUR AUTHOU"
 description: "27800 - NEUVILLE SUR AUTHOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

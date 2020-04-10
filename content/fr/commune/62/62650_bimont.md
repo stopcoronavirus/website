@@ -1,5 +1,5 @@
 ---
-title: "62650 - BIMONT | Entraide, Annonces, Initiatives"
+title: "62650 - BIMONT"
 description: "62650 - BIMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

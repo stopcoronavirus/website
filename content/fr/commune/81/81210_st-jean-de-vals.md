@@ -1,5 +1,5 @@
 ---
-title: "81210 - ST JEAN DE VALS | Entraide, Annonces, Initiatives"
+title: "81210 - ST JEAN DE VALS"
 description: "81210 - ST JEAN DE VALS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

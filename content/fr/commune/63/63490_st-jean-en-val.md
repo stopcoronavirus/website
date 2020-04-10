@@ -1,5 +1,5 @@
 ---
-title: "63490 - ST JEAN EN VAL | Entraide, Annonces, Initiatives"
+title: "63490 - ST JEAN EN VAL"
 description: "63490 - ST JEAN EN VAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

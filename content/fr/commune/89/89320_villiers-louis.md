@@ -1,5 +1,5 @@
 ---
-title: "89320 - VILLIERS LOUIS | Entraide, Annonces, Initiatives"
+title: "89320 - VILLIERS LOUIS"
 description: "89320 - VILLIERS LOUIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

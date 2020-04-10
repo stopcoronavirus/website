@@ -1,5 +1,5 @@
 ---
-title: "73730 - ROGNAIX | Entraide, Annonces, Initiatives"
+title: "73730 - ROGNAIX"
 description: "73730 - ROGNAIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

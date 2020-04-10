@@ -1,5 +1,5 @@
 ---
-title: "12240 - RIEUPEYROUX | Entraide, Annonces, Initiatives"
+title: "12240 - RIEUPEYROUX"
 description: "12240 - RIEUPEYROUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

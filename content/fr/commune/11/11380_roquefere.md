@@ -1,5 +1,5 @@
 ---
-title: "11380 - ROQUEFERE | Entraide, Annonces, Initiatives"
+title: "11380 - ROQUEFERE"
 description: "11380 - ROQUEFERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

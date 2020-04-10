@@ -1,5 +1,5 @@
 ---
-title: "38380 - MIRIBEL LES ECHELLES | Entraide, Annonces, Initiatives"
+title: "38380 - MIRIBEL LES ECHELLES"
 description: "38380 - MIRIBEL LES ECHELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

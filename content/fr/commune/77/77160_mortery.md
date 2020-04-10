@@ -1,5 +1,5 @@
 ---
-title: "77160 - MORTERY | Entraide, Annonces, Initiatives"
+title: "77160 - MORTERY"
 description: "77160 - MORTERY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "45400 - FLEURY LES AUBRAIS | Entraide, Annonces, Initiatives"
+title: "45400 - FLEURY LES AUBRAIS"
 description: "45400 - FLEURY LES AUBRAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "62136 - RICHEBOURG | Entraide, Annonces, Initiatives"
+title: "62136 - RICHEBOURG"
 description: "62136 - RICHEBOURG | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

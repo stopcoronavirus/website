@@ -1,5 +1,5 @@
 ---
-title: "66760 - ENVEITG | Entraide, Annonces, Initiatives"
+title: "66760 - ENVEITG"
 description: "66760 - ENVEITG | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "79170 - SECONDIGNE SUR BELLE | Entraide, Annonces, Initiatives"
+title: "79170 - SECONDIGNE SUR BELLE"
 description: "79170 - SECONDIGNE SUR BELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

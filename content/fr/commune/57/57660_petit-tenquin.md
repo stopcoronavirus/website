@@ -1,5 +1,5 @@
 ---
-title: "57660 - PETIT TENQUIN | Entraide, Annonces, Initiatives"
+title: "57660 - PETIT TENQUIN"
 description: "57660 - PETIT TENQUIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

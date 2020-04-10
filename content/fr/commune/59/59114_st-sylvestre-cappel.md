@@ -1,5 +1,5 @@
 ---
-title: "59114 - ST SYLVESTRE CAPPEL | Entraide, Annonces, Initiatives"
+title: "59114 - ST SYLVESTRE CAPPEL"
 description: "59114 - ST SYLVESTRE CAPPEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

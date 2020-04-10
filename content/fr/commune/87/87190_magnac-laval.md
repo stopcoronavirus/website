@@ -1,5 +1,5 @@
 ---
-title: "87190 - MAGNAC LAVAL | Entraide, Annonces, Initiatives"
+title: "87190 - MAGNAC LAVAL"
 description: "87190 - MAGNAC LAVAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

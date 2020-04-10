@@ -1,5 +1,5 @@
 ---
-title: "58530 - DORNECY | Entraide, Annonces, Initiatives"
+title: "58530 - DORNECY"
 description: "58530 - DORNECY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

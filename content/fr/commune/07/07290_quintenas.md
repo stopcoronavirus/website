@@ -1,5 +1,5 @@
 ---
-title: "07290 - QUINTENAS | Entraide, Annonces, Initiatives"
+title: "07290 - QUINTENAS"
 description: "07290 - QUINTENAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

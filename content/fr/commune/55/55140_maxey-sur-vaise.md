@@ -1,5 +1,5 @@
 ---
-title: "55140 - MAXEY SUR VAISE | Entraide, Annonces, Initiatives"
+title: "55140 - MAXEY SUR VAISE"
 description: "55140 - MAXEY SUR VAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

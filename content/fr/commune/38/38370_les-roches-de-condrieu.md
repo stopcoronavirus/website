@@ -1,5 +1,5 @@
 ---
-title: "38370 - LES ROCHES DE CONDRIEU | Entraide, Annonces, Initiatives"
+title: "38370 - LES ROCHES DE CONDRIEU"
 description: "38370 - LES ROCHES DE CONDRIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

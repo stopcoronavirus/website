@@ -1,5 +1,5 @@
 ---
-title: "02860 - NEUVILLE SUR AILETTE | Entraide, Annonces, Initiatives"
+title: "02860 - NEUVILLE SUR AILETTE"
 description: "02860 - NEUVILLE SUR AILETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

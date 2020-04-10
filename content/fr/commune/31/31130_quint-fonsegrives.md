@@ -1,5 +1,5 @@
 ---
-title: "31130 - QUINT FONSEGRIVES | Entraide, Annonces, Initiatives"
+title: "31130 - QUINT FONSEGRIVES"
 description: "31130 - QUINT FONSEGRIVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

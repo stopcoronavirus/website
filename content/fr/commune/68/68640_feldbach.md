@@ -1,5 +1,5 @@
 ---
-title: "68640 - FELDBACH | Entraide, Annonces, Initiatives"
+title: "68640 - FELDBACH"
 description: "68640 - FELDBACH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

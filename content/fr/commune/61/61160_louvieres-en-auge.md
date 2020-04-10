@@ -1,5 +1,5 @@
 ---
-title: "61160 - LOUVIERES EN AUGE | Entraide, Annonces, Initiatives"
+title: "61160 - LOUVIERES EN AUGE"
 description: "61160 - LOUVIERES EN AUGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

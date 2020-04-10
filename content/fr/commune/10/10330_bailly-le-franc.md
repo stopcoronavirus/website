@@ -1,5 +1,5 @@
 ---
-title: "10330 - BAILLY LE FRANC | Entraide, Annonces, Initiatives"
+title: "10330 - BAILLY LE FRANC"
 description: "10330 - BAILLY LE FRANC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

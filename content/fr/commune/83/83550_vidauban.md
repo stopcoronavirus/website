@@ -1,5 +1,5 @@
 ---
-title: "83550 - VIDAUBAN | Entraide, Annonces, Initiatives"
+title: "83550 - VIDAUBAN"
 description: "83550 - VIDAUBAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "45450 - FAY AUX LOGES | Entraide, Annonces, Initiatives"
+title: "45450 - FAY AUX LOGES"
 description: "45450 - FAY AUX LOGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

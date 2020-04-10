@@ -1,5 +1,5 @@
 ---
-title: "36110 - MOULINS SUR CEPHONS | Entraide, Annonces, Initiatives"
+title: "36110 - MOULINS SUR CEPHONS"
 description: "36110 - MOULINS SUR CEPHONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

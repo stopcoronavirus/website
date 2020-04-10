@@ -1,5 +1,5 @@
 ---
-title: "17630 - LA FLOTTE | Entraide, Annonces, Initiatives"
+title: "17630 - LA FLOTTE"
 description: "17630 - LA FLOTTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

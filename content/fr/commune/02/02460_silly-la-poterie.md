@@ -1,5 +1,5 @@
 ---
-title: "02460 - SILLY LA POTERIE | Entraide, Annonces, Initiatives"
+title: "02460 - SILLY LA POTERIE"
 description: "02460 - SILLY LA POTERIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

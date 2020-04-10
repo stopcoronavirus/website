@@ -1,5 +1,5 @@
 ---
-title: "79340 - LES CHATELIERS | Entraide, Annonces, Initiatives"
+title: "79340 - LES CHATELIERS"
 description: "79340 - LES CHATELIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

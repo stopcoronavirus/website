@@ -1,5 +1,5 @@
 ---
-title: "20213 - SAN GAVINO D AMPUGNANI | Entraide, Annonces, Initiatives"
+title: "20213 - SAN GAVINO D AMPUGNANI"
 description: "20213 - SAN GAVINO D AMPUGNANI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

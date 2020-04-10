@@ -1,5 +1,5 @@
 ---
-title: "32120 - TAYBOSC | Entraide, Annonces, Initiatives"
+title: "32120 - TAYBOSC"
 description: "32120 - TAYBOSC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

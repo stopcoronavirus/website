@@ -1,5 +1,5 @@
 ---
-title: "48400 - VEBRON | Entraide, Annonces, Initiatives"
+title: "48400 - VEBRON"
 description: "48400 - VEBRON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

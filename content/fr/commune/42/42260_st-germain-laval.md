@@ -1,5 +1,5 @@
 ---
-title: "42260 - ST GERMAIN LAVAL | Entraide, Annonces, Initiatives"
+title: "42260 - ST GERMAIN LAVAL"
 description: "42260 - ST GERMAIN LAVAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "60110 - CORBEIL CERF | Entraide, Annonces, Initiatives"
+title: "60110 - CORBEIL CERF"
 description: "60110 - CORBEIL CERF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

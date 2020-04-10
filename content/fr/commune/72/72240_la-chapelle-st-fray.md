@@ -1,5 +1,5 @@
 ---
-title: "72240 - LA CHAPELLE ST FRAY | Entraide, Annonces, Initiatives"
+title: "72240 - LA CHAPELLE ST FRAY"
 description: "72240 - LA CHAPELLE ST FRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

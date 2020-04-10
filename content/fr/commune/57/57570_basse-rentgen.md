@@ -1,5 +1,5 @@
 ---
-title: "57570 - BASSE RENTGEN | Entraide, Annonces, Initiatives"
+title: "57570 - BASSE RENTGEN"
 description: "57570 - BASSE RENTGEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

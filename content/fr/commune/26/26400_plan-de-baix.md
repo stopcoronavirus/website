@@ -1,5 +1,5 @@
 ---
-title: "26400 - PLAN DE BAIX | Entraide, Annonces, Initiatives"
+title: "26400 - PLAN DE BAIX"
 description: "26400 - PLAN DE BAIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

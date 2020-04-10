@@ -1,5 +1,5 @@
 ---
-title: "11190 - CUBIERES SUR CINOBLE | Entraide, Annonces, Initiatives"
+title: "11190 - CUBIERES SUR CINOBLE"
 description: "11190 - CUBIERES SUR CINOBLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

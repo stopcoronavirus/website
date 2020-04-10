@@ -1,5 +1,5 @@
 ---
-title: "38490 - ST ANDRE LE GAZ | Entraide, Annonces, Initiatives"
+title: "38490 - ST ANDRE LE GAZ"
 description: "38490 - ST ANDRE LE GAZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

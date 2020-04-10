@@ -1,5 +1,5 @@
 ---
-title: "17320 - MARENNES HIERS BROUAGE | Entraide, Annonces, Initiatives"
+title: "17320 - MARENNES HIERS BROUAGE"
 description: "17320 - MARENNES HIERS BROUAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

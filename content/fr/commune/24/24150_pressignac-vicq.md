@@ -1,5 +1,5 @@
 ---
-title: "24150 - PRESSIGNAC VICQ | Entraide, Annonces, Initiatives"
+title: "24150 - PRESSIGNAC VICQ"
 description: "24150 - PRESSIGNAC VICQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

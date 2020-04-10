@@ -1,5 +1,5 @@
 ---
-title: "81150 - CASTANET | Entraide, Annonces, Initiatives"
+title: "81150 - CASTANET"
 description: "81150 - CASTANET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

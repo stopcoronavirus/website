@@ -1,5 +1,5 @@
 ---
-title: "02390 - THENELLES | Entraide, Annonces, Initiatives"
+title: "02390 - THENELLES"
 description: "02390 - THENELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

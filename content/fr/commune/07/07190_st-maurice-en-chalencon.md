@@ -1,5 +1,5 @@
 ---
-title: "07190 - ST MAURICE EN CHALENCON | Entraide, Annonces, Initiatives"
+title: "07190 - ST MAURICE EN CHALENCON"
 description: "07190 - ST MAURICE EN CHALENCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

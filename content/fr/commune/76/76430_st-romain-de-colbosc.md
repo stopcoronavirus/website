@@ -1,5 +1,5 @@
 ---
-title: "76430 - ST ROMAIN DE COLBOSC | Entraide, Annonces, Initiatives"
+title: "76430 - ST ROMAIN DE COLBOSC"
 description: "76430 - ST ROMAIN DE COLBOSC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "64121 - SERRES CASTET | Entraide, Annonces, Initiatives"
+title: "64121 - SERRES CASTET"
 description: "64121 - SERRES CASTET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

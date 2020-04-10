@@ -1,5 +1,5 @@
 ---
-title: "59251 - ALLENNES LES MARAIS | Entraide, Annonces, Initiatives"
+title: "59251 - ALLENNES LES MARAIS"
 description: "59251 - ALLENNES LES MARAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

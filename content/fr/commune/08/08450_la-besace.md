@@ -1,5 +1,5 @@
 ---
-title: "08450 - LA BESACE | Entraide, Annonces, Initiatives"
+title: "08450 - LA BESACE"
 description: "08450 - LA BESACE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

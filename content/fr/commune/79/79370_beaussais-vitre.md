@@ -1,5 +1,5 @@
 ---
-title: "79370 - BEAUSSAIS VITRE | Entraide, Annonces, Initiatives"
+title: "79370 - BEAUSSAIS VITRE"
 description: "79370 - BEAUSSAIS VITRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

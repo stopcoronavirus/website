@@ -1,5 +1,5 @@
 ---
-title: "52270 - ROCHES BETTAINCOURT | Entraide, Annonces, Initiatives"
+title: "52270 - ROCHES BETTAINCOURT"
 description: "52270 - ROCHES BETTAINCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

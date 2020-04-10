@@ -1,5 +1,5 @@
 ---
-title: "14600 - LA RIVIERE ST SAUVEUR | Entraide, Annonces, Initiatives"
+title: "14600 - LA RIVIERE ST SAUVEUR"
 description: "14600 - LA RIVIERE ST SAUVEUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

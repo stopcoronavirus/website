@@ -1,5 +1,5 @@
 ---
-title: "67620 - SOUFFLENHEIM | Entraide, Annonces, Initiatives"
+title: "67620 - SOUFFLENHEIM"
 description: "67620 - SOUFFLENHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

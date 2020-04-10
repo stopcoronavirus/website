@@ -1,5 +1,5 @@
 ---
-title: "14480 - BAZENVILLE | Entraide, Annonces, Initiatives"
+title: "14480 - BAZENVILLE"
 description: "14480 - BAZENVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

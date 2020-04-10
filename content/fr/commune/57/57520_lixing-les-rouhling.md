@@ -1,5 +1,5 @@
 ---
-title: "57520 - LIXING LES ROUHLING | Entraide, Annonces, Initiatives"
+title: "57520 - LIXING LES ROUHLING"
 description: "57520 - LIXING LES ROUHLING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

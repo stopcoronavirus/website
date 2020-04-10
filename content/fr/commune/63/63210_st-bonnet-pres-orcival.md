@@ -1,5 +1,5 @@
 ---
-title: "63210 - ST BONNET PRES ORCIVAL | Entraide, Annonces, Initiatives"
+title: "63210 - ST BONNET PRES ORCIVAL"
 description: "63210 - ST BONNET PRES ORCIVAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "76860 - ST DENIS D ACLON | Entraide, Annonces, Initiatives"
+title: "76860 - ST DENIS D ACLON"
 description: "76860 - ST DENIS D ACLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

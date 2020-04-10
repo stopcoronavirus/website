@@ -1,5 +1,5 @@
 ---
-title: "63850 - EGLISENEUVE D ENTRAIGUES | Entraide, Annonces, Initiatives"
+title: "63850 - EGLISENEUVE D ENTRAIGUES"
 description: "63850 - EGLISENEUVE D ENTRAIGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

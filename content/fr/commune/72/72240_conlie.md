@@ -1,5 +1,5 @@
 ---
-title: "72240 - CONLIE | Entraide, Annonces, Initiatives"
+title: "72240 - CONLIE"
 description: "72240 - CONLIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

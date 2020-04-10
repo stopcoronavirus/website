@@ -1,5 +1,5 @@
 ---
-title: "09500 - ROUMENGOUX | Entraide, Annonces, Initiatives"
+title: "09500 - ROUMENGOUX"
 description: "09500 - ROUMENGOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

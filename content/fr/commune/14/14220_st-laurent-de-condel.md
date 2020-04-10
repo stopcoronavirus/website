@@ -1,5 +1,5 @@
 ---
-title: "14220 - ST LAURENT DE CONDEL | Entraide, Annonces, Initiatives"
+title: "14220 - ST LAURENT DE CONDEL"
 description: "14220 - ST LAURENT DE CONDEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

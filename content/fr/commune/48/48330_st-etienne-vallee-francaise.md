@@ -1,5 +1,5 @@
 ---
-title: "48330 - ST ETIENNE VALLEE FRANCAISE | Entraide, Annonces, Initiatives"
+title: "48330 - ST ETIENNE VALLEE FRANCAISE"
 description: "48330 - ST ETIENNE VALLEE FRANCAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

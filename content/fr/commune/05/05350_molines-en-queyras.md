@@ -1,5 +1,5 @@
 ---
-title: "05350 - MOLINES EN QUEYRAS | Entraide, Annonces, Initiatives"
+title: "05350 - MOLINES EN QUEYRAS"
 description: "05350 - MOLINES EN QUEYRAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

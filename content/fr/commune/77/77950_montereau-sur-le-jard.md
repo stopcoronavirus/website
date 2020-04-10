@@ -1,5 +1,5 @@
 ---
-title: "77950 - MONTEREAU SUR LE JARD | Entraide, Annonces, Initiatives"
+title: "77950 - MONTEREAU SUR LE JARD"
 description: "77950 - MONTEREAU SUR LE JARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

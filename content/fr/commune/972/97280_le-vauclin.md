@@ -1,5 +1,5 @@
 ---
-title: "97280 - LE VAUCLIN | Entraide, Annonces, Initiatives"
+title: "97280 - LE VAUCLIN"
 description: "97280 - LE VAUCLIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

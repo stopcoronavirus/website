@@ -1,5 +1,5 @@
 ---
-title: "62500 - ST OMER | Entraide, Annonces, Initiatives"
+title: "62500 - ST OMER"
 description: "62500 - ST OMER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

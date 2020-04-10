@@ -1,5 +1,5 @@
 ---
-title: "35250 - ANDOUILLE NEUVILLE | Entraide, Annonces, Initiatives"
+title: "35250 - ANDOUILLE NEUVILLE"
 description: "35250 - ANDOUILLE NEUVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

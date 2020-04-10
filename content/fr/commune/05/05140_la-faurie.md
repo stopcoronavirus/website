@@ -1,5 +1,5 @@
 ---
-title: "05140 - LA FAURIE | Entraide, Annonces, Initiatives"
+title: "05140 - LA FAURIE"
 description: "05140 - LA FAURIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

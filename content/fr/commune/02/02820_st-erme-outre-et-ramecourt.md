@@ -1,5 +1,5 @@
 ---
-title: "02820 - ST ERME OUTRE ET RAMECOURT | Entraide, Annonces, Initiatives"
+title: "02820 - ST ERME OUTRE ET RAMECOURT"
 description: "02820 - ST ERME OUTRE ET RAMECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

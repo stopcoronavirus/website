@@ -1,5 +1,5 @@
 ---
-title: "31470 - ST THOMAS | Entraide, Annonces, Initiatives"
+title: "31470 - ST THOMAS"
 description: "31470 - ST THOMAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

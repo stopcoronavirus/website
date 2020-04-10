@@ -1,5 +1,5 @@
 ---
-title: "27770 - ILLIERS L EVEQUE | Entraide, Annonces, Initiatives"
+title: "27770 - ILLIERS L EVEQUE"
 description: "27770 - ILLIERS L EVEQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

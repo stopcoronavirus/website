@@ -1,5 +1,5 @@
 ---
-title: "22310 - PLESTIN LES GREVES | Entraide, Annonces, Initiatives"
+title: "22310 - PLESTIN LES GREVES"
 description: "22310 - PLESTIN LES GREVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

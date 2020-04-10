@@ -1,5 +1,5 @@
 ---
-title: "27390 - NOTRE DAME DU HAMEL | Entraide, Annonces, Initiatives"
+title: "27390 - NOTRE DAME DU HAMEL"
 description: "27390 - NOTRE DAME DU HAMEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

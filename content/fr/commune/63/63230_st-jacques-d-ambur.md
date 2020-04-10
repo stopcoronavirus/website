@@ -1,5 +1,5 @@
 ---
-title: "63230 - ST JACQUES D AMBUR | Entraide, Annonces, Initiatives"
+title: "63230 - ST JACQUES D AMBUR"
 description: "63230 - ST JACQUES D AMBUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "34240 - COMBES | Entraide, Annonces, Initiatives"
+title: "34240 - COMBES"
 description: "34240 - COMBES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

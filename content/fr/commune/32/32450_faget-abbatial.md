@@ -1,5 +1,5 @@
 ---
-title: "32450 - FAGET ABBATIAL | Entraide, Annonces, Initiatives"
+title: "32450 - FAGET ABBATIAL"
 description: "32450 - FAGET ABBATIAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

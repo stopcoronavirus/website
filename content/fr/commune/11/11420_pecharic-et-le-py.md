@@ -1,5 +1,5 @@
 ---
-title: "11420 - PECHARIC ET LE PY | Entraide, Annonces, Initiatives"
+title: "11420 - PECHARIC ET LE PY"
 description: "11420 - PECHARIC ET LE PY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "21580 - LE MEIX | Entraide, Annonces, Initiatives"
+title: "21580 - LE MEIX"
 description: "21580 - LE MEIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

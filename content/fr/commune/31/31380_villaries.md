@@ -1,5 +1,5 @@
 ---
-title: "31380 - VILLARIES | Entraide, Annonces, Initiatives"
+title: "31380 - VILLARIES"
 description: "31380 - VILLARIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

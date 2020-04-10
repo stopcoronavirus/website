@@ -1,5 +1,5 @@
 ---
-title: "56450 - THEIX NOYALO | Entraide, Annonces, Initiatives"
+title: "56450 - THEIX NOYALO"
 description: "56450 - THEIX NOYALO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

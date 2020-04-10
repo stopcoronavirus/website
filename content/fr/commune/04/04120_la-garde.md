@@ -1,5 +1,5 @@
 ---
-title: "04120 - LA GARDE | Entraide, Annonces, Initiatives"
+title: "04120 - LA GARDE"
 description: "04120 - LA GARDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

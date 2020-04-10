@@ -1,5 +1,5 @@
 ---
-title: "71470 - MENETREUIL | Entraide, Annonces, Initiatives"
+title: "71470 - MENETREUIL"
 description: "71470 - MENETREUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

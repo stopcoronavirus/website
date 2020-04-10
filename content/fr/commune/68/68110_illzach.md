@@ -1,5 +1,5 @@
 ---
-title: "68110 - ILLZACH | Entraide, Annonces, Initiatives"
+title: "68110 - ILLZACH"
 description: "68110 - ILLZACH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

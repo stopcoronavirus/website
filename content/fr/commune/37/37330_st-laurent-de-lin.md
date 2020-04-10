@@ -1,5 +1,5 @@
 ---
-title: "37330 - ST LAURENT DE LIN | Entraide, Annonces, Initiatives"
+title: "37330 - ST LAURENT DE LIN"
 description: "37330 - ST LAURENT DE LIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

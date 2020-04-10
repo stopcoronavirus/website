@@ -1,5 +1,5 @@
 ---
-title: "28250 - LA PUISAYE | Entraide, Annonces, Initiatives"
+title: "28250 - LA PUISAYE"
 description: "28250 - LA PUISAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

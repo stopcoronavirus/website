@@ -1,5 +1,5 @@
 ---
-title: "89480 - FESTIGNY | Entraide, Annonces, Initiatives"
+title: "89480 - FESTIGNY"
 description: "89480 - FESTIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

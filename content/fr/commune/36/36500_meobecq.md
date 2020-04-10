@@ -1,5 +1,5 @@
 ---
-title: "36500 - MEOBECQ | Entraide, Annonces, Initiatives"
+title: "36500 - MEOBECQ"
 description: "36500 - MEOBECQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

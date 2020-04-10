@@ -1,5 +1,5 @@
 ---
-title: "20142 - QUASQUARA | Entraide, Annonces, Initiatives"
+title: "20142 - QUASQUARA"
 description: "20142 - QUASQUARA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

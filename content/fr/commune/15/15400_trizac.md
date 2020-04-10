@@ -1,5 +1,5 @@
 ---
-title: "15400 - TRIZAC | Entraide, Annonces, Initiatives"
+title: "15400 - TRIZAC"
 description: "15400 - TRIZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

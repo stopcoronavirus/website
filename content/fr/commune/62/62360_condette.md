@@ -1,5 +1,5 @@
 ---
-title: "62360 - CONDETTE | Entraide, Annonces, Initiatives"
+title: "62360 - CONDETTE"
 description: "62360 - CONDETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

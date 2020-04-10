@@ -1,5 +1,5 @@
 ---
-title: "79410 - ECHIRE | Entraide, Annonces, Initiatives"
+title: "79410 - ECHIRE"
 description: "79410 - ECHIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

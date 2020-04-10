@@ -1,5 +1,5 @@
 ---
-title: "69210 - ST PIERRE LA PALUD | Entraide, Annonces, Initiatives"
+title: "69210 - ST PIERRE LA PALUD"
 description: "69210 - ST PIERRE LA PALUD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

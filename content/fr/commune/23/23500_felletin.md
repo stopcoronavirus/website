@@ -1,5 +1,5 @@
 ---
-title: "23500 - FELLETIN | Entraide, Annonces, Initiatives"
+title: "23500 - FELLETIN"
 description: "23500 - FELLETIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

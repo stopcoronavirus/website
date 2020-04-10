@@ -1,5 +1,5 @@
 ---
-title: "61700 - ST GILLES DES MARAIS | Entraide, Annonces, Initiatives"
+title: "61700 - ST GILLES DES MARAIS"
 description: "61700 - ST GILLES DES MARAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

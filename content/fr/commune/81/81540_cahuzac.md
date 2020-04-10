@@ -1,5 +1,5 @@
 ---
-title: "81540 - CAHUZAC | Entraide, Annonces, Initiatives"
+title: "81540 - CAHUZAC"
 description: "81540 - CAHUZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

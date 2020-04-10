@@ -1,5 +1,5 @@
 ---
-title: "40660 - MESSANGES | Entraide, Annonces, Initiatives"
+title: "40660 - MESSANGES"
 description: "40660 - MESSANGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

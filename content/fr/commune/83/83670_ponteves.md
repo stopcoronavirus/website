@@ -1,5 +1,5 @@
 ---
-title: "83670 - PONTEVES | Entraide, Annonces, Initiatives"
+title: "83670 - PONTEVES"
 description: "83670 - PONTEVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

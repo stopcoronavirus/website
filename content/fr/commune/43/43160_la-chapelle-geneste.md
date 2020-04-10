@@ -1,5 +1,5 @@
 ---
-title: "43160 - LA CHAPELLE GENESTE | Entraide, Annonces, Initiatives"
+title: "43160 - LA CHAPELLE GENESTE"
 description: "43160 - LA CHAPELLE GENESTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

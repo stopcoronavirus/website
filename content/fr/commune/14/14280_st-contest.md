@@ -1,5 +1,5 @@
 ---
-title: "14280 - ST CONTEST | Entraide, Annonces, Initiatives"
+title: "14280 - ST CONTEST"
 description: "14280 - ST CONTEST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

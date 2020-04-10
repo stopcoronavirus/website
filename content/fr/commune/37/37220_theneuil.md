@@ -1,5 +1,5 @@
 ---
-title: "37220 - THENEUIL | Entraide, Annonces, Initiatives"
+title: "37220 - THENEUIL"
 description: "37220 - THENEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

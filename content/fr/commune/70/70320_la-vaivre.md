@@ -1,5 +1,5 @@
 ---
-title: "70320 - LA VAIVRE | Entraide, Annonces, Initiatives"
+title: "70320 - LA VAIVRE"
 description: "70320 - LA VAIVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

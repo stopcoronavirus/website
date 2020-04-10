@@ -1,5 +1,5 @@
 ---
-title: "41170 - BAILLOU | Entraide, Annonces, Initiatives"
+title: "41170 - BAILLOU"
 description: "41170 - BAILLOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "70700 - VILLERS CHEMIN ET MONT LES ETRELLES | Entraide, Annonces, Initiatives"
+title: "70700 - VILLERS CHEMIN ET MONT LES ETRELLES"
 description: "70700 - VILLERS CHEMIN ET MONT LES ETRELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

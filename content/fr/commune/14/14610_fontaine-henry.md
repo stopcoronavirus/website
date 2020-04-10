@@ -1,5 +1,5 @@
 ---
-title: "14610 - FONTAINE HENRY | Entraide, Annonces, Initiatives"
+title: "14610 - FONTAINE HENRY"
 description: "14610 - FONTAINE HENRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

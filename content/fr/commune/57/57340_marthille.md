@@ -1,5 +1,5 @@
 ---
-title: "57340 - MARTHILLE | Entraide, Annonces, Initiatives"
+title: "57340 - MARTHILLE"
 description: "57340 - MARTHILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "87300 - BLANZAC | Entraide, Annonces, Initiatives"
+title: "87300 - BLANZAC"
 description: "87300 - BLANZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

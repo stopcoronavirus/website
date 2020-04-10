@@ -1,5 +1,5 @@
 ---
-title: "80300 - MESNIL MARTINSART | Entraide, Annonces, Initiatives"
+title: "80300 - MESNIL MARTINSART"
 description: "80300 - MESNIL MARTINSART | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

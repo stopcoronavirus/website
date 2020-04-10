@@ -1,5 +1,5 @@
 ---
-title: "02230 - FRESNOY LE GRAND | Entraide, Annonces, Initiatives"
+title: "02230 - FRESNOY LE GRAND"
 description: "02230 - FRESNOY LE GRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

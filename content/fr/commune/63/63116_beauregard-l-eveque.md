@@ -1,5 +1,5 @@
 ---
-title: "63116 - BEAUREGARD L EVEQUE | Entraide, Annonces, Initiatives"
+title: "63116 - BEAUREGARD L EVEQUE"
 description: "63116 - BEAUREGARD L EVEQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

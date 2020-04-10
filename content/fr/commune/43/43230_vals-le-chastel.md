@@ -1,5 +1,5 @@
 ---
-title: "43230 - VALS LE CHASTEL | Entraide, Annonces, Initiatives"
+title: "43230 - VALS LE CHASTEL"
 description: "43230 - VALS LE CHASTEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "46700 - SERIGNAC | Entraide, Annonces, Initiatives"
+title: "46700 - SERIGNAC"
 description: "46700 - SERIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

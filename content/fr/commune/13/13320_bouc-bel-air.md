@@ -1,5 +1,5 @@
 ---
-title: "13320 - BOUC BEL AIR | Entraide, Annonces, Initiatives"
+title: "13320 - BOUC BEL AIR"
 description: "13320 - BOUC BEL AIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

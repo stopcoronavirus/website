@@ -1,5 +1,5 @@
 ---
-title: "38280 - VILLETTE D ANTHON | Entraide, Annonces, Initiatives"
+title: "38280 - VILLETTE D ANTHON"
 description: "38280 - VILLETTE D ANTHON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

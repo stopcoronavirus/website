@@ -1,5 +1,5 @@
 ---
-title: "13580 - LA FARE LES OLIVIERS | Entraide, Annonces, Initiatives"
+title: "13580 - LA FARE LES OLIVIERS"
 description: "13580 - LA FARE LES OLIVIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "36100 - CHOUDAY | Entraide, Annonces, Initiatives"
+title: "36100 - CHOUDAY"
 description: "36100 - CHOUDAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

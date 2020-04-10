@@ -1,5 +1,5 @@
 ---
-title: "40410 - SAUGNACQ ET MURET | Entraide, Annonces, Initiatives"
+title: "40410 - SAUGNACQ ET MURET"
 description: "40410 - SAUGNACQ ET MURET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

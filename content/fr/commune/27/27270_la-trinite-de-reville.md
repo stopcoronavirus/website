@@ -1,5 +1,5 @@
 ---
-title: "27270 - LA TRINITE DE REVILLE | Entraide, Annonces, Initiatives"
+title: "27270 - LA TRINITE DE REVILLE"
 description: "27270 - LA TRINITE DE REVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39460 - FONCINE LE HAUT | Entraide, Annonces, Initiatives"
+title: "39460 - FONCINE LE HAUT"
 description: "39460 - FONCINE LE HAUT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

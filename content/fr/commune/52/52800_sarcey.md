@@ -1,5 +1,5 @@
 ---
-title: "52800 - SARCEY | Entraide, Annonces, Initiatives"
+title: "52800 - SARCEY"
 description: "52800 - SARCEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

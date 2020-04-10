@@ -1,5 +1,5 @@
 ---
-title: "78200 - BOISSY MAUVOISIN | Entraide, Annonces, Initiatives"
+title: "78200 - BOISSY MAUVOISIN"
 description: "78200 - BOISSY MAUVOISIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

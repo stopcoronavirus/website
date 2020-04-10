@@ -1,5 +1,5 @@
 ---
-title: "66210 - ST PIERRE DELS FORCATS | Entraide, Annonces, Initiatives"
+title: "66210 - ST PIERRE DELS FORCATS"
 description: "66210 - ST PIERRE DELS FORCATS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

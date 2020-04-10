@@ -1,5 +1,5 @@
 ---
-title: "50890 - CONDE SUR VIRE | Entraide, Annonces, Initiatives"
+title: "50890 - CONDE SUR VIRE"
 description: "50890 - CONDE SUR VIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

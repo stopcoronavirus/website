@@ -1,5 +1,5 @@
 ---
-title: "16270 - NIEUIL | Entraide, Annonces, Initiatives"
+title: "16270 - NIEUIL"
 description: "16270 - NIEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

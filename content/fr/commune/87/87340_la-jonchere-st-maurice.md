@@ -1,5 +1,5 @@
 ---
-title: "87340 - LA JONCHERE ST MAURICE | Entraide, Annonces, Initiatives"
+title: "87340 - LA JONCHERE ST MAURICE"
 description: "87340 - LA JONCHERE ST MAURICE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

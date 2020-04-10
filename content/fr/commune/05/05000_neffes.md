@@ -1,5 +1,5 @@
 ---
-title: "05000 - NEFFES | Entraide, Annonces, Initiatives"
+title: "05000 - NEFFES"
 description: "05000 - NEFFES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

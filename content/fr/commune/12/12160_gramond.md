@@ -1,5 +1,5 @@
 ---
-title: "12160 - GRAMOND | Entraide, Annonces, Initiatives"
+title: "12160 - GRAMOND"
 description: "12160 - GRAMOND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

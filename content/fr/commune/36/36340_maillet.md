@@ -1,5 +1,5 @@
 ---
-title: "36340 - MAILLET | Entraide, Annonces, Initiatives"
+title: "36340 - MAILLET"
 description: "36340 - MAILLET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

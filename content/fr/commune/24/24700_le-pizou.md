@@ -1,5 +1,5 @@
 ---
-title: "24700 - LE PIZOU | Entraide, Annonces, Initiatives"
+title: "24700 - LE PIZOU"
 description: "24700 - LE PIZOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "34610 - CASTANET LE HAUT | Entraide, Annonces, Initiatives"
+title: "34610 - CASTANET LE HAUT"
 description: "34610 - CASTANET LE HAUT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

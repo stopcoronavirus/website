@@ -1,5 +1,5 @@
 ---
-title: "43450 - AUTRAC | Entraide, Annonces, Initiatives"
+title: "43450 - AUTRAC"
 description: "43450 - AUTRAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

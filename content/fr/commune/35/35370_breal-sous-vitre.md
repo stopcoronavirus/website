@@ -1,5 +1,5 @@
 ---
-title: "35370 - BREAL SOUS VITRE | Entraide, Annonces, Initiatives"
+title: "35370 - BREAL SOUS VITRE"
 description: "35370 - BREAL SOUS VITRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

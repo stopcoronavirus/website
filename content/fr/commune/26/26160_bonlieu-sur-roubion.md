@@ -1,5 +1,5 @@
 ---
-title: "26160 - BONLIEU SUR ROUBION | Entraide, Annonces, Initiatives"
+title: "26160 - BONLIEU SUR ROUBION"
 description: "26160 - BONLIEU SUR ROUBION | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

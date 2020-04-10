@@ -1,5 +1,5 @@
 ---
-title: "37240 - ESVES LE MOUTIER | Entraide, Annonces, Initiatives"
+title: "37240 - ESVES LE MOUTIER"
 description: "37240 - ESVES LE MOUTIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

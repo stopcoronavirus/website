@@ -1,5 +1,5 @@
 ---
-title: "27180 - LES BAUX STE CROIX | Entraide, Annonces, Initiatives"
+title: "27180 - LES BAUX STE CROIX"
 description: "27180 - LES BAUX STE CROIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "38190 - BERNIN | Entraide, Annonces, Initiatives"
+title: "38190 - BERNIN"
 description: "38190 - BERNIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

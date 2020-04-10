@@ -1,5 +1,5 @@
 ---
-title: "52130 - MONTREUIL SUR BLAISE | Entraide, Annonces, Initiatives"
+title: "52130 - MONTREUIL SUR BLAISE"
 description: "52130 - MONTREUIL SUR BLAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

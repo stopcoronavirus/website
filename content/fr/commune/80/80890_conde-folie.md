@@ -1,5 +1,5 @@
 ---
-title: "80890 - CONDE FOLIE | Entraide, Annonces, Initiatives"
+title: "80890 - CONDE FOLIE"
 description: "80890 - CONDE FOLIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

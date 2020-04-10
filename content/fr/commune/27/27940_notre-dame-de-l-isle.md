@@ -1,5 +1,5 @@
 ---
-title: "27940 - NOTRE DAME DE L ISLE | Entraide, Annonces, Initiatives"
+title: "27940 - NOTRE DAME DE L ISLE"
 description: "27940 - NOTRE DAME DE L ISLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

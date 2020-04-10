@@ -1,5 +1,5 @@
 ---
-title: "78950 - GAMBAIS | Entraide, Annonces, Initiatives"
+title: "78950 - GAMBAIS"
 description: "78950 - GAMBAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

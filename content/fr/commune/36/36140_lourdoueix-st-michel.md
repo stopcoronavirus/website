@@ -1,5 +1,5 @@
 ---
-title: "36140 - LOURDOUEIX ST MICHEL | Entraide, Annonces, Initiatives"
+title: "36140 - LOURDOUEIX ST MICHEL"
 description: "36140 - LOURDOUEIX ST MICHEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

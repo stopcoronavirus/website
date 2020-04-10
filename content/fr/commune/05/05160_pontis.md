@@ -1,5 +1,5 @@
 ---
-title: "05160 - PONTIS | Entraide, Annonces, Initiatives"
+title: "05160 - PONTIS"
 description: "05160 - PONTIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

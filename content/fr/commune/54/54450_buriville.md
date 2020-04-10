@@ -1,5 +1,5 @@
 ---
-title: "54450 - BURIVILLE | Entraide, Annonces, Initiatives"
+title: "54450 - BURIVILLE"
 description: "54450 - BURIVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "33350 - ST PEY DE CASTETS | Entraide, Annonces, Initiatives"
+title: "33350 - ST PEY DE CASTETS"
 description: "33350 - ST PEY DE CASTETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

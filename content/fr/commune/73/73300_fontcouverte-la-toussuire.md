@@ -1,5 +1,5 @@
 ---
-title: "73300 - FONTCOUVERTE LA TOUSSUIRE | Entraide, Annonces, Initiatives"
+title: "73300 - FONTCOUVERTE LA TOUSSUIRE"
 description: "73300 - FONTCOUVERTE LA TOUSSUIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

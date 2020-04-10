@@ -1,5 +1,5 @@
 ---
-title: "58270 - CIZELY | Entraide, Annonces, Initiatives"
+title: "58270 - CIZELY"
 description: "58270 - CIZELY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

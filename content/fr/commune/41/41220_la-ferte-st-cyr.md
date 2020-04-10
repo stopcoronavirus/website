@@ -1,5 +1,5 @@
 ---
-title: "41220 - LA FERTE ST CYR | Entraide, Annonces, Initiatives"
+title: "41220 - LA FERTE ST CYR"
 description: "41220 - LA FERTE ST CYR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

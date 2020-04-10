@@ -1,5 +1,5 @@
 ---
-title: "02370 - PRESLES ET BOVES | Entraide, Annonces, Initiatives"
+title: "02370 - PRESLES ET BOVES"
 description: "02370 - PRESLES ET BOVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

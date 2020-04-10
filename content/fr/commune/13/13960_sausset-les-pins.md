@@ -1,5 +1,5 @@
 ---
-title: "13960 - SAUSSET LES PINS | Entraide, Annonces, Initiatives"
+title: "13960 - SAUSSET LES PINS"
 description: "13960 - SAUSSET LES PINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "76700 - ST LAURENT DE BREVEDENT | Entraide, Annonces, Initiatives"
+title: "76700 - ST LAURENT DE BREVEDENT"
 description: "76700 - ST LAURENT DE BREVEDENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

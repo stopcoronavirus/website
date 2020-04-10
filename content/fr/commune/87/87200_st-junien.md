@@ -1,5 +1,5 @@
 ---
-title: "87200 - ST JUNIEN | Entraide, Annonces, Initiatives"
+title: "87200 - ST JUNIEN"
 description: "87200 - ST JUNIEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

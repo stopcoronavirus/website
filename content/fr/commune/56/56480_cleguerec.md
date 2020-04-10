@@ -1,5 +1,5 @@
 ---
-title: "56480 - CLEGUEREC | Entraide, Annonces, Initiatives"
+title: "56480 - CLEGUEREC"
 description: "56480 - CLEGUEREC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "87130 - ST GILLES LES FORETS | Entraide, Annonces, Initiatives"
+title: "87130 - ST GILLES LES FORETS"
 description: "87130 - ST GILLES LES FORETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

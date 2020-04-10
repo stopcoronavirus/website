@@ -1,5 +1,5 @@
 ---
-title: "22130 - ST LORMEL | Entraide, Annonces, Initiatives"
+title: "22130 - ST LORMEL"
 description: "22130 - ST LORMEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

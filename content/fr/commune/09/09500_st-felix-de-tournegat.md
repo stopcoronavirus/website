@@ -1,5 +1,5 @@
 ---
-title: "09500 - ST FELIX DE TOURNEGAT | Entraide, Annonces, Initiatives"
+title: "09500 - ST FELIX DE TOURNEGAT"
 description: "09500 - ST FELIX DE TOURNEGAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

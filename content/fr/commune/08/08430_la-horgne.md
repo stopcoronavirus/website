@@ -1,5 +1,5 @@
 ---
-title: "08430 - LA HORGNE | Entraide, Annonces, Initiatives"
+title: "08430 - LA HORGNE"
 description: "08430 - LA HORGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

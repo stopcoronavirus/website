@@ -1,5 +1,5 @@
 ---
-title: "44520 - MOISDON LA RIVIERE | Entraide, Annonces, Initiatives"
+title: "44520 - MOISDON LA RIVIERE"
 description: "44520 - MOISDON LA RIVIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

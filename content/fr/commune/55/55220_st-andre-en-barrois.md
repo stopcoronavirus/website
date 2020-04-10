@@ -1,5 +1,5 @@
 ---
-title: "55220 - ST ANDRE EN BARROIS | Entraide, Annonces, Initiatives"
+title: "55220 - ST ANDRE EN BARROIS"
 description: "55220 - ST ANDRE EN BARROIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

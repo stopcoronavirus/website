@@ -1,5 +1,5 @@
 ---
-title: "09140 - SOUEIX ROGALLE | Entraide, Annonces, Initiatives"
+title: "09140 - SOUEIX ROGALLE"
 description: "09140 - SOUEIX ROGALLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

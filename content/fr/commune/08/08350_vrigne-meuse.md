@@ -1,5 +1,5 @@
 ---
-title: "08350 - VRIGNE MEUSE | Entraide, Annonces, Initiatives"
+title: "08350 - VRIGNE MEUSE"
 description: "08350 - VRIGNE MEUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

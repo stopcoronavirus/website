@@ -1,5 +1,5 @@
 ---
-title: "95830 - CORMEILLES EN VEXIN | Entraide, Annonces, Initiatives"
+title: "95830 - CORMEILLES EN VEXIN"
 description: "95830 - CORMEILLES EN VEXIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "78940 - LA QUEUE LES YVELINES | Entraide, Annonces, Initiatives"
+title: "78940 - LA QUEUE LES YVELINES"
 description: "78940 - LA QUEUE LES YVELINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

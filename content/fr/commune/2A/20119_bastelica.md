@@ -1,5 +1,5 @@
 ---
-title: "20119 - BASTELICA | Entraide, Annonces, Initiatives"
+title: "20119 - BASTELICA"
 description: "20119 - BASTELICA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

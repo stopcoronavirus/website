@@ -1,5 +1,5 @@
 ---
-title: "57530 - LES ETANGS | Entraide, Annonces, Initiatives"
+title: "57530 - LES ETANGS"
 description: "57530 - LES ETANGS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

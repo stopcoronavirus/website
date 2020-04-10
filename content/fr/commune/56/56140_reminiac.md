@@ -1,5 +1,5 @@
 ---
-title: "56140 - REMINIAC | Entraide, Annonces, Initiatives"
+title: "56140 - REMINIAC"
 description: "56140 - REMINIAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12330 - CLAIRVAUX D AVEYRON | Entraide, Annonces, Initiatives"
+title: "12330 - CLAIRVAUX D AVEYRON"
 description: "12330 - CLAIRVAUX D AVEYRON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

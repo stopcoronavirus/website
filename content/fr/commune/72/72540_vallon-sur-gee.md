@@ -1,5 +1,5 @@
 ---
-title: "72540 - VALLON SUR GEE | Entraide, Annonces, Initiatives"
+title: "72540 - VALLON SUR GEE"
 description: "72540 - VALLON SUR GEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

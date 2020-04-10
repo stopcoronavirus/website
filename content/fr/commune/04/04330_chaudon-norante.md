@@ -1,5 +1,5 @@
 ---
-title: "04330 - CHAUDON NORANTE | Entraide, Annonces, Initiatives"
+title: "04330 - CHAUDON NORANTE"
 description: "04330 - CHAUDON NORANTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

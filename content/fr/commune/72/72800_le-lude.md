@@ -1,5 +1,5 @@
 ---
-title: "72800 - LE LUDE | Entraide, Annonces, Initiatives"
+title: "72800 - LE LUDE"
 description: "72800 - LE LUDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

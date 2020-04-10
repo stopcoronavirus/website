@@ -1,5 +1,5 @@
 ---
-title: "97312 - ST ELIE | Entraide, Annonces, Initiatives"
+title: "97312 - ST ELIE"
 description: "97312 - ST ELIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

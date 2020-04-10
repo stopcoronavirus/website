@@ -1,5 +1,5 @@
 ---
-title: "31460 - AURIAC SUR VENDINELLE | Entraide, Annonces, Initiatives"
+title: "31460 - AURIAC SUR VENDINELLE"
 description: "31460 - AURIAC SUR VENDINELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "06670 - LA ROQUETTE SUR VAR | Entraide, Annonces, Initiatives"
+title: "06670 - LA ROQUETTE SUR VAR"
 description: "06670 - LA ROQUETTE SUR VAR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

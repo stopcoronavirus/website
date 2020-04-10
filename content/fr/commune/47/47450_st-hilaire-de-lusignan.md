@@ -1,5 +1,5 @@
 ---
-title: "47450 - ST HILAIRE DE LUSIGNAN | Entraide, Annonces, Initiatives"
+title: "47450 - ST HILAIRE DE LUSIGNAN"
 description: "47450 - ST HILAIRE DE LUSIGNAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

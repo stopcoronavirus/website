@@ -1,5 +1,5 @@
 ---
-title: "57905 - ZETTING | Entraide, Annonces, Initiatives"
+title: "57905 - ZETTING"
 description: "57905 - ZETTING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

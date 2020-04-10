@@ -1,5 +1,5 @@
 ---
-title: "45150 - JARGEAU | Entraide, Annonces, Initiatives"
+title: "45150 - JARGEAU"
 description: "45150 - JARGEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

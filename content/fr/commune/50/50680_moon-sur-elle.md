@@ -1,5 +1,5 @@
 ---
-title: "50680 - MOON SUR ELLE | Entraide, Annonces, Initiatives"
+title: "50680 - MOON SUR ELLE"
 description: "50680 - MOON SUR ELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

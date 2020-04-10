@@ -1,5 +1,5 @@
 ---
-title: "26420 - LA CHAPELLE EN VERCORS | Entraide, Annonces, Initiatives"
+title: "26420 - LA CHAPELLE EN VERCORS"
 description: "26420 - LA CHAPELLE EN VERCORS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

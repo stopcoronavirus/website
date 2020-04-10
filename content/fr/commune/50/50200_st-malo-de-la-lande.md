@@ -1,5 +1,5 @@
 ---
-title: "50200 - ST MALO DE LA LANDE | Entraide, Annonces, Initiatives"
+title: "50200 - ST MALO DE LA LANDE"
 description: "50200 - ST MALO DE LA LANDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

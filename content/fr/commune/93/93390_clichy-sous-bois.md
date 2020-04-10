@@ -1,5 +1,5 @@
 ---
-title: "93390 - CLICHY SOUS BOIS | Entraide, Annonces, Initiatives"
+title: "93390 - CLICHY SOUS BOIS"
 description: "93390 - CLICHY SOUS BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

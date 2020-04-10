@@ -1,5 +1,5 @@
 ---
-title: "54800 - BRAINVILLE | Entraide, Annonces, Initiatives"
+title: "54800 - BRAINVILLE"
 description: "54800 - BRAINVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39230 - LOMBARD | Entraide, Annonces, Initiatives"
+title: "39230 - LOMBARD"
 description: "39230 - LOMBARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

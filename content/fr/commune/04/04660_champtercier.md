@@ -1,5 +1,5 @@
 ---
-title: "04660 - CHAMPTERCIER | Entraide, Annonces, Initiatives"
+title: "04660 - CHAMPTERCIER"
 description: "04660 - CHAMPTERCIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

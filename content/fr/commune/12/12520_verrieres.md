@@ -1,5 +1,5 @@
 ---
-title: "12520 - VERRIERES | Entraide, Annonces, Initiatives"
+title: "12520 - VERRIERES"
 description: "12520 - VERRIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "05400 - LE SAIX | Entraide, Annonces, Initiatives"
+title: "05400 - LE SAIX"
 description: "05400 - LE SAIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

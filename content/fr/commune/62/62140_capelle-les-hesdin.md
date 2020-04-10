@@ -1,5 +1,5 @@
 ---
-title: "62140 - CAPELLE LES HESDIN | Entraide, Annonces, Initiatives"
+title: "62140 - CAPELLE LES HESDIN"
 description: "62140 - CAPELLE LES HESDIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

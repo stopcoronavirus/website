@@ -1,5 +1,5 @@
 ---
-title: "54280 - MONCEL SUR SEILLE | Entraide, Annonces, Initiatives"
+title: "54280 - MONCEL SUR SEILLE"
 description: "54280 - MONCEL SUR SEILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

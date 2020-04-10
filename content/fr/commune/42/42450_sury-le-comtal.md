@@ -1,5 +1,5 @@
 ---
-title: "42450 - SURY LE COMTAL | Entraide, Annonces, Initiatives"
+title: "42450 - SURY LE COMTAL"
 description: "42450 - SURY LE COMTAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

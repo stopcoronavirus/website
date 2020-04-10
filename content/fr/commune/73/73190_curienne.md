@@ -1,5 +1,5 @@
 ---
-title: "73190 - CURIENNE | Entraide, Annonces, Initiatives"
+title: "73190 - CURIENNE"
 description: "73190 - CURIENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

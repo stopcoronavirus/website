@@ -1,5 +1,5 @@
 ---
-title: "88300 - REBEUVILLE | Entraide, Annonces, Initiatives"
+title: "88300 - REBEUVILLE"
 description: "88300 - REBEUVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

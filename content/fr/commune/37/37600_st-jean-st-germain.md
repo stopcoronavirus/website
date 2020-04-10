@@ -1,5 +1,5 @@
 ---
-title: "37600 - ST JEAN ST GERMAIN | Entraide, Annonces, Initiatives"
+title: "37600 - ST JEAN ST GERMAIN"
 description: "37600 - ST JEAN ST GERMAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

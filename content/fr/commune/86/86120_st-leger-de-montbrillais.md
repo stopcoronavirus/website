@@ -1,5 +1,5 @@
 ---
-title: "86120 - ST LEGER DE MONTBRILLAIS | Entraide, Annonces, Initiatives"
+title: "86120 - ST LEGER DE MONTBRILLAIS"
 description: "86120 - ST LEGER DE MONTBRILLAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

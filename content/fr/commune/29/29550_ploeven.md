@@ -1,5 +1,5 @@
 ---
-title: "29550 - PLOEVEN | Entraide, Annonces, Initiatives"
+title: "29550 - PLOEVEN"
 description: "29550 - PLOEVEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

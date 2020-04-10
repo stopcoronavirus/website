@@ -1,5 +1,5 @@
 ---
-title: "60380 - VILLERS VERMONT | Entraide, Annonces, Initiatives"
+title: "60380 - VILLERS VERMONT"
 description: "60380 - VILLERS VERMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "47210 - PARRANQUET | Entraide, Annonces, Initiatives"
+title: "47210 - PARRANQUET"
 description: "47210 - PARRANQUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

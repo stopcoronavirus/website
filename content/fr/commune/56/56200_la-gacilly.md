@@ -1,5 +1,5 @@
 ---
-title: "56200 - LA GACILLY | Entraide, Annonces, Initiatives"
+title: "56200 - LA GACILLY"
 description: "56200 - LA GACILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

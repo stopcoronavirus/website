@@ -1,5 +1,5 @@
 ---
-title: "31510 - VALCABRERE | Entraide, Annonces, Initiatives"
+title: "31510 - VALCABRERE"
 description: "31510 - VALCABRERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

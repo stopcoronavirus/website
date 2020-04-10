@@ -1,5 +1,5 @@
 ---
-title: "46500 - MAYRINHAC LENTOUR | Entraide, Annonces, Initiatives"
+title: "46500 - MAYRINHAC LENTOUR"
 description: "46500 - MAYRINHAC LENTOUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

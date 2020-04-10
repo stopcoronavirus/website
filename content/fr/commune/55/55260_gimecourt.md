@@ -1,5 +1,5 @@
 ---
-title: "55260 - GIMECOURT | Entraide, Annonces, Initiatives"
+title: "55260 - GIMECOURT"
 description: "55260 - GIMECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

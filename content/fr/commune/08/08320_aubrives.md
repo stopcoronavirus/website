@@ -1,5 +1,5 @@
 ---
-title: "08320 - AUBRIVES | Entraide, Annonces, Initiatives"
+title: "08320 - AUBRIVES"
 description: "08320 - AUBRIVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

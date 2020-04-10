@@ -1,5 +1,5 @@
 ---
-title: "54390 - FROUARD | Entraide, Annonces, Initiatives"
+title: "54390 - FROUARD"
 description: "54390 - FROUARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

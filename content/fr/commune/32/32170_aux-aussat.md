@@ -1,5 +1,5 @@
 ---
-title: "32170 - AUX AUSSAT | Entraide, Annonces, Initiatives"
+title: "32170 - AUX AUSSAT"
 description: "32170 - AUX AUSSAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

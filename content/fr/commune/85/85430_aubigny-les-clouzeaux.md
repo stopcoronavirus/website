@@ -1,5 +1,5 @@
 ---
-title: "85430 - AUBIGNY LES CLOUZEAUX | Entraide, Annonces, Initiatives"
+title: "85430 - AUBIGNY LES CLOUZEAUX"
 description: "85430 - AUBIGNY LES CLOUZEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

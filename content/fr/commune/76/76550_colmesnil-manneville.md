@@ -1,5 +1,5 @@
 ---
-title: "76550 - COLMESNIL MANNEVILLE | Entraide, Annonces, Initiatives"
+title: "76550 - COLMESNIL MANNEVILLE"
 description: "76550 - COLMESNIL MANNEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

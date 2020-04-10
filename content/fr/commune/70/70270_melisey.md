@@ -1,5 +1,5 @@
 ---
-title: "70270 - MELISEY | Entraide, Annonces, Initiatives"
+title: "70270 - MELISEY"
 description: "70270 - MELISEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

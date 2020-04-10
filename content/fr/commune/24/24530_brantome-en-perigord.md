@@ -1,5 +1,5 @@
 ---
-title: "24530 - BRANTOME EN PERIGORD | Entraide, Annonces, Initiatives"
+title: "24530 - BRANTOME EN PERIGORD"
 description: "24530 - BRANTOME EN PERIGORD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

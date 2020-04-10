@@ -1,5 +1,5 @@
 ---
-title: "53120 - CARELLES | Entraide, Annonces, Initiatives"
+title: "53120 - CARELLES"
 description: "53120 - CARELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

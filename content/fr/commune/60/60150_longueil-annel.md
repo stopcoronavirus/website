@@ -1,5 +1,5 @@
 ---
-title: "60150 - LONGUEIL ANNEL | Entraide, Annonces, Initiatives"
+title: "60150 - LONGUEIL ANNEL"
 description: "60150 - LONGUEIL ANNEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

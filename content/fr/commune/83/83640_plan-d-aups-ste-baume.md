@@ -1,5 +1,5 @@
 ---
-title: "83640 - PLAN D AUPS STE BAUME | Entraide, Annonces, Initiatives"
+title: "83640 - PLAN D AUPS STE BAUME"
 description: "83640 - PLAN D AUPS STE BAUME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

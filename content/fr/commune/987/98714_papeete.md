@@ -1,5 +1,5 @@
 ---
-title: "98714 - PAPEETE | Entraide, Annonces, Initiatives"
+title: "98714 - PAPEETE"
 description: "98714 - PAPEETE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

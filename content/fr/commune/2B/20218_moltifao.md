@@ -1,5 +1,5 @@
 ---
-title: "20218 - MOLTIFAO | Entraide, Annonces, Initiatives"
+title: "20218 - MOLTIFAO"
 description: "20218 - MOLTIFAO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

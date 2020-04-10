@@ -1,5 +1,5 @@
 ---
-title: "02370 - CHASSEMY | Entraide, Annonces, Initiatives"
+title: "02370 - CHASSEMY"
 description: "02370 - CHASSEMY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

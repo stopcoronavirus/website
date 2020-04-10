@@ -1,5 +1,5 @@
 ---
-title: "88630 - SERAUMONT | Entraide, Annonces, Initiatives"
+title: "88630 - SERAUMONT"
 description: "88630 - SERAUMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

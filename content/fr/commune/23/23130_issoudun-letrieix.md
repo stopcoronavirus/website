@@ -1,5 +1,5 @@
 ---
-title: "23130 - ISSOUDUN LETRIEIX | Entraide, Annonces, Initiatives"
+title: "23130 - ISSOUDUN LETRIEIX"
 description: "23130 - ISSOUDUN LETRIEIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

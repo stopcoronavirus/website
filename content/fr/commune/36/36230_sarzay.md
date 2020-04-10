@@ -1,5 +1,5 @@
 ---
-title: "36230 - SARZAY | Entraide, Annonces, Initiatives"
+title: "36230 - SARZAY"
 description: "36230 - SARZAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

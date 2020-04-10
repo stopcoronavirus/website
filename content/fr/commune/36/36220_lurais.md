@@ -1,5 +1,5 @@
 ---
-title: "36220 - LURAIS | Entraide, Annonces, Initiatives"
+title: "36220 - LURAIS"
 description: "36220 - LURAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

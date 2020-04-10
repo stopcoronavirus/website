@@ -1,5 +1,5 @@
 ---
-title: "23430 - CHATELUS LE MARCHEIX | Entraide, Annonces, Initiatives"
+title: "23430 - CHATELUS LE MARCHEIX"
 description: "23430 - CHATELUS LE MARCHEIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

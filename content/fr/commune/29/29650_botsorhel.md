@@ -1,5 +1,5 @@
 ---
-title: "29650 - BOTSORHEL | Entraide, Annonces, Initiatives"
+title: "29650 - BOTSORHEL"
 description: "29650 - BOTSORHEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "92150 - SURESNES | Entraide, Annonces, Initiatives"
+title: "92150 - SURESNES"
 description: "92150 - SURESNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

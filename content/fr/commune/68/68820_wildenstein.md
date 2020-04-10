@@ -1,5 +1,5 @@
 ---
-title: "68820 - WILDENSTEIN | Entraide, Annonces, Initiatives"
+title: "68820 - WILDENSTEIN"
 description: "68820 - WILDENSTEIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "02450 - FESMY LE SART | Entraide, Annonces, Initiatives"
+title: "02450 - FESMY LE SART"
 description: "02450 - FESMY LE SART | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

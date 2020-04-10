@@ -1,5 +1,5 @@
 ---
-title: "36700 - CHATILLON SUR INDRE | Entraide, Annonces, Initiatives"
+title: "36700 - CHATILLON SUR INDRE"
 description: "36700 - CHATILLON SUR INDRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

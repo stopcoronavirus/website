@@ -1,5 +1,5 @@
 ---
-title: "56190 - LAUZACH | Entraide, Annonces, Initiatives"
+title: "56190 - LAUZACH"
 description: "56190 - LAUZACH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

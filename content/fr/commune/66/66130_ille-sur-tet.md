@@ -1,5 +1,5 @@
 ---
-title: "66130 - ILLE SUR TET | Entraide, Annonces, Initiatives"
+title: "66130 - ILLE SUR TET"
 description: "66130 - ILLE SUR TET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

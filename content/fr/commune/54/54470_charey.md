@@ -1,5 +1,5 @@
 ---
-title: "54470 - CHAREY | Entraide, Annonces, Initiatives"
+title: "54470 - CHAREY"
 description: "54470 - CHAREY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

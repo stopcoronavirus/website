@@ -1,5 +1,5 @@
 ---
-title: "69550 - ST JEAN LA BUSSIERE | Entraide, Annonces, Initiatives"
+title: "69550 - ST JEAN LA BUSSIERE"
 description: "69550 - ST JEAN LA BUSSIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

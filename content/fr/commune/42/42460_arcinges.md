@@ -1,5 +1,5 @@
 ---
-title: "42460 - ARCINGES | Entraide, Annonces, Initiatives"
+title: "42460 - ARCINGES"
 description: "42460 - ARCINGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

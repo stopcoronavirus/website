@@ -1,5 +1,5 @@
 ---
-title: "06510 - BEZAUDUN LES ALPES | Entraide, Annonces, Initiatives"
+title: "06510 - BEZAUDUN LES ALPES"
 description: "06510 - BEZAUDUN LES ALPES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "05400 - CHABESTAN | Entraide, Annonces, Initiatives"
+title: "05400 - CHABESTAN"
 description: "05400 - CHABESTAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

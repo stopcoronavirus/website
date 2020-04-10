@@ -1,5 +1,5 @@
 ---
-title: "58120 - CHATEAU CHINON VILLE | Entraide, Annonces, Initiatives"
+title: "58120 - CHATEAU CHINON VILLE"
 description: "58120 - CHATEAU CHINON VILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

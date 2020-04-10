@@ -1,5 +1,5 @@
 ---
-title: "24440 - ST AVIT SENIEUR | Entraide, Annonces, Initiatives"
+title: "24440 - ST AVIT SENIEUR"
 description: "24440 - ST AVIT SENIEUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

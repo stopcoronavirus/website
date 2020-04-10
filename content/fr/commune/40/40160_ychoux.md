@@ -1,5 +1,5 @@
 ---
-title: "40160 - YCHOUX | Entraide, Annonces, Initiatives"
+title: "40160 - YCHOUX"
 description: "40160 - YCHOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

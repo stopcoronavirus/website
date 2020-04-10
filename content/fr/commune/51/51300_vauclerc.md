@@ -1,5 +1,5 @@
 ---
-title: "51300 - VAUCLERC | Entraide, Annonces, Initiatives"
+title: "51300 - VAUCLERC"
 description: "51300 - VAUCLERC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

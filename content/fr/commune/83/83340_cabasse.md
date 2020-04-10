@@ -1,5 +1,5 @@
 ---
-title: "83340 - CABASSE | Entraide, Annonces, Initiatives"
+title: "83340 - CABASSE"
 description: "83340 - CABASSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

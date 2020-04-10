@@ -1,5 +1,5 @@
 ---
-title: "69800 - ST PRIEST | Entraide, Annonces, Initiatives"
+title: "69800 - ST PRIEST"
 description: "69800 - ST PRIEST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

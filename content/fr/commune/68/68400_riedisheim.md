@@ -1,5 +1,5 @@
 ---
-title: "68400 - RIEDISHEIM | Entraide, Annonces, Initiatives"
+title: "68400 - RIEDISHEIM"
 description: "68400 - RIEDISHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "68120 - RICHWILLER | Entraide, Annonces, Initiatives"
+title: "68120 - RICHWILLER"
 description: "68120 - RICHWILLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

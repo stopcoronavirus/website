@@ -1,5 +1,5 @@
 ---
-title: "06320 - CAP D AIL | Entraide, Annonces, Initiatives"
+title: "06320 - CAP D AIL"
 description: "06320 - CAP D AIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

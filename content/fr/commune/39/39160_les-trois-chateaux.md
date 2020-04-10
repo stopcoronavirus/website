@@ -1,5 +1,5 @@
 ---
-title: "39160 - LES TROIS CHATEAUX | Entraide, Annonces, Initiatives"
+title: "39160 - LES TROIS CHATEAUX"
 description: "39160 - LES TROIS CHATEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

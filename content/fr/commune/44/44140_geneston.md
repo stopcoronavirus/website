@@ -1,5 +1,5 @@
 ---
-title: "44140 - GENESTON | Entraide, Annonces, Initiatives"
+title: "44140 - GENESTON"
 description: "44140 - GENESTON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

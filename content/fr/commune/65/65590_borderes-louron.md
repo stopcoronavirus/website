@@ -1,5 +1,5 @@
 ---
-title: "65590 - BORDERES LOURON | Entraide, Annonces, Initiatives"
+title: "65590 - BORDERES LOURON"
 description: "65590 - BORDERES LOURON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

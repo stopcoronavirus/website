@@ -1,5 +1,5 @@
 ---
-title: "24130 - ST GEORGES BLANCANEIX | Entraide, Annonces, Initiatives"
+title: "24130 - ST GEORGES BLANCANEIX"
 description: "24130 - ST GEORGES BLANCANEIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

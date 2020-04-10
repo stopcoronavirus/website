@@ -1,5 +1,5 @@
 ---
-title: "41270 - LE GAULT DU PERCHE | Entraide, Annonces, Initiatives"
+title: "41270 - LE GAULT DU PERCHE"
 description: "41270 - LE GAULT DU PERCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

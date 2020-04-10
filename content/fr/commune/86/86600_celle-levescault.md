@@ -1,5 +1,5 @@
 ---
-title: "86600 - CELLE LEVESCAULT | Entraide, Annonces, Initiatives"
+title: "86600 - CELLE LEVESCAULT"
 description: "86600 - CELLE LEVESCAULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

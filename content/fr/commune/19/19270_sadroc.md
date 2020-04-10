@@ -1,5 +1,5 @@
 ---
-title: "19270 - SADROC | Entraide, Annonces, Initiatives"
+title: "19270 - SADROC"
 description: "19270 - SADROC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

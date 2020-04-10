@@ -1,5 +1,5 @@
 ---
-title: "66110 - AMELIE LES BAINS PALALDA | Entraide, Annonces, Initiatives"
+title: "66110 - AMELIE LES BAINS PALALDA"
 description: "66110 - AMELIE LES BAINS PALALDA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

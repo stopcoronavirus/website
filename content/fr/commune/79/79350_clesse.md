@@ -1,5 +1,5 @@
 ---
-title: "79350 - CLESSE | Entraide, Annonces, Initiatives"
+title: "79350 - CLESSE"
 description: "79350 - CLESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

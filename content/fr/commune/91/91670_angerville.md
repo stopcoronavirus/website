@@ -1,5 +1,5 @@
 ---
-title: "91670 - ANGERVILLE | Entraide, Annonces, Initiatives"
+title: "91670 - ANGERVILLE"
 description: "91670 - ANGERVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

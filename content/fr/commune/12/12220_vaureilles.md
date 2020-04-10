@@ -1,5 +1,5 @@
 ---
-title: "12220 - VAUREILLES | Entraide, Annonces, Initiatives"
+title: "12220 - VAUREILLES"
 description: "12220 - VAUREILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

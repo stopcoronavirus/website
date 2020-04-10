@@ -1,5 +1,5 @@
 ---
-title: "53120 - ST AUBIN FOSSE LOUVAIN | Entraide, Annonces, Initiatives"
+title: "53120 - ST AUBIN FOSSE LOUVAIN"
 description: "53120 - ST AUBIN FOSSE LOUVAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

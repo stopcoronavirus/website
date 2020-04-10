@@ -1,5 +1,5 @@
 ---
-title: "08240 - BELLEVILLE ET CHATILLON SUR BAR | Entraide, Annonces, Initiatives"
+title: "08240 - BELLEVILLE ET CHATILLON SUR BAR"
 description: "08240 - BELLEVILLE ET CHATILLON SUR BAR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "30380 - ST CHRISTOL LEZ ALES | Entraide, Annonces, Initiatives"
+title: "30380 - ST CHRISTOL LEZ ALES"
 description: "30380 - ST CHRISTOL LEZ ALES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

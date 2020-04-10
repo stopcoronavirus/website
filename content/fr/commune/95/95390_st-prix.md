@@ -1,5 +1,5 @@
 ---
-title: "95390 - ST PRIX | Entraide, Annonces, Initiatives"
+title: "95390 - ST PRIX"
 description: "95390 - ST PRIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

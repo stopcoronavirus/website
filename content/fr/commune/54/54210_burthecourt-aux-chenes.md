@@ -1,5 +1,5 @@
 ---
-title: "54210 - BURTHECOURT AUX CHENES | Entraide, Annonces, Initiatives"
+title: "54210 - BURTHECOURT AUX CHENES"
 description: "54210 - BURTHECOURT AUX CHENES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

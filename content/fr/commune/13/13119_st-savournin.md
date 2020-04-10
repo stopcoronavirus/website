@@ -1,5 +1,5 @@
 ---
-title: "13119 - ST SAVOURNIN | Entraide, Annonces, Initiatives"
+title: "13119 - ST SAVOURNIN"
 description: "13119 - ST SAVOURNIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

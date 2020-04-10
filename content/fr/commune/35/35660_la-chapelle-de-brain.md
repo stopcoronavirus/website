@@ -1,5 +1,5 @@
 ---
-title: "35660 - LA CHAPELLE DE BRAIN | Entraide, Annonces, Initiatives"
+title: "35660 - LA CHAPELLE DE BRAIN"
 description: "35660 - LA CHAPELLE DE BRAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

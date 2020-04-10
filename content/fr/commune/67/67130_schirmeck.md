@@ -1,5 +1,5 @@
 ---
-title: "67130 - SCHIRMECK | Entraide, Annonces, Initiatives"
+title: "67130 - SCHIRMECK"
 description: "67130 - SCHIRMECK | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

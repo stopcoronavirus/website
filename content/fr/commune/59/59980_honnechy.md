@@ -1,5 +1,5 @@
 ---
-title: "59980 - HONNECHY | Entraide, Annonces, Initiatives"
+title: "59980 - HONNECHY"
 description: "59980 - HONNECHY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

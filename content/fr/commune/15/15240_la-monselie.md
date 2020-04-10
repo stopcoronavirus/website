@@ -1,5 +1,5 @@
 ---
-title: "15240 - LA MONSELIE | Entraide, Annonces, Initiatives"
+title: "15240 - LA MONSELIE"
 description: "15240 - LA MONSELIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

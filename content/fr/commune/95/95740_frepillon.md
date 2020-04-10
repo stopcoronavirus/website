@@ -1,5 +1,5 @@
 ---
-title: "95740 - FREPILLON | Entraide, Annonces, Initiatives"
+title: "95740 - FREPILLON"
 description: "95740 - FREPILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

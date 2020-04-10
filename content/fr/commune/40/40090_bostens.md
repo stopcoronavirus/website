@@ -1,5 +1,5 @@
 ---
-title: "40090 - BOSTENS | Entraide, Annonces, Initiatives"
+title: "40090 - BOSTENS"
 description: "40090 - BOSTENS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13990 - FONTVIEILLE | Entraide, Annonces, Initiatives"
+title: "13990 - FONTVIEILLE"
 description: "13990 - FONTVIEILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

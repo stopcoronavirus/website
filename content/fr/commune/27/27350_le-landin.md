@@ -1,5 +1,5 @@
 ---
-title: "27350 - LE LANDIN | Entraide, Annonces, Initiatives"
+title: "27350 - LE LANDIN"
 description: "27350 - LE LANDIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

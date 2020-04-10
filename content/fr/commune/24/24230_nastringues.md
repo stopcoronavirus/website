@@ -1,5 +1,5 @@
 ---
-title: "24230 - NASTRINGUES | Entraide, Annonces, Initiatives"
+title: "24230 - NASTRINGUES"
 description: "24230 - NASTRINGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "53200 - CHATEAU GONTIER SUR MAYENNE | Entraide, Annonces, Initiatives"
+title: "53200 - CHATEAU GONTIER SUR MAYENNE"
 description: "53200 - CHATEAU GONTIER SUR MAYENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

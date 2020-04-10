@@ -1,5 +1,5 @@
 ---
-title: "01430 - ST MARTIN DU FRENE | Entraide, Annonces, Initiatives"
+title: "01430 - ST MARTIN DU FRENE"
 description: "01430 - ST MARTIN DU FRENE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "50810 - ST PIERRE DE SEMILLY | Entraide, Annonces, Initiatives"
+title: "50810 - ST PIERRE DE SEMILLY"
 description: "50810 - ST PIERRE DE SEMILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

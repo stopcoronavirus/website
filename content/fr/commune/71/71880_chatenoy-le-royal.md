@@ -1,5 +1,5 @@
 ---
-title: "71880 - CHATENOY LE ROYAL | Entraide, Annonces, Initiatives"
+title: "71880 - CHATENOY LE ROYAL"
 description: "71880 - CHATENOY LE ROYAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

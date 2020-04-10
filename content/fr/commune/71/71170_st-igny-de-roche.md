@@ -1,5 +1,5 @@
 ---
-title: "71170 - ST IGNY DE ROCHE | Entraide, Annonces, Initiatives"
+title: "71170 - ST IGNY DE ROCHE"
 description: "71170 - ST IGNY DE ROCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

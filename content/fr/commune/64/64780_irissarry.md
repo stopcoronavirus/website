@@ -1,5 +1,5 @@
 ---
-title: "64780 - IRISSARRY | Entraide, Annonces, Initiatives"
+title: "64780 - IRISSARRY"
 description: "64780 - IRISSARRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

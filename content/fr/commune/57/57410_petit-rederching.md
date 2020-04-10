@@ -1,5 +1,5 @@
 ---
-title: "57410 - PETIT REDERCHING | Entraide, Annonces, Initiatives"
+title: "57410 - PETIT REDERCHING"
 description: "57410 - PETIT REDERCHING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

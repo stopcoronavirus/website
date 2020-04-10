@@ -1,5 +1,5 @@
 ---
-title: "14330 - LE BREUIL EN BESSIN | Entraide, Annonces, Initiatives"
+title: "14330 - LE BREUIL EN BESSIN"
 description: "14330 - LE BREUIL EN BESSIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

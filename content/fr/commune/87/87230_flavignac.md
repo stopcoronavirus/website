@@ -1,5 +1,5 @@
 ---
-title: "87230 - FLAVIGNAC | Entraide, Annonces, Initiatives"
+title: "87230 - FLAVIGNAC"
 description: "87230 - FLAVIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

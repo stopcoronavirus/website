@@ -1,5 +1,5 @@
 ---
-title: "01240 - ST PAUL DE VARAX | Entraide, Annonces, Initiatives"
+title: "01240 - ST PAUL DE VARAX"
 description: "01240 - ST PAUL DE VARAX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

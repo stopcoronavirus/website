@@ -1,5 +1,5 @@
 ---
-title: "21580 - CUSSEY LES FORGES | Entraide, Annonces, Initiatives"
+title: "21580 - CUSSEY LES FORGES"
 description: "21580 - CUSSEY LES FORGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

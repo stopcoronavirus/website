@@ -1,5 +1,5 @@
 ---
-title: "57340 - VANNECOURT | Entraide, Annonces, Initiatives"
+title: "57340 - VANNECOURT"
 description: "57340 - VANNECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

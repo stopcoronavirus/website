@@ -1,5 +1,5 @@
 ---
-title: "58500 - BILLY SUR OISY | Entraide, Annonces, Initiatives"
+title: "58500 - BILLY SUR OISY"
 description: "58500 - BILLY SUR OISY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

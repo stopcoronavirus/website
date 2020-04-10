@@ -1,5 +1,5 @@
 ---
-title: "65400 - ARCIZANS DESSUS | Entraide, Annonces, Initiatives"
+title: "65400 - ARCIZANS DESSUS"
 description: "65400 - ARCIZANS DESSUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

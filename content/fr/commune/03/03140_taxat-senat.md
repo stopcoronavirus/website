@@ -1,5 +1,5 @@
 ---
-title: "03140 - TAXAT SENAT | Entraide, Annonces, Initiatives"
+title: "03140 - TAXAT SENAT"
 description: "03140 - TAXAT SENAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

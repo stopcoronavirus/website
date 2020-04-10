@@ -1,5 +1,5 @@
 ---
-title: "30500 - ST BRES | Entraide, Annonces, Initiatives"
+title: "30500 - ST BRES"
 description: "30500 - ST BRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

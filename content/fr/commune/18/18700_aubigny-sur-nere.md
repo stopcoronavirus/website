@@ -1,5 +1,5 @@
 ---
-title: "18700 - AUBIGNY SUR NERE | Entraide, Annonces, Initiatives"
+title: "18700 - AUBIGNY SUR NERE"
 description: "18700 - AUBIGNY SUR NERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

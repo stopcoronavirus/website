@@ -1,5 +1,5 @@
 ---
-title: "01090 - MONTMERLE SUR SAONE | Entraide, Annonces, Initiatives"
+title: "01090 - MONTMERLE SUR SAONE"
 description: "01090 - MONTMERLE SUR SAONE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

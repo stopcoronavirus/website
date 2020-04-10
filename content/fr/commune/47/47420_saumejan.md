@@ -1,5 +1,5 @@
 ---
-title: "47420 - SAUMEJAN | Entraide, Annonces, Initiatives"
+title: "47420 - SAUMEJAN"
 description: "47420 - SAUMEJAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

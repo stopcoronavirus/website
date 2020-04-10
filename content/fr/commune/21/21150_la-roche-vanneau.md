@@ -1,5 +1,5 @@
 ---
-title: "21150 - LA ROCHE VANNEAU | Entraide, Annonces, Initiatives"
+title: "21150 - LA ROCHE VANNEAU"
 description: "21150 - LA ROCHE VANNEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

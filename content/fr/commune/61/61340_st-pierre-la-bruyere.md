@@ -1,5 +1,5 @@
 ---
-title: "61340 - ST PIERRE LA BRUYERE | Entraide, Annonces, Initiatives"
+title: "61340 - ST PIERRE LA BRUYERE"
 description: "61340 - ST PIERRE LA BRUYERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "88600 - LA NEUVEVILLE DEVANT LEPANGES | Entraide, Annonces, Initiatives"
+title: "88600 - LA NEUVEVILLE DEVANT LEPANGES"
 description: "88600 - LA NEUVEVILLE DEVANT LEPANGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

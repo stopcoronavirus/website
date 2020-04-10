@@ -1,5 +1,5 @@
 ---
-title: "54450 - HARBOUEY | Entraide, Annonces, Initiatives"
+title: "54450 - HARBOUEY"
 description: "54450 - HARBOUEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

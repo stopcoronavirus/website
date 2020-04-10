@@ -1,5 +1,5 @@
 ---
-title: "95830 - FREMECOURT | Entraide, Annonces, Initiatives"
+title: "95830 - FREMECOURT"
 description: "95830 - FREMECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

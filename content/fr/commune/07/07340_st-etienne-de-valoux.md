@@ -1,5 +1,5 @@
 ---
-title: "07340 - ST ETIENNE DE VALOUX | Entraide, Annonces, Initiatives"
+title: "07340 - ST ETIENNE DE VALOUX"
 description: "07340 - ST ETIENNE DE VALOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "85220 - L AIGUILLON SUR VIE | Entraide, Annonces, Initiatives"
+title: "85220 - L AIGUILLON SUR VIE"
 description: "85220 - L AIGUILLON SUR VIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

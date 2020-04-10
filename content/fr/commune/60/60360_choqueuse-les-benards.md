@@ -1,5 +1,5 @@
 ---
-title: "60360 - CHOQUEUSE LES BENARDS | Entraide, Annonces, Initiatives"
+title: "60360 - CHOQUEUSE LES BENARDS"
 description: "60360 - CHOQUEUSE LES BENARDS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

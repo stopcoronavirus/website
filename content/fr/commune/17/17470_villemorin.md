@@ -1,5 +1,5 @@
 ---
-title: "17470 - VILLEMORIN | Entraide, Annonces, Initiatives"
+title: "17470 - VILLEMORIN"
 description: "17470 - VILLEMORIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

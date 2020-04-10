@@ -1,5 +1,5 @@
 ---
-title: "37120 - CHAMPIGNY SUR VEUDE | Entraide, Annonces, Initiatives"
+title: "37120 - CHAMPIGNY SUR VEUDE"
 description: "37120 - CHAMPIGNY SUR VEUDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

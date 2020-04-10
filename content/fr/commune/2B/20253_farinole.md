@@ -1,5 +1,5 @@
 ---
-title: "20253 - FARINOLE | Entraide, Annonces, Initiatives"
+title: "20253 - FARINOLE"
 description: "20253 - FARINOLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

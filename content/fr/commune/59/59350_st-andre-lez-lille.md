@@ -1,5 +1,5 @@
 ---
-title: "59350 - ST ANDRE LEZ LILLE | Entraide, Annonces, Initiatives"
+title: "59350 - ST ANDRE LEZ LILLE"
 description: "59350 - ST ANDRE LEZ LILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

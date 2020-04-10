@@ -1,5 +1,5 @@
 ---
-title: "19430 - ST BONNET LES TOURS DE MERLE | Entraide, Annonces, Initiatives"
+title: "19430 - ST BONNET LES TOURS DE MERLE"
 description: "19430 - ST BONNET LES TOURS DE MERLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

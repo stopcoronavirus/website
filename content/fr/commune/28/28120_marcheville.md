@@ -1,5 +1,5 @@
 ---
-title: "28120 - MARCHEVILLE | Entraide, Annonces, Initiatives"
+title: "28120 - MARCHEVILLE"
 description: "28120 - MARCHEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

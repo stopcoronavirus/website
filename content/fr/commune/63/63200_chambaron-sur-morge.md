@@ -1,5 +1,5 @@
 ---
-title: "63200 - CHAMBARON SUR MORGE | Entraide, Annonces, Initiatives"
+title: "63200 - CHAMBARON SUR MORGE"
 description: "63200 - CHAMBARON SUR MORGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

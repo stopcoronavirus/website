@@ -1,5 +1,5 @@
 ---
-title: "24260 - ST FELIX DE REILLAC ET MORTEMART | Entraide, Annonces, Initiatives"
+title: "24260 - ST FELIX DE REILLAC ET MORTEMART"
 description: "24260 - ST FELIX DE REILLAC ET MORTEMART | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

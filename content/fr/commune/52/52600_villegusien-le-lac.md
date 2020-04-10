@@ -1,5 +1,5 @@
 ---
-title: "52600 - VILLEGUSIEN LE LAC | Entraide, Annonces, Initiatives"
+title: "52600 - VILLEGUSIEN LE LAC"
 description: "52600 - VILLEGUSIEN LE LAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

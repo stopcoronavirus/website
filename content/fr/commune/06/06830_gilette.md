@@ -1,5 +1,5 @@
 ---
-title: "06830 - GILETTE | Entraide, Annonces, Initiatives"
+title: "06830 - GILETTE"
 description: "06830 - GILETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

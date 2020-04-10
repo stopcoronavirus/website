@@ -1,5 +1,5 @@
 ---
-title: "08310 - MONT ST REMY | Entraide, Annonces, Initiatives"
+title: "08310 - MONT ST REMY"
 description: "08310 - MONT ST REMY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "80670 - FIEFFES MONTRELET | Entraide, Annonces, Initiatives"
+title: "80670 - FIEFFES MONTRELET"
 description: "80670 - FIEFFES MONTRELET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

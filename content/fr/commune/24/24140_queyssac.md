@@ -1,5 +1,5 @@
 ---
-title: "24140 - QUEYSSAC | Entraide, Annonces, Initiatives"
+title: "24140 - QUEYSSAC"
 description: "24140 - QUEYSSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

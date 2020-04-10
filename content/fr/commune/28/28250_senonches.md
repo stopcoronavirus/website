@@ -1,5 +1,5 @@
 ---
-title: "28250 - SENONCHES | Entraide, Annonces, Initiatives"
+title: "28250 - SENONCHES"
 description: "28250 - SENONCHES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

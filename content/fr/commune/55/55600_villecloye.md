@@ -1,5 +1,5 @@
 ---
-title: "55600 - VILLECLOYE | Entraide, Annonces, Initiatives"
+title: "55600 - VILLECLOYE"
 description: "55600 - VILLECLOYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

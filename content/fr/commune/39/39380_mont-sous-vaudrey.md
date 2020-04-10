@@ -1,5 +1,5 @@
 ---
-title: "39380 - MONT SOUS VAUDREY | Entraide, Annonces, Initiatives"
+title: "39380 - MONT SOUS VAUDREY"
 description: "39380 - MONT SOUS VAUDREY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

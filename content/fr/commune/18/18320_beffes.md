@@ -1,5 +1,5 @@
 ---
-title: "18320 - BEFFES | Entraide, Annonces, Initiatives"
+title: "18320 - BEFFES"
 description: "18320 - BEFFES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

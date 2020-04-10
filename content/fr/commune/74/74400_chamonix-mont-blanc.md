@@ -1,5 +1,5 @@
 ---
-title: "74400 - CHAMONIX MONT BLANC | Entraide, Annonces, Initiatives"
+title: "74400 - CHAMONIX MONT BLANC"
 description: "74400 - CHAMONIX MONT BLANC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

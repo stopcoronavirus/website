@@ -1,5 +1,5 @@
 ---
-title: "69440 - CHAUSSAN | Entraide, Annonces, Initiatives"
+title: "69440 - CHAUSSAN"
 description: "69440 - CHAUSSAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "19700 - SEILHAC | Entraide, Annonces, Initiatives"
+title: "19700 - SEILHAC"
 description: "19700 - SEILHAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

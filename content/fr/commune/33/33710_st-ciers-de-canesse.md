@@ -1,5 +1,5 @@
 ---
-title: "33710 - ST CIERS DE CANESSE | Entraide, Annonces, Initiatives"
+title: "33710 - ST CIERS DE CANESSE"
 description: "33710 - ST CIERS DE CANESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

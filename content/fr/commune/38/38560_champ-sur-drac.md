@@ -1,5 +1,5 @@
 ---
-title: "38560 - CHAMP SUR DRAC | Entraide, Annonces, Initiatives"
+title: "38560 - CHAMP SUR DRAC"
 description: "38560 - CHAMP SUR DRAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

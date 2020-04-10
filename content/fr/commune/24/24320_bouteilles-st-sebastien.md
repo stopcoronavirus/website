@@ -1,5 +1,5 @@
 ---
-title: "24320 - BOUTEILLES ST SEBASTIEN | Entraide, Annonces, Initiatives"
+title: "24320 - BOUTEILLES ST SEBASTIEN"
 description: "24320 - BOUTEILLES ST SEBASTIEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

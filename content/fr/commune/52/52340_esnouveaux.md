@@ -1,5 +1,5 @@
 ---
-title: "52340 - ESNOUVEAUX | Entraide, Annonces, Initiatives"
+title: "52340 - ESNOUVEAUX"
 description: "52340 - ESNOUVEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

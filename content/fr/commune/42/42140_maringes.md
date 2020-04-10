@@ -1,5 +1,5 @@
 ---
-title: "42140 - MARINGES | Entraide, Annonces, Initiatives"
+title: "42140 - MARINGES"
 description: "42140 - MARINGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

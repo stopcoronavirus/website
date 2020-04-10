@@ -1,5 +1,5 @@
 ---
-title: "95310 - ST OUEN L AUMONE | Entraide, Annonces, Initiatives"
+title: "95310 - ST OUEN L AUMONE"
 description: "95310 - ST OUEN L AUMONE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

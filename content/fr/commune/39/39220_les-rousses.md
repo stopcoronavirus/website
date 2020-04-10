@@ -1,5 +1,5 @@
 ---
-title: "39220 - LES ROUSSES | Entraide, Annonces, Initiatives"
+title: "39220 - LES ROUSSES"
 description: "39220 - LES ROUSSES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

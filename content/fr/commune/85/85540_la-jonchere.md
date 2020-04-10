@@ -1,5 +1,5 @@
 ---
-title: "85540 - LA JONCHERE | Entraide, Annonces, Initiatives"
+title: "85540 - LA JONCHERE"
 description: "85540 - LA JONCHERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

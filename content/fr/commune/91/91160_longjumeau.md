@@ -1,5 +1,5 @@
 ---
-title: "91160 - LONGJUMEAU | Entraide, Annonces, Initiatives"
+title: "91160 - LONGJUMEAU"
 description: "91160 - LONGJUMEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

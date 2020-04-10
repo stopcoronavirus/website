@@ -1,5 +1,5 @@
 ---
-title: "18140 - JUSSY LE CHAUDRIER | Entraide, Annonces, Initiatives"
+title: "18140 - JUSSY LE CHAUDRIER"
 description: "18140 - JUSSY LE CHAUDRIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

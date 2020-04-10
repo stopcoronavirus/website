@@ -1,5 +1,5 @@
 ---
-title: "69790 - AZOLETTE | Entraide, Annonces, Initiatives"
+title: "69790 - AZOLETTE"
 description: "69790 - AZOLETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39210 - NEVY SUR SEILLE | Entraide, Annonces, Initiatives"
+title: "39210 - NEVY SUR SEILLE"
 description: "39210 - NEVY SUR SEILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13013 - MARSEILLE 13 | Entraide, Annonces, Initiatives"
+title: "13013 - MARSEILLE 13"
 description: "13013 - MARSEILLE 13 | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

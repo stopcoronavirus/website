@@ -1,5 +1,5 @@
 ---
-title: "47300 - VILLENEUVE SUR LOT | Entraide, Annonces, Initiatives"
+title: "47300 - VILLENEUVE SUR LOT"
 description: "47300 - VILLENEUVE SUR LOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

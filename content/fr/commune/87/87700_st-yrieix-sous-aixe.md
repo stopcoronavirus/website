@@ -1,5 +1,5 @@
 ---
-title: "87700 - ST YRIEIX SOUS AIXE | Entraide, Annonces, Initiatives"
+title: "87700 - ST YRIEIX SOUS AIXE"
 description: "87700 - ST YRIEIX SOUS AIXE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

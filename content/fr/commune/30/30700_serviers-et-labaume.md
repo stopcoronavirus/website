@@ -1,5 +1,5 @@
 ---
-title: "30700 - SERVIERS ET LABAUME | Entraide, Annonces, Initiatives"
+title: "30700 - SERVIERS ET LABAUME"
 description: "30700 - SERVIERS ET LABAUME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

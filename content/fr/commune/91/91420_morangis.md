@@ -1,5 +1,5 @@
 ---
-title: "91420 - MORANGIS | Entraide, Annonces, Initiatives"
+title: "91420 - MORANGIS"
 description: "91420 - MORANGIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

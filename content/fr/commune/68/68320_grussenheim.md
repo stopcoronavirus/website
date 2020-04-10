@@ -1,5 +1,5 @@
 ---
-title: "68320 - GRUSSENHEIM | Entraide, Annonces, Initiatives"
+title: "68320 - GRUSSENHEIM"
 description: "68320 - GRUSSENHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

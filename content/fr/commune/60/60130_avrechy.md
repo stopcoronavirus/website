@@ -1,5 +1,5 @@
 ---
-title: "60130 - AVRECHY | Entraide, Annonces, Initiatives"
+title: "60130 - AVRECHY"
 description: "60130 - AVRECHY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

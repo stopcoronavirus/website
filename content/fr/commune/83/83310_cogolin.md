@@ -1,5 +1,5 @@
 ---
-title: "83310 - COGOLIN | Entraide, Annonces, Initiatives"
+title: "83310 - COGOLIN"
 description: "83310 - COGOLIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

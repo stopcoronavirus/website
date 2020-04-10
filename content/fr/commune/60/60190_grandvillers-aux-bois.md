@@ -1,5 +1,5 @@
 ---
-title: "60190 - GRANDVILLERS AUX BOIS | Entraide, Annonces, Initiatives"
+title: "60190 - GRANDVILLERS AUX BOIS"
 description: "60190 - GRANDVILLERS AUX BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

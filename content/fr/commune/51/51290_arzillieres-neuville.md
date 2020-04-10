@@ -1,5 +1,5 @@
 ---
-title: "51290 - ARZILLIERES NEUVILLE | Entraide, Annonces, Initiatives"
+title: "51290 - ARZILLIERES NEUVILLE"
 description: "51290 - ARZILLIERES NEUVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

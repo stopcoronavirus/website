@@ -1,5 +1,5 @@
 ---
-title: "13160 - CHATEAURENARD | Entraide, Annonces, Initiatives"
+title: "13160 - CHATEAURENARD"
 description: "13160 - CHATEAURENARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "80560 - COLINCAMPS | Entraide, Annonces, Initiatives"
+title: "80560 - COLINCAMPS"
 description: "80560 - COLINCAMPS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

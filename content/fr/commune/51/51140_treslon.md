@@ -1,5 +1,5 @@
 ---
-title: "51140 - TRESLON | Entraide, Annonces, Initiatives"
+title: "51140 - TRESLON"
 description: "51140 - TRESLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

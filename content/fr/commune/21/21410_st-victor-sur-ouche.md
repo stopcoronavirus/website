@@ -1,5 +1,5 @@
 ---
-title: "21410 - ST VICTOR SUR OUCHE | Entraide, Annonces, Initiatives"
+title: "21410 - ST VICTOR SUR OUCHE"
 description: "21410 - ST VICTOR SUR OUCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

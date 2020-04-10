@@ -1,5 +1,5 @@
 ---
-title: "85110 - ST GERMAIN DE PRINCAY | Entraide, Annonces, Initiatives"
+title: "85110 - ST GERMAIN DE PRINCAY"
 description: "85110 - ST GERMAIN DE PRINCAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

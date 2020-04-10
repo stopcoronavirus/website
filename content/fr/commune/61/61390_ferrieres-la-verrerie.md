@@ -1,5 +1,5 @@
 ---
-title: "61390 - FERRIERES LA VERRERIE | Entraide, Annonces, Initiatives"
+title: "61390 - FERRIERES LA VERRERIE"
 description: "61390 - FERRIERES LA VERRERIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

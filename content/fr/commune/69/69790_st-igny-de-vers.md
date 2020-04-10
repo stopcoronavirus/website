@@ -1,5 +1,5 @@
 ---
-title: "69790 - ST IGNY DE VERS | Entraide, Annonces, Initiatives"
+title: "69790 - ST IGNY DE VERS"
 description: "69790 - ST IGNY DE VERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

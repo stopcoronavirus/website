@@ -1,5 +1,5 @@
 ---
-title: "46140 - ANGLARS JUILLAC | Entraide, Annonces, Initiatives"
+title: "46140 - ANGLARS JUILLAC"
 description: "46140 - ANGLARS JUILLAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

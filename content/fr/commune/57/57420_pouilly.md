@@ -1,5 +1,5 @@
 ---
-title: "57420 - POUILLY | Entraide, Annonces, Initiatives"
+title: "57420 - POUILLY"
 description: "57420 - POUILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

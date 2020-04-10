@@ -1,5 +1,5 @@
 ---
-title: "63810 - BAGNOLS | Entraide, Annonces, Initiatives"
+title: "63810 - BAGNOLS"
 description: "63810 - BAGNOLS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

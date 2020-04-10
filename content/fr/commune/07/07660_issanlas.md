@@ -1,5 +1,5 @@
 ---
-title: "07660 - ISSANLAS | Entraide, Annonces, Initiatives"
+title: "07660 - ISSANLAS"
 description: "07660 - ISSANLAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "79220 - ST CHRISTOPHE SUR ROC | Entraide, Annonces, Initiatives"
+title: "79220 - ST CHRISTOPHE SUR ROC"
 description: "79220 - ST CHRISTOPHE SUR ROC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "04380 - BARRAS | Entraide, Annonces, Initiatives"
+title: "04380 - BARRAS"
 description: "04380 - BARRAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

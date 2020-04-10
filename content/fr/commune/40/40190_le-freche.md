@@ -1,5 +1,5 @@
 ---
-title: "40190 - LE FRECHE | Entraide, Annonces, Initiatives"
+title: "40190 - LE FRECHE"
 description: "40190 - LE FRECHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

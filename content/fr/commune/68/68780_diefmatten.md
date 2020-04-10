@@ -1,5 +1,5 @@
 ---
-title: "68780 - DIEFMATTEN | Entraide, Annonces, Initiatives"
+title: "68780 - DIEFMATTEN"
 description: "68780 - DIEFMATTEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

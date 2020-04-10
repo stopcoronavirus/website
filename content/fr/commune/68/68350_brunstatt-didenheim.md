@@ -1,5 +1,5 @@
 ---
-title: "68350 - BRUNSTATT DIDENHEIM | Entraide, Annonces, Initiatives"
+title: "68350 - BRUNSTATT DIDENHEIM"
 description: "68350 - BRUNSTATT DIDENHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

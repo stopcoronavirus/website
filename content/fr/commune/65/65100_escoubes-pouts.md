@@ -1,5 +1,5 @@
 ---
-title: "65100 - ESCOUBES POUTS | Entraide, Annonces, Initiatives"
+title: "65100 - ESCOUBES POUTS"
 description: "65100 - ESCOUBES POUTS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

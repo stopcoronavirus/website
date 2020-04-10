@@ -1,5 +1,5 @@
 ---
-title: "68260 - KINGERSHEIM | Entraide, Annonces, Initiatives"
+title: "68260 - KINGERSHEIM"
 description: "68260 - KINGERSHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

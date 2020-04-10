@@ -1,5 +1,5 @@
 ---
-title: "76380 - VAL DE LA HAYE | Entraide, Annonces, Initiatives"
+title: "76380 - VAL DE LA HAYE"
 description: "76380 - VAL DE LA HAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

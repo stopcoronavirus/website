@@ -1,5 +1,5 @@
 ---
-title: "04100 - MANOSQUE | Entraide, Annonces, Initiatives"
+title: "04100 - MANOSQUE"
 description: "04100 - MANOSQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

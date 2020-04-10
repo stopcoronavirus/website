@@ -1,5 +1,5 @@
 ---
-title: "51340 - VOUILLERS | Entraide, Annonces, Initiatives"
+title: "51340 - VOUILLERS"
 description: "51340 - VOUILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

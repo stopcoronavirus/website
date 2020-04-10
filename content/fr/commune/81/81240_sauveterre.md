@@ -1,5 +1,5 @@
 ---
-title: "81240 - SAUVETERRE | Entraide, Annonces, Initiatives"
+title: "81240 - SAUVETERRE"
 description: "81240 - SAUVETERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

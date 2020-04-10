@@ -1,5 +1,5 @@
 ---
-title: "86200 - MESSEME | Entraide, Annonces, Initiatives"
+title: "86200 - MESSEME"
 description: "86200 - MESSEME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

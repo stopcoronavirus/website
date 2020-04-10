@@ -1,5 +1,5 @@
 ---
-title: "24200 - PROISSANS | Entraide, Annonces, Initiatives"
+title: "24200 - PROISSANS"
 description: "24200 - PROISSANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

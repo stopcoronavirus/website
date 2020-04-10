@@ -1,5 +1,5 @@
 ---
-title: "80880 - ST QUENTIN LA MOTTE CROIX AU BAILLY | Entraide, Annonces, Initiatives"
+title: "80880 - ST QUENTIN LA MOTTE CROIX AU BAILLY"
 description: "80880 - ST QUENTIN LA MOTTE CROIX AU BAILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

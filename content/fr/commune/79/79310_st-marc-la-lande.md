@@ -1,5 +1,5 @@
 ---
-title: "79310 - ST MARC LA LANDE | Entraide, Annonces, Initiatives"
+title: "79310 - ST MARC LA LANDE"
 description: "79310 - ST MARC LA LANDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

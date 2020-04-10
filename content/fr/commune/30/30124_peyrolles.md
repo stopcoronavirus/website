@@ -1,5 +1,5 @@
 ---
-title: "30124 - PEYROLLES | Entraide, Annonces, Initiatives"
+title: "30124 - PEYROLLES"
 description: "30124 - PEYROLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

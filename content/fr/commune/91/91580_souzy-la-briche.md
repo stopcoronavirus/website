@@ -1,5 +1,5 @@
 ---
-title: "91580 - SOUZY LA BRICHE | Entraide, Annonces, Initiatives"
+title: "91580 - SOUZY LA BRICHE"
 description: "91580 - SOUZY LA BRICHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

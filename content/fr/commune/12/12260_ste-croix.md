@@ -1,5 +1,5 @@
 ---
-title: "12260 - STE CROIX | Entraide, Annonces, Initiatives"
+title: "12260 - STE CROIX"
 description: "12260 - STE CROIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

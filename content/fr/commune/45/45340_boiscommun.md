@@ -1,5 +1,5 @@
 ---
-title: "45340 - BOISCOMMUN | Entraide, Annonces, Initiatives"
+title: "45340 - BOISCOMMUN"
 description: "45340 - BOISCOMMUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

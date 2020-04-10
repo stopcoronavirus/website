@@ -1,5 +1,5 @@
 ---
-title: "65500 - SIARROUY | Entraide, Annonces, Initiatives"
+title: "65500 - SIARROUY"
 description: "65500 - SIARROUY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

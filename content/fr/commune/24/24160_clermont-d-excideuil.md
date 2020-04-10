@@ -1,5 +1,5 @@
 ---
-title: "24160 - CLERMONT D EXCIDEUIL | Entraide, Annonces, Initiatives"
+title: "24160 - CLERMONT D EXCIDEUIL"
 description: "24160 - CLERMONT D EXCIDEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

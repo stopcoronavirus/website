@@ -1,5 +1,5 @@
 ---
-title: "39150 - LA CHAUMUSSE | Entraide, Annonces, Initiatives"
+title: "39150 - LA CHAUMUSSE"
 description: "39150 - LA CHAUMUSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

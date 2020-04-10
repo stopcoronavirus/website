@@ -1,5 +1,5 @@
 ---
-title: "50250 - LE PLESSIS LASTELLE | Entraide, Annonces, Initiatives"
+title: "50250 - LE PLESSIS LASTELLE"
 description: "50250 - LE PLESSIS LASTELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

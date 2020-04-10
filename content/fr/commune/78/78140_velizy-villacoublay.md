@@ -1,5 +1,5 @@
 ---
-title: "78140 - VELIZY VILLACOUBLAY | Entraide, Annonces, Initiatives"
+title: "78140 - VELIZY VILLACOUBLAY"
 description: "78140 - VELIZY VILLACOUBLAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

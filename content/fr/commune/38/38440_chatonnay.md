@@ -1,5 +1,5 @@
 ---
-title: "38440 - CHATONNAY | Entraide, Annonces, Initiatives"
+title: "38440 - CHATONNAY"
 description: "38440 - CHATONNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

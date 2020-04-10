@@ -1,5 +1,5 @@
 ---
-title: "49610 - ST MELAINE SUR AUBANCE | Entraide, Annonces, Initiatives"
+title: "49610 - ST MELAINE SUR AUBANCE"
 description: "49610 - ST MELAINE SUR AUBANCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

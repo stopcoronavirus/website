@@ -1,5 +1,5 @@
 ---
-title: "48400 - CANS ET CEVENNES | Entraide, Annonces, Initiatives"
+title: "48400 - CANS ET CEVENNES"
 description: "48400 - CANS ET CEVENNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

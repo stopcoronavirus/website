@@ -1,5 +1,5 @@
 ---
-title: "23480 - LE DONZEIL | Entraide, Annonces, Initiatives"
+title: "23480 - LE DONZEIL"
 description: "23480 - LE DONZEIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

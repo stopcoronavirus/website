@@ -1,5 +1,5 @@
 ---
-title: "52140 - IS EN BASSIGNY | Entraide, Annonces, Initiatives"
+title: "52140 - IS EN BASSIGNY"
 description: "52140 - IS EN BASSIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

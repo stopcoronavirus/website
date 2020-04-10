@@ -1,5 +1,5 @@
 ---
-title: "59380 - ARMBOUTS CAPPEL | Entraide, Annonces, Initiatives"
+title: "59380 - ARMBOUTS CAPPEL"
 description: "59380 - ARMBOUTS CAPPEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

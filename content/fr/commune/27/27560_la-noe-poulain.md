@@ -1,5 +1,5 @@
 ---
-title: "27560 - LA NOE POULAIN | Entraide, Annonces, Initiatives"
+title: "27560 - LA NOE POULAIN"
 description: "27560 - LA NOE POULAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "50480 - ST MARTIN DE VARREVILLE | Entraide, Annonces, Initiatives"
+title: "50480 - ST MARTIN DE VARREVILLE"
 description: "50480 - ST MARTIN DE VARREVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

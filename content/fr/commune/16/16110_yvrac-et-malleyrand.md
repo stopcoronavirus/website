@@ -1,5 +1,5 @@
 ---
-title: "16110 - YVRAC ET MALLEYRAND | Entraide, Annonces, Initiatives"
+title: "16110 - YVRAC ET MALLEYRAND"
 description: "16110 - YVRAC ET MALLEYRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

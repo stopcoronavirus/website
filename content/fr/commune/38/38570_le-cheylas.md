@@ -1,5 +1,5 @@
 ---
-title: "38570 - LE CHEYLAS | Entraide, Annonces, Initiatives"
+title: "38570 - LE CHEYLAS"
 description: "38570 - LE CHEYLAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

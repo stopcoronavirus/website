@@ -1,5 +1,5 @@
 ---
-title: "62250 - AUDEMBERT | Entraide, Annonces, Initiatives"
+title: "62250 - AUDEMBERT"
 description: "62250 - AUDEMBERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

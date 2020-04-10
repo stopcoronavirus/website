@@ -1,5 +1,5 @@
 ---
-title: "41310 - ST GOURGON | Entraide, Annonces, Initiatives"
+title: "41310 - ST GOURGON"
 description: "41310 - ST GOURGON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

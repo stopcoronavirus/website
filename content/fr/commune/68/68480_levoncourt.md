@@ -1,5 +1,5 @@
 ---
-title: "68480 - LEVONCOURT | Entraide, Annonces, Initiatives"
+title: "68480 - LEVONCOURT"
 description: "68480 - LEVONCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

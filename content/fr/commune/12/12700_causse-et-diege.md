@@ -1,5 +1,5 @@
 ---
-title: "12700 - CAUSSE ET DIEGE | Entraide, Annonces, Initiatives"
+title: "12700 - CAUSSE ET DIEGE"
 description: "12700 - CAUSSE ET DIEGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

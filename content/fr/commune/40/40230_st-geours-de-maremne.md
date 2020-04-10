@@ -1,5 +1,5 @@
 ---
-title: "40230 - ST GEOURS DE MAREMNE | Entraide, Annonces, Initiatives"
+title: "40230 - ST GEOURS DE MAREMNE"
 description: "40230 - ST GEOURS DE MAREMNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

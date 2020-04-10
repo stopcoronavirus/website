@@ -1,5 +1,5 @@
 ---
-title: "71390 - ST DESERT | Entraide, Annonces, Initiatives"
+title: "71390 - ST DESERT"
 description: "71390 - ST DESERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "54700 - MAIDIERES | Entraide, Annonces, Initiatives"
+title: "54700 - MAIDIERES"
 description: "54700 - MAIDIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

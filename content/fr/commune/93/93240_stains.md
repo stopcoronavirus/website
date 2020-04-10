@@ -1,5 +1,5 @@
 ---
-title: "93240 - STAINS | Entraide, Annonces, Initiatives"
+title: "93240 - STAINS"
 description: "93240 - STAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

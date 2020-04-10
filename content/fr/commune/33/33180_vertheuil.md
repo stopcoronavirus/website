@@ -1,5 +1,5 @@
 ---
-title: "33180 - VERTHEUIL | Entraide, Annonces, Initiatives"
+title: "33180 - VERTHEUIL"
 description: "33180 - VERTHEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59226 - LECELLES | Entraide, Annonces, Initiatives"
+title: "59226 - LECELLES"
 description: "59226 - LECELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

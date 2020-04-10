@@ -1,5 +1,5 @@
 ---
-title: "24110 - MANZAC SUR VERN | Entraide, Annonces, Initiatives"
+title: "24110 - MANZAC SUR VERN"
 description: "24110 - MANZAC SUR VERN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

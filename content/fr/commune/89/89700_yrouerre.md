@@ -1,5 +1,5 @@
 ---
-title: "89700 - YROUERRE | Entraide, Annonces, Initiatives"
+title: "89700 - YROUERRE"
 description: "89700 - YROUERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

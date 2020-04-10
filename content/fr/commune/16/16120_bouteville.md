@@ -1,5 +1,5 @@
 ---
-title: "16120 - BOUTEVILLE | Entraide, Annonces, Initiatives"
+title: "16120 - BOUTEVILLE"
 description: "16120 - BOUTEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

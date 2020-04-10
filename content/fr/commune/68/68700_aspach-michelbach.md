@@ -1,5 +1,5 @@
 ---
-title: "68700 - ASPACH MICHELBACH | Entraide, Annonces, Initiatives"
+title: "68700 - ASPACH MICHELBACH"
 description: "68700 - ASPACH MICHELBACH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

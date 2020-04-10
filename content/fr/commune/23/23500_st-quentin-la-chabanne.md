@@ -1,5 +1,5 @@
 ---
-title: "23500 - ST QUENTIN LA CHABANNE | Entraide, Annonces, Initiatives"
+title: "23500 - ST QUENTIN LA CHABANNE"
 description: "23500 - ST QUENTIN LA CHABANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

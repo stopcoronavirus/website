@@ -1,5 +1,5 @@
 ---
-title: "17240 - ST CIERS DU TAILLON | Entraide, Annonces, Initiatives"
+title: "17240 - ST CIERS DU TAILLON"
 description: "17240 - ST CIERS DU TAILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "22120 - POMMERET | Entraide, Annonces, Initiatives"
+title: "22120 - POMMERET"
 description: "22120 - POMMERET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

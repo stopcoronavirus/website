@@ -1,5 +1,5 @@
 ---
-title: "06520 - GRASSE | Entraide, Annonces, Initiatives"
+title: "06520 - GRASSE"
 description: "06520 - GRASSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

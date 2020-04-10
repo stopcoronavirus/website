@@ -1,5 +1,5 @@
 ---
-title: "62990 - MARESQUEL ECQUEMICOURT | Entraide, Annonces, Initiatives"
+title: "62990 - MARESQUEL ECQUEMICOURT"
 description: "62990 - MARESQUEL ECQUEMICOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

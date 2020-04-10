@@ -1,5 +1,5 @@
 ---
-title: "72400 - BOESSE LE SEC | Entraide, Annonces, Initiatives"
+title: "72400 - BOESSE LE SEC"
 description: "72400 - BOESSE LE SEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

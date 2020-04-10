@@ -1,5 +1,5 @@
 ---
-title: "44740 - BATZ SUR MER | Entraide, Annonces, Initiatives"
+title: "44740 - BATZ SUR MER"
 description: "44740 - BATZ SUR MER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

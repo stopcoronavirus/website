@@ -1,5 +1,5 @@
 ---
-title: "42630 - ST VICTOR SUR RHINS | Entraide, Annonces, Initiatives"
+title: "42630 - ST VICTOR SUR RHINS"
 description: "42630 - ST VICTOR SUR RHINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

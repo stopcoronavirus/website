@@ -1,5 +1,5 @@
 ---
-title: "02160 - OULCHES LA VALLEE FOULON | Entraide, Annonces, Initiatives"
+title: "02160 - OULCHES LA VALLEE FOULON"
 description: "02160 - OULCHES LA VALLEE FOULON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "42110 - ST BARTHELEMY LESTRA | Entraide, Annonces, Initiatives"
+title: "42110 - ST BARTHELEMY LESTRA"
 description: "42110 - ST BARTHELEMY LESTRA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

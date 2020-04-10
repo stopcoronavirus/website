@@ -1,5 +1,5 @@
 ---
-title: "50360 - LA BONNEVILLE | Entraide, Annonces, Initiatives"
+title: "50360 - LA BONNEVILLE"
 description: "50360 - LA BONNEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

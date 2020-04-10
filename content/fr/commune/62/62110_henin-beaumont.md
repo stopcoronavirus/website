@@ -1,5 +1,5 @@
 ---
-title: "62110 - HENIN BEAUMONT | Entraide, Annonces, Initiatives"
+title: "62110 - HENIN BEAUMONT"
 description: "62110 - HENIN BEAUMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

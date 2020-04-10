@@ -1,5 +1,5 @@
 ---
-title: "60190 - NEUFVY SUR ARONDE | Entraide, Annonces, Initiatives"
+title: "60190 - NEUFVY SUR ARONDE"
 description: "60190 - NEUFVY SUR ARONDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

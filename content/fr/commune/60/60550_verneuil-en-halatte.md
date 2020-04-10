@@ -1,5 +1,5 @@
 ---
-title: "60550 - VERNEUIL EN HALATTE | Entraide, Annonces, Initiatives"
+title: "60550 - VERNEUIL EN HALATTE"
 description: "60550 - VERNEUIL EN HALATTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

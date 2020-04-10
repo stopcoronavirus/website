@@ -1,5 +1,5 @@
 ---
-title: "57420 - POURNOY LA CHETIVE | Entraide, Annonces, Initiatives"
+title: "57420 - POURNOY LA CHETIVE"
 description: "57420 - POURNOY LA CHETIVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "31480 - VIGNAUX | Entraide, Annonces, Initiatives"
+title: "31480 - VIGNAUX"
 description: "31480 - VIGNAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

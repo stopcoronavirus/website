@@ -1,5 +1,5 @@
 ---
-title: "41600 - NOUAN LE FUZELIER | Entraide, Annonces, Initiatives"
+title: "41600 - NOUAN LE FUZELIER"
 description: "41600 - NOUAN LE FUZELIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

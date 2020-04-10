@@ -1,5 +1,5 @@
 ---
-title: "05800 - ST JACQUES EN VALGODEMARD | Entraide, Annonces, Initiatives"
+title: "05800 - ST JACQUES EN VALGODEMARD"
 description: "05800 - ST JACQUES EN VALGODEMARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

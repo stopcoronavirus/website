@@ -1,5 +1,5 @@
 ---
-title: "26290 - DONZERE | Entraide, Annonces, Initiatives"
+title: "26290 - DONZERE"
 description: "26290 - DONZERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

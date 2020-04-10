@@ -1,5 +1,5 @@
 ---
-title: "84330 - ST HIPPOLYTE LE GRAVEYRON | Entraide, Annonces, Initiatives"
+title: "84330 - ST HIPPOLYTE LE GRAVEYRON"
 description: "84330 - ST HIPPOLYTE LE GRAVEYRON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

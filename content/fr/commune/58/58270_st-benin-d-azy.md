@@ -1,5 +1,5 @@
 ---
-title: "58270 - ST BENIN D AZY | Entraide, Annonces, Initiatives"
+title: "58270 - ST BENIN D AZY"
 description: "58270 - ST BENIN D AZY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

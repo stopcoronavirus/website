@@ -1,5 +1,5 @@
 ---
-title: "35120 - ST MARCAN | Entraide, Annonces, Initiatives"
+title: "35120 - ST MARCAN"
 description: "35120 - ST MARCAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "60850 - LE COUDRAY ST GERMER | Entraide, Annonces, Initiatives"
+title: "60850 - LE COUDRAY ST GERMER"
 description: "60850 - LE COUDRAY ST GERMER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

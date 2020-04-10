@@ -1,5 +1,5 @@
 ---
-title: "20250 - SANTA LUCIA DI MERCURIO | Entraide, Annonces, Initiatives"
+title: "20250 - SANTA LUCIA DI MERCURIO"
 description: "20250 - SANTA LUCIA DI MERCURIO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

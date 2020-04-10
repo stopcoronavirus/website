@@ -1,5 +1,5 @@
 ---
-title: "33220 - ST AVIT ST NAZAIRE | Entraide, Annonces, Initiatives"
+title: "33220 - ST AVIT ST NAZAIRE"
 description: "33220 - ST AVIT ST NAZAIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

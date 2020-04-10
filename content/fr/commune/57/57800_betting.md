@@ -1,5 +1,5 @@
 ---
-title: "57800 - BETTING | Entraide, Annonces, Initiatives"
+title: "57800 - BETTING"
 description: "57800 - BETTING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

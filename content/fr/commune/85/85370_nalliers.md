@@ -1,5 +1,5 @@
 ---
-title: "85370 - NALLIERS | Entraide, Annonces, Initiatives"
+title: "85370 - NALLIERS"
 description: "85370 - NALLIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

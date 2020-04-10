@@ -1,5 +1,5 @@
 ---
-title: "41170 - SARGE SUR BRAYE | Entraide, Annonces, Initiatives"
+title: "41170 - SARGE SUR BRAYE"
 description: "41170 - SARGE SUR BRAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

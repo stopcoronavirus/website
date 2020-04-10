@@ -1,5 +1,5 @@
 ---
-title: "40120 - LENCOUACQ | Entraide, Annonces, Initiatives"
+title: "40120 - LENCOUACQ"
 description: "40120 - LENCOUACQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

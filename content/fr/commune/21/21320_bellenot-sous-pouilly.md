@@ -1,5 +1,5 @@
 ---
-title: "21320 - BELLENOT SOUS POUILLY | Entraide, Annonces, Initiatives"
+title: "21320 - BELLENOT SOUS POUILLY"
 description: "21320 - BELLENOT SOUS POUILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

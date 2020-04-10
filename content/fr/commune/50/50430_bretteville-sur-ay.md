@@ -1,5 +1,5 @@
 ---
-title: "50430 - BRETTEVILLE SUR AY | Entraide, Annonces, Initiatives"
+title: "50430 - BRETTEVILLE SUR AY"
 description: "50430 - BRETTEVILLE SUR AY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

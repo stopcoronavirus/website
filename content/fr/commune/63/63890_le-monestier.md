@@ -1,5 +1,5 @@
 ---
-title: "63890 - LE MONESTIER | Entraide, Annonces, Initiatives"
+title: "63890 - LE MONESTIER"
 description: "63890 - LE MONESTIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

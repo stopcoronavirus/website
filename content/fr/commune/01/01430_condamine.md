@@ -1,5 +1,5 @@
 ---
-title: "01430 - CONDAMINE | Entraide, Annonces, Initiatives"
+title: "01430 - CONDAMINE"
 description: "01430 - CONDAMINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

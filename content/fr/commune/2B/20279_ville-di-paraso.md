@@ -1,5 +1,5 @@
 ---
-title: "20279 - VILLE DI PARASO | Entraide, Annonces, Initiatives"
+title: "20279 - VILLE DI PARASO"
 description: "20279 - VILLE DI PARASO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

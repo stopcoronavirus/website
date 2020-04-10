@@ -1,5 +1,5 @@
 ---
-title: "81170 - ST MARTIN LAGUEPIE | Entraide, Annonces, Initiatives"
+title: "81170 - ST MARTIN LAGUEPIE"
 description: "81170 - ST MARTIN LAGUEPIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

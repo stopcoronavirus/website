@@ -1,5 +1,5 @@
 ---
-title: "51270 - BANNAY | Entraide, Annonces, Initiatives"
+title: "51270 - BANNAY"
 description: "51270 - BANNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

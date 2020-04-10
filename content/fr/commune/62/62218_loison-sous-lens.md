@@ -1,5 +1,5 @@
 ---
-title: "62218 - LOISON SOUS LENS | Entraide, Annonces, Initiatives"
+title: "62218 - LOISON SOUS LENS"
 description: "62218 - LOISON SOUS LENS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

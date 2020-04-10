@@ -1,5 +1,5 @@
 ---
-title: "59870 - WANDIGNIES HAMAGE | Entraide, Annonces, Initiatives"
+title: "59870 - WANDIGNIES HAMAGE"
 description: "59870 - WANDIGNIES HAMAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

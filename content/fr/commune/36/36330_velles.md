@@ -1,5 +1,5 @@
 ---
-title: "36330 - VELLES | Entraide, Annonces, Initiatives"
+title: "36330 - VELLES"
 description: "36330 - VELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

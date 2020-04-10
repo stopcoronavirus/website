@@ -1,5 +1,5 @@
 ---
-title: "61300 - L AIGLE | Entraide, Annonces, Initiatives"
+title: "61300 - L AIGLE"
 description: "61300 - L AIGLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

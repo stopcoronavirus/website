@@ -1,5 +1,5 @@
 ---
-title: "60690 - ROY BOISSY | Entraide, Annonces, Initiatives"
+title: "60690 - ROY BOISSY"
 description: "60690 - ROY BOISSY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

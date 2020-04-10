@@ -1,5 +1,5 @@
 ---
-title: "72190 - COULAINES | Entraide, Annonces, Initiatives"
+title: "72190 - COULAINES"
 description: "72190 - COULAINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "55200 - BROUSSEY RAULECOURT | Entraide, Annonces, Initiatives"
+title: "55200 - BROUSSEY RAULECOURT"
 description: "55200 - BROUSSEY RAULECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

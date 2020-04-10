@@ -1,5 +1,5 @@
 ---
-title: "24750 - CORNILLE | Entraide, Annonces, Initiatives"
+title: "24750 - CORNILLE"
 description: "24750 - CORNILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

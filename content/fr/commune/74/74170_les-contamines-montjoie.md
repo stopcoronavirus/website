@@ -1,5 +1,5 @@
 ---
-title: "74170 - LES CONTAMINES MONTJOIE | Entraide, Annonces, Initiatives"
+title: "74170 - LES CONTAMINES MONTJOIE"
 description: "74170 - LES CONTAMINES MONTJOIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

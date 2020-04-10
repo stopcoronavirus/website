@@ -1,5 +1,5 @@
 ---
-title: "77820 - LE CHATELET EN BRIE | Entraide, Annonces, Initiatives"
+title: "77820 - LE CHATELET EN BRIE"
 description: "77820 - LE CHATELET EN BRIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

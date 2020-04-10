@@ -1,5 +1,5 @@
 ---
-title: "30440 - SUMENE | Entraide, Annonces, Initiatives"
+title: "30440 - SUMENE"
 description: "30440 - SUMENE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

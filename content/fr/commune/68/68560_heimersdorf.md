@@ -1,5 +1,5 @@
 ---
-title: "68560 - HEIMERSDORF | Entraide, Annonces, Initiatives"
+title: "68560 - HEIMERSDORF"
 description: "68560 - HEIMERSDORF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "89440 - DISSANGIS | Entraide, Annonces, Initiatives"
+title: "89440 - DISSANGIS"
 description: "89440 - DISSANGIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

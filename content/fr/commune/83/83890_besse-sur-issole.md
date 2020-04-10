@@ -1,5 +1,5 @@
 ---
-title: "83890 - BESSE SUR ISSOLE | Entraide, Annonces, Initiatives"
+title: "83890 - BESSE SUR ISSOLE"
 description: "83890 - BESSE SUR ISSOLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

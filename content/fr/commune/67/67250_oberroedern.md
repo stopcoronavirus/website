@@ -1,5 +1,5 @@
 ---
-title: "67250 - OBERROEDERN | Entraide, Annonces, Initiatives"
+title: "67250 - OBERROEDERN"
 description: "67250 - OBERROEDERN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

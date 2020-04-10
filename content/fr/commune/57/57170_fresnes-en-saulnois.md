@@ -1,5 +1,5 @@
 ---
-title: "57170 - FRESNES EN SAULNOIS | Entraide, Annonces, Initiatives"
+title: "57170 - FRESNES EN SAULNOIS"
 description: "57170 - FRESNES EN SAULNOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "36160 - POULIGNY NOTRE DAME | Entraide, Annonces, Initiatives"
+title: "36160 - POULIGNY NOTRE DAME"
 description: "36160 - POULIGNY NOTRE DAME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

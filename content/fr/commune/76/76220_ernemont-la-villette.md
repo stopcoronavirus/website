@@ -1,5 +1,5 @@
 ---
-title: "76220 - ERNEMONT LA VILLETTE | Entraide, Annonces, Initiatives"
+title: "76220 - ERNEMONT LA VILLETTE"
 description: "76220 - ERNEMONT LA VILLETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "55000 - LONGEVILLE EN BARROIS | Entraide, Annonces, Initiatives"
+title: "55000 - LONGEVILLE EN BARROIS"
 description: "55000 - LONGEVILLE EN BARROIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "21330 - LARREY | Entraide, Annonces, Initiatives"
+title: "21330 - LARREY"
 description: "21330 - LARREY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

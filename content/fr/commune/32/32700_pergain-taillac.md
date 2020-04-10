@@ -1,5 +1,5 @@
 ---
-title: "32700 - PERGAIN TAILLAC | Entraide, Annonces, Initiatives"
+title: "32700 - PERGAIN TAILLAC"
 description: "32700 - PERGAIN TAILLAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

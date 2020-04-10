@@ -1,5 +1,5 @@
 ---
-title: "47220 - MARMONT PACHAS | Entraide, Annonces, Initiatives"
+title: "47220 - MARMONT PACHAS"
 description: "47220 - MARMONT PACHAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "28270 - MONTIGNY SUR AVRE | Entraide, Annonces, Initiatives"
+title: "28270 - MONTIGNY SUR AVRE"
 description: "28270 - MONTIGNY SUR AVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

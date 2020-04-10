@@ -1,5 +1,5 @@
 ---
-title: "57590 - ALAINCOURT LA COTE | Entraide, Annonces, Initiatives"
+title: "57590 - ALAINCOURT LA COTE"
 description: "57590 - ALAINCOURT LA COTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

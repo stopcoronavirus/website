@@ -1,5 +1,5 @@
 ---
-title: "60280 - BIENVILLE | Entraide, Annonces, Initiatives"
+title: "60280 - BIENVILLE"
 description: "60280 - BIENVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "86190 - CHALANDRAY | Entraide, Annonces, Initiatives"
+title: "86190 - CHALANDRAY"
 description: "86190 - CHALANDRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

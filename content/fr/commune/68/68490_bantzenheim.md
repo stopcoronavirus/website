@@ -1,5 +1,5 @@
 ---
-title: "68490 - BANTZENHEIM | Entraide, Annonces, Initiatives"
+title: "68490 - BANTZENHEIM"
 description: "68490 - BANTZENHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

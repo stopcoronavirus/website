@@ -1,5 +1,5 @@
 ---
-title: "15130 - SANSAC DE MARMIESSE | Entraide, Annonces, Initiatives"
+title: "15130 - SANSAC DE MARMIESSE"
 description: "15130 - SANSAC DE MARMIESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

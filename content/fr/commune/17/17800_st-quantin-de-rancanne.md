@@ -1,5 +1,5 @@
 ---
-title: "17800 - ST QUANTIN DE RANCANNE | Entraide, Annonces, Initiatives"
+title: "17800 - ST QUANTIN DE RANCANNE"
 description: "17800 - ST QUANTIN DE RANCANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

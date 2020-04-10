@@ -1,5 +1,5 @@
 ---
-title: "78210 - ST CYR L ECOLE | Entraide, Annonces, Initiatives"
+title: "78210 - ST CYR L ECOLE"
 description: "78210 - ST CYR L ECOLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

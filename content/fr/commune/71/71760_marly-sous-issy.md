@@ -1,5 +1,5 @@
 ---
-title: "71760 - MARLY SOUS ISSY | Entraide, Annonces, Initiatives"
+title: "71760 - MARLY SOUS ISSY"
 description: "71760 - MARLY SOUS ISSY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

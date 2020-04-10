@@ -1,5 +1,5 @@
 ---
-title: "20157 - FRASSETO | Entraide, Annonces, Initiatives"
+title: "20157 - FRASSETO"
 description: "20157 - FRASSETO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

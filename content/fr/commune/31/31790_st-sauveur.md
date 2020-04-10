@@ -1,5 +1,5 @@
 ---
-title: "31790 - ST SAUVEUR | Entraide, Annonces, Initiatives"
+title: "31790 - ST SAUVEUR"
 description: "31790 - ST SAUVEUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "74360 - LA CHAPELLE D ABONDANCE | Entraide, Annonces, Initiatives"
+title: "74360 - LA CHAPELLE D ABONDANCE"
 description: "74360 - LA CHAPELLE D ABONDANCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

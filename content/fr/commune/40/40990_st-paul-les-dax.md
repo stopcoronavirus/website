@@ -1,5 +1,5 @@
 ---
-title: "40990 - ST PAUL LES DAX | Entraide, Annonces, Initiatives"
+title: "40990 - ST PAUL LES DAX"
 description: "40990 - ST PAUL LES DAX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

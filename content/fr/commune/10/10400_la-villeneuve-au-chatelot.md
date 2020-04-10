@@ -1,5 +1,5 @@
 ---
-title: "10400 - LA VILLENEUVE AU CHATELOT | Entraide, Annonces, Initiatives"
+title: "10400 - LA VILLENEUVE AU CHATELOT"
 description: "10400 - LA VILLENEUVE AU CHATELOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

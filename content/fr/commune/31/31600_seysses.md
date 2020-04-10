@@ -1,5 +1,5 @@
 ---
-title: "31600 - SEYSSES | Entraide, Annonces, Initiatives"
+title: "31600 - SEYSSES"
 description: "31600 - SEYSSES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

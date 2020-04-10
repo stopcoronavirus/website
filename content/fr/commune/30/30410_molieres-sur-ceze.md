@@ -1,5 +1,5 @@
 ---
-title: "30410 - MOLIERES SUR CEZE | Entraide, Annonces, Initiatives"
+title: "30410 - MOLIERES SUR CEZE"
 description: "30410 - MOLIERES SUR CEZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

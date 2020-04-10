@@ -1,5 +1,5 @@
 ---
-title: "66300 - PONTEILLA | Entraide, Annonces, Initiatives"
+title: "66300 - PONTEILLA"
 description: "66300 - PONTEILLA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

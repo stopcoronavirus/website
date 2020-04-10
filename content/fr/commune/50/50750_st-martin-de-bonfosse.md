@@ -1,5 +1,5 @@
 ---
-title: "50750 - ST MARTIN DE BONFOSSE | Entraide, Annonces, Initiatives"
+title: "50750 - ST MARTIN DE BONFOSSE"
 description: "50750 - ST MARTIN DE BONFOSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

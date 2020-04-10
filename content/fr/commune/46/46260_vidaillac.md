@@ -1,5 +1,5 @@
 ---
-title: "46260 - VIDAILLAC | Entraide, Annonces, Initiatives"
+title: "46260 - VIDAILLAC"
 description: "46260 - VIDAILLAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

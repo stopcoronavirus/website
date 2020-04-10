@@ -1,5 +1,5 @@
 ---
-title: "39290 - PEINTRE | Entraide, Annonces, Initiatives"
+title: "39290 - PEINTRE"
 description: "39290 - PEINTRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

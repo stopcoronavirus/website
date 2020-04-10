@@ -1,5 +1,5 @@
 ---
-title: "54480 - PETITMONT | Entraide, Annonces, Initiatives"
+title: "54480 - PETITMONT"
 description: "54480 - PETITMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

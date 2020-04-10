@@ -1,5 +1,5 @@
 ---
-title: "34290 - ALIGNAN DU VENT | Entraide, Annonces, Initiatives"
+title: "34290 - ALIGNAN DU VENT"
 description: "34290 - ALIGNAN DU VENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

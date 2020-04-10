@@ -1,5 +1,5 @@
 ---
-title: "24400 - ST MICHEL DE DOUBLE | Entraide, Annonces, Initiatives"
+title: "24400 - ST MICHEL DE DOUBLE"
 description: "24400 - ST MICHEL DE DOUBLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "71170 - CHAUFFAILLES | Entraide, Annonces, Initiatives"
+title: "71170 - CHAUFFAILLES"
 description: "71170 - CHAUFFAILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13103 - MAS BLANC DES ALPILLES | Entraide, Annonces, Initiatives"
+title: "13103 - MAS BLANC DES ALPILLES"
 description: "13103 - MAS BLANC DES ALPILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

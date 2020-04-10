@@ -1,5 +1,5 @@
 ---
-title: "74130 - GLIERES VAL DE BORNE | Entraide, Annonces, Initiatives"
+title: "74130 - GLIERES VAL DE BORNE"
 description: "74130 - GLIERES VAL DE BORNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

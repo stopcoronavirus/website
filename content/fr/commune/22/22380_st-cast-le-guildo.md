@@ -1,5 +1,5 @@
 ---
-title: "22380 - ST CAST LE GUILDO | Entraide, Annonces, Initiatives"
+title: "22380 - ST CAST LE GUILDO"
 description: "22380 - ST CAST LE GUILDO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

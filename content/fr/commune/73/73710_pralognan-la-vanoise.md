@@ -1,5 +1,5 @@
 ---
-title: "73710 - PRALOGNAN LA VANOISE | Entraide, Annonces, Initiatives"
+title: "73710 - PRALOGNAN LA VANOISE"
 description: "73710 - PRALOGNAN LA VANOISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

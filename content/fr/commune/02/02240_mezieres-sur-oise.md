@@ -1,5 +1,5 @@
 ---
-title: "02240 - MEZIERES SUR OISE | Entraide, Annonces, Initiatives"
+title: "02240 - MEZIERES SUR OISE"
 description: "02240 - MEZIERES SUR OISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

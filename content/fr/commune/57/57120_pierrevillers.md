@@ -1,5 +1,5 @@
 ---
-title: "57120 - PIERREVILLERS | Entraide, Annonces, Initiatives"
+title: "57120 - PIERREVILLERS"
 description: "57120 - PIERREVILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

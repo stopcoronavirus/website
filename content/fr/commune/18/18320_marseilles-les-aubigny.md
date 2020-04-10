@@ -1,5 +1,5 @@
 ---
-title: "18320 - MARSEILLES LES AUBIGNY | Entraide, Annonces, Initiatives"
+title: "18320 - MARSEILLES LES AUBIGNY"
 description: "18320 - MARSEILLES LES AUBIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

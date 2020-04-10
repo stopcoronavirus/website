@@ -1,5 +1,5 @@
 ---
-title: "56910 - ST NICOLAS DU TERTRE | Entraide, Annonces, Initiatives"
+title: "56910 - ST NICOLAS DU TERTRE"
 description: "56910 - ST NICOLAS DU TERTRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

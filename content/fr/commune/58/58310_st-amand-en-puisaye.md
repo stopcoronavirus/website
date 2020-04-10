@@ -1,5 +1,5 @@
 ---
-title: "58310 - ST AMAND EN PUISAYE | Entraide, Annonces, Initiatives"
+title: "58310 - ST AMAND EN PUISAYE"
 description: "58310 - ST AMAND EN PUISAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

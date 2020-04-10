@@ -1,5 +1,5 @@
 ---
-title: "24610 - ST MEARD DE GURCON | Entraide, Annonces, Initiatives"
+title: "24610 - ST MEARD DE GURCON"
 description: "24610 - ST MEARD DE GURCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

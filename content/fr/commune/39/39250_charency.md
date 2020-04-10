@@ -1,5 +1,5 @@
 ---
-title: "39250 - CHARENCY | Entraide, Annonces, Initiatives"
+title: "39250 - CHARENCY"
 description: "39250 - CHARENCY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

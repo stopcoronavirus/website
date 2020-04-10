@@ -1,5 +1,5 @@
 ---
-title: "59215 - ABSCON | Entraide, Annonces, Initiatives"
+title: "59215 - ABSCON"
 description: "59215 - ABSCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

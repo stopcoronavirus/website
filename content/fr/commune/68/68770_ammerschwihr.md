@@ -1,5 +1,5 @@
 ---
-title: "68770 - AMMERSCHWIHR | Entraide, Annonces, Initiatives"
+title: "68770 - AMMERSCHWIHR"
 description: "68770 - AMMERSCHWIHR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

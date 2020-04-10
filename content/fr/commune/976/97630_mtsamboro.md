@@ -1,5 +1,5 @@
 ---
-title: "97630 - MTSAMBORO | Entraide, Annonces, Initiatives"
+title: "97630 - MTSAMBORO"
 description: "97630 - MTSAMBORO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

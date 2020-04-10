@@ -1,5 +1,5 @@
 ---
-title: "36200 - MOSNAY | Entraide, Annonces, Initiatives"
+title: "36200 - MOSNAY"
 description: "36200 - MOSNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

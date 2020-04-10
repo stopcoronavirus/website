@@ -1,5 +1,5 @@
 ---
-title: "11700 - PEPIEUX | Entraide, Annonces, Initiatives"
+title: "11700 - PEPIEUX"
 description: "11700 - PEPIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

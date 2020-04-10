@@ -1,5 +1,5 @@
 ---
-title: "70160 - LE VAL ST ELOI | Entraide, Annonces, Initiatives"
+title: "70160 - LE VAL ST ELOI"
 description: "70160 - LE VAL ST ELOI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

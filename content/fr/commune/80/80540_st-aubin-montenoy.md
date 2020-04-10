@@ -1,5 +1,5 @@
 ---
-title: "80540 - ST AUBIN MONTENOY | Entraide, Annonces, Initiatives"
+title: "80540 - ST AUBIN MONTENOY"
 description: "80540 - ST AUBIN MONTENOY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

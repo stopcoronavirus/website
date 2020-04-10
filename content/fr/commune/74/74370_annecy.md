@@ -1,5 +1,5 @@
 ---
-title: "74370 - ANNECY | Entraide, Annonces, Initiatives"
+title: "74370 - ANNECY"
 description: "74370 - ANNECY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

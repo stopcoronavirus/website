@@ -1,5 +1,5 @@
 ---
-title: "33760 - TARGON | Entraide, Annonces, Initiatives"
+title: "33760 - TARGON"
 description: "33760 - TARGON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

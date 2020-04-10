@@ -1,5 +1,5 @@
 ---
-title: "21580 - FRAIGNOT ET VESVROTTE | Entraide, Annonces, Initiatives"
+title: "21580 - FRAIGNOT ET VESVROTTE"
 description: "21580 - FRAIGNOT ET VESVROTTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

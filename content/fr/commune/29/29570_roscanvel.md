@@ -1,5 +1,5 @@
 ---
-title: "29570 - ROSCANVEL | Entraide, Annonces, Initiatives"
+title: "29570 - ROSCANVEL"
 description: "29570 - ROSCANVEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

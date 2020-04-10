@@ -1,5 +1,5 @@
 ---
-title: "21610 - FONTENELLE | Entraide, Annonces, Initiatives"
+title: "21610 - FONTENELLE"
 description: "21610 - FONTENELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

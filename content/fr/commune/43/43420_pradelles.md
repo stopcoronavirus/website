@@ -1,5 +1,5 @@
 ---
-title: "43420 - PRADELLES | Entraide, Annonces, Initiatives"
+title: "43420 - PRADELLES"
 description: "43420 - PRADELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

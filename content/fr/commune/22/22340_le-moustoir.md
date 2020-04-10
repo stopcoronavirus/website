@@ -1,5 +1,5 @@
 ---
-title: "22340 - LE MOUSTOIR | Entraide, Annonces, Initiatives"
+title: "22340 - LE MOUSTOIR"
 description: "22340 - LE MOUSTOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

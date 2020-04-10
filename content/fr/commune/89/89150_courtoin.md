@@ -1,5 +1,5 @@
 ---
-title: "89150 - COURTOIN | Entraide, Annonces, Initiatives"
+title: "89150 - COURTOIN"
 description: "89150 - COURTOIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

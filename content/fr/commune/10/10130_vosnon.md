@@ -1,5 +1,5 @@
 ---
-title: "10130 - VOSNON | Entraide, Annonces, Initiatives"
+title: "10130 - VOSNON"
 description: "10130 - VOSNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

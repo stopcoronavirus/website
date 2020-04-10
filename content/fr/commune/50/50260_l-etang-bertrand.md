@@ -1,5 +1,5 @@
 ---
-title: "50260 - L ETANG BERTRAND | Entraide, Annonces, Initiatives"
+title: "50260 - L ETANG BERTRAND"
 description: "50260 - L ETANG BERTRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

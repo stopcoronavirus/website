@@ -1,5 +1,5 @@
 ---
-title: "76160 - RONCHEROLLES SUR LE VIVIER | Entraide, Annonces, Initiatives"
+title: "76160 - RONCHEROLLES SUR LE VIVIER"
 description: "76160 - RONCHEROLLES SUR LE VIVIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

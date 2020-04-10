@@ -1,5 +1,5 @@
 ---
-title: "20100 - SARTENE | Entraide, Annonces, Initiatives"
+title: "20100 - SARTENE"
 description: "20100 - SARTENE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

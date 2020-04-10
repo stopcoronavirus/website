@@ -1,5 +1,5 @@
 ---
-title: "64470 - LICHANS SUNHAR | Entraide, Annonces, Initiatives"
+title: "64470 - LICHANS SUNHAR"
 description: "64470 - LICHANS SUNHAR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "40240 - LAGRANGE | Entraide, Annonces, Initiatives"
+title: "40240 - LAGRANGE"
 description: "40240 - LAGRANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

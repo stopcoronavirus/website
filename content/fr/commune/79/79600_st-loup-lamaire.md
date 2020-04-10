@@ -1,5 +1,5 @@
 ---
-title: "79600 - ST LOUP LAMAIRE | Entraide, Annonces, Initiatives"
+title: "79600 - ST LOUP LAMAIRE"
 description: "79600 - ST LOUP LAMAIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

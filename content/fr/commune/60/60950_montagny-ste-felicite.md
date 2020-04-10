@@ -1,5 +1,5 @@
 ---
-title: "60950 - MONTAGNY STE FELICITE | Entraide, Annonces, Initiatives"
+title: "60950 - MONTAGNY STE FELICITE"
 description: "60950 - MONTAGNY STE FELICITE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

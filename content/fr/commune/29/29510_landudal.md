@@ -1,5 +1,5 @@
 ---
-title: "29510 - LANDUDAL | Entraide, Annonces, Initiatives"
+title: "29510 - LANDUDAL"
 description: "29510 - LANDUDAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

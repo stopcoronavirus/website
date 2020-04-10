@@ -1,5 +1,5 @@
 ---
-title: "48170 - MONTBEL | Entraide, Annonces, Initiatives"
+title: "48170 - MONTBEL"
 description: "48170 - MONTBEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13210 - ST REMY DE PROVENCE | Entraide, Annonces, Initiatives"
+title: "13210 - ST REMY DE PROVENCE"
 description: "13210 - ST REMY DE PROVENCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

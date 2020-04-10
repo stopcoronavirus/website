@@ -1,5 +1,5 @@
 ---
-title: "13830 - ROQUEFORT LA BEDOULE | Entraide, Annonces, Initiatives"
+title: "13830 - ROQUEFORT LA BEDOULE"
 description: "13830 - ROQUEFORT LA BEDOULE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

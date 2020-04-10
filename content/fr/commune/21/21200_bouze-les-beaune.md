@@ -1,5 +1,5 @@
 ---
-title: "21200 - BOUZE LES BEAUNE | Entraide, Annonces, Initiatives"
+title: "21200 - BOUZE LES BEAUNE"
 description: "21200 - BOUZE LES BEAUNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

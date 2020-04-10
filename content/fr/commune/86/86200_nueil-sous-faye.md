@@ -1,5 +1,5 @@
 ---
-title: "86200 - NUEIL SOUS FAYE | Entraide, Annonces, Initiatives"
+title: "86200 - NUEIL SOUS FAYE"
 description: "86200 - NUEIL SOUS FAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

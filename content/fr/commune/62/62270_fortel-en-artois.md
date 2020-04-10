@@ -1,5 +1,5 @@
 ---
-title: "62270 - FORTEL EN ARTOIS | Entraide, Annonces, Initiatives"
+title: "62270 - FORTEL EN ARTOIS"
 description: "62270 - FORTEL EN ARTOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

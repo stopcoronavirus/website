@@ -1,5 +1,5 @@
 ---
-title: "88120 - VAGNEY | Entraide, Annonces, Initiatives"
+title: "88120 - VAGNEY"
 description: "88120 - VAGNEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

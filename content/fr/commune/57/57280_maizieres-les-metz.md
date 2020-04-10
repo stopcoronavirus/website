@@ -1,5 +1,5 @@
 ---
-title: "57280 - MAIZIERES LES METZ | Entraide, Annonces, Initiatives"
+title: "57280 - MAIZIERES LES METZ"
 description: "57280 - MAIZIERES LES METZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

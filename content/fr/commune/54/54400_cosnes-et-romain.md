@@ -1,5 +1,5 @@
 ---
-title: "54400 - COSNES ET ROMAIN | Entraide, Annonces, Initiatives"
+title: "54400 - COSNES ET ROMAIN"
 description: "54400 - COSNES ET ROMAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

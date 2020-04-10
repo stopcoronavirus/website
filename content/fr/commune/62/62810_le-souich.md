@@ -1,5 +1,5 @@
 ---
-title: "62810 - LE SOUICH | Entraide, Annonces, Initiatives"
+title: "62810 - LE SOUICH"
 description: "62810 - LE SOUICH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

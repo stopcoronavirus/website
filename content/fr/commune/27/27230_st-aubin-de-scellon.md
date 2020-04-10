@@ -1,5 +1,5 @@
 ---
-title: "27230 - ST AUBIN DE SCELLON | Entraide, Annonces, Initiatives"
+title: "27230 - ST AUBIN DE SCELLON"
 description: "27230 - ST AUBIN DE SCELLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

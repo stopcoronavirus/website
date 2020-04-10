@@ -1,5 +1,5 @@
 ---
-title: "12160 - CAMBOULAZET | Entraide, Annonces, Initiatives"
+title: "12160 - CAMBOULAZET"
 description: "12160 - CAMBOULAZET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

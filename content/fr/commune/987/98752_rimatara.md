@@ -1,5 +1,5 @@
 ---
-title: "98752 - RIMATARA | Entraide, Annonces, Initiatives"
+title: "98752 - RIMATARA"
 description: "98752 - RIMATARA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

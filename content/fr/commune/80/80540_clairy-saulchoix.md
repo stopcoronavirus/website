@@ -1,5 +1,5 @@
 ---
-title: "80540 - CLAIRY SAULCHOIX | Entraide, Annonces, Initiatives"
+title: "80540 - CLAIRY SAULCHOIX"
 description: "80540 - CLAIRY SAULCHOIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

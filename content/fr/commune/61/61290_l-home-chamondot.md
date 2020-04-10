@@ -1,5 +1,5 @@
 ---
-title: "61290 - L HOME CHAMONDOT | Entraide, Annonces, Initiatives"
+title: "61290 - L HOME CHAMONDOT"
 description: "61290 - L HOME CHAMONDOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "20190 - CARDO TORGIA | Entraide, Annonces, Initiatives"
+title: "20190 - CARDO TORGIA"
 description: "20190 - CARDO TORGIA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

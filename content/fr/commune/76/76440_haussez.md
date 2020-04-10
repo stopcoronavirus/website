@@ -1,5 +1,5 @@
 ---
-title: "76440 - HAUSSEZ | Entraide, Annonces, Initiatives"
+title: "76440 - HAUSSEZ"
 description: "76440 - HAUSSEZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

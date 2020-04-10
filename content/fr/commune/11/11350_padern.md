@@ -1,5 +1,5 @@
 ---
-title: "11350 - PADERN | Entraide, Annonces, Initiatives"
+title: "11350 - PADERN"
 description: "11350 - PADERN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

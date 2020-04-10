@@ -1,5 +1,5 @@
 ---
-title: "38930 - LE MONESTIER DU PERCY | Entraide, Annonces, Initiatives"
+title: "38930 - LE MONESTIER DU PERCY"
 description: "38930 - LE MONESTIER DU PERCY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

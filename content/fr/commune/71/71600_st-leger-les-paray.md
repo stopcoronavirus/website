@@ -1,5 +1,5 @@
 ---
-title: "71600 - ST LEGER LES PARAY | Entraide, Annonces, Initiatives"
+title: "71600 - ST LEGER LES PARAY"
 description: "71600 - ST LEGER LES PARAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

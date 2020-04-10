@@ -1,5 +1,5 @@
 ---
-title: "88410 - FIGNEVELLE | Entraide, Annonces, Initiatives"
+title: "88410 - FIGNEVELLE"
 description: "88410 - FIGNEVELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

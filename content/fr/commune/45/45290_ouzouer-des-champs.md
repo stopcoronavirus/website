@@ -1,5 +1,5 @@
 ---
-title: "45290 - OUZOUER DES CHAMPS | Entraide, Annonces, Initiatives"
+title: "45290 - OUZOUER DES CHAMPS"
 description: "45290 - OUZOUER DES CHAMPS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

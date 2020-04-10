@@ -1,5 +1,5 @@
 ---
-title: "05310 - FREISSINIERES | Entraide, Annonces, Initiatives"
+title: "05310 - FREISSINIERES"
 description: "05310 - FREISSINIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

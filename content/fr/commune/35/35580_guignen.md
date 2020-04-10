@@ -1,5 +1,5 @@
 ---
-title: "35580 - GUIGNEN | Entraide, Annonces, Initiatives"
+title: "35580 - GUIGNEN"
 description: "35580 - GUIGNEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

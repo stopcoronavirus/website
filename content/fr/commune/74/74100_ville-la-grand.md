@@ -1,5 +1,5 @@
 ---
-title: "74100 - VILLE LA GRAND | Entraide, Annonces, Initiatives"
+title: "74100 - VILLE LA GRAND"
 description: "74100 - VILLE LA GRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

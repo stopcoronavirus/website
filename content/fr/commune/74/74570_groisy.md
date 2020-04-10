@@ -1,5 +1,5 @@
 ---
-title: "74570 - GROISY | Entraide, Annonces, Initiatives"
+title: "74570 - GROISY"
 description: "74570 - GROISY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

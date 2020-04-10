@@ -1,5 +1,5 @@
 ---
-title: "19550 - ST HILAIRE FOISSAC | Entraide, Annonces, Initiatives"
+title: "19550 - ST HILAIRE FOISSAC"
 description: "19550 - ST HILAIRE FOISSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

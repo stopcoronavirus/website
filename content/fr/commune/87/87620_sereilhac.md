@@ -1,5 +1,5 @@
 ---
-title: "87620 - SEREILHAC | Entraide, Annonces, Initiatives"
+title: "87620 - SEREILHAC"
 description: "87620 - SEREILHAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

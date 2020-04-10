@@ -1,5 +1,5 @@
 ---
-title: "38150 - CHANAS | Entraide, Annonces, Initiatives"
+title: "38150 - CHANAS"
 description: "38150 - CHANAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

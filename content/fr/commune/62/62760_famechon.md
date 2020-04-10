@@ -1,5 +1,5 @@
 ---
-title: "62760 - FAMECHON | Entraide, Annonces, Initiatives"
+title: "62760 - FAMECHON"
 description: "62760 - FAMECHON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

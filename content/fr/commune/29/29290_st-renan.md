@@ -1,5 +1,5 @@
 ---
-title: "29290 - ST RENAN | Entraide, Annonces, Initiatives"
+title: "29290 - ST RENAN"
 description: "29290 - ST RENAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

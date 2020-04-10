@@ -1,5 +1,5 @@
 ---
-title: "78480 - VERNEUIL SUR SEINE | Entraide, Annonces, Initiatives"
+title: "78480 - VERNEUIL SUR SEINE"
 description: "78480 - VERNEUIL SUR SEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

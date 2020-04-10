@@ -1,5 +1,5 @@
 ---
-title: "36500 - NEUILLAY LES BOIS | Entraide, Annonces, Initiatives"
+title: "36500 - NEUILLAY LES BOIS"
 description: "36500 - NEUILLAY LES BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "57400 - SCHNECKENBUSCH | Entraide, Annonces, Initiatives"
+title: "57400 - SCHNECKENBUSCH"
 description: "57400 - SCHNECKENBUSCH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "72600 - LOUVIGNY | Entraide, Annonces, Initiatives"
+title: "72600 - LOUVIGNY"
 description: "72600 - LOUVIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

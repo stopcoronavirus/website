@@ -1,5 +1,5 @@
 ---
-title: "57260 - LINDRE HAUTE | Entraide, Annonces, Initiatives"
+title: "57260 - LINDRE HAUTE"
 description: "57260 - LINDRE HAUTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

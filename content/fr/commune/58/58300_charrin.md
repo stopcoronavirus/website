@@ -1,5 +1,5 @@
 ---
-title: "58300 - CHARRIN | Entraide, Annonces, Initiatives"
+title: "58300 - CHARRIN"
 description: "58300 - CHARRIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

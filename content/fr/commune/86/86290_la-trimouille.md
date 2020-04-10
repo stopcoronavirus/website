@@ -1,5 +1,5 @@
 ---
-title: "86290 - LA TRIMOUILLE | Entraide, Annonces, Initiatives"
+title: "86290 - LA TRIMOUILLE"
 description: "86290 - LA TRIMOUILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "33240 - ST LAURENT D ARCE | Entraide, Annonces, Initiatives"
+title: "33240 - ST LAURENT D ARCE"
 description: "33240 - ST LAURENT D ARCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "15400 - RIOM ES MONTAGNES | Entraide, Annonces, Initiatives"
+title: "15400 - RIOM ES MONTAGNES"
 description: "15400 - RIOM ES MONTAGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

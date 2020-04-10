@@ -1,5 +1,5 @@
 ---
-title: "04350 - MALIJAI | Entraide, Annonces, Initiatives"
+title: "04350 - MALIJAI"
 description: "04350 - MALIJAI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

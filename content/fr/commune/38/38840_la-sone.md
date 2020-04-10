@@ -1,5 +1,5 @@
 ---
-title: "38840 - LA SONE | Entraide, Annonces, Initiatives"
+title: "38840 - LA SONE"
 description: "38840 - LA SONE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

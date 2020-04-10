@@ -1,5 +1,5 @@
 ---
-title: "47230 - POMPIEY | Entraide, Annonces, Initiatives"
+title: "47230 - POMPIEY"
 description: "47230 - POMPIEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

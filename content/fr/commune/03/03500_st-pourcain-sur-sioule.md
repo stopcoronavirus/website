@@ -1,5 +1,5 @@
 ---
-title: "03500 - ST POURCAIN SUR SIOULE | Entraide, Annonces, Initiatives"
+title: "03500 - ST POURCAIN SUR SIOULE"
 description: "03500 - ST POURCAIN SUR SIOULE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

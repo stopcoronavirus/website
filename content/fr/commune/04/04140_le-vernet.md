@@ -1,5 +1,5 @@
 ---
-title: "04140 - LE VERNET | Entraide, Annonces, Initiatives"
+title: "04140 - LE VERNET"
 description: "04140 - LE VERNET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

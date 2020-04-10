@@ -1,5 +1,5 @@
 ---
-title: "52150 - GRAFFIGNY CHEMIN | Entraide, Annonces, Initiatives"
+title: "52150 - GRAFFIGNY CHEMIN"
 description: "52150 - GRAFFIGNY CHEMIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

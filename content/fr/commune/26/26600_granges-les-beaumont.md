@@ -1,5 +1,5 @@
 ---
-title: "26600 - GRANGES LES BEAUMONT | Entraide, Annonces, Initiatives"
+title: "26600 - GRANGES LES BEAUMONT"
 description: "26600 - GRANGES LES BEAUMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

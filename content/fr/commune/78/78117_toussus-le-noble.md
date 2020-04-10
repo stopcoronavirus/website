@@ -1,5 +1,5 @@
 ---
-title: "78117 - TOUSSUS LE NOBLE | Entraide, Annonces, Initiatives"
+title: "78117 - TOUSSUS LE NOBLE"
 description: "78117 - TOUSSUS LE NOBLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

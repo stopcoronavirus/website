@@ -1,5 +1,5 @@
 ---
-title: "12700 - NAUSSAC | Entraide, Annonces, Initiatives"
+title: "12700 - NAUSSAC"
 description: "12700 - NAUSSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

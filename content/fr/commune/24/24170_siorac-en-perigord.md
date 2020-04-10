@@ -1,5 +1,5 @@
 ---
-title: "24170 - SIORAC EN PERIGORD | Entraide, Annonces, Initiatives"
+title: "24170 - SIORAC EN PERIGORD"
 description: "24170 - SIORAC EN PERIGORD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

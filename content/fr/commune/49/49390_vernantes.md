@@ -1,5 +1,5 @@
 ---
-title: "49390 - VERNANTES | Entraide, Annonces, Initiatives"
+title: "49390 - VERNANTES"
 description: "49390 - VERNANTES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

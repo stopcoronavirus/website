@@ -1,5 +1,5 @@
 ---
-title: "92340 - BOURG LA REINE | Entraide, Annonces, Initiatives"
+title: "92340 - BOURG LA REINE"
 description: "92340 - BOURG LA REINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

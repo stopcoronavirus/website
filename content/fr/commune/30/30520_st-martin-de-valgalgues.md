@@ -1,5 +1,5 @@
 ---
-title: "30520 - ST MARTIN DE VALGALGUES | Entraide, Annonces, Initiatives"
+title: "30520 - ST MARTIN DE VALGALGUES"
 description: "30520 - ST MARTIN DE VALGALGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

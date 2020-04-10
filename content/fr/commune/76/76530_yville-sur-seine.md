@@ -1,5 +1,5 @@
 ---
-title: "76530 - YVILLE SUR SEINE | Entraide, Annonces, Initiatives"
+title: "76530 - YVILLE SUR SEINE"
 description: "76530 - YVILLE SUR SEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

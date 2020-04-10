@@ -1,5 +1,5 @@
 ---
-title: "72140 - ST REMY DE SILLE | Entraide, Annonces, Initiatives"
+title: "72140 - ST REMY DE SILLE"
 description: "72140 - ST REMY DE SILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

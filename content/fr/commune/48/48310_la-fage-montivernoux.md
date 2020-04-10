@@ -1,5 +1,5 @@
 ---
-title: "48310 - LA FAGE MONTIVERNOUX | Entraide, Annonces, Initiatives"
+title: "48310 - LA FAGE MONTIVERNOUX"
 description: "48310 - LA FAGE MONTIVERNOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

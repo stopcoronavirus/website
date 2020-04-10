@@ -1,5 +1,5 @@
 ---
-title: "67500 - HAGUENAU | Entraide, Annonces, Initiatives"
+title: "67500 - HAGUENAU"
 description: "67500 - HAGUENAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

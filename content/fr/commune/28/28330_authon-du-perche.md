@@ -1,5 +1,5 @@
 ---
-title: "28330 - AUTHON DU PERCHE | Entraide, Annonces, Initiatives"
+title: "28330 - AUTHON DU PERCHE"
 description: "28330 - AUTHON DU PERCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

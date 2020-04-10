@@ -1,5 +1,5 @@
 ---
-title: "29390 - LEUHAN | Entraide, Annonces, Initiatives"
+title: "29390 - LEUHAN"
 description: "29390 - LEUHAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

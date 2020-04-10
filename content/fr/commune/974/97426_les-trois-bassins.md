@@ -1,5 +1,5 @@
 ---
-title: "97426 - LES TROIS BASSINS | Entraide, Annonces, Initiatives"
+title: "97426 - LES TROIS BASSINS"
 description: "97426 - LES TROIS BASSINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

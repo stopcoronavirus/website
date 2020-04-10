@@ -1,5 +1,5 @@
 ---
-title: "71490 - ST MARTIN DE COMMUNE | Entraide, Annonces, Initiatives"
+title: "71490 - ST MARTIN DE COMMUNE"
 description: "71490 - ST MARTIN DE COMMUNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "16190 - MONTMOREAU | Entraide, Annonces, Initiatives"
+title: "16190 - MONTMOREAU"
 description: "16190 - MONTMOREAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

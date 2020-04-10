@@ -1,5 +1,5 @@
 ---
-title: "39400 - HAUTS DE BIENNE | Entraide, Annonces, Initiatives"
+title: "39400 - HAUTS DE BIENNE"
 description: "39400 - HAUTS DE BIENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

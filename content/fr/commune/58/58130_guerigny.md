@@ -1,5 +1,5 @@
 ---
-title: "58130 - GUERIGNY | Entraide, Annonces, Initiatives"
+title: "58130 - GUERIGNY"
 description: "58130 - GUERIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

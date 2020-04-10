@@ -1,5 +1,5 @@
 ---
-title: "33580 - ST SULPICE DE GUILLERAGUES | Entraide, Annonces, Initiatives"
+title: "33580 - ST SULPICE DE GUILLERAGUES"
 description: "33580 - ST SULPICE DE GUILLERAGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

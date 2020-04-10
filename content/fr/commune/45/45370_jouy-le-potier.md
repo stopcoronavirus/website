@@ -1,5 +1,5 @@
 ---
-title: "45370 - JOUY LE POTIER | Entraide, Annonces, Initiatives"
+title: "45370 - JOUY LE POTIER"
 description: "45370 - JOUY LE POTIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

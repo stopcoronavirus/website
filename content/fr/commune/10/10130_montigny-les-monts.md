@@ -1,5 +1,5 @@
 ---
-title: "10130 - MONTIGNY LES MONTS | Entraide, Annonces, Initiatives"
+title: "10130 - MONTIGNY LES MONTS"
 description: "10130 - MONTIGNY LES MONTS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

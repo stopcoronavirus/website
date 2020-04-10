@@ -1,5 +1,5 @@
 ---
-title: "81130 - MAILHOC | Entraide, Annonces, Initiatives"
+title: "81130 - MAILHOC"
 description: "81130 - MAILHOC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

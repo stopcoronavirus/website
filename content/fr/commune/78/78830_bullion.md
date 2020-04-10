@@ -1,5 +1,5 @@
 ---
-title: "78830 - BULLION | Entraide, Annonces, Initiatives"
+title: "78830 - BULLION"
 description: "78830 - BULLION | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "17250 - PONT L ABBE D ARNOULT | Entraide, Annonces, Initiatives"
+title: "17250 - PONT L ABBE D ARNOULT"
 description: "17250 - PONT L ABBE D ARNOULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

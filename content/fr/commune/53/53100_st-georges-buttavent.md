@@ -1,5 +1,5 @@
 ---
-title: "53100 - ST GEORGES BUTTAVENT | Entraide, Annonces, Initiatives"
+title: "53100 - ST GEORGES BUTTAVENT"
 description: "53100 - ST GEORGES BUTTAVENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

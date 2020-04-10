@@ -1,5 +1,5 @@
 ---
-title: "74970 - MARIGNIER | Entraide, Annonces, Initiatives"
+title: "74970 - MARIGNIER"
 description: "74970 - MARIGNIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

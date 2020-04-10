@@ -1,5 +1,5 @@
 ---
-title: "72460 - SILLE LE PHILIPPE | Entraide, Annonces, Initiatives"
+title: "72460 - SILLE LE PHILIPPE"
 description: "72460 - SILLE LE PHILIPPE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "65400 - BOO SILHEN | Entraide, Annonces, Initiatives"
+title: "65400 - BOO SILHEN"
 description: "65400 - BOO SILHEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

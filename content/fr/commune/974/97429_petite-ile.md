@@ -1,5 +1,5 @@
 ---
-title: "97429 - PETITE ILE | Entraide, Annonces, Initiatives"
+title: "97429 - PETITE ILE"
 description: "97429 - PETITE ILE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

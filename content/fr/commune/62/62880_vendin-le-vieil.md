@@ -1,5 +1,5 @@
 ---
-title: "62880 - VENDIN LE VIEIL | Entraide, Annonces, Initiatives"
+title: "62880 - VENDIN LE VIEIL"
 description: "62880 - VENDIN LE VIEIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

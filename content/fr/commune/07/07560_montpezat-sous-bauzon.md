@@ -1,5 +1,5 @@
 ---
-title: "07560 - MONTPEZAT SOUS BAUZON | Entraide, Annonces, Initiatives"
+title: "07560 - MONTPEZAT SOUS BAUZON"
 description: "07560 - MONTPEZAT SOUS BAUZON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "04850 - JAUSIERS | Entraide, Annonces, Initiatives"
+title: "04850 - JAUSIERS"
 description: "04850 - JAUSIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

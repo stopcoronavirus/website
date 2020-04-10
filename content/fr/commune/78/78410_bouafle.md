@@ -1,5 +1,5 @@
 ---
-title: "78410 - BOUAFLE | Entraide, Annonces, Initiatives"
+title: "78410 - BOUAFLE"
 description: "78410 - BOUAFLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

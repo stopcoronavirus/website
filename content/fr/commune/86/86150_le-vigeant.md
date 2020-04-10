@@ -1,5 +1,5 @@
 ---
-title: "86150 - LE VIGEANT | Entraide, Annonces, Initiatives"
+title: "86150 - LE VIGEANT"
 description: "86150 - LE VIGEANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

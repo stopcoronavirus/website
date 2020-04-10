@@ -1,5 +1,5 @@
 ---
-title: "97425 - LES AVIRONS | Entraide, Annonces, Initiatives"
+title: "97425 - LES AVIRONS"
 description: "97425 - LES AVIRONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

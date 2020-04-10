@@ -1,5 +1,5 @@
 ---
-title: "17500 - NEULLES | Entraide, Annonces, Initiatives"
+title: "17500 - NEULLES"
 description: "17500 - NEULLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

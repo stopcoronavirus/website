@@ -1,5 +1,5 @@
 ---
-title: "85420 - MAILLEZAIS | Entraide, Annonces, Initiatives"
+title: "85420 - MAILLEZAIS"
 description: "85420 - MAILLEZAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "84160 - LOURMARIN | Entraide, Annonces, Initiatives"
+title: "84160 - LOURMARIN"
 description: "84160 - LOURMARIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

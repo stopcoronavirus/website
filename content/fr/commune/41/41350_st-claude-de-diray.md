@@ -1,5 +1,5 @@
 ---
-title: "41350 - ST CLAUDE DE DIRAY | Entraide, Annonces, Initiatives"
+title: "41350 - ST CLAUDE DE DIRAY"
 description: "41350 - ST CLAUDE DE DIRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "38660 - ST VINCENT DE MERCUZE | Entraide, Annonces, Initiatives"
+title: "38660 - ST VINCENT DE MERCUZE"
 description: "38660 - ST VINCENT DE MERCUZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

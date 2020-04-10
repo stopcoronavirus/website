@@ -1,5 +1,5 @@
 ---
-title: "47420 - ALLONS | Entraide, Annonces, Initiatives"
+title: "47420 - ALLONS"
 description: "47420 - ALLONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

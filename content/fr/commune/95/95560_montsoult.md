@@ -1,5 +1,5 @@
 ---
-title: "95560 - MONTSOULT | Entraide, Annonces, Initiatives"
+title: "95560 - MONTSOULT"
 description: "95560 - MONTSOULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

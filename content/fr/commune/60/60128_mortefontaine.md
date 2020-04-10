@@ -1,5 +1,5 @@
 ---
-title: "60128 - MORTEFONTAINE | Entraide, Annonces, Initiatives"
+title: "60128 - MORTEFONTAINE"
 description: "60128 - MORTEFONTAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "33125 - ST MAGNE | Entraide, Annonces, Initiatives"
+title: "33125 - ST MAGNE"
 description: "33125 - ST MAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

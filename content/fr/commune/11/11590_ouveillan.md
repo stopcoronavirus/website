@@ -1,5 +1,5 @@
 ---
-title: "11590 - OUVEILLAN | Entraide, Annonces, Initiatives"
+title: "11590 - OUVEILLAN"
 description: "11590 - OUVEILLAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

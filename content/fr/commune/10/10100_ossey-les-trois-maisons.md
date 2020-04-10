@@ -1,5 +1,5 @@
 ---
-title: "10100 - OSSEY LES TROIS MAISONS | Entraide, Annonces, Initiatives"
+title: "10100 - OSSEY LES TROIS MAISONS"
 description: "10100 - OSSEY LES TROIS MAISONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

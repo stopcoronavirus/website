@@ -1,5 +1,5 @@
 ---
-title: "63780 - ST GEORGES DE MONS | Entraide, Annonces, Initiatives"
+title: "63780 - ST GEORGES DE MONS"
 description: "63780 - ST GEORGES DE MONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

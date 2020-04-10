@@ -1,5 +1,5 @@
 ---
-title: "59400 - SERANVILLERS FORENVILLE | Entraide, Annonces, Initiatives"
+title: "59400 - SERANVILLERS FORENVILLE"
 description: "59400 - SERANVILLERS FORENVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

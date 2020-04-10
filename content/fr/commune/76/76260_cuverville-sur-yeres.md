@@ -1,5 +1,5 @@
 ---
-title: "76260 - CUVERVILLE SUR YERES | Entraide, Annonces, Initiatives"
+title: "76260 - CUVERVILLE SUR YERES"
 description: "76260 - CUVERVILLE SUR YERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

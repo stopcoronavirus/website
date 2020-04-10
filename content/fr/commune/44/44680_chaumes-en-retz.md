@@ -1,5 +1,5 @@
 ---
-title: "44680 - CHAUMES EN RETZ | Entraide, Annonces, Initiatives"
+title: "44680 - CHAUMES EN RETZ"
 description: "44680 - CHAUMES EN RETZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

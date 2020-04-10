@@ -1,5 +1,5 @@
 ---
-title: "31450 - DONNEVILLE | Entraide, Annonces, Initiatives"
+title: "31450 - DONNEVILLE"
 description: "31450 - DONNEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

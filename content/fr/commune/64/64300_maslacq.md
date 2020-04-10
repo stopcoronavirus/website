@@ -1,5 +1,5 @@
 ---
-title: "64300 - MASLACQ | Entraide, Annonces, Initiatives"
+title: "64300 - MASLACQ"
 description: "64300 - MASLACQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

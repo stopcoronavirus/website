@@ -1,5 +1,5 @@
 ---
-title: "51190 - FLAVIGNY | Entraide, Annonces, Initiatives"
+title: "51190 - FLAVIGNY"
 description: "51190 - FLAVIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

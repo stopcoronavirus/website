@@ -1,5 +1,5 @@
 ---
-title: "27250 - RUGLES | Entraide, Annonces, Initiatives"
+title: "27250 - RUGLES"
 description: "27250 - RUGLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

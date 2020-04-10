@@ -1,5 +1,5 @@
 ---
-title: "15250 - TEISSIERES DE CORNET | Entraide, Annonces, Initiatives"
+title: "15250 - TEISSIERES DE CORNET"
 description: "15250 - TEISSIERES DE CORNET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

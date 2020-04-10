@@ -1,5 +1,5 @@
 ---
-title: "14480 - MOULINS EN BESSIN | Entraide, Annonces, Initiatives"
+title: "14480 - MOULINS EN BESSIN"
 description: "14480 - MOULINS EN BESSIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

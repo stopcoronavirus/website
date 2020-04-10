@@ -1,5 +1,5 @@
 ---
-title: "87220 - AUREIL | Entraide, Annonces, Initiatives"
+title: "87220 - AUREIL"
 description: "87220 - AUREIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

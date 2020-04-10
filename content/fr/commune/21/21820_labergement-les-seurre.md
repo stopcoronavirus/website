@@ -1,5 +1,5 @@
 ---
-title: "21820 - LABERGEMENT LES SEURRE | Entraide, Annonces, Initiatives"
+title: "21820 - LABERGEMENT LES SEURRE"
 description: "21820 - LABERGEMENT LES SEURRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

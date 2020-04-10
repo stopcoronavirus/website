@@ -1,5 +1,5 @@
 ---
-title: "73140 - ST MARTIN DE LA PORTE | Entraide, Annonces, Initiatives"
+title: "73140 - ST MARTIN DE LA PORTE"
 description: "73140 - ST MARTIN DE LA PORTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

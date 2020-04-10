@@ -1,5 +1,5 @@
 ---
-title: "78520 - ST MARTIN LA GARENNE | Entraide, Annonces, Initiatives"
+title: "78520 - ST MARTIN LA GARENNE"
 description: "78520 - ST MARTIN LA GARENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

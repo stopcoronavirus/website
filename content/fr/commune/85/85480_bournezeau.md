@@ -1,5 +1,5 @@
 ---
-title: "85480 - BOURNEZEAU | Entraide, Annonces, Initiatives"
+title: "85480 - BOURNEZEAU"
 description: "85480 - BOURNEZEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

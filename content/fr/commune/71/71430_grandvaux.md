@@ -1,5 +1,5 @@
 ---
-title: "71430 - GRANDVAUX | Entraide, Annonces, Initiatives"
+title: "71430 - GRANDVAUX"
 description: "71430 - GRANDVAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

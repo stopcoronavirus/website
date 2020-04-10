@@ -1,5 +1,5 @@
 ---
-title: "93150 - LE BLANC MESNIL | Entraide, Annonces, Initiatives"
+title: "93150 - LE BLANC MESNIL"
 description: "93150 - LE BLANC MESNIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

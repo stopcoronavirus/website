@@ -1,5 +1,5 @@
 ---
-title: "78640 - ST GERMAIN DE LA GRANGE | Entraide, Annonces, Initiatives"
+title: "78640 - ST GERMAIN DE LA GRANGE"
 description: "78640 - ST GERMAIN DE LA GRANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

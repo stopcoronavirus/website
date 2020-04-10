@@ -1,5 +1,5 @@
 ---
-title: "68890 - MEYENHEIM | Entraide, Annonces, Initiatives"
+title: "68890 - MEYENHEIM"
 description: "68890 - MEYENHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

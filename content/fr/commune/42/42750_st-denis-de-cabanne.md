@@ -1,5 +1,5 @@
 ---
-title: "42750 - ST DENIS DE CABANNE | Entraide, Annonces, Initiatives"
+title: "42750 - ST DENIS DE CABANNE"
 description: "42750 - ST DENIS DE CABANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

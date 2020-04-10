@@ -1,5 +1,5 @@
 ---
-title: "02340 - RENNEVAL | Entraide, Annonces, Initiatives"
+title: "02340 - RENNEVAL"
 description: "02340 - RENNEVAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

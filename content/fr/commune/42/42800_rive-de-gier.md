@@ -1,5 +1,5 @@
 ---
-title: "42800 - RIVE DE GIER | Entraide, Annonces, Initiatives"
+title: "42800 - RIVE DE GIER"
 description: "42800 - RIVE DE GIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

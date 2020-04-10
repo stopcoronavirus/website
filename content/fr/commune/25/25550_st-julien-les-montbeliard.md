@@ -1,5 +1,5 @@
 ---
-title: "25550 - ST JULIEN LES MONTBELIARD | Entraide, Annonces, Initiatives"
+title: "25550 - ST JULIEN LES MONTBELIARD"
 description: "25550 - ST JULIEN LES MONTBELIARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

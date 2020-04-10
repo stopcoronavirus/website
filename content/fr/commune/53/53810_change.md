@@ -1,5 +1,5 @@
 ---
-title: "53810 - CHANGE | Entraide, Annonces, Initiatives"
+title: "53810 - CHANGE"
 description: "53810 - CHANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

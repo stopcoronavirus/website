@@ -1,5 +1,5 @@
 ---
-title: "30360 - CRUVIERS LASCOURS | Entraide, Annonces, Initiatives"
+title: "30360 - CRUVIERS LASCOURS"
 description: "30360 - CRUVIERS LASCOURS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

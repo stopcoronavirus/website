@@ -1,5 +1,5 @@
 ---
-title: "60240 - LE MESNIL THERIBUS | Entraide, Annonces, Initiatives"
+title: "60240 - LE MESNIL THERIBUS"
 description: "60240 - LE MESNIL THERIBUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

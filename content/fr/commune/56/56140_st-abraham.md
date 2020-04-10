@@ -1,5 +1,5 @@
 ---
-title: "56140 - ST ABRAHAM | Entraide, Annonces, Initiatives"
+title: "56140 - ST ABRAHAM"
 description: "56140 - ST ABRAHAM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

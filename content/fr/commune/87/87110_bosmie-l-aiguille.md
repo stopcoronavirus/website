@@ -1,5 +1,5 @@
 ---
-title: "87110 - BOSMIE L AIGUILLE | Entraide, Annonces, Initiatives"
+title: "87110 - BOSMIE L AIGUILLE"
 description: "87110 - BOSMIE L AIGUILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

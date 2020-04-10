@@ -1,5 +1,5 @@
 ---
-title: "56490 - ST MALO DES TROIS FONTAINES | Entraide, Annonces, Initiatives"
+title: "56490 - ST MALO DES TROIS FONTAINES"
 description: "56490 - ST MALO DES TROIS FONTAINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

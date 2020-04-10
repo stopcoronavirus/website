@@ -1,5 +1,5 @@
 ---
-title: "65330 - RECURT | Entraide, Annonces, Initiatives"
+title: "65330 - RECURT"
 description: "65330 - RECURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

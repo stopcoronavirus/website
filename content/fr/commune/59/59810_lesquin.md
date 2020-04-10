@@ -1,5 +1,5 @@
 ---
-title: "59810 - LESQUIN | Entraide, Annonces, Initiatives"
+title: "59810 - LESQUIN"
 description: "59810 - LESQUIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

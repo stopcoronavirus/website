@@ -1,5 +1,5 @@
 ---
-title: "44660 - SOULVACHE | Entraide, Annonces, Initiatives"
+title: "44660 - SOULVACHE"
 description: "44660 - SOULVACHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

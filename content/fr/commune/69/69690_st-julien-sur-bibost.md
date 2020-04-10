@@ -1,5 +1,5 @@
 ---
-title: "69690 - ST JULIEN SUR BIBOST | Entraide, Annonces, Initiatives"
+title: "69690 - ST JULIEN SUR BIBOST"
 description: "69690 - ST JULIEN SUR BIBOST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

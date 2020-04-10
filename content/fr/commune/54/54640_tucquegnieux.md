@@ -1,5 +1,5 @@
 ---
-title: "54640 - TUCQUEGNIEUX | Entraide, Annonces, Initiatives"
+title: "54640 - TUCQUEGNIEUX"
 description: "54640 - TUCQUEGNIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

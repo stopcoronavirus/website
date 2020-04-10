@@ -1,5 +1,5 @@
 ---
-title: "01640 - ST JEAN LE VIEUX | Entraide, Annonces, Initiatives"
+title: "01640 - ST JEAN LE VIEUX"
 description: "01640 - ST JEAN LE VIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

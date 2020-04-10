@@ -1,5 +1,5 @@
 ---
-title: "29520 - ST GOAZEC | Entraide, Annonces, Initiatives"
+title: "29520 - ST GOAZEC"
 description: "29520 - ST GOAZEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

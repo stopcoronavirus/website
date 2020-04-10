@@ -1,5 +1,5 @@
 ---
-title: "03330 - COUTANSOUZE | Entraide, Annonces, Initiatives"
+title: "03330 - COUTANSOUZE"
 description: "03330 - COUTANSOUZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

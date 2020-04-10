@@ -1,5 +1,5 @@
 ---
-title: "43580 - ALLEYRAS | Entraide, Annonces, Initiatives"
+title: "43580 - ALLEYRAS"
 description: "43580 - ALLEYRAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

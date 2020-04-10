@@ -1,5 +1,5 @@
 ---
-title: "03360 - ST BONNET TRONCAIS | Entraide, Annonces, Initiatives"
+title: "03360 - ST BONNET TRONCAIS"
 description: "03360 - ST BONNET TRONCAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

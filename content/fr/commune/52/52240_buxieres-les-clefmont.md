@@ -1,5 +1,5 @@
 ---
-title: "52240 - BUXIERES LES CLEFMONT | Entraide, Annonces, Initiatives"
+title: "52240 - BUXIERES LES CLEFMONT"
 description: "52240 - BUXIERES LES CLEFMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

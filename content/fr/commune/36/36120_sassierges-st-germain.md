@@ -1,5 +1,5 @@
 ---
-title: "36120 - SASSIERGES ST GERMAIN | Entraide, Annonces, Initiatives"
+title: "36120 - SASSIERGES ST GERMAIN"
 description: "36120 - SASSIERGES ST GERMAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

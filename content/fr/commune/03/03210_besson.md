@@ -1,5 +1,5 @@
 ---
-title: "03210 - BESSON | Entraide, Annonces, Initiatives"
+title: "03210 - BESSON"
 description: "03210 - BESSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

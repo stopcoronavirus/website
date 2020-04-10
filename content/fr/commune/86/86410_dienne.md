@@ -1,5 +1,5 @@
 ---
-title: "86410 - DIENNE | Entraide, Annonces, Initiatives"
+title: "86410 - DIENNE"
 description: "86410 - DIENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "49600 - MONTREVAULT SUR EVRE | Entraide, Annonces, Initiatives"
+title: "49600 - MONTREVAULT SUR EVRE"
 description: "49600 - MONTREVAULT SUR EVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

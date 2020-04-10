@@ -1,5 +1,5 @@
 ---
-title: "08460 - LALOBBE | Entraide, Annonces, Initiatives"
+title: "08460 - LALOBBE"
 description: "08460 - LALOBBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "68320 - BISCHWIHR | Entraide, Annonces, Initiatives"
+title: "68320 - BISCHWIHR"
 description: "68320 - BISCHWIHR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "02190 - BERRY AU BAC | Entraide, Annonces, Initiatives"
+title: "02190 - BERRY AU BAC"
 description: "02190 - BERRY AU BAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

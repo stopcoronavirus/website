@@ -1,5 +1,5 @@
 ---
-title: "72430 - CHANTENAY VILLEDIEU | Entraide, Annonces, Initiatives"
+title: "72430 - CHANTENAY VILLEDIEU"
 description: "72430 - CHANTENAY VILLEDIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

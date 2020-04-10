@@ -1,5 +1,5 @@
 ---
-title: "29610 - PLOUIGNEAU | Entraide, Annonces, Initiatives"
+title: "29610 - PLOUIGNEAU"
 description: "29610 - PLOUIGNEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59189 - THIENNES | Entraide, Annonces, Initiatives"
+title: "59189 - THIENNES"
 description: "59189 - THIENNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

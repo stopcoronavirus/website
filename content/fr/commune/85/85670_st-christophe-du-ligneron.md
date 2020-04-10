@@ -1,5 +1,5 @@
 ---
-title: "85670 - ST CHRISTOPHE DU LIGNERON | Entraide, Annonces, Initiatives"
+title: "85670 - ST CHRISTOPHE DU LIGNERON"
 description: "85670 - ST CHRISTOPHE DU LIGNERON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

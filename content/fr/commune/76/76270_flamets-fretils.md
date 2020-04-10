@@ -1,5 +1,5 @@
 ---
-title: "76270 - FLAMETS FRETILS | Entraide, Annonces, Initiatives"
+title: "76270 - FLAMETS FRETILS"
 description: "76270 - FLAMETS FRETILS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

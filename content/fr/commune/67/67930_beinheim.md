@@ -1,5 +1,5 @@
 ---
-title: "67930 - BEINHEIM | Entraide, Annonces, Initiatives"
+title: "67930 - BEINHEIM"
 description: "67930 - BEINHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

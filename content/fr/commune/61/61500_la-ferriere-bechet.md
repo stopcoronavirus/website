@@ -1,5 +1,5 @@
 ---
-title: "61500 - LA FERRIERE BECHET | Entraide, Annonces, Initiatives"
+title: "61500 - LA FERRIERE BECHET"
 description: "61500 - LA FERRIERE BECHET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

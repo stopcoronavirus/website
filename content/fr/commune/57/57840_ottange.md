@@ -1,5 +1,5 @@
 ---
-title: "57840 - OTTANGE | Entraide, Annonces, Initiatives"
+title: "57840 - OTTANGE"
 description: "57840 - OTTANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

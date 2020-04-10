@@ -1,5 +1,5 @@
 ---
-title: "23190 - LA SERRE BUSSIERE VIEILLE | Entraide, Annonces, Initiatives"
+title: "23190 - LA SERRE BUSSIERE VIEILLE"
 description: "23190 - LA SERRE BUSSIERE VIEILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

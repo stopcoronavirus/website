@@ -1,5 +1,5 @@
 ---
-title: "05100 - VILLAR ST PANCRACE | Entraide, Annonces, Initiatives"
+title: "05100 - VILLAR ST PANCRACE"
 description: "05100 - VILLAR ST PANCRACE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

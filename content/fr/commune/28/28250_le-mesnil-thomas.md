@@ -1,5 +1,5 @@
 ---
-title: "28250 - LE MESNIL THOMAS | Entraide, Annonces, Initiatives"
+title: "28250 - LE MESNIL THOMAS"
 description: "28250 - LE MESNIL THOMAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

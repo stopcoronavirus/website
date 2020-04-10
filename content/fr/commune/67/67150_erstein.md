@@ -1,5 +1,5 @@
 ---
-title: "67150 - ERSTEIN | Entraide, Annonces, Initiatives"
+title: "67150 - ERSTEIN"
 description: "67150 - ERSTEIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

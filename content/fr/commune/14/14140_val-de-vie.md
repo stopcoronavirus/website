@@ -1,5 +1,5 @@
 ---
-title: "14140 - VAL DE VIE | Entraide, Annonces, Initiatives"
+title: "14140 - VAL DE VIE"
 description: "14140 - VAL DE VIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

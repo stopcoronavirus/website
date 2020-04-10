@@ -1,5 +1,5 @@
 ---
-title: "41130 - MEUSNES | Entraide, Annonces, Initiatives"
+title: "41130 - MEUSNES"
 description: "41130 - MEUSNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

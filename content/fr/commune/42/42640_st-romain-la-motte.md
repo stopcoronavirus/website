@@ -1,5 +1,5 @@
 ---
-title: "42640 - ST ROMAIN LA MOTTE | Entraide, Annonces, Initiatives"
+title: "42640 - ST ROMAIN LA MOTTE"
 description: "42640 - ST ROMAIN LA MOTTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

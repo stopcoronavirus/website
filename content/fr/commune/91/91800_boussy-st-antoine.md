@@ -1,5 +1,5 @@
 ---
-title: "91800 - BOUSSY ST ANTOINE | Entraide, Annonces, Initiatives"
+title: "91800 - BOUSSY ST ANTOINE"
 description: "91800 - BOUSSY ST ANTOINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

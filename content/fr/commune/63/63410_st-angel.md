@@ -1,5 +1,5 @@
 ---
-title: "63410 - ST ANGEL | Entraide, Annonces, Initiatives"
+title: "63410 - ST ANGEL"
 description: "63410 - ST ANGEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

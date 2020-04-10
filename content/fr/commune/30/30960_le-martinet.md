@@ -1,5 +1,5 @@
 ---
-title: "30960 - LE MARTINET | Entraide, Annonces, Initiatives"
+title: "30960 - LE MARTINET"
 description: "30960 - LE MARTINET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

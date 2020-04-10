@@ -1,5 +1,5 @@
 ---
-title: "76340 - GUERVILLE | Entraide, Annonces, Initiatives"
+title: "76340 - GUERVILLE"
 description: "76340 - GUERVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

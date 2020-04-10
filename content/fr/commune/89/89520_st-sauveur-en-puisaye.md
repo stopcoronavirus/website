@@ -1,5 +1,5 @@
 ---
-title: "89520 - ST SAUVEUR EN PUISAYE | Entraide, Annonces, Initiatives"
+title: "89520 - ST SAUVEUR EN PUISAYE"
 description: "89520 - ST SAUVEUR EN PUISAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

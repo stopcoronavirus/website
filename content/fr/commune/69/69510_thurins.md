@@ -1,5 +1,5 @@
 ---
-title: "69510 - THURINS | Entraide, Annonces, Initiatives"
+title: "69510 - THURINS"
 description: "69510 - THURINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

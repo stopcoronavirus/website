@@ -1,5 +1,5 @@
 ---
-title: "27110 - VILLETTES | Entraide, Annonces, Initiatives"
+title: "27110 - VILLETTES"
 description: "27110 - VILLETTES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

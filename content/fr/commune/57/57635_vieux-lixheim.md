@@ -1,5 +1,5 @@
 ---
-title: "57635 - VIEUX LIXHEIM | Entraide, Annonces, Initiatives"
+title: "57635 - VIEUX LIXHEIM"
 description: "57635 - VIEUX LIXHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

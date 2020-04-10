@@ -1,5 +1,5 @@
 ---
-title: "49740 - LA ROMAGNE | Entraide, Annonces, Initiatives"
+title: "49740 - LA ROMAGNE"
 description: "49740 - LA ROMAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

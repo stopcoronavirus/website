@@ -1,5 +1,5 @@
 ---
-title: "62880 - PONT A VENDIN | Entraide, Annonces, Initiatives"
+title: "62880 - PONT A VENDIN"
 description: "62880 - PONT A VENDIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

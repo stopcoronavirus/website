@@ -1,5 +1,5 @@
 ---
-title: "89800 - ST CYR LES COLONS | Entraide, Annonces, Initiatives"
+title: "89800 - ST CYR LES COLONS"
 description: "89800 - ST CYR LES COLONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

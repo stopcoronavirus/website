@@ -1,5 +1,5 @@
 ---
-title: "26400 - AOUSTE SUR SYE | Entraide, Annonces, Initiatives"
+title: "26400 - AOUSTE SUR SYE"
 description: "26400 - AOUSTE SUR SYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

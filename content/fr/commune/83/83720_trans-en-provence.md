@@ -1,5 +1,5 @@
 ---
-title: "83720 - TRANS EN PROVENCE | Entraide, Annonces, Initiatives"
+title: "83720 - TRANS EN PROVENCE"
 description: "83720 - TRANS EN PROVENCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12400 - CALMELS ET LE VIALA | Entraide, Annonces, Initiatives"
+title: "12400 - CALMELS ET LE VIALA"
 description: "12400 - CALMELS ET LE VIALA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

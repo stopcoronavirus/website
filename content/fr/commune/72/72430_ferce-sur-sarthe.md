@@ -1,5 +1,5 @@
 ---
-title: "72430 - FERCE SUR SARTHE | Entraide, Annonces, Initiatives"
+title: "72430 - FERCE SUR SARTHE"
 description: "72430 - FERCE SUR SARTHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

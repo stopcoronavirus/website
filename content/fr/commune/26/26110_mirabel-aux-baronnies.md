@@ -1,5 +1,5 @@
 ---
-title: "26110 - MIRABEL AUX BARONNIES | Entraide, Annonces, Initiatives"
+title: "26110 - MIRABEL AUX BARONNIES"
 description: "26110 - MIRABEL AUX BARONNIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

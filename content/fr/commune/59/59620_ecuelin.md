@@ -1,5 +1,5 @@
 ---
-title: "59620 - ECUELIN | Entraide, Annonces, Initiatives"
+title: "59620 - ECUELIN"
 description: "59620 - ECUELIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

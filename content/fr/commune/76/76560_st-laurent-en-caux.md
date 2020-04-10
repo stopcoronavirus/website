@@ -1,5 +1,5 @@
 ---
-title: "76560 - ST LAURENT EN CAUX | Entraide, Annonces, Initiatives"
+title: "76560 - ST LAURENT EN CAUX"
 description: "76560 - ST LAURENT EN CAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

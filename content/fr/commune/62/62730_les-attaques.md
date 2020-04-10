@@ -1,5 +1,5 @@
 ---
-title: "62730 - LES ATTAQUES | Entraide, Annonces, Initiatives"
+title: "62730 - LES ATTAQUES"
 description: "62730 - LES ATTAQUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

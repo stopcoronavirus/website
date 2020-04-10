@@ -1,5 +1,5 @@
 ---
-title: "03110 - ESPINASSE VOZELLE | Entraide, Annonces, Initiatives"
+title: "03110 - ESPINASSE VOZELLE"
 description: "03110 - ESPINASSE VOZELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "53400 - ST QUENTIN LES ANGES | Entraide, Annonces, Initiatives"
+title: "53400 - ST QUENTIN LES ANGES"
 description: "53400 - ST QUENTIN LES ANGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

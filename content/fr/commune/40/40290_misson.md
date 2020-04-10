@@ -1,5 +1,5 @@
 ---
-title: "40290 - MISSON | Entraide, Annonces, Initiatives"
+title: "40290 - MISSON"
 description: "40290 - MISSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39100 - PARCEY | Entraide, Annonces, Initiatives"
+title: "39100 - PARCEY"
 description: "39100 - PARCEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

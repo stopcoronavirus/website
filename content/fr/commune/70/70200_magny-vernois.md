@@ -1,5 +1,5 @@
 ---
-title: "70200 - MAGNY VERNOIS | Entraide, Annonces, Initiatives"
+title: "70200 - MAGNY VERNOIS"
 description: "70200 - MAGNY VERNOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

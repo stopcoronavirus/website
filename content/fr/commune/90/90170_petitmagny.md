@@ -1,5 +1,5 @@
 ---
-title: "90170 - PETITMAGNY | Entraide, Annonces, Initiatives"
+title: "90170 - PETITMAGNY"
 description: "90170 - PETITMAGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

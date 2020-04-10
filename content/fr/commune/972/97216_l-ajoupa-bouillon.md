@@ -1,5 +1,5 @@
 ---
-title: "97216 - L AJOUPA BOUILLON | Entraide, Annonces, Initiatives"
+title: "97216 - L AJOUPA BOUILLON"
 description: "97216 - L AJOUPA BOUILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

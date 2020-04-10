@@ -1,5 +1,5 @@
 ---
-title: "73800 - LES MOLLETTES | Entraide, Annonces, Initiatives"
+title: "73800 - LES MOLLETTES"
 description: "73800 - LES MOLLETTES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

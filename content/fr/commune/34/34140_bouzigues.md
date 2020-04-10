@@ -1,5 +1,5 @@
 ---
-title: "34140 - BOUZIGUES | Entraide, Annonces, Initiatives"
+title: "34140 - BOUZIGUES"
 description: "34140 - BOUZIGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

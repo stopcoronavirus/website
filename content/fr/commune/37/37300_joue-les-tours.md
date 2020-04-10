@@ -1,5 +1,5 @@
 ---
-title: "37300 - JOUE LES TOURS | Entraide, Annonces, Initiatives"
+title: "37300 - JOUE LES TOURS"
 description: "37300 - JOUE LES TOURS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

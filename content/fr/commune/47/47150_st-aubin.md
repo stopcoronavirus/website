@@ -1,5 +1,5 @@
 ---
-title: "47150 - ST AUBIN | Entraide, Annonces, Initiatives"
+title: "47150 - ST AUBIN"
 description: "47150 - ST AUBIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

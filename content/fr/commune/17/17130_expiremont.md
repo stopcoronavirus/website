@@ -1,5 +1,5 @@
 ---
-title: "17130 - EXPIREMONT | Entraide, Annonces, Initiatives"
+title: "17130 - EXPIREMONT"
 description: "17130 - EXPIREMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "25440 - LIESLE | Entraide, Annonces, Initiatives"
+title: "25440 - LIESLE"
 description: "25440 - LIESLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

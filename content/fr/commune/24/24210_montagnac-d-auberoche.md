@@ -1,5 +1,5 @@
 ---
-title: "24210 - MONTAGNAC D AUBEROCHE | Entraide, Annonces, Initiatives"
+title: "24210 - MONTAGNAC D AUBEROCHE"
 description: "24210 - MONTAGNAC D AUBEROCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

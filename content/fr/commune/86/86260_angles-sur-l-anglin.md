@@ -1,5 +1,5 @@
 ---
-title: "86260 - ANGLES SUR L ANGLIN | Entraide, Annonces, Initiatives"
+title: "86260 - ANGLES SUR L ANGLIN"
 description: "86260 - ANGLES SUR L ANGLIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

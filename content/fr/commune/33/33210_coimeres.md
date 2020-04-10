@@ -1,5 +1,5 @@
 ---
-title: "33210 - COIMERES | Entraide, Annonces, Initiatives"
+title: "33210 - COIMERES"
 description: "33210 - COIMERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

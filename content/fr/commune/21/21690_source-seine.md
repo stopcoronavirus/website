@@ -1,5 +1,5 @@
 ---
-title: "21690 - SOURCE SEINE | Entraide, Annonces, Initiatives"
+title: "21690 - SOURCE SEINE"
 description: "21690 - SOURCE SEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

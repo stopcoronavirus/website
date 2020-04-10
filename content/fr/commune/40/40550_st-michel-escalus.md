@@ -1,5 +1,5 @@
 ---
-title: "40550 - ST MICHEL ESCALUS | Entraide, Annonces, Initiatives"
+title: "40550 - ST MICHEL ESCALUS"
 description: "40550 - ST MICHEL ESCALUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "18350 - OUROUER LES BOURDELINS | Entraide, Annonces, Initiatives"
+title: "18350 - OUROUER LES BOURDELINS"
 description: "18350 - OUROUER LES BOURDELINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "93170 - BAGNOLET | Entraide, Annonces, Initiatives"
+title: "93170 - BAGNOLET"
 description: "93170 - BAGNOLET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

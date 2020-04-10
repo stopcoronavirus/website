@@ -1,5 +1,5 @@
 ---
-title: "04250 - VALAVOIRE | Entraide, Annonces, Initiatives"
+title: "04250 - VALAVOIRE"
 description: "04250 - VALAVOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

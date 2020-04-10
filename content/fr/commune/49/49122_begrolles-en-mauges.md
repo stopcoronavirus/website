@@ -1,5 +1,5 @@
 ---
-title: "49122 - BEGROLLES EN MAUGES | Entraide, Annonces, Initiatives"
+title: "49122 - BEGROLLES EN MAUGES"
 description: "49122 - BEGROLLES EN MAUGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

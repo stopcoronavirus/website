@@ -1,5 +1,5 @@
 ---
-title: "41100 - VILLETRUN | Entraide, Annonces, Initiatives"
+title: "41100 - VILLETRUN"
 description: "41100 - VILLETRUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

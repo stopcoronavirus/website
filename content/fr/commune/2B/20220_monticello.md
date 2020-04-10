@@ -1,5 +1,5 @@
 ---
-title: "20220 - MONTICELLO | Entraide, Annonces, Initiatives"
+title: "20220 - MONTICELLO"
 description: "20220 - MONTICELLO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "14310 - TRACY BOCAGE | Entraide, Annonces, Initiatives"
+title: "14310 - TRACY BOCAGE"
 description: "14310 - TRACY BOCAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

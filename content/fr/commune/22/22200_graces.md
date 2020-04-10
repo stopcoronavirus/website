@@ -1,5 +1,5 @@
 ---
-title: "22200 - GRACES | Entraide, Annonces, Initiatives"
+title: "22200 - GRACES"
 description: "22200 - GRACES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

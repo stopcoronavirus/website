@@ -1,5 +1,5 @@
 ---
-title: "79110 - CHEF BOUTONNE | Entraide, Annonces, Initiatives"
+title: "79110 - CHEF BOUTONNE"
 description: "79110 - CHEF BOUTONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

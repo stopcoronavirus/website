@@ -1,5 +1,5 @@
 ---
-title: "33190 - MORIZES | Entraide, Annonces, Initiatives"
+title: "33190 - MORIZES"
 description: "33190 - MORIZES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

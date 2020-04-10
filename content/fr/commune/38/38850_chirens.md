@@ -1,5 +1,5 @@
 ---
-title: "38850 - CHIRENS | Entraide, Annonces, Initiatives"
+title: "38850 - CHIRENS"
 description: "38850 - CHIRENS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

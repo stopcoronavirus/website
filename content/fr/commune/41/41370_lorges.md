@@ -1,5 +1,5 @@
 ---
-title: "41370 - LORGES | Entraide, Annonces, Initiatives"
+title: "41370 - LORGES"
 description: "41370 - LORGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

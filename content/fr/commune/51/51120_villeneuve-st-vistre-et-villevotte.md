@@ -1,5 +1,5 @@
 ---
-title: "51120 - VILLENEUVE ST VISTRE ET VILLEVOTTE | Entraide, Annonces, Initiatives"
+title: "51120 - VILLENEUVE ST VISTRE ET VILLEVOTTE"
 description: "51120 - VILLENEUVE ST VISTRE ET VILLEVOTTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "35500 - ST M HERVE | Entraide, Annonces, Initiatives"
+title: "35500 - ST M HERVE"
 description: "35500 - ST M HERVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

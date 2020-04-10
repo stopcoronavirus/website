@@ -1,5 +1,5 @@
 ---
-title: "11250 - PREIXAN | Entraide, Annonces, Initiatives"
+title: "11250 - PREIXAN"
 description: "11250 - PREIXAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

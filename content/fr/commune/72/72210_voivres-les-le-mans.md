@@ -1,5 +1,5 @@
 ---
-title: "72210 - VOIVRES LES LE MANS | Entraide, Annonces, Initiatives"
+title: "72210 - VOIVRES LES LE MANS"
 description: "72210 - VOIVRES LES LE MANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

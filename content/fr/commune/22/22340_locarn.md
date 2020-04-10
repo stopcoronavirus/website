@@ -1,5 +1,5 @@
 ---
-title: "22340 - LOCARN | Entraide, Annonces, Initiatives"
+title: "22340 - LOCARN"
 description: "22340 - LOCARN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

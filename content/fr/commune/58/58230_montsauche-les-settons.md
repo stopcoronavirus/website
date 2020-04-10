@@ -1,5 +1,5 @@
 ---
-title: "58230 - MONTSAUCHE LES SETTONS | Entraide, Annonces, Initiatives"
+title: "58230 - MONTSAUCHE LES SETTONS"
 description: "58230 - MONTSAUCHE LES SETTONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

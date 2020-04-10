@@ -1,5 +1,5 @@
 ---
-title: "51390 - ST EUPHRAISE ET CLAIRIZET | Entraide, Annonces, Initiatives"
+title: "51390 - ST EUPHRAISE ET CLAIRIZET"
 description: "51390 - ST EUPHRAISE ET CLAIRIZET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39150 - BIEF DES MAISONS | Entraide, Annonces, Initiatives"
+title: "39150 - BIEF DES MAISONS"
 description: "39150 - BIEF DES MAISONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

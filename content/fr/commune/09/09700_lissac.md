@@ -1,5 +1,5 @@
 ---
-title: "09700 - LISSAC | Entraide, Annonces, Initiatives"
+title: "09700 - LISSAC"
 description: "09700 - LISSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

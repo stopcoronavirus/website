@@ -1,5 +1,5 @@
 ---
-title: "68180 - HORBOURG WIHR | Entraide, Annonces, Initiatives"
+title: "68180 - HORBOURG WIHR"
 description: "68180 - HORBOURG WIHR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

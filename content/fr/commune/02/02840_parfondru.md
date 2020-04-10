@@ -1,5 +1,5 @@
 ---
-title: "02840 - PARFONDRU | Entraide, Annonces, Initiatives"
+title: "02840 - PARFONDRU"
 description: "02840 - PARFONDRU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "11200 - LUC SUR ORBIEU | Entraide, Annonces, Initiatives"
+title: "11200 - LUC SUR ORBIEU"
 description: "11200 - LUC SUR ORBIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

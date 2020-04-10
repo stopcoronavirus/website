@@ -1,5 +1,5 @@
 ---
-title: "63450 - CHANONAT | Entraide, Annonces, Initiatives"
+title: "63450 - CHANONAT"
 description: "63450 - CHANONAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

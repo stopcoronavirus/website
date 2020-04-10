@@ -1,5 +1,5 @@
 ---
-title: "13730 - ST VICTORET | Entraide, Annonces, Initiatives"
+title: "13730 - ST VICTORET"
 description: "13730 - ST VICTORET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

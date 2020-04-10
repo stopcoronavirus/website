@@ -1,5 +1,5 @@
 ---
-title: "35380 - TREFFENDEL | Entraide, Annonces, Initiatives"
+title: "35380 - TREFFENDEL"
 description: "35380 - TREFFENDEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

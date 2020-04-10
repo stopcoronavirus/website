@@ -1,5 +1,5 @@
 ---
-title: "61560 - ST GERMAIN DE MARTIGNY | Entraide, Annonces, Initiatives"
+title: "61560 - ST GERMAIN DE MARTIGNY"
 description: "61560 - ST GERMAIN DE MARTIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "49280 - ST LEGER SOUS CHOLET | Entraide, Annonces, Initiatives"
+title: "49280 - ST LEGER SOUS CHOLET"
 description: "49280 - ST LEGER SOUS CHOLET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

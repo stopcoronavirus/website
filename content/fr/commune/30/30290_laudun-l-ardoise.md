@@ -1,5 +1,5 @@
 ---
-title: "30290 - LAUDUN L ARDOISE | Entraide, Annonces, Initiatives"
+title: "30290 - LAUDUN L ARDOISE"
 description: "30290 - LAUDUN L ARDOISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

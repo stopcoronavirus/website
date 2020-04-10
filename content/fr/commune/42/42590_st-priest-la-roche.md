@@ -1,5 +1,5 @@
 ---
-title: "42590 - ST PRIEST LA ROCHE | Entraide, Annonces, Initiatives"
+title: "42590 - ST PRIEST LA ROCHE"
 description: "42590 - ST PRIEST LA ROCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

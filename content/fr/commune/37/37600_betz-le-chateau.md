@@ -1,5 +1,5 @@
 ---
-title: "37600 - BETZ LE CHATEAU | Entraide, Annonces, Initiatives"
+title: "37600 - BETZ LE CHATEAU"
 description: "37600 - BETZ LE CHATEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

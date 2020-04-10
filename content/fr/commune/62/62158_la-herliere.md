@@ -1,5 +1,5 @@
 ---
-title: "62158 - LA HERLIERE | Entraide, Annonces, Initiatives"
+title: "62158 - LA HERLIERE"
 description: "62158 - LA HERLIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

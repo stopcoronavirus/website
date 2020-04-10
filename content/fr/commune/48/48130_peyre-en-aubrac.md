@@ -1,5 +1,5 @@
 ---
-title: "48130 - PEYRE EN AUBRAC | Entraide, Annonces, Initiatives"
+title: "48130 - PEYRE EN AUBRAC"
 description: "48130 - PEYRE EN AUBRAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

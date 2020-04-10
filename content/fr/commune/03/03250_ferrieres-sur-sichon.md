@@ -1,5 +1,5 @@
 ---
-title: "03250 - FERRIERES SUR SICHON | Entraide, Annonces, Initiatives"
+title: "03250 - FERRIERES SUR SICHON"
 description: "03250 - FERRIERES SUR SICHON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

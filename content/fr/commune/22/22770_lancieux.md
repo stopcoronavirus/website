@@ -1,5 +1,5 @@
 ---
-title: "22770 - LANCIEUX | Entraide, Annonces, Initiatives"
+title: "22770 - LANCIEUX"
 description: "22770 - LANCIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

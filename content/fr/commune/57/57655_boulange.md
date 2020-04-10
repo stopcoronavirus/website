@@ -1,5 +1,5 @@
 ---
-title: "57655 - BOULANGE | Entraide, Annonces, Initiatives"
+title: "57655 - BOULANGE"
 description: "57655 - BOULANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

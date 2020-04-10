@@ -1,5 +1,5 @@
 ---
-title: "19160 - ST HILAIRE LUC | Entraide, Annonces, Initiatives"
+title: "19160 - ST HILAIRE LUC"
 description: "19160 - ST HILAIRE LUC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "28800 - MONTBOISSIER | Entraide, Annonces, Initiatives"
+title: "28800 - MONTBOISSIER"
 description: "28800 - MONTBOISSIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

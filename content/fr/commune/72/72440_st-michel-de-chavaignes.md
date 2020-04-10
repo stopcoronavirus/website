@@ -1,5 +1,5 @@
 ---
-title: "72440 - ST MICHEL DE CHAVAIGNES | Entraide, Annonces, Initiatives"
+title: "72440 - ST MICHEL DE CHAVAIGNES"
 description: "72440 - ST MICHEL DE CHAVAIGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

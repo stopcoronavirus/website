@@ -1,5 +1,5 @@
 ---
-title: "27920 - ST ETIENNE SOUS BAILLEUL | Entraide, Annonces, Initiatives"
+title: "27920 - ST ETIENNE SOUS BAILLEUL"
 description: "27920 - ST ETIENNE SOUS BAILLEUL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

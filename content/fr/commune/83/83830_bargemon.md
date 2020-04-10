@@ -1,5 +1,5 @@
 ---
-title: "83830 - BARGEMON | Entraide, Annonces, Initiatives"
+title: "83830 - BARGEMON"
 description: "83830 - BARGEMON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

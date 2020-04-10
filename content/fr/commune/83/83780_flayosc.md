@@ -1,5 +1,5 @@
 ---
-title: "83780 - FLAYOSC | Entraide, Annonces, Initiatives"
+title: "83780 - FLAYOSC"
 description: "83780 - FLAYOSC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

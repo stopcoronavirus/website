@@ -1,5 +1,5 @@
 ---
-title: "76740 - ANGLESQUEVILLE LA BRAS LONG | Entraide, Annonces, Initiatives"
+title: "76740 - ANGLESQUEVILLE LA BRAS LONG"
 description: "76740 - ANGLESQUEVILLE LA BRAS LONG | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

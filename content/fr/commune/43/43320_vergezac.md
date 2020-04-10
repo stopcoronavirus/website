@@ -1,5 +1,5 @@
 ---
-title: "43320 - VERGEZAC | Entraide, Annonces, Initiatives"
+title: "43320 - VERGEZAC"
 description: "43320 - VERGEZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

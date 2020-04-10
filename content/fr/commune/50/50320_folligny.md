@@ -1,5 +1,5 @@
 ---
-title: "50320 - FOLLIGNY | Entraide, Annonces, Initiatives"
+title: "50320 - FOLLIGNY"
 description: "50320 - FOLLIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

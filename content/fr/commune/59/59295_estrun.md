@@ -1,5 +1,5 @@
 ---
-title: "59295 - ESTRUN | Entraide, Annonces, Initiatives"
+title: "59295 - ESTRUN"
 description: "59295 - ESTRUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "68230 - NIEDERMORSCHWIHR | Entraide, Annonces, Initiatives"
+title: "68230 - NIEDERMORSCHWIHR"
 description: "68230 - NIEDERMORSCHWIHR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

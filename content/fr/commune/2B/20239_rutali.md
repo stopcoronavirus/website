@@ -1,5 +1,5 @@
 ---
-title: "20239 - RUTALI | Entraide, Annonces, Initiatives"
+title: "20239 - RUTALI"
 description: "20239 - RUTALI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

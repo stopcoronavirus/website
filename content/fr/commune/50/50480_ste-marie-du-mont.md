@@ -1,5 +1,5 @@
 ---
-title: "50480 - STE MARIE DU MONT | Entraide, Annonces, Initiatives"
+title: "50480 - STE MARIE DU MONT"
 description: "50480 - STE MARIE DU MONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

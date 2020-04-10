@@ -1,5 +1,5 @@
 ---
-title: "78770 - VILLIERS LE MAHIEU | Entraide, Annonces, Initiatives"
+title: "78770 - VILLIERS LE MAHIEU"
 description: "78770 - VILLIERS LE MAHIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

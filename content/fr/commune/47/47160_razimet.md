@@ -1,5 +1,5 @@
 ---
-title: "47160 - RAZIMET | Entraide, Annonces, Initiatives"
+title: "47160 - RAZIMET"
 description: "47160 - RAZIMET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

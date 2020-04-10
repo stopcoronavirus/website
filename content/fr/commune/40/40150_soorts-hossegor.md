@@ -1,5 +1,5 @@
 ---
-title: "40150 - SOORTS HOSSEGOR | Entraide, Annonces, Initiatives"
+title: "40150 - SOORTS HOSSEGOR"
 description: "40150 - SOORTS HOSSEGOR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

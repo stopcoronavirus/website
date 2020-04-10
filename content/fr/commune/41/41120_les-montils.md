@@ -1,5 +1,5 @@
 ---
-title: "41120 - LES MONTILS | Entraide, Annonces, Initiatives"
+title: "41120 - LES MONTILS"
 description: "41120 - LES MONTILS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

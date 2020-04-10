@@ -1,5 +1,5 @@
 ---
-title: "79250 - NUEIL LES AUBIERS | Entraide, Annonces, Initiatives"
+title: "79250 - NUEIL LES AUBIERS"
 description: "79250 - NUEIL LES AUBIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59630 - BROUCKERQUE | Entraide, Annonces, Initiatives"
+title: "59630 - BROUCKERQUE"
 description: "59630 - BROUCKERQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

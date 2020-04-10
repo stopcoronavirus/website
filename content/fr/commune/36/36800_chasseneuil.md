@@ -1,5 +1,5 @@
 ---
-title: "36800 - CHASSENEUIL | Entraide, Annonces, Initiatives"
+title: "36800 - CHASSENEUIL"
 description: "36800 - CHASSENEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

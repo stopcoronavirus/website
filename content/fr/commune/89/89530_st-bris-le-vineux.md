@@ -1,5 +1,5 @@
 ---
-title: "89530 - ST BRIS LE VINEUX | Entraide, Annonces, Initiatives"
+title: "89530 - ST BRIS LE VINEUX"
 description: "89530 - ST BRIS LE VINEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

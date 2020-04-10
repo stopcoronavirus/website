@@ -1,5 +1,5 @@
 ---
-title: "71580 - BEAUREPAIRE EN BRESSE | Entraide, Annonces, Initiatives"
+title: "71580 - BEAUREPAIRE EN BRESSE"
 description: "71580 - BEAUREPAIRE EN BRESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

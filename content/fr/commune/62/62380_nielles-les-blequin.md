@@ -1,5 +1,5 @@
 ---
-title: "62380 - NIELLES LES BLEQUIN | Entraide, Annonces, Initiatives"
+title: "62380 - NIELLES LES BLEQUIN"
 description: "62380 - NIELLES LES BLEQUIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

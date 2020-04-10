@@ -1,5 +1,5 @@
 ---
-title: "80430 - LE MAZIS | Entraide, Annonces, Initiatives"
+title: "80430 - LE MAZIS"
 description: "80430 - LE MAZIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

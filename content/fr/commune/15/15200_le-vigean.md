@@ -1,5 +1,5 @@
 ---
-title: "15200 - LE VIGEAN | Entraide, Annonces, Initiatives"
+title: "15200 - LE VIGEAN"
 description: "15200 - LE VIGEAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

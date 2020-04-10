@@ -1,5 +1,5 @@
 ---
-title: "82210 - CASTELMAYRAN | Entraide, Annonces, Initiatives"
+title: "82210 - CASTELMAYRAN"
 description: "82210 - CASTELMAYRAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

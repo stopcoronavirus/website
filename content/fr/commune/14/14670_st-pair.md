@@ -1,5 +1,5 @@
 ---
-title: "14670 - ST PAIR | Entraide, Annonces, Initiatives"
+title: "14670 - ST PAIR"
 description: "14670 - ST PAIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

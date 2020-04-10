@@ -1,5 +1,5 @@
 ---
-title: "12330 - VALADY | Entraide, Annonces, Initiatives"
+title: "12330 - VALADY"
 description: "12330 - VALADY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

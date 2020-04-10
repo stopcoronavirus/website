@@ -1,5 +1,5 @@
 ---
-title: "46130 - ST MICHEL LOUBEJOU | Entraide, Annonces, Initiatives"
+title: "46130 - ST MICHEL LOUBEJOU"
 description: "46130 - ST MICHEL LOUBEJOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

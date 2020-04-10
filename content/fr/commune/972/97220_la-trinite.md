@@ -1,5 +1,5 @@
 ---
-title: "97220 - LA TRINITE | Entraide, Annonces, Initiatives"
+title: "97220 - LA TRINITE"
 description: "97220 - LA TRINITE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

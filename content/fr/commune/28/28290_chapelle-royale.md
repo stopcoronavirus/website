@@ -1,5 +1,5 @@
 ---
-title: "28290 - CHAPELLE ROYALE | Entraide, Annonces, Initiatives"
+title: "28290 - CHAPELLE ROYALE"
 description: "28290 - CHAPELLE ROYALE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

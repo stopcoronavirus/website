@@ -1,5 +1,5 @@
 ---
-title: "91570 - BIEVRES | Entraide, Annonces, Initiatives"
+title: "91570 - BIEVRES"
 description: "91570 - BIEVRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

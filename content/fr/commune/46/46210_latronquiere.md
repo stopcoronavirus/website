@@ -1,5 +1,5 @@
 ---
-title: "46210 - LATRONQUIERE | Entraide, Annonces, Initiatives"
+title: "46210 - LATRONQUIERE"
 description: "46210 - LATRONQUIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

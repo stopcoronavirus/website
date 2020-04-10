@@ -1,5 +1,5 @@
 ---
-title: "14100 - COURTONNE LA MEURDRAC | Entraide, Annonces, Initiatives"
+title: "14100 - COURTONNE LA MEURDRAC"
 description: "14100 - COURTONNE LA MEURDRAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "03340 - ST GERAND DE VAUX | Entraide, Annonces, Initiatives"
+title: "03340 - ST GERAND DE VAUX"
 description: "03340 - ST GERAND DE VAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

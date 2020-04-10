@@ -1,5 +1,5 @@
 ---
-title: "41700 - FRESNES | Entraide, Annonces, Initiatives"
+title: "41700 - FRESNES"
 description: "41700 - FRESNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

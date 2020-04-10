@@ -1,5 +1,5 @@
 ---
-title: "34290 - SERVIAN | Entraide, Annonces, Initiatives"
+title: "34290 - SERVIAN"
 description: "34290 - SERVIAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

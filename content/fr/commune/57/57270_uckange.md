@@ -1,5 +1,5 @@
 ---
-title: "57270 - UCKANGE | Entraide, Annonces, Initiatives"
+title: "57270 - UCKANGE"
 description: "57270 - UCKANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

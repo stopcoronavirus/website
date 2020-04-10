@@ -1,5 +1,5 @@
 ---
-title: "28120 - BLANDAINVILLE | Entraide, Annonces, Initiatives"
+title: "28120 - BLANDAINVILLE"
 description: "28120 - BLANDAINVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

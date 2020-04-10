@@ -1,5 +1,5 @@
 ---
-title: "34250 - PALAVAS LES FLOTS | Entraide, Annonces, Initiatives"
+title: "34250 - PALAVAS LES FLOTS"
 description: "34250 - PALAVAS LES FLOTS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

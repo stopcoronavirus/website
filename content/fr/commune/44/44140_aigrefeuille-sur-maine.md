@@ -1,5 +1,5 @@
 ---
-title: "44140 - AIGREFEUILLE SUR MAINE | Entraide, Annonces, Initiatives"
+title: "44140 - AIGREFEUILLE SUR MAINE"
 description: "44140 - AIGREFEUILLE SUR MAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

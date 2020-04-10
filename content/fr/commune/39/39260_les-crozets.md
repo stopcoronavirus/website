@@ -1,5 +1,5 @@
 ---
-title: "39260 - LES CROZETS | Entraide, Annonces, Initiatives"
+title: "39260 - LES CROZETS"
 description: "39260 - LES CROZETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

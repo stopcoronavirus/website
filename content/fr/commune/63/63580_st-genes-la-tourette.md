@@ -1,5 +1,5 @@
 ---
-title: "63580 - ST GENES LA TOURETTE | Entraide, Annonces, Initiatives"
+title: "63580 - ST GENES LA TOURETTE"
 description: "63580 - ST GENES LA TOURETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "85450 - CHAMPAGNE LES MARAIS | Entraide, Annonces, Initiatives"
+title: "85450 - CHAMPAGNE LES MARAIS"
 description: "85450 - CHAMPAGNE LES MARAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

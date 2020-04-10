@@ -1,5 +1,5 @@
 ---
-title: "02690 - ESSIGNY LE GRAND | Entraide, Annonces, Initiatives"
+title: "02690 - ESSIGNY LE GRAND"
 description: "02690 - ESSIGNY LE GRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

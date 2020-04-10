@@ -1,5 +1,5 @@
 ---
-title: "17380 - LA DEVISE | Entraide, Annonces, Initiatives"
+title: "17380 - LA DEVISE"
 description: "17380 - LA DEVISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

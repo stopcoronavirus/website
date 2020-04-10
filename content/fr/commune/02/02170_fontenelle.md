@@ -1,5 +1,5 @@
 ---
-title: "02170 - FONTENELLE | Entraide, Annonces, Initiatives"
+title: "02170 - FONTENELLE"
 description: "02170 - FONTENELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

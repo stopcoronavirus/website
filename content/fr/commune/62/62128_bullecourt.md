@@ -1,5 +1,5 @@
 ---
-title: "62128 - BULLECOURT | Entraide, Annonces, Initiatives"
+title: "62128 - BULLECOURT"
 description: "62128 - BULLECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

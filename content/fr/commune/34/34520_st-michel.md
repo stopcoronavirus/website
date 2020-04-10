@@ -1,5 +1,5 @@
 ---
-title: "34520 - ST MICHEL | Entraide, Annonces, Initiatives"
+title: "34520 - ST MICHEL"
 description: "34520 - ST MICHEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

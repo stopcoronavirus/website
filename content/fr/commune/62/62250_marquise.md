@@ -1,5 +1,5 @@
 ---
-title: "62250 - MARQUISE | Entraide, Annonces, Initiatives"
+title: "62250 - MARQUISE"
 description: "62250 - MARQUISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

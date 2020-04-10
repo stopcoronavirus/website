@@ -1,5 +1,5 @@
 ---
-title: "59152 - TRESSIN | Entraide, Annonces, Initiatives"
+title: "59152 - TRESSIN"
 description: "59152 - TRESSIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

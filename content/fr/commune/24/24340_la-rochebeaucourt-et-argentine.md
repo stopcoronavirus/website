@@ -1,5 +1,5 @@
 ---
-title: "24340 - LA ROCHEBEAUCOURT ET ARGENTINE | Entraide, Annonces, Initiatives"
+title: "24340 - LA ROCHEBEAUCOURT ET ARGENTINE"
 description: "24340 - LA ROCHEBEAUCOURT ET ARGENTINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

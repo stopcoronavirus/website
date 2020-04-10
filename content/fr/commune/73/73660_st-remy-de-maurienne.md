@@ -1,5 +1,5 @@
 ---
-title: "73660 - ST REMY DE MAURIENNE | Entraide, Annonces, Initiatives"
+title: "73660 - ST REMY DE MAURIENNE"
 description: "73660 - ST REMY DE MAURIENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

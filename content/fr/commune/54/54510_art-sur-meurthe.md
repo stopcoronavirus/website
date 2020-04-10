@@ -1,5 +1,5 @@
 ---
-title: "54510 - ART SUR MEURTHE | Entraide, Annonces, Initiatives"
+title: "54510 - ART SUR MEURTHE"
 description: "54510 - ART SUR MEURTHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

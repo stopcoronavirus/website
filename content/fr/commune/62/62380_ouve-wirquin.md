@@ -1,5 +1,5 @@
 ---
-title: "62380 - OUVE WIRQUIN | Entraide, Annonces, Initiatives"
+title: "62380 - OUVE WIRQUIN"
 description: "62380 - OUVE WIRQUIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

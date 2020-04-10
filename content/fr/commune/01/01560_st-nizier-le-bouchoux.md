@@ -1,5 +1,5 @@
 ---
-title: "01560 - ST NIZIER LE BOUCHOUX | Entraide, Annonces, Initiatives"
+title: "01560 - ST NIZIER LE BOUCHOUX"
 description: "01560 - ST NIZIER LE BOUCHOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

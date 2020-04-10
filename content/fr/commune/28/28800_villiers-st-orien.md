@@ -1,5 +1,5 @@
 ---
-title: "28800 - VILLIERS ST ORIEN | Entraide, Annonces, Initiatives"
+title: "28800 - VILLIERS ST ORIEN"
 description: "28800 - VILLIERS ST ORIEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

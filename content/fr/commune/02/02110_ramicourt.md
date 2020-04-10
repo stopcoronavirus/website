@@ -1,5 +1,5 @@
 ---
-title: "02110 - RAMICOURT | Entraide, Annonces, Initiatives"
+title: "02110 - RAMICOURT"
 description: "02110 - RAMICOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

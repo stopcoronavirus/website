@@ -1,5 +1,5 @@
 ---
-title: "28200 - JALLANS | Entraide, Annonces, Initiatives"
+title: "28200 - JALLANS"
 description: "28200 - JALLANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

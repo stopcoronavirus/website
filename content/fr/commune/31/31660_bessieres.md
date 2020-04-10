@@ -1,5 +1,5 @@
 ---
-title: "31660 - BESSIERES | Entraide, Annonces, Initiatives"
+title: "31660 - BESSIERES"
 description: "31660 - BESSIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

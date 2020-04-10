@@ -1,5 +1,5 @@
 ---
-title: "76560 - BENESVILLE | Entraide, Annonces, Initiatives"
+title: "76560 - BENESVILLE"
 description: "76560 - BENESVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

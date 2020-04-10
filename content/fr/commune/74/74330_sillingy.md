@@ -1,5 +1,5 @@
 ---
-title: "74330 - SILLINGY | Entraide, Annonces, Initiatives"
+title: "74330 - SILLINGY"
 description: "74330 - SILLINGY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

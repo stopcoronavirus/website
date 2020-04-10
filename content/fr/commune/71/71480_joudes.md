@@ -1,5 +1,5 @@
 ---
-title: "71480 - JOUDES | Entraide, Annonces, Initiatives"
+title: "71480 - JOUDES"
 description: "71480 - JOUDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

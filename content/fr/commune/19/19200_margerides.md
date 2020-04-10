@@ -1,5 +1,5 @@
 ---
-title: "19200 - MARGERIDES | Entraide, Annonces, Initiatives"
+title: "19200 - MARGERIDES"
 description: "19200 - MARGERIDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "07700 - BOURG ST ANDEOL | Entraide, Annonces, Initiatives"
+title: "07700 - BOURG ST ANDEOL"
 description: "07700 - BOURG ST ANDEOL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

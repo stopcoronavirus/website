@@ -1,5 +1,5 @@
 ---
-title: "62159 - VAULX VRAUCOURT | Entraide, Annonces, Initiatives"
+title: "62159 - VAULX VRAUCOURT"
 description: "62159 - VAULX VRAUCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

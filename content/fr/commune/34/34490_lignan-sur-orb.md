@@ -1,5 +1,5 @@
 ---
-title: "34490 - LIGNAN SUR ORB | Entraide, Annonces, Initiatives"
+title: "34490 - LIGNAN SUR ORB"
 description: "34490 - LIGNAN SUR ORB | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

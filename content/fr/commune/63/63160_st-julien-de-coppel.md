@@ -1,5 +1,5 @@
 ---
-title: "63160 - ST JULIEN DE COPPEL | Entraide, Annonces, Initiatives"
+title: "63160 - ST JULIEN DE COPPEL"
 description: "63160 - ST JULIEN DE COPPEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

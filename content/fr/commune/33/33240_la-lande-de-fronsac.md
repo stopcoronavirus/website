@@ -1,5 +1,5 @@
 ---
-title: "33240 - LA LANDE DE FRONSAC | Entraide, Annonces, Initiatives"
+title: "33240 - LA LANDE DE FRONSAC"
 description: "33240 - LA LANDE DE FRONSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

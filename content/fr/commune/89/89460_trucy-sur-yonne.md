@@ -1,5 +1,5 @@
 ---
-title: "89460 - TRUCY SUR YONNE | Entraide, Annonces, Initiatives"
+title: "89460 - TRUCY SUR YONNE"
 description: "89460 - TRUCY SUR YONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

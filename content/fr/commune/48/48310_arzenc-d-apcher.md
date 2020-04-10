@@ -1,5 +1,5 @@
 ---
-title: "48310 - ARZENC D APCHER | Entraide, Annonces, Initiatives"
+title: "48310 - ARZENC D APCHER"
 description: "48310 - ARZENC D APCHER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

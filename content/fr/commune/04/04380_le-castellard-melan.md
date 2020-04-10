@@ -1,5 +1,5 @@
 ---
-title: "04380 - LE CASTELLARD MELAN | Entraide, Annonces, Initiatives"
+title: "04380 - LE CASTELLARD MELAN"
 description: "04380 - LE CASTELLARD MELAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

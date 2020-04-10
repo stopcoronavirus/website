@@ -1,5 +1,5 @@
 ---
-title: "35111 - LA FRESNAIS | Entraide, Annonces, Initiatives"
+title: "35111 - LA FRESNAIS"
 description: "35111 - LA FRESNAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

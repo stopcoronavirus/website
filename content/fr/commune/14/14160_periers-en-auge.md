@@ -1,5 +1,5 @@
 ---
-title: "14160 - PERIERS EN AUGE | Entraide, Annonces, Initiatives"
+title: "14160 - PERIERS EN AUGE"
 description: "14160 - PERIERS EN AUGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

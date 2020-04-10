@@ -1,5 +1,5 @@
 ---
-title: "09310 - AULOS SINSAT | Entraide, Annonces, Initiatives"
+title: "09310 - AULOS SINSAT"
 description: "09310 - AULOS SINSAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

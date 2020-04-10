@@ -1,5 +1,5 @@
 ---
-title: "78121 - CRESPIERES | Entraide, Annonces, Initiatives"
+title: "78121 - CRESPIERES"
 description: "78121 - CRESPIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

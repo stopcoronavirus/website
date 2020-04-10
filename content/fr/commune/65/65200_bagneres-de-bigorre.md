@@ -1,5 +1,5 @@
 ---
-title: "65200 - BAGNERES DE BIGORRE | Entraide, Annonces, Initiatives"
+title: "65200 - BAGNERES DE BIGORRE"
 description: "65200 - BAGNERES DE BIGORRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

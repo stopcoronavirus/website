@@ -1,5 +1,5 @@
 ---
-title: "54530 - PAGNY SUR MOSELLE | Entraide, Annonces, Initiatives"
+title: "54530 - PAGNY SUR MOSELLE"
 description: "54530 - PAGNY SUR MOSELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

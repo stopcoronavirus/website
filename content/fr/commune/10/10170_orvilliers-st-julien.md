@@ -1,5 +1,5 @@
 ---
-title: "10170 - ORVILLIERS ST JULIEN | Entraide, Annonces, Initiatives"
+title: "10170 - ORVILLIERS ST JULIEN"
 description: "10170 - ORVILLIERS ST JULIEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

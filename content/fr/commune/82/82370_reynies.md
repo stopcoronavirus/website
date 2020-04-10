@@ -1,5 +1,5 @@
 ---
-title: "82370 - REYNIES | Entraide, Annonces, Initiatives"
+title: "82370 - REYNIES"
 description: "82370 - REYNIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

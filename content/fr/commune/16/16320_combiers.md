@@ -1,5 +1,5 @@
 ---
-title: "16320 - COMBIERS | Entraide, Annonces, Initiatives"
+title: "16320 - COMBIERS"
 description: "16320 - COMBIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

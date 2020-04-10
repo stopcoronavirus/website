@@ -1,5 +1,5 @@
 ---
-title: "23190 - ST DOMET | Entraide, Annonces, Initiatives"
+title: "23190 - ST DOMET"
 description: "23190 - ST DOMET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

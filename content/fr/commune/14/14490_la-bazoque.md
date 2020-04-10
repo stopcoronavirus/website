@@ -1,5 +1,5 @@
 ---
-title: "14490 - LA BAZOQUE | Entraide, Annonces, Initiatives"
+title: "14490 - LA BAZOQUE"
 description: "14490 - LA BAZOQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

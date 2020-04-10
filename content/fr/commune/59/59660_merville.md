@@ -1,5 +1,5 @@
 ---
-title: "59660 - MERVILLE | Entraide, Annonces, Initiatives"
+title: "59660 - MERVILLE"
 description: "59660 - MERVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

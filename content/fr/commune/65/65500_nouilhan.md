@@ -1,5 +1,5 @@
 ---
-title: "65500 - NOUILHAN | Entraide, Annonces, Initiatives"
+title: "65500 - NOUILHAN"
 description: "65500 - NOUILHAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39130 - PONT DE POITTE | Entraide, Annonces, Initiatives"
+title: "39130 - PONT DE POITTE"
 description: "39130 - PONT DE POITTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

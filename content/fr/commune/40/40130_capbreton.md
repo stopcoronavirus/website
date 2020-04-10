@@ -1,5 +1,5 @@
 ---
-title: "40130 - CAPBRETON | Entraide, Annonces, Initiatives"
+title: "40130 - CAPBRETON"
 description: "40130 - CAPBRETON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

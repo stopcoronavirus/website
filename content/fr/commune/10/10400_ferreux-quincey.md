@@ -1,5 +1,5 @@
 ---
-title: "10400 - FERREUX QUINCEY | Entraide, Annonces, Initiatives"
+title: "10400 - FERREUX QUINCEY"
 description: "10400 - FERREUX QUINCEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

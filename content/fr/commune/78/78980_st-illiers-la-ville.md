@@ -1,5 +1,5 @@
 ---
-title: "78980 - ST ILLIERS LA VILLE | Entraide, Annonces, Initiatives"
+title: "78980 - ST ILLIERS LA VILLE"
 description: "78980 - ST ILLIERS LA VILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

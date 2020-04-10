@@ -1,5 +1,5 @@
 ---
-title: "31510 - ST PE D ARDET | Entraide, Annonces, Initiatives"
+title: "31510 - ST PE D ARDET"
 description: "31510 - ST PE D ARDET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

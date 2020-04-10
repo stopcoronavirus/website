@@ -1,5 +1,5 @@
 ---
-title: "17770 - LE SEURE | Entraide, Annonces, Initiatives"
+title: "17770 - LE SEURE"
 description: "17770 - LE SEURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

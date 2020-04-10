@@ -1,5 +1,5 @@
 ---
-title: "47340 - LAROQUE TIMBAUT | Entraide, Annonces, Initiatives"
+title: "47340 - LAROQUE TIMBAUT"
 description: "47340 - LAROQUE TIMBAUT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

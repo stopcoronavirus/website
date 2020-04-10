@@ -1,5 +1,5 @@
 ---
-title: "78955 - CARRIERES SOUS POISSY | Entraide, Annonces, Initiatives"
+title: "78955 - CARRIERES SOUS POISSY"
 description: "78955 - CARRIERES SOUS POISSY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

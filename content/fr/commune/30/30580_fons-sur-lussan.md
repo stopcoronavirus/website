@@ -1,5 +1,5 @@
 ---
-title: "30580 - FONS SUR LUSSAN | Entraide, Annonces, Initiatives"
+title: "30580 - FONS SUR LUSSAN"
 description: "30580 - FONS SUR LUSSAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

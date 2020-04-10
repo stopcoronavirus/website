@@ -1,5 +1,5 @@
 ---
-title: "14390 - VARAVILLE | Entraide, Annonces, Initiatives"
+title: "14390 - VARAVILLE"
 description: "14390 - VARAVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

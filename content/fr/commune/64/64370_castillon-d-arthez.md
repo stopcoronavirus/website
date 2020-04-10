@@ -1,5 +1,5 @@
 ---
-title: "64370 - CASTILLON D ARTHEZ | Entraide, Annonces, Initiatives"
+title: "64370 - CASTILLON D ARTHEZ"
 description: "64370 - CASTILLON D ARTHEZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

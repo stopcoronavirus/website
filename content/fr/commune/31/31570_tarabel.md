@@ -1,5 +1,5 @@
 ---
-title: "31570 - TARABEL | Entraide, Annonces, Initiatives"
+title: "31570 - TARABEL"
 description: "31570 - TARABEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

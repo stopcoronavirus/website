@@ -1,5 +1,5 @@
 ---
-title: "13002 - MARSEILLE 02 | Entraide, Annonces, Initiatives"
+title: "13002 - MARSEILLE 02"
 description: "13002 - MARSEILLE 02 | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

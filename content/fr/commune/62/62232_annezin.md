@@ -1,5 +1,5 @@
 ---
-title: "62232 - ANNEZIN | Entraide, Annonces, Initiatives"
+title: "62232 - ANNEZIN"
 description: "62232 - ANNEZIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "50270 - SORTOSVILLE EN BEAUMONT | Entraide, Annonces, Initiatives"
+title: "50270 - SORTOSVILLE EN BEAUMONT"
 description: "50270 - SORTOSVILLE EN BEAUMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

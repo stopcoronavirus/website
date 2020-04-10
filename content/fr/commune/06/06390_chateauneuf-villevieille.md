@@ -1,5 +1,5 @@
 ---
-title: "06390 - CHATEAUNEUF VILLEVIEILLE | Entraide, Annonces, Initiatives"
+title: "06390 - CHATEAUNEUF VILLEVIEILLE"
 description: "06390 - CHATEAUNEUF VILLEVIEILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "52210 - DANCEVOIR | Entraide, Annonces, Initiatives"
+title: "52210 - DANCEVOIR"
 description: "52210 - DANCEVOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

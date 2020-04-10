@@ -1,5 +1,5 @@
 ---
-title: "60660 - CIRES LES MELLO | Entraide, Annonces, Initiatives"
+title: "60660 - CIRES LES MELLO"
 description: "60660 - CIRES LES MELLO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

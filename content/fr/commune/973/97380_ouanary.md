@@ -1,5 +1,5 @@
 ---
-title: "97380 - OUANARY | Entraide, Annonces, Initiatives"
+title: "97380 - OUANARY"
 description: "97380 - OUANARY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

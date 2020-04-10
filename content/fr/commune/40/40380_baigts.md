@@ -1,5 +1,5 @@
 ---
-title: "40380 - BAIGTS | Entraide, Annonces, Initiatives"
+title: "40380 - BAIGTS"
 description: "40380 - BAIGTS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

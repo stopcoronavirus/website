@@ -1,5 +1,5 @@
 ---
-title: "81220 - GUITALENS L ALBAREDE | Entraide, Annonces, Initiatives"
+title: "81220 - GUITALENS L ALBAREDE"
 description: "81220 - GUITALENS L ALBAREDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

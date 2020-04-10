@@ -1,5 +1,5 @@
 ---
-title: "40190 - PUJO LE PLAN | Entraide, Annonces, Initiatives"
+title: "40190 - PUJO LE PLAN"
 description: "40190 - PUJO LE PLAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

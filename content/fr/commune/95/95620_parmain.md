@@ -1,5 +1,5 @@
 ---
-title: "95620 - PARMAIN | Entraide, Annonces, Initiatives"
+title: "95620 - PARMAIN"
 description: "95620 - PARMAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

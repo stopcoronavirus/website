@@ -1,5 +1,5 @@
 ---
-title: "42190 - ST PIERRE LA NOAILLE | Entraide, Annonces, Initiatives"
+title: "42190 - ST PIERRE LA NOAILLE"
 description: "42190 - ST PIERRE LA NOAILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

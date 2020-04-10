@@ -1,5 +1,5 @@
 ---
-title: "26620 - LUS LA CROIX HAUTE | Entraide, Annonces, Initiatives"
+title: "26620 - LUS LA CROIX HAUTE"
 description: "26620 - LUS LA CROIX HAUTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

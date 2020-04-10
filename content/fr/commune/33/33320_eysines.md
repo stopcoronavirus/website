@@ -1,5 +1,5 @@
 ---
-title: "33320 - EYSINES | Entraide, Annonces, Initiatives"
+title: "33320 - EYSINES"
 description: "33320 - EYSINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

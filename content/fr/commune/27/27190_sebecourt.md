@@ -1,5 +1,5 @@
 ---
-title: "27190 - SEBECOURT | Entraide, Annonces, Initiatives"
+title: "27190 - SEBECOURT"
 description: "27190 - SEBECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

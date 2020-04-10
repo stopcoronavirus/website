@@ -1,5 +1,5 @@
 ---
-title: "64370 - ST MEDARD | Entraide, Annonces, Initiatives"
+title: "64370 - ST MEDARD"
 description: "64370 - ST MEDARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

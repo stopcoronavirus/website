@@ -1,5 +1,5 @@
 ---
-title: "22300 - CAOUENNEC LANVEZEAC | Entraide, Annonces, Initiatives"
+title: "22300 - CAOUENNEC LANVEZEAC"
 description: "22300 - CAOUENNEC LANVEZEAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

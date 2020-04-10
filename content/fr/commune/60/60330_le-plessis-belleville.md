@@ -1,5 +1,5 @@
 ---
-title: "60330 - LE PLESSIS BELLEVILLE | Entraide, Annonces, Initiatives"
+title: "60330 - LE PLESSIS BELLEVILLE"
 description: "60330 - LE PLESSIS BELLEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

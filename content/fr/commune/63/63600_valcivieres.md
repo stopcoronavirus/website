@@ -1,5 +1,5 @@
 ---
-title: "63600 - VALCIVIERES | Entraide, Annonces, Initiatives"
+title: "63600 - VALCIVIERES"
 description: "63600 - VALCIVIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

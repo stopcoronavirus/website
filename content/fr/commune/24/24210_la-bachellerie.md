@@ -1,5 +1,5 @@
 ---
-title: "24210 - LA BACHELLERIE | Entraide, Annonces, Initiatives"
+title: "24210 - LA BACHELLERIE"
 description: "24210 - LA BACHELLERIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

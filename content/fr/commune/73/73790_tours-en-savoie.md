@@ -1,5 +1,5 @@
 ---
-title: "73790 - TOURS EN SAVOIE | Entraide, Annonces, Initiatives"
+title: "73790 - TOURS EN SAVOIE"
 description: "73790 - TOURS EN SAVOIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

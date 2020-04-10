@@ -1,5 +1,5 @@
 ---
-title: "58150 - ST LAURENT L ABBAYE | Entraide, Annonces, Initiatives"
+title: "58150 - ST LAURENT L ABBAYE"
 description: "58150 - ST LAURENT L ABBAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

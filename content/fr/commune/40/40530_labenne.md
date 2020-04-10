@@ -1,5 +1,5 @@
 ---
-title: "40530 - LABENNE | Entraide, Annonces, Initiatives"
+title: "40530 - LABENNE"
 description: "40530 - LABENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

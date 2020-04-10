@@ -1,5 +1,5 @@
 ---
-title: "91850 - BOURAY SUR JUINE | Entraide, Annonces, Initiatives"
+title: "91850 - BOURAY SUR JUINE"
 description: "91850 - BOURAY SUR JUINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

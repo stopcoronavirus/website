@@ -1,5 +1,5 @@
 ---
-title: "51600 - SOUAIN PERTHES LES HURLUS | Entraide, Annonces, Initiatives"
+title: "51600 - SOUAIN PERTHES LES HURLUS"
 description: "51600 - SOUAIN PERTHES LES HURLUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

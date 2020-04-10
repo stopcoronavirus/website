@@ -1,5 +1,5 @@
 ---
-title: "10700 - POUAN LES VALLEES | Entraide, Annonces, Initiatives"
+title: "10700 - POUAN LES VALLEES"
 description: "10700 - POUAN LES VALLEES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

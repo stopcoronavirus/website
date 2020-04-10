@@ -1,5 +1,5 @@
 ---
-title: "17330 - COURANT | Entraide, Annonces, Initiatives"
+title: "17330 - COURANT"
 description: "17330 - COURANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

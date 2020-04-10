@@ -1,5 +1,5 @@
 ---
-title: "89270 - LUCY SUR CURE | Entraide, Annonces, Initiatives"
+title: "89270 - LUCY SUR CURE"
 description: "89270 - LUCY SUR CURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

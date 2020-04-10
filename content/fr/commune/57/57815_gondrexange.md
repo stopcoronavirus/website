@@ -1,5 +1,5 @@
 ---
-title: "57815 - GONDREXANGE | Entraide, Annonces, Initiatives"
+title: "57815 - GONDREXANGE"
 description: "57815 - GONDREXANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

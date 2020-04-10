@@ -1,5 +1,5 @@
 ---
-title: "39110 - MONTMARLON | Entraide, Annonces, Initiatives"
+title: "39110 - MONTMARLON"
 description: "39110 - MONTMARLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

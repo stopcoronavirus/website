@@ -1,5 +1,5 @@
 ---
-title: "64400 - POEY D OLORON | Entraide, Annonces, Initiatives"
+title: "64400 - POEY D OLORON"
 description: "64400 - POEY D OLORON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

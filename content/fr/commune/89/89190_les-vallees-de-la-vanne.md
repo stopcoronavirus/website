@@ -1,5 +1,5 @@
 ---
-title: "89190 - LES VALLEES DE LA VANNE | Entraide, Annonces, Initiatives"
+title: "89190 - LES VALLEES DE LA VANNE"
 description: "89190 - LES VALLEES DE LA VANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

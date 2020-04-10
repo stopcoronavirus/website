@@ -1,5 +1,5 @@
 ---
-title: "27600 - LE VAL D HAZEY | Entraide, Annonces, Initiatives"
+title: "27600 - LE VAL D HAZEY"
 description: "27600 - LE VAL D HAZEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

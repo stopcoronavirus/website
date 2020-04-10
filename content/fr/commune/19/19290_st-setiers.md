@@ -1,5 +1,5 @@
 ---
-title: "19290 - ST SETIERS | Entraide, Annonces, Initiatives"
+title: "19290 - ST SETIERS"
 description: "19290 - ST SETIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

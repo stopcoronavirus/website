@@ -1,5 +1,5 @@
 ---
-title: "07260 - ROSIERES | Entraide, Annonces, Initiatives"
+title: "07260 - ROSIERES"
 description: "07260 - ROSIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

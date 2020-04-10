@@ -1,5 +1,5 @@
 ---
-title: "70700 - VAUX LE MONCELOT | Entraide, Annonces, Initiatives"
+title: "70700 - VAUX LE MONCELOT"
 description: "70700 - VAUX LE MONCELOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59231 - GOUZEAUCOURT | Entraide, Annonces, Initiatives"
+title: "59231 - GOUZEAUCOURT"
 description: "59231 - GOUZEAUCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

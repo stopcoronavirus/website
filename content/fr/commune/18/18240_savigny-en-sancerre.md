@@ -1,5 +1,5 @@
 ---
-title: "18240 - SAVIGNY EN SANCERRE | Entraide, Annonces, Initiatives"
+title: "18240 - SAVIGNY EN SANCERRE"
 description: "18240 - SAVIGNY EN SANCERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

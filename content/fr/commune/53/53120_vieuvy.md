@@ -1,5 +1,5 @@
 ---
-title: "53120 - VIEUVY | Entraide, Annonces, Initiatives"
+title: "53120 - VIEUVY"
 description: "53120 - VIEUVY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

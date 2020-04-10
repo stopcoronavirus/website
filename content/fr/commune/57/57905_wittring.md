@@ -1,5 +1,5 @@
 ---
-title: "57905 - WITTRING | Entraide, Annonces, Initiatives"
+title: "57905 - WITTRING"
 description: "57905 - WITTRING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

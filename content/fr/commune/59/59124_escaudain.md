@@ -1,5 +1,5 @@
 ---
-title: "59124 - ESCAUDAIN | Entraide, Annonces, Initiatives"
+title: "59124 - ESCAUDAIN"
 description: "59124 - ESCAUDAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

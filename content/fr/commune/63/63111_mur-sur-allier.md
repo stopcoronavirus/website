@@ -1,5 +1,5 @@
 ---
-title: "63111 - MUR SUR ALLIER | Entraide, Annonces, Initiatives"
+title: "63111 - MUR SUR ALLIER"
 description: "63111 - MUR SUR ALLIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

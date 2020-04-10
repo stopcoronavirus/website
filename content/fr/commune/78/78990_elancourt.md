@@ -1,5 +1,5 @@
 ---
-title: "78990 - ELANCOURT | Entraide, Annonces, Initiatives"
+title: "78990 - ELANCOURT"
 description: "78990 - ELANCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

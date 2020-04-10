@@ -1,5 +1,5 @@
 ---
-title: "73440 - LES BELLEVILLE | Entraide, Annonces, Initiatives"
+title: "73440 - LES BELLEVILLE"
 description: "73440 - LES BELLEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

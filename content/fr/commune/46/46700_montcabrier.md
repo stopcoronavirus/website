@@ -1,5 +1,5 @@
 ---
-title: "46700 - MONTCABRIER | Entraide, Annonces, Initiatives"
+title: "46700 - MONTCABRIER"
 description: "46700 - MONTCABRIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

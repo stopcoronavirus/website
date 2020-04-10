@@ -1,5 +1,5 @@
 ---
-title: "52120 - BRAUX LE CHATEL | Entraide, Annonces, Initiatives"
+title: "52120 - BRAUX LE CHATEL"
 description: "52120 - BRAUX LE CHATEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

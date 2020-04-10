@@ -1,5 +1,5 @@
 ---
-title: "76810 - LUNERAY | Entraide, Annonces, Initiatives"
+title: "76810 - LUNERAY"
 description: "76810 - LUNERAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

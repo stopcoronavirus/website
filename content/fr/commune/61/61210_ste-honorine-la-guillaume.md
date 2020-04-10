@@ -1,5 +1,5 @@
 ---
-title: "61210 - STE HONORINE LA GUILLAUME | Entraide, Annonces, Initiatives"
+title: "61210 - STE HONORINE LA GUILLAUME"
 description: "61210 - STE HONORINE LA GUILLAUME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

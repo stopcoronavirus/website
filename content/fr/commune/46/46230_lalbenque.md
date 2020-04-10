@@ -1,5 +1,5 @@
 ---
-title: "46230 - LALBENQUE | Entraide, Annonces, Initiatives"
+title: "46230 - LALBENQUE"
 description: "46230 - LALBENQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

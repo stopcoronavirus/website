@@ -1,5 +1,5 @@
 ---
-title: "71220 - ST BONNET DE JOUX | Entraide, Annonces, Initiatives"
+title: "71220 - ST BONNET DE JOUX"
 description: "71220 - ST BONNET DE JOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

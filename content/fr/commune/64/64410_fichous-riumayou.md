@@ -1,5 +1,5 @@
 ---
-title: "64410 - FICHOUS RIUMAYOU | Entraide, Annonces, Initiatives"
+title: "64410 - FICHOUS RIUMAYOU"
 description: "64410 - FICHOUS RIUMAYOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "86370 - VIVONNE | Entraide, Annonces, Initiatives"
+title: "86370 - VIVONNE"
 description: "86370 - VIVONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

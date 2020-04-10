@@ -1,5 +1,5 @@
 ---
-title: "16560 - AUSSAC VADALLE | Entraide, Annonces, Initiatives"
+title: "16560 - AUSSAC VADALLE"
 description: "16560 - AUSSAC VADALLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

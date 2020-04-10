@@ -1,5 +1,5 @@
 ---
-title: "55190 - MELIGNY LE PETIT | Entraide, Annonces, Initiatives"
+title: "55190 - MELIGNY LE PETIT"
 description: "55190 - MELIGNY LE PETIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

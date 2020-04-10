@@ -1,5 +1,5 @@
 ---
-title: "51390 - JANVRY | Entraide, Annonces, Initiatives"
+title: "51390 - JANVRY"
 description: "51390 - JANVRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

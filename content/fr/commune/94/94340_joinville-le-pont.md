@@ -1,5 +1,5 @@
 ---
-title: "94340 - JOINVILLE LE PONT | Entraide, Annonces, Initiatives"
+title: "94340 - JOINVILLE LE PONT"
 description: "94340 - JOINVILLE LE PONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

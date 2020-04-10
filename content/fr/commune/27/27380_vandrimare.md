@@ -1,5 +1,5 @@
 ---
-title: "27380 - VANDRIMARE | Entraide, Annonces, Initiatives"
+title: "27380 - VANDRIMARE"
 description: "27380 - VANDRIMARE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

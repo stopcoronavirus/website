@@ -1,5 +1,5 @@
 ---
-title: "62127 - TERNAS | Entraide, Annonces, Initiatives"
+title: "62127 - TERNAS"
 description: "62127 - TERNAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

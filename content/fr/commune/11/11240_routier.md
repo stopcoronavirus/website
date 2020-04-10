@@ -1,5 +1,5 @@
 ---
-title: "11240 - ROUTIER | Entraide, Annonces, Initiatives"
+title: "11240 - ROUTIER"
 description: "11240 - ROUTIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

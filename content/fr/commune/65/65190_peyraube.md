@@ -1,5 +1,5 @@
 ---
-title: "65190 - PEYRAUBE | Entraide, Annonces, Initiatives"
+title: "65190 - PEYRAUBE"
 description: "65190 - PEYRAUBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

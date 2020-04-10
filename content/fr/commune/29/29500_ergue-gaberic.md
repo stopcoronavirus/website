@@ -1,5 +1,5 @@
 ---
-title: "29500 - ERGUE GABERIC | Entraide, Annonces, Initiatives"
+title: "29500 - ERGUE GABERIC"
 description: "29500 - ERGUE GABERIC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

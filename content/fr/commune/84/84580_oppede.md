@@ -1,5 +1,5 @@
 ---
-title: "84580 - OPPEDE | Entraide, Annonces, Initiatives"
+title: "84580 - OPPEDE"
 description: "84580 - OPPEDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

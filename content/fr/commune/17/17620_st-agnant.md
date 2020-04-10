@@ -1,5 +1,5 @@
 ---
-title: "17620 - ST AGNANT | Entraide, Annonces, Initiatives"
+title: "17620 - ST AGNANT"
 description: "17620 - ST AGNANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

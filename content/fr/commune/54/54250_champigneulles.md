@@ -1,5 +1,5 @@
 ---
-title: "54250 - CHAMPIGNEULLES | Entraide, Annonces, Initiatives"
+title: "54250 - CHAMPIGNEULLES"
 description: "54250 - CHAMPIGNEULLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

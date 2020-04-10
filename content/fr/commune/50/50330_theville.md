@@ -1,5 +1,5 @@
 ---
-title: "50330 - THEVILLE | Entraide, Annonces, Initiatives"
+title: "50330 - THEVILLE"
 description: "50330 - THEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12300 - DECAZEVILLE | Entraide, Annonces, Initiatives"
+title: "12300 - DECAZEVILLE"
 description: "12300 - DECAZEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

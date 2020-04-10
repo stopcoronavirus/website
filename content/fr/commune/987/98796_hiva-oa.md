@@ -1,5 +1,5 @@
 ---
-title: "98796 - HIVA OA | Entraide, Annonces, Initiatives"
+title: "98796 - HIVA OA"
 description: "98796 - HIVA OA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

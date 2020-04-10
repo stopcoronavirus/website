@@ -1,5 +1,5 @@
 ---
-title: "77270 - VILLEPARISIS | Entraide, Annonces, Initiatives"
+title: "77270 - VILLEPARISIS"
 description: "77270 - VILLEPARISIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

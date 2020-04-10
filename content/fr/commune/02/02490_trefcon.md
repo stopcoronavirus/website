@@ -1,5 +1,5 @@
 ---
-title: "02490 - TREFCON | Entraide, Annonces, Initiatives"
+title: "02490 - TREFCON"
 description: "02490 - TREFCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

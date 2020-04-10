@@ -1,5 +1,5 @@
 ---
-title: "26400 - VAUNAVEYS LA ROCHETTE | Entraide, Annonces, Initiatives"
+title: "26400 - VAUNAVEYS LA ROCHETTE"
 description: "26400 - VAUNAVEYS LA ROCHETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

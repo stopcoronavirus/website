@@ -1,5 +1,5 @@
 ---
-title: "37530 - SOUVIGNY DE TOURAINE | Entraide, Annonces, Initiatives"
+title: "37530 - SOUVIGNY DE TOURAINE"
 description: "37530 - SOUVIGNY DE TOURAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "95350 - ST BRICE SOUS FORET | Entraide, Annonces, Initiatives"
+title: "95350 - ST BRICE SOUS FORET"
 description: "95350 - ST BRICE SOUS FORET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "31230 - MONTESQUIEU GUITTAUT | Entraide, Annonces, Initiatives"
+title: "31230 - MONTESQUIEU GUITTAUT"
 description: "31230 - MONTESQUIEU GUITTAUT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

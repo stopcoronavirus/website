@@ -1,5 +1,5 @@
 ---
-title: "95820 - BRUYERES SUR OISE | Entraide, Annonces, Initiatives"
+title: "95820 - BRUYERES SUR OISE"
 description: "95820 - BRUYERES SUR OISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

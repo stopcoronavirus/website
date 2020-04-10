@@ -1,5 +1,5 @@
 ---
-title: "27600 - ST AUBIN SUR GAILLON | Entraide, Annonces, Initiatives"
+title: "27600 - ST AUBIN SUR GAILLON"
 description: "27600 - ST AUBIN SUR GAILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

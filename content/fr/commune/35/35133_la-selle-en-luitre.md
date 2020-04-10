@@ -1,5 +1,5 @@
 ---
-title: "35133 - LA SELLE EN LUITRE | Entraide, Annonces, Initiatives"
+title: "35133 - LA SELLE EN LUITRE"
 description: "35133 - LA SELLE EN LUITRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "68380 - MUHLBACH SUR MUNSTER | Entraide, Annonces, Initiatives"
+title: "68380 - MUHLBACH SUR MUNSTER"
 description: "68380 - MUHLBACH SUR MUNSTER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

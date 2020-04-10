@@ -1,5 +1,5 @@
 ---
-title: "44450 - ST JULIEN DE CONCELLES | Entraide, Annonces, Initiatives"
+title: "44450 - ST JULIEN DE CONCELLES"
 description: "44450 - ST JULIEN DE CONCELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

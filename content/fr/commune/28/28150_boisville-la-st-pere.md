@@ -1,5 +1,5 @@
 ---
-title: "28150 - BOISVILLE LA ST PERE | Entraide, Annonces, Initiatives"
+title: "28150 - BOISVILLE LA ST PERE"
 description: "28150 - BOISVILLE LA ST PERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

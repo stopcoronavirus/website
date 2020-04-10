@@ -1,5 +1,5 @@
 ---
-title: "57670 - BENESTROFF | Entraide, Annonces, Initiatives"
+title: "57670 - BENESTROFF"
 description: "57670 - BENESTROFF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

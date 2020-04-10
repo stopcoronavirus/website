@@ -1,5 +1,5 @@
 ---
-title: "07470 - LE LAC D ISSARLES | Entraide, Annonces, Initiatives"
+title: "07470 - LE LAC D ISSARLES"
 description: "07470 - LE LAC D ISSARLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

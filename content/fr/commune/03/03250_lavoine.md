@@ -1,5 +1,5 @@
 ---
-title: "03250 - LAVOINE | Entraide, Annonces, Initiatives"
+title: "03250 - LAVOINE"
 description: "03250 - LAVOINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "05150 - VALDOULE | Entraide, Annonces, Initiatives"
+title: "05150 - VALDOULE"
 description: "05150 - VALDOULE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

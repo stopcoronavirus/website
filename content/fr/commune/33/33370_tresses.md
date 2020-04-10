@@ -1,5 +1,5 @@
 ---
-title: "33370 - TRESSES | Entraide, Annonces, Initiatives"
+title: "33370 - TRESSES"
 description: "33370 - TRESSES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

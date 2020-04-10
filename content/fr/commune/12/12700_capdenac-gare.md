@@ -1,5 +1,5 @@
 ---
-title: "12700 - CAPDENAC GARE | Entraide, Annonces, Initiatives"
+title: "12700 - CAPDENAC GARE"
 description: "12700 - CAPDENAC GARE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

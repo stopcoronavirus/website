@@ -1,5 +1,5 @@
 ---
-title: "68130 - ALTKIRCH | Entraide, Annonces, Initiatives"
+title: "68130 - ALTKIRCH"
 description: "68130 - ALTKIRCH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

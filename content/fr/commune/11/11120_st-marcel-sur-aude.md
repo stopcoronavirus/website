@@ -1,5 +1,5 @@
 ---
-title: "11120 - ST MARCEL SUR AUDE | Entraide, Annonces, Initiatives"
+title: "11120 - ST MARCEL SUR AUDE"
 description: "11120 - ST MARCEL SUR AUDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

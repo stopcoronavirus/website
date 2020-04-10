@@ -1,5 +1,5 @@
 ---
-title: "25370 - LONGEVILLES MONT D OR | Entraide, Annonces, Initiatives"
+title: "25370 - LONGEVILLES MONT D OR"
 description: "25370 - LONGEVILLES MONT D OR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "28310 - LEVESVILLE LA CHENARD | Entraide, Annonces, Initiatives"
+title: "28310 - LEVESVILLE LA CHENARD"
 description: "28310 - LEVESVILLE LA CHENARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

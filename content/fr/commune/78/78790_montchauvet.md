@@ -1,5 +1,5 @@
 ---
-title: "78790 - MONTCHAUVET | Entraide, Annonces, Initiatives"
+title: "78790 - MONTCHAUVET"
 description: "78790 - MONTCHAUVET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

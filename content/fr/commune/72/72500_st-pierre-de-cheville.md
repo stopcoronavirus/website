@@ -1,5 +1,5 @@
 ---
-title: "72500 - ST PIERRE DE CHEVILLE | Entraide, Annonces, Initiatives"
+title: "72500 - ST PIERRE DE CHEVILLE"
 description: "72500 - ST PIERRE DE CHEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "68850 - STAFFELFELDEN | Entraide, Annonces, Initiatives"
+title: "68850 - STAFFELFELDEN"
 description: "68850 - STAFFELFELDEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

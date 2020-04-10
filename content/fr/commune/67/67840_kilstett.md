@@ -1,5 +1,5 @@
 ---
-title: "67840 - KILSTETT | Entraide, Annonces, Initiatives"
+title: "67840 - KILSTETT"
 description: "67840 - KILSTETT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

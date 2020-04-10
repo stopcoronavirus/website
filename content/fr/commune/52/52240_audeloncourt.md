@@ -1,5 +1,5 @@
 ---
-title: "52240 - AUDELONCOURT | Entraide, Annonces, Initiatives"
+title: "52240 - AUDELONCOURT"
 description: "52240 - AUDELONCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

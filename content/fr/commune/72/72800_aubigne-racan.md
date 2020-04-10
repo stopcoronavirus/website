@@ -1,5 +1,5 @@
 ---
-title: "72800 - AUBIGNE RACAN | Entraide, Annonces, Initiatives"
+title: "72800 - AUBIGNE RACAN"
 description: "72800 - AUBIGNE RACAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

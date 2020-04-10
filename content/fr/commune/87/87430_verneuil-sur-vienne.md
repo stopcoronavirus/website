@@ -1,5 +1,5 @@
 ---
-title: "87430 - VERNEUIL SUR VIENNE | Entraide, Annonces, Initiatives"
+title: "87430 - VERNEUIL SUR VIENNE"
 description: "87430 - VERNEUIL SUR VIENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

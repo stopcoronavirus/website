@@ -1,5 +1,5 @@
 ---
-title: "36290 - AZAY LE FERRON | Entraide, Annonces, Initiatives"
+title: "36290 - AZAY LE FERRON"
 description: "36290 - AZAY LE FERRON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

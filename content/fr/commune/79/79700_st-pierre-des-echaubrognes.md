@@ -1,5 +1,5 @@
 ---
-title: "79700 - ST PIERRE DES ECHAUBROGNES | Entraide, Annonces, Initiatives"
+title: "79700 - ST PIERRE DES ECHAUBROGNES"
 description: "79700 - ST PIERRE DES ECHAUBROGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

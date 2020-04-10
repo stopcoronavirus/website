@@ -1,5 +1,5 @@
 ---
-title: "57940 - METZERVISSE | Entraide, Annonces, Initiatives"
+title: "57940 - METZERVISSE"
 description: "57940 - METZERVISSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

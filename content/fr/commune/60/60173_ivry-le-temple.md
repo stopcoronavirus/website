@@ -1,5 +1,5 @@
 ---
-title: "60173 - IVRY LE TEMPLE | Entraide, Annonces, Initiatives"
+title: "60173 - IVRY LE TEMPLE"
 description: "60173 - IVRY LE TEMPLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "72250 - BRETTE LES PINS | Entraide, Annonces, Initiatives"
+title: "72250 - BRETTE LES PINS"
 description: "72250 - BRETTE LES PINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

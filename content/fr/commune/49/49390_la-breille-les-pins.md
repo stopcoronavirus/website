@@ -1,5 +1,5 @@
 ---
-title: "49390 - LA BREILLE LES PINS | Entraide, Annonces, Initiatives"
+title: "49390 - LA BREILLE LES PINS"
 description: "49390 - LA BREILLE LES PINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

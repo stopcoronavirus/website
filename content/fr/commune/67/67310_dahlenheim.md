@@ -1,5 +1,5 @@
 ---
-title: "67310 - DAHLENHEIM | Entraide, Annonces, Initiatives"
+title: "67310 - DAHLENHEIM"
 description: "67310 - DAHLENHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

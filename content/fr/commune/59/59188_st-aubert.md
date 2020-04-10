@@ -1,5 +1,5 @@
 ---
-title: "59188 - ST AUBERT | Entraide, Annonces, Initiatives"
+title: "59188 - ST AUBERT"
 description: "59188 - ST AUBERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

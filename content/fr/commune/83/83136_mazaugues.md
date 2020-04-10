@@ -1,5 +1,5 @@
 ---
-title: "83136 - MAZAUGUES | Entraide, Annonces, Initiatives"
+title: "83136 - MAZAUGUES"
 description: "83136 - MAZAUGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

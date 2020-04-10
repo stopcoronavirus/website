@@ -1,5 +1,5 @@
 ---
-title: "12290 - LE VIBAL | Entraide, Annonces, Initiatives"
+title: "12290 - LE VIBAL"
 description: "12290 - LE VIBAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "10120 - ST POUANGE | Entraide, Annonces, Initiatives"
+title: "10120 - ST POUANGE"
 description: "10120 - ST POUANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "91580 - VILLENEUVE SUR AUVERS | Entraide, Annonces, Initiatives"
+title: "91580 - VILLENEUVE SUR AUVERS"
 description: "91580 - VILLENEUVE SUR AUVERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

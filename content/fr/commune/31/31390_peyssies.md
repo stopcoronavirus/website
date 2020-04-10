@@ -1,5 +1,5 @@
 ---
-title: "31390 - PEYSSIES | Entraide, Annonces, Initiatives"
+title: "31390 - PEYSSIES"
 description: "31390 - PEYSSIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

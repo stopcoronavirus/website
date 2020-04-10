@@ -1,5 +1,5 @@
 ---
-title: "28150 - LOUVILLE LA CHENARD | Entraide, Annonces, Initiatives"
+title: "28150 - LOUVILLE LA CHENARD"
 description: "28150 - LOUVILLE LA CHENARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

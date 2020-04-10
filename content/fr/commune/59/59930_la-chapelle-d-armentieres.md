@@ -1,5 +1,5 @@
 ---
-title: "59930 - LA CHAPELLE D ARMENTIERES | Entraide, Annonces, Initiatives"
+title: "59930 - LA CHAPELLE D ARMENTIERES"
 description: "59930 - LA CHAPELLE D ARMENTIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

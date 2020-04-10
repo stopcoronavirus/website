@@ -1,5 +1,5 @@
 ---
-title: "01300 - PARVES ET NATTAGES | Entraide, Annonces, Initiatives"
+title: "01300 - PARVES ET NATTAGES"
 description: "01300 - PARVES ET NATTAGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

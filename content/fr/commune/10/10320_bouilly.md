@@ -1,5 +1,5 @@
 ---
-title: "10320 - BOUILLY | Entraide, Annonces, Initiatives"
+title: "10320 - BOUILLY"
 description: "10320 - BOUILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

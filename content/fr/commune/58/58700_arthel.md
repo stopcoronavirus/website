@@ -1,5 +1,5 @@
 ---
-title: "58700 - ARTHEL | Entraide, Annonces, Initiatives"
+title: "58700 - ARTHEL"
 description: "58700 - ARTHEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

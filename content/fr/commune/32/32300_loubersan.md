@@ -1,5 +1,5 @@
 ---
-title: "32300 - LOUBERSAN | Entraide, Annonces, Initiatives"
+title: "32300 - LOUBERSAN"
 description: "32300 - LOUBERSAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

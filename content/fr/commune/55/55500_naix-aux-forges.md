@@ -1,5 +1,5 @@
 ---
-title: "55500 - NAIX AUX FORGES | Entraide, Annonces, Initiatives"
+title: "55500 - NAIX AUX FORGES"
 description: "55500 - NAIX AUX FORGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "21390 - MONTIGNY ST BARTHELEMY | Entraide, Annonces, Initiatives"
+title: "21390 - MONTIGNY ST BARTHELEMY"
 description: "21390 - MONTIGNY ST BARTHELEMY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

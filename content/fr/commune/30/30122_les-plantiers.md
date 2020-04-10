@@ -1,5 +1,5 @@
 ---
-title: "30122 - LES PLANTIERS | Entraide, Annonces, Initiatives"
+title: "30122 - LES PLANTIERS"
 description: "30122 - LES PLANTIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

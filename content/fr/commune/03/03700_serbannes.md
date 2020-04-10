@@ -1,5 +1,5 @@
 ---
-title: "03700 - SERBANNES | Entraide, Annonces, Initiatives"
+title: "03700 - SERBANNES"
 description: "03700 - SERBANNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

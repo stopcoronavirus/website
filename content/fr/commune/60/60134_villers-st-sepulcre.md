@@ -1,5 +1,5 @@
 ---
-title: "60134 - VILLERS ST SEPULCRE | Entraide, Annonces, Initiatives"
+title: "60134 - VILLERS ST SEPULCRE"
 description: "60134 - VILLERS ST SEPULCRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

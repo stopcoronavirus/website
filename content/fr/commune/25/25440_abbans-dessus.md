@@ -1,5 +1,5 @@
 ---
-title: "25440 - ABBANS DESSUS | Entraide, Annonces, Initiatives"
+title: "25440 - ABBANS DESSUS"
 description: "25440 - ABBANS DESSUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "49440 - CHALLAIN LA POTHERIE | Entraide, Annonces, Initiatives"
+title: "49440 - CHALLAIN LA POTHERIE"
 description: "49440 - CHALLAIN LA POTHERIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13840 - ROGNES | Entraide, Annonces, Initiatives"
+title: "13840 - ROGNES"
 description: "13840 - ROGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

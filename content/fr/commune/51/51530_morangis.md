@@ -1,5 +1,5 @@
 ---
-title: "51530 - MORANGIS | Entraide, Annonces, Initiatives"
+title: "51530 - MORANGIS"
 description: "51530 - MORANGIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

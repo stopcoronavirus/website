@@ -1,5 +1,5 @@
 ---
-title: "76970 - ECTOT LES BAONS | Entraide, Annonces, Initiatives"
+title: "76970 - ECTOT LES BAONS"
 description: "76970 - ECTOT LES BAONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

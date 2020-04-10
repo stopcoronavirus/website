@@ -1,5 +1,5 @@
 ---
-title: "57930 - BELLES FORETS | Entraide, Annonces, Initiatives"
+title: "57930 - BELLES FORETS"
 description: "57930 - BELLES FORETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

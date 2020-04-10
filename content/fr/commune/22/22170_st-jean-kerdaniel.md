@@ -1,5 +1,5 @@
 ---
-title: "22170 - ST JEAN KERDANIEL | Entraide, Annonces, Initiatives"
+title: "22170 - ST JEAN KERDANIEL"
 description: "22170 - ST JEAN KERDANIEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

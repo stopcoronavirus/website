@@ -1,5 +1,5 @@
 ---
-title: "73300 - ST JEAN DE MAURIENNE | Entraide, Annonces, Initiatives"
+title: "73300 - ST JEAN DE MAURIENNE"
 description: "73300 - ST JEAN DE MAURIENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

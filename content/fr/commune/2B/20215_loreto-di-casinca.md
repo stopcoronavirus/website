@@ -1,5 +1,5 @@
 ---
-title: "20215 - LORETO DI CASINCA | Entraide, Annonces, Initiatives"
+title: "20215 - LORETO DI CASINCA"
 description: "20215 - LORETO DI CASINCA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

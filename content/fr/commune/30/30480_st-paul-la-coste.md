@@ -1,5 +1,5 @@
 ---
-title: "30480 - ST PAUL LA COSTE | Entraide, Annonces, Initiatives"
+title: "30480 - ST PAUL LA COSTE"
 description: "30480 - ST PAUL LA COSTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

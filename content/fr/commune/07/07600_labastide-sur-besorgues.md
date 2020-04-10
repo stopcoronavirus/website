@@ -1,5 +1,5 @@
 ---
-title: "07600 - LABASTIDE SUR BESORGUES | Entraide, Annonces, Initiatives"
+title: "07600 - LABASTIDE SUR BESORGUES"
 description: "07600 - LABASTIDE SUR BESORGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

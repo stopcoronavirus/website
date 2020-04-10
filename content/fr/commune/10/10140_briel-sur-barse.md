@@ -1,5 +1,5 @@
 ---
-title: "10140 - BRIEL SUR BARSE | Entraide, Annonces, Initiatives"
+title: "10140 - BRIEL SUR BARSE"
 description: "10140 - BRIEL SUR BARSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

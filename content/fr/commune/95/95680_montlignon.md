@@ -1,5 +1,5 @@
 ---
-title: "95680 - MONTLIGNON | Entraide, Annonces, Initiatives"
+title: "95680 - MONTLIGNON"
 description: "95680 - MONTLIGNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "50620 - AMIGNY | Entraide, Annonces, Initiatives"
+title: "50620 - AMIGNY"
 description: "50620 - AMIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

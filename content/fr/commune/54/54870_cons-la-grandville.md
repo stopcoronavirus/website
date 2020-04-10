@@ -1,5 +1,5 @@
 ---
-title: "54870 - CONS LA GRANDVILLE | Entraide, Annonces, Initiatives"
+title: "54870 - CONS LA GRANDVILLE"
 description: "54870 - CONS LA GRANDVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "14920 - MATHIEU | Entraide, Annonces, Initiatives"
+title: "14920 - MATHIEU"
 description: "14920 - MATHIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "27800 - HECMANVILLE | Entraide, Annonces, Initiatives"
+title: "27800 - HECMANVILLE"
 description: "27800 - HECMANVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

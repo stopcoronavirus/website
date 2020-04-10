@@ -1,5 +1,5 @@
 ---
-title: "47270 - TAYRAC | Entraide, Annonces, Initiatives"
+title: "47270 - TAYRAC"
 description: "47270 - TAYRAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

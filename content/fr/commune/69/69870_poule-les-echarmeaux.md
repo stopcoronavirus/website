@@ -1,5 +1,5 @@
 ---
-title: "69870 - POULE LES ECHARMEAUX | Entraide, Annonces, Initiatives"
+title: "69870 - POULE LES ECHARMEAUX"
 description: "69870 - POULE LES ECHARMEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

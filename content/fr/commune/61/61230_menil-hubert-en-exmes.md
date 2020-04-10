@@ -1,5 +1,5 @@
 ---
-title: "61230 - MENIL HUBERT EN EXMES | Entraide, Annonces, Initiatives"
+title: "61230 - MENIL HUBERT EN EXMES"
 description: "61230 - MENIL HUBERT EN EXMES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

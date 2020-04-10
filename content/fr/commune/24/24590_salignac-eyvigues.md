@@ -1,5 +1,5 @@
 ---
-title: "24590 - SALIGNAC EYVIGUES | Entraide, Annonces, Initiatives"
+title: "24590 - SALIGNAC EYVIGUES"
 description: "24590 - SALIGNAC EYVIGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

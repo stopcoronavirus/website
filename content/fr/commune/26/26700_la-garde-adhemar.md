@@ -1,5 +1,5 @@
 ---
-title: "26700 - LA GARDE ADHEMAR | Entraide, Annonces, Initiatives"
+title: "26700 - LA GARDE ADHEMAR"
 description: "26700 - LA GARDE ADHEMAR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

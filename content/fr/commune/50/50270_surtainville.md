@@ -1,5 +1,5 @@
 ---
-title: "50270 - SURTAINVILLE | Entraide, Annonces, Initiatives"
+title: "50270 - SURTAINVILLE"
 description: "50270 - SURTAINVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "85130 - ST AUBIN DES ORMEAUX | Entraide, Annonces, Initiatives"
+title: "85130 - ST AUBIN DES ORMEAUX"
 description: "85130 - ST AUBIN DES ORMEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

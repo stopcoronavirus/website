@@ -1,5 +1,5 @@
 ---
-title: "68630 - MITTELWIHR | Entraide, Annonces, Initiatives"
+title: "68630 - MITTELWIHR"
 description: "68630 - MITTELWIHR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39800 - BONNEFONTAINE | Entraide, Annonces, Initiatives"
+title: "39800 - BONNEFONTAINE"
 description: "39800 - BONNEFONTAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

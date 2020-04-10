@@ -1,5 +1,5 @@
 ---
-title: "38580 - LE MOUTARET | Entraide, Annonces, Initiatives"
+title: "38580 - LE MOUTARET"
 description: "38580 - LE MOUTARET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

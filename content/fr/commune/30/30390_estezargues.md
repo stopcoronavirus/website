@@ -1,5 +1,5 @@
 ---
-title: "30390 - ESTEZARGUES | Entraide, Annonces, Initiatives"
+title: "30390 - ESTEZARGUES"
 description: "30390 - ESTEZARGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

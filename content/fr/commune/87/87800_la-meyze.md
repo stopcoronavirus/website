@@ -1,5 +1,5 @@
 ---
-title: "87800 - LA MEYZE | Entraide, Annonces, Initiatives"
+title: "87800 - LA MEYZE"
 description: "87800 - LA MEYZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

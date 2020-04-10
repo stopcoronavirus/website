@@ -1,5 +1,5 @@
 ---
-title: "94300 - VINCENNES | Entraide, Annonces, Initiatives"
+title: "94300 - VINCENNES"
 description: "94300 - VINCENNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

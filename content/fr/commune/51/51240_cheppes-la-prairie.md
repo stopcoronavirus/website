@@ -1,5 +1,5 @@
 ---
-title: "51240 - CHEPPES LA PRAIRIE | Entraide, Annonces, Initiatives"
+title: "51240 - CHEPPES LA PRAIRIE"
 description: "51240 - CHEPPES LA PRAIRIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

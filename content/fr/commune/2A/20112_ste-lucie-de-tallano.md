@@ -1,5 +1,5 @@
 ---
-title: "20112 - STE LUCIE DE TALLANO | Entraide, Annonces, Initiatives"
+title: "20112 - STE LUCIE DE TALLANO"
 description: "20112 - STE LUCIE DE TALLANO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

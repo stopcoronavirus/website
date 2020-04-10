@@ -1,5 +1,5 @@
 ---
-title: "16360 - BORS DE BAIGNES | Entraide, Annonces, Initiatives"
+title: "16360 - BORS DE BAIGNES"
 description: "16360 - BORS DE BAIGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

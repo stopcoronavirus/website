@@ -1,5 +1,5 @@
 ---
-title: "45110 - ST MARTIN D ABBAT | Entraide, Annonces, Initiatives"
+title: "45110 - ST MARTIN D ABBAT"
 description: "45110 - ST MARTIN D ABBAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

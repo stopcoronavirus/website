@@ -1,5 +1,5 @@
 ---
-title: "54200 - SANZEY | Entraide, Annonces, Initiatives"
+title: "54200 - SANZEY"
 description: "54200 - SANZEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

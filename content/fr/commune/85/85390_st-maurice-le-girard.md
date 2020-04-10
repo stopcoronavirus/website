@@ -1,5 +1,5 @@
 ---
-title: "85390 - ST MAURICE LE GIRARD | Entraide, Annonces, Initiatives"
+title: "85390 - ST MAURICE LE GIRARD"
 description: "85390 - ST MAURICE LE GIRARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

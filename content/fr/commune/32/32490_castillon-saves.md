@@ -1,5 +1,5 @@
 ---
-title: "32490 - CASTILLON SAVES | Entraide, Annonces, Initiatives"
+title: "32490 - CASTILLON SAVES"
 description: "32490 - CASTILLON SAVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

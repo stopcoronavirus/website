@@ -1,5 +1,5 @@
 ---
-title: "57530 - GLATIGNY | Entraide, Annonces, Initiatives"
+title: "57530 - GLATIGNY"
 description: "57530 - GLATIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

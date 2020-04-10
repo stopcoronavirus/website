@@ -1,5 +1,5 @@
 ---
-title: "24370 - ORLIAGUET | Entraide, Annonces, Initiatives"
+title: "24370 - ORLIAGUET"
 description: "24370 - ORLIAGUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

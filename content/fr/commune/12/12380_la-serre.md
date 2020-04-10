@@ -1,5 +1,5 @@
 ---
-title: "12380 - LA SERRE | Entraide, Annonces, Initiatives"
+title: "12380 - LA SERRE"
 description: "12380 - LA SERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

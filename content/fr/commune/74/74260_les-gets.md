@@ -1,5 +1,5 @@
 ---
-title: "74260 - LES GETS | Entraide, Annonces, Initiatives"
+title: "74260 - LES GETS"
 description: "74260 - LES GETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

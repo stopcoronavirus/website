@@ -1,5 +1,5 @@
 ---
-title: "95500 - GONESSE | Entraide, Annonces, Initiatives"
+title: "95500 - GONESSE"
 description: "95500 - GONESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

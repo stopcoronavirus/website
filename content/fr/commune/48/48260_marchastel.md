@@ -1,5 +1,5 @@
 ---
-title: "48260 - MARCHASTEL | Entraide, Annonces, Initiatives"
+title: "48260 - MARCHASTEL"
 description: "48260 - MARCHASTEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "60420 - WELLES PERENNES | Entraide, Annonces, Initiatives"
+title: "60420 - WELLES PERENNES"
 description: "60420 - WELLES PERENNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

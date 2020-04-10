@@ -1,5 +1,5 @@
 ---
-title: "51140 - HOURGES | Entraide, Annonces, Initiatives"
+title: "51140 - HOURGES"
 description: "51140 - HOURGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

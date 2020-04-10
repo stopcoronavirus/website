@@ -1,5 +1,5 @@
 ---
-title: "16700 - COURCOME | Entraide, Annonces, Initiatives"
+title: "16700 - COURCOME"
 description: "16700 - COURCOME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

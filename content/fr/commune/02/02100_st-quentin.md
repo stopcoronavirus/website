@@ -1,5 +1,5 @@
 ---
-title: "02100 - ST QUENTIN | Entraide, Annonces, Initiatives"
+title: "02100 - ST QUENTIN"
 description: "02100 - ST QUENTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "35360 - LA CHAPELLE DU LOU DU LAC | Entraide, Annonces, Initiatives"
+title: "35360 - LA CHAPELLE DU LOU DU LAC"
 description: "35360 - LA CHAPELLE DU LOU DU LAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

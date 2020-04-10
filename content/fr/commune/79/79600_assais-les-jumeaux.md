@@ -1,5 +1,5 @@
 ---
-title: "79600 - ASSAIS LES JUMEAUX | Entraide, Annonces, Initiatives"
+title: "79600 - ASSAIS LES JUMEAUX"
 description: "79600 - ASSAIS LES JUMEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

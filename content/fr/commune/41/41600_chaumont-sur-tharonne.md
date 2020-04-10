@@ -1,5 +1,5 @@
 ---
-title: "41600 - CHAUMONT SUR THARONNE | Entraide, Annonces, Initiatives"
+title: "41600 - CHAUMONT SUR THARONNE"
 description: "41600 - CHAUMONT SUR THARONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

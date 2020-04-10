@@ -1,5 +1,5 @@
 ---
-title: "19160 - LAMAZIERE BASSE | Entraide, Annonces, Initiatives"
+title: "19160 - LAMAZIERE BASSE"
 description: "19160 - LAMAZIERE BASSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

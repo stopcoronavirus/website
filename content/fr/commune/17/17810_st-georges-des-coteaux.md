@@ -1,5 +1,5 @@
 ---
-title: "17810 - ST GEORGES DES COTEAUX | Entraide, Annonces, Initiatives"
+title: "17810 - ST GEORGES DES COTEAUX"
 description: "17810 - ST GEORGES DES COTEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

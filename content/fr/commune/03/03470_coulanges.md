@@ -1,5 +1,5 @@
 ---
-title: "03470 - COULANGES | Entraide, Annonces, Initiatives"
+title: "03470 - COULANGES"
 description: "03470 - COULANGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

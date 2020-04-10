@@ -1,5 +1,5 @@
 ---
-title: "26130 - CLANSAYES | Entraide, Annonces, Initiatives"
+title: "26130 - CLANSAYES"
 description: "26130 - CLANSAYES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

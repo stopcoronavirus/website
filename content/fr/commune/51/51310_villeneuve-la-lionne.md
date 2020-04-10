@@ -1,5 +1,5 @@
 ---
-title: "51310 - VILLENEUVE LA LIONNE | Entraide, Annonces, Initiatives"
+title: "51310 - VILLENEUVE LA LIONNE"
 description: "51310 - VILLENEUVE LA LIONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

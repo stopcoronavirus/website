@@ -1,5 +1,5 @@
 ---
-title: "07580 - BERZEME | Entraide, Annonces, Initiatives"
+title: "07580 - BERZEME"
 description: "07580 - BERZEME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

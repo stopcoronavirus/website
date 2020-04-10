@@ -1,5 +1,5 @@
 ---
-title: "81540 - SOREZE | Entraide, Annonces, Initiatives"
+title: "81540 - SOREZE"
 description: "81540 - SOREZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

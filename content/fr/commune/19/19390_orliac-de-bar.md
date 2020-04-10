@@ -1,5 +1,5 @@
 ---
-title: "19390 - ORLIAC DE BAR | Entraide, Annonces, Initiatives"
+title: "19390 - ORLIAC DE BAR"
 description: "19390 - ORLIAC DE BAR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

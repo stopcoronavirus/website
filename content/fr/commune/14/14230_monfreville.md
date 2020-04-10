@@ -1,5 +1,5 @@
 ---
-title: "14230 - MONFREVILLE | Entraide, Annonces, Initiatives"
+title: "14230 - MONFREVILLE"
 description: "14230 - MONFREVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

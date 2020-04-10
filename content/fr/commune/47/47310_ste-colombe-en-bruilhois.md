@@ -1,5 +1,5 @@
 ---
-title: "47310 - STE COLOMBE EN BRUILHOIS | Entraide, Annonces, Initiatives"
+title: "47310 - STE COLOMBE EN BRUILHOIS"
 description: "47310 - STE COLOMBE EN BRUILHOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

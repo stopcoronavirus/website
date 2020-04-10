@@ -1,5 +1,5 @@
 ---
-title: "84550 - MORNAS | Entraide, Annonces, Initiatives"
+title: "84550 - MORNAS"
 description: "84550 - MORNAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

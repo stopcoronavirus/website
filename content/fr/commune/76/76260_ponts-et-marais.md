@@ -1,5 +1,5 @@
 ---
-title: "76260 - PONTS ET MARAIS | Entraide, Annonces, Initiatives"
+title: "76260 - PONTS ET MARAIS"
 description: "76260 - PONTS ET MARAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

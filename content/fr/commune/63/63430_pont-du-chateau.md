@@ -1,5 +1,5 @@
 ---
-title: "63430 - PONT DU CHATEAU | Entraide, Annonces, Initiatives"
+title: "63430 - PONT DU CHATEAU"
 description: "63430 - PONT DU CHATEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

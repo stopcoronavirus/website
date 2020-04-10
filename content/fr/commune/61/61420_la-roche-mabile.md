@@ -1,5 +1,5 @@
 ---
-title: "61420 - LA ROCHE MABILE | Entraide, Annonces, Initiatives"
+title: "61420 - LA ROCHE MABILE"
 description: "61420 - LA ROCHE MABILE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

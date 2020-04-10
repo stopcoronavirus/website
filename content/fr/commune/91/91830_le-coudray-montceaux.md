@@ -1,5 +1,5 @@
 ---
-title: "91830 - LE COUDRAY MONTCEAUX | Entraide, Annonces, Initiatives"
+title: "91830 - LE COUDRAY MONTCEAUX"
 description: "91830 - LE COUDRAY MONTCEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

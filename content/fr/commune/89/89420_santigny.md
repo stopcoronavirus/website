@@ -1,5 +1,5 @@
 ---
-title: "89420 - SANTIGNY | Entraide, Annonces, Initiatives"
+title: "89420 - SANTIGNY"
 description: "89420 - SANTIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

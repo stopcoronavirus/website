@@ -1,5 +1,5 @@
 ---
-title: "66130 - CASEFABRE | Entraide, Annonces, Initiatives"
+title: "66130 - CASEFABRE"
 description: "66130 - CASEFABRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

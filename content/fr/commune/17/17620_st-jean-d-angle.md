@@ -1,5 +1,5 @@
 ---
-title: "17620 - ST JEAN D ANGLE | Entraide, Annonces, Initiatives"
+title: "17620 - ST JEAN D ANGLE"
 description: "17620 - ST JEAN D ANGLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "49124 - ST BARTHELEMY D ANJOU | Entraide, Annonces, Initiatives"
+title: "49124 - ST BARTHELEMY D ANJOU"
 description: "49124 - ST BARTHELEMY D ANJOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

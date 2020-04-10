@@ -1,5 +1,5 @@
 ---
-title: "76150 - ST JEAN DU CARDONNAY | Entraide, Annonces, Initiatives"
+title: "76150 - ST JEAN DU CARDONNAY"
 description: "76150 - ST JEAN DU CARDONNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

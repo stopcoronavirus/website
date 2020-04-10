@@ -1,5 +1,5 @@
 ---
-title: "49430 - HUILLE LEZIGNE | Entraide, Annonces, Initiatives"
+title: "49430 - HUILLE LEZIGNE"
 description: "49430 - HUILLE LEZIGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

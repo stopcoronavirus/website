@@ -1,5 +1,5 @@
 ---
-title: "28140 - BAZOCHES LES HAUTES | Entraide, Annonces, Initiatives"
+title: "28140 - BAZOCHES LES HAUTES"
 description: "28140 - BAZOCHES LES HAUTES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

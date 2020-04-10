@@ -1,5 +1,5 @@
 ---
-title: "70100 - CHARGEY LES GRAY | Entraide, Annonces, Initiatives"
+title: "70100 - CHARGEY LES GRAY"
 description: "70100 - CHARGEY LES GRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

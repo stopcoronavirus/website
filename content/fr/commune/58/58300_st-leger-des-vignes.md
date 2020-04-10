@@ -1,5 +1,5 @@
 ---
-title: "58300 - ST LEGER DES VIGNES | Entraide, Annonces, Initiatives"
+title: "58300 - ST LEGER DES VIGNES"
 description: "58300 - ST LEGER DES VIGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

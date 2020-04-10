@@ -1,5 +1,5 @@
 ---
-title: "60117 - VAUCIENNES | Entraide, Annonces, Initiatives"
+title: "60117 - VAUCIENNES"
 description: "60117 - VAUCIENNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

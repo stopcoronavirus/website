@@ -1,5 +1,5 @@
 ---
-title: "03130 - ST LEGER SUR VOUZANCE | Entraide, Annonces, Initiatives"
+title: "03130 - ST LEGER SUR VOUZANCE"
 description: "03130 - ST LEGER SUR VOUZANCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

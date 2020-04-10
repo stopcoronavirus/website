@@ -1,5 +1,5 @@
 ---
-title: "53240 - ST GERMAIN LE GUILLAUME | Entraide, Annonces, Initiatives"
+title: "53240 - ST GERMAIN LE GUILLAUME"
 description: "53240 - ST GERMAIN LE GUILLAUME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

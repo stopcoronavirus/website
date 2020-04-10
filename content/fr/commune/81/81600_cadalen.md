@@ -1,5 +1,5 @@
 ---
-title: "81600 - CADALEN | Entraide, Annonces, Initiatives"
+title: "81600 - CADALEN"
 description: "81600 - CADALEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

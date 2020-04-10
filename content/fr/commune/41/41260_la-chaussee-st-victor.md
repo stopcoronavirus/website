@@ -1,5 +1,5 @@
 ---
-title: "41260 - LA CHAUSSEE ST VICTOR | Entraide, Annonces, Initiatives"
+title: "41260 - LA CHAUSSEE ST VICTOR"
 description: "41260 - LA CHAUSSEE ST VICTOR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "79200 - CHATILLON SUR THOUET | Entraide, Annonces, Initiatives"
+title: "79200 - CHATILLON SUR THOUET"
 description: "79200 - CHATILLON SUR THOUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

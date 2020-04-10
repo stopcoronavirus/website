@@ -1,5 +1,5 @@
 ---
-title: "12120 - AURIAC LAGAST | Entraide, Annonces, Initiatives"
+title: "12120 - AURIAC LAGAST"
 description: "12120 - AURIAC LAGAST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

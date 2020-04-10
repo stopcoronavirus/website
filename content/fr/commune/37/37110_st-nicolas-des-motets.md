@@ -1,5 +1,5 @@
 ---
-title: "37110 - ST NICOLAS DES MOTETS | Entraide, Annonces, Initiatives"
+title: "37110 - ST NICOLAS DES MOTETS"
 description: "37110 - ST NICOLAS DES MOTETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "55260 - THILLOMBOIS | Entraide, Annonces, Initiatives"
+title: "55260 - THILLOMBOIS"
 description: "55260 - THILLOMBOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

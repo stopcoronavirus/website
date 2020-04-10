@@ -1,5 +1,5 @@
 ---
-title: "51310 - ESTERNAY | Entraide, Annonces, Initiatives"
+title: "51310 - ESTERNAY"
 description: "51310 - ESTERNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

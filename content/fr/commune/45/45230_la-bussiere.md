@@ -1,5 +1,5 @@
 ---
-title: "45230 - LA BUSSIERE | Entraide, Annonces, Initiatives"
+title: "45230 - LA BUSSIERE"
 description: "45230 - LA BUSSIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

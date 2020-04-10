@@ -1,5 +1,5 @@
 ---
-title: "76640 - FOUCART | Entraide, Annonces, Initiatives"
+title: "76640 - FOUCART"
 description: "76640 - FOUCART | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

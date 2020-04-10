@@ -1,5 +1,5 @@
 ---
-title: "47220 - ST SIXTE | Entraide, Annonces, Initiatives"
+title: "47220 - ST SIXTE"
 description: "47220 - ST SIXTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "62217 - BEAURAINS | Entraide, Annonces, Initiatives"
+title: "62217 - BEAURAINS"
 description: "62217 - BEAURAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

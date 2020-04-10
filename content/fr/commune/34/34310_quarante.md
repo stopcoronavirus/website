@@ -1,5 +1,5 @@
 ---
-title: "34310 - QUARANTE | Entraide, Annonces, Initiatives"
+title: "34310 - QUARANTE"
 description: "34310 - QUARANTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

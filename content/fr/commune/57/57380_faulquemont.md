@@ -1,5 +1,5 @@
 ---
-title: "57380 - FAULQUEMONT | Entraide, Annonces, Initiatives"
+title: "57380 - FAULQUEMONT"
 description: "57380 - FAULQUEMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

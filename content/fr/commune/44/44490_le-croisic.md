@@ -1,5 +1,5 @@
 ---
-title: "44490 - LE CROISIC | Entraide, Annonces, Initiatives"
+title: "44490 - LE CROISIC"
 description: "44490 - LE CROISIC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

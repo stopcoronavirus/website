@@ -1,5 +1,5 @@
 ---
-title: "47320 - CLAIRAC | Entraide, Annonces, Initiatives"
+title: "47320 - CLAIRAC"
 description: "47320 - CLAIRAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

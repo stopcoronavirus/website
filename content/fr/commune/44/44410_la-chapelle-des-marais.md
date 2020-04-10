@@ -1,5 +1,5 @@
 ---
-title: "44410 - LA CHAPELLE DES MARAIS | Entraide, Annonces, Initiatives"
+title: "44410 - LA CHAPELLE DES MARAIS"
 description: "44410 - LA CHAPELLE DES MARAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

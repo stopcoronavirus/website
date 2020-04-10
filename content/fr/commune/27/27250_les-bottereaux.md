@@ -1,5 +1,5 @@
 ---
-title: "27250 - LES BOTTEREAUX | Entraide, Annonces, Initiatives"
+title: "27250 - LES BOTTEREAUX"
 description: "27250 - LES BOTTEREAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

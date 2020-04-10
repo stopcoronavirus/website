@@ -1,5 +1,5 @@
 ---
-title: "01590 - DORTAN | Entraide, Annonces, Initiatives"
+title: "01590 - DORTAN"
 description: "01590 - DORTAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

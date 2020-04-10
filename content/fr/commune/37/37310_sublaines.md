@@ -1,5 +1,5 @@
 ---
-title: "37310 - SUBLAINES | Entraide, Annonces, Initiatives"
+title: "37310 - SUBLAINES"
 description: "37310 - SUBLAINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

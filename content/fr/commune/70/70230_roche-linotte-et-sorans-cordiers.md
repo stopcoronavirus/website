@@ -1,5 +1,5 @@
 ---
-title: "70230 - ROCHE LINOTTE ET SORANS CORDIERS | Entraide, Annonces, Initiatives"
+title: "70230 - ROCHE LINOTTE ET SORANS CORDIERS"
 description: "70230 - ROCHE LINOTTE ET SORANS CORDIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

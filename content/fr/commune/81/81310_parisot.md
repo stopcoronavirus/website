@@ -1,5 +1,5 @@
 ---
-title: "81310 - PARISOT | Entraide, Annonces, Initiatives"
+title: "81310 - PARISOT"
 description: "81310 - PARISOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

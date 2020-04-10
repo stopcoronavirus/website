@@ -1,5 +1,5 @@
 ---
-title: "40700 - ST CRICQ CHALOSSE | Entraide, Annonces, Initiatives"
+title: "40700 - ST CRICQ CHALOSSE"
 description: "40700 - ST CRICQ CHALOSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

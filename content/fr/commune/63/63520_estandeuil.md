@@ -1,5 +1,5 @@
 ---
-title: "63520 - ESTANDEUIL | Entraide, Annonces, Initiatives"
+title: "63520 - ESTANDEUIL"
 description: "63520 - ESTANDEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

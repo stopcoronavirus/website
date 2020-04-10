@@ -1,5 +1,5 @@
 ---
-title: "24110 - LEGUILLAC DE L AUCHE | Entraide, Annonces, Initiatives"
+title: "24110 - LEGUILLAC DE L AUCHE"
 description: "24110 - LEGUILLAC DE L AUCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

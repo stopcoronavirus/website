@@ -1,5 +1,5 @@
 ---
-title: "14170 - ST PIERRE EN AUGE | Entraide, Annonces, Initiatives"
+title: "14170 - ST PIERRE EN AUGE"
 description: "14170 - ST PIERRE EN AUGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

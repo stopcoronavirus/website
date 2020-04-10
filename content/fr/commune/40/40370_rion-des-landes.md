@@ -1,5 +1,5 @@
 ---
-title: "40370 - RION DES LANDES | Entraide, Annonces, Initiatives"
+title: "40370 - RION DES LANDES"
 description: "40370 - RION DES LANDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "80150 - NEUILLY LE DIEN | Entraide, Annonces, Initiatives"
+title: "80150 - NEUILLY LE DIEN"
 description: "80150 - NEUILLY LE DIEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

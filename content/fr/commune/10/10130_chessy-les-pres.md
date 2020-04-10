@@ -1,5 +1,5 @@
 ---
-title: "10130 - CHESSY LES PRES | Entraide, Annonces, Initiatives"
+title: "10130 - CHESSY LES PRES"
 description: "10130 - CHESSY LES PRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

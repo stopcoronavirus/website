@@ -1,5 +1,5 @@
 ---
-title: "47200 - BIRAC SUR TREC | Entraide, Annonces, Initiatives"
+title: "47200 - BIRAC SUR TREC"
 description: "47200 - BIRAC SUR TREC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

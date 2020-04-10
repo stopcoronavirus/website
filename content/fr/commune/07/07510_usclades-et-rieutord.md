@@ -1,5 +1,5 @@
 ---
-title: "07510 - USCLADES ET RIEUTORD | Entraide, Annonces, Initiatives"
+title: "07510 - USCLADES ET RIEUTORD"
 description: "07510 - USCLADES ET RIEUTORD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "44540 - VALLONS DE L ERDRE | Entraide, Annonces, Initiatives"
+title: "44540 - VALLONS DE L ERDRE"
 description: "44540 - VALLONS DE L ERDRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

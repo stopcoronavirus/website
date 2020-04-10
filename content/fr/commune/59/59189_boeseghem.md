@@ -1,5 +1,5 @@
 ---
-title: "59189 - BOESEGHEM | Entraide, Annonces, Initiatives"
+title: "59189 - BOESEGHEM"
 description: "59189 - BOESEGHEM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "51300 - ST QUENTIN LES MARAIS | Entraide, Annonces, Initiatives"
+title: "51300 - ST QUENTIN LES MARAIS"
 description: "51300 - ST QUENTIN LES MARAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

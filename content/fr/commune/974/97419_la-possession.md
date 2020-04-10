@@ -1,5 +1,5 @@
 ---
-title: "97419 - LA POSSESSION | Entraide, Annonces, Initiatives"
+title: "97419 - LA POSSESSION"
 description: "97419 - LA POSSESSION | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

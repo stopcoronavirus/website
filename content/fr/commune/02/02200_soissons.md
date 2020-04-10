@@ -1,5 +1,5 @@
 ---
-title: "02200 - SOISSONS | Entraide, Annonces, Initiatives"
+title: "02200 - SOISSONS"
 description: "02200 - SOISSONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

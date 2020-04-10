@@ -1,5 +1,5 @@
 ---
-title: "41300 - SELLES ST DENIS | Entraide, Annonces, Initiatives"
+title: "41300 - SELLES ST DENIS"
 description: "41300 - SELLES ST DENIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "57490 - L HOPITAL | Entraide, Annonces, Initiatives"
+title: "57490 - L HOPITAL"
 description: "57490 - L HOPITAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

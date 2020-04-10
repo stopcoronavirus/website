@@ -1,5 +1,5 @@
 ---
-title: "66480 - MAUREILLAS LAS ILLAS | Entraide, Annonces, Initiatives"
+title: "66480 - MAUREILLAS LAS ILLAS"
 description: "66480 - MAUREILLAS LAS ILLAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

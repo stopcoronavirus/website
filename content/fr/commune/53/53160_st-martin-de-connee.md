@@ -1,5 +1,5 @@
 ---
-title: "53160 - ST MARTIN DE CONNEE | Entraide, Annonces, Initiatives"
+title: "53160 - ST MARTIN DE CONNEE"
 description: "53160 - ST MARTIN DE CONNEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "11300 - LA DIGNE D AVAL | Entraide, Annonces, Initiatives"
+title: "11300 - LA DIGNE D AVAL"
 description: "11300 - LA DIGNE D AVAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

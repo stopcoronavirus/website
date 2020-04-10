@@ -1,5 +1,5 @@
 ---
-title: "85570 - ST MARTIN DES FONTAINES | Entraide, Annonces, Initiatives"
+title: "85570 - ST MARTIN DES FONTAINES"
 description: "85570 - ST MARTIN DES FONTAINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

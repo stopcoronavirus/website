@@ -1,5 +1,5 @@
 ---
-title: "38940 - MONTFALCON | Entraide, Annonces, Initiatives"
+title: "38940 - MONTFALCON"
 description: "38940 - MONTFALCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

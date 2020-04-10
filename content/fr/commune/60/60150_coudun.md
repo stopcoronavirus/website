@@ -1,5 +1,5 @@
 ---
-title: "60150 - COUDUN | Entraide, Annonces, Initiatives"
+title: "60150 - COUDUN"
 description: "60150 - COUDUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

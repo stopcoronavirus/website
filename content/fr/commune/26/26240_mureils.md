@@ -1,5 +1,5 @@
 ---
-title: "26240 - MUREILS | Entraide, Annonces, Initiatives"
+title: "26240 - MUREILS"
 description: "26240 - MUREILS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

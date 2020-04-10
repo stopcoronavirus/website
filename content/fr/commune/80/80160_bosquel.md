@@ -1,5 +1,5 @@
 ---
-title: "80160 - BOSQUEL | Entraide, Annonces, Initiatives"
+title: "80160 - BOSQUEL"
 description: "80160 - BOSQUEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

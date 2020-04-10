@@ -1,5 +1,5 @@
 ---
-title: "11140 - STE COLOMBE SUR GUETTE | Entraide, Annonces, Initiatives"
+title: "11140 - STE COLOMBE SUR GUETTE"
 description: "11140 - STE COLOMBE SUR GUETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

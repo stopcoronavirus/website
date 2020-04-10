@@ -1,5 +1,5 @@
 ---
-title: "87340 - ST LEGER LA MONTAGNE | Entraide, Annonces, Initiatives"
+title: "87340 - ST LEGER LA MONTAGNE"
 description: "87340 - ST LEGER LA MONTAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

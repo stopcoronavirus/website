@@ -1,5 +1,5 @@
 ---
-title: "89100 - VILLEROY | Entraide, Annonces, Initiatives"
+title: "89100 - VILLEROY"
 description: "89100 - VILLEROY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

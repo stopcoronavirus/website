@@ -1,5 +1,5 @@
 ---
-title: "62870 - CAMPAGNE LES HESDIN | Entraide, Annonces, Initiatives"
+title: "62870 - CAMPAGNE LES HESDIN"
 description: "62870 - CAMPAGNE LES HESDIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

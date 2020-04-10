@@ -1,5 +1,5 @@
 ---
-title: "43510 - SENEUJOLS | Entraide, Annonces, Initiatives"
+title: "43510 - SENEUJOLS"
 description: "43510 - SENEUJOLS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

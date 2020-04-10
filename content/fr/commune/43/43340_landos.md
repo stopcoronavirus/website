@@ -1,5 +1,5 @@
 ---
-title: "43340 - LANDOS | Entraide, Annonces, Initiatives"
+title: "43340 - LANDOS"
 description: "43340 - LANDOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

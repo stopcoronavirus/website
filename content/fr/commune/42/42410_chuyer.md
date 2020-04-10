@@ -1,5 +1,5 @@
 ---
-title: "42410 - CHUYER | Entraide, Annonces, Initiatives"
+title: "42410 - CHUYER"
 description: "42410 - CHUYER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

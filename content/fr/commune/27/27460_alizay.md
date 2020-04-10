@@ -1,5 +1,5 @@
 ---
-title: "27460 - ALIZAY | Entraide, Annonces, Initiatives"
+title: "27460 - ALIZAY"
 description: "27460 - ALIZAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

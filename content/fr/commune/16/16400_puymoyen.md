@@ -1,5 +1,5 @@
 ---
-title: "16400 - PUYMOYEN | Entraide, Annonces, Initiatives"
+title: "16400 - PUYMOYEN"
 description: "16400 - PUYMOYEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

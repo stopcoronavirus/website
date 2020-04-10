@@ -1,5 +1,5 @@
 ---
-title: "55600 - VIGNEUL SOUS MONTMEDY | Entraide, Annonces, Initiatives"
+title: "55600 - VIGNEUL SOUS MONTMEDY"
 description: "55600 - VIGNEUL SOUS MONTMEDY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

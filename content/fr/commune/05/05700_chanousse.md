@@ -1,5 +1,5 @@
 ---
-title: "05700 - CHANOUSSE | Entraide, Annonces, Initiatives"
+title: "05700 - CHANOUSSE"
 description: "05700 - CHANOUSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

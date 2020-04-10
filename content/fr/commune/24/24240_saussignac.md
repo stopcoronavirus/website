@@ -1,5 +1,5 @@
 ---
-title: "24240 - SAUSSIGNAC | Entraide, Annonces, Initiatives"
+title: "24240 - SAUSSIGNAC"
 description: "24240 - SAUSSIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

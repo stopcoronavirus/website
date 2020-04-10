@@ -1,5 +1,5 @@
 ---
-title: "55400 - FOAMEIX ORNEL | Entraide, Annonces, Initiatives"
+title: "55400 - FOAMEIX ORNEL"
 description: "55400 - FOAMEIX ORNEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

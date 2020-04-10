@@ -1,5 +1,5 @@
 ---
-title: "25680 - AVILLEY | Entraide, Annonces, Initiatives"
+title: "25680 - AVILLEY"
 description: "25680 - AVILLEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

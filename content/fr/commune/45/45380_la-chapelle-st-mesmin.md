@@ -1,5 +1,5 @@
 ---
-title: "45380 - LA CHAPELLE ST MESMIN | Entraide, Annonces, Initiatives"
+title: "45380 - LA CHAPELLE ST MESMIN"
 description: "45380 - LA CHAPELLE ST MESMIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

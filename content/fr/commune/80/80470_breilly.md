@@ -1,5 +1,5 @@
 ---
-title: "80470 - BREILLY | Entraide, Annonces, Initiatives"
+title: "80470 - BREILLY"
 description: "80470 - BREILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "01480 - CHALEINS | Entraide, Annonces, Initiatives"
+title: "01480 - CHALEINS"
 description: "01480 - CHALEINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "85670 - LA CHAPELLE PALLUAU | Entraide, Annonces, Initiatives"
+title: "85670 - LA CHAPELLE PALLUAU"
 description: "85670 - LA CHAPELLE PALLUAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

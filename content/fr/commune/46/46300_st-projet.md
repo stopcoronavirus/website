@@ -1,5 +1,5 @@
 ---
-title: "46300 - ST PROJET | Entraide, Annonces, Initiatives"
+title: "46300 - ST PROJET"
 description: "46300 - ST PROJET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "91740 - PUSSAY | Entraide, Annonces, Initiatives"
+title: "91740 - PUSSAY"
 description: "91740 - PUSSAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "61380 - STE CERONNE LES MORTAGNE | Entraide, Annonces, Initiatives"
+title: "61380 - STE CERONNE LES MORTAGNE"
 description: "61380 - STE CERONNE LES MORTAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

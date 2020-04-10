@@ -1,5 +1,5 @@
 ---
-title: "72120 - ST GERVAIS DE VIC | Entraide, Annonces, Initiatives"
+title: "72120 - ST GERVAIS DE VIC"
 description: "72120 - ST GERVAIS DE VIC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "62260 - CAUCHY A LA TOUR | Entraide, Annonces, Initiatives"
+title: "62260 - CAUCHY A LA TOUR"
 description: "62260 - CAUCHY A LA TOUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

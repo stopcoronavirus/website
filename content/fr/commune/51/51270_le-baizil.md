@@ -1,5 +1,5 @@
 ---
-title: "51270 - LE BAIZIL | Entraide, Annonces, Initiatives"
+title: "51270 - LE BAIZIL"
 description: "51270 - LE BAIZIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

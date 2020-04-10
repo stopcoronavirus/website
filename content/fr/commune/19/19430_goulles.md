@@ -1,5 +1,5 @@
 ---
-title: "19430 - GOULLES | Entraide, Annonces, Initiatives"
+title: "19430 - GOULLES"
 description: "19430 - GOULLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "89230 - ROUVRAY | Entraide, Annonces, Initiatives"
+title: "89230 - ROUVRAY"
 description: "89230 - ROUVRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "74470 - LULLIN | Entraide, Annonces, Initiatives"
+title: "74470 - LULLIN"
 description: "74470 - LULLIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

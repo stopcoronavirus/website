@@ -1,5 +1,5 @@
 ---
-title: "54830 - ESSEY LA COTE | Entraide, Annonces, Initiatives"
+title: "54830 - ESSEY LA COTE"
 description: "54830 - ESSEY LA COTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "94250 - GENTILLY | Entraide, Annonces, Initiatives"
+title: "94250 - GENTILLY"
 description: "94250 - GENTILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

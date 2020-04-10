@@ -1,5 +1,5 @@
 ---
-title: "24390 - CHERVEIX CUBAS | Entraide, Annonces, Initiatives"
+title: "24390 - CHERVEIX CUBAS"
 description: "24390 - CHERVEIX CUBAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

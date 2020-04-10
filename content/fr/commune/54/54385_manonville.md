@@ -1,5 +1,5 @@
 ---
-title: "54385 - MANONVILLE | Entraide, Annonces, Initiatives"
+title: "54385 - MANONVILLE"
 description: "54385 - MANONVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

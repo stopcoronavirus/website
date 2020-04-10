@@ -1,5 +1,5 @@
 ---
-title: "08160 - VENDRESSE | Entraide, Annonces, Initiatives"
+title: "08160 - VENDRESSE"
 description: "08160 - VENDRESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "34330 - CAMBON ET SALVERGUES | Entraide, Annonces, Initiatives"
+title: "34330 - CAMBON ET SALVERGUES"
 description: "34330 - CAMBON ET SALVERGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

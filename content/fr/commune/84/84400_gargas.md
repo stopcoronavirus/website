@@ -1,5 +1,5 @@
 ---
-title: "84400 - GARGAS | Entraide, Annonces, Initiatives"
+title: "84400 - GARGAS"
 description: "84400 - GARGAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

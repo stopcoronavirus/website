@@ -1,5 +1,5 @@
 ---
-title: "22140 - BRELIDY | Entraide, Annonces, Initiatives"
+title: "22140 - BRELIDY"
 description: "22140 - BRELIDY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

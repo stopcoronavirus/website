@@ -1,5 +1,5 @@
 ---
-title: "30350 - CANAULES ET ARGENTIERES | Entraide, Annonces, Initiatives"
+title: "30350 - CANAULES ET ARGENTIERES"
 description: "30350 - CANAULES ET ARGENTIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

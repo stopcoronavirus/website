@@ -1,5 +1,5 @@
 ---
-title: "58400 - LA CHARITE SUR LOIRE | Entraide, Annonces, Initiatives"
+title: "58400 - LA CHARITE SUR LOIRE"
 description: "58400 - LA CHARITE SUR LOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

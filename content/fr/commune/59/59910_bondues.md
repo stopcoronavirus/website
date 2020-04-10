@@ -1,5 +1,5 @@
 ---
-title: "59910 - BONDUES | Entraide, Annonces, Initiatives"
+title: "59910 - BONDUES"
 description: "59910 - BONDUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

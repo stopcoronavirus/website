@@ -1,5 +1,5 @@
 ---
-title: "76660 - SMERMESNIL | Entraide, Annonces, Initiatives"
+title: "76660 - SMERMESNIL"
 description: "76660 - SMERMESNIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

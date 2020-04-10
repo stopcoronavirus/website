@@ -1,5 +1,5 @@
 ---
-title: "72330 - PARIGNE LE POLIN | Entraide, Annonces, Initiatives"
+title: "72330 - PARIGNE LE POLIN"
 description: "72330 - PARIGNE LE POLIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

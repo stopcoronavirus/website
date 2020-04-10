@@ -1,5 +1,5 @@
 ---
-title: "57130 - ANCY DORNOT | Entraide, Annonces, Initiatives"
+title: "57130 - ANCY DORNOT"
 description: "57130 - ANCY DORNOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

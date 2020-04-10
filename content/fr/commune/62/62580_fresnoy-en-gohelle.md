@@ -1,5 +1,5 @@
 ---
-title: "62580 - FRESNOY EN GOHELLE | Entraide, Annonces, Initiatives"
+title: "62580 - FRESNOY EN GOHELLE"
 description: "62580 - FRESNOY EN GOHELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

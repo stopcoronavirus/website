@@ -1,5 +1,5 @@
 ---
-title: "03000 - AVERMES | Entraide, Annonces, Initiatives"
+title: "03000 - AVERMES"
 description: "03000 - AVERMES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

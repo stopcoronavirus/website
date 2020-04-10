@@ -1,5 +1,5 @@
 ---
-title: "44117 - ST ANDRE DES EAUX | Entraide, Annonces, Initiatives"
+title: "44117 - ST ANDRE DES EAUX"
 description: "44117 - ST ANDRE DES EAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

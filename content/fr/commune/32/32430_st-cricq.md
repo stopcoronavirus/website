@@ -1,5 +1,5 @@
 ---
-title: "32430 - ST CRICQ | Entraide, Annonces, Initiatives"
+title: "32430 - ST CRICQ"
 description: "32430 - ST CRICQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

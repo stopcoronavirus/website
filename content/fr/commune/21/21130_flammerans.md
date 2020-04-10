@@ -1,5 +1,5 @@
 ---
-title: "21130 - FLAMMERANS | Entraide, Annonces, Initiatives"
+title: "21130 - FLAMMERANS"
 description: "21130 - FLAMMERANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

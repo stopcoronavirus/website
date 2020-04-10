@@ -1,5 +1,5 @@
 ---
-title: "63840 - VIVEROLS | Entraide, Annonces, Initiatives"
+title: "63840 - VIVEROLS"
 description: "63840 - VIVEROLS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "22690 - PLEUDIHEN SUR RANCE | Entraide, Annonces, Initiatives"
+title: "22690 - PLEUDIHEN SUR RANCE"
 description: "22690 - PLEUDIHEN SUR RANCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

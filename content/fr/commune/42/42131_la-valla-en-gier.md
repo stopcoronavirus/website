@@ -1,5 +1,5 @@
 ---
-title: "42131 - LA VALLA EN GIER | Entraide, Annonces, Initiatives"
+title: "42131 - LA VALLA EN GIER"
 description: "42131 - LA VALLA EN GIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

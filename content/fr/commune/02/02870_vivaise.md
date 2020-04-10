@@ -1,5 +1,5 @@
 ---
-title: "02870 - VIVAISE | Entraide, Annonces, Initiatives"
+title: "02870 - VIVAISE"
 description: "02870 - VIVAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

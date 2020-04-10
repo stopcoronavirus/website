@@ -1,5 +1,5 @@
 ---
-title: "63390 - CHATEAUNEUF LES BAINS | Entraide, Annonces, Initiatives"
+title: "63390 - CHATEAUNEUF LES BAINS"
 description: "63390 - CHATEAUNEUF LES BAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

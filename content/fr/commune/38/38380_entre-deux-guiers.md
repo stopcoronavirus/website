@@ -1,5 +1,5 @@
 ---
-title: "38380 - ENTRE DEUX GUIERS | Entraide, Annonces, Initiatives"
+title: "38380 - ENTRE DEUX GUIERS"
 description: "38380 - ENTRE DEUX GUIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

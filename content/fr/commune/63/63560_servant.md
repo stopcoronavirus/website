@@ -1,5 +1,5 @@
 ---
-title: "63560 - SERVANT | Entraide, Annonces, Initiatives"
+title: "63560 - SERVANT"
 description: "63560 - SERVANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

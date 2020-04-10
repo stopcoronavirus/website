@@ -1,5 +1,5 @@
 ---
-title: "32250 - CASTELNAU D AUZAN LABARRERE | Entraide, Annonces, Initiatives"
+title: "32250 - CASTELNAU D AUZAN LABARRERE"
 description: "32250 - CASTELNAU D AUZAN LABARRERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

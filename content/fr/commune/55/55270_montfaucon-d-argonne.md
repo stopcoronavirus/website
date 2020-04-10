@@ -1,5 +1,5 @@
 ---
-title: "55270 - MONTFAUCON D ARGONNE | Entraide, Annonces, Initiatives"
+title: "55270 - MONTFAUCON D ARGONNE"
 description: "55270 - MONTFAUCON D ARGONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

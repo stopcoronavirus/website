@@ -1,5 +1,5 @@
 ---
-title: "16410 - FOUQUEBRUNE | Entraide, Annonces, Initiatives"
+title: "16410 - FOUQUEBRUNE"
 description: "16410 - FOUQUEBRUNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

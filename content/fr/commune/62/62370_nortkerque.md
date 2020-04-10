@@ -1,5 +1,5 @@
 ---
-title: "62370 - NORTKERQUE | Entraide, Annonces, Initiatives"
+title: "62370 - NORTKERQUE"
 description: "62370 - NORTKERQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "76780 - HODENG HODENGER | Entraide, Annonces, Initiatives"
+title: "76780 - HODENG HODENGER"
 description: "76780 - HODENG HODENGER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

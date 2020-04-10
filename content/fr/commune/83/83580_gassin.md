@@ -1,5 +1,5 @@
 ---
-title: "83580 - GASSIN | Entraide, Annonces, Initiatives"
+title: "83580 - GASSIN"
 description: "83580 - GASSIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

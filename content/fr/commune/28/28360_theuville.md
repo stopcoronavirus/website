@@ -1,5 +1,5 @@
 ---
-title: "28360 - THEUVILLE | Entraide, Annonces, Initiatives"
+title: "28360 - THEUVILLE"
 description: "28360 - THEUVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12230 - L HOSPITALET DU LARZAC | Entraide, Annonces, Initiatives"
+title: "12230 - L HOSPITALET DU LARZAC"
 description: "12230 - L HOSPITALET DU LARZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

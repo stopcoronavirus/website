@@ -1,5 +1,5 @@
 ---
-title: "60590 - ENENCOURT LEAGE | Entraide, Annonces, Initiatives"
+title: "60590 - ENENCOURT LEAGE"
 description: "60590 - ENENCOURT LEAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

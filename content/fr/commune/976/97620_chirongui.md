@@ -1,5 +1,5 @@
 ---
-title: "97620 - CHIRONGUI | Entraide, Annonces, Initiatives"
+title: "97620 - CHIRONGUI"
 description: "97620 - CHIRONGUI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

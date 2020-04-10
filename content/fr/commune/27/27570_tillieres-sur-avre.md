@@ -1,5 +1,5 @@
 ---
-title: "27570 - TILLIERES SUR AVRE | Entraide, Annonces, Initiatives"
+title: "27570 - TILLIERES SUR AVRE"
 description: "27570 - TILLIERES SUR AVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

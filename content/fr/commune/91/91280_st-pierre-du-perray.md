@@ -1,5 +1,5 @@
 ---
-title: "91280 - ST PIERRE DU PERRAY | Entraide, Annonces, Initiatives"
+title: "91280 - ST PIERRE DU PERRAY"
 description: "91280 - ST PIERRE DU PERRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

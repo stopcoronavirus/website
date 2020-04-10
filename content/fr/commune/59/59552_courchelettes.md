@@ -1,5 +1,5 @@
 ---
-title: "59552 - COURCHELETTES | Entraide, Annonces, Initiatives"
+title: "59552 - COURCHELETTES"
 description: "59552 - COURCHELETTES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

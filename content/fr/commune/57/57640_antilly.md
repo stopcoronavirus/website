@@ -1,5 +1,5 @@
 ---
-title: "57640 - ANTILLY | Entraide, Annonces, Initiatives"
+title: "57640 - ANTILLY"
 description: "57640 - ANTILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

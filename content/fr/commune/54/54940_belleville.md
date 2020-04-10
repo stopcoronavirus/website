@@ -1,5 +1,5 @@
 ---
-title: "54940 - BELLEVILLE | Entraide, Annonces, Initiatives"
+title: "54940 - BELLEVILLE"
 description: "54940 - BELLEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

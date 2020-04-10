@@ -1,5 +1,5 @@
 ---
-title: "70100 - BROYE LES LOUPS ET VERFONTAINE | Entraide, Annonces, Initiatives"
+title: "70100 - BROYE LES LOUPS ET VERFONTAINE"
 description: "70100 - BROYE LES LOUPS ET VERFONTAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

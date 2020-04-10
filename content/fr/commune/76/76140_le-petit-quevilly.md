@@ -1,5 +1,5 @@
 ---
-title: "76140 - LE PETIT QUEVILLY | Entraide, Annonces, Initiatives"
+title: "76140 - LE PETIT QUEVILLY"
 description: "76140 - LE PETIT QUEVILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

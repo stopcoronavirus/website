@@ -1,5 +1,5 @@
 ---
-title: "35120 - ROZ LANDRIEUX | Entraide, Annonces, Initiatives"
+title: "35120 - ROZ LANDRIEUX"
 description: "35120 - ROZ LANDRIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

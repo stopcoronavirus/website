@@ -1,5 +1,5 @@
 ---
-title: "52290 - ECLARON BRAUCOURT STE LIVIERE | Entraide, Annonces, Initiatives"
+title: "52290 - ECLARON BRAUCOURT STE LIVIERE"
 description: "52290 - ECLARON BRAUCOURT STE LIVIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "58300 - TOURY LURCY | Entraide, Annonces, Initiatives"
+title: "58300 - TOURY LURCY"
 description: "58300 - TOURY LURCY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "24290 - LA CHAPELLE AUBAREIL | Entraide, Annonces, Initiatives"
+title: "24290 - LA CHAPELLE AUBAREIL"
 description: "24290 - LA CHAPELLE AUBAREIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

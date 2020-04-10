@@ -1,5 +1,5 @@
 ---
-title: "39600 - ST CYR MONTMALIN | Entraide, Annonces, Initiatives"
+title: "39600 - ST CYR MONTMALIN"
 description: "39600 - ST CYR MONTMALIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

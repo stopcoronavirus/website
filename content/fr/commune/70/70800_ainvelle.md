@@ -1,5 +1,5 @@
 ---
-title: "70800 - AINVELLE | Entraide, Annonces, Initiatives"
+title: "70800 - AINVELLE"
 description: "70800 - AINVELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "55110 - MILLY SUR BRADON | Entraide, Annonces, Initiatives"
+title: "55110 - MILLY SUR BRADON"
 description: "55110 - MILLY SUR BRADON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

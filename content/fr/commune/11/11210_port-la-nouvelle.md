@@ -1,5 +1,5 @@
 ---
-title: "11210 - PORT LA NOUVELLE | Entraide, Annonces, Initiatives"
+title: "11210 - PORT LA NOUVELLE"
 description: "11210 - PORT LA NOUVELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

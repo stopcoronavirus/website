@@ -1,5 +1,5 @@
 ---
-title: "42155 - ST JEAN ST MAURICE SUR LOIRE | Entraide, Annonces, Initiatives"
+title: "42155 - ST JEAN ST MAURICE SUR LOIRE"
 description: "42155 - ST JEAN ST MAURICE SUR LOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

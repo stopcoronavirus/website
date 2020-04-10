@@ -1,5 +1,5 @@
 ---
-title: "11160 - TRAUSSE | Entraide, Annonces, Initiatives"
+title: "11160 - TRAUSSE"
 description: "11160 - TRAUSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

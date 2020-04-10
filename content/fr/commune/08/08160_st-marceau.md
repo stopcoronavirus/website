@@ -1,5 +1,5 @@
 ---
-title: "08160 - ST MARCEAU | Entraide, Annonces, Initiatives"
+title: "08160 - ST MARCEAU"
 description: "08160 - ST MARCEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

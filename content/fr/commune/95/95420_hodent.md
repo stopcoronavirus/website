@@ -1,5 +1,5 @@
 ---
-title: "95420 - HODENT | Entraide, Annonces, Initiatives"
+title: "95420 - HODENT"
 description: "95420 - HODENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

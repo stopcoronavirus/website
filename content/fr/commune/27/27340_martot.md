@@ -1,5 +1,5 @@
 ---
-title: "27340 - MARTOT | Entraide, Annonces, Initiatives"
+title: "27340 - MARTOT"
 description: "27340 - MARTOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

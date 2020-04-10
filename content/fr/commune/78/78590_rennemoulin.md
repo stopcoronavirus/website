@@ -1,5 +1,5 @@
 ---
-title: "78590 - RENNEMOULIN | Entraide, Annonces, Initiatives"
+title: "78590 - RENNEMOULIN"
 description: "78590 - RENNEMOULIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

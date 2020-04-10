@@ -1,5 +1,5 @@
 ---
-title: "53640 - HARDANGES | Entraide, Annonces, Initiatives"
+title: "53640 - HARDANGES"
 description: "53640 - HARDANGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

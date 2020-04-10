@@ -1,5 +1,5 @@
 ---
-title: "54640 - BETTAINVILLERS | Entraide, Annonces, Initiatives"
+title: "54640 - BETTAINVILLERS"
 description: "54640 - BETTAINVILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "62124 - METZ EN COUTURE | Entraide, Annonces, Initiatives"
+title: "62124 - METZ EN COUTURE"
 description: "62124 - METZ EN COUTURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

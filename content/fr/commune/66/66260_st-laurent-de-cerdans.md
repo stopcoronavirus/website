@@ -1,5 +1,5 @@
 ---
-title: "66260 - ST LAURENT DE CERDANS | Entraide, Annonces, Initiatives"
+title: "66260 - ST LAURENT DE CERDANS"
 description: "66260 - ST LAURENT DE CERDANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "62350 - ROBECQ | Entraide, Annonces, Initiatives"
+title: "62350 - ROBECQ"
 description: "62350 - ROBECQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

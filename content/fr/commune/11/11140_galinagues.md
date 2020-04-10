@@ -1,5 +1,5 @@
 ---
-title: "11140 - GALINAGUES | Entraide, Annonces, Initiatives"
+title: "11140 - GALINAGUES"
 description: "11140 - GALINAGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

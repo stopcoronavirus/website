@@ -1,5 +1,5 @@
 ---
-title: "62150 - FRESNICOURT LE DOLMEN | Entraide, Annonces, Initiatives"
+title: "62150 - FRESNICOURT LE DOLMEN"
 description: "62150 - FRESNICOURT LE DOLMEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

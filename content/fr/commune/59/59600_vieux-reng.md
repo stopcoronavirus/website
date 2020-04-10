@@ -1,5 +1,5 @@
 ---
-title: "59600 - VIEUX RENG | Entraide, Annonces, Initiatives"
+title: "59600 - VIEUX RENG"
 description: "59600 - VIEUX RENG | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

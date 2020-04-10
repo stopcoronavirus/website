@@ -1,5 +1,5 @@
 ---
-title: "83570 - MONTFORT SUR ARGENS | Entraide, Annonces, Initiatives"
+title: "83570 - MONTFORT SUR ARGENS"
 description: "83570 - MONTFORT SUR ARGENS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

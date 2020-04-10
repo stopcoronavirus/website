@@ -1,5 +1,5 @@
 ---
-title: "92390 - VILLENEUVE LA GARENNE | Entraide, Annonces, Initiatives"
+title: "92390 - VILLENEUVE LA GARENNE"
 description: "92390 - VILLENEUVE LA GARENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

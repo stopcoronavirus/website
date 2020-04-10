@@ -1,5 +1,5 @@
 ---
-title: "38110 - LA BATIE MONTGASCON | Entraide, Annonces, Initiatives"
+title: "38110 - LA BATIE MONTGASCON"
 description: "38110 - LA BATIE MONTGASCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

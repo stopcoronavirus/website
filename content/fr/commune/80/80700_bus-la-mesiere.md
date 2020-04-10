@@ -1,5 +1,5 @@
 ---
-title: "80700 - BUS LA MESIERE | Entraide, Annonces, Initiatives"
+title: "80700 - BUS LA MESIERE"
 description: "80700 - BUS LA MESIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

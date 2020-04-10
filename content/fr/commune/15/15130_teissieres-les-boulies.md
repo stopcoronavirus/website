@@ -1,5 +1,5 @@
 ---
-title: "15130 - TEISSIERES LES BOULIES | Entraide, Annonces, Initiatives"
+title: "15130 - TEISSIERES LES BOULIES"
 description: "15130 - TEISSIERES LES BOULIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

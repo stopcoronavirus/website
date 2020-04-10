@@ -1,5 +1,5 @@
 ---
-title: "80290 - EQUENNES ERAMECOURT | Entraide, Annonces, Initiatives"
+title: "80290 - EQUENNES ERAMECOURT"
 description: "80290 - EQUENNES ERAMECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

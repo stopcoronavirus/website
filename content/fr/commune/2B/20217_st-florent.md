@@ -1,5 +1,5 @@
 ---
-title: "20217 - ST FLORENT | Entraide, Annonces, Initiatives"
+title: "20217 - ST FLORENT"
 description: "20217 - ST FLORENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

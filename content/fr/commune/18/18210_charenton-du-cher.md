@@ -1,5 +1,5 @@
 ---
-title: "18210 - CHARENTON DU CHER | Entraide, Annonces, Initiatives"
+title: "18210 - CHARENTON DU CHER"
 description: "18210 - CHARENTON DU CHER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

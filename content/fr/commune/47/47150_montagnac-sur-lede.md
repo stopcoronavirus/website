@@ -1,5 +1,5 @@
 ---
-title: "47150 - MONTAGNAC SUR LEDE | Entraide, Annonces, Initiatives"
+title: "47150 - MONTAGNAC SUR LEDE"
 description: "47150 - MONTAGNAC SUR LEDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

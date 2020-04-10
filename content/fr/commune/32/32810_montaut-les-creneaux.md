@@ -1,5 +1,5 @@
 ---
-title: "32810 - MONTAUT LES CRENEAUX | Entraide, Annonces, Initiatives"
+title: "32810 - MONTAUT LES CRENEAUX"
 description: "32810 - MONTAUT LES CRENEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "20235 - BISINCHI | Entraide, Annonces, Initiatives"
+title: "20235 - BISINCHI"
 description: "20235 - BISINCHI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

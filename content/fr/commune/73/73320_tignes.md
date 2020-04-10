@@ -1,5 +1,5 @@
 ---
-title: "73320 - TIGNES | Entraide, Annonces, Initiatives"
+title: "73320 - TIGNES"
 description: "73320 - TIGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "97480 - ST JOSEPH | Entraide, Annonces, Initiatives"
+title: "97480 - ST JOSEPH"
 description: "97480 - ST JOSEPH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "16250 - BECHERESSE | Entraide, Annonces, Initiatives"
+title: "16250 - BECHERESSE"
 description: "16250 - BECHERESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

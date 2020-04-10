@@ -1,5 +1,5 @@
 ---
-title: "53350 - BRAINS SUR LES MARCHES | Entraide, Annonces, Initiatives"
+title: "53350 - BRAINS SUR LES MARCHES"
 description: "53350 - BRAINS SUR LES MARCHES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

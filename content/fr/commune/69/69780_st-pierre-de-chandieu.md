@@ -1,5 +1,5 @@
 ---
-title: "69780 - ST PIERRE DE CHANDIEU | Entraide, Annonces, Initiatives"
+title: "69780 - ST PIERRE DE CHANDIEU"
 description: "69780 - ST PIERRE DE CHANDIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

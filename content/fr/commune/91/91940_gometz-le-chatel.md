@@ -1,5 +1,5 @@
 ---
-title: "91940 - GOMETZ LE CHATEL | Entraide, Annonces, Initiatives"
+title: "91940 - GOMETZ LE CHATEL"
 description: "91940 - GOMETZ LE CHATEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

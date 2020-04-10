@@ -1,5 +1,5 @@
 ---
-title: "36100 - ST GEORGES SUR ARNON | Entraide, Annonces, Initiatives"
+title: "36100 - ST GEORGES SUR ARNON"
 description: "36100 - ST GEORGES SUR ARNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "48170 - ARZENC DE RANDON | Entraide, Annonces, Initiatives"
+title: "48170 - ARZENC DE RANDON"
 description: "48170 - ARZENC DE RANDON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "37390 - CHANCEAUX SUR CHOISILLE | Entraide, Annonces, Initiatives"
+title: "37390 - CHANCEAUX SUR CHOISILLE"
 description: "37390 - CHANCEAUX SUR CHOISILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

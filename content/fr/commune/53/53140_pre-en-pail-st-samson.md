@@ -1,5 +1,5 @@
 ---
-title: "53140 - PRE EN PAIL ST SAMSON | Entraide, Annonces, Initiatives"
+title: "53140 - PRE EN PAIL ST SAMSON"
 description: "53140 - PRE EN PAIL ST SAMSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

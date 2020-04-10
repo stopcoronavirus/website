@@ -1,5 +1,5 @@
 ---
-title: "72350 - CHEVILLE | Entraide, Annonces, Initiatives"
+title: "72350 - CHEVILLE"
 description: "72350 - CHEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

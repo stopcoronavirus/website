@@ -1,5 +1,5 @@
 ---
-title: "84120 - PERTUIS | Entraide, Annonces, Initiatives"
+title: "84120 - PERTUIS"
 description: "84120 - PERTUIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

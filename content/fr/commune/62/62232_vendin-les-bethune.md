@@ -1,5 +1,5 @@
 ---
-title: "62232 - VENDIN LES BETHUNE | Entraide, Annonces, Initiatives"
+title: "62232 - VENDIN LES BETHUNE"
 description: "62232 - VENDIN LES BETHUNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

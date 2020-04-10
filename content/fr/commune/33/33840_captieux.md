@@ -1,5 +1,5 @@
 ---
-title: "33840 - CAPTIEUX | Entraide, Annonces, Initiatives"
+title: "33840 - CAPTIEUX"
 description: "33840 - CAPTIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

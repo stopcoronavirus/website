@@ -1,5 +1,5 @@
 ---
-title: "38190 - VILLARD BONNOT | Entraide, Annonces, Initiatives"
+title: "38190 - VILLARD BONNOT"
 description: "38190 - VILLARD BONNOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

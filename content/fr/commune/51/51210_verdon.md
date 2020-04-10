@@ -1,5 +1,5 @@
 ---
-title: "51210 - VERDON | Entraide, Annonces, Initiatives"
+title: "51210 - VERDON"
 description: "51210 - VERDON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

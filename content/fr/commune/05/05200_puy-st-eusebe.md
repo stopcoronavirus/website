@@ -1,5 +1,5 @@
 ---
-title: "05200 - PUY ST EUSEBE | Entraide, Annonces, Initiatives"
+title: "05200 - PUY ST EUSEBE"
 description: "05200 - PUY ST EUSEBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

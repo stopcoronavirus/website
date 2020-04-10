@@ -1,5 +1,5 @@
 ---
-title: "21590 - SANTENAY | Entraide, Annonces, Initiatives"
+title: "21590 - SANTENAY"
 description: "21590 - SANTENAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

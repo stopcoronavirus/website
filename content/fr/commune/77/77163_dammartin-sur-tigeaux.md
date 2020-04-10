@@ -1,5 +1,5 @@
 ---
-title: "77163 - DAMMARTIN SUR TIGEAUX | Entraide, Annonces, Initiatives"
+title: "77163 - DAMMARTIN SUR TIGEAUX"
 description: "77163 - DAMMARTIN SUR TIGEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

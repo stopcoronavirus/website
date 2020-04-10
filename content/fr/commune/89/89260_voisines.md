@@ -1,5 +1,5 @@
 ---
-title: "89260 - VOISINES | Entraide, Annonces, Initiatives"
+title: "89260 - VOISINES"
 description: "89260 - VOISINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

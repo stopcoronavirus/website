@@ -1,5 +1,5 @@
 ---
-title: "09220 - VAL DE SOS | Entraide, Annonces, Initiatives"
+title: "09220 - VAL DE SOS"
 description: "09220 - VAL DE SOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

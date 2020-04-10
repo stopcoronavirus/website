@@ -1,5 +1,5 @@
 ---
-title: "22640 - LA MALHOURE | Entraide, Annonces, Initiatives"
+title: "22640 - LA MALHOURE"
 description: "22640 - LA MALHOURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

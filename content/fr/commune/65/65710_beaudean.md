@@ -1,5 +1,5 @@
 ---
-title: "65710 - BEAUDEAN | Entraide, Annonces, Initiatives"
+title: "65710 - BEAUDEAN"
 description: "65710 - BEAUDEAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

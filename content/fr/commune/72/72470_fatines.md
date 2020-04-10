@@ -1,5 +1,5 @@
 ---
-title: "72470 - FATINES | Entraide, Annonces, Initiatives"
+title: "72470 - FATINES"
 description: "72470 - FATINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

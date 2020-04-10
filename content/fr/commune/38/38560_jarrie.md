@@ -1,5 +1,5 @@
 ---
-title: "38560 - JARRIE | Entraide, Annonces, Initiatives"
+title: "38560 - JARRIE"
 description: "38560 - JARRIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

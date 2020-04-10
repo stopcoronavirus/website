@@ -1,5 +1,5 @@
 ---
-title: "17780 - ST NAZAIRE SUR CHARENTE | Entraide, Annonces, Initiatives"
+title: "17780 - ST NAZAIRE SUR CHARENTE"
 description: "17780 - ST NAZAIRE SUR CHARENTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

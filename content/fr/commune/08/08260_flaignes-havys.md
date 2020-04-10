@@ -1,5 +1,5 @@
 ---
-title: "08260 - FLAIGNES HAVYS | Entraide, Annonces, Initiatives"
+title: "08260 - FLAIGNES HAVYS"
 description: "08260 - FLAIGNES HAVYS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

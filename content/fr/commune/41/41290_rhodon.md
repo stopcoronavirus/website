@@ -1,5 +1,5 @@
 ---
-title: "41290 - RHODON | Entraide, Annonces, Initiatives"
+title: "41290 - RHODON"
 description: "41290 - RHODON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

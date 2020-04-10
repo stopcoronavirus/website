@@ -1,5 +1,5 @@
 ---
-title: "17700 - BREUIL LA REORTE | Entraide, Annonces, Initiatives"
+title: "17700 - BREUIL LA REORTE"
 description: "17700 - BREUIL LA REORTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

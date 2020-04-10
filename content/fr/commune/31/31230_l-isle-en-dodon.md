@@ -1,5 +1,5 @@
 ---
-title: "31230 - L ISLE EN DODON | Entraide, Annonces, Initiatives"
+title: "31230 - L ISLE EN DODON"
 description: "31230 - L ISLE EN DODON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "79100 - ST CYR LA LANDE | Entraide, Annonces, Initiatives"
+title: "79100 - ST CYR LA LANDE"
 description: "79100 - ST CYR LA LANDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

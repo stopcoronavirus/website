@@ -1,5 +1,5 @@
 ---
-title: "24120 - LA DORNAC | Entraide, Annonces, Initiatives"
+title: "24120 - LA DORNAC"
 description: "24120 - LA DORNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

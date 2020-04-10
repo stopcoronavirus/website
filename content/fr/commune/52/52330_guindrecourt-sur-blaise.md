@@ -1,5 +1,5 @@
 ---
-title: "52330 - GUINDRECOURT SUR BLAISE | Entraide, Annonces, Initiatives"
+title: "52330 - GUINDRECOURT SUR BLAISE"
 description: "52330 - GUINDRECOURT SUR BLAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

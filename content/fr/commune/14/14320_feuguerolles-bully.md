@@ -1,5 +1,5 @@
 ---
-title: "14320 - FEUGUEROLLES BULLY | Entraide, Annonces, Initiatives"
+title: "14320 - FEUGUEROLLES BULLY"
 description: "14320 - FEUGUEROLLES BULLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

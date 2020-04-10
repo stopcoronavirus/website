@@ -1,5 +1,5 @@
 ---
-title: "38070 - ST QUENTIN FALLAVIER | Entraide, Annonces, Initiatives"
+title: "38070 - ST QUENTIN FALLAVIER"
 description: "38070 - ST QUENTIN FALLAVIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "62138 - VIOLAINES | Entraide, Annonces, Initiatives"
+title: "62138 - VIOLAINES"
 description: "62138 - VIOLAINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

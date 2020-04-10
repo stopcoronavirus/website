@@ -1,5 +1,5 @@
 ---
-title: "68360 - SOULTZ HAUT RHIN | Entraide, Annonces, Initiatives"
+title: "68360 - SOULTZ HAUT RHIN"
 description: "68360 - SOULTZ HAUT RHIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "08220 - BANOGNE RECOUVRANCE | Entraide, Annonces, Initiatives"
+title: "08220 - BANOGNE RECOUVRANCE"
 description: "08220 - BANOGNE RECOUVRANCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

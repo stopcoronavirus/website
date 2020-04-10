@@ -1,5 +1,5 @@
 ---
-title: "59630 - CAPPELLE BROUCK | Entraide, Annonces, Initiatives"
+title: "59630 - CAPPELLE BROUCK"
 description: "59630 - CAPPELLE BROUCK | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

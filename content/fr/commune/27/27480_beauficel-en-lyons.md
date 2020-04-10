@@ -1,5 +1,5 @@
 ---
-title: "27480 - BEAUFICEL EN LYONS | Entraide, Annonces, Initiatives"
+title: "27480 - BEAUFICEL EN LYONS"
 description: "27480 - BEAUFICEL EN LYONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "86350 - ST SECONDIN | Entraide, Annonces, Initiatives"
+title: "86350 - ST SECONDIN"
 description: "86350 - ST SECONDIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

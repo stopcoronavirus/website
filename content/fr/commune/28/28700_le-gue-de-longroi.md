@@ -1,5 +1,5 @@
 ---
-title: "28700 - LE GUE DE LONGROI | Entraide, Annonces, Initiatives"
+title: "28700 - LE GUE DE LONGROI"
 description: "28700 - LE GUE DE LONGROI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

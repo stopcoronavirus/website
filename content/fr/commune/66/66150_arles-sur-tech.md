@@ -1,5 +1,5 @@
 ---
-title: "66150 - ARLES SUR TECH | Entraide, Annonces, Initiatives"
+title: "66150 - ARLES SUR TECH"
 description: "66150 - ARLES SUR TECH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "54260 - FRESNOIS LA MONTAGNE | Entraide, Annonces, Initiatives"
+title: "54260 - FRESNOIS LA MONTAGNE"
 description: "54260 - FRESNOIS LA MONTAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

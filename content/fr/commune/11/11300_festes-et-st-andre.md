@@ -1,5 +1,5 @@
 ---
-title: "11300 - FESTES ET ST ANDRE | Entraide, Annonces, Initiatives"
+title: "11300 - FESTES ET ST ANDRE"
 description: "11300 - FESTES ET ST ANDRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "31490 - LEGUEVIN | Entraide, Annonces, Initiatives"
+title: "31490 - LEGUEVIN"
 description: "31490 - LEGUEVIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

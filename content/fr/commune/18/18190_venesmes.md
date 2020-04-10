@@ -1,5 +1,5 @@
 ---
-title: "18190 - VENESMES | Entraide, Annonces, Initiatives"
+title: "18190 - VENESMES"
 description: "18190 - VENESMES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "04870 - ST MICHEL L OBSERVATOIRE | Entraide, Annonces, Initiatives"
+title: "04870 - ST MICHEL L OBSERVATOIRE"
 description: "04870 - ST MICHEL L OBSERVATOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

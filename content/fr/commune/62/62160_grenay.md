@@ -1,5 +1,5 @@
 ---
-title: "62160 - GRENAY | Entraide, Annonces, Initiatives"
+title: "62160 - GRENAY"
 description: "62160 - GRENAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

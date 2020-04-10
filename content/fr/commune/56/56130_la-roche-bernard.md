@@ -1,5 +1,5 @@
 ---
-title: "56130 - LA ROCHE BERNARD | Entraide, Annonces, Initiatives"
+title: "56130 - LA ROCHE BERNARD"
 description: "56130 - LA ROCHE BERNARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

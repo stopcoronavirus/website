@@ -1,5 +1,5 @@
 ---
-title: "51300 - REIMS LA BRULEE | Entraide, Annonces, Initiatives"
+title: "51300 - REIMS LA BRULEE"
 description: "51300 - REIMS LA BRULEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

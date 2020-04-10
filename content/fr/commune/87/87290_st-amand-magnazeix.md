@@ -1,5 +1,5 @@
 ---
-title: "87290 - ST AMAND MAGNAZEIX | Entraide, Annonces, Initiatives"
+title: "87290 - ST AMAND MAGNAZEIX"
 description: "87290 - ST AMAND MAGNAZEIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

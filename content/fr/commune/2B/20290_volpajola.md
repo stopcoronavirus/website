@@ -1,5 +1,5 @@
 ---
-title: "20290 - VOLPAJOLA | Entraide, Annonces, Initiatives"
+title: "20290 - VOLPAJOLA"
 description: "20290 - VOLPAJOLA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

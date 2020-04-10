@@ -1,5 +1,5 @@
 ---
-title: "49220 - THORIGNE D ANJOU | Entraide, Annonces, Initiatives"
+title: "49220 - THORIGNE D ANJOU"
 description: "49220 - THORIGNE D ANJOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

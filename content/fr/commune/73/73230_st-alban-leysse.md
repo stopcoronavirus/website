@@ -1,5 +1,5 @@
 ---
-title: "73230 - ST ALBAN LEYSSE | Entraide, Annonces, Initiatives"
+title: "73230 - ST ALBAN LEYSSE"
 description: "73230 - ST ALBAN LEYSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "25580 - LAVANS VUILLAFANS | Entraide, Annonces, Initiatives"
+title: "25580 - LAVANS VUILLAFANS"
 description: "25580 - LAVANS VUILLAFANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

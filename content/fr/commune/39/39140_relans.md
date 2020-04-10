@@ -1,5 +1,5 @@
 ---
-title: "39140 - RELANS | Entraide, Annonces, Initiatives"
+title: "39140 - RELANS"
 description: "39140 - RELANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

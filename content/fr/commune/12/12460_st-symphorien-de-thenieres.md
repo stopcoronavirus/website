@@ -1,5 +1,5 @@
 ---
-title: "12460 - ST SYMPHORIEN DE THENIERES | Entraide, Annonces, Initiatives"
+title: "12460 - ST SYMPHORIEN DE THENIERES"
 description: "12460 - ST SYMPHORIEN DE THENIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

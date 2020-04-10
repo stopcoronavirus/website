@@ -1,5 +1,5 @@
 ---
-title: "95870 - BEZONS | Entraide, Annonces, Initiatives"
+title: "95870 - BEZONS"
 description: "95870 - BEZONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "83840 - LA MARTRE | Entraide, Annonces, Initiatives"
+title: "83840 - LA MARTRE"
 description: "83840 - LA MARTRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

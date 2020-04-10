@@ -1,5 +1,5 @@
 ---
-title: "42460 - LE CERGNE | Entraide, Annonces, Initiatives"
+title: "42460 - LE CERGNE"
 description: "42460 - LE CERGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

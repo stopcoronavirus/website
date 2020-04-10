@@ -1,5 +1,5 @@
 ---
-title: "62175 - BOIRY STE RICTRUDE | Entraide, Annonces, Initiatives"
+title: "62175 - BOIRY STE RICTRUDE"
 description: "62175 - BOIRY STE RICTRUDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

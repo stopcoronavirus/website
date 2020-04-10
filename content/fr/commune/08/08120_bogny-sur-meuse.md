@@ -1,5 +1,5 @@
 ---
-title: "08120 - BOGNY SUR MEUSE | Entraide, Annonces, Initiatives"
+title: "08120 - BOGNY SUR MEUSE"
 description: "08120 - BOGNY SUR MEUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

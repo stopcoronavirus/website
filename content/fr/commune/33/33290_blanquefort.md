@@ -1,5 +1,5 @@
 ---
-title: "33290 - BLANQUEFORT | Entraide, Annonces, Initiatives"
+title: "33290 - BLANQUEFORT"
 description: "33290 - BLANQUEFORT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "11220 - ST LAURENT DE LA CABRERISSE | Entraide, Annonces, Initiatives"
+title: "11220 - ST LAURENT DE LA CABRERISSE"
 description: "11220 - ST LAURENT DE LA CABRERISSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

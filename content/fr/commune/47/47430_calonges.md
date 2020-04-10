@@ -1,5 +1,5 @@
 ---
-title: "47430 - CALONGES | Entraide, Annonces, Initiatives"
+title: "47430 - CALONGES"
 description: "47430 - CALONGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

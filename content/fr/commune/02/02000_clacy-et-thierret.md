@@ -1,5 +1,5 @@
 ---
-title: "02000 - CLACY ET THIERRET | Entraide, Annonces, Initiatives"
+title: "02000 - CLACY ET THIERRET"
 description: "02000 - CLACY ET THIERRET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

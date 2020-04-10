@@ -1,5 +1,5 @@
 ---
-title: "92600 - ASNIERES SUR SEINE | Entraide, Annonces, Initiatives"
+title: "92600 - ASNIERES SUR SEINE"
 description: "92600 - ASNIERES SUR SEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "54610 - ABAUCOURT | Entraide, Annonces, Initiatives"
+title: "54610 - ABAUCOURT"
 description: "54610 - ABAUCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

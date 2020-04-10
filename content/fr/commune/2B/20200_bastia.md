@@ -1,5 +1,5 @@
 ---
-title: "20200 - BASTIA | Entraide, Annonces, Initiatives"
+title: "20200 - BASTIA"
 description: "20200 - BASTIA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

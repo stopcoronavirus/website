@@ -1,5 +1,5 @@
 ---
-title: "30750 - CAUSSE BEGON | Entraide, Annonces, Initiatives"
+title: "30750 - CAUSSE BEGON"
 description: "30750 - CAUSSE BEGON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "26770 - ST PANTALEON LES VIGNES | Entraide, Annonces, Initiatives"
+title: "26770 - ST PANTALEON LES VIGNES"
 description: "26770 - ST PANTALEON LES VIGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

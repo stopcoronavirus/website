@@ -1,5 +1,5 @@
 ---
-title: "02300 - SINCENY | Entraide, Annonces, Initiatives"
+title: "02300 - SINCENY"
 description: "02300 - SINCENY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

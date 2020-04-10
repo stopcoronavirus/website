@@ -1,5 +1,5 @@
 ---
-title: "36370 - ST HILAIRE SUR BENAIZE | Entraide, Annonces, Initiatives"
+title: "36370 - ST HILAIRE SUR BENAIZE"
 description: "36370 - ST HILAIRE SUR BENAIZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

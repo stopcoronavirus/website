@@ -1,5 +1,5 @@
 ---
-title: "27820 - CHENNEBRUN | Entraide, Annonces, Initiatives"
+title: "27820 - CHENNEBRUN"
 description: "27820 - CHENNEBRUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "05340 - VALLOUISE PELVOUX | Entraide, Annonces, Initiatives"
+title: "05340 - VALLOUISE PELVOUX"
 description: "05340 - VALLOUISE PELVOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

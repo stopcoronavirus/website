@@ -1,5 +1,5 @@
 ---
-title: "95420 - LA CHAPELLE EN VEXIN | Entraide, Annonces, Initiatives"
+title: "95420 - LA CHAPELLE EN VEXIN"
 description: "95420 - LA CHAPELLE EN VEXIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

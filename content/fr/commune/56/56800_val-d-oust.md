@@ -1,5 +1,5 @@
 ---
-title: "56800 - VAL D OUST | Entraide, Annonces, Initiatives"
+title: "56800 - VAL D OUST"
 description: "56800 - VAL D OUST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

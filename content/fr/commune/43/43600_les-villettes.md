@@ -1,5 +1,5 @@
 ---
-title: "43600 - LES VILLETTES | Entraide, Annonces, Initiatives"
+title: "43600 - LES VILLETTES"
 description: "43600 - LES VILLETTES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

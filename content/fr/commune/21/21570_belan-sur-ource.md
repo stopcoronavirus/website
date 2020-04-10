@@ -1,5 +1,5 @@
 ---
-title: "21570 - BELAN SUR OURCE | Entraide, Annonces, Initiatives"
+title: "21570 - BELAN SUR OURCE"
 description: "21570 - BELAN SUR OURCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

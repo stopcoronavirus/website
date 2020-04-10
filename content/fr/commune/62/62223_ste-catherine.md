@@ -1,5 +1,5 @@
 ---
-title: "62223 - STE CATHERINE | Entraide, Annonces, Initiatives"
+title: "62223 - STE CATHERINE"
 description: "62223 - STE CATHERINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

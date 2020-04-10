@@ -1,5 +1,5 @@
 ---
-title: "77140 - MONTCOURT FROMONVILLE | Entraide, Annonces, Initiatives"
+title: "77140 - MONTCOURT FROMONVILLE"
 description: "77140 - MONTCOURT FROMONVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

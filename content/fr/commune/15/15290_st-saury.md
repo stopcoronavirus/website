@@ -1,5 +1,5 @@
 ---
-title: "15290 - ST SAURY | Entraide, Annonces, Initiatives"
+title: "15290 - ST SAURY"
 description: "15290 - ST SAURY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

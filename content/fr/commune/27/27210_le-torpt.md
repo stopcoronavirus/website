@@ -1,5 +1,5 @@
 ---
-title: "27210 - LE TORPT | Entraide, Annonces, Initiatives"
+title: "27210 - LE TORPT"
 description: "27210 - LE TORPT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

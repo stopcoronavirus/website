@@ -1,5 +1,5 @@
 ---
-title: "67112 - BREUSCHWICKERSHEIM | Entraide, Annonces, Initiatives"
+title: "67112 - BREUSCHWICKERSHEIM"
 description: "67112 - BREUSCHWICKERSHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

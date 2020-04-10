@@ -1,5 +1,5 @@
 ---
-title: "73410 - ST OURS | Entraide, Annonces, Initiatives"
+title: "73410 - ST OURS"
 description: "73410 - ST OURS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

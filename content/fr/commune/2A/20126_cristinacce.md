@@ -1,5 +1,5 @@
 ---
-title: "20126 - CRISTINACCE | Entraide, Annonces, Initiatives"
+title: "20126 - CRISTINACCE"
 description: "20126 - CRISTINACCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

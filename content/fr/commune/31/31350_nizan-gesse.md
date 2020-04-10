@@ -1,5 +1,5 @@
 ---
-title: "31350 - NIZAN GESSE | Entraide, Annonces, Initiatives"
+title: "31350 - NIZAN GESSE"
 description: "31350 - NIZAN GESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

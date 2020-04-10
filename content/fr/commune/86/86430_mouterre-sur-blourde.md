@@ -1,5 +1,5 @@
 ---
-title: "86430 - MOUTERRE SUR BLOURDE | Entraide, Annonces, Initiatives"
+title: "86430 - MOUTERRE SUR BLOURDE"
 description: "86430 - MOUTERRE SUR BLOURDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

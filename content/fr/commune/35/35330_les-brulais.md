@@ -1,5 +1,5 @@
 ---
-title: "35330 - LES BRULAIS | Entraide, Annonces, Initiatives"
+title: "35330 - LES BRULAIS"
 description: "35330 - LES BRULAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

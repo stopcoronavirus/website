@@ -1,5 +1,5 @@
 ---
-title: "52140 - RANGECOURT | Entraide, Annonces, Initiatives"
+title: "52140 - RANGECOURT"
 description: "52140 - RANGECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

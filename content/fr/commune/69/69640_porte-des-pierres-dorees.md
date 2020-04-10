@@ -1,5 +1,5 @@
 ---
-title: "69640 - PORTE DES PIERRES DOREES | Entraide, Annonces, Initiatives"
+title: "69640 - PORTE DES PIERRES DOREES"
 description: "69640 - PORTE DES PIERRES DOREES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

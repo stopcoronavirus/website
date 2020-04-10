@@ -1,5 +1,5 @@
 ---
-title: "33470 - LE TEICH | Entraide, Annonces, Initiatives"
+title: "33470 - LE TEICH"
 description: "33470 - LE TEICH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

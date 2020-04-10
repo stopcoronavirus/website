@@ -1,5 +1,5 @@
 ---
-title: "68210 - FULLEREN | Entraide, Annonces, Initiatives"
+title: "68210 - FULLEREN"
 description: "68210 - FULLEREN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

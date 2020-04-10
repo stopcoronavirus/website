@@ -1,5 +1,5 @@
 ---
-title: "39360 - CHASSAL MOLINGES | Entraide, Annonces, Initiatives"
+title: "39360 - CHASSAL MOLINGES"
 description: "39360 - CHASSAL MOLINGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

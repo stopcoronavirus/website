@@ -1,5 +1,5 @@
 ---
-title: "62470 - CALONNE RICOUART | Entraide, Annonces, Initiatives"
+title: "62470 - CALONNE RICOUART"
 description: "62470 - CALONNE RICOUART | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

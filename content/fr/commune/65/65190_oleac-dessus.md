@@ -1,5 +1,5 @@
 ---
-title: "65190 - OLEAC DESSUS | Entraide, Annonces, Initiatives"
+title: "65190 - OLEAC DESSUS"
 description: "65190 - OLEAC DESSUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "88520 - LA CROIX AUX MINES | Entraide, Annonces, Initiatives"
+title: "88520 - LA CROIX AUX MINES"
 description: "88520 - LA CROIX AUX MINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

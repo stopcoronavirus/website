@@ -1,5 +1,5 @@
 ---
-title: "09400 - TARASCON SUR ARIEGE | Entraide, Annonces, Initiatives"
+title: "09400 - TARASCON SUR ARIEGE"
 description: "09400 - TARASCON SUR ARIEGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

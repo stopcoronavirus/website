@@ -1,5 +1,5 @@
 ---
-title: "23250 - LA POUGE | Entraide, Annonces, Initiatives"
+title: "23250 - LA POUGE"
 description: "23250 - LA POUGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

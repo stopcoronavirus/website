@@ -1,5 +1,5 @@
 ---
-title: "65230 - BARTHE | Entraide, Annonces, Initiatives"
+title: "65230 - BARTHE"
 description: "65230 - BARTHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

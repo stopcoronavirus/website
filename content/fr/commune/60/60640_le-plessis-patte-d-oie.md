@@ -1,5 +1,5 @@
 ---
-title: "60640 - LE PLESSIS PATTE D OIE | Entraide, Annonces, Initiatives"
+title: "60640 - LE PLESSIS PATTE D OIE"
 description: "60640 - LE PLESSIS PATTE D OIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

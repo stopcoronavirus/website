@@ -1,5 +1,5 @@
 ---
-title: "60800 - SERY MAGNEVAL | Entraide, Annonces, Initiatives"
+title: "60800 - SERY MAGNEVAL"
 description: "60800 - SERY MAGNEVAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

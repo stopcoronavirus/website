@@ -1,5 +1,5 @@
 ---
-title: "28330 - ST BOMER | Entraide, Annonces, Initiatives"
+title: "28330 - ST BOMER"
 description: "28330 - ST BOMER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

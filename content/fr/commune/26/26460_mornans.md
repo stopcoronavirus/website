@@ -1,5 +1,5 @@
 ---
-title: "26460 - MORNANS | Entraide, Annonces, Initiatives"
+title: "26460 - MORNANS"
 description: "26460 - MORNANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

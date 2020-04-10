@@ -1,5 +1,5 @@
 ---
-title: "36150 - ST FLORENTIN | Entraide, Annonces, Initiatives"
+title: "36150 - ST FLORENTIN"
 description: "36150 - ST FLORENTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "27230 - ST GERMAIN LA CAMPAGNE | Entraide, Annonces, Initiatives"
+title: "27230 - ST GERMAIN LA CAMPAGNE"
 description: "27230 - ST GERMAIN LA CAMPAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

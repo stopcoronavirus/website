@@ -1,5 +1,5 @@
 ---
-title: "49370 - ST CLEMENT DE LA PLACE | Entraide, Annonces, Initiatives"
+title: "49370 - ST CLEMENT DE LA PLACE"
 description: "49370 - ST CLEMENT DE LA PLACE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

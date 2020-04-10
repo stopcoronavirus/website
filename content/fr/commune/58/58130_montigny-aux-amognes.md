@@ -1,5 +1,5 @@
 ---
-title: "58130 - MONTIGNY AUX AMOGNES | Entraide, Annonces, Initiatives"
+title: "58130 - MONTIGNY AUX AMOGNES"
 description: "58130 - MONTIGNY AUX AMOGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

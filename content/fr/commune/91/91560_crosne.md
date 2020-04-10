@@ -1,5 +1,5 @@
 ---
-title: "91560 - CROSNE | Entraide, Annonces, Initiatives"
+title: "91560 - CROSNE"
 description: "91560 - CROSNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

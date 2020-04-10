@@ -1,5 +1,5 @@
 ---
-title: "31270 - CUGNAUX | Entraide, Annonces, Initiatives"
+title: "31270 - CUGNAUX"
 description: "31270 - CUGNAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

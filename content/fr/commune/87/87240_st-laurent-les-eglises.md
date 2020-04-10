@@ -1,5 +1,5 @@
 ---
-title: "87240 - ST LAURENT LES EGLISES | Entraide, Annonces, Initiatives"
+title: "87240 - ST LAURENT LES EGLISES"
 description: "87240 - ST LAURENT LES EGLISES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

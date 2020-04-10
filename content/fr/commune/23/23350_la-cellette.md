@@ -1,5 +1,5 @@
 ---
-title: "23350 - LA CELLETTE | Entraide, Annonces, Initiatives"
+title: "23350 - LA CELLETTE"
 description: "23350 - LA CELLETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "35270 - ST LEGER DES PRES | Entraide, Annonces, Initiatives"
+title: "35270 - ST LEGER DES PRES"
 description: "35270 - ST LEGER DES PRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "44600 - ST NAZAIRE | Entraide, Annonces, Initiatives"
+title: "44600 - ST NAZAIRE"
 description: "44600 - ST NAZAIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

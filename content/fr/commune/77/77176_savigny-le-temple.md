@@ -1,5 +1,5 @@
 ---
-title: "77176 - SAVIGNY LE TEMPLE | Entraide, Annonces, Initiatives"
+title: "77176 - SAVIGNY LE TEMPLE"
 description: "77176 - SAVIGNY LE TEMPLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

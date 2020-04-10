@@ -1,5 +1,5 @@
 ---
-title: "31140 - ST LOUP CAMMAS | Entraide, Annonces, Initiatives"
+title: "31140 - ST LOUP CAMMAS"
 description: "31140 - ST LOUP CAMMAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

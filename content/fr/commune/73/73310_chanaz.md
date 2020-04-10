@@ -1,5 +1,5 @@
 ---
-title: "73310 - CHANAZ | Entraide, Annonces, Initiatives"
+title: "73310 - CHANAZ"
 description: "73310 - CHANAZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

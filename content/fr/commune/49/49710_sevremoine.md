@@ -1,5 +1,5 @@
 ---
-title: "49710 - SEVREMOINE | Entraide, Annonces, Initiatives"
+title: "49710 - SEVREMOINE"
 description: "49710 - SEVREMOINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

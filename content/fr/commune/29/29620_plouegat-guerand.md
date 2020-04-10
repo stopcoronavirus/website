@@ -1,5 +1,5 @@
 ---
-title: "29620 - PLOUEGAT GUERAND | Entraide, Annonces, Initiatives"
+title: "29620 - PLOUEGAT GUERAND"
 description: "29620 - PLOUEGAT GUERAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

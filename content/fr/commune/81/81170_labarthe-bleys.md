@@ -1,5 +1,5 @@
 ---
-title: "81170 - LABARTHE BLEYS | Entraide, Annonces, Initiatives"
+title: "81170 - LABARTHE BLEYS"
 description: "81170 - LABARTHE BLEYS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

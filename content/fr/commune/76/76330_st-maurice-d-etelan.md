@@ -1,5 +1,5 @@
 ---
-title: "76330 - ST MAURICE D ETELAN | Entraide, Annonces, Initiatives"
+title: "76330 - ST MAURICE D ETELAN"
 description: "76330 - ST MAURICE D ETELAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

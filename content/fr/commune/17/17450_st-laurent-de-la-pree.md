@@ -1,5 +1,5 @@
 ---
-title: "17450 - ST LAURENT DE LA PREE | Entraide, Annonces, Initiatives"
+title: "17450 - ST LAURENT DE LA PREE"
 description: "17450 - ST LAURENT DE LA PREE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

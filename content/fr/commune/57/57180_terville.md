@@ -1,5 +1,5 @@
 ---
-title: "57180 - TERVILLE | Entraide, Annonces, Initiatives"
+title: "57180 - TERVILLE"
 description: "57180 - TERVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

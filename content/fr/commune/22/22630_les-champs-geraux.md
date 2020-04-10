@@ -1,5 +1,5 @@
 ---
-title: "22630 - LES CHAMPS GERAUX | Entraide, Annonces, Initiatives"
+title: "22630 - LES CHAMPS GERAUX"
 description: "22630 - LES CHAMPS GERAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

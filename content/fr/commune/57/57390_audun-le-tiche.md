@@ -1,5 +1,5 @@
 ---
-title: "57390 - AUDUN LE TICHE | Entraide, Annonces, Initiatives"
+title: "57390 - AUDUN LE TICHE"
 description: "57390 - AUDUN LE TICHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

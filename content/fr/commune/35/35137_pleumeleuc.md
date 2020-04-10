@@ -1,5 +1,5 @@
 ---
-title: "35137 - PLEUMELEUC | Entraide, Annonces, Initiatives"
+title: "35137 - PLEUMELEUC"
 description: "35137 - PLEUMELEUC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

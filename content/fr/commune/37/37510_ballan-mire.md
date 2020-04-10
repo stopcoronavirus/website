@@ -1,5 +1,5 @@
 ---
-title: "37510 - BALLAN MIRE | Entraide, Annonces, Initiatives"
+title: "37510 - BALLAN MIRE"
 description: "37510 - BALLAN MIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

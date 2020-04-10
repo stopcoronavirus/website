@@ -1,5 +1,5 @@
 ---
-title: "61270 - ECORCEI | Entraide, Annonces, Initiatives"
+title: "61270 - ECORCEI"
 description: "61270 - ECORCEI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

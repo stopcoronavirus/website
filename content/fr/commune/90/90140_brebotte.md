@@ -1,5 +1,5 @@
 ---
-title: "90140 - BREBOTTE | Entraide, Annonces, Initiatives"
+title: "90140 - BREBOTTE"
 description: "90140 - BREBOTTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

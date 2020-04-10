@@ -1,5 +1,5 @@
 ---
-title: "55260 - BAUDREMONT | Entraide, Annonces, Initiatives"
+title: "55260 - BAUDREMONT"
 description: "55260 - BAUDREMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

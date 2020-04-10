@@ -1,5 +1,5 @@
 ---
-title: "67140 - MITTELBERGHEIM | Entraide, Annonces, Initiatives"
+title: "67140 - MITTELBERGHEIM"
 description: "67140 - MITTELBERGHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

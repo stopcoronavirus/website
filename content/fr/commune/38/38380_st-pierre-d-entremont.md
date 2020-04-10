@@ -1,5 +1,5 @@
 ---
-title: "38380 - ST PIERRE D ENTREMONT | Entraide, Annonces, Initiatives"
+title: "38380 - ST PIERRE D ENTREMONT"
 description: "38380 - ST PIERRE D ENTREMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

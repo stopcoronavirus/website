@@ -1,5 +1,5 @@
 ---
-title: "50370 - LA CHAPELLE UREE | Entraide, Annonces, Initiatives"
+title: "50370 - LA CHAPELLE UREE"
 description: "50370 - LA CHAPELLE UREE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

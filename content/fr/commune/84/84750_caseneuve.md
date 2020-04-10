@@ -1,5 +1,5 @@
 ---
-title: "84750 - CASENEUVE | Entraide, Annonces, Initiatives"
+title: "84750 - CASENEUVE"
 description: "84750 - CASENEUVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

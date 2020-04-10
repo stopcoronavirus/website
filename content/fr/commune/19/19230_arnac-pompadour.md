@@ -1,5 +1,5 @@
 ---
-title: "19230 - ARNAC POMPADOUR | Entraide, Annonces, Initiatives"
+title: "19230 - ARNAC POMPADOUR"
 description: "19230 - ARNAC POMPADOUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "97340 - GRAND SANTI | Entraide, Annonces, Initiatives"
+title: "97340 - GRAND SANTI"
 description: "97340 - GRAND SANTI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

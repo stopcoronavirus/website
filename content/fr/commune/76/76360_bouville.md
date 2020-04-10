@@ -1,5 +1,5 @@
 ---
-title: "76360 - BOUVILLE | Entraide, Annonces, Initiatives"
+title: "76360 - BOUVILLE"
 description: "76360 - BOUVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

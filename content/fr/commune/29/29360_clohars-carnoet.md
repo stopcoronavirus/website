@@ -1,5 +1,5 @@
 ---
-title: "29360 - CLOHARS CARNOET | Entraide, Annonces, Initiatives"
+title: "29360 - CLOHARS CARNOET"
 description: "29360 - CLOHARS CARNOET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

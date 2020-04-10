@@ -1,5 +1,5 @@
 ---
-title: "23700 - LIOUX LES MONGES | Entraide, Annonces, Initiatives"
+title: "23700 - LIOUX LES MONGES"
 description: "23700 - LIOUX LES MONGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

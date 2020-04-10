@@ -1,5 +1,5 @@
 ---
-title: "07510 - STE EULALIE | Entraide, Annonces, Initiatives"
+title: "07510 - STE EULALIE"
 description: "07510 - STE EULALIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

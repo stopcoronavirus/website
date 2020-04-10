@@ -1,5 +1,5 @@
 ---
-title: "81110 - ARFONS | Entraide, Annonces, Initiatives"
+title: "81110 - ARFONS"
 description: "81110 - ARFONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

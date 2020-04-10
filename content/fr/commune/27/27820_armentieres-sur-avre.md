@@ -1,5 +1,5 @@
 ---
-title: "27820 - ARMENTIERES SUR AVRE | Entraide, Annonces, Initiatives"
+title: "27820 - ARMENTIERES SUR AVRE"
 description: "27820 - ARMENTIERES SUR AVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

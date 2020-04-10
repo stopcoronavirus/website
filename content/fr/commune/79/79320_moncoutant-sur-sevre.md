@@ -1,5 +1,5 @@
 ---
-title: "79320 - MONCOUTANT SUR SEVRE | Entraide, Annonces, Initiatives"
+title: "79320 - MONCOUTANT SUR SEVRE"
 description: "79320 - MONCOUTANT SUR SEVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

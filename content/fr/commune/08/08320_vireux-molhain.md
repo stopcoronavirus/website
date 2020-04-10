@@ -1,5 +1,5 @@
 ---
-title: "08320 - VIREUX MOLHAIN | Entraide, Annonces, Initiatives"
+title: "08320 - VIREUX MOLHAIN"
 description: "08320 - VIREUX MOLHAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

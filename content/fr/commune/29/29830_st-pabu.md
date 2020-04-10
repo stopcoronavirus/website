@@ -1,5 +1,5 @@
 ---
-title: "29830 - ST PABU | Entraide, Annonces, Initiatives"
+title: "29830 - ST PABU"
 description: "29830 - ST PABU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "34700 - POUJOLS | Entraide, Annonces, Initiatives"
+title: "34700 - POUJOLS"
 description: "34700 - POUJOLS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

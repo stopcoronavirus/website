@@ -1,5 +1,5 @@
 ---
-title: "59218 - POIX DU NORD | Entraide, Annonces, Initiatives"
+title: "59218 - POIX DU NORD"
 description: "59218 - POIX DU NORD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

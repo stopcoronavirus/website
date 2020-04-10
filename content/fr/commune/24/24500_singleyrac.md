@@ -1,5 +1,5 @@
 ---
-title: "24500 - SINGLEYRAC | Entraide, Annonces, Initiatives"
+title: "24500 - SINGLEYRAC"
 description: "24500 - SINGLEYRAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

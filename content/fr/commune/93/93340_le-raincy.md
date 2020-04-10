@@ -1,5 +1,5 @@
 ---
-title: "93340 - LE RAINCY | Entraide, Annonces, Initiatives"
+title: "93340 - LE RAINCY"
 description: "93340 - LE RAINCY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

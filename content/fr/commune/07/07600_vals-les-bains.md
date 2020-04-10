@@ -1,5 +1,5 @@
 ---
-title: "07600 - VALS LES BAINS | Entraide, Annonces, Initiatives"
+title: "07600 - VALS LES BAINS"
 description: "07600 - VALS LES BAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

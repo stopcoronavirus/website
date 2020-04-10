@@ -1,5 +1,5 @@
 ---
-title: "10400 - PONT SUR SEINE | Entraide, Annonces, Initiatives"
+title: "10400 - PONT SUR SEINE"
 description: "10400 - PONT SUR SEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

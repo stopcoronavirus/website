@@ -1,5 +1,5 @@
 ---
-title: "80200 - DOINGT | Entraide, Annonces, Initiatives"
+title: "80200 - DOINGT"
 description: "80200 - DOINGT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

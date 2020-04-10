@@ -1,5 +1,5 @@
 ---
-title: "73290 - LA MOTTE SERVOLEX | Entraide, Annonces, Initiatives"
+title: "73290 - LA MOTTE SERVOLEX"
 description: "73290 - LA MOTTE SERVOLEX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

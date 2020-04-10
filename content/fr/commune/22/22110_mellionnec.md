@@ -1,5 +1,5 @@
 ---
-title: "22110 - MELLIONNEC | Entraide, Annonces, Initiatives"
+title: "22110 - MELLIONNEC"
 description: "22110 - MELLIONNEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

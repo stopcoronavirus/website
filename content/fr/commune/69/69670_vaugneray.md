@@ -1,5 +1,5 @@
 ---
-title: "69670 - VAUGNERAY | Entraide, Annonces, Initiatives"
+title: "69670 - VAUGNERAY"
 description: "69670 - VAUGNERAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

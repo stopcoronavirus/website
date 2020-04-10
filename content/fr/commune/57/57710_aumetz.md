@@ -1,5 +1,5 @@
 ---
-title: "57710 - AUMETZ | Entraide, Annonces, Initiatives"
+title: "57710 - AUMETZ"
 description: "57710 - AUMETZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

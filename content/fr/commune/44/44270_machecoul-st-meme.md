@@ -1,5 +1,5 @@
 ---
-title: "44270 - MACHECOUL ST MEME | Entraide, Annonces, Initiatives"
+title: "44270 - MACHECOUL ST MEME"
 description: "44270 - MACHECOUL ST MEME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

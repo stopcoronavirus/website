@@ -1,5 +1,5 @@
 ---
-title: "53240 - LA BACONNIERE | Entraide, Annonces, Initiatives"
+title: "53240 - LA BACONNIERE"
 description: "53240 - LA BACONNIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

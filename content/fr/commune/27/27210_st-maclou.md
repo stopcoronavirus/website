@@ -1,5 +1,5 @@
 ---
-title: "27210 - ST MACLOU | Entraide, Annonces, Initiatives"
+title: "27210 - ST MACLOU"
 description: "27210 - ST MACLOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

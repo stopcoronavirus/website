@@ -1,5 +1,5 @@
 ---
-title: "85540 - MOUTIERS LES MAUXFAITS | Entraide, Annonces, Initiatives"
+title: "85540 - MOUTIERS LES MAUXFAITS"
 description: "85540 - MOUTIERS LES MAUXFAITS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

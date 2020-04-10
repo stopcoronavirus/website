@@ -1,5 +1,5 @@
 ---
-title: "88160 - LE THILLOT | Entraide, Annonces, Initiatives"
+title: "88160 - LE THILLOT"
 description: "88160 - LE THILLOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

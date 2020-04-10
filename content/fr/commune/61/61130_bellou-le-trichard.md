@@ -1,5 +1,5 @@
 ---
-title: "61130 - BELLOU LE TRICHARD | Entraide, Annonces, Initiatives"
+title: "61130 - BELLOU LE TRICHARD"
 description: "61130 - BELLOU LE TRICHARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "73610 - ST ALBAN DE MONTBEL | Entraide, Annonces, Initiatives"
+title: "73610 - ST ALBAN DE MONTBEL"
 description: "73610 - ST ALBAN DE MONTBEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "30270 - ST JEAN DU GARD | Entraide, Annonces, Initiatives"
+title: "30270 - ST JEAN DU GARD"
 description: "30270 - ST JEAN DU GARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

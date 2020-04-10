@@ -1,5 +1,5 @@
 ---
-title: "66130 - BOULETERNERE | Entraide, Annonces, Initiatives"
+title: "66130 - BOULETERNERE"
 description: "66130 - BOULETERNERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

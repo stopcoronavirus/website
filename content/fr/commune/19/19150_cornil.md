@@ -1,5 +1,5 @@
 ---
-title: "19150 - CORNIL | Entraide, Annonces, Initiatives"
+title: "19150 - CORNIL"
 description: "19150 - CORNIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

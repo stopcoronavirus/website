@@ -1,5 +1,5 @@
 ---
-title: "17400 - ASNIERES LA GIRAUD | Entraide, Annonces, Initiatives"
+title: "17400 - ASNIERES LA GIRAUD"
 description: "17400 - ASNIERES LA GIRAUD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

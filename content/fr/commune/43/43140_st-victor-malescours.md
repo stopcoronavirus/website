@@ -1,5 +1,5 @@
 ---
-title: "43140 - ST VICTOR MALESCOURS | Entraide, Annonces, Initiatives"
+title: "43140 - ST VICTOR MALESCOURS"
 description: "43140 - ST VICTOR MALESCOURS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12500 - CASTELNAU DE MANDAILLES | Entraide, Annonces, Initiatives"
+title: "12500 - CASTELNAU DE MANDAILLES"
 description: "12500 - CASTELNAU DE MANDAILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

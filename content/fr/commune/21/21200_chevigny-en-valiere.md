@@ -1,5 +1,5 @@
 ---
-title: "21200 - CHEVIGNY EN VALIERE | Entraide, Annonces, Initiatives"
+title: "21200 - CHEVIGNY EN VALIERE"
 description: "21200 - CHEVIGNY EN VALIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

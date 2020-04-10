@@ -1,5 +1,5 @@
 ---
-title: "77470 - VILLEMAREUIL | Entraide, Annonces, Initiatives"
+title: "77470 - VILLEMAREUIL"
 description: "77470 - VILLEMAREUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

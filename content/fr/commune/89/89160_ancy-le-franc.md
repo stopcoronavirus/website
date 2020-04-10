@@ -1,5 +1,5 @@
 ---
-title: "89160 - ANCY LE FRANC | Entraide, Annonces, Initiatives"
+title: "89160 - ANCY LE FRANC"
 description: "89160 - ANCY LE FRANC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

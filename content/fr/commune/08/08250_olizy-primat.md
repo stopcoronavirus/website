@@ -1,5 +1,5 @@
 ---
-title: "08250 - OLIZY PRIMAT | Entraide, Annonces, Initiatives"
+title: "08250 - OLIZY PRIMAT"
 description: "08250 - OLIZY PRIMAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "81380 - LESCURE D ALBIGEOIS | Entraide, Annonces, Initiatives"
+title: "81380 - LESCURE D ALBIGEOIS"
 description: "81380 - LESCURE D ALBIGEOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

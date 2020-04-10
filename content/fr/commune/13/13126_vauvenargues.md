@@ -1,5 +1,5 @@
 ---
-title: "13126 - VAUVENARGUES | Entraide, Annonces, Initiatives"
+title: "13126 - VAUVENARGUES"
 description: "13126 - VAUVENARGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

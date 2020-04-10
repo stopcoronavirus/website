@@ -1,5 +1,5 @@
 ---
-title: "78720 - LA CELLE LES BORDES | Entraide, Annonces, Initiatives"
+title: "78720 - LA CELLE LES BORDES"
 description: "78720 - LA CELLE LES BORDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

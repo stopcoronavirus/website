@@ -1,5 +1,5 @@
 ---
-title: "93160 - NOISY LE GRAND | Entraide, Annonces, Initiatives"
+title: "93160 - NOISY LE GRAND"
 description: "93160 - NOISY LE GRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

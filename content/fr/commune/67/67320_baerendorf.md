@@ -1,5 +1,5 @@
 ---
-title: "67320 - BAERENDORF | Entraide, Annonces, Initiatives"
+title: "67320 - BAERENDORF"
 description: "67320 - BAERENDORF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "33240 - LUGON ET L ILE DU CARNAY | Entraide, Annonces, Initiatives"
+title: "33240 - LUGON ET L ILE DU CARNAY"
 description: "33240 - LUGON ET L ILE DU CARNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

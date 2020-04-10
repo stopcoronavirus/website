@@ -1,5 +1,5 @@
 ---
-title: "97439 - STE ROSE | Entraide, Annonces, Initiatives"
+title: "97439 - STE ROSE"
 description: "97439 - STE ROSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

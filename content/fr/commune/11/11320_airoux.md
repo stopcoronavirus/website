@@ -1,5 +1,5 @@
 ---
-title: "11320 - AIROUX | Entraide, Annonces, Initiatives"
+title: "11320 - AIROUX"
 description: "11320 - AIROUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

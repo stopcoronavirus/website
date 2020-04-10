@@ -1,5 +1,5 @@
 ---
-title: "31430 - ST ARAILLE | Entraide, Annonces, Initiatives"
+title: "31430 - ST ARAILLE"
 description: "31430 - ST ARAILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

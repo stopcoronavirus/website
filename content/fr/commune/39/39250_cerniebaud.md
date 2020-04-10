@@ -1,5 +1,5 @@
 ---
-title: "39250 - CERNIEBAUD | Entraide, Annonces, Initiatives"
+title: "39250 - CERNIEBAUD"
 description: "39250 - CERNIEBAUD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

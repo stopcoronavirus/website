@@ -1,5 +1,5 @@
 ---
-title: "34680 - ST GEORGES D ORQUES | Entraide, Annonces, Initiatives"
+title: "34680 - ST GEORGES D ORQUES"
 description: "34680 - ST GEORGES D ORQUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

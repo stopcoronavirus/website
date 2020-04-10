@@ -1,5 +1,5 @@
 ---
-title: "55500 - ST AUBIN SUR AIRE | Entraide, Annonces, Initiatives"
+title: "55500 - ST AUBIN SUR AIRE"
 description: "55500 - ST AUBIN SUR AIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "67720 - WEYERSHEIM | Entraide, Annonces, Initiatives"
+title: "67720 - WEYERSHEIM"
 description: "67720 - WEYERSHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "80430 - LE QUESNE | Entraide, Annonces, Initiatives"
+title: "80430 - LE QUESNE"
 description: "80430 - LE QUESNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

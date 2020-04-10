@@ -1,5 +1,5 @@
 ---
-title: "05110 - LARDIER ET VALENCA | Entraide, Annonces, Initiatives"
+title: "05110 - LARDIER ET VALENCA"
 description: "05110 - LARDIER ET VALENCA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "38970 - STE LUCE | Entraide, Annonces, Initiatives"
+title: "38970 - STE LUCE"
 description: "38970 - STE LUCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "74350 - VOVRAY EN BORNES | Entraide, Annonces, Initiatives"
+title: "74350 - VOVRAY EN BORNES"
 description: "74350 - VOVRAY EN BORNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

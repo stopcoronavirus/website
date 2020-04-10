@@ -1,5 +1,5 @@
 ---
-title: "11590 - SALLELES D AUDE | Entraide, Annonces, Initiatives"
+title: "11590 - SALLELES D AUDE"
 description: "11590 - SALLELES D AUDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "08130 - SAULCES CHAMPENOISES | Entraide, Annonces, Initiatives"
+title: "08130 - SAULCES CHAMPENOISES"
 description: "08130 - SAULCES CHAMPENOISES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

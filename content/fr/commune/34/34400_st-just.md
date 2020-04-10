@@ -1,5 +1,5 @@
 ---
-title: "34400 - ST JUST | Entraide, Annonces, Initiatives"
+title: "34400 - ST JUST"
 description: "34400 - ST JUST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

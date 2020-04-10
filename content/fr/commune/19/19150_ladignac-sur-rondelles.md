@@ -1,5 +1,5 @@
 ---
-title: "19150 - LADIGNAC SUR RONDELLES | Entraide, Annonces, Initiatives"
+title: "19150 - LADIGNAC SUR RONDELLES"
 description: "19150 - LADIGNAC SUR RONDELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "02220 - QUINCY SOUS LE MONT | Entraide, Annonces, Initiatives"
+title: "02220 - QUINCY SOUS LE MONT"
 description: "02220 - QUINCY SOUS LE MONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

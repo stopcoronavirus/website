@@ -1,5 +1,5 @@
 ---
-title: "59123 - BRAY DUNES | Entraide, Annonces, Initiatives"
+title: "59123 - BRAY DUNES"
 description: "59123 - BRAY DUNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

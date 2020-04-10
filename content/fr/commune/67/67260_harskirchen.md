@@ -1,5 +1,5 @@
 ---
-title: "67260 - HARSKIRCHEN | Entraide, Annonces, Initiatives"
+title: "67260 - HARSKIRCHEN"
 description: "67260 - HARSKIRCHEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

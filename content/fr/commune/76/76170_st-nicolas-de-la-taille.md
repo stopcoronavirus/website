@@ -1,5 +1,5 @@
 ---
-title: "76170 - ST NICOLAS DE LA TAILLE | Entraide, Annonces, Initiatives"
+title: "76170 - ST NICOLAS DE LA TAILLE"
 description: "76170 - ST NICOLAS DE LA TAILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

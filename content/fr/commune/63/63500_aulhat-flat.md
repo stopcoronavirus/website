@@ -1,5 +1,5 @@
 ---
-title: "63500 - AULHAT FLAT | Entraide, Annonces, Initiatives"
+title: "63500 - AULHAT FLAT"
 description: "63500 - AULHAT FLAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

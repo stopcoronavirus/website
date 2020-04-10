@@ -1,5 +1,5 @@
 ---
-title: "04360 - MOUSTIERS STE MARIE | Entraide, Annonces, Initiatives"
+title: "04360 - MOUSTIERS STE MARIE"
 description: "04360 - MOUSTIERS STE MARIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "30740 - LE CAILAR | Entraide, Annonces, Initiatives"
+title: "30740 - LE CAILAR"
 description: "30740 - LE CAILAR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

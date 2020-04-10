@@ -1,5 +1,5 @@
 ---
-title: "62224 - EQUIHEN PLAGE | Entraide, Annonces, Initiatives"
+title: "62224 - EQUIHEN PLAGE"
 description: "62224 - EQUIHEN PLAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "94170 - LE PERREUX SUR MARNE | Entraide, Annonces, Initiatives"
+title: "94170 - LE PERREUX SUR MARNE"
 description: "94170 - LE PERREUX SUR MARNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

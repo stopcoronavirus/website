@@ -1,5 +1,5 @@
 ---
-title: "73600 - MOUTIERS | Entraide, Annonces, Initiatives"
+title: "73600 - MOUTIERS"
 description: "73600 - MOUTIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

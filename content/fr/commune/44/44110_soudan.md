@@ -1,5 +1,5 @@
 ---
-title: "44110 - SOUDAN | Entraide, Annonces, Initiatives"
+title: "44110 - SOUDAN"
 description: "44110 - SOUDAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "14800 - BONNEVILLE SUR TOUQUES | Entraide, Annonces, Initiatives"
+title: "14800 - BONNEVILLE SUR TOUQUES"
 description: "14800 - BONNEVILLE SUR TOUQUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "77990 - LE MESNIL AMELOT | Entraide, Annonces, Initiatives"
+title: "77990 - LE MESNIL AMELOT"
 description: "77990 - LE MESNIL AMELOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

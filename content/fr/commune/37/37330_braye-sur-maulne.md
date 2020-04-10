@@ -1,5 +1,5 @@
 ---
-title: "37330 - BRAYE SUR MAULNE | Entraide, Annonces, Initiatives"
+title: "37330 - BRAYE SUR MAULNE"
 description: "37330 - BRAYE SUR MAULNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

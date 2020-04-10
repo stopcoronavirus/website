@@ -1,5 +1,5 @@
 ---
-title: "53220 - ST MARS SUR LA FUTAIE | Entraide, Annonces, Initiatives"
+title: "53220 - ST MARS SUR LA FUTAIE"
 description: "53220 - ST MARS SUR LA FUTAIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

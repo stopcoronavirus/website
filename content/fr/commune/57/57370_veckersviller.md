@@ -1,5 +1,5 @@
 ---
-title: "57370 - VECKERSVILLER | Entraide, Annonces, Initiatives"
+title: "57370 - VECKERSVILLER"
 description: "57370 - VECKERSVILLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

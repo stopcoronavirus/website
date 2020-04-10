@@ -1,5 +1,5 @@
 ---
-title: "67160 - OBERHOFFEN LES WISSEMBOURG | Entraide, Annonces, Initiatives"
+title: "67160 - OBERHOFFEN LES WISSEMBOURG"
 description: "67160 - OBERHOFFEN LES WISSEMBOURG | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

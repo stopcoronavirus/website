@@ -1,5 +1,5 @@
 ---
-title: "59710 - ENNEVELIN | Entraide, Annonces, Initiatives"
+title: "59710 - ENNEVELIN"
 description: "59710 - ENNEVELIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

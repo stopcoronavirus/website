@@ -1,5 +1,5 @@
 ---
-title: "24680 - GARDONNE | Entraide, Annonces, Initiatives"
+title: "24680 - GARDONNE"
 description: "24680 - GARDONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

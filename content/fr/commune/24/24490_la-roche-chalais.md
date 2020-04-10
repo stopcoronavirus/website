@@ -1,5 +1,5 @@
 ---
-title: "24490 - LA ROCHE CHALAIS | Entraide, Annonces, Initiatives"
+title: "24490 - LA ROCHE CHALAIS"
 description: "24490 - LA ROCHE CHALAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

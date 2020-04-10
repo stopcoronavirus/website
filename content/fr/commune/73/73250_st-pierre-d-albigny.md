@@ -1,5 +1,5 @@
 ---
-title: "73250 - ST PIERRE D ALBIGNY | Entraide, Annonces, Initiatives"
+title: "73250 - ST PIERRE D ALBIGNY"
 description: "73250 - ST PIERRE D ALBIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

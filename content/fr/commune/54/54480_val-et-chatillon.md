@@ -1,5 +1,5 @@
 ---
-title: "54480 - VAL ET CHATILLON | Entraide, Annonces, Initiatives"
+title: "54480 - VAL ET CHATILLON"
 description: "54480 - VAL ET CHATILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "19240 - ST VIANCE | Entraide, Annonces, Initiatives"
+title: "19240 - ST VIANCE"
 description: "19240 - ST VIANCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

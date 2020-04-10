@@ -1,5 +1,5 @@
 ---
-title: "72600 - ST LONGIS | Entraide, Annonces, Initiatives"
+title: "72600 - ST LONGIS"
 description: "72600 - ST LONGIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

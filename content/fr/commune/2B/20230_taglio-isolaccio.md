@@ -1,5 +1,5 @@
 ---
-title: "20230 - TAGLIO ISOLACCIO | Entraide, Annonces, Initiatives"
+title: "20230 - TAGLIO ISOLACCIO"
 description: "20230 - TAGLIO ISOLACCIO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

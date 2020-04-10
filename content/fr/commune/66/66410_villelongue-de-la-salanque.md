@@ -1,5 +1,5 @@
 ---
-title: "66410 - VILLELONGUE DE LA SALANQUE | Entraide, Annonces, Initiatives"
+title: "66410 - VILLELONGUE DE LA SALANQUE"
 description: "66410 - VILLELONGUE DE LA SALANQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

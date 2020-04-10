@@ -1,5 +1,5 @@
 ---
-title: "16110 - MOULINS SUR TARDOIRE | Entraide, Annonces, Initiatives"
+title: "16110 - MOULINS SUR TARDOIRE"
 description: "16110 - MOULINS SUR TARDOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

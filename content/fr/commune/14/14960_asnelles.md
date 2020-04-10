@@ -1,5 +1,5 @@
 ---
-title: "14960 - ASNELLES | Entraide, Annonces, Initiatives"
+title: "14960 - ASNELLES"
 description: "14960 - ASNELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

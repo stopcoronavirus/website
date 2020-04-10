@@ -1,5 +1,5 @@
 ---
-title: "16210 - ROUFFIAC | Entraide, Annonces, Initiatives"
+title: "16210 - ROUFFIAC"
 description: "16210 - ROUFFIAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

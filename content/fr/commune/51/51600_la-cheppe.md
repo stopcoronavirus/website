@@ -1,5 +1,5 @@
 ---
-title: "51600 - LA CHEPPE | Entraide, Annonces, Initiatives"
+title: "51600 - LA CHEPPE"
 description: "51600 - LA CHEPPE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

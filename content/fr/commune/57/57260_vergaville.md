@@ -1,5 +1,5 @@
 ---
-title: "57260 - VERGAVILLE | Entraide, Annonces, Initiatives"
+title: "57260 - VERGAVILLE"
 description: "57260 - VERGAVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

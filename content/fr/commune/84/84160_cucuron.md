@@ -1,5 +1,5 @@
 ---
-title: "84160 - CUCURON | Entraide, Annonces, Initiatives"
+title: "84160 - CUCURON"
 description: "84160 - CUCURON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

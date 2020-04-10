@@ -1,5 +1,5 @@
 ---
-title: "14540 - SOLIERS | Entraide, Annonces, Initiatives"
+title: "14540 - SOLIERS"
 description: "14540 - SOLIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

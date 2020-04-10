@@ -1,5 +1,5 @@
 ---
-title: "51150 - PLIVOT | Entraide, Annonces, Initiatives"
+title: "51150 - PLIVOT"
 description: "51150 - PLIVOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

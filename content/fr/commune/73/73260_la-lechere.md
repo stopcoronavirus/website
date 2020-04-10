@@ -1,5 +1,5 @@
 ---
-title: "73260 - LA LECHERE | Entraide, Annonces, Initiatives"
+title: "73260 - LA LECHERE"
 description: "73260 - LA LECHERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

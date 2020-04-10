@@ -1,5 +1,5 @@
 ---
-title: "12120 - SALMIECH | Entraide, Annonces, Initiatives"
+title: "12120 - SALMIECH"
 description: "12120 - SALMIECH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

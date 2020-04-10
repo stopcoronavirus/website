@@ -1,5 +1,5 @@
 ---
-title: "34270 - LE TRIADOU | Entraide, Annonces, Initiatives"
+title: "34270 - LE TRIADOU"
 description: "34270 - LE TRIADOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

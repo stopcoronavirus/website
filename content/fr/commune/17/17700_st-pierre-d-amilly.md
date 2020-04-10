@@ -1,5 +1,5 @@
 ---
-title: "17700 - ST PIERRE D AMILLY | Entraide, Annonces, Initiatives"
+title: "17700 - ST PIERRE D AMILLY"
 description: "17700 - ST PIERRE D AMILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

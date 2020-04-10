@@ -1,5 +1,5 @@
 ---
-title: "01400 - L ABERGEMENT CLEMENCIAT | Entraide, Annonces, Initiatives"
+title: "01400 - L ABERGEMENT CLEMENCIAT"
 description: "01400 - L ABERGEMENT CLEMENCIAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

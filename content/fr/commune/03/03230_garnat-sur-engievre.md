@@ -1,5 +1,5 @@
 ---
-title: "03230 - GARNAT SUR ENGIEVRE | Entraide, Annonces, Initiatives"
+title: "03230 - GARNAT SUR ENGIEVRE"
 description: "03230 - GARNAT SUR ENGIEVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

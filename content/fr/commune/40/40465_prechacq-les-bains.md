@@ -1,5 +1,5 @@
 ---
-title: "40465 - PRECHACQ LES BAINS | Entraide, Annonces, Initiatives"
+title: "40465 - PRECHACQ LES BAINS"
 description: "40465 - PRECHACQ LES BAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "62130 - MONTS EN TERNOIS | Entraide, Annonces, Initiatives"
+title: "62130 - MONTS EN TERNOIS"
 description: "62130 - MONTS EN TERNOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

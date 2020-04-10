@@ -1,5 +1,5 @@
 ---
-title: "81090 - VALDURENQUE | Entraide, Annonces, Initiatives"
+title: "81090 - VALDURENQUE"
 description: "81090 - VALDURENQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

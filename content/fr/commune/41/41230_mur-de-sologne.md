@@ -1,5 +1,5 @@
 ---
-title: "41230 - MUR DE SOLOGNE | Entraide, Annonces, Initiatives"
+title: "41230 - MUR DE SOLOGNE"
 description: "41230 - MUR DE SOLOGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

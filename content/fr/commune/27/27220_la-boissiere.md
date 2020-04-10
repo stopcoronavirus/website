@@ -1,5 +1,5 @@
 ---
-title: "27220 - LA BOISSIERE | Entraide, Annonces, Initiatives"
+title: "27220 - LA BOISSIERE"
 description: "27220 - LA BOISSIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

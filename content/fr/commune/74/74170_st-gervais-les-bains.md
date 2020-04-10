@@ -1,5 +1,5 @@
 ---
-title: "74170 - ST GERVAIS LES BAINS | Entraide, Annonces, Initiatives"
+title: "74170 - ST GERVAIS LES BAINS"
 description: "74170 - ST GERVAIS LES BAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

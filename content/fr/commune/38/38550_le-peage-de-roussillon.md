@@ -1,5 +1,5 @@
 ---
-title: "38550 - LE PEAGE DE ROUSSILLON | Entraide, Annonces, Initiatives"
+title: "38550 - LE PEAGE DE ROUSSILLON"
 description: "38550 - LE PEAGE DE ROUSSILLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

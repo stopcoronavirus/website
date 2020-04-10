@@ -1,5 +1,5 @@
 ---
-title: "44530 - SEVERAC | Entraide, Annonces, Initiatives"
+title: "44530 - SEVERAC"
 description: "44530 - SEVERAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

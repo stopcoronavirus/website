@@ -1,5 +1,5 @@
 ---
-title: "38120 - ST EGREVE | Entraide, Annonces, Initiatives"
+title: "38120 - ST EGREVE"
 description: "38120 - ST EGREVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

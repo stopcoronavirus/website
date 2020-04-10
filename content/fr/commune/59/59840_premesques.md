@@ -1,5 +1,5 @@
 ---
-title: "59840 - PREMESQUES | Entraide, Annonces, Initiatives"
+title: "59840 - PREMESQUES"
 description: "59840 - PREMESQUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

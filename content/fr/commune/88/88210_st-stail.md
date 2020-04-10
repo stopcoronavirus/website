@@ -1,5 +1,5 @@
 ---
-title: "88210 - ST STAIL | Entraide, Annonces, Initiatives"
+title: "88210 - ST STAIL"
 description: "88210 - ST STAIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

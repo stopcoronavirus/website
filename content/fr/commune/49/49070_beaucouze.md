@@ -1,5 +1,5 @@
 ---
-title: "49070 - BEAUCOUZE | Entraide, Annonces, Initiatives"
+title: "49070 - BEAUCOUZE"
 description: "49070 - BEAUCOUZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

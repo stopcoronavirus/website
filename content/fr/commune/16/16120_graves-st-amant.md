@@ -1,5 +1,5 @@
 ---
-title: "16120 - GRAVES ST AMANT | Entraide, Annonces, Initiatives"
+title: "16120 - GRAVES ST AMANT"
 description: "16120 - GRAVES ST AMANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

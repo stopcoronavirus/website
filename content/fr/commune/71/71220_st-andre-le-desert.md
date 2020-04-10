@@ -1,5 +1,5 @@
 ---
-title: "71220 - ST ANDRE LE DESERT | Entraide, Annonces, Initiatives"
+title: "71220 - ST ANDRE LE DESERT"
 description: "71220 - ST ANDRE LE DESERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

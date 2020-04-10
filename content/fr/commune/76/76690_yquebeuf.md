@@ -1,5 +1,5 @@
 ---
-title: "76690 - YQUEBEUF | Entraide, Annonces, Initiatives"
+title: "76690 - YQUEBEUF"
 description: "76690 - YQUEBEUF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

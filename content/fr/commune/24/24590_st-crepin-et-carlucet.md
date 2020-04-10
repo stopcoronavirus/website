@@ -1,5 +1,5 @@
 ---
-title: "24590 - ST CREPIN ET CARLUCET | Entraide, Annonces, Initiatives"
+title: "24590 - ST CREPIN ET CARLUCET"
 description: "24590 - ST CREPIN ET CARLUCET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

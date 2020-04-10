@@ -1,5 +1,5 @@
 ---
-title: "74310 - SERVOZ | Entraide, Annonces, Initiatives"
+title: "74310 - SERVOZ"
 description: "74310 - SERVOZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

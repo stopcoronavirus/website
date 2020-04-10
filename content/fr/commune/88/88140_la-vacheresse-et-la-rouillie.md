@@ -1,5 +1,5 @@
 ---
-title: "88140 - LA VACHERESSE ET LA ROUILLIE | Entraide, Annonces, Initiatives"
+title: "88140 - LA VACHERESSE ET LA ROUILLIE"
 description: "88140 - LA VACHERESSE ET LA ROUILLIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

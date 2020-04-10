@@ -1,5 +1,5 @@
 ---
-title: "62116 - ADINFER | Entraide, Annonces, Initiatives"
+title: "62116 - ADINFER"
 description: "62116 - ADINFER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

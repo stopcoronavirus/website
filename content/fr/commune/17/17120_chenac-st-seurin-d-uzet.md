@@ -1,5 +1,5 @@
 ---
-title: "17120 - CHENAC ST SEURIN D UZET | Entraide, Annonces, Initiatives"
+title: "17120 - CHENAC ST SEURIN D UZET"
 description: "17120 - CHENAC ST SEURIN D UZET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

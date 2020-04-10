@@ -1,5 +1,5 @@
 ---
-title: "44390 - PETIT MARS | Entraide, Annonces, Initiatives"
+title: "44390 - PETIT MARS"
 description: "44390 - PETIT MARS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

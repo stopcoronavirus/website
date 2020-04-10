@@ -1,5 +1,5 @@
 ---
-title: "12220 - ROUSSENNAC | Entraide, Annonces, Initiatives"
+title: "12220 - ROUSSENNAC"
 description: "12220 - ROUSSENNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

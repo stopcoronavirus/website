@@ -1,5 +1,5 @@
 ---
-title: "50460 - LA HAGUE | Entraide, Annonces, Initiatives"
+title: "50460 - LA HAGUE"
 description: "50460 - LA HAGUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

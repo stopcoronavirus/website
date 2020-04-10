@@ -1,5 +1,5 @@
 ---
-title: "58120 - ST HILAIRE EN MORVAN | Entraide, Annonces, Initiatives"
+title: "58120 - ST HILAIRE EN MORVAN"
 description: "58120 - ST HILAIRE EN MORVAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

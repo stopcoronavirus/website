@@ -1,5 +1,5 @@
 ---
-title: "08310 - ALINCOURT | Entraide, Annonces, Initiatives"
+title: "08310 - ALINCOURT"
 description: "08310 - ALINCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

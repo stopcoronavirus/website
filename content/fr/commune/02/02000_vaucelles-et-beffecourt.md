@@ -1,5 +1,5 @@
 ---
-title: "02000 - VAUCELLES ET BEFFECOURT | Entraide, Annonces, Initiatives"
+title: "02000 - VAUCELLES ET BEFFECOURT"
 description: "02000 - VAUCELLES ET BEFFECOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

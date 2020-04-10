@@ -1,5 +1,5 @@
 ---
-title: "32260 - MONFERRAN PLAVES | Entraide, Annonces, Initiatives"
+title: "32260 - MONFERRAN PLAVES"
 description: "32260 - MONFERRAN PLAVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

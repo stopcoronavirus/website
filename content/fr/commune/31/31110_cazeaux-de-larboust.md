@@ -1,5 +1,5 @@
 ---
-title: "31110 - CAZEAUX DE LARBOUST | Entraide, Annonces, Initiatives"
+title: "31110 - CAZEAUX DE LARBOUST"
 description: "31110 - CAZEAUX DE LARBOUST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

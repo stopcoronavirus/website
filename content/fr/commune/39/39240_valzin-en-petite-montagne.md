@@ -1,5 +1,5 @@
 ---
-title: "39240 - VALZIN EN PETITE MONTAGNE | Entraide, Annonces, Initiatives"
+title: "39240 - VALZIN EN PETITE MONTAGNE"
 description: "39240 - VALZIN EN PETITE MONTAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

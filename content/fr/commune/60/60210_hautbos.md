@@ -1,5 +1,5 @@
 ---
-title: "60210 - HAUTBOS | Entraide, Annonces, Initiatives"
+title: "60210 - HAUTBOS"
 description: "60210 - HAUTBOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

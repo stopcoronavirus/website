@@ -1,5 +1,5 @@
 ---
-title: "37340 - SAVIGNE SUR LATHAN | Entraide, Annonces, Initiatives"
+title: "37340 - SAVIGNE SUR LATHAN"
 description: "37340 - SAVIGNE SUR LATHAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

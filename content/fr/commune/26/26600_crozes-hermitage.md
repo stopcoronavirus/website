@@ -1,5 +1,5 @@
 ---
-title: "26600 - CROZES HERMITAGE | Entraide, Annonces, Initiatives"
+title: "26600 - CROZES HERMITAGE"
 description: "26600 - CROZES HERMITAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

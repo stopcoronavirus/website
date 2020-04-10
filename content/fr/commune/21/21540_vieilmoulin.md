@@ -1,5 +1,5 @@
 ---
-title: "21540 - VIEILMOULIN | Entraide, Annonces, Initiatives"
+title: "21540 - VIEILMOULIN"
 description: "21540 - VIEILMOULIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

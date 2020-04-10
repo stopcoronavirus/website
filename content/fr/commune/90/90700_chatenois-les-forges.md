@@ -1,5 +1,5 @@
 ---
-title: "90700 - CHATENOIS LES FORGES | Entraide, Annonces, Initiatives"
+title: "90700 - CHATENOIS LES FORGES"
 description: "90700 - CHATENOIS LES FORGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

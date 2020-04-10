@@ -1,5 +1,5 @@
 ---
-title: "95240 - CORMEILLES EN PARISIS | Entraide, Annonces, Initiatives"
+title: "95240 - CORMEILLES EN PARISIS"
 description: "95240 - CORMEILLES EN PARISIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

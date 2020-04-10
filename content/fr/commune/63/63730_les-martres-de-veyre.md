@@ -1,5 +1,5 @@
 ---
-title: "63730 - LES MARTRES DE VEYRE | Entraide, Annonces, Initiatives"
+title: "63730 - LES MARTRES DE VEYRE"
 description: "63730 - LES MARTRES DE VEYRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

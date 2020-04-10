@@ -1,5 +1,5 @@
 ---
-title: "60220 - ROMESCAMPS | Entraide, Annonces, Initiatives"
+title: "60220 - ROMESCAMPS"
 description: "60220 - ROMESCAMPS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

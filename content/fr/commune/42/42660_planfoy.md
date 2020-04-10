@@ -1,5 +1,5 @@
 ---
-title: "42660 - PLANFOY | Entraide, Annonces, Initiatives"
+title: "42660 - PLANFOY"
 description: "42660 - PLANFOY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

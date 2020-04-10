@@ -1,5 +1,5 @@
 ---
-title: "85540 - LE CHAMP ST PERE | Entraide, Annonces, Initiatives"
+title: "85540 - LE CHAMP ST PERE"
 description: "85540 - LE CHAMP ST PERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

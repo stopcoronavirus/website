@@ -1,5 +1,5 @@
 ---
-title: "35150 - CORPS NUDS | Entraide, Annonces, Initiatives"
+title: "35150 - CORPS NUDS"
 description: "35150 - CORPS NUDS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

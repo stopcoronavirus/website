@@ -1,5 +1,5 @@
 ---
-title: "08130 - RILLY SUR AISNE | Entraide, Annonces, Initiatives"
+title: "08130 - RILLY SUR AISNE"
 description: "08130 - RILLY SUR AISNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

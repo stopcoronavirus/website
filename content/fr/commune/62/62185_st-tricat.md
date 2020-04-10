@@ -1,5 +1,5 @@
 ---
-title: "62185 - ST TRICAT | Entraide, Annonces, Initiatives"
+title: "62185 - ST TRICAT"
 description: "62185 - ST TRICAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

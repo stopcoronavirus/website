@@ -1,5 +1,5 @@
 ---
-title: "57320 - CHEMERY LES DEUX | Entraide, Annonces, Initiatives"
+title: "57320 - CHEMERY LES DEUX"
 description: "57320 - CHEMERY LES DEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "86140 - SCORBE CLAIRVAUX | Entraide, Annonces, Initiatives"
+title: "86140 - SCORBE CLAIRVAUX"
 description: "86140 - SCORBE CLAIRVAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

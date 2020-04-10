@@ -1,5 +1,5 @@
 ---
-title: "58420 - GRENOIS | Entraide, Annonces, Initiatives"
+title: "58420 - GRENOIS"
 description: "58420 - GRENOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

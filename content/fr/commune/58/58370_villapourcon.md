@@ -1,5 +1,5 @@
 ---
-title: "58370 - VILLAPOURCON | Entraide, Annonces, Initiatives"
+title: "58370 - VILLAPOURCON"
 description: "58370 - VILLAPOURCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

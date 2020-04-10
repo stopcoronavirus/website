@@ -1,5 +1,5 @@
 ---
-title: "14690 - TREPREL | Entraide, Annonces, Initiatives"
+title: "14690 - TREPREL"
 description: "14690 - TREPREL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

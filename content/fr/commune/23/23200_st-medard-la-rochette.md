@@ -1,5 +1,5 @@
 ---
-title: "23200 - ST MEDARD LA ROCHETTE | Entraide, Annonces, Initiatives"
+title: "23200 - ST MEDARD LA ROCHETTE"
 description: "23200 - ST MEDARD LA ROCHETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

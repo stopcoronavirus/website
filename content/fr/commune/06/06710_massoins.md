@@ -1,5 +1,5 @@
 ---
-title: "06710 - MASSOINS | Entraide, Annonces, Initiatives"
+title: "06710 - MASSOINS"
 description: "06710 - MASSOINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

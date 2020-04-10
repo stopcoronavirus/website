@@ -1,5 +1,5 @@
 ---
-title: "86260 - ST PIERRE DE MAILLE | Entraide, Annonces, Initiatives"
+title: "86260 - ST PIERRE DE MAILLE"
 description: "86260 - ST PIERRE DE MAILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "79800 - PRAILLES LA COUARDE | Entraide, Annonces, Initiatives"
+title: "79800 - PRAILLES LA COUARDE"
 description: "79800 - PRAILLES LA COUARDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

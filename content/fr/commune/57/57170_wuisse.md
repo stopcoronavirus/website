@@ -1,5 +1,5 @@
 ---
-title: "57170 - WUISSE | Entraide, Annonces, Initiatives"
+title: "57170 - WUISSE"
 description: "57170 - WUISSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

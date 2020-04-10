@@ -1,5 +1,5 @@
 ---
-title: "01800 - VILLIEU LOYES MOLLON | Entraide, Annonces, Initiatives"
+title: "01800 - VILLIEU LOYES MOLLON"
 description: "01800 - VILLIEU LOYES MOLLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

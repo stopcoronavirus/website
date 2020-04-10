@@ -1,5 +1,5 @@
 ---
-title: "27780 - GARENNES SUR EURE | Entraide, Annonces, Initiatives"
+title: "27780 - GARENNES SUR EURE"
 description: "27780 - GARENNES SUR EURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

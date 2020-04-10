@@ -1,5 +1,5 @@
 ---
-title: "59554 - NEUVILLE ST REMY | Entraide, Annonces, Initiatives"
+title: "59554 - NEUVILLE ST REMY"
 description: "59554 - NEUVILLE ST REMY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

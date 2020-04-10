@@ -1,5 +1,5 @@
 ---
-title: "27680 - TROUVILLE LA HAULE | Entraide, Annonces, Initiatives"
+title: "27680 - TROUVILLE LA HAULE"
 description: "27680 - TROUVILLE LA HAULE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "26240 - FAY LE CLOS | Entraide, Annonces, Initiatives"
+title: "26240 - FAY LE CLOS"
 description: "26240 - FAY LE CLOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "91490 - MOIGNY SUR ECOLE | Entraide, Annonces, Initiatives"
+title: "91490 - MOIGNY SUR ECOLE"
 description: "91490 - MOIGNY SUR ECOLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

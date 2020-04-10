@@ -1,5 +1,5 @@
 ---
-title: "42140 - MARCENOD | Entraide, Annonces, Initiatives"
+title: "42140 - MARCENOD"
 description: "42140 - MARCENOD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12360 - TAURIAC DE CAMARES | Entraide, Annonces, Initiatives"
+title: "12360 - TAURIAC DE CAMARES"
 description: "12360 - TAURIAC DE CAMARES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

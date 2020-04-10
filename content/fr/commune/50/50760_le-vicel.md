@@ -1,5 +1,5 @@
 ---
-title: "50760 - LE VICEL | Entraide, Annonces, Initiatives"
+title: "50760 - LE VICEL"
 description: "50760 - LE VICEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

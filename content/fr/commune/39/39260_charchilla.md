@@ -1,5 +1,5 @@
 ---
-title: "39260 - CHARCHILLA | Entraide, Annonces, Initiatives"
+title: "39260 - CHARCHILLA"
 description: "39260 - CHARCHILLA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39200 - VILLARD ST SAUVEUR | Entraide, Annonces, Initiatives"
+title: "39200 - VILLARD ST SAUVEUR"
 description: "39200 - VILLARD ST SAUVEUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

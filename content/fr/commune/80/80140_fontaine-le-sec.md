@@ -1,5 +1,5 @@
 ---
-title: "80140 - FONTAINE LE SEC | Entraide, Annonces, Initiatives"
+title: "80140 - FONTAINE LE SEC"
 description: "80140 - FONTAINE LE SEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

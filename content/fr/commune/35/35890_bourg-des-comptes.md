@@ -1,5 +1,5 @@
 ---
-title: "35890 - BOURG DES COMPTES | Entraide, Annonces, Initiatives"
+title: "35890 - BOURG DES COMPTES"
 description: "35890 - BOURG DES COMPTES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

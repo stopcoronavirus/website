@@ -1,5 +1,5 @@
 ---
-title: "65120 - GAVARNIE GEDRE | Entraide, Annonces, Initiatives"
+title: "65120 - GAVARNIE GEDRE"
 description: "65120 - GAVARNIE GEDRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

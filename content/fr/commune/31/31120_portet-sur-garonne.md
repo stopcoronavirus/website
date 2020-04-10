@@ -1,5 +1,5 @@
 ---
-title: "31120 - PORTET SUR GARONNE | Entraide, Annonces, Initiatives"
+title: "31120 - PORTET SUR GARONNE"
 description: "31120 - PORTET SUR GARONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

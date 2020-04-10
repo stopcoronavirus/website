@@ -1,5 +1,5 @@
 ---
-title: "13010 - MARSEILLE 10 | Entraide, Annonces, Initiatives"
+title: "13010 - MARSEILLE 10"
 description: "13010 - MARSEILLE 10 | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

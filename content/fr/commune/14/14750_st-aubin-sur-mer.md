@@ -1,5 +1,5 @@
 ---
-title: "14750 - ST AUBIN SUR MER | Entraide, Annonces, Initiatives"
+title: "14750 - ST AUBIN SUR MER"
 description: "14750 - ST AUBIN SUR MER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

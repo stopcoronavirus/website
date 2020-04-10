@@ -1,5 +1,5 @@
 ---
-title: "52300 - THONNANCE LES JOINVILLE | Entraide, Annonces, Initiatives"
+title: "52300 - THONNANCE LES JOINVILLE"
 description: "52300 - THONNANCE LES JOINVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

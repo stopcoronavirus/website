@@ -1,5 +1,5 @@
 ---
-title: "08140 - BREVILLY | Entraide, Annonces, Initiatives"
+title: "08140 - BREVILLY"
 description: "08140 - BREVILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13003 - MARSEILLE 03 | Entraide, Annonces, Initiatives"
+title: "13003 - MARSEILLE 03"
 description: "13003 - MARSEILLE 03 | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

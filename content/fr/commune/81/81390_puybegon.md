@@ -1,5 +1,5 @@
 ---
-title: "81390 - PUYBEGON | Entraide, Annonces, Initiatives"
+title: "81390 - PUYBEGON"
 description: "81390 - PUYBEGON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

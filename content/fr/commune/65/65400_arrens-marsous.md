@@ -1,5 +1,5 @@
 ---
-title: "65400 - ARRENS MARSOUS | Entraide, Annonces, Initiatives"
+title: "65400 - ARRENS MARSOUS"
 description: "65400 - ARRENS MARSOUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "79130 - LE RETAIL | Entraide, Annonces, Initiatives"
+title: "79130 - LE RETAIL"
 description: "79130 - LE RETAIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

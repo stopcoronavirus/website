@@ -1,5 +1,5 @@
 ---
-title: "87800 - RILHAC LASTOURS | Entraide, Annonces, Initiatives"
+title: "87800 - RILHAC LASTOURS"
 description: "87800 - RILHAC LASTOURS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

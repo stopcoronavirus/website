@@ -1,5 +1,5 @@
 ---
-title: "12400 - MONTLAUR | Entraide, Annonces, Initiatives"
+title: "12400 - MONTLAUR"
 description: "12400 - MONTLAUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

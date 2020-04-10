@@ -1,5 +1,5 @@
 ---
-title: "16230 - PUYREAUX | Entraide, Annonces, Initiatives"
+title: "16230 - PUYREAUX"
 description: "16230 - PUYREAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

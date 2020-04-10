@@ -1,5 +1,5 @@
 ---
-title: "58150 - TRACY SUR LOIRE | Entraide, Annonces, Initiatives"
+title: "58150 - TRACY SUR LOIRE"
 description: "58150 - TRACY SUR LOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

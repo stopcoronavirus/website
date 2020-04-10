@@ -1,5 +1,5 @@
 ---
-title: "58700 - LA CELLE SUR NIEVRE | Entraide, Annonces, Initiatives"
+title: "58700 - LA CELLE SUR NIEVRE"
 description: "58700 - LA CELLE SUR NIEVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

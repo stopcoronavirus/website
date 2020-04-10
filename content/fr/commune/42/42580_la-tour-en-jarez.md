@@ -1,5 +1,5 @@
 ---
-title: "42580 - LA TOUR EN JAREZ | Entraide, Annonces, Initiatives"
+title: "42580 - LA TOUR EN JAREZ"
 description: "42580 - LA TOUR EN JAREZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

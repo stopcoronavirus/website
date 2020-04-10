@@ -1,5 +1,5 @@
 ---
-title: "83920 - LA MOTTE | Entraide, Annonces, Initiatives"
+title: "83920 - LA MOTTE"
 description: "83920 - LA MOTTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

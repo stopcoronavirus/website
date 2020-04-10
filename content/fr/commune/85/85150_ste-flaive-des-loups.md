@@ -1,5 +1,5 @@
 ---
-title: "85150 - STE FLAIVE DES LOUPS | Entraide, Annonces, Initiatives"
+title: "85150 - STE FLAIVE DES LOUPS"
 description: "85150 - STE FLAIVE DES LOUPS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

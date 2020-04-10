@@ -1,5 +1,5 @@
 ---
-title: "76380 - CANTELEU | Entraide, Annonces, Initiatives"
+title: "76380 - CANTELEU"
 description: "76380 - CANTELEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

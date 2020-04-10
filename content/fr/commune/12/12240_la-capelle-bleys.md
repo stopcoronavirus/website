@@ -1,5 +1,5 @@
 ---
-title: "12240 - LA CAPELLE BLEYS | Entraide, Annonces, Initiatives"
+title: "12240 - LA CAPELLE BLEYS"
 description: "12240 - LA CAPELLE BLEYS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

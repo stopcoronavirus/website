@@ -1,5 +1,5 @@
 ---
-title: "44320 - ST PERE EN RETZ | Entraide, Annonces, Initiatives"
+title: "44320 - ST PERE EN RETZ"
 description: "44320 - ST PERE EN RETZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

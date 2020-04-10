@@ -1,5 +1,5 @@
 ---
-title: "37600 - FERRIERE SUR BEAULIEU | Entraide, Annonces, Initiatives"
+title: "37600 - FERRIERE SUR BEAULIEU"
 description: "37600 - FERRIERE SUR BEAULIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

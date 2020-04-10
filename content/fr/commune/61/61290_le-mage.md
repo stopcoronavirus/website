@@ -1,5 +1,5 @@
 ---
-title: "61290 - LE MAGE | Entraide, Annonces, Initiatives"
+title: "61290 - LE MAGE"
 description: "61290 - LE MAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

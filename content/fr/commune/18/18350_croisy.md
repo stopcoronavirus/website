@@ -1,5 +1,5 @@
 ---
-title: "18350 - CROISY | Entraide, Annonces, Initiatives"
+title: "18350 - CROISY"
 description: "18350 - CROISY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

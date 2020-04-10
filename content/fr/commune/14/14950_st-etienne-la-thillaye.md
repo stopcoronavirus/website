@@ -1,5 +1,5 @@
 ---
-title: "14950 - ST ETIENNE LA THILLAYE | Entraide, Annonces, Initiatives"
+title: "14950 - ST ETIENNE LA THILLAYE"
 description: "14950 - ST ETIENNE LA THILLAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

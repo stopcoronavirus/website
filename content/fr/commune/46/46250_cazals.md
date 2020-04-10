@@ -1,5 +1,5 @@
 ---
-title: "46250 - CAZALS | Entraide, Annonces, Initiatives"
+title: "46250 - CAZALS"
 description: "46250 - CAZALS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

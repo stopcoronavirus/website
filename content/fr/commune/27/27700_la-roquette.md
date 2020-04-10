@@ -1,5 +1,5 @@
 ---
-title: "27700 - LA ROQUETTE | Entraide, Annonces, Initiatives"
+title: "27700 - LA ROQUETTE"
 description: "27700 - LA ROQUETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

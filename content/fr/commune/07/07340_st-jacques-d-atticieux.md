@@ -1,5 +1,5 @@
 ---
-title: "07340 - ST JACQUES D ATTICIEUX | Entraide, Annonces, Initiatives"
+title: "07340 - ST JACQUES D ATTICIEUX"
 description: "07340 - ST JACQUES D ATTICIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

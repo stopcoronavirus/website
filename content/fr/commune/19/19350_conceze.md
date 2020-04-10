@@ -1,5 +1,5 @@
 ---
-title: "19350 - CONCEZE | Entraide, Annonces, Initiatives"
+title: "19350 - CONCEZE"
 description: "19350 - CONCEZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

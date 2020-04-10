@@ -1,5 +1,5 @@
 ---
-title: "20200 - VILLE DI PIETRABUGNO | Entraide, Annonces, Initiatives"
+title: "20200 - VILLE DI PIETRABUGNO"
 description: "20200 - VILLE DI PIETRABUGNO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

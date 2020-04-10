@@ -1,5 +1,5 @@
 ---
-title: "70160 - PURGEROT | Entraide, Annonces, Initiatives"
+title: "70160 - PURGEROT"
 description: "70160 - PURGEROT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

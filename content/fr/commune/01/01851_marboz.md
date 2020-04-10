@@ -1,5 +1,5 @@
 ---
-title: "01851 - MARBOZ | Entraide, Annonces, Initiatives"
+title: "01851 - MARBOZ"
 description: "01851 - MARBOZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "42800 - DARGOIRE | Entraide, Annonces, Initiatives"
+title: "42800 - DARGOIRE"
 description: "42800 - DARGOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "57950 - MONTIGNY LES METZ | Entraide, Annonces, Initiatives"
+title: "57950 - MONTIGNY LES METZ"
 description: "57950 - MONTIGNY LES METZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

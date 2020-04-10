@@ -1,5 +1,5 @@
 ---
-title: "24330 - BOULAZAC ISLE MANOIRE | Entraide, Annonces, Initiatives"
+title: "24330 - BOULAZAC ISLE MANOIRE"
 description: "24330 - BOULAZAC ISLE MANOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

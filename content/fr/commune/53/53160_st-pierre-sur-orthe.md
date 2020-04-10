@@ -1,5 +1,5 @@
 ---
-title: "53160 - ST PIERRE SUR ORTHE | Entraide, Annonces, Initiatives"
+title: "53160 - ST PIERRE SUR ORTHE"
 description: "53160 - ST PIERRE SUR ORTHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

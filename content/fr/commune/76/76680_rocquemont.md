@@ -1,5 +1,5 @@
 ---
-title: "76680 - ROCQUEMONT | Entraide, Annonces, Initiatives"
+title: "76680 - ROCQUEMONT"
 description: "76680 - ROCQUEMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

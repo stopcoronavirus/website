@@ -1,5 +1,5 @@
 ---
-title: "59139 - NOYELLES LES SECLIN | Entraide, Annonces, Initiatives"
+title: "59139 - NOYELLES LES SECLIN"
 description: "59139 - NOYELLES LES SECLIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

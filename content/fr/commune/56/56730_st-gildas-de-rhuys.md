@@ -1,5 +1,5 @@
 ---
-title: "56730 - ST GILDAS DE RHUYS | Entraide, Annonces, Initiatives"
+title: "56730 - ST GILDAS DE RHUYS"
 description: "56730 - ST GILDAS DE RHUYS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

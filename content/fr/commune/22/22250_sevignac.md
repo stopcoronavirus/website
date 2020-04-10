@@ -1,5 +1,5 @@
 ---
-title: "22250 - SEVIGNAC | Entraide, Annonces, Initiatives"
+title: "22250 - SEVIGNAC"
 description: "22250 - SEVIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

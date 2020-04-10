@@ -1,5 +1,5 @@
 ---
-title: "24160 - ST JORY LAS BLOUX | Entraide, Annonces, Initiatives"
+title: "24160 - ST JORY LAS BLOUX"
 description: "24160 - ST JORY LAS BLOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

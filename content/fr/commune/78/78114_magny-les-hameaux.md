@@ -1,5 +1,5 @@
 ---
-title: "78114 - MAGNY LES HAMEAUX | Entraide, Annonces, Initiatives"
+title: "78114 - MAGNY LES HAMEAUX"
 description: "78114 - MAGNY LES HAMEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

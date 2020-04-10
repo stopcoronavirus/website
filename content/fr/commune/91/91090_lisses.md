@@ -1,5 +1,5 @@
 ---
-title: "91090 - LISSES | Entraide, Annonces, Initiatives"
+title: "91090 - LISSES"
 description: "91090 - LISSES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "08390 - STONNE | Entraide, Annonces, Initiatives"
+title: "08390 - STONNE"
 description: "08390 - STONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

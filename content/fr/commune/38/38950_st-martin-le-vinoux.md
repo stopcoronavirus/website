@@ -1,5 +1,5 @@
 ---
-title: "38950 - ST MARTIN LE VINOUX | Entraide, Annonces, Initiatives"
+title: "38950 - ST MARTIN LE VINOUX"
 description: "38950 - ST MARTIN LE VINOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

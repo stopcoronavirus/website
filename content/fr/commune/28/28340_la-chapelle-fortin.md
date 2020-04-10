@@ -1,5 +1,5 @@
 ---
-title: "28340 - LA CHAPELLE FORTIN | Entraide, Annonces, Initiatives"
+title: "28340 - LA CHAPELLE FORTIN"
 description: "28340 - LA CHAPELLE FORTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

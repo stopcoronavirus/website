@@ -1,5 +1,5 @@
 ---
-title: "66270 - LE SOLER | Entraide, Annonces, Initiatives"
+title: "66270 - LE SOLER"
 description: "66270 - LE SOLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

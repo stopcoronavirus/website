@@ -1,5 +1,5 @@
 ---
-title: "88500 - ROZEROTTE | Entraide, Annonces, Initiatives"
+title: "88500 - ROZEROTTE"
 description: "88500 - ROZEROTTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "98747 - UA HUKA | Entraide, Annonces, Initiatives"
+title: "98747 - UA HUKA"
 description: "98747 - UA HUKA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

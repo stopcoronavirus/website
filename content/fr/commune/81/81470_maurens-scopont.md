@@ -1,5 +1,5 @@
 ---
-title: "81470 - MAURENS SCOPONT | Entraide, Annonces, Initiatives"
+title: "81470 - MAURENS SCOPONT"
 description: "81470 - MAURENS SCOPONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "50450 - ST DENIS LE GAST | Entraide, Annonces, Initiatives"
+title: "50450 - ST DENIS LE GAST"
 description: "50450 - ST DENIS LE GAST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

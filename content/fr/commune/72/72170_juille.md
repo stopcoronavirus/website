@@ -1,5 +1,5 @@
 ---
-title: "72170 - JUILLE | Entraide, Annonces, Initiatives"
+title: "72170 - JUILLE"
 description: "72170 - JUILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

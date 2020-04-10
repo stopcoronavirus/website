@@ -1,5 +1,5 @@
 ---
-title: "27450 - ST CHRISTOPHE SUR CONDE | Entraide, Annonces, Initiatives"
+title: "27450 - ST CHRISTOPHE SUR CONDE"
 description: "27450 - ST CHRISTOPHE SUR CONDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

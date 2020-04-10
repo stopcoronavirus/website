@@ -1,5 +1,5 @@
 ---
-title: "83530 - ST RAPHAEL | Entraide, Annonces, Initiatives"
+title: "83530 - ST RAPHAEL"
 description: "83530 - ST RAPHAEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

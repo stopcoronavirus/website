@@ -1,5 +1,5 @@
 ---
-title: "91080 - EVRY COURCOURONNES | Entraide, Annonces, Initiatives"
+title: "91080 - EVRY COURCOURONNES"
 description: "91080 - EVRY COURCOURONNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

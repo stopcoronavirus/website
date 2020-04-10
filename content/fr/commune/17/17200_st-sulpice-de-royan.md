@@ -1,5 +1,5 @@
 ---
-title: "17200 - ST SULPICE DE ROYAN | Entraide, Annonces, Initiatives"
+title: "17200 - ST SULPICE DE ROYAN"
 description: "17200 - ST SULPICE DE ROYAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

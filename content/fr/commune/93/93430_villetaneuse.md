@@ -1,5 +1,5 @@
 ---
-title: "93430 - VILLETANEUSE | Entraide, Annonces, Initiatives"
+title: "93430 - VILLETANEUSE"
 description: "93430 - VILLETANEUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

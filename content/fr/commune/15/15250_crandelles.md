@@ -1,5 +1,5 @@
 ---
-title: "15250 - CRANDELLES | Entraide, Annonces, Initiatives"
+title: "15250 - CRANDELLES"
 description: "15250 - CRANDELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

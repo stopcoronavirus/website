@@ -1,5 +1,5 @@
 ---
-title: "26790 - LA BAUME DE TRANSIT | Entraide, Annonces, Initiatives"
+title: "26790 - LA BAUME DE TRANSIT"
 description: "26790 - LA BAUME DE TRANSIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

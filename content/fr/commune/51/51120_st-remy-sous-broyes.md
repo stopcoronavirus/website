@@ -1,5 +1,5 @@
 ---
-title: "51120 - ST REMY SOUS BROYES | Entraide, Annonces, Initiatives"
+title: "51120 - ST REMY SOUS BROYES"
 description: "51120 - ST REMY SOUS BROYES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "18130 - CONTRES | Entraide, Annonces, Initiatives"
+title: "18130 - CONTRES"
 description: "18130 - CONTRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

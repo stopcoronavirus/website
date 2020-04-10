@@ -1,5 +1,5 @@
 ---
-title: "06340 - LA TRINITE | Entraide, Annonces, Initiatives"
+title: "06340 - LA TRINITE"
 description: "06340 - LA TRINITE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

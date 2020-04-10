@@ -1,5 +1,5 @@
 ---
-title: "55170 - BRAUVILLIERS | Entraide, Annonces, Initiatives"
+title: "55170 - BRAUVILLIERS"
 description: "55170 - BRAUVILLIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

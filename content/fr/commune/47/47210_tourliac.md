@@ -1,5 +1,5 @@
 ---
-title: "47210 - TOURLIAC | Entraide, Annonces, Initiatives"
+title: "47210 - TOURLIAC"
 description: "47210 - TOURLIAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

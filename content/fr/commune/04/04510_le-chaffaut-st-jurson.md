@@ -1,5 +1,5 @@
 ---
-title: "04510 - LE CHAFFAUT ST JURSON | Entraide, Annonces, Initiatives"
+title: "04510 - LE CHAFFAUT ST JURSON"
 description: "04510 - LE CHAFFAUT ST JURSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

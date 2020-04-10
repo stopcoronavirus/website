@@ -1,5 +1,5 @@
 ---
-title: "68127 - NIEDERHERGHEIM | Entraide, Annonces, Initiatives"
+title: "68127 - NIEDERHERGHEIM"
 description: "68127 - NIEDERHERGHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

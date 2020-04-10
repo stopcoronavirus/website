@@ -1,5 +1,5 @@
 ---
-title: "58190 - VIGNOL | Entraide, Annonces, Initiatives"
+title: "58190 - VIGNOL"
 description: "58190 - VIGNOL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

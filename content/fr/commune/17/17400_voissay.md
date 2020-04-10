@@ -1,5 +1,5 @@
 ---
-title: "17400 - VOISSAY | Entraide, Annonces, Initiatives"
+title: "17400 - VOISSAY"
 description: "17400 - VOISSAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

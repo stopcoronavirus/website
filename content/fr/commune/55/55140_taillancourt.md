@@ -1,5 +1,5 @@
 ---
-title: "55140 - TAILLANCOURT | Entraide, Annonces, Initiatives"
+title: "55140 - TAILLANCOURT"
 description: "55140 - TAILLANCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "40240 - ST JULIEN D ARMAGNAC | Entraide, Annonces, Initiatives"
+title: "40240 - ST JULIEN D ARMAGNAC"
 description: "40240 - ST JULIEN D ARMAGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

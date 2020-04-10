@@ -1,5 +1,5 @@
 ---
-title: "39110 - CHAUX CHAMPAGNY | Entraide, Annonces, Initiatives"
+title: "39110 - CHAUX CHAMPAGNY"
 description: "39110 - CHAUX CHAMPAGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

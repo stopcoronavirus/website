@@ -1,5 +1,5 @@
 ---
-title: "29180 - PLOGONNEC | Entraide, Annonces, Initiatives"
+title: "29180 - PLOGONNEC"
 description: "29180 - PLOGONNEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

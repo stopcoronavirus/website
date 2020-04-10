@@ -1,5 +1,5 @@
 ---
-title: "37150 - LA CROIX EN TOURAINE | Entraide, Annonces, Initiatives"
+title: "37150 - LA CROIX EN TOURAINE"
 description: "37150 - LA CROIX EN TOURAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

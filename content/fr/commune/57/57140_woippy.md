@@ -1,5 +1,5 @@
 ---
-title: "57140 - WOIPPY | Entraide, Annonces, Initiatives"
+title: "57140 - WOIPPY"
 description: "57140 - WOIPPY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

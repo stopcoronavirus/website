@@ -1,5 +1,5 @@
 ---
-title: "50250 - ST SAUVEUR DE PIERREPONT | Entraide, Annonces, Initiatives"
+title: "50250 - ST SAUVEUR DE PIERREPONT"
 description: "50250 - ST SAUVEUR DE PIERREPONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "03170 - BIZENEUILLE | Entraide, Annonces, Initiatives"
+title: "03170 - BIZENEUILLE"
 description: "03170 - BIZENEUILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

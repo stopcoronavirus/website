@@ -1,5 +1,5 @@
 ---
-title: "30760 - ST JULIEN DE PEYROLAS | Entraide, Annonces, Initiatives"
+title: "30760 - ST JULIEN DE PEYROLAS"
 description: "30760 - ST JULIEN DE PEYROLAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

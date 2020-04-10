@@ -1,5 +1,5 @@
 ---
-title: "24620 - TAMNIES | Entraide, Annonces, Initiatives"
+title: "24620 - TAMNIES"
 description: "24620 - TAMNIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

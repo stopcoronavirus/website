@@ -1,5 +1,5 @@
 ---
-title: "54170 - GERMINY | Entraide, Annonces, Initiatives"
+title: "54170 - GERMINY"
 description: "54170 - GERMINY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

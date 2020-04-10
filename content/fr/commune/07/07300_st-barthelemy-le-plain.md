@@ -1,5 +1,5 @@
 ---
-title: "07300 - ST BARTHELEMY LE PLAIN | Entraide, Annonces, Initiatives"
+title: "07300 - ST BARTHELEMY LE PLAIN"
 description: "07300 - ST BARTHELEMY LE PLAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

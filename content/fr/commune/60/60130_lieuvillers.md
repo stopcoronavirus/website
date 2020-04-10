@@ -1,5 +1,5 @@
 ---
-title: "60130 - LIEUVILLERS | Entraide, Annonces, Initiatives"
+title: "60130 - LIEUVILLERS"
 description: "60130 - LIEUVILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

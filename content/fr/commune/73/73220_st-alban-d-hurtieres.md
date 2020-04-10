@@ -1,5 +1,5 @@
 ---
-title: "73220 - ST ALBAN D HURTIERES | Entraide, Annonces, Initiatives"
+title: "73220 - ST ALBAN D HURTIERES"
 description: "73220 - ST ALBAN D HURTIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

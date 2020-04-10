@@ -1,5 +1,5 @@
 ---
-title: "39230 - VERS SOUS SELLIERES | Entraide, Annonces, Initiatives"
+title: "39230 - VERS SOUS SELLIERES"
 description: "39230 - VERS SOUS SELLIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

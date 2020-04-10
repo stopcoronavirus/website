@@ -1,5 +1,5 @@
 ---
-title: "67240 - OBERHOFFEN SUR MODER | Entraide, Annonces, Initiatives"
+title: "67240 - OBERHOFFEN SUR MODER"
 description: "67240 - OBERHOFFEN SUR MODER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

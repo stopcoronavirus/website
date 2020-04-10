@@ -1,5 +1,5 @@
 ---
-title: "24500 - ST AUBIN DE CADELECH | Entraide, Annonces, Initiatives"
+title: "24500 - ST AUBIN DE CADELECH"
 description: "24500 - ST AUBIN DE CADELECH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

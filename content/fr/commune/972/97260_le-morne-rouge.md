@@ -1,5 +1,5 @@
 ---
-title: "97260 - LE MORNE ROUGE | Entraide, Annonces, Initiatives"
+title: "97260 - LE MORNE ROUGE"
 description: "97260 - LE MORNE ROUGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

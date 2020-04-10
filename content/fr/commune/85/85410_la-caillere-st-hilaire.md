@@ -1,5 +1,5 @@
 ---
-title: "85410 - LA CAILLERE ST HILAIRE | Entraide, Annonces, Initiatives"
+title: "85410 - LA CAILLERE ST HILAIRE"
 description: "85410 - LA CAILLERE ST HILAIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "57880 - GUERTING | Entraide, Annonces, Initiatives"
+title: "57880 - GUERTING"
 description: "57880 - GUERTING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59112 - CARNIN | Entraide, Annonces, Initiatives"
+title: "59112 - CARNIN"
 description: "59112 - CARNIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

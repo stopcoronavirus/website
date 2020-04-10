@@ -1,5 +1,5 @@
 ---
-title: "04110 - REILLANNE | Entraide, Annonces, Initiatives"
+title: "04110 - REILLANNE"
 description: "04110 - REILLANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13630 - EYRAGUES | Entraide, Annonces, Initiatives"
+title: "13630 - EYRAGUES"
 description: "13630 - EYRAGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

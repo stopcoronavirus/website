@@ -1,5 +1,5 @@
 ---
-title: "98735 - TAPUTAPUATEA | Entraide, Annonces, Initiatives"
+title: "98735 - TAPUTAPUATEA"
 description: "98735 - TAPUTAPUATEA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

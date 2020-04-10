@@ -1,5 +1,5 @@
 ---
-title: "58230 - GOULOUX | Entraide, Annonces, Initiatives"
+title: "58230 - GOULOUX"
 description: "58230 - GOULOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

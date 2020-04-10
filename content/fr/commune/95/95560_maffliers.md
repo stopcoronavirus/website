@@ -1,5 +1,5 @@
 ---
-title: "95560 - MAFFLIERS | Entraide, Annonces, Initiatives"
+title: "95560 - MAFFLIERS"
 description: "95560 - MAFFLIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

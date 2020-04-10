@@ -1,5 +1,5 @@
 ---
-title: "54740 - GERBECOURT ET HAPLEMONT | Entraide, Annonces, Initiatives"
+title: "54740 - GERBECOURT ET HAPLEMONT"
 description: "54740 - GERBECOURT ET HAPLEMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

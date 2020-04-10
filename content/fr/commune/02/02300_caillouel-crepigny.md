@@ -1,5 +1,5 @@
 ---
-title: "02300 - CAILLOUEL CREPIGNY | Entraide, Annonces, Initiatives"
+title: "02300 - CAILLOUEL CREPIGNY"
 description: "02300 - CAILLOUEL CREPIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

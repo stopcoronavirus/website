@@ -1,5 +1,5 @@
 ---
-title: "55800 - REVIGNY SUR ORNAIN | Entraide, Annonces, Initiatives"
+title: "55800 - REVIGNY SUR ORNAIN"
 description: "55800 - REVIGNY SUR ORNAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

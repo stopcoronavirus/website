@@ -1,5 +1,5 @@
 ---
-title: "12430 - LE TRUEL | Entraide, Annonces, Initiatives"
+title: "12430 - LE TRUEL"
 description: "12430 - LE TRUEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

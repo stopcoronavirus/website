@@ -1,5 +1,5 @@
 ---
-title: "59480 - ILLIES | Entraide, Annonces, Initiatives"
+title: "59480 - ILLIES"
 description: "59480 - ILLIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

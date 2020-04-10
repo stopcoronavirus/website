@@ -1,5 +1,5 @@
 ---
-title: "65440 - ANCIZAN | Entraide, Annonces, Initiatives"
+title: "65440 - ANCIZAN"
 description: "65440 - ANCIZAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

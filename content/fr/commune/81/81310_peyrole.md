@@ -1,5 +1,5 @@
 ---
-title: "81310 - PEYROLE | Entraide, Annonces, Initiatives"
+title: "81310 - PEYROLE"
 description: "81310 - PEYROLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

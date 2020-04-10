@@ -1,5 +1,5 @@
 ---
-title: "17580 - LE BOIS PLAGE EN RE | Entraide, Annonces, Initiatives"
+title: "17580 - LE BOIS PLAGE EN RE"
 description: "17580 - LE BOIS PLAGE EN RE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

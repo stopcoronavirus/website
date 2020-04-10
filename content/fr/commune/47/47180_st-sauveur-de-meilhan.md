@@ -1,5 +1,5 @@
 ---
-title: "47180 - ST SAUVEUR DE MEILHAN | Entraide, Annonces, Initiatives"
+title: "47180 - ST SAUVEUR DE MEILHAN"
 description: "47180 - ST SAUVEUR DE MEILHAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

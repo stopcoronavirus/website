@@ -1,5 +1,5 @@
 ---
-title: "60210 - BEAUDEDUIT | Entraide, Annonces, Initiatives"
+title: "60210 - BEAUDEDUIT"
 description: "60210 - BEAUDEDUIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

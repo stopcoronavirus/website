@@ -1,5 +1,5 @@
 ---
-title: "50330 - TOCQUEVILLE | Entraide, Annonces, Initiatives"
+title: "50330 - TOCQUEVILLE"
 description: "50330 - TOCQUEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

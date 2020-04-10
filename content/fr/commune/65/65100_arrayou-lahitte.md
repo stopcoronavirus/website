@@ -1,5 +1,5 @@
 ---
-title: "65100 - ARRAYOU LAHITTE | Entraide, Annonces, Initiatives"
+title: "65100 - ARRAYOU LAHITTE"
 description: "65100 - ARRAYOU LAHITTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

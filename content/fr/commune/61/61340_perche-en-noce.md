@@ -1,5 +1,5 @@
 ---
-title: "61340 - PERCHE EN NOCE | Entraide, Annonces, Initiatives"
+title: "61340 - PERCHE EN NOCE"
 description: "61340 - PERCHE EN NOCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "09300 - ROQUEFIXADE | Entraide, Annonces, Initiatives"
+title: "09300 - ROQUEFIXADE"
 description: "09300 - ROQUEFIXADE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

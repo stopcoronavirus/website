@@ -1,5 +1,5 @@
 ---
-title: "27260 - LE BOIS HELLAIN | Entraide, Annonces, Initiatives"
+title: "27260 - LE BOIS HELLAIN"
 description: "27260 - LE BOIS HELLAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

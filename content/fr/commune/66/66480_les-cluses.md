@@ -1,5 +1,5 @@
 ---
-title: "66480 - LES CLUSES | Entraide, Annonces, Initiatives"
+title: "66480 - LES CLUSES"
 description: "66480 - LES CLUSES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

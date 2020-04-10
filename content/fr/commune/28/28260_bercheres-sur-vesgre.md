@@ -1,5 +1,5 @@
 ---
-title: "28260 - BERCHERES SUR VESGRE | Entraide, Annonces, Initiatives"
+title: "28260 - BERCHERES SUR VESGRE"
 description: "28260 - BERCHERES SUR VESGRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

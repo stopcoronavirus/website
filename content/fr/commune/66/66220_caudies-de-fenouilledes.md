@@ -1,5 +1,5 @@
 ---
-title: "66220 - CAUDIES DE FENOUILLEDES | Entraide, Annonces, Initiatives"
+title: "66220 - CAUDIES DE FENOUILLEDES"
 description: "66220 - CAUDIES DE FENOUILLEDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

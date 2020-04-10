@@ -1,5 +1,5 @@
 ---
-title: "16430 - VINDELLE | Entraide, Annonces, Initiatives"
+title: "16430 - VINDELLE"
 description: "16430 - VINDELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

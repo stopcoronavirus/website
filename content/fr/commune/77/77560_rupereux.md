@@ -1,5 +1,5 @@
 ---
-title: "77560 - RUPEREUX | Entraide, Annonces, Initiatives"
+title: "77560 - RUPEREUX"
 description: "77560 - RUPEREUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

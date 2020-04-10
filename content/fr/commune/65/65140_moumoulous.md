@@ -1,5 +1,5 @@
 ---
-title: "65140 - MOUMOULOUS | Entraide, Annonces, Initiatives"
+title: "65140 - MOUMOULOUS"
 description: "65140 - MOUMOULOUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "83210 - SOLLIES TOUCAS | Entraide, Annonces, Initiatives"
+title: "83210 - SOLLIES TOUCAS"
 description: "83210 - SOLLIES TOUCAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

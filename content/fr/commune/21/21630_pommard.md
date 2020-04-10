@@ -1,5 +1,5 @@
 ---
-title: "21630 - POMMARD | Entraide, Annonces, Initiatives"
+title: "21630 - POMMARD"
 description: "21630 - POMMARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

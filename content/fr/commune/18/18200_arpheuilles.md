@@ -1,5 +1,5 @@
 ---
-title: "18200 - ARPHEUILLES | Entraide, Annonces, Initiatives"
+title: "18200 - ARPHEUILLES"
 description: "18200 - ARPHEUILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

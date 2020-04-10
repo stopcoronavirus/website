@@ -1,5 +1,5 @@
 ---
-title: "60340 - VILLERS SOUS ST LEU | Entraide, Annonces, Initiatives"
+title: "60340 - VILLERS SOUS ST LEU"
 description: "60340 - VILLERS SOUS ST LEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

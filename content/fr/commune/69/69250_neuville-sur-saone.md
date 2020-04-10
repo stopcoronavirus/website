@@ -1,5 +1,5 @@
 ---
-title: "69250 - NEUVILLE SUR SAONE | Entraide, Annonces, Initiatives"
+title: "69250 - NEUVILLE SUR SAONE"
 description: "69250 - NEUVILLE SUR SAONE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

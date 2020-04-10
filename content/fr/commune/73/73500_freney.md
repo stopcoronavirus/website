@@ -1,5 +1,5 @@
 ---
-title: "73500 - FRENEY | Entraide, Annonces, Initiatives"
+title: "73500 - FRENEY"
 description: "73500 - FRENEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

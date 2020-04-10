@@ -1,5 +1,5 @@
 ---
-title: "91650 - BREUILLET | Entraide, Annonces, Initiatives"
+title: "91650 - BREUILLET"
 description: "91650 - BREUILLET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

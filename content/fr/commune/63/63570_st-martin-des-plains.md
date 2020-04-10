@@ -1,5 +1,5 @@
 ---
-title: "63570 - ST MARTIN DES PLAINS | Entraide, Annonces, Initiatives"
+title: "63570 - ST MARTIN DES PLAINS"
 description: "63570 - ST MARTIN DES PLAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

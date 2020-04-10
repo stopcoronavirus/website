@@ -1,5 +1,5 @@
 ---
-title: "68270 - RUELISHEIM | Entraide, Annonces, Initiatives"
+title: "68270 - RUELISHEIM"
 description: "68270 - RUELISHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

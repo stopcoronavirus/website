@@ -1,5 +1,5 @@
 ---
-title: "69240 - THIZY LES BOURGS | Entraide, Annonces, Initiatives"
+title: "69240 - THIZY LES BOURGS"
 description: "69240 - THIZY LES BOURGS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "62830 - VERLINCTHUN | Entraide, Annonces, Initiatives"
+title: "62830 - VERLINCTHUN"
 description: "62830 - VERLINCTHUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

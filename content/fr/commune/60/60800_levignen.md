@@ -1,5 +1,5 @@
 ---
-title: "60800 - LEVIGNEN | Entraide, Annonces, Initiatives"
+title: "60800 - LEVIGNEN"
 description: "60800 - LEVIGNEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

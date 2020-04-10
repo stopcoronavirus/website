@@ -1,5 +1,5 @@
 ---
-title: "97320 - ST LAURENT DU MARONI | Entraide, Annonces, Initiatives"
+title: "97320 - ST LAURENT DU MARONI"
 description: "97320 - ST LAURENT DU MARONI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

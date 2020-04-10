@@ -1,5 +1,5 @@
 ---
-title: "38220 - ST BARTHELEMY DE SECHILIENNE | Entraide, Annonces, Initiatives"
+title: "38220 - ST BARTHELEMY DE SECHILIENNE"
 description: "38220 - ST BARTHELEMY DE SECHILIENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

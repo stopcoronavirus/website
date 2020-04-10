@@ -1,5 +1,5 @@
 ---
-title: "37460 - GENILLE | Entraide, Annonces, Initiatives"
+title: "37460 - GENILLE"
 description: "37460 - GENILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

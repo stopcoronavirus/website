@@ -1,5 +1,5 @@
 ---
-title: "47420 - BOUSSES | Entraide, Annonces, Initiatives"
+title: "47420 - BOUSSES"
 description: "47420 - BOUSSES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

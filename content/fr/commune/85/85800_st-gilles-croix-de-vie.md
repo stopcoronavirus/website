@@ -1,5 +1,5 @@
 ---
-title: "85800 - ST GILLES CROIX DE VIE | Entraide, Annonces, Initiatives"
+title: "85800 - ST GILLES CROIX DE VIE"
 description: "85800 - ST GILLES CROIX DE VIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

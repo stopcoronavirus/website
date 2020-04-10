@@ -1,5 +1,5 @@
 ---
-title: "57480 - HAUTE KONTZ | Entraide, Annonces, Initiatives"
+title: "57480 - HAUTE KONTZ"
 description: "57480 - HAUTE KONTZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

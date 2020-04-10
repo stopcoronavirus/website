@@ -1,5 +1,5 @@
 ---
-title: "85300 - SALLERTAINE | Entraide, Annonces, Initiatives"
+title: "85300 - SALLERTAINE"
 description: "85300 - SALLERTAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

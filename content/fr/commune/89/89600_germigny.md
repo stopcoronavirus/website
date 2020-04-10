@@ -1,5 +1,5 @@
 ---
-title: "89600 - GERMIGNY | Entraide, Annonces, Initiatives"
+title: "89600 - GERMIGNY"
 description: "89600 - GERMIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

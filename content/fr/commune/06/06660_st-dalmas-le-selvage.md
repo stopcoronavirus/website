@@ -1,5 +1,5 @@
 ---
-title: "06660 - ST DALMAS LE SELVAGE | Entraide, Annonces, Initiatives"
+title: "06660 - ST DALMAS LE SELVAGE"
 description: "06660 - ST DALMAS LE SELVAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

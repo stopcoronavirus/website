@@ -1,5 +1,5 @@
 ---
-title: "09120 - VARILHES | Entraide, Annonces, Initiatives"
+title: "09120 - VARILHES"
 description: "09120 - VARILHES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

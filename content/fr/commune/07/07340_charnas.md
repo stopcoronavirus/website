@@ -1,5 +1,5 @@
 ---
-title: "07340 - CHARNAS | Entraide, Annonces, Initiatives"
+title: "07340 - CHARNAS"
 description: "07340 - CHARNAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

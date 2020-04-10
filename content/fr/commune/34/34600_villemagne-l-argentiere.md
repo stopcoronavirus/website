@@ -1,5 +1,5 @@
 ---
-title: "34600 - VILLEMAGNE L ARGENTIERE | Entraide, Annonces, Initiatives"
+title: "34600 - VILLEMAGNE L ARGENTIERE"
 description: "34600 - VILLEMAGNE L ARGENTIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "17150 - SEMILLAC | Entraide, Annonces, Initiatives"
+title: "17150 - SEMILLAC"
 description: "17150 - SEMILLAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

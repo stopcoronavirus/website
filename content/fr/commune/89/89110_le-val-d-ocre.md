@@ -1,5 +1,5 @@
 ---
-title: "89110 - LE VAL D OCRE | Entraide, Annonces, Initiatives"
+title: "89110 - LE VAL D OCRE"
 description: "89110 - LE VAL D OCRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

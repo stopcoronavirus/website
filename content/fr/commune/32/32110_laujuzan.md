@@ -1,5 +1,5 @@
 ---
-title: "32110 - LAUJUZAN | Entraide, Annonces, Initiatives"
+title: "32110 - LAUJUZAN"
 description: "32110 - LAUJUZAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

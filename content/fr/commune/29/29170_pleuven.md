@@ -1,5 +1,5 @@
 ---
-title: "29170 - PLEUVEN | Entraide, Annonces, Initiatives"
+title: "29170 - PLEUVEN"
 description: "29170 - PLEUVEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

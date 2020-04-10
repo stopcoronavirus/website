@@ -1,5 +1,5 @@
 ---
-title: "51300 - VITRY LE FRANCOIS | Entraide, Annonces, Initiatives"
+title: "51300 - VITRY LE FRANCOIS"
 description: "51300 - VITRY LE FRANCOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "16210 - ST QUENTIN DE CHALAIS | Entraide, Annonces, Initiatives"
+title: "16210 - ST QUENTIN DE CHALAIS"
 description: "16210 - ST QUENTIN DE CHALAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

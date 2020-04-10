@@ -1,5 +1,5 @@
 ---
-title: "47800 - LA SAUVETAT DU DROPT | Entraide, Annonces, Initiatives"
+title: "47800 - LA SAUVETAT DU DROPT"
 description: "47800 - LA SAUVETAT DU DROPT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

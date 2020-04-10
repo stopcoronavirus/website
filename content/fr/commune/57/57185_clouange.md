@@ -1,5 +1,5 @@
 ---
-title: "57185 - CLOUANGE | Entraide, Annonces, Initiatives"
+title: "57185 - CLOUANGE"
 description: "57185 - CLOUANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

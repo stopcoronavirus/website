@@ -1,5 +1,5 @@
 ---
-title: "30340 - SERVAS | Entraide, Annonces, Initiatives"
+title: "30340 - SERVAS"
 description: "30340 - SERVAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

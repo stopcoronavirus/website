@@ -1,5 +1,5 @@
 ---
-title: "88140 - URVILLE | Entraide, Annonces, Initiatives"
+title: "88140 - URVILLE"
 description: "88140 - URVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

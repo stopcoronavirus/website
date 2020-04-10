@@ -1,5 +1,5 @@
 ---
-title: "69140 - RILLIEUX LA PAPE | Entraide, Annonces, Initiatives"
+title: "69140 - RILLIEUX LA PAPE"
 description: "69140 - RILLIEUX LA PAPE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

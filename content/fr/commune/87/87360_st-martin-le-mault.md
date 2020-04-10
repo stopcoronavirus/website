@@ -1,5 +1,5 @@
 ---
-title: "87360 - ST MARTIN LE MAULT | Entraide, Annonces, Initiatives"
+title: "87360 - ST MARTIN LE MAULT"
 description: "87360 - ST MARTIN LE MAULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

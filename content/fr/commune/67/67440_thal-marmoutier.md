@@ -1,5 +1,5 @@
 ---
-title: "67440 - THAL MARMOUTIER | Entraide, Annonces, Initiatives"
+title: "67440 - THAL MARMOUTIER"
 description: "67440 - THAL MARMOUTIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

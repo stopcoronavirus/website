@@ -1,5 +1,5 @@
 ---
-title: "10410 - ST PARRES AUX TERTRES | Entraide, Annonces, Initiatives"
+title: "10410 - ST PARRES AUX TERTRES"
 description: "10410 - ST PARRES AUX TERTRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

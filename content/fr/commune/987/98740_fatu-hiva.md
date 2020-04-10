@@ -1,5 +1,5 @@
 ---
-title: "98740 - FATU HIVA | Entraide, Annonces, Initiatives"
+title: "98740 - FATU HIVA"
 description: "98740 - FATU HIVA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

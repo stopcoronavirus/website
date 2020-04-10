@@ -1,5 +1,5 @@
 ---
-title: "28700 - LA CHAPELLE D AUNAINVILLE | Entraide, Annonces, Initiatives"
+title: "28700 - LA CHAPELLE D AUNAINVILLE"
 description: "28700 - LA CHAPELLE D AUNAINVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

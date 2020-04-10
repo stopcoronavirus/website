@@ -1,5 +1,5 @@
 ---
-title: "26310 - ST DIZIER EN DIOIS | Entraide, Annonces, Initiatives"
+title: "26310 - ST DIZIER EN DIOIS"
 description: "26310 - ST DIZIER EN DIOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "52250 - BAISSEY | Entraide, Annonces, Initiatives"
+title: "52250 - BAISSEY"
 description: "52250 - BAISSEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

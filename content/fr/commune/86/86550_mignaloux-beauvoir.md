@@ -1,5 +1,5 @@
 ---
-title: "86550 - MIGNALOUX BEAUVOIR | Entraide, Annonces, Initiatives"
+title: "86550 - MIGNALOUX BEAUVOIR"
 description: "86550 - MIGNALOUX BEAUVOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

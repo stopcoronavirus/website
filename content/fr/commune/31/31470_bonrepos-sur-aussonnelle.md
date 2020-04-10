@@ -1,5 +1,5 @@
 ---
-title: "31470 - BONREPOS SUR AUSSONNELLE | Entraide, Annonces, Initiatives"
+title: "31470 - BONREPOS SUR AUSSONNELLE"
 description: "31470 - BONREPOS SUR AUSSONNELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

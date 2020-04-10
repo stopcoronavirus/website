@@ -1,5 +1,5 @@
 ---
-title: "69320 - FEYZIN | Entraide, Annonces, Initiatives"
+title: "69320 - FEYZIN"
 description: "69320 - FEYZIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

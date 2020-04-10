@@ -1,5 +1,5 @@
 ---
-title: "40320 - ST LOUBOUER | Entraide, Annonces, Initiatives"
+title: "40320 - ST LOUBOUER"
 description: "40320 - ST LOUBOUER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

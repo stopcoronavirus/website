@@ -1,5 +1,5 @@
 ---
-title: "59255 - HAVELUY | Entraide, Annonces, Initiatives"
+title: "59255 - HAVELUY"
 description: "59255 - HAVELUY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

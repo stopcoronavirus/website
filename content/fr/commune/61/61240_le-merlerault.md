@@ -1,5 +1,5 @@
 ---
-title: "61240 - LE MERLERAULT | Entraide, Annonces, Initiatives"
+title: "61240 - LE MERLERAULT"
 description: "61240 - LE MERLERAULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

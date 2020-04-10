@@ -1,5 +1,5 @@
 ---
-title: "74800 - ARENTHON | Entraide, Annonces, Initiatives"
+title: "74800 - ARENTHON"
 description: "74800 - ARENTHON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

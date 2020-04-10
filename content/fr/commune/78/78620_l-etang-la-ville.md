@@ -1,5 +1,5 @@
 ---
-title: "78620 - L ETANG LA VILLE | Entraide, Annonces, Initiatives"
+title: "78620 - L ETANG LA VILLE"
 description: "78620 - L ETANG LA VILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

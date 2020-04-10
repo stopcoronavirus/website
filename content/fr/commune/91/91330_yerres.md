@@ -1,5 +1,5 @@
 ---
-title: "91330 - YERRES | Entraide, Annonces, Initiatives"
+title: "91330 - YERRES"
 description: "91330 - YERRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

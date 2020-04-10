@@ -1,5 +1,5 @@
 ---
-title: "92330 - SCEAUX | Entraide, Annonces, Initiatives"
+title: "92330 - SCEAUX"
 description: "92330 - SCEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "10250 - MUSSY SUR SEINE | Entraide, Annonces, Initiatives"
+title: "10250 - MUSSY SUR SEINE"
 description: "10250 - MUSSY SUR SEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

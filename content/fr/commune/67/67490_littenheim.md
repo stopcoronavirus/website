@@ -1,5 +1,5 @@
 ---
-title: "67490 - LITTENHEIM | Entraide, Annonces, Initiatives"
+title: "67490 - LITTENHEIM"
 description: "67490 - LITTENHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

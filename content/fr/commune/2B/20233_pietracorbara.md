@@ -1,5 +1,5 @@
 ---
-title: "20233 - PIETRACORBARA | Entraide, Annonces, Initiatives"
+title: "20233 - PIETRACORBARA"
 description: "20233 - PIETRACORBARA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

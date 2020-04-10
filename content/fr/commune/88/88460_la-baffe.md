@@ -1,5 +1,5 @@
 ---
-title: "88460 - LA BAFFE | Entraide, Annonces, Initiatives"
+title: "88460 - LA BAFFE"
 description: "88460 - LA BAFFE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

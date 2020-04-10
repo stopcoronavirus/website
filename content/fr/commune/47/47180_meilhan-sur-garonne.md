@@ -1,5 +1,5 @@
 ---
-title: "47180 - MEILHAN SUR GARONNE | Entraide, Annonces, Initiatives"
+title: "47180 - MEILHAN SUR GARONNE"
 description: "47180 - MEILHAN SUR GARONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

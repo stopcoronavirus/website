@@ -1,5 +1,5 @@
 ---
-title: "80510 - LONGPRE LES CORPS SAINTS | Entraide, Annonces, Initiatives"
+title: "80510 - LONGPRE LES CORPS SAINTS"
 description: "80510 - LONGPRE LES CORPS SAINTS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

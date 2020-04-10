@@ -1,5 +1,5 @@
 ---
-title: "88270 - CIRCOURT | Entraide, Annonces, Initiatives"
+title: "88270 - CIRCOURT"
 description: "88270 - CIRCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

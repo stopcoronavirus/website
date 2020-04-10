@@ -1,5 +1,5 @@
 ---
-title: "80300 - BOUZINCOURT | Entraide, Annonces, Initiatives"
+title: "80300 - BOUZINCOURT"
 description: "80300 - BOUZINCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

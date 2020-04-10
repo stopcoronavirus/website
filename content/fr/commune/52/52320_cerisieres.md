@@ -1,5 +1,5 @@
 ---
-title: "52320 - CERISIERES | Entraide, Annonces, Initiatives"
+title: "52320 - CERISIERES"
 description: "52320 - CERISIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

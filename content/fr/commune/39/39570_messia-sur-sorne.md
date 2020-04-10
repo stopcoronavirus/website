@@ -1,5 +1,5 @@
 ---
-title: "39570 - MESSIA SUR SORNE | Entraide, Annonces, Initiatives"
+title: "39570 - MESSIA SUR SORNE"
 description: "39570 - MESSIA SUR SORNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

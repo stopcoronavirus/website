@@ -1,5 +1,5 @@
 ---
-title: "19320 - CHAMPAGNAC LA NOAILLE | Entraide, Annonces, Initiatives"
+title: "19320 - CHAMPAGNAC LA NOAILLE"
 description: "19320 - CHAMPAGNAC LA NOAILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

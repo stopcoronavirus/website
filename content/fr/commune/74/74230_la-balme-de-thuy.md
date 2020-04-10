@@ -1,5 +1,5 @@
 ---
-title: "74230 - LA BALME DE THUY | Entraide, Annonces, Initiatives"
+title: "74230 - LA BALME DE THUY"
 description: "74230 - LA BALME DE THUY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

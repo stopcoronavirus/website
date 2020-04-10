@@ -1,5 +1,5 @@
 ---
-title: "89330 - ST JULIEN DU SAULT | Entraide, Annonces, Initiatives"
+title: "89330 - ST JULIEN DU SAULT"
 description: "89330 - ST JULIEN DU SAULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

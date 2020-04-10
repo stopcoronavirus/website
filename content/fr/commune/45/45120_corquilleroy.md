@@ -1,5 +1,5 @@
 ---
-title: "45120 - CORQUILLEROY | Entraide, Annonces, Initiatives"
+title: "45120 - CORQUILLEROY"
 description: "45120 - CORQUILLEROY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "46130 - BIARS SUR CERE | Entraide, Annonces, Initiatives"
+title: "46130 - BIARS SUR CERE"
 description: "46130 - BIARS SUR CERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

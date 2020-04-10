@@ -1,5 +1,5 @@
 ---
-title: "50540 - ISIGNY LE BUAT | Entraide, Annonces, Initiatives"
+title: "50540 - ISIGNY LE BUAT"
 description: "50540 - ISIGNY LE BUAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

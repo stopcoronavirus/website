@@ -1,5 +1,5 @@
 ---
-title: "39300 - CHAPOIS | Entraide, Annonces, Initiatives"
+title: "39300 - CHAPOIS"
 description: "39300 - CHAPOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

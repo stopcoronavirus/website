@@ -1,5 +1,5 @@
 ---
-title: "88230 - BAN SUR MEURTHE CLEFCY | Entraide, Annonces, Initiatives"
+title: "88230 - BAN SUR MEURTHE CLEFCY"
 description: "88230 - BAN SUR MEURTHE CLEFCY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "42390 - VILLARS | Entraide, Annonces, Initiatives"
+title: "42390 - VILLARS"
 description: "42390 - VILLARS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

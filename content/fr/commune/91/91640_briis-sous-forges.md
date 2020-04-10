@@ -1,5 +1,5 @@
 ---
-title: "91640 - BRIIS SOUS FORGES | Entraide, Annonces, Initiatives"
+title: "91640 - BRIIS SOUS FORGES"
 description: "91640 - BRIIS SOUS FORGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

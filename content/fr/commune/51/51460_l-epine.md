@@ -1,5 +1,5 @@
 ---
-title: "51460 - L EPINE | Entraide, Annonces, Initiatives"
+title: "51460 - L EPINE"
 description: "51460 - L EPINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

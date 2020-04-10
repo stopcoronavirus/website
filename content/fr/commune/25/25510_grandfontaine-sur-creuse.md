@@ -1,5 +1,5 @@
 ---
-title: "25510 - GRANDFONTAINE SUR CREUSE | Entraide, Annonces, Initiatives"
+title: "25510 - GRANDFONTAINE SUR CREUSE"
 description: "25510 - GRANDFONTAINE SUR CREUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

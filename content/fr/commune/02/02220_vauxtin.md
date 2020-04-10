@@ -1,5 +1,5 @@
 ---
-title: "02220 - VAUXTIN | Entraide, Annonces, Initiatives"
+title: "02220 - VAUXTIN"
 description: "02220 - VAUXTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

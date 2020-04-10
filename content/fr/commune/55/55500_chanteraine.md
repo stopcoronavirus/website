@@ -1,5 +1,5 @@
 ---
-title: "55500 - CHANTERAINE | Entraide, Annonces, Initiatives"
+title: "55500 - CHANTERAINE"
 description: "55500 - CHANTERAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

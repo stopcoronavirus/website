@@ -1,5 +1,5 @@
 ---
-title: "34520 - ST FELIX DE L HERAS | Entraide, Annonces, Initiatives"
+title: "34520 - ST FELIX DE L HERAS"
 description: "34520 - ST FELIX DE L HERAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

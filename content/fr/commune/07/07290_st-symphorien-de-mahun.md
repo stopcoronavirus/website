@@ -1,5 +1,5 @@
 ---
-title: "07290 - ST SYMPHORIEN DE MAHUN | Entraide, Annonces, Initiatives"
+title: "07290 - ST SYMPHORIEN DE MAHUN"
 description: "07290 - ST SYMPHORIEN DE MAHUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

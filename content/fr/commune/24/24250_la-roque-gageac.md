@@ -1,5 +1,5 @@
 ---
-title: "24250 - LA ROQUE GAGEAC | Entraide, Annonces, Initiatives"
+title: "24250 - LA ROQUE GAGEAC"
 description: "24250 - LA ROQUE GAGEAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

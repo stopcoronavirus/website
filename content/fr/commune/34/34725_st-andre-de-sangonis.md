@@ -1,5 +1,5 @@
 ---
-title: "34725 - ST ANDRE DE SANGONIS | Entraide, Annonces, Initiatives"
+title: "34725 - ST ANDRE DE SANGONIS"
 description: "34725 - ST ANDRE DE SANGONIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

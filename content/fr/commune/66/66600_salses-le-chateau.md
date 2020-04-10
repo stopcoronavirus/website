@@ -1,5 +1,5 @@
 ---
-title: "66600 - SALSES LE CHATEAU | Entraide, Annonces, Initiatives"
+title: "66600 - SALSES LE CHATEAU"
 description: "66600 - SALSES LE CHATEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

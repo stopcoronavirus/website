@@ -1,5 +1,5 @@
 ---
-title: "85320 - LA COUTURE | Entraide, Annonces, Initiatives"
+title: "85320 - LA COUTURE"
 description: "85320 - LA COUTURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

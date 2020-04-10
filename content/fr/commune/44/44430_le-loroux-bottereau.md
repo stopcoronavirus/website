@@ -1,5 +1,5 @@
 ---
-title: "44430 - LE LOROUX BOTTEREAU | Entraide, Annonces, Initiatives"
+title: "44430 - LE LOROUX BOTTEREAU"
 description: "44430 - LE LOROUX BOTTEREAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

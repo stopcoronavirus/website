@@ -1,5 +1,5 @@
 ---
-title: "38760 - VARCES ALLIERES ET RISSET | Entraide, Annonces, Initiatives"
+title: "38760 - VARCES ALLIERES ET RISSET"
 description: "38760 - VARCES ALLIERES ET RISSET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

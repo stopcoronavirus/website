@@ -1,5 +1,5 @@
 ---
-title: "68420 - HUSSEREN LES CHATEAUX | Entraide, Annonces, Initiatives"
+title: "68420 - HUSSEREN LES CHATEAUX"
 description: "68420 - HUSSEREN LES CHATEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "43320 - LE VERNET | Entraide, Annonces, Initiatives"
+title: "43320 - LE VERNET"
 description: "43320 - LE VERNET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

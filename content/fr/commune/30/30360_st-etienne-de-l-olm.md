@@ -1,5 +1,5 @@
 ---
-title: "30360 - ST ETIENNE DE L OLM | Entraide, Annonces, Initiatives"
+title: "30360 - ST ETIENNE DE L OLM"
 description: "30360 - ST ETIENNE DE L OLM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

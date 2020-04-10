@@ -1,5 +1,5 @@
 ---
-title: "55700 - AUTREVILLE ST LAMBERT | Entraide, Annonces, Initiatives"
+title: "55700 - AUTREVILLE ST LAMBERT"
 description: "55700 - AUTREVILLE ST LAMBERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

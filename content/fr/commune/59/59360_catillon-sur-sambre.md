@@ -1,5 +1,5 @@
 ---
-title: "59360 - CATILLON SUR SAMBRE | Entraide, Annonces, Initiatives"
+title: "59360 - CATILLON SUR SAMBRE"
 description: "59360 - CATILLON SUR SAMBRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

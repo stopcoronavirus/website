@@ -1,5 +1,5 @@
 ---
-title: "47250 - GUERIN | Entraide, Annonces, Initiatives"
+title: "47250 - GUERIN"
 description: "47250 - GUERIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

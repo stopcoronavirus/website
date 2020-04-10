@@ -1,5 +1,5 @@
 ---
-title: "72170 - ASSE LE RIBOUL | Entraide, Annonces, Initiatives"
+title: "72170 - ASSE LE RIBOUL"
 description: "72170 - ASSE LE RIBOUL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

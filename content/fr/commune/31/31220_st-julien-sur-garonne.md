@@ -1,5 +1,5 @@
 ---
-title: "31220 - ST JULIEN SUR GARONNE | Entraide, Annonces, Initiatives"
+title: "31220 - ST JULIEN SUR GARONNE"
 description: "31220 - ST JULIEN SUR GARONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

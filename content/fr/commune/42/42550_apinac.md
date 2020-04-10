@@ -1,5 +1,5 @@
 ---
-title: "42550 - APINAC | Entraide, Annonces, Initiatives"
+title: "42550 - APINAC"
 description: "42550 - APINAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

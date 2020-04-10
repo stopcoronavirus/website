@@ -1,5 +1,5 @@
 ---
-title: "42380 - PERIGNEUX | Entraide, Annonces, Initiatives"
+title: "42380 - PERIGNEUX"
 description: "42380 - PERIGNEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

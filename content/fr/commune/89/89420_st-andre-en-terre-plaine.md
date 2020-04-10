@@ -1,5 +1,5 @@
 ---
-title: "89420 - ST ANDRE EN TERRE PLAINE | Entraide, Annonces, Initiatives"
+title: "89420 - ST ANDRE EN TERRE PLAINE"
 description: "89420 - ST ANDRE EN TERRE PLAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

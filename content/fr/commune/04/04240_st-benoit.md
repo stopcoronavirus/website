@@ -1,5 +1,5 @@
 ---
-title: "04240 - ST BENOIT | Entraide, Annonces, Initiatives"
+title: "04240 - ST BENOIT"
 description: "04240 - ST BENOIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

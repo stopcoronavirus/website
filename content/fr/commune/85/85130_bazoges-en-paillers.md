@@ -1,5 +1,5 @@
 ---
-title: "85130 - BAZOGES EN PAILLERS | Entraide, Annonces, Initiatives"
+title: "85130 - BAZOGES EN PAILLERS"
 description: "85130 - BAZOGES EN PAILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

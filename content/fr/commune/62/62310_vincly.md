@@ -1,5 +1,5 @@
 ---
-title: "62310 - VINCLY | Entraide, Annonces, Initiatives"
+title: "62310 - VINCLY"
 description: "62310 - VINCLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "89570 - LASSON | Entraide, Annonces, Initiatives"
+title: "89570 - LASSON"
 description: "89570 - LASSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

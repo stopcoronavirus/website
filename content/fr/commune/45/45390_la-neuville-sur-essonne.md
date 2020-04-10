@@ -1,5 +1,5 @@
 ---
-title: "45390 - LA NEUVILLE SUR ESSONNE | Entraide, Annonces, Initiatives"
+title: "45390 - LA NEUVILLE SUR ESSONNE"
 description: "45390 - LA NEUVILLE SUR ESSONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

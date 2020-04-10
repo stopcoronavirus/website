@@ -1,5 +1,5 @@
 ---
-title: "35133 - ST GERMAIN EN COGLES | Entraide, Annonces, Initiatives"
+title: "35133 - ST GERMAIN EN COGLES"
 description: "35133 - ST GERMAIN EN COGLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

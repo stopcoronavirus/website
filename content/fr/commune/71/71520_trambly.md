@@ -1,5 +1,5 @@
 ---
-title: "71520 - TRAMBLY | Entraide, Annonces, Initiatives"
+title: "71520 - TRAMBLY"
 description: "71520 - TRAMBLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

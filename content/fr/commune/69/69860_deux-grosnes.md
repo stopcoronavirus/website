@@ -1,5 +1,5 @@
 ---
-title: "69860 - DEUX GROSNES | Entraide, Annonces, Initiatives"
+title: "69860 - DEUX GROSNES"
 description: "69860 - DEUX GROSNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

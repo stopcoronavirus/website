@@ -1,5 +1,5 @@
 ---
-title: "45270 - FREVILLE DU GATINAIS | Entraide, Annonces, Initiatives"
+title: "45270 - FREVILLE DU GATINAIS"
 description: "45270 - FREVILLE DU GATINAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

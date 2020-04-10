@@ -1,5 +1,5 @@
 ---
-title: "19600 - ESTIVALS | Entraide, Annonces, Initiatives"
+title: "19600 - ESTIVALS"
 description: "19600 - ESTIVALS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

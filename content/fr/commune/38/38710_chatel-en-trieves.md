@@ -1,5 +1,5 @@
 ---
-title: "38710 - CHATEL EN TRIEVES | Entraide, Annonces, Initiatives"
+title: "38710 - CHATEL EN TRIEVES"
 description: "38710 - CHATEL EN TRIEVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

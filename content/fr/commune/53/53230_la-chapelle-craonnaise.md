@@ -1,5 +1,5 @@
 ---
-title: "53230 - LA CHAPELLE CRAONNAISE | Entraide, Annonces, Initiatives"
+title: "53230 - LA CHAPELLE CRAONNAISE"
 description: "53230 - LA CHAPELLE CRAONNAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

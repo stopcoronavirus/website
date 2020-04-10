@@ -1,5 +1,5 @@
 ---
-title: "22590 - TREGOMEUR | Entraide, Annonces, Initiatives"
+title: "22590 - TREGOMEUR"
 description: "22590 - TREGOMEUR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

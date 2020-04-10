@@ -1,5 +1,5 @@
 ---
-title: "61230 - ORGERES | Entraide, Annonces, Initiatives"
+title: "61230 - ORGERES"
 description: "61230 - ORGERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

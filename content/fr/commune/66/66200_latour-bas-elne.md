@@ -1,5 +1,5 @@
 ---
-title: "66200 - LATOUR BAS ELNE | Entraide, Annonces, Initiatives"
+title: "66200 - LATOUR BAS ELNE"
 description: "66200 - LATOUR BAS ELNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

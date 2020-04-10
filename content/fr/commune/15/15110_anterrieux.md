@@ -1,5 +1,5 @@
 ---
-title: "15110 - ANTERRIEUX | Entraide, Annonces, Initiatives"
+title: "15110 - ANTERRIEUX"
 description: "15110 - ANTERRIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

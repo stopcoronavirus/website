@@ -1,5 +1,5 @@
 ---
-title: "58110 - DUN SUR GRANDRY | Entraide, Annonces, Initiatives"
+title: "58110 - DUN SUR GRANDRY"
 description: "58110 - DUN SUR GRANDRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

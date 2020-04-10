@@ -1,5 +1,5 @@
 ---
-title: "07000 - ST JULIEN EN ST ALBAN | Entraide, Annonces, Initiatives"
+title: "07000 - ST JULIEN EN ST ALBAN"
 description: "07000 - ST JULIEN EN ST ALBAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

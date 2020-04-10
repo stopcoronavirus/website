@@ -1,5 +1,5 @@
 ---
-title: "12260 - ST IGEST | Entraide, Annonces, Initiatives"
+title: "12260 - ST IGEST"
 description: "12260 - ST IGEST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

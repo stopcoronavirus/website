@@ -1,5 +1,5 @@
 ---
-title: "62420 - BILLY MONTIGNY | Entraide, Annonces, Initiatives"
+title: "62420 - BILLY MONTIGNY"
 description: "62420 - BILLY MONTIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

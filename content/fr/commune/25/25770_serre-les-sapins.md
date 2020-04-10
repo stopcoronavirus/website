@@ -1,5 +1,5 @@
 ---
-title: "25770 - SERRE LES SAPINS | Entraide, Annonces, Initiatives"
+title: "25770 - SERRE LES SAPINS"
 description: "25770 - SERRE LES SAPINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

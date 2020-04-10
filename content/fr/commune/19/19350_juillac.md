@@ -1,5 +1,5 @@
 ---
-title: "19350 - JUILLAC | Entraide, Annonces, Initiatives"
+title: "19350 - JUILLAC"
 description: "19350 - JUILLAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "25420 - BERCHE | Entraide, Annonces, Initiatives"
+title: "25420 - BERCHE"
 description: "25420 - BERCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

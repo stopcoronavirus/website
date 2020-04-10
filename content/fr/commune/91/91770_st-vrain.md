@@ -1,5 +1,5 @@
 ---
-title: "91770 - ST VRAIN | Entraide, Annonces, Initiatives"
+title: "91770 - ST VRAIN"
 description: "91770 - ST VRAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

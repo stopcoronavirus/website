@@ -1,5 +1,5 @@
 ---
-title: "30960 - ST JEAN DE VALERISCLE | Entraide, Annonces, Initiatives"
+title: "30960 - ST JEAN DE VALERISCLE"
 description: "30960 - ST JEAN DE VALERISCLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

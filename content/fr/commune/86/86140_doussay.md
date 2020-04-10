@@ -1,5 +1,5 @@
 ---
-title: "86140 - DOUSSAY | Entraide, Annonces, Initiatives"
+title: "86140 - DOUSSAY"
 description: "86140 - DOUSSAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "04500 - ROUMOULES | Entraide, Annonces, Initiatives"
+title: "04500 - ROUMOULES"
 description: "04500 - ROUMOULES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "88800 - LIGNEVILLE | Entraide, Annonces, Initiatives"
+title: "88800 - LIGNEVILLE"
 description: "88800 - LIGNEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

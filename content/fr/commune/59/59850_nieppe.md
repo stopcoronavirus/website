@@ -1,5 +1,5 @@
 ---
-title: "59850 - NIEPPE | Entraide, Annonces, Initiatives"
+title: "59850 - NIEPPE"
 description: "59850 - NIEPPE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

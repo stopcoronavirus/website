@@ -1,5 +1,5 @@
 ---
-title: "42120 - LE COTEAU | Entraide, Annonces, Initiatives"
+title: "42120 - LE COTEAU"
 description: "42120 - LE COTEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

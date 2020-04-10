@@ -1,5 +1,5 @@
 ---
-title: "67770 - STATTMATTEN | Entraide, Annonces, Initiatives"
+title: "67770 - STATTMATTEN"
 description: "67770 - STATTMATTEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "97250 - FONDS ST DENIS | Entraide, Annonces, Initiatives"
+title: "97250 - FONDS ST DENIS"
 description: "97250 - FONDS ST DENIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

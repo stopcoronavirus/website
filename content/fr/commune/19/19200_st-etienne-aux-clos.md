@@ -1,5 +1,5 @@
 ---
-title: "19200 - ST ETIENNE AUX CLOS | Entraide, Annonces, Initiatives"
+title: "19200 - ST ETIENNE AUX CLOS"
 description: "19200 - ST ETIENNE AUX CLOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

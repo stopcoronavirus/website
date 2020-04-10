@@ -1,5 +1,5 @@
 ---
-title: "28130 - ST MARTIN DE NIGELLES | Entraide, Annonces, Initiatives"
+title: "28130 - ST MARTIN DE NIGELLES"
 description: "28130 - ST MARTIN DE NIGELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

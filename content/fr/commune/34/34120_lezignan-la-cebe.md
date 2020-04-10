@@ -1,5 +1,5 @@
 ---
-title: "34120 - LEZIGNAN LA CEBE | Entraide, Annonces, Initiatives"
+title: "34120 - LEZIGNAN LA CEBE"
 description: "34120 - LEZIGNAN LA CEBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

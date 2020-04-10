@@ -1,5 +1,5 @@
 ---
-title: "79400 - ST GEORGES DE NOISNE | Entraide, Annonces, Initiatives"
+title: "79400 - ST GEORGES DE NOISNE"
 description: "79400 - ST GEORGES DE NOISNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

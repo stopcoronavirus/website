@@ -1,5 +1,5 @@
 ---
-title: "11120 - STE VALIERE | Entraide, Annonces, Initiatives"
+title: "11120 - STE VALIERE"
 description: "11120 - STE VALIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

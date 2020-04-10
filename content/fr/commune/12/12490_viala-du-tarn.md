@@ -1,5 +1,5 @@
 ---
-title: "12490 - VIALA DU TARN | Entraide, Annonces, Initiatives"
+title: "12490 - VIALA DU TARN"
 description: "12490 - VIALA DU TARN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

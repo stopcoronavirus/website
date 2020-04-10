@@ -1,5 +1,5 @@
 ---
-title: "72560 - CHANGE | Entraide, Annonces, Initiatives"
+title: "72560 - CHANGE"
 description: "72560 - CHANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

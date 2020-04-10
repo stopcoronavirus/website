@@ -1,5 +1,5 @@
 ---
-title: "21220 - DETAIN ET BRUANT | Entraide, Annonces, Initiatives"
+title: "21220 - DETAIN ET BRUANT"
 description: "21220 - DETAIN ET BRUANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

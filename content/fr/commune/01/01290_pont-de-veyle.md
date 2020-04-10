@@ -1,5 +1,5 @@
 ---
-title: "01290 - PONT DE VEYLE | Entraide, Annonces, Initiatives"
+title: "01290 - PONT DE VEYLE"
 description: "01290 - PONT DE VEYLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

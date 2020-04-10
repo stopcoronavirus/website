@@ -1,5 +1,5 @@
 ---
-title: "97270 - ST ESPRIT | Entraide, Annonces, Initiatives"
+title: "97270 - ST ESPRIT"
 description: "97270 - ST ESPRIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

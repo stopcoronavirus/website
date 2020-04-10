@@ -1,5 +1,5 @@
 ---
-title: "07600 - JUVINAS | Entraide, Annonces, Initiatives"
+title: "07600 - JUVINAS"
 description: "07600 - JUVINAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

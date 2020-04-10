@@ -1,5 +1,5 @@
 ---
-title: "69125 - COLOMBIER SAUGNIEU | Entraide, Annonces, Initiatives"
+title: "69125 - COLOMBIER SAUGNIEU"
 description: "69125 - COLOMBIER SAUGNIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

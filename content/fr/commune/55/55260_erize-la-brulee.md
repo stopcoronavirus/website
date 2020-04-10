@@ -1,5 +1,5 @@
 ---
-title: "55260 - ERIZE LA BRULEE | Entraide, Annonces, Initiatives"
+title: "55260 - ERIZE LA BRULEE"
 description: "55260 - ERIZE LA BRULEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

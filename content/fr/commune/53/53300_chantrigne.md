@@ -1,5 +1,5 @@
 ---
-title: "53300 - CHANTRIGNE | Entraide, Annonces, Initiatives"
+title: "53300 - CHANTRIGNE"
 description: "53300 - CHANTRIGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

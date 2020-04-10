@@ -1,5 +1,5 @@
 ---
-title: "67120 - DUPPIGHEIM | Entraide, Annonces, Initiatives"
+title: "67120 - DUPPIGHEIM"
 description: "67120 - DUPPIGHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

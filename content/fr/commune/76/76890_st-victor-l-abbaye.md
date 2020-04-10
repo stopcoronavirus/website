@@ -1,5 +1,5 @@
 ---
-title: "76890 - ST VICTOR L ABBAYE | Entraide, Annonces, Initiatives"
+title: "76890 - ST VICTOR L ABBAYE"
 description: "76890 - ST VICTOR L ABBAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

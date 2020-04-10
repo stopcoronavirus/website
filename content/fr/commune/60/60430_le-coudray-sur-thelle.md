@@ -1,5 +1,5 @@
 ---
-title: "60430 - LE COUDRAY SUR THELLE | Entraide, Annonces, Initiatives"
+title: "60430 - LE COUDRAY SUR THELLE"
 description: "60430 - LE COUDRAY SUR THELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

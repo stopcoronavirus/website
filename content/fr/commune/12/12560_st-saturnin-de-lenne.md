@@ -1,5 +1,5 @@
 ---
-title: "12560 - ST SATURNIN DE LENNE | Entraide, Annonces, Initiatives"
+title: "12560 - ST SATURNIN DE LENNE"
 description: "12560 - ST SATURNIN DE LENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

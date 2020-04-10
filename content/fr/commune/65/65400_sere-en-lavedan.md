@@ -1,5 +1,5 @@
 ---
-title: "65400 - SERE EN LAVEDAN | Entraide, Annonces, Initiatives"
+title: "65400 - SERE EN LAVEDAN"
 description: "65400 - SERE EN LAVEDAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

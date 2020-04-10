@@ -1,5 +1,5 @@
 ---
-title: "89140 - PONT SUR YONNE | Entraide, Annonces, Initiatives"
+title: "89140 - PONT SUR YONNE"
 description: "89140 - PONT SUR YONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

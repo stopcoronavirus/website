@@ -1,5 +1,5 @@
 ---
-title: "36400 - VERNEUIL SUR IGNERAIE | Entraide, Annonces, Initiatives"
+title: "36400 - VERNEUIL SUR IGNERAIE"
 description: "36400 - VERNEUIL SUR IGNERAIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

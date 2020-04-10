@@ -1,5 +1,5 @@
 ---
-title: "94270 - LE KREMLIN BICETRE | Entraide, Annonces, Initiatives"
+title: "94270 - LE KREMLIN BICETRE"
 description: "94270 - LE KREMLIN BICETRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

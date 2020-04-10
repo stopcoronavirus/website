@@ -1,5 +1,5 @@
 ---
-title: "65250 - ST ARROMAN | Entraide, Annonces, Initiatives"
+title: "65250 - ST ARROMAN"
 description: "65250 - ST ARROMAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

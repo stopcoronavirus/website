@@ -1,5 +1,5 @@
 ---
-title: "08260 - GIRONDELLE | Entraide, Annonces, Initiatives"
+title: "08260 - GIRONDELLE"
 description: "08260 - GIRONDELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

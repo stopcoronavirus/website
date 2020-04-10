@@ -1,5 +1,5 @@
 ---
-title: "64190 - CASTETBON | Entraide, Annonces, Initiatives"
+title: "64190 - CASTETBON"
 description: "64190 - CASTETBON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

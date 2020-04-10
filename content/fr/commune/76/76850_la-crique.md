@@ -1,5 +1,5 @@
 ---
-title: "76850 - LA CRIQUE | Entraide, Annonces, Initiatives"
+title: "76850 - LA CRIQUE"
 description: "76850 - LA CRIQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "23700 - AUZANCES | Entraide, Annonces, Initiatives"
+title: "23700 - AUZANCES"
 description: "23700 - AUZANCES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

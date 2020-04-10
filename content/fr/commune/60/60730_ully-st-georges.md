@@ -1,5 +1,5 @@
 ---
-title: "60730 - ULLY ST GEORGES | Entraide, Annonces, Initiatives"
+title: "60730 - ULLY ST GEORGES"
 description: "60730 - ULLY ST GEORGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

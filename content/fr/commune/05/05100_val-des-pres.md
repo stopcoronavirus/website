@@ -1,5 +1,5 @@
 ---
-title: "05100 - VAL DES PRES | Entraide, Annonces, Initiatives"
+title: "05100 - VAL DES PRES"
 description: "05100 - VAL DES PRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "81220 - MAGRIN | Entraide, Annonces, Initiatives"
+title: "81220 - MAGRIN"
 description: "81220 - MAGRIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

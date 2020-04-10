@@ -1,5 +1,5 @@
 ---
-title: "77250 - VILLECERF | Entraide, Annonces, Initiatives"
+title: "77250 - VILLECERF"
 description: "77250 - VILLECERF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

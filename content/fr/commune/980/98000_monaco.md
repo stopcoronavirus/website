@@ -1,5 +1,5 @@
 ---
-title: "98000 - MONACO | Entraide, Annonces, Initiatives"
+title: "98000 - MONACO"
 description: "98000 - MONACO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59300 - AULNOY LEZ VALENCIENNES | Entraide, Annonces, Initiatives"
+title: "59300 - AULNOY LEZ VALENCIENNES"
 description: "59300 - AULNOY LEZ VALENCIENNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

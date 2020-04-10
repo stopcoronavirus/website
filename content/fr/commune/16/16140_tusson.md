@@ -1,5 +1,5 @@
 ---
-title: "16140 - TUSSON | Entraide, Annonces, Initiatives"
+title: "16140 - TUSSON"
 description: "16140 - TUSSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

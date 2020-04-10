@@ -1,5 +1,5 @@
 ---
-title: "17250 - BEURLAY | Entraide, Annonces, Initiatives"
+title: "17250 - BEURLAY"
 description: "17250 - BEURLAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

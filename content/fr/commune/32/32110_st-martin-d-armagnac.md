@@ -1,5 +1,5 @@
 ---
-title: "32110 - ST MARTIN D ARMAGNAC | Entraide, Annonces, Initiatives"
+title: "32110 - ST MARTIN D ARMAGNAC"
 description: "32110 - ST MARTIN D ARMAGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

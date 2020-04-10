@@ -1,5 +1,5 @@
 ---
-title: "10110 - LANDREVILLE | Entraide, Annonces, Initiatives"
+title: "10110 - LANDREVILLE"
 description: "10110 - LANDREVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

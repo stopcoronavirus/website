@@ -1,5 +1,5 @@
 ---
-title: "25140 - LES ECORCES | Entraide, Annonces, Initiatives"
+title: "25140 - LES ECORCES"
 description: "25140 - LES ECORCES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

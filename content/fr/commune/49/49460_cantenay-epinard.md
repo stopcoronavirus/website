@@ -1,5 +1,5 @@
 ---
-title: "49460 - CANTENAY EPINARD | Entraide, Annonces, Initiatives"
+title: "49460 - CANTENAY EPINARD"
 description: "49460 - CANTENAY EPINARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

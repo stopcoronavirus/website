@@ -1,5 +1,5 @@
 ---
-title: "61200 - SARCEAUX | Entraide, Annonces, Initiatives"
+title: "61200 - SARCEAUX"
 description: "61200 - SARCEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

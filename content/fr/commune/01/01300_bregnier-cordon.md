@@ -1,5 +1,5 @@
 ---
-title: "01300 - BREGNIER CORDON | Entraide, Annonces, Initiatives"
+title: "01300 - BREGNIER CORDON"
 description: "01300 - BREGNIER CORDON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

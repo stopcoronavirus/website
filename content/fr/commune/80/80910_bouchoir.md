@@ -1,5 +1,5 @@
 ---
-title: "80910 - BOUCHOIR | Entraide, Annonces, Initiatives"
+title: "80910 - BOUCHOIR"
 description: "80910 - BOUCHOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

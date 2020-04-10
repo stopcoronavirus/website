@@ -1,5 +1,5 @@
 ---
-title: "21460 - TOUTRY | Entraide, Annonces, Initiatives"
+title: "21460 - TOUTRY"
 description: "21460 - TOUTRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

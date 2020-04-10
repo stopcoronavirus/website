@@ -1,5 +1,5 @@
 ---
-title: "37700 - ST PIERRE DES CORPS | Entraide, Annonces, Initiatives"
+title: "37700 - ST PIERRE DES CORPS"
 description: "37700 - ST PIERRE DES CORPS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

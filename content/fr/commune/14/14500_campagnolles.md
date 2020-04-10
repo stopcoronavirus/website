@@ -1,5 +1,5 @@
 ---
-title: "14500 - CAMPAGNOLLES | Entraide, Annonces, Initiatives"
+title: "14500 - CAMPAGNOLLES"
 description: "14500 - CAMPAGNOLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

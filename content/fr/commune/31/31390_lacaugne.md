@@ -1,5 +1,5 @@
 ---
-title: "31390 - LACAUGNE | Entraide, Annonces, Initiatives"
+title: "31390 - LACAUGNE"
 description: "31390 - LACAUGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

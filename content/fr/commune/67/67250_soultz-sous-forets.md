@@ -1,5 +1,5 @@
 ---
-title: "67250 - SOULTZ SOUS FORETS | Entraide, Annonces, Initiatives"
+title: "67250 - SOULTZ SOUS FORETS"
 description: "67250 - SOULTZ SOUS FORETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "59179 - FENAIN | Entraide, Annonces, Initiatives"
+title: "59179 - FENAIN"
 description: "59179 - FENAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

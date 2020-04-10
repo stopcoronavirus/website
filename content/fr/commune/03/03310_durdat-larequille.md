@@ -1,5 +1,5 @@
 ---
-title: "03310 - DURDAT LAREQUILLE | Entraide, Annonces, Initiatives"
+title: "03310 - DURDAT LAREQUILLE"
 description: "03310 - DURDAT LAREQUILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

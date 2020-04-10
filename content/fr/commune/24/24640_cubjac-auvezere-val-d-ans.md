@@ -1,5 +1,5 @@
 ---
-title: "24640 - CUBJAC AUVEZERE VAL D ANS | Entraide, Annonces, Initiatives"
+title: "24640 - CUBJAC AUVEZERE VAL D ANS"
 description: "24640 - CUBJAC AUVEZERE VAL D ANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

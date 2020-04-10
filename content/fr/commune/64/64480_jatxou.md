@@ -1,5 +1,5 @@
 ---
-title: "64480 - JATXOU | Entraide, Annonces, Initiatives"
+title: "64480 - JATXOU"
 description: "64480 - JATXOU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

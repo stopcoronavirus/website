@@ -1,5 +1,5 @@
 ---
-title: "38590 - BREZINS | Entraide, Annonces, Initiatives"
+title: "38590 - BREZINS"
 description: "38590 - BREZINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

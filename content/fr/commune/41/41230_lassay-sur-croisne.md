@@ -1,5 +1,5 @@
 ---
-title: "41230 - LASSAY SUR CROISNE | Entraide, Annonces, Initiatives"
+title: "41230 - LASSAY SUR CROISNE"
 description: "41230 - LASSAY SUR CROISNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

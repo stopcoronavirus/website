@@ -1,5 +1,5 @@
 ---
-title: "70140 - CHANCEY | Entraide, Annonces, Initiatives"
+title: "70140 - CHANCEY"
 description: "70140 - CHANCEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

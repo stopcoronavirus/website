@@ -1,5 +1,5 @@
 ---
-title: "45530 - SURY AUX BOIS | Entraide, Annonces, Initiatives"
+title: "45530 - SURY AUX BOIS"
 description: "45530 - SURY AUX BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

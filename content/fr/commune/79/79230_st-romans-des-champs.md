@@ -1,5 +1,5 @@
 ---
-title: "79230 - ST ROMANS DES CHAMPS | Entraide, Annonces, Initiatives"
+title: "79230 - ST ROMANS DES CHAMPS"
 description: "79230 - ST ROMANS DES CHAMPS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

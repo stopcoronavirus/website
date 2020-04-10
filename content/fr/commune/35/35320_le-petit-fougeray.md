@@ -1,5 +1,5 @@
 ---
-title: "35320 - LE PETIT FOUGERAY | Entraide, Annonces, Initiatives"
+title: "35320 - LE PETIT FOUGERAY"
 description: "35320 - LE PETIT FOUGERAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

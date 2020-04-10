@@ -1,5 +1,5 @@
 ---
-title: "11360 - EMBRES ET CASTELMAURE | Entraide, Annonces, Initiatives"
+title: "11360 - EMBRES ET CASTELMAURE"
 description: "11360 - EMBRES ET CASTELMAURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

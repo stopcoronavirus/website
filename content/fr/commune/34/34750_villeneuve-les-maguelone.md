@@ -1,5 +1,5 @@
 ---
-title: "34750 - VILLENEUVE LES MAGUELONE | Entraide, Annonces, Initiatives"
+title: "34750 - VILLENEUVE LES MAGUELONE"
 description: "34750 - VILLENEUVE LES MAGUELONE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

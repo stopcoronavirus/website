@@ -1,5 +1,5 @@
 ---
-title: "34660 - COURNONSEC | Entraide, Annonces, Initiatives"
+title: "34660 - COURNONSEC"
 description: "34660 - COURNONSEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "88470 - LA VOIVRE | Entraide, Annonces, Initiatives"
+title: "88470 - LA VOIVRE"
 description: "88470 - LA VOIVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

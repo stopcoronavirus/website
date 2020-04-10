@@ -1,5 +1,5 @@
 ---
-title: "63530 - CHANAT LA MOUTEYRE | Entraide, Annonces, Initiatives"
+title: "63530 - CHANAT LA MOUTEYRE"
 description: "63530 - CHANAT LA MOUTEYRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

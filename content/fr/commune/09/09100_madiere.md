@@ -1,5 +1,5 @@
 ---
-title: "09100 - MADIERE | Entraide, Annonces, Initiatives"
+title: "09100 - MADIERE"
 description: "09100 - MADIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

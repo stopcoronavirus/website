@@ -1,5 +1,5 @@
 ---
-title: "16470 - ST MICHEL | Entraide, Annonces, Initiatives"
+title: "16470 - ST MICHEL"
 description: "16470 - ST MICHEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

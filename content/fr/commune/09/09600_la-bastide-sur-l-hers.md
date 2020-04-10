@@ -1,5 +1,5 @@
 ---
-title: "09600 - LA BASTIDE SUR L HERS | Entraide, Annonces, Initiatives"
+title: "09600 - LA BASTIDE SUR L HERS"
 description: "09600 - LA BASTIDE SUR L HERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

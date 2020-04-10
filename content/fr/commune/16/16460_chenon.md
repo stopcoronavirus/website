@@ -1,5 +1,5 @@
 ---
-title: "16460 - CHENON | Entraide, Annonces, Initiatives"
+title: "16460 - CHENON"
 description: "16460 - CHENON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

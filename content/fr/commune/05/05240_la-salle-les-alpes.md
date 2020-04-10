@@ -1,5 +1,5 @@
 ---
-title: "05240 - LA SALLE LES ALPES | Entraide, Annonces, Initiatives"
+title: "05240 - LA SALLE LES ALPES"
 description: "05240 - LA SALLE LES ALPES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

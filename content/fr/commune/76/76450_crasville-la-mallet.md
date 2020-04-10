@@ -1,5 +1,5 @@
 ---
-title: "76450 - CRASVILLE LA MALLET | Entraide, Annonces, Initiatives"
+title: "76450 - CRASVILLE LA MALLET"
 description: "76450 - CRASVILLE LA MALLET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

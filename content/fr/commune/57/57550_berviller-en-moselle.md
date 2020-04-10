@@ -1,5 +1,5 @@
 ---
-title: "57550 - BERVILLER EN MOSELLE | Entraide, Annonces, Initiatives"
+title: "57550 - BERVILLER EN MOSELLE"
 description: "57550 - BERVILLER EN MOSELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

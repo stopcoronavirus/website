@@ -1,5 +1,5 @@
 ---
-title: "51460 - TILLOY ET BELLAY | Entraide, Annonces, Initiatives"
+title: "51460 - TILLOY ET BELLAY"
 description: "51460 - TILLOY ET BELLAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

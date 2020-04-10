@@ -1,5 +1,5 @@
 ---
-title: "47470 - DONDAS | Entraide, Annonces, Initiatives"
+title: "47470 - DONDAS"
 description: "47470 - DONDAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

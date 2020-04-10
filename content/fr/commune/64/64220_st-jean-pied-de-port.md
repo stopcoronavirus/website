@@ -1,5 +1,5 @@
 ---
-title: "64220 - ST JEAN PIED DE PORT | Entraide, Annonces, Initiatives"
+title: "64220 - ST JEAN PIED DE PORT"
 description: "64220 - ST JEAN PIED DE PORT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

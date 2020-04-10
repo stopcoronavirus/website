@@ -1,5 +1,5 @@
 ---
-title: "54330 - OGNEVILLE | Entraide, Annonces, Initiatives"
+title: "54330 - OGNEVILLE"
 description: "54330 - OGNEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

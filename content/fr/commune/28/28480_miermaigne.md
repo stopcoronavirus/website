@@ -1,5 +1,5 @@
 ---
-title: "28480 - MIERMAIGNE | Entraide, Annonces, Initiatives"
+title: "28480 - MIERMAIGNE"
 description: "28480 - MIERMAIGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

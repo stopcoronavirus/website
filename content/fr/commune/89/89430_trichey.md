@@ -1,5 +1,5 @@
 ---
-title: "89430 - TRICHEY | Entraide, Annonces, Initiatives"
+title: "89430 - TRICHEY"
 description: "89430 - TRICHEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

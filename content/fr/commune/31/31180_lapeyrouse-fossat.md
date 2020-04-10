@@ -1,5 +1,5 @@
 ---
-title: "31180 - LAPEYROUSE FOSSAT | Entraide, Annonces, Initiatives"
+title: "31180 - LAPEYROUSE FOSSAT"
 description: "31180 - LAPEYROUSE FOSSAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

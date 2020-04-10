@@ -1,5 +1,5 @@
 ---
-title: "49370 - BECON LES GRANITS | Entraide, Annonces, Initiatives"
+title: "49370 - BECON LES GRANITS"
 description: "49370 - BECON LES GRANITS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "95140 - GARGES LES GONESSE | Entraide, Annonces, Initiatives"
+title: "95140 - GARGES LES GONESSE"
 description: "95140 - GARGES LES GONESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

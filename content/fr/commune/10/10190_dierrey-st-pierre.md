@@ -1,5 +1,5 @@
 ---
-title: "10190 - DIERREY ST PIERRE | Entraide, Annonces, Initiatives"
+title: "10190 - DIERREY ST PIERRE"
 description: "10190 - DIERREY ST PIERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

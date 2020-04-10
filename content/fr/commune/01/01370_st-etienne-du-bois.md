@@ -1,5 +1,5 @@
 ---
-title: "01370 - ST ETIENNE DU BOIS | Entraide, Annonces, Initiatives"
+title: "01370 - ST ETIENNE DU BOIS"
 description: "01370 - ST ETIENNE DU BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

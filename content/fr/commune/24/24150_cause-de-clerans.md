@@ -1,5 +1,5 @@
 ---
-title: "24150 - CAUSE DE CLERANS | Entraide, Annonces, Initiatives"
+title: "24150 - CAUSE DE CLERANS"
 description: "24150 - CAUSE DE CLERANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

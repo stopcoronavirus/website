@@ -1,5 +1,5 @@
 ---
-title: "23110 - RETERRE | Entraide, Annonces, Initiatives"
+title: "23110 - RETERRE"
 description: "23110 - RETERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

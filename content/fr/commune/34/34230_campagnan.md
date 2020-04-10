@@ -1,5 +1,5 @@
 ---
-title: "34230 - CAMPAGNAN | Entraide, Annonces, Initiatives"
+title: "34230 - CAMPAGNAN"
 description: "34230 - CAMPAGNAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

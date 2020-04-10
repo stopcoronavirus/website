@@ -1,5 +1,5 @@
 ---
-title: "24520 - COURS DE PILE | Entraide, Annonces, Initiatives"
+title: "24520 - COURS DE PILE"
 description: "24520 - COURS DE PILE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

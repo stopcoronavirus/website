@@ -1,5 +1,5 @@
 ---
-title: "25110 - DAMMARTIN LES TEMPLIERS | Entraide, Annonces, Initiatives"
+title: "25110 - DAMMARTIN LES TEMPLIERS"
 description: "25110 - DAMMARTIN LES TEMPLIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

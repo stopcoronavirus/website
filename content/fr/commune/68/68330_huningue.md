@@ -1,5 +1,5 @@
 ---
-title: "68330 - HUNINGUE | Entraide, Annonces, Initiatives"
+title: "68330 - HUNINGUE"
 description: "68330 - HUNINGUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

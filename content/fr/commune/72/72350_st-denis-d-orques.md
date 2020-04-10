@@ -1,5 +1,5 @@
 ---
-title: "72350 - ST DENIS D ORQUES | Entraide, Annonces, Initiatives"
+title: "72350 - ST DENIS D ORQUES"
 description: "72350 - ST DENIS D ORQUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

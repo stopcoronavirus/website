@@ -1,5 +1,5 @@
 ---
-title: "57390 - RUSSANGE | Entraide, Annonces, Initiatives"
+title: "57390 - RUSSANGE"
 description: "57390 - RUSSANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

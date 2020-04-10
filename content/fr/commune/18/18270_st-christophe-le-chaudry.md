@@ -1,5 +1,5 @@
 ---
-title: "18270 - ST CHRISTOPHE LE CHAUDRY | Entraide, Annonces, Initiatives"
+title: "18270 - ST CHRISTOPHE LE CHAUDRY"
 description: "18270 - ST CHRISTOPHE LE CHAUDRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

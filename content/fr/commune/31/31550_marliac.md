@@ -1,5 +1,5 @@
 ---
-title: "31550 - MARLIAC | Entraide, Annonces, Initiatives"
+title: "31550 - MARLIAC"
 description: "31550 - MARLIAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "23800 - MAISON FEYNE | Entraide, Annonces, Initiatives"
+title: "23800 - MAISON FEYNE"
 description: "23800 - MAISON FEYNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

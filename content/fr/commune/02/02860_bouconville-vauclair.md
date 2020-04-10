@@ -1,5 +1,5 @@
 ---
-title: "02860 - BOUCONVILLE VAUCLAIR | Entraide, Annonces, Initiatives"
+title: "02860 - BOUCONVILLE VAUCLAIR"
 description: "02860 - BOUCONVILLE VAUCLAIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

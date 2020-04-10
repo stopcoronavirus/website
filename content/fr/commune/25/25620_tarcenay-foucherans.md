@@ -1,5 +1,5 @@
 ---
-title: "25620 - TARCENAY FOUCHERANS | Entraide, Annonces, Initiatives"
+title: "25620 - TARCENAY FOUCHERANS"
 description: "25620 - TARCENAY FOUCHERANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

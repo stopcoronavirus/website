@@ -1,5 +1,5 @@
 ---
-title: "17400 - ST JEAN D ANGELY | Entraide, Annonces, Initiatives"
+title: "17400 - ST JEAN D ANGELY"
 description: "17400 - ST JEAN D ANGELY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

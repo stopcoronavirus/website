@@ -1,5 +1,5 @@
 ---
-title: "82100 - LES BARTHES | Entraide, Annonces, Initiatives"
+title: "82100 - LES BARTHES"
 description: "82100 - LES BARTHES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "13015 - MARSEILLE 15 | Entraide, Annonces, Initiatives"
+title: "13015 - MARSEILLE 15"
 description: "13015 - MARSEILLE 15 | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

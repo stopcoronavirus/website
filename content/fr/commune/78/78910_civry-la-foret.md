@@ -1,5 +1,5 @@
 ---
-title: "78910 - CIVRY LA FORET | Entraide, Annonces, Initiatives"
+title: "78910 - CIVRY LA FORET"
 description: "78910 - CIVRY LA FORET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

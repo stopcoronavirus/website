@@ -1,5 +1,5 @@
 ---
-title: "94400 - VITRY SUR SEINE | Entraide, Annonces, Initiatives"
+title: "94400 - VITRY SUR SEINE"
 description: "94400 - VITRY SUR SEINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "17130 - TUGERAS ST MAURICE | Entraide, Annonces, Initiatives"
+title: "17130 - TUGERAS ST MAURICE"
 description: "17130 - TUGERAS ST MAURICE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

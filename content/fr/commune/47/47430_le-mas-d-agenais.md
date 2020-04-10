@@ -1,5 +1,5 @@
 ---
-title: "47430 - LE MAS D AGENAIS | Entraide, Annonces, Initiatives"
+title: "47430 - LE MAS D AGENAIS"
 description: "47430 - LE MAS D AGENAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

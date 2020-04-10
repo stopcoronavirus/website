@@ -1,5 +1,5 @@
 ---
-title: "67700 - WOLSCHHEIM | Entraide, Annonces, Initiatives"
+title: "67700 - WOLSCHHEIM"
 description: "67700 - WOLSCHHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

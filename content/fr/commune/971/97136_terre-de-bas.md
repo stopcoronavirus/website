@@ -1,5 +1,5 @@
 ---
-title: "97136 - TERRE DE BAS | Entraide, Annonces, Initiatives"
+title: "97136 - TERRE DE BAS"
 description: "97136 - TERRE DE BAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

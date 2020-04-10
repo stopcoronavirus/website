@@ -1,5 +1,5 @@
 ---
-title: "27180 - TOURNEDOS BOIS HUBERT | Entraide, Annonces, Initiatives"
+title: "27180 - TOURNEDOS BOIS HUBERT"
 description: "27180 - TOURNEDOS BOIS HUBERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

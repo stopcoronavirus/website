@@ -1,5 +1,5 @@
 ---
-title: "30720 - RIBAUTE LES TAVERNES | Entraide, Annonces, Initiatives"
+title: "30720 - RIBAUTE LES TAVERNES"
 description: "30720 - RIBAUTE LES TAVERNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

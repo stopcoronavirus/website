@@ -1,5 +1,5 @@
 ---
-title: "17270 - CERCOUX | Entraide, Annonces, Initiatives"
+title: "17270 - CERCOUX"
 description: "17270 - CERCOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "08150 - LE CHATELET SUR SORMONNE | Entraide, Annonces, Initiatives"
+title: "08150 - LE CHATELET SUR SORMONNE"
 description: "08150 - LE CHATELET SUR SORMONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "65250 - LORTET | Entraide, Annonces, Initiatives"
+title: "65250 - LORTET"
 description: "65250 - LORTET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

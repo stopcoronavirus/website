@@ -1,5 +1,5 @@
 ---
-title: "27450 - ST GEORGES DU VIEVRE | Entraide, Annonces, Initiatives"
+title: "27450 - ST GEORGES DU VIEVRE"
 description: "27450 - ST GEORGES DU VIEVRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

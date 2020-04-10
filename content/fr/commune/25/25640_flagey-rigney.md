@@ -1,5 +1,5 @@
 ---
-title: "25640 - FLAGEY RIGNEY | Entraide, Annonces, Initiatives"
+title: "25640 - FLAGEY RIGNEY"
 description: "25640 - FLAGEY RIGNEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

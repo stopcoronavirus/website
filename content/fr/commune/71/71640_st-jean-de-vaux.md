@@ -1,5 +1,5 @@
 ---
-title: "71640 - ST JEAN DE VAUX | Entraide, Annonces, Initiatives"
+title: "71640 - ST JEAN DE VAUX"
 description: "71640 - ST JEAN DE VAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

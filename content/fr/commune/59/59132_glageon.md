@@ -1,5 +1,5 @@
 ---
-title: "59132 - GLAGEON | Entraide, Annonces, Initiatives"
+title: "59132 - GLAGEON"
 description: "59132 - GLAGEON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

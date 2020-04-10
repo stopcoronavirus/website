@@ -1,5 +1,5 @@
 ---
-title: "49140 - LOIRE AUTHION | Entraide, Annonces, Initiatives"
+title: "49140 - LOIRE AUTHION"
 description: "49140 - LOIRE AUTHION | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

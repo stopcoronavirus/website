@@ -1,5 +1,5 @@
 ---
-title: "02120 - LE HERIE LA VIEVILLE | Entraide, Annonces, Initiatives"
+title: "02120 - LE HERIE LA VIEVILLE"
 description: "02120 - LE HERIE LA VIEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

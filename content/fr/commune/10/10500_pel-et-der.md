@@ -1,5 +1,5 @@
 ---
-title: "10500 - PEL ET DER | Entraide, Annonces, Initiatives"
+title: "10500 - PEL ET DER"
 description: "10500 - PEL ET DER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

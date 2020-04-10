@@ -1,5 +1,5 @@
 ---
-title: "18160 - MONTLOUIS | Entraide, Annonces, Initiatives"
+title: "18160 - MONTLOUIS"
 description: "18160 - MONTLOUIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

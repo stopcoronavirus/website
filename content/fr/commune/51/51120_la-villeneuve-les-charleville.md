@@ -1,5 +1,5 @@
 ---
-title: "51120 - LA VILLENEUVE LES CHARLEVILLE | Entraide, Annonces, Initiatives"
+title: "51120 - LA VILLENEUVE LES CHARLEVILLE"
 description: "51120 - LA VILLENEUVE LES CHARLEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "79140 - MONTRAVERS | Entraide, Annonces, Initiatives"
+title: "79140 - MONTRAVERS"
 description: "79140 - MONTRAVERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

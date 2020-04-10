@@ -1,5 +1,5 @@
 ---
-title: "02190 - PIGNICOURT | Entraide, Annonces, Initiatives"
+title: "02190 - PIGNICOURT"
 description: "02190 - PIGNICOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

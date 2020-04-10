@@ -1,5 +1,5 @@
 ---
-title: "29460 - HANVEC | Entraide, Annonces, Initiatives"
+title: "29460 - HANVEC"
 description: "29460 - HANVEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

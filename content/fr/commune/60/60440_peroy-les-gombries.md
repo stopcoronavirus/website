@@ -1,5 +1,5 @@
 ---
-title: "60440 - PEROY LES GOMBRIES | Entraide, Annonces, Initiatives"
+title: "60440 - PEROY LES GOMBRIES"
 description: "60440 - PEROY LES GOMBRIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

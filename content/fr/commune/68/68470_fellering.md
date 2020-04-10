@@ -1,5 +1,5 @@
 ---
-title: "68470 - FELLERING | Entraide, Annonces, Initiatives"
+title: "68470 - FELLERING"
 description: "68470 - FELLERING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

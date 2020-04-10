@@ -1,5 +1,5 @@
 ---
-title: "42500 - LE CHAMBON FEUGEROLLES | Entraide, Annonces, Initiatives"
+title: "42500 - LE CHAMBON FEUGEROLLES"
 description: "42500 - LE CHAMBON FEUGEROLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

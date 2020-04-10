@@ -1,5 +1,5 @@
 ---
-title: "43700 - ST GERMAIN LAPRADE | Entraide, Annonces, Initiatives"
+title: "43700 - ST GERMAIN LAPRADE"
 description: "43700 - ST GERMAIN LAPRADE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

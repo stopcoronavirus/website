@@ -1,5 +1,5 @@
 ---
-title: "78840 - FRENEUSE | Entraide, Annonces, Initiatives"
+title: "78840 - FRENEUSE"
 description: "78840 - FRENEUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

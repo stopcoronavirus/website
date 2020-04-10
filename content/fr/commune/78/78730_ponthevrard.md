@@ -1,5 +1,5 @@
 ---
-title: "78730 - PONTHEVRARD | Entraide, Annonces, Initiatives"
+title: "78730 - PONTHEVRARD"
 description: "78730 - PONTHEVRARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

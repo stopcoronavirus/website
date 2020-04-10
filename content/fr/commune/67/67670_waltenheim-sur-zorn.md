@@ -1,5 +1,5 @@
 ---
-title: "67670 - WALTENHEIM SUR ZORN | Entraide, Annonces, Initiatives"
+title: "67670 - WALTENHEIM SUR ZORN"
 description: "67670 - WALTENHEIM SUR ZORN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

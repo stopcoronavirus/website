@@ -1,5 +1,5 @@
 ---
-title: "20253 - BARBAGGIO | Entraide, Annonces, Initiatives"
+title: "20253 - BARBAGGIO"
 description: "20253 - BARBAGGIO | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

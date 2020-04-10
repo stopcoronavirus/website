@@ -1,5 +1,5 @@
 ---
-title: "23000 - ANZEME | Entraide, Annonces, Initiatives"
+title: "23000 - ANZEME"
 description: "23000 - ANZEME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

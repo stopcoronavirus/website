@@ -1,5 +1,5 @@
 ---
-title: "08190 - BALHAM | Entraide, Annonces, Initiatives"
+title: "08190 - BALHAM"
 description: "08190 - BALHAM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

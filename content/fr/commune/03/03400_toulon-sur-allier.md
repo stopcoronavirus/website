@@ -1,5 +1,5 @@
 ---
-title: "03400 - TOULON SUR ALLIER | Entraide, Annonces, Initiatives"
+title: "03400 - TOULON SUR ALLIER"
 description: "03400 - TOULON SUR ALLIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

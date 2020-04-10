@@ -1,5 +1,5 @@
 ---
-title: "73370 - LA CHAPELLE DU MONT DU CHAT | Entraide, Annonces, Initiatives"
+title: "73370 - LA CHAPELLE DU MONT DU CHAT"
 description: "73370 - LA CHAPELLE DU MONT DU CHAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

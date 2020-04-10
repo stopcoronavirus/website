@@ -1,5 +1,5 @@
 ---
-title: "06420 - VALDEBLORE | Entraide, Annonces, Initiatives"
+title: "06420 - VALDEBLORE"
 description: "06420 - VALDEBLORE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

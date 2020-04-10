@@ -1,5 +1,5 @@
 ---
-title: "12270 - ST ANDRE DE NAJAC | Entraide, Annonces, Initiatives"
+title: "12270 - ST ANDRE DE NAJAC"
 description: "12270 - ST ANDRE DE NAJAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

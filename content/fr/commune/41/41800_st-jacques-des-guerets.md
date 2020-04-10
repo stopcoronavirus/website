@@ -1,5 +1,5 @@
 ---
-title: "41800 - ST JACQUES DES GUERETS | Entraide, Annonces, Initiatives"
+title: "41800 - ST JACQUES DES GUERETS"
 description: "41800 - ST JACQUES DES GUERETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

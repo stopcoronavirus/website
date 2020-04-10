@@ -1,5 +1,5 @@
 ---
-title: "40180 - SAUGNAC ET CAMBRAN | Entraide, Annonces, Initiatives"
+title: "40180 - SAUGNAC ET CAMBRAN"
 description: "40180 - SAUGNAC ET CAMBRAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

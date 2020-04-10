@@ -1,5 +1,5 @@
 ---
-title: "58120 - ST LEGER DE FOUGERET | Entraide, Annonces, Initiatives"
+title: "58120 - ST LEGER DE FOUGERET"
 description: "58120 - ST LEGER DE FOUGERET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

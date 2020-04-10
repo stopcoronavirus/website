@@ -1,5 +1,5 @@
 ---
-title: "71340 - ST BONNET DE CRAY | Entraide, Annonces, Initiatives"
+title: "71340 - ST BONNET DE CRAY"
 description: "71340 - ST BONNET DE CRAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

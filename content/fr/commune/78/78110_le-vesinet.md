@@ -1,5 +1,5 @@
 ---
-title: "78110 - LE VESINET | Entraide, Annonces, Initiatives"
+title: "78110 - LE VESINET"
 description: "78110 - LE VESINET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "58130 - ST AUBIN LES FORGES | Entraide, Annonces, Initiatives"
+title: "58130 - ST AUBIN LES FORGES"
 description: "58130 - ST AUBIN LES FORGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

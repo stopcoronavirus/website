@@ -1,5 +1,5 @@
 ---
-title: "79200 - LA PEYRATTE | Entraide, Annonces, Initiatives"
+title: "79200 - LA PEYRATTE"
 description: "79200 - LA PEYRATTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

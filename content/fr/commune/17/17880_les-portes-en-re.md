@@ -1,5 +1,5 @@
 ---
-title: "17880 - LES PORTES EN RE | Entraide, Annonces, Initiatives"
+title: "17880 - LES PORTES EN RE"
 description: "17880 - LES PORTES EN RE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "71490 - TINTRY | Entraide, Annonces, Initiatives"
+title: "71490 - TINTRY"
 description: "71490 - TINTRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

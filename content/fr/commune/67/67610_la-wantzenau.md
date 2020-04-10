@@ -1,5 +1,5 @@
 ---
-title: "67610 - LA WANTZENAU | Entraide, Annonces, Initiatives"
+title: "67610 - LA WANTZENAU"
 description: "67610 - LA WANTZENAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

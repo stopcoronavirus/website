@@ -1,5 +1,5 @@
 ---
-title: "39110 - DOURNON | Entraide, Annonces, Initiatives"
+title: "39110 - DOURNON"
 description: "39110 - DOURNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

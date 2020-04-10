@@ -1,5 +1,5 @@
 ---
-title: "88130 - SOCOURT | Entraide, Annonces, Initiatives"
+title: "88130 - SOCOURT"
 description: "88130 - SOCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

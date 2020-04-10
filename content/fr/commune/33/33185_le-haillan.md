@@ -1,5 +1,5 @@
 ---
-title: "33185 - LE HAILLAN | Entraide, Annonces, Initiatives"
+title: "33185 - LE HAILLAN"
 description: "33185 - LE HAILLAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

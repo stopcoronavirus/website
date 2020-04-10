@@ -1,5 +1,5 @@
 ---
-title: "78120 - SONCHAMP | Entraide, Annonces, Initiatives"
+title: "78120 - SONCHAMP"
 description: "78120 - SONCHAMP | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

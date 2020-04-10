@@ -1,5 +1,5 @@
 ---
-title: "84190 - VACQUEYRAS | Entraide, Annonces, Initiatives"
+title: "84190 - VACQUEYRAS"
 description: "84190 - VACQUEYRAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

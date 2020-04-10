@@ -1,5 +1,5 @@
 ---
-title: "12290 - TREMOUILLES | Entraide, Annonces, Initiatives"
+title: "12290 - TREMOUILLES"
 description: "12290 - TREMOUILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "37360 - NEUILLE PONT PIERRE | Entraide, Annonces, Initiatives"
+title: "37360 - NEUILLE PONT PIERRE"
 description: "37360 - NEUILLE PONT PIERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

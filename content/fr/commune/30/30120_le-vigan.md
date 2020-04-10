@@ -1,5 +1,5 @@
 ---
-title: "30120 - LE VIGAN | Entraide, Annonces, Initiatives"
+title: "30120 - LE VIGAN"
 description: "30120 - LE VIGAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

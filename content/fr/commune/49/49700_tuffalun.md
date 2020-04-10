@@ -1,5 +1,5 @@
 ---
-title: "49700 - TUFFALUN | Entraide, Annonces, Initiatives"
+title: "49700 - TUFFALUN"
 description: "49700 - TUFFALUN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "01290 - CORMORANCHE SUR SAONE | Entraide, Annonces, Initiatives"
+title: "01290 - CORMORANCHE SUR SAONE"
 description: "01290 - CORMORANCHE SUR SAONE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

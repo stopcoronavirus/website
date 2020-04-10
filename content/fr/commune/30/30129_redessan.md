@@ -1,5 +1,5 @@
 ---
-title: "30129 - REDESSAN | Entraide, Annonces, Initiatives"
+title: "30129 - REDESSAN"
 description: "30129 - REDESSAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

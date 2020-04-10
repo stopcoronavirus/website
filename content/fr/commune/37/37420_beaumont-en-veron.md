@@ -1,5 +1,5 @@
 ---
-title: "37420 - BEAUMONT EN VERON | Entraide, Annonces, Initiatives"
+title: "37420 - BEAUMONT EN VERON"
 description: "37420 - BEAUMONT EN VERON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

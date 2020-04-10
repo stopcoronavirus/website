@@ -1,5 +1,5 @@
 ---
-title: "36310 - BONNEUIL | Entraide, Annonces, Initiatives"
+title: "36310 - BONNEUIL"
 description: "36310 - BONNEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

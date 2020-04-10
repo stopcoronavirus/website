@@ -1,5 +1,5 @@
 ---
-title: "94470 - BOISSY ST LEGER | Entraide, Annonces, Initiatives"
+title: "94470 - BOISSY ST LEGER"
 description: "94470 - BOISSY ST LEGER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "80570 - DARGNIES | Entraide, Annonces, Initiatives"
+title: "80570 - DARGNIES"
 description: "80570 - DARGNIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

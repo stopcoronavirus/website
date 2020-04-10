@@ -1,5 +1,5 @@
 ---
-title: "60149 - ST CREPIN IBOUVILLERS | Entraide, Annonces, Initiatives"
+title: "60149 - ST CREPIN IBOUVILLERS"
 description: "60149 - ST CREPIN IBOUVILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

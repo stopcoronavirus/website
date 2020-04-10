@@ -1,5 +1,5 @@
 ---
-title: "13240 - SEPTEMES LES VALLONS | Entraide, Annonces, Initiatives"
+title: "13240 - SEPTEMES LES VALLONS"
 description: "13240 - SEPTEMES LES VALLONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

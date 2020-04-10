@@ -1,5 +1,5 @@
 ---
-title: "31880 - LA SALVETAT ST GILLES | Entraide, Annonces, Initiatives"
+title: "31880 - LA SALVETAT ST GILLES"
 description: "31880 - LA SALVETAT ST GILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

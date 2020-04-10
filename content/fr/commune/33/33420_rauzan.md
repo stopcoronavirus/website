@@ -1,5 +1,5 @@
 ---
-title: "33420 - RAUZAN | Entraide, Annonces, Initiatives"
+title: "33420 - RAUZAN"
 description: "33420 - RAUZAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

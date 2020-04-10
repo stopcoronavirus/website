@@ -1,5 +1,5 @@
 ---
-title: "84230 - CHATEAUNEUF DU PAPE | Entraide, Annonces, Initiatives"
+title: "84230 - CHATEAUNEUF DU PAPE"
 description: "84230 - CHATEAUNEUF DU PAPE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

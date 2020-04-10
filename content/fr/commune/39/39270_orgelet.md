@@ -1,5 +1,5 @@
 ---
-title: "39270 - ORGELET | Entraide, Annonces, Initiatives"
+title: "39270 - ORGELET"
 description: "39270 - ORGELET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "30240 - LE GRAU DU ROI | Entraide, Annonces, Initiatives"
+title: "30240 - LE GRAU DU ROI"
 description: "30240 - LE GRAU DU ROI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

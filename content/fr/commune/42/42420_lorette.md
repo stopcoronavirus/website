@@ -1,5 +1,5 @@
 ---
-title: "42420 - LORETTE | Entraide, Annonces, Initiatives"
+title: "42420 - LORETTE"
 description: "42420 - LORETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

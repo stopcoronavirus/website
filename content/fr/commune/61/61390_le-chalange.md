@@ -1,5 +1,5 @@
 ---
-title: "61390 - LE CHALANGE | Entraide, Annonces, Initiatives"
+title: "61390 - LE CHALANGE"
 description: "61390 - LE CHALANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

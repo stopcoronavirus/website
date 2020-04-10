@@ -1,5 +1,5 @@
 ---
-title: "90000 - BELFORT | Entraide, Annonces, Initiatives"
+title: "90000 - BELFORT"
 description: "90000 - BELFORT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

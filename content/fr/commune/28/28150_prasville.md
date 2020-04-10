@@ -1,5 +1,5 @@
 ---
-title: "28150 - PRASVILLE | Entraide, Annonces, Initiatives"
+title: "28150 - PRASVILLE"
 description: "28150 - PRASVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

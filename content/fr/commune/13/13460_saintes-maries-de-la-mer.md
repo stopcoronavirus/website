@@ -1,5 +1,5 @@
 ---
-title: "13460 - SAINTES MARIES DE LA MER | Entraide, Annonces, Initiatives"
+title: "13460 - SAINTES MARIES DE LA MER"
 description: "13460 - SAINTES MARIES DE LA MER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

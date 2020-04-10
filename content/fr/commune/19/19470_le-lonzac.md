@@ -1,5 +1,5 @@
 ---
-title: "19470 - LE LONZAC | Entraide, Annonces, Initiatives"
+title: "19470 - LE LONZAC"
 description: "19470 - LE LONZAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

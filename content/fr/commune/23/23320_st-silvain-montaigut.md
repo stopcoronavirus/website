@@ -1,5 +1,5 @@
 ---
-title: "23320 - ST SILVAIN MONTAIGUT | Entraide, Annonces, Initiatives"
+title: "23320 - ST SILVAIN MONTAIGUT"
 description: "23320 - ST SILVAIN MONTAIGUT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

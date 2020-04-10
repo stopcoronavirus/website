@@ -1,5 +1,5 @@
 ---
-title: "30630 - MONTCLUS | Entraide, Annonces, Initiatives"
+title: "30630 - MONTCLUS"
 description: "30630 - MONTCLUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

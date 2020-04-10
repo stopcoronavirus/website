@@ -1,5 +1,5 @@
 ---
-title: "10380 - VIAPRES LE PETIT | Entraide, Annonces, Initiatives"
+title: "10380 - VIAPRES LE PETIT"
 description: "10380 - VIAPRES LE PETIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

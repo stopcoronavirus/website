@@ -1,5 +1,5 @@
 ---
-title: "09200 - EYCHEIL | Entraide, Annonces, Initiatives"
+title: "09200 - EYCHEIL"
 description: "09200 - EYCHEIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

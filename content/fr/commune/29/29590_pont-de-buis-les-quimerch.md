@@ -1,5 +1,5 @@
 ---
-title: "29590 - PONT DE BUIS LES QUIMERCH | Entraide, Annonces, Initiatives"
+title: "29590 - PONT DE BUIS LES QUIMERCH"
 description: "29590 - PONT DE BUIS LES QUIMERCH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

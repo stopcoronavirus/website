@@ -1,5 +1,5 @@
 ---
-title: "80700 - PARVILLERS LE QUESNOY | Entraide, Annonces, Initiatives"
+title: "80700 - PARVILLERS LE QUESNOY"
 description: "80700 - PARVILLERS LE QUESNOY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "19320 - ST MARTIN LA MEANNE | Entraide, Annonces, Initiatives"
+title: "19320 - ST MARTIN LA MEANNE"
 description: "19320 - ST MARTIN LA MEANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

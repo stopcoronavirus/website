@@ -1,5 +1,5 @@
 ---
-title: "35780 - LA RICHARDAIS | Entraide, Annonces, Initiatives"
+title: "35780 - LA RICHARDAIS"
 description: "35780 - LA RICHARDAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

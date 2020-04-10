@@ -1,5 +1,5 @@
 ---
-title: "85350 - L ILE D YEU | Entraide, Annonces, Initiatives"
+title: "85350 - L ILE D YEU"
 description: "85350 - L ILE D YEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

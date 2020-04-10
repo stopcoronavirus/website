@@ -1,5 +1,5 @@
 ---
-title: "44310 - ST LUMINE DE COUTAIS | Entraide, Annonces, Initiatives"
+title: "44310 - ST LUMINE DE COUTAIS"
 description: "44310 - ST LUMINE DE COUTAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

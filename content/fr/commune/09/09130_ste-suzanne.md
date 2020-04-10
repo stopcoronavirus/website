@@ -1,5 +1,5 @@
 ---
-title: "09130 - STE SUZANNE | Entraide, Annonces, Initiatives"
+title: "09130 - STE SUZANNE"
 description: "09130 - STE SUZANNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

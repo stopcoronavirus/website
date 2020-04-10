@@ -1,5 +1,5 @@
 ---
-title: "38850 - VILLAGES DU LAC DE PALADRU | Entraide, Annonces, Initiatives"
+title: "38850 - VILLAGES DU LAC DE PALADRU"
 description: "38850 - VILLAGES DU LAC DE PALADRU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

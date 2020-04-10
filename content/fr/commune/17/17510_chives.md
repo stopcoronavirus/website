@@ -1,5 +1,5 @@
 ---
-title: "17510 - CHIVES | Entraide, Annonces, Initiatives"
+title: "17510 - CHIVES"
 description: "17510 - CHIVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

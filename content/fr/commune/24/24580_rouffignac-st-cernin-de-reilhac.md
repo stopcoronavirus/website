@@ -1,5 +1,5 @@
 ---
-title: "24580 - ROUFFIGNAC ST CERNIN DE REILHAC | Entraide, Annonces, Initiatives"
+title: "24580 - ROUFFIGNAC ST CERNIN DE REILHAC"
 description: "24580 - ROUFFIGNAC ST CERNIN DE REILHAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

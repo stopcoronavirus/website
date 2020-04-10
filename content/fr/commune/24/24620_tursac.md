@@ -1,5 +1,5 @@
 ---
-title: "24620 - TURSAC | Entraide, Annonces, Initiatives"
+title: "24620 - TURSAC"
 description: "24620 - TURSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "14620 - BAROU EN AUGE | Entraide, Annonces, Initiatives"
+title: "14620 - BAROU EN AUGE"
 description: "14620 - BAROU EN AUGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

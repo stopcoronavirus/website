@@ -1,5 +1,5 @@
 ---
-title: "79360 - BEAUVOIR SUR NIORT | Entraide, Annonces, Initiatives"
+title: "79360 - BEAUVOIR SUR NIORT"
 description: "79360 - BEAUVOIR SUR NIORT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

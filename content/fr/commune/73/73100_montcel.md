@@ -1,5 +1,5 @@
 ---
-title: "73100 - MONTCEL | Entraide, Annonces, Initiatives"
+title: "73100 - MONTCEL"
 description: "73100 - MONTCEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

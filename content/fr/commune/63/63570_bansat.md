@@ -1,5 +1,5 @@
 ---
-title: "63570 - BANSAT | Entraide, Annonces, Initiatives"
+title: "63570 - BANSAT"
 description: "63570 - BANSAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

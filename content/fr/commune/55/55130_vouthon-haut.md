@@ -1,5 +1,5 @@
 ---
-title: "55130 - VOUTHON HAUT | Entraide, Annonces, Initiatives"
+title: "55130 - VOUTHON HAUT"
 description: "55130 - VOUTHON HAUT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "02520 - FLAVY LE MARTEL | Entraide, Annonces, Initiatives"
+title: "02520 - FLAVY LE MARTEL"
 description: "02520 - FLAVY LE MARTEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

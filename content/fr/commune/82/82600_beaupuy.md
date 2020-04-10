@@ -1,5 +1,5 @@
 ---
-title: "82600 - BEAUPUY | Entraide, Annonces, Initiatives"
+title: "82600 - BEAUPUY"
 description: "82600 - BEAUPUY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

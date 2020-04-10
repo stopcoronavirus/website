@@ -1,5 +1,5 @@
 ---
-title: "37140 - RESTIGNE | Entraide, Annonces, Initiatives"
+title: "37140 - RESTIGNE"
 description: "37140 - RESTIGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "42540 - STE COLOMBE SUR GAND | Entraide, Annonces, Initiatives"
+title: "42540 - STE COLOMBE SUR GAND"
 description: "42540 - STE COLOMBE SUR GAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "27680 - ST SAMSON DE LA ROQUE | Entraide, Annonces, Initiatives"
+title: "27680 - ST SAMSON DE LA ROQUE"
 description: "27680 - ST SAMSON DE LA ROQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

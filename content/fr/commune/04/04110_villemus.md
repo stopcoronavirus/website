@@ -1,5 +1,5 @@
 ---
-title: "04110 - VILLEMUS | Entraide, Annonces, Initiatives"
+title: "04110 - VILLEMUS"
 description: "04110 - VILLEMUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

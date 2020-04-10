@@ -1,5 +1,5 @@
 ---
-title: "21330 - GRISELLES | Entraide, Annonces, Initiatives"
+title: "21330 - GRISELLES"
 description: "21330 - GRISELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

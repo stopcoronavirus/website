@@ -1,5 +1,5 @@
 ---
-title: "02870 - BESNY ET LOIZY | Entraide, Annonces, Initiatives"
+title: "02870 - BESNY ET LOIZY"
 description: "02870 - BESNY ET LOIZY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "95590 - PRESLES | Entraide, Annonces, Initiatives"
+title: "95590 - PRESLES"
 description: "95590 - PRESLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

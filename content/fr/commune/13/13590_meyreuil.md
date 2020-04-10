@@ -1,5 +1,5 @@
 ---
-title: "13590 - MEYREUIL | Entraide, Annonces, Initiatives"
+title: "13590 - MEYREUIL"
 description: "13590 - MEYREUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

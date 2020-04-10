@@ -1,5 +1,5 @@
 ---
-title: "62158 - BAVINCOURT | Entraide, Annonces, Initiatives"
+title: "62158 - BAVINCOURT"
 description: "62158 - BAVINCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

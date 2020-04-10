@@ -1,5 +1,5 @@
 ---
-title: "55500 - COUSANCES LES TRICONVILLE | Entraide, Annonces, Initiatives"
+title: "55500 - COUSANCES LES TRICONVILLE"
 description: "55500 - COUSANCES LES TRICONVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "77230 - DAMMARTIN EN GOELE | Entraide, Annonces, Initiatives"
+title: "77230 - DAMMARTIN EN GOELE"
 description: "77230 - DAMMARTIN EN GOELE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

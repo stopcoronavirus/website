@@ -1,5 +1,5 @@
 ---
-title: "57400 - HILBESHEIM | Entraide, Annonces, Initiatives"
+title: "57400 - HILBESHEIM"
 description: "57400 - HILBESHEIM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

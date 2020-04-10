@@ -1,5 +1,5 @@
 ---
-title: "02550 - ORIGNY EN THIERACHE | Entraide, Annonces, Initiatives"
+title: "02550 - ORIGNY EN THIERACHE"
 description: "02550 - ORIGNY EN THIERACHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

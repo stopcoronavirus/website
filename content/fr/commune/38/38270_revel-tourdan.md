@@ -1,5 +1,5 @@
 ---
-title: "38270 - REVEL TOURDAN | Entraide, Annonces, Initiatives"
+title: "38270 - REVEL TOURDAN"
 description: "38270 - REVEL TOURDAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

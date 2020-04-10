@@ -1,5 +1,5 @@
 ---
-title: "70190 - BOURGUIGNON LES LA CHARITE | Entraide, Annonces, Initiatives"
+title: "70190 - BOURGUIGNON LES LA CHARITE"
 description: "70190 - BOURGUIGNON LES LA CHARITE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

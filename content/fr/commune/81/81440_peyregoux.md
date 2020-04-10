@@ -1,5 +1,5 @@
 ---
-title: "81440 - PEYREGOUX | Entraide, Annonces, Initiatives"
+title: "81440 - PEYREGOUX"
 description: "81440 - PEYREGOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

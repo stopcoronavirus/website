@@ -1,5 +1,5 @@
 ---
-title: "41140 - MEHERS | Entraide, Annonces, Initiatives"
+title: "41140 - MEHERS"
 description: "41140 - MEHERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

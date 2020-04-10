@@ -1,5 +1,5 @@
 ---
-title: "11400 - MAS SAINTES PUELLES | Entraide, Annonces, Initiatives"
+title: "11400 - MAS SAINTES PUELLES"
 description: "11400 - MAS SAINTES PUELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

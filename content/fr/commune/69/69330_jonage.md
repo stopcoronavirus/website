@@ -1,5 +1,5 @@
 ---
-title: "69330 - JONAGE | Entraide, Annonces, Initiatives"
+title: "69330 - JONAGE"
 description: "69330 - JONAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

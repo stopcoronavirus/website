@@ -1,5 +1,5 @@
 ---
-title: "44119 - GRANDCHAMPS DES FONTAINES | Entraide, Annonces, Initiatives"
+title: "44119 - GRANDCHAMPS DES FONTAINES"
 description: "44119 - GRANDCHAMPS DES FONTAINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "49220 - CHENILLE CHAMPTEUSSE | Entraide, Annonces, Initiatives"
+title: "49220 - CHENILLE CHAMPTEUSSE"
 description: "49220 - CHENILLE CHAMPTEUSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

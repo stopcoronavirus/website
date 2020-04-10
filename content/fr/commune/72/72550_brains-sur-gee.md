@@ -1,5 +1,5 @@
 ---
-title: "72550 - BRAINS SUR GEE | Entraide, Annonces, Initiatives"
+title: "72550 - BRAINS SUR GEE"
 description: "72550 - BRAINS SUR GEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

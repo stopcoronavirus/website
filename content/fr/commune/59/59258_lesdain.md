@@ -1,5 +1,5 @@
 ---
-title: "59258 - LESDAIN | Entraide, Annonces, Initiatives"
+title: "59258 - LESDAIN"
 description: "59258 - LESDAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

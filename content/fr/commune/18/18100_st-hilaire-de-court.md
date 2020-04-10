@@ -1,5 +1,5 @@
 ---
-title: "18100 - ST HILAIRE DE COURT | Entraide, Annonces, Initiatives"
+title: "18100 - ST HILAIRE DE COURT"
 description: "18100 - ST HILAIRE DE COURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

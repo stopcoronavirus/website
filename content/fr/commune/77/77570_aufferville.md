@@ -1,5 +1,5 @@
 ---
-title: "77570 - AUFFERVILLE | Entraide, Annonces, Initiatives"
+title: "77570 - AUFFERVILLE"
 description: "77570 - AUFFERVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

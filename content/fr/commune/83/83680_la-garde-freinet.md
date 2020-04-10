@@ -1,5 +1,5 @@
 ---
-title: "83680 - LA GARDE FREINET | Entraide, Annonces, Initiatives"
+title: "83680 - LA GARDE FREINET"
 description: "83680 - LA GARDE FREINET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

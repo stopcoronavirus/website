@@ -1,5 +1,5 @@
 ---
-title: "54210 - ST NICOLAS DE PORT | Entraide, Annonces, Initiatives"
+title: "54210 - ST NICOLAS DE PORT"
 description: "54210 - ST NICOLAS DE PORT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

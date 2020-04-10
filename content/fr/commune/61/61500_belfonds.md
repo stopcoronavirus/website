@@ -1,5 +1,5 @@
 ---
-title: "61500 - BELFONDS | Entraide, Annonces, Initiatives"
+title: "61500 - BELFONDS"
 description: "61500 - BELFONDS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

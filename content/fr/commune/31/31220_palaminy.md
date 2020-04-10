@@ -1,5 +1,5 @@
 ---
-title: "31220 - PALAMINY | Entraide, Annonces, Initiatives"
+title: "31220 - PALAMINY"
 description: "31220 - PALAMINY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

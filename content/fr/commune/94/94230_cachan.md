@@ -1,5 +1,5 @@
 ---
-title: "94230 - CACHAN | Entraide, Annonces, Initiatives"
+title: "94230 - CACHAN"
 description: "94230 - CACHAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

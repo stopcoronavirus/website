@@ -1,5 +1,5 @@
 ---
-title: "38840 - ST HILAIRE DU ROSIER | Entraide, Annonces, Initiatives"
+title: "38840 - ST HILAIRE DU ROSIER"
 description: "38840 - ST HILAIRE DU ROSIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

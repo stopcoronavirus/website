@@ -1,5 +1,5 @@
 ---
-title: "45210 - MERINVILLE | Entraide, Annonces, Initiatives"
+title: "45210 - MERINVILLE"
 description: "45210 - MERINVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

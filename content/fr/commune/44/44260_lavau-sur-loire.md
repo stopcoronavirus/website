@@ -1,5 +1,5 @@
 ---
-title: "44260 - LAVAU SUR LOIRE | Entraide, Annonces, Initiatives"
+title: "44260 - LAVAU SUR LOIRE"
 description: "44260 - LAVAU SUR LOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

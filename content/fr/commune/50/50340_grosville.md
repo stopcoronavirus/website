@@ -1,5 +1,5 @@
 ---
-title: "50340 - GROSVILLE | Entraide, Annonces, Initiatives"
+title: "50340 - GROSVILLE"
 description: "50340 - GROSVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

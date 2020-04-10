@@ -1,5 +1,5 @@
 ---
-title: "52700 - ANDELOT BLANCHEVILLE | Entraide, Annonces, Initiatives"
+title: "52700 - ANDELOT BLANCHEVILLE"
 description: "52700 - ANDELOT BLANCHEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

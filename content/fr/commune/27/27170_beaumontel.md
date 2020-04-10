@@ -1,5 +1,5 @@
 ---
-title: "27170 - BEAUMONTEL | Entraide, Annonces, Initiatives"
+title: "27170 - BEAUMONTEL"
 description: "27170 - BEAUMONTEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

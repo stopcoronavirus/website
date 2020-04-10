@@ -1,5 +1,5 @@
 ---
-title: "58240 - CHANTENAY ST IMBERT | Entraide, Annonces, Initiatives"
+title: "58240 - CHANTENAY ST IMBERT"
 description: "58240 - CHANTENAY ST IMBERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

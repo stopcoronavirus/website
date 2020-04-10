@@ -1,5 +1,5 @@
 ---
-title: "17840 - LA BREE LES BAINS | Entraide, Annonces, Initiatives"
+title: "17840 - LA BREE LES BAINS"
 description: "17840 - LA BREE LES BAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

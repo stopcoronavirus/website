@@ -1,5 +1,5 @@
 ---
-title: "39600 - ABERGEMENT LE GRAND | Entraide, Annonces, Initiatives"
+title: "39600 - ABERGEMENT LE GRAND"
 description: "39600 - ABERGEMENT LE GRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

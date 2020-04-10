@@ -1,5 +1,5 @@
 ---
-title: "51520 - SOGNY AUX MOULINS | Entraide, Annonces, Initiatives"
+title: "51520 - SOGNY AUX MOULINS"
 description: "51520 - SOGNY AUX MOULINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

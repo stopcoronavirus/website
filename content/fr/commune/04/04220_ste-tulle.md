@@ -1,5 +1,5 @@
 ---
-title: "04220 - STE TULLE | Entraide, Annonces, Initiatives"
+title: "04220 - STE TULLE"
 description: "04220 - STE TULLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

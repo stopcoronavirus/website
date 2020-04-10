@@ -1,5 +1,5 @@
 ---
-title: "14130 - MANNEVILLE LA PIPARD | Entraide, Annonces, Initiatives"
+title: "14130 - MANNEVILLE LA PIPARD"
 description: "14130 - MANNEVILLE LA PIPARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

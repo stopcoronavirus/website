@@ -1,5 +1,5 @@
 ---
-title: "76520 - FRANQUEVILLE ST PIERRE | Entraide, Annonces, Initiatives"
+title: "76520 - FRANQUEVILLE ST PIERRE"
 description: "76520 - FRANQUEVILLE ST PIERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

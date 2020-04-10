@@ -1,5 +1,5 @@
 ---
-title: "34800 - BRIGNAC | Entraide, Annonces, Initiatives"
+title: "34800 - BRIGNAC"
 description: "34800 - BRIGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

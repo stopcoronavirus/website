@@ -1,5 +1,5 @@
 ---
-title: "02800 - BEAUTOR | Entraide, Annonces, Initiatives"
+title: "02800 - BEAUTOR"
 description: "02800 - BEAUTOR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

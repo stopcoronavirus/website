@@ -1,5 +1,5 @@
 ---
-title: "81210 - ROQUECOURBE | Entraide, Annonces, Initiatives"
+title: "81210 - ROQUECOURBE"
 description: "81210 - ROQUECOURBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

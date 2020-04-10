@@ -1,5 +1,5 @@
 ---
-title: "34560 - VILLEVEYRAC | Entraide, Annonces, Initiatives"
+title: "34560 - VILLEVEYRAC"
 description: "34560 - VILLEVEYRAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

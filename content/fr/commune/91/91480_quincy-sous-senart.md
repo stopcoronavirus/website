@@ -1,5 +1,5 @@
 ---
-title: "91480 - QUINCY SOUS SENART | Entraide, Annonces, Initiatives"
+title: "91480 - QUINCY SOUS SENART"
 description: "91480 - QUINCY SOUS SENART | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

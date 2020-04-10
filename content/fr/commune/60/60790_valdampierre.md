@@ -1,5 +1,5 @@
 ---
-title: "60790 - VALDAMPIERRE | Entraide, Annonces, Initiatives"
+title: "60790 - VALDAMPIERRE"
 description: "60790 - VALDAMPIERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

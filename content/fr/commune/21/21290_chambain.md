@@ -1,5 +1,5 @@
 ---
-title: "21290 - CHAMBAIN | Entraide, Annonces, Initiatives"
+title: "21290 - CHAMBAIN"
 description: "21290 - CHAMBAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

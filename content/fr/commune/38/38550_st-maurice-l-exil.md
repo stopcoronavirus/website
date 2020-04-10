@@ -1,5 +1,5 @@
 ---
-title: "38550 - ST MAURICE L EXIL | Entraide, Annonces, Initiatives"
+title: "38550 - ST MAURICE L EXIL"
 description: "38550 - ST MAURICE L EXIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

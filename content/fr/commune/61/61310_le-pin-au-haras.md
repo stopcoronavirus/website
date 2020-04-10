@@ -1,5 +1,5 @@
 ---
-title: "61310 - LE PIN AU HARAS | Entraide, Annonces, Initiatives"
+title: "61310 - LE PIN AU HARAS"
 description: "61310 - LE PIN AU HARAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

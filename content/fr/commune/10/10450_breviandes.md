@@ -1,5 +1,5 @@
 ---
-title: "10450 - BREVIANDES | Entraide, Annonces, Initiatives"
+title: "10450 - BREVIANDES"
 description: "10450 - BREVIANDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

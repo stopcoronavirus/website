@@ -1,5 +1,5 @@
 ---
-title: "61320 - ROUPERROUX | Entraide, Annonces, Initiatives"
+title: "61320 - ROUPERROUX"
 description: "61320 - ROUPERROUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

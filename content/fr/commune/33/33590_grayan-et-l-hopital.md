@@ -1,5 +1,5 @@
 ---
-title: "33590 - GRAYAN ET L HOPITAL | Entraide, Annonces, Initiatives"
+title: "33590 - GRAYAN ET L HOPITAL"
 description: "33590 - GRAYAN ET L HOPITAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

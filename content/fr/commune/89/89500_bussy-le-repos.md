@@ -1,5 +1,5 @@
 ---
-title: "89500 - BUSSY LE REPOS | Entraide, Annonces, Initiatives"
+title: "89500 - BUSSY LE REPOS"
 description: "89500 - BUSSY LE REPOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

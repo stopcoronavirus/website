@@ -1,5 +1,5 @@
 ---
-title: "40300 - ORTHEVIELLE | Entraide, Annonces, Initiatives"
+title: "40300 - ORTHEVIELLE"
 description: "40300 - ORTHEVIELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

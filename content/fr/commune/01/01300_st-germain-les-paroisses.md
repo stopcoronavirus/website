@@ -1,5 +1,5 @@
 ---
-title: "01300 - ST GERMAIN LES PAROISSES | Entraide, Annonces, Initiatives"
+title: "01300 - ST GERMAIN LES PAROISSES"
 description: "01300 - ST GERMAIN LES PAROISSES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

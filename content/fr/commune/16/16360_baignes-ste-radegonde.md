@@ -1,5 +1,5 @@
 ---
-title: "16360 - BAIGNES STE RADEGONDE | Entraide, Annonces, Initiatives"
+title: "16360 - BAIGNES STE RADEGONDE"
 description: "16360 - BAIGNES STE RADEGONDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

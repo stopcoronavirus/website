@@ -1,5 +1,5 @@
 ---
-title: "30460 - COLOGNAC | Entraide, Annonces, Initiatives"
+title: "30460 - COLOGNAC"
 description: "30460 - COLOGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "74410 - LA CHAPELLE ST MAURICE | Entraide, Annonces, Initiatives"
+title: "74410 - LA CHAPELLE ST MAURICE"
 description: "74410 - LA CHAPELLE ST MAURICE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

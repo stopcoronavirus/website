@@ -1,5 +1,5 @@
 ---
-title: "40090 - LUCBARDEZ ET BARGUES | Entraide, Annonces, Initiatives"
+title: "40090 - LUCBARDEZ ET BARGUES"
 description: "40090 - LUCBARDEZ ET BARGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

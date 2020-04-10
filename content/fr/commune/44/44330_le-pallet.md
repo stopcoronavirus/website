@@ -1,5 +1,5 @@
 ---
-title: "44330 - LE PALLET | Entraide, Annonces, Initiatives"
+title: "44330 - LE PALLET"
 description: "44330 - LE PALLET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

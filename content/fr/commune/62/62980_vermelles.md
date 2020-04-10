@@ -1,5 +1,5 @@
 ---
-title: "62980 - VERMELLES | Entraide, Annonces, Initiatives"
+title: "62980 - VERMELLES"
 description: "62980 - VERMELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

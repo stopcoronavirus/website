@@ -1,5 +1,5 @@
 ---
-title: "77690 - LA GENEVRAYE | Entraide, Annonces, Initiatives"
+title: "77690 - LA GENEVRAYE"
 description: "77690 - LA GENEVRAYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

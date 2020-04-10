@@ -1,5 +1,5 @@
 ---
-title: "98782 - TAKAROA | Entraide, Annonces, Initiatives"
+title: "98782 - TAKAROA"
 description: "98782 - TAKAROA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

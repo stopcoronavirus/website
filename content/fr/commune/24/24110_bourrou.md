@@ -1,5 +1,5 @@
 ---
-title: "24110 - BOURROU | Entraide, Annonces, Initiatives"
+title: "24110 - BOURROU"
 description: "24110 - BOURROU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

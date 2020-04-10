@@ -1,5 +1,5 @@
 ---
-title: "54560 - AUDUN LE ROMAN | Entraide, Annonces, Initiatives"
+title: "54560 - AUDUN LE ROMAN"
 description: "54560 - AUDUN LE ROMAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

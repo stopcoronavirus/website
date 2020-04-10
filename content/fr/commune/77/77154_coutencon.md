@@ -1,5 +1,5 @@
 ---
-title: "77154 - COUTENCON | Entraide, Annonces, Initiatives"
+title: "77154 - COUTENCON"
 description: "77154 - COUTENCON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "78113 - BOURDONNE | Entraide, Annonces, Initiatives"
+title: "78113 - BOURDONNE"
 description: "78113 - BOURDONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

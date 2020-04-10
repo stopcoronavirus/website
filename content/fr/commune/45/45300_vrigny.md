@@ -1,5 +1,5 @@
 ---
-title: "45300 - VRIGNY | Entraide, Annonces, Initiatives"
+title: "45300 - VRIGNY"
 description: "45300 - VRIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

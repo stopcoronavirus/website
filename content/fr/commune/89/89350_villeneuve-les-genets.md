@@ -1,5 +1,5 @@
 ---
-title: "89350 - VILLENEUVE LES GENETS | Entraide, Annonces, Initiatives"
+title: "89350 - VILLENEUVE LES GENETS"
 description: "89350 - VILLENEUVE LES GENETS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

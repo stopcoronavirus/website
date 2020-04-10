@@ -1,5 +1,5 @@
 ---
-title: "21190 - AUXEY DURESSES | Entraide, Annonces, Initiatives"
+title: "21190 - AUXEY DURESSES"
 description: "21190 - AUXEY DURESSES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

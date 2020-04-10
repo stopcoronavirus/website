@@ -1,5 +1,5 @@
 ---
-title: "46090 - BERGANTY | Entraide, Annonces, Initiatives"
+title: "46090 - BERGANTY"
 description: "46090 - BERGANTY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

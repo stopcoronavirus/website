@@ -1,5 +1,5 @@
 ---
-title: "86230 - ST GERVAIS LES TROIS CLOCHERS | Entraide, Annonces, Initiatives"
+title: "86230 - ST GERVAIS LES TROIS CLOCHERS"
 description: "86230 - ST GERVAIS LES TROIS CLOCHERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

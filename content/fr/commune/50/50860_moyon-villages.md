@@ -1,5 +1,5 @@
 ---
-title: "50860 - MOYON VILLAGES | Entraide, Annonces, Initiatives"
+title: "50860 - MOYON VILLAGES"
 description: "50860 - MOYON VILLAGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

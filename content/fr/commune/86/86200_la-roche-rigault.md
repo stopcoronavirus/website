@@ -1,5 +1,5 @@
 ---
-title: "86200 - LA ROCHE RIGAULT | Entraide, Annonces, Initiatives"
+title: "86200 - LA ROCHE RIGAULT"
 description: "86200 - LA ROCHE RIGAULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

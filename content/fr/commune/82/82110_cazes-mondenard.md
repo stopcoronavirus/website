@@ -1,5 +1,5 @@
 ---
-title: "82110 - CAZES MONDENARD | Entraide, Annonces, Initiatives"
+title: "82110 - CAZES MONDENARD"
 description: "82110 - CAZES MONDENARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

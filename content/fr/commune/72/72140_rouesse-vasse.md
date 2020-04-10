@@ -1,5 +1,5 @@
 ---
-title: "72140 - ROUESSE VASSE | Entraide, Annonces, Initiatives"
+title: "72140 - ROUESSE VASSE"
 description: "72140 - ROUESSE VASSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

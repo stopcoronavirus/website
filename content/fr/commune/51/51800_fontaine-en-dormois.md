@@ -1,5 +1,5 @@
 ---
-title: "51800 - FONTAINE EN DORMOIS | Entraide, Annonces, Initiatives"
+title: "51800 - FONTAINE EN DORMOIS"
 description: "51800 - FONTAINE EN DORMOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

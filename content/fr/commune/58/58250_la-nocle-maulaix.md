@@ -1,5 +1,5 @@
 ---
-title: "58250 - LA NOCLE MAULAIX | Entraide, Annonces, Initiatives"
+title: "58250 - LA NOCLE MAULAIX"
 description: "58250 - LA NOCLE MAULAIX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

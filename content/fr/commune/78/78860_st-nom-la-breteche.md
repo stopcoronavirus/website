@@ -1,5 +1,5 @@
 ---
-title: "78860 - ST NOM LA BRETECHE | Entraide, Annonces, Initiatives"
+title: "78860 - ST NOM LA BRETECHE"
 description: "78860 - ST NOM LA BRETECHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "93250 - VILLEMOMBLE | Entraide, Annonces, Initiatives"
+title: "93250 - VILLEMOMBLE"
 description: "93250 - VILLEMOMBLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "53390 - ST ERBLON | Entraide, Annonces, Initiatives"
+title: "53390 - ST ERBLON"
 description: "53390 - ST ERBLON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "32480 - GAZAUPOUY | Entraide, Annonces, Initiatives"
+title: "32480 - GAZAUPOUY"
 description: "32480 - GAZAUPOUY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

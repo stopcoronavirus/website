@@ -1,5 +1,5 @@
 ---
-title: "58410 - ENTRAINS SUR NOHAIN | Entraide, Annonces, Initiatives"
+title: "58410 - ENTRAINS SUR NOHAIN"
 description: "58410 - ENTRAINS SUR NOHAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

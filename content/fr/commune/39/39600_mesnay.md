@@ -1,5 +1,5 @@
 ---
-title: "39600 - MESNAY | Entraide, Annonces, Initiatives"
+title: "39600 - MESNAY"
 description: "39600 - MESNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

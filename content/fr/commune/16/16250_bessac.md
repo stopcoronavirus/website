@@ -1,5 +1,5 @@
 ---
-title: "16250 - BESSAC | Entraide, Annonces, Initiatives"
+title: "16250 - BESSAC"
 description: "16250 - BESSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "89300 - CHAMPLAY | Entraide, Annonces, Initiatives"
+title: "89300 - CHAMPLAY"
 description: "89300 - CHAMPLAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

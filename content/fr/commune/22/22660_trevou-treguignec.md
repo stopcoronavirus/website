@@ -1,5 +1,5 @@
 ---
-title: "22660 - TREVOU TREGUIGNEC | Entraide, Annonces, Initiatives"
+title: "22660 - TREVOU TREGUIGNEC"
 description: "22660 - TREVOU TREGUIGNEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

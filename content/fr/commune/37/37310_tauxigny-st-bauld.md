@@ -1,5 +1,5 @@
 ---
-title: "37310 - TAUXIGNY ST BAULD | Entraide, Annonces, Initiatives"
+title: "37310 - TAUXIGNY ST BAULD"
 description: "37310 - TAUXIGNY ST BAULD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

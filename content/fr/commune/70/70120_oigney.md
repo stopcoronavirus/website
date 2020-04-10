@@ -1,5 +1,5 @@
 ---
-title: "70120 - OIGNEY | Entraide, Annonces, Initiatives"
+title: "70120 - OIGNEY"
 description: "70120 - OIGNEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

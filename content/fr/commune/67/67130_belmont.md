@@ -1,5 +1,5 @@
 ---
-title: "67130 - BELMONT | Entraide, Annonces, Initiatives"
+title: "67130 - BELMONT"
 description: "67130 - BELMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

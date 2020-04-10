@@ -1,5 +1,5 @@
 ---
-title: "91190 - GIF SUR YVETTE | Entraide, Annonces, Initiatives"
+title: "91190 - GIF SUR YVETTE"
 description: "91190 - GIF SUR YVETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

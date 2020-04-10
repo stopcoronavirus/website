@@ -1,5 +1,5 @@
 ---
-title: "39320 - LOISIA | Entraide, Annonces, Initiatives"
+title: "39320 - LOISIA"
 description: "39320 - LOISIA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

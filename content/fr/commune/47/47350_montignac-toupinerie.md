@@ -1,5 +1,5 @@
 ---
-title: "47350 - MONTIGNAC TOUPINERIE | Entraide, Annonces, Initiatives"
+title: "47350 - MONTIGNAC TOUPINERIE"
 description: "47350 - MONTIGNAC TOUPINERIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

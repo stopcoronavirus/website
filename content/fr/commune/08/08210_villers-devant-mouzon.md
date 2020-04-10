@@ -1,5 +1,5 @@
 ---
-title: "08210 - VILLERS DEVANT MOUZON | Entraide, Annonces, Initiatives"
+title: "08210 - VILLERS DEVANT MOUZON"
 description: "08210 - VILLERS DEVANT MOUZON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

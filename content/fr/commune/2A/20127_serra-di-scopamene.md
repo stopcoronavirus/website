@@ -1,5 +1,5 @@
 ---
-title: "20127 - SERRA DI SCOPAMENE | Entraide, Annonces, Initiatives"
+title: "20127 - SERRA DI SCOPAMENE"
 description: "20127 - SERRA DI SCOPAMENE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

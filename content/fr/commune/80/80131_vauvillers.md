@@ -1,5 +1,5 @@
 ---
-title: "80131 - VAUVILLERS | Entraide, Annonces, Initiatives"
+title: "80131 - VAUVILLERS"
 description: "80131 - VAUVILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

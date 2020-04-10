@@ -1,5 +1,5 @@
 ---
-title: "44250 - ST BREVIN LES PINS | Entraide, Annonces, Initiatives"
+title: "44250 - ST BREVIN LES PINS"
 description: "44250 - ST BREVIN LES PINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

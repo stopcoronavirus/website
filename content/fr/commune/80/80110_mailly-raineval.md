@@ -1,5 +1,5 @@
 ---
-title: "80110 - MAILLY RAINEVAL | Entraide, Annonces, Initiatives"
+title: "80110 - MAILLY RAINEVAL"
 description: "80110 - MAILLY RAINEVAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

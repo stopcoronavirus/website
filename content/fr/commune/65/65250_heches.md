@@ -1,5 +1,5 @@
 ---
-title: "65250 - HECHES | Entraide, Annonces, Initiatives"
+title: "65250 - HECHES"
 description: "65250 - HECHES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

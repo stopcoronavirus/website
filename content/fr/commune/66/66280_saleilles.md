@@ -1,5 +1,5 @@
 ---
-title: "66280 - SALEILLES | Entraide, Annonces, Initiatives"
+title: "66280 - SALEILLES"
 description: "66280 - SALEILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "16320 - MAGNAC LAVALETTE VILLARS | Entraide, Annonces, Initiatives"
+title: "16320 - MAGNAC LAVALETTE VILLARS"
 description: "16320 - MAGNAC LAVALETTE VILLARS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

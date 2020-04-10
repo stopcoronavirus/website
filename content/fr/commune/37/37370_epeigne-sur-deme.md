@@ -1,5 +1,5 @@
 ---
-title: "37370 - EPEIGNE SUR DEME | Entraide, Annonces, Initiatives"
+title: "37370 - EPEIGNE SUR DEME"
 description: "37370 - EPEIGNE SUR DEME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

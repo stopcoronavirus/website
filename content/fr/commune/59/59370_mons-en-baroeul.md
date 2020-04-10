@@ -1,5 +1,5 @@
 ---
-title: "59370 - MONS EN BAROEUL | Entraide, Annonces, Initiatives"
+title: "59370 - MONS EN BAROEUL"
 description: "59370 - MONS EN BAROEUL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

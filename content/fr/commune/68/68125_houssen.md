@@ -1,5 +1,5 @@
 ---
-title: "68125 - HOUSSEN | Entraide, Annonces, Initiatives"
+title: "68125 - HOUSSEN"
 description: "68125 - HOUSSEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

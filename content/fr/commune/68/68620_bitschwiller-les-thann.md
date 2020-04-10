@@ -1,5 +1,5 @@
 ---
-title: "68620 - BITSCHWILLER LES THANN | Entraide, Annonces, Initiatives"
+title: "68620 - BITSCHWILLER LES THANN"
 description: "68620 - BITSCHWILLER LES THANN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

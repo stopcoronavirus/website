@@ -1,5 +1,5 @@
 ---
-title: "64170 - LABASTIDE CEZERACQ | Entraide, Annonces, Initiatives"
+title: "64170 - LABASTIDE CEZERACQ"
 description: "64170 - LABASTIDE CEZERACQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

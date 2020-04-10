@@ -1,5 +1,5 @@
 ---
-title: "21520 - VEUXHAULLES SUR AUBE | Entraide, Annonces, Initiatives"
+title: "21520 - VEUXHAULLES SUR AUBE"
 description: "21520 - VEUXHAULLES SUR AUBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

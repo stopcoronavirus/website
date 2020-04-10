@@ -1,5 +1,5 @@
 ---
-title: "57480 - RUSTROFF | Entraide, Annonces, Initiatives"
+title: "57480 - RUSTROFF"
 description: "57480 - RUSTROFF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

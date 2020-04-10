@@ -1,5 +1,5 @@
 ---
-title: "35190 - ST DOMINEUC | Entraide, Annonces, Initiatives"
+title: "35190 - ST DOMINEUC"
 description: "35190 - ST DOMINEUC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

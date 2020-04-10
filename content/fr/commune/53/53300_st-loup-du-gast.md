@@ -1,5 +1,5 @@
 ---
-title: "53300 - ST LOUP DU GAST | Entraide, Annonces, Initiatives"
+title: "53300 - ST LOUP DU GAST"
 description: "53300 - ST LOUP DU GAST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

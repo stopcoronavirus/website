@@ -1,5 +1,5 @@
 ---
-title: "82130 - LAMOTHE CAPDEVILLE | Entraide, Annonces, Initiatives"
+title: "82130 - LAMOTHE CAPDEVILLE"
 description: "82130 - LAMOTHE CAPDEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

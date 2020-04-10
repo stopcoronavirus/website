@@ -1,5 +1,5 @@
 ---
-title: "42990 - ST GEORGES EN COUZAN | Entraide, Annonces, Initiatives"
+title: "42990 - ST GEORGES EN COUZAN"
 description: "42990 - ST GEORGES EN COUZAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

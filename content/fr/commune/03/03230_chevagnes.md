@@ -1,5 +1,5 @@
 ---
-title: "03230 - CHEVAGNES | Entraide, Annonces, Initiatives"
+title: "03230 - CHEVAGNES"
 description: "03230 - CHEVAGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

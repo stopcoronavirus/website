@@ -1,5 +1,5 @@
 ---
-title: "47110 - LE TEMPLE SUR LOT | Entraide, Annonces, Initiatives"
+title: "47110 - LE TEMPLE SUR LOT"
 description: "47110 - LE TEMPLE SUR LOT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

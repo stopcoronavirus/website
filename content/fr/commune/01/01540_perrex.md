@@ -1,5 +1,5 @@
 ---
-title: "01540 - PERREX | Entraide, Annonces, Initiatives"
+title: "01540 - PERREX"
 description: "01540 - PERREX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

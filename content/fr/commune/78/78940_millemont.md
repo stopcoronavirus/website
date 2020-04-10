@@ -1,5 +1,5 @@
 ---
-title: "78940 - MILLEMONT | Entraide, Annonces, Initiatives"
+title: "78940 - MILLEMONT"
 description: "78940 - MILLEMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

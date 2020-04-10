@@ -1,5 +1,5 @@
 ---
-title: "42660 - ST GENEST MALIFAUX | Entraide, Annonces, Initiatives"
+title: "42660 - ST GENEST MALIFAUX"
 description: "42660 - ST GENEST MALIFAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

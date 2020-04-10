@@ -1,5 +1,5 @@
 ---
-title: "35390 - ST SULPICE DES LANDES | Entraide, Annonces, Initiatives"
+title: "35390 - ST SULPICE DES LANDES"
 description: "35390 - ST SULPICE DES LANDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

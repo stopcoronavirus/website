@@ -1,5 +1,5 @@
 ---
-title: "45760 - MARIGNY LES USAGES | Entraide, Annonces, Initiatives"
+title: "45760 - MARIGNY LES USAGES"
 description: "45760 - MARIGNY LES USAGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

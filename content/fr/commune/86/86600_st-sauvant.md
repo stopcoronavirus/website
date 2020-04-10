@@ -1,5 +1,5 @@
 ---
-title: "86600 - ST SAUVANT | Entraide, Annonces, Initiatives"
+title: "86600 - ST SAUVANT"
 description: "86600 - ST SAUVANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

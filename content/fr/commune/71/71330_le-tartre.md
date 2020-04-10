@@ -1,5 +1,5 @@
 ---
-title: "71330 - LE TARTRE | Entraide, Annonces, Initiatives"
+title: "71330 - LE TARTRE"
 description: "71330 - LE TARTRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

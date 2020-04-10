@@ -1,5 +1,5 @@
 ---
-title: "60420 - CREVECOEUR LE PETIT | Entraide, Annonces, Initiatives"
+title: "60420 - CREVECOEUR LE PETIT"
 description: "60420 - CREVECOEUR LE PETIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

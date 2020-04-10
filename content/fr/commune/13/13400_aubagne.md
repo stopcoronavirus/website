@@ -1,5 +1,5 @@
 ---
-title: "13400 - AUBAGNE | Entraide, Annonces, Initiatives"
+title: "13400 - AUBAGNE"
 description: "13400 - AUBAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

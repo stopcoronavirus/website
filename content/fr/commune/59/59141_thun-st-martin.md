@@ -1,5 +1,5 @@
 ---
-title: "59141 - THUN ST MARTIN | Entraide, Annonces, Initiatives"
+title: "59141 - THUN ST MARTIN"
 description: "59141 - THUN ST MARTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

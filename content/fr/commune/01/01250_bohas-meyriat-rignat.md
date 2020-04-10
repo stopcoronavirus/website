@@ -1,5 +1,5 @@
 ---
-title: "01250 - BOHAS MEYRIAT RIGNAT | Entraide, Annonces, Initiatives"
+title: "01250 - BOHAS MEYRIAT RIGNAT"
 description: "01250 - BOHAS MEYRIAT RIGNAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

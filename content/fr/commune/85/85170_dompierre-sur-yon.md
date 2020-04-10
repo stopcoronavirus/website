@@ -1,5 +1,5 @@
 ---
-title: "85170 - DOMPIERRE SUR YON | Entraide, Annonces, Initiatives"
+title: "85170 - DOMPIERRE SUR YON"
 description: "85170 - DOMPIERRE SUR YON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

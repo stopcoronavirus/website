@@ -1,5 +1,5 @@
 ---
-title: "33190 - ST HILAIRE DE LA NOAILLE | Entraide, Annonces, Initiatives"
+title: "33190 - ST HILAIRE DE LA NOAILLE"
 description: "33190 - ST HILAIRE DE LA NOAILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

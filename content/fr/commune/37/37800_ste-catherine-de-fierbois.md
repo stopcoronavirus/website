@@ -1,5 +1,5 @@
 ---
-title: "37800 - STE CATHERINE DE FIERBOIS | Entraide, Annonces, Initiatives"
+title: "37800 - STE CATHERINE DE FIERBOIS"
 description: "37800 - STE CATHERINE DE FIERBOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "03270 - ST YORRE | Entraide, Annonces, Initiatives"
+title: "03270 - ST YORRE"
 description: "03270 - ST YORRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

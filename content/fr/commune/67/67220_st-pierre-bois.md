@@ -1,5 +1,5 @@
 ---
-title: "67220 - ST PIERRE BOIS | Entraide, Annonces, Initiatives"
+title: "67220 - ST PIERRE BOIS"
 description: "67220 - ST PIERRE BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

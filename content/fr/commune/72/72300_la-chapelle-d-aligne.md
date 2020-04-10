@@ -1,5 +1,5 @@
 ---
-title: "72300 - LA CHAPELLE D ALIGNE | Entraide, Annonces, Initiatives"
+title: "72300 - LA CHAPELLE D ALIGNE"
 description: "72300 - LA CHAPELLE D ALIGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "54930 - FORCELLES SOUS GUGNEY | Entraide, Annonces, Initiatives"
+title: "54930 - FORCELLES SOUS GUGNEY"
 description: "54930 - FORCELLES SOUS GUGNEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

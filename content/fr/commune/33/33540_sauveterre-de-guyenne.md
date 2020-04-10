@@ -1,5 +1,5 @@
 ---
-title: "33540 - SAUVETERRE DE GUYENNE | Entraide, Annonces, Initiatives"
+title: "33540 - SAUVETERRE DE GUYENNE"
 description: "33540 - SAUVETERRE DE GUYENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

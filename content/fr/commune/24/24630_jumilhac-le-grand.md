@@ -1,5 +1,5 @@
 ---
-title: "24630 - JUMILHAC LE GRAND | Entraide, Annonces, Initiatives"
+title: "24630 - JUMILHAC LE GRAND"
 description: "24630 - JUMILHAC LE GRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12320 - ST FELIX DE LUNEL | Entraide, Annonces, Initiatives"
+title: "12320 - ST FELIX DE LUNEL"
 description: "12320 - ST FELIX DE LUNEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

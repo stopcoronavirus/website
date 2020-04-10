@@ -1,5 +1,5 @@
 ---
-title: "95210 - ST GRATIEN | Entraide, Annonces, Initiatives"
+title: "95210 - ST GRATIEN"
 description: "95210 - ST GRATIEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

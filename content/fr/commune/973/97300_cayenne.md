@@ -1,5 +1,5 @@
 ---
-title: "97300 - CAYENNE | Entraide, Annonces, Initiatives"
+title: "97300 - CAYENNE"
 description: "97300 - CAYENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

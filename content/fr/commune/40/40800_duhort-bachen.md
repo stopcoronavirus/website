@@ -1,5 +1,5 @@
 ---
-title: "40800 - DUHORT BACHEN | Entraide, Annonces, Initiatives"
+title: "40800 - DUHORT BACHEN"
 description: "40800 - DUHORT BACHEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

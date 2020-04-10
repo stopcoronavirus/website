@@ -1,5 +1,5 @@
 ---
-title: "55150 - MOIREY FLABAS CREPION | Entraide, Annonces, Initiatives"
+title: "55150 - MOIREY FLABAS CREPION"
 description: "55150 - MOIREY FLABAS CREPION | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

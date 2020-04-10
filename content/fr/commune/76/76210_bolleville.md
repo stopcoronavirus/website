@@ -1,5 +1,5 @@
 ---
-title: "76210 - BOLLEVILLE | Entraide, Annonces, Initiatives"
+title: "76210 - BOLLEVILLE"
 description: "76210 - BOLLEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

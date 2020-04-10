@@ -1,5 +1,5 @@
 ---
-title: "17220 - CROIX CHAPEAU | Entraide, Annonces, Initiatives"
+title: "17220 - CROIX CHAPEAU"
 description: "17220 - CROIX CHAPEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

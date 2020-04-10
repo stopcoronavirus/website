@@ -1,5 +1,5 @@
 ---
-title: "76520 - MESNIL RAOUL | Entraide, Annonces, Initiatives"
+title: "76520 - MESNIL RAOUL"
 description: "76520 - MESNIL RAOUL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

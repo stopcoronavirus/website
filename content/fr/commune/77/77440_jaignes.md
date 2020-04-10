@@ -1,5 +1,5 @@
 ---
-title: "77440 - JAIGNES | Entraide, Annonces, Initiatives"
+title: "77440 - JAIGNES"
 description: "77440 - JAIGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

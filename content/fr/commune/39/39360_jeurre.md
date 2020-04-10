@@ -1,5 +1,5 @@
 ---
-title: "39360 - JEURRE | Entraide, Annonces, Initiatives"
+title: "39360 - JEURRE"
 description: "39360 - JEURRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

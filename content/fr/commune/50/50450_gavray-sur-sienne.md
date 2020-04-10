@@ -1,5 +1,5 @@
 ---
-title: "50450 - GAVRAY SUR SIENNE | Entraide, Annonces, Initiatives"
+title: "50450 - GAVRAY SUR SIENNE"
 description: "50450 - GAVRAY SUR SIENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

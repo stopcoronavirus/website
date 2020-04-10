@@ -1,5 +1,5 @@
 ---
-title: "59127 - ELINCOURT | Entraide, Annonces, Initiatives"
+title: "59127 - ELINCOURT"
 description: "59127 - ELINCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

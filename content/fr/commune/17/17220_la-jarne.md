@@ -1,5 +1,5 @@
 ---
-title: "17220 - LA JARNE | Entraide, Annonces, Initiatives"
+title: "17220 - LA JARNE"
 description: "17220 - LA JARNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

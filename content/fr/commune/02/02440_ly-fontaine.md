@@ -1,5 +1,5 @@
 ---
-title: "02440 - LY FONTAINE | Entraide, Annonces, Initiatives"
+title: "02440 - LY FONTAINE"
 description: "02440 - LY FONTAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

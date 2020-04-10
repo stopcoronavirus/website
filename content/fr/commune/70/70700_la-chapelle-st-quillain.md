@@ -1,5 +1,5 @@
 ---
-title: "70700 - LA CHAPELLE ST QUILLAIN | Entraide, Annonces, Initiatives"
+title: "70700 - LA CHAPELLE ST QUILLAIN"
 description: "70700 - LA CHAPELLE ST QUILLAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

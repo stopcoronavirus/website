@@ -1,5 +1,5 @@
 ---
-title: "05000 - RAMBAUD | Entraide, Annonces, Initiatives"
+title: "05000 - RAMBAUD"
 description: "05000 - RAMBAUD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

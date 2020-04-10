@@ -1,5 +1,5 @@
 ---
-title: "98812 - BOULOUPARI | Entraide, Annonces, Initiatives"
+title: "98812 - BOULOUPARI"
 description: "98812 - BOULOUPARI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

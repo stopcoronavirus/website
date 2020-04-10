@@ -1,5 +1,5 @@
 ---
-title: "31210 - MARTRES DE RIVIERE | Entraide, Annonces, Initiatives"
+title: "31210 - MARTRES DE RIVIERE"
 description: "31210 - MARTRES DE RIVIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

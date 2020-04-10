@@ -1,5 +1,5 @@
 ---
-title: "80340 - BRAY SUR SOMME | Entraide, Annonces, Initiatives"
+title: "80340 - BRAY SUR SOMME"
 description: "80340 - BRAY SUR SOMME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

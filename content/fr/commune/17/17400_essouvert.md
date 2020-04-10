@@ -1,5 +1,5 @@
 ---
-title: "17400 - ESSOUVERT | Entraide, Annonces, Initiatives"
+title: "17400 - ESSOUVERT"
 description: "17400 - ESSOUVERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

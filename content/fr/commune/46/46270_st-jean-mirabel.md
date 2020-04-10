@@ -1,5 +1,5 @@
 ---
-title: "46270 - ST JEAN MIRABEL | Entraide, Annonces, Initiatives"
+title: "46270 - ST JEAN MIRABEL"
 description: "46270 - ST JEAN MIRABEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

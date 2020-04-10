@@ -1,5 +1,5 @@
 ---
-title: "30600 - VAUVERT | Entraide, Annonces, Initiatives"
+title: "30600 - VAUVERT"
 description: "30600 - VAUVERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

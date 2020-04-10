@@ -1,5 +1,5 @@
 ---
-title: "28800 - ST MAUR SUR LE LOIR | Entraide, Annonces, Initiatives"
+title: "28800 - ST MAUR SUR LE LOIR"
 description: "28800 - ST MAUR SUR LE LOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

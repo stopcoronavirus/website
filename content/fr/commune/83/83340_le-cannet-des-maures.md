@@ -1,5 +1,5 @@
 ---
-title: "83340 - LE CANNET DES MAURES | Entraide, Annonces, Initiatives"
+title: "83340 - LE CANNET DES MAURES"
 description: "83340 - LE CANNET DES MAURES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

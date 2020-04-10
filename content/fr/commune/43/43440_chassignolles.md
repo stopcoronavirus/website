@@ -1,5 +1,5 @@
 ---
-title: "43440 - CHASSIGNOLLES | Entraide, Annonces, Initiatives"
+title: "43440 - CHASSIGNOLLES"
 description: "43440 - CHASSIGNOLLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

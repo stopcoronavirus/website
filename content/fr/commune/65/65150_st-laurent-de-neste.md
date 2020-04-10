@@ -1,5 +1,5 @@
 ---
-title: "65150 - ST LAURENT DE NESTE | Entraide, Annonces, Initiatives"
+title: "65150 - ST LAURENT DE NESTE"
 description: "65150 - ST LAURENT DE NESTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

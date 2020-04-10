@@ -1,5 +1,5 @@
 ---
-title: "74950 - LE REPOSOIR | Entraide, Annonces, Initiatives"
+title: "74950 - LE REPOSOIR"
 description: "74950 - LE REPOSOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

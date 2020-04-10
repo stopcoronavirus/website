@@ -1,5 +1,5 @@
 ---
-title: "48240 - ST ANDRE DE LANCIZE | Entraide, Annonces, Initiatives"
+title: "48240 - ST ANDRE DE LANCIZE"
 description: "48240 - ST ANDRE DE LANCIZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

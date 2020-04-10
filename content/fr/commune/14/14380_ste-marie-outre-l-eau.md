@@ -1,5 +1,5 @@
 ---
-title: "14380 - STE MARIE OUTRE L EAU | Entraide, Annonces, Initiatives"
+title: "14380 - STE MARIE OUTRE L EAU"
 description: "14380 - STE MARIE OUTRE L EAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

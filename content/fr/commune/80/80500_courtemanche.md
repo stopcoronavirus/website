@@ -1,5 +1,5 @@
 ---
-title: "80500 - COURTEMANCHE | Entraide, Annonces, Initiatives"
+title: "80500 - COURTEMANCHE"
 description: "80500 - COURTEMANCHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

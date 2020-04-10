@@ -1,5 +1,5 @@
 ---
-title: "20128 - GROSSETO PRUGNA | Entraide, Annonces, Initiatives"
+title: "20128 - GROSSETO PRUGNA"
 description: "20128 - GROSSETO PRUGNA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

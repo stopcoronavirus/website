@@ -1,5 +1,5 @@
 ---
-title: "79360 - LA FOYE MONJAULT | Entraide, Annonces, Initiatives"
+title: "79360 - LA FOYE MONJAULT"
 description: "79360 - LA FOYE MONJAULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

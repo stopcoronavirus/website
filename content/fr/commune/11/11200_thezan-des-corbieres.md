@@ -1,5 +1,5 @@
 ---
-title: "11200 - THEZAN DES CORBIERES | Entraide, Annonces, Initiatives"
+title: "11200 - THEZAN DES CORBIERES"
 description: "11200 - THEZAN DES CORBIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "60820 - BORAN SUR OISE | Entraide, Annonces, Initiatives"
+title: "60820 - BORAN SUR OISE"
 description: "60820 - BORAN SUR OISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

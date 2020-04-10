@@ -1,5 +1,5 @@
 ---
-title: "38960 - ST AUPRE | Entraide, Annonces, Initiatives"
+title: "38960 - ST AUPRE"
 description: "38960 - ST AUPRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

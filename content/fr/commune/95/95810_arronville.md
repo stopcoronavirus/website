@@ -1,5 +1,5 @@
 ---
-title: "95810 - ARRONVILLE | Entraide, Annonces, Initiatives"
+title: "95810 - ARRONVILLE"
 description: "95810 - ARRONVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

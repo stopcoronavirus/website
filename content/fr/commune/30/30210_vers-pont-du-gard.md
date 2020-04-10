@@ -1,5 +1,5 @@
 ---
-title: "30210 - VERS PONT DU GARD | Entraide, Annonces, Initiatives"
+title: "30210 - VERS PONT DU GARD"
 description: "30210 - VERS PONT DU GARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

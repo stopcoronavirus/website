@@ -1,5 +1,5 @@
 ---
-title: "87330 - VAL D ISSOIRE | Entraide, Annonces, Initiatives"
+title: "87330 - VAL D ISSOIRE"
 description: "87330 - VAL D ISSOIRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

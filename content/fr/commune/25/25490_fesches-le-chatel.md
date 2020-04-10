@@ -1,5 +1,5 @@
 ---
-title: "25490 - FESCHES LE CHATEL | Entraide, Annonces, Initiatives"
+title: "25490 - FESCHES LE CHATEL"
 description: "25490 - FESCHES LE CHATEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "43160 - MALVIERES | Entraide, Annonces, Initiatives"
+title: "43160 - MALVIERES"
 description: "43160 - MALVIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

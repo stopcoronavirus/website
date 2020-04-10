@@ -1,5 +1,5 @@
 ---
-title: "72230 - GUECELARD | Entraide, Annonces, Initiatives"
+title: "72230 - GUECELARD"
 description: "72230 - GUECELARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

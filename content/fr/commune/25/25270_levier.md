@@ -1,5 +1,5 @@
 ---
-title: "25270 - LEVIER | Entraide, Annonces, Initiatives"
+title: "25270 - LEVIER"
 description: "25270 - LEVIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

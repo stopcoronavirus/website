@@ -1,5 +1,5 @@
 ---
-title: "25160 - OYE ET PALLET | Entraide, Annonces, Initiatives"
+title: "25160 - OYE ET PALLET"
 description: "25160 - OYE ET PALLET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

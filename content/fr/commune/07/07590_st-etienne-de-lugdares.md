@@ -1,5 +1,5 @@
 ---
-title: "07590 - ST ETIENNE DE LUGDARES | Entraide, Annonces, Initiatives"
+title: "07590 - ST ETIENNE DE LUGDARES"
 description: "07590 - ST ETIENNE DE LUGDARES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

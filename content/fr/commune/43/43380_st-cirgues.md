@@ -1,5 +1,5 @@
 ---
-title: "43380 - ST CIRGUES | Entraide, Annonces, Initiatives"
+title: "43380 - ST CIRGUES"
 description: "43380 - ST CIRGUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

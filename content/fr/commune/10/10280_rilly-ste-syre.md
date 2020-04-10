@@ -1,5 +1,5 @@
 ---
-title: "10280 - RILLY STE SYRE | Entraide, Annonces, Initiatives"
+title: "10280 - RILLY STE SYRE"
 description: "10280 - RILLY STE SYRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

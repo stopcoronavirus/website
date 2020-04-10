@@ -1,5 +1,5 @@
 ---
-title: "14510 - GONNEVILLE SUR MER | Entraide, Annonces, Initiatives"
+title: "14510 - GONNEVILLE SUR MER"
 description: "14510 - GONNEVILLE SUR MER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

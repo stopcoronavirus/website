@@ -1,5 +1,5 @@
 ---
-title: "47150 - MONFLANQUIN | Entraide, Annonces, Initiatives"
+title: "47150 - MONFLANQUIN"
 description: "47150 - MONFLANQUIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

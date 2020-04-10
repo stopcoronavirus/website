@@ -1,5 +1,5 @@
 ---
-title: "76310 - STE ADRESSE | Entraide, Annonces, Initiatives"
+title: "76310 - STE ADRESSE"
 description: "76310 - STE ADRESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

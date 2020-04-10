@@ -1,5 +1,5 @@
 ---
-title: "32400 - ST GERME | Entraide, Annonces, Initiatives"
+title: "32400 - ST GERME"
 description: "32400 - ST GERME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

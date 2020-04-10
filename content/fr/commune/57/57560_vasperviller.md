@@ -1,5 +1,5 @@
 ---
-title: "57560 - VASPERVILLER | Entraide, Annonces, Initiatives"
+title: "57560 - VASPERVILLER"
 description: "57560 - VASPERVILLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

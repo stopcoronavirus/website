@@ -1,5 +1,5 @@
 ---
-title: "11110 - SALLES D AUDE | Entraide, Annonces, Initiatives"
+title: "11110 - SALLES D AUDE"
 description: "11110 - SALLES D AUDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

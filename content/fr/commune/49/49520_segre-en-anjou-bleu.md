@@ -1,5 +1,5 @@
 ---
-title: "49520 - SEGRE EN ANJOU BLEU | Entraide, Annonces, Initiatives"
+title: "49520 - SEGRE EN ANJOU BLEU"
 description: "49520 - SEGRE EN ANJOU BLEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

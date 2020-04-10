@@ -1,5 +1,5 @@
 ---
-title: "48160 - ST MARTIN DE BOUBAUX | Entraide, Annonces, Initiatives"
+title: "48160 - ST MARTIN DE BOUBAUX"
 description: "48160 - ST MARTIN DE BOUBAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

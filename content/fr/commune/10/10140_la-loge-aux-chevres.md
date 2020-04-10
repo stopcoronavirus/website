@@ -1,5 +1,5 @@
 ---
-title: "10140 - LA LOGE AUX CHEVRES | Entraide, Annonces, Initiatives"
+title: "10140 - LA LOGE AUX CHEVRES"
 description: "10140 - LA LOGE AUX CHEVRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

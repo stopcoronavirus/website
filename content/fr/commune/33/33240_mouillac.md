@@ -1,5 +1,5 @@
 ---
-title: "33240 - MOUILLAC | Entraide, Annonces, Initiatives"
+title: "33240 - MOUILLAC"
 description: "33240 - MOUILLAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

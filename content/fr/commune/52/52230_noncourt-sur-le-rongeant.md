@@ -1,5 +1,5 @@
 ---
-title: "52230 - NONCOURT SUR LE RONGEANT | Entraide, Annonces, Initiatives"
+title: "52230 - NONCOURT SUR LE RONGEANT"
 description: "52230 - NONCOURT SUR LE RONGEANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

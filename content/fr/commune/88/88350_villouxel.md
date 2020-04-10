@@ -1,5 +1,5 @@
 ---
-title: "88350 - VILLOUXEL | Entraide, Annonces, Initiatives"
+title: "88350 - VILLOUXEL"
 description: "88350 - VILLOUXEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

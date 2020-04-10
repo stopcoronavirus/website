@@ -1,5 +1,5 @@
 ---
-title: "59520 - MARQUETTE LEZ LILLE | Entraide, Annonces, Initiatives"
+title: "59520 - MARQUETTE LEZ LILLE"
 description: "59520 - MARQUETTE LEZ LILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

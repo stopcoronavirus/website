@@ -1,5 +1,5 @@
 ---
-title: "73420 - VIVIERS DU LAC | Entraide, Annonces, Initiatives"
+title: "73420 - VIVIERS DU LAC"
 description: "73420 - VIVIERS DU LAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

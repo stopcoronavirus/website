@@ -1,5 +1,5 @@
 ---
-title: "02840 - MONCEAU LE WAAST | Entraide, Annonces, Initiatives"
+title: "02840 - MONCEAU LE WAAST"
 description: "02840 - MONCEAU LE WAAST | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "81580 - CAMBOUNET SUR LE SOR | Entraide, Annonces, Initiatives"
+title: "81580 - CAMBOUNET SUR LE SOR"
 description: "81580 - CAMBOUNET SUR LE SOR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

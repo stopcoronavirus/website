@@ -1,5 +1,5 @@
 ---
-title: "56460 - SERENT | Entraide, Annonces, Initiatives"
+title: "56460 - SERENT"
 description: "56460 - SERENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

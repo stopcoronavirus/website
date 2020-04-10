@@ -1,5 +1,5 @@
 ---
-title: "34290 - MONTBLANC | Entraide, Annonces, Initiatives"
+title: "34290 - MONTBLANC"
 description: "34290 - MONTBLANC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

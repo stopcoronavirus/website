@@ -1,5 +1,5 @@
 ---
-title: "69430 - VERNAY | Entraide, Annonces, Initiatives"
+title: "69430 - VERNAY"
 description: "69430 - VERNAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

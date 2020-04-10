@@ -1,5 +1,5 @@
 ---
-title: "50630 - AUMEVILLE LESTRE | Entraide, Annonces, Initiatives"
+title: "50630 - AUMEVILLE LESTRE"
 description: "50630 - AUMEVILLE LESTRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

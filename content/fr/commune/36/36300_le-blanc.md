@@ -1,5 +1,5 @@
 ---
-title: "36300 - LE BLANC | Entraide, Annonces, Initiatives"
+title: "36300 - LE BLANC"
 description: "36300 - LE BLANC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

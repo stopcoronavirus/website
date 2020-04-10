@@ -1,5 +1,5 @@
 ---
-title: "28220 - COMMUNE NOUVELLE D ARROU | Entraide, Annonces, Initiatives"
+title: "28220 - COMMUNE NOUVELLE D ARROU"
 description: "28220 - COMMUNE NOUVELLE D ARROU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "66370 - PEZILLA LA RIVIERE | Entraide, Annonces, Initiatives"
+title: "66370 - PEZILLA LA RIVIERE"
 description: "66370 - PEZILLA LA RIVIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

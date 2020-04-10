@@ -1,5 +1,5 @@
 ---
-title: "97670 - CHICONI | Entraide, Annonces, Initiatives"
+title: "97670 - CHICONI"
 description: "97670 - CHICONI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "22870 - ILE DE BREHAT | Entraide, Annonces, Initiatives"
+title: "22870 - ILE DE BREHAT"
 description: "22870 - ILE DE BREHAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "47520 - LE PASSAGE | Entraide, Annonces, Initiatives"
+title: "47520 - LE PASSAGE"
 description: "47520 - LE PASSAGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

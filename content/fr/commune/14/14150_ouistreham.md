@@ -1,5 +1,5 @@
 ---
-title: "14150 - OUISTREHAM | Entraide, Annonces, Initiatives"
+title: "14150 - OUISTREHAM"
 description: "14150 - OUISTREHAM | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "46100 - BEDUER | Entraide, Annonces, Initiatives"
+title: "46100 - BEDUER"
 description: "46100 - BEDUER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

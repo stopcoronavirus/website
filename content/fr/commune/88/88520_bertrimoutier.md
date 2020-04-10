@@ -1,5 +1,5 @@
 ---
-title: "88520 - BERTRIMOUTIER | Entraide, Annonces, Initiatives"
+title: "88520 - BERTRIMOUTIER"
 description: "88520 - BERTRIMOUTIER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

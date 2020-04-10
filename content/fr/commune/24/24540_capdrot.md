@@ -1,5 +1,5 @@
 ---
-title: "24540 - CAPDROT | Entraide, Annonces, Initiatives"
+title: "24540 - CAPDROT"
 description: "24540 - CAPDROT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

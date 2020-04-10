@@ -1,5 +1,5 @@
 ---
-title: "14290 - VALORBIQUET | Entraide, Annonces, Initiatives"
+title: "14290 - VALORBIQUET"
 description: "14290 - VALORBIQUET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

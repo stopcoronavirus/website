@@ -1,5 +1,5 @@
 ---
-title: "32230 - BLOUSSON SERIAN | Entraide, Annonces, Initiatives"
+title: "32230 - BLOUSSON SERIAN"
 description: "32230 - BLOUSSON SERIAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

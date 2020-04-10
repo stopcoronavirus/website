@@ -1,5 +1,5 @@
 ---
-title: "89260 - LA POSTOLLE | Entraide, Annonces, Initiatives"
+title: "89260 - LA POSTOLLE"
 description: "89260 - LA POSTOLLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

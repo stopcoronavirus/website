@@ -1,5 +1,5 @@
 ---
-title: "04160 - L ESCALE | Entraide, Annonces, Initiatives"
+title: "04160 - L ESCALE"
 description: "04160 - L ESCALE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

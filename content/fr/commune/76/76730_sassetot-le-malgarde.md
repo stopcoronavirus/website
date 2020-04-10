@@ -1,5 +1,5 @@
 ---
-title: "76730 - SASSETOT LE MALGARDE | Entraide, Annonces, Initiatives"
+title: "76730 - SASSETOT LE MALGARDE"
 description: "76730 - SASSETOT LE MALGARDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

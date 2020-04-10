@@ -1,5 +1,5 @@
 ---
-title: "84210 - LA ROQUE SUR PERNES | Entraide, Annonces, Initiatives"
+title: "84210 - LA ROQUE SUR PERNES"
 description: "84210 - LA ROQUE SUR PERNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "47170 - REAUP LISSE | Entraide, Annonces, Initiatives"
+title: "47170 - REAUP LISSE"
 description: "47170 - REAUP LISSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

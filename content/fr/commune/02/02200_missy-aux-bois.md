@@ -1,5 +1,5 @@
 ---
-title: "02200 - MISSY AUX BOIS | Entraide, Annonces, Initiatives"
+title: "02200 - MISSY AUX BOIS"
 description: "02200 - MISSY AUX BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

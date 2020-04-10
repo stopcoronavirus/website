@@ -1,5 +1,5 @@
 ---
-title: "57650 - HAVANGE | Entraide, Annonces, Initiatives"
+title: "57650 - HAVANGE"
 description: "57650 - HAVANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

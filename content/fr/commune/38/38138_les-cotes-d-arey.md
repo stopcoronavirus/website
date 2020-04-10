@@ -1,5 +1,5 @@
 ---
-title: "38138 - LES COTES D AREY | Entraide, Annonces, Initiatives"
+title: "38138 - LES COTES D AREY"
 description: "38138 - LES COTES D AREY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

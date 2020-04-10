@@ -1,5 +1,5 @@
 ---
-title: "80250 - ESTREES SUR NOYE | Entraide, Annonces, Initiatives"
+title: "80250 - ESTREES SUR NOYE"
 description: "80250 - ESTREES SUR NOYE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

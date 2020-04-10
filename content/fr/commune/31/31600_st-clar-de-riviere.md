@@ -1,5 +1,5 @@
 ---
-title: "31600 - ST CLAR DE RIVIERE | Entraide, Annonces, Initiatives"
+title: "31600 - ST CLAR DE RIVIERE"
 description: "31600 - ST CLAR DE RIVIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

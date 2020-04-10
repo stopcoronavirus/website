@@ -1,5 +1,5 @@
 ---
-title: "78660 - ALLAINVILLE | Entraide, Annonces, Initiatives"
+title: "78660 - ALLAINVILLE"
 description: "78660 - ALLAINVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

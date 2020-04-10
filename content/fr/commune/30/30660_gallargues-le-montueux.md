@@ -1,5 +1,5 @@
 ---
-title: "30660 - GALLARGUES LE MONTUEUX | Entraide, Annonces, Initiatives"
+title: "30660 - GALLARGUES LE MONTUEUX"
 description: "30660 - GALLARGUES LE MONTUEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "17100 - FONTCOUVERTE | Entraide, Annonces, Initiatives"
+title: "17100 - FONTCOUVERTE"
 description: "17100 - FONTCOUVERTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

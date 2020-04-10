@@ -1,5 +1,5 @@
 ---
-title: "38630 - LES AVENIERES VEYRINS THUELLIN | Entraide, Annonces, Initiatives"
+title: "38630 - LES AVENIERES VEYRINS THUELLIN"
 description: "38630 - LES AVENIERES VEYRINS THUELLIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

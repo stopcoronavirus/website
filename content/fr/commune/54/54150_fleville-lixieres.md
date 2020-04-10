@@ -1,5 +1,5 @@
 ---
-title: "54150 - FLEVILLE LIXIERES | Entraide, Annonces, Initiatives"
+title: "54150 - FLEVILLE LIXIERES"
 description: "54150 - FLEVILLE LIXIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

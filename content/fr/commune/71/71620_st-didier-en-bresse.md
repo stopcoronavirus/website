@@ -1,5 +1,5 @@
 ---
-title: "71620 - ST DIDIER EN BRESSE | Entraide, Annonces, Initiatives"
+title: "71620 - ST DIDIER EN BRESSE"
 description: "71620 - ST DIDIER EN BRESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

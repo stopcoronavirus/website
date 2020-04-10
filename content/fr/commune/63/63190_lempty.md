@@ -1,5 +1,5 @@
 ---
-title: "63190 - LEMPTY | Entraide, Annonces, Initiatives"
+title: "63190 - LEMPTY"
 description: "63190 - LEMPTY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

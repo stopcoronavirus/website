@@ -1,5 +1,5 @@
 ---
-title: "58300 - ST HILAIRE FONTAINE | Entraide, Annonces, Initiatives"
+title: "58300 - ST HILAIRE FONTAINE"
 description: "58300 - ST HILAIRE FONTAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

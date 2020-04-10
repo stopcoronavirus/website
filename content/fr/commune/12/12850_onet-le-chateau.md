@@ -1,5 +1,5 @@
 ---
-title: "12850 - ONET LE CHATEAU | Entraide, Annonces, Initiatives"
+title: "12850 - ONET LE CHATEAU"
 description: "12850 - ONET LE CHATEAU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

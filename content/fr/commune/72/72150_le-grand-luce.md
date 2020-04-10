@@ -1,5 +1,5 @@
 ---
-title: "72150 - LE GRAND LUCE | Entraide, Annonces, Initiatives"
+title: "72150 - LE GRAND LUCE"
 description: "72150 - LE GRAND LUCE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

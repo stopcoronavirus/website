@@ -1,5 +1,5 @@
 ---
-title: "71250 - LA VINEUSE SUR FREGANDE | Entraide, Annonces, Initiatives"
+title: "71250 - LA VINEUSE SUR FREGANDE"
 description: "71250 - LA VINEUSE SUR FREGANDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

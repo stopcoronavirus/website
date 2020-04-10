@@ -1,5 +1,5 @@
 ---
-title: "16290 - MOULIDARS | Entraide, Annonces, Initiatives"
+title: "16290 - MOULIDARS"
 description: "16290 - MOULIDARS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

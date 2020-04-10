@@ -1,5 +1,5 @@
 ---
-title: "61200 - SEVIGNY | Entraide, Annonces, Initiatives"
+title: "61200 - SEVIGNY"
 description: "61200 - SEVIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

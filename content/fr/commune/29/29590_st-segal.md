@@ -1,5 +1,5 @@
 ---
-title: "29590 - ST SEGAL | Entraide, Annonces, Initiatives"
+title: "29590 - ST SEGAL"
 description: "29590 - ST SEGAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

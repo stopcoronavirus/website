@@ -1,5 +1,5 @@
 ---
-title: "08380 - SIGNY LE PETIT | Entraide, Annonces, Initiatives"
+title: "08380 - SIGNY LE PETIT"
 description: "08380 - SIGNY LE PETIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

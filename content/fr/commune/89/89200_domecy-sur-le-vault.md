@@ -1,5 +1,5 @@
 ---
-title: "89200 - DOMECY SUR LE VAULT | Entraide, Annonces, Initiatives"
+title: "89200 - DOMECY SUR LE VAULT"
 description: "89200 - DOMECY SUR LE VAULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "95370 - MONTIGNY LES CORMEILLES | Entraide, Annonces, Initiatives"
+title: "95370 - MONTIGNY LES CORMEILLES"
 description: "95370 - MONTIGNY LES CORMEILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

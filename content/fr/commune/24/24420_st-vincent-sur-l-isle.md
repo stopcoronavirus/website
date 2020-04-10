@@ -1,5 +1,5 @@
 ---
-title: "24420 - ST VINCENT SUR L ISLE | Entraide, Annonces, Initiatives"
+title: "24420 - ST VINCENT SUR L ISLE"
 description: "24420 - ST VINCENT SUR L ISLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

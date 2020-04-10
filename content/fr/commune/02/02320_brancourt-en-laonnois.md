@@ -1,5 +1,5 @@
 ---
-title: "02320 - BRANCOURT EN LAONNOIS | Entraide, Annonces, Initiatives"
+title: "02320 - BRANCOURT EN LAONNOIS"
 description: "02320 - BRANCOURT EN LAONNOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

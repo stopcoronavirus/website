@@ -1,5 +1,5 @@
 ---
-title: "30630 - VERFEUIL | Entraide, Annonces, Initiatives"
+title: "30630 - VERFEUIL"
 description: "30630 - VERFEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

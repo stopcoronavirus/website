@@ -1,5 +1,5 @@
 ---
-title: "27400 - HOUETTEVILLE | Entraide, Annonces, Initiatives"
+title: "27400 - HOUETTEVILLE"
 description: "27400 - HOUETTEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

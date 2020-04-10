@@ -1,5 +1,5 @@
 ---
-title: "79110 - COUTURE D ARGENSON | Entraide, Annonces, Initiatives"
+title: "79110 - COUTURE D ARGENSON"
 description: "79110 - COUTURE D ARGENSON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

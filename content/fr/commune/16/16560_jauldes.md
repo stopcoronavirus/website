@@ -1,5 +1,5 @@
 ---
-title: "16560 - JAULDES | Entraide, Annonces, Initiatives"
+title: "16560 - JAULDES"
 description: "16560 - JAULDES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

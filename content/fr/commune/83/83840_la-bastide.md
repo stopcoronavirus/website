@@ -1,5 +1,5 @@
 ---
-title: "83840 - LA BASTIDE | Entraide, Annonces, Initiatives"
+title: "83840 - LA BASTIDE"
 description: "83840 - LA BASTIDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

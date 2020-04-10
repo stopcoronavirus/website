@@ -1,5 +1,5 @@
 ---
-title: "69126 - BRINDAS | Entraide, Annonces, Initiatives"
+title: "69126 - BRINDAS"
 description: "69126 - BRINDAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

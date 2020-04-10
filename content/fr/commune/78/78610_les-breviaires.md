@@ -1,5 +1,5 @@
 ---
-title: "78610 - LES BREVIAIRES | Entraide, Annonces, Initiatives"
+title: "78610 - LES BREVIAIRES"
 description: "78610 - LES BREVIAIRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

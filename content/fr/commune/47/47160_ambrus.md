@@ -1,5 +1,5 @@
 ---
-title: "47160 - AMBRUS | Entraide, Annonces, Initiatives"
+title: "47160 - AMBRUS"
 description: "47160 - AMBRUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

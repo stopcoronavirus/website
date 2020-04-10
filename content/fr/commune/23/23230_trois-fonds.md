@@ -1,5 +1,5 @@
 ---
-title: "23230 - TROIS FONDS | Entraide, Annonces, Initiatives"
+title: "23230 - TROIS FONDS"
 description: "23230 - TROIS FONDS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

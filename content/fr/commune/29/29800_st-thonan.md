@@ -1,5 +1,5 @@
 ---
-title: "29800 - ST THONAN | Entraide, Annonces, Initiatives"
+title: "29800 - ST THONAN"
 description: "29800 - ST THONAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

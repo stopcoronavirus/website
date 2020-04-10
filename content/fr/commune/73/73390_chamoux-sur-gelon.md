@@ -1,5 +1,5 @@
 ---
-title: "73390 - CHAMOUX SUR GELON | Entraide, Annonces, Initiatives"
+title: "73390 - CHAMOUX SUR GELON"
 description: "73390 - CHAMOUX SUR GELON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

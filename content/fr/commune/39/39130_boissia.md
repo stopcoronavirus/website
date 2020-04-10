@@ -1,5 +1,5 @@
 ---
-title: "39130 - BOISSIA | Entraide, Annonces, Initiatives"
+title: "39130 - BOISSIA"
 description: "39130 - BOISSIA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

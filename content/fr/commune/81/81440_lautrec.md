@@ -1,5 +1,5 @@
 ---
-title: "81440 - LAUTREC | Entraide, Annonces, Initiatives"
+title: "81440 - LAUTREC"
 description: "81440 - LAUTREC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "01960 - ST ANDRE SUR VIEUX JONC | Entraide, Annonces, Initiatives"
+title: "01960 - ST ANDRE SUR VIEUX JONC"
 description: "01960 - ST ANDRE SUR VIEUX JONC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

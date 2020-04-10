@@ -1,5 +1,5 @@
 ---
-title: "38430 - MOIRANS | Entraide, Annonces, Initiatives"
+title: "38430 - MOIRANS"
 description: "38430 - MOIRANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "73210 - LA PLAGNE TARENTAISE | Entraide, Annonces, Initiatives"
+title: "73210 - LA PLAGNE TARENTAISE"
 description: "73210 - LA PLAGNE TARENTAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

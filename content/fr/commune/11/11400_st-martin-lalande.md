@@ -1,5 +1,5 @@
 ---
-title: "11400 - ST MARTIN LALANDE | Entraide, Annonces, Initiatives"
+title: "11400 - ST MARTIN LALANDE"
 description: "11400 - ST MARTIN LALANDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

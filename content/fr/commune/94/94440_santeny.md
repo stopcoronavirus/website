@@ -1,5 +1,5 @@
 ---
-title: "94440 - SANTENY | Entraide, Annonces, Initiatives"
+title: "94440 - SANTENY"
 description: "94440 - SANTENY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

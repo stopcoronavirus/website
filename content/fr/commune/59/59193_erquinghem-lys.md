@@ -1,5 +1,5 @@
 ---
-title: "59193 - ERQUINGHEM LYS | Entraide, Annonces, Initiatives"
+title: "59193 - ERQUINGHEM LYS"
 description: "59193 - ERQUINGHEM LYS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

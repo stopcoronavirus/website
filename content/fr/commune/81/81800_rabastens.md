@@ -1,5 +1,5 @@
 ---
-title: "81800 - RABASTENS | Entraide, Annonces, Initiatives"
+title: "81800 - RABASTENS"
 description: "81800 - RABASTENS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

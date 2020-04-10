@@ -1,5 +1,5 @@
 ---
-title: "19170 - LACELLE | Entraide, Annonces, Initiatives"
+title: "19170 - LACELLE"
 description: "19170 - LACELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "54290 - ST BOINGT | Entraide, Annonces, Initiatives"
+title: "54290 - ST BOINGT"
 description: "54290 - ST BOINGT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "06220 - VALLAURIS | Entraide, Annonces, Initiatives"
+title: "06220 - VALLAURIS"
 description: "06220 - VALLAURIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

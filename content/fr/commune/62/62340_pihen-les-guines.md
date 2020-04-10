@@ -1,5 +1,5 @@
 ---
-title: "62340 - PIHEN LES GUINES | Entraide, Annonces, Initiatives"
+title: "62340 - PIHEN LES GUINES"
 description: "62340 - PIHEN LES GUINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

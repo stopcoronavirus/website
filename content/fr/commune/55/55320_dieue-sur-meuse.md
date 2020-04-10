@@ -1,5 +1,5 @@
 ---
-title: "55320 - DIEUE SUR MEUSE | Entraide, Annonces, Initiatives"
+title: "55320 - DIEUE SUR MEUSE"
 description: "55320 - DIEUE SUR MEUSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "60890 - LA VILLENEUVE SOUS THURY | Entraide, Annonces, Initiatives"
+title: "60890 - LA VILLENEUVE SOUS THURY"
 description: "60890 - LA VILLENEUVE SOUS THURY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

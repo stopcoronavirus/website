@@ -1,5 +1,5 @@
 ---
-title: "88390 - RENAUVOID | Entraide, Annonces, Initiatives"
+title: "88390 - RENAUVOID"
 description: "88390 - RENAUVOID | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "27600 - CHAMPENARD | Entraide, Annonces, Initiatives"
+title: "27600 - CHAMPENARD"
 description: "27600 - CHAMPENARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

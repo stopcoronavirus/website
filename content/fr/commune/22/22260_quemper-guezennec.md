@@ -1,5 +1,5 @@
 ---
-title: "22260 - QUEMPER GUEZENNEC | Entraide, Annonces, Initiatives"
+title: "22260 - QUEMPER GUEZENNEC"
 description: "22260 - QUEMPER GUEZENNEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

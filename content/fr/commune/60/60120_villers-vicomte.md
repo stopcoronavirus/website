@@ -1,5 +1,5 @@
 ---
-title: "60120 - VILLERS VICOMTE | Entraide, Annonces, Initiatives"
+title: "60120 - VILLERS VICOMTE"
 description: "60120 - VILLERS VICOMTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

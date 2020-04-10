@@ -1,5 +1,5 @@
 ---
-title: "11230 - MONTJARDIN | Entraide, Annonces, Initiatives"
+title: "11230 - MONTJARDIN"
 description: "11230 - MONTJARDIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

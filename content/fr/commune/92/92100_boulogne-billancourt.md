@@ -1,5 +1,5 @@
 ---
-title: "92100 - BOULOGNE BILLANCOURT | Entraide, Annonces, Initiatives"
+title: "92100 - BOULOGNE BILLANCOURT"
 description: "92100 - BOULOGNE BILLANCOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

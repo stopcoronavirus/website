@@ -1,5 +1,5 @@
 ---
-title: "71960 - PIERRECLOS | Entraide, Annonces, Initiatives"
+title: "71960 - PIERRECLOS"
 description: "71960 - PIERRECLOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "50570 - CAMETOURS | Entraide, Annonces, Initiatives"
+title: "50570 - CAMETOURS"
 description: "50570 - CAMETOURS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

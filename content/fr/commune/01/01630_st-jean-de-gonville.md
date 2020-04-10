@@ -1,5 +1,5 @@
 ---
-title: "01630 - ST JEAN DE GONVILLE | Entraide, Annonces, Initiatives"
+title: "01630 - ST JEAN DE GONVILLE"
 description: "01630 - ST JEAN DE GONVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

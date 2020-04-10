@@ -1,5 +1,5 @@
 ---
-title: "37110 - LE BOULAY | Entraide, Annonces, Initiatives"
+title: "37110 - LE BOULAY"
 description: "37110 - LE BOULAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "20170 - SAN GAVINO DI CARBINI | Entraide, Annonces, Initiatives"
+title: "20170 - SAN GAVINO DI CARBINI"
 description: "20170 - SAN GAVINO DI CARBINI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

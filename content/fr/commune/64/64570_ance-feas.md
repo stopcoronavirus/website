@@ -1,5 +1,5 @@
 ---
-title: "64570 - ANCE FEAS | Entraide, Annonces, Initiatives"
+title: "64570 - ANCE FEAS"
 description: "64570 - ANCE FEAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "11330 - VIGNEVIEILLE | Entraide, Annonces, Initiatives"
+title: "11330 - VIGNEVIEILLE"
 description: "11330 - VIGNEVIEILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

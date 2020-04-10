@@ -1,5 +1,5 @@
 ---
-title: "97226 - LE MORNE VERT | Entraide, Annonces, Initiatives"
+title: "97226 - LE MORNE VERT"
 description: "97226 - LE MORNE VERT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

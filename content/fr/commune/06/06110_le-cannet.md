@@ -1,5 +1,5 @@
 ---
-title: "06110 - LE CANNET | Entraide, Annonces, Initiatives"
+title: "06110 - LE CANNET"
 description: "06110 - LE CANNET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

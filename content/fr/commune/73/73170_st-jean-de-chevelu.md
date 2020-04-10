@@ -1,5 +1,5 @@
 ---
-title: "73170 - ST JEAN DE CHEVELU | Entraide, Annonces, Initiatives"
+title: "73170 - ST JEAN DE CHEVELU"
 description: "73170 - ST JEAN DE CHEVELU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

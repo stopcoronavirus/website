@@ -1,5 +1,5 @@
 ---
-title: "90100 - GROSNE | Entraide, Annonces, Initiatives"
+title: "90100 - GROSNE"
 description: "90100 - GROSNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

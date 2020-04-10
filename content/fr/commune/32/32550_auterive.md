@@ -1,5 +1,5 @@
 ---
-title: "32550 - AUTERIVE | Entraide, Annonces, Initiatives"
+title: "32550 - AUTERIVE"
 description: "32550 - AUTERIVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

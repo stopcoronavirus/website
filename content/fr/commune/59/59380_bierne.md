@@ -1,5 +1,5 @@
 ---
-title: "59380 - BIERNE | Entraide, Annonces, Initiatives"
+title: "59380 - BIERNE"
 description: "59380 - BIERNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

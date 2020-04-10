@@ -1,5 +1,5 @@
 ---
-title: "53600 - ST GEORGES SUR ERVE | Entraide, Annonces, Initiatives"
+title: "53600 - ST GEORGES SUR ERVE"
 description: "53600 - ST GEORGES SUR ERVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

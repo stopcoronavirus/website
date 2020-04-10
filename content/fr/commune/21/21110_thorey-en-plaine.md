@@ -1,5 +1,5 @@
 ---
-title: "21110 - THOREY EN PLAINE | Entraide, Annonces, Initiatives"
+title: "21110 - THOREY EN PLAINE"
 description: "21110 - THOREY EN PLAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

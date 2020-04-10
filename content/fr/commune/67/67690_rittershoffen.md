@@ -1,5 +1,5 @@
 ---
-title: "67690 - RITTERSHOFFEN | Entraide, Annonces, Initiatives"
+title: "67690 - RITTERSHOFFEN"
 description: "67690 - RITTERSHOFFEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

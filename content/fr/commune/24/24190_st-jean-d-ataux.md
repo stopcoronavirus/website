@@ -1,5 +1,5 @@
 ---
-title: "24190 - ST JEAN D ATAUX | Entraide, Annonces, Initiatives"
+title: "24190 - ST JEAN D ATAUX"
 description: "24190 - ST JEAN D ATAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

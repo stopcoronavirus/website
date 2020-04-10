@@ -1,5 +1,5 @@
 ---
-title: "17230 - ST OUEN D AUNIS | Entraide, Annonces, Initiatives"
+title: "17230 - ST OUEN D AUNIS"
 description: "17230 - ST OUEN D AUNIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

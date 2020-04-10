@@ -1,5 +1,5 @@
 ---
-title: "10340 - ARRELLES | Entraide, Annonces, Initiatives"
+title: "10340 - ARRELLES"
 description: "10340 - ARRELLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

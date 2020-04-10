@@ -1,5 +1,5 @@
 ---
-title: "38140 - CHARNECLES | Entraide, Annonces, Initiatives"
+title: "38140 - CHARNECLES"
 description: "38140 - CHARNECLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

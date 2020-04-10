@@ -1,5 +1,5 @@
 ---
-title: "09220 - SIGUER | Entraide, Annonces, Initiatives"
+title: "09220 - SIGUER"
 description: "09220 - SIGUER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

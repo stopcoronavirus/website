@@ -1,5 +1,5 @@
 ---
-title: "86340 - NIEUIL L ESPOIR | Entraide, Annonces, Initiatives"
+title: "86340 - NIEUIL L ESPOIR"
 description: "86340 - NIEUIL L ESPOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

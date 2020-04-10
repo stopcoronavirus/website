@@ -1,5 +1,5 @@
 ---
-title: "12210 - ARGENCES EN AUBRAC | Entraide, Annonces, Initiatives"
+title: "12210 - ARGENCES EN AUBRAC"
 description: "12210 - ARGENCES EN AUBRAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

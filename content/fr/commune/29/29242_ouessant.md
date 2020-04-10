@@ -1,5 +1,5 @@
 ---
-title: "29242 - OUESSANT | Entraide, Annonces, Initiatives"
+title: "29242 - OUESSANT"
 description: "29242 - OUESSANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

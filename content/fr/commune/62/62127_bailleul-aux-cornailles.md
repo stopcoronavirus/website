@@ -1,5 +1,5 @@
 ---
-title: "62127 - BAILLEUL AUX CORNAILLES | Entraide, Annonces, Initiatives"
+title: "62127 - BAILLEUL AUX CORNAILLES"
 description: "62127 - BAILLEUL AUX CORNAILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

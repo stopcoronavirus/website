@@ -1,5 +1,5 @@
 ---
-title: "63410 - LOUBEYRAT | Entraide, Annonces, Initiatives"
+title: "63410 - LOUBEYRAT"
 description: "63410 - LOUBEYRAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

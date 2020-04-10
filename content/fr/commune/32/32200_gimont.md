@@ -1,5 +1,5 @@
 ---
-title: "32200 - GIMONT | Entraide, Annonces, Initiatives"
+title: "32200 - GIMONT"
 description: "32200 - GIMONT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "31290 - ST ROME | Entraide, Annonces, Initiatives"
+title: "31290 - ST ROME"
 description: "31290 - ST ROME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

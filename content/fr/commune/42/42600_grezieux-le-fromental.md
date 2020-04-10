@@ -1,5 +1,5 @@
 ---
-title: "42600 - GREZIEUX LE FROMENTAL | Entraide, Annonces, Initiatives"
+title: "42600 - GREZIEUX LE FROMENTAL"
 description: "42600 - GREZIEUX LE FROMENTAL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

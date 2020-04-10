@@ -1,5 +1,5 @@
 ---
-title: "63420 - ROCHE CHARLES LA MAYRAND | Entraide, Annonces, Initiatives"
+title: "63420 - ROCHE CHARLES LA MAYRAND"
 description: "63420 - ROCHE CHARLES LA MAYRAND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

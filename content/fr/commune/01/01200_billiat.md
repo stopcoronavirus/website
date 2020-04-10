@@ -1,5 +1,5 @@
 ---
-title: "01200 - BILLIAT | Entraide, Annonces, Initiatives"
+title: "01200 - BILLIAT"
 description: "01200 - BILLIAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

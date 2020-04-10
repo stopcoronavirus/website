@@ -1,5 +1,5 @@
 ---
-title: "36300 - POULIGNY ST PIERRE | Entraide, Annonces, Initiatives"
+title: "36300 - POULIGNY ST PIERRE"
 description: "36300 - POULIGNY ST PIERRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

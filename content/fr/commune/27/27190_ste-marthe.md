@@ -1,5 +1,5 @@
 ---
-title: "27190 - STE MARTHE | Entraide, Annonces, Initiatives"
+title: "27190 - STE MARTHE"
 description: "27190 - STE MARTHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

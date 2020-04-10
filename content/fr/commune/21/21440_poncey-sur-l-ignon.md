@@ -1,5 +1,5 @@
 ---
-title: "21440 - PONCEY SUR L IGNON | Entraide, Annonces, Initiatives"
+title: "21440 - PONCEY SUR L IGNON"
 description: "21440 - PONCEY SUR L IGNON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

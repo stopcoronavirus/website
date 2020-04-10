@@ -1,5 +1,5 @@
 ---
-title: "39200 - COYRIERE | Entraide, Annonces, Initiatives"
+title: "39200 - COYRIERE"
 description: "39200 - COYRIERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

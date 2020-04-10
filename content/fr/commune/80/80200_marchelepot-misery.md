@@ -1,5 +1,5 @@
 ---
-title: "80200 - MARCHELEPOT MISERY | Entraide, Annonces, Initiatives"
+title: "80200 - MARCHELEPOT MISERY"
 description: "80200 - MARCHELEPOT MISERY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

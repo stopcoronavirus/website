@@ -1,5 +1,5 @@
 ---
-title: "67170 - WINGERSHEIM LES QUATRE BANS | Entraide, Annonces, Initiatives"
+title: "67170 - WINGERSHEIM LES QUATRE BANS"
 description: "67170 - WINGERSHEIM LES QUATRE BANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

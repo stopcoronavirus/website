@@ -1,5 +1,5 @@
 ---
-title: "14400 - LE MANOIR | Entraide, Annonces, Initiatives"
+title: "14400 - LE MANOIR"
 description: "14400 - LE MANOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

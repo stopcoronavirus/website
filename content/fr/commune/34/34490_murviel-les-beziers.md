@@ -1,5 +1,5 @@
 ---
-title: "34490 - MURVIEL LES BEZIERS | Entraide, Annonces, Initiatives"
+title: "34490 - MURVIEL LES BEZIERS"
 description: "34490 - MURVIEL LES BEZIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

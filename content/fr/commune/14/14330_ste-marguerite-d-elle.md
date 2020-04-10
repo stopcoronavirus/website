@@ -1,5 +1,5 @@
 ---
-title: "14330 - STE MARGUERITE D ELLE | Entraide, Annonces, Initiatives"
+title: "14330 - STE MARGUERITE D ELLE"
 description: "14330 - STE MARGUERITE D ELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "20123 - COGNOCOLI MONTICCHI | Entraide, Annonces, Initiatives"
+title: "20123 - COGNOCOLI MONTICCHI"
 description: "20123 - COGNOCOLI MONTICCHI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

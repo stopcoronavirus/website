@@ -1,5 +1,5 @@
 ---
-title: "65170 - VIELLE AURE | Entraide, Annonces, Initiatives"
+title: "65170 - VIELLE AURE"
 description: "65170 - VIELLE AURE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

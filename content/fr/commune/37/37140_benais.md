@@ -1,5 +1,5 @@
 ---
-title: "37140 - BENAIS | Entraide, Annonces, Initiatives"
+title: "37140 - BENAIS"
 description: "37140 - BENAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "50180 - AGNEAUX | Entraide, Annonces, Initiatives"
+title: "50180 - AGNEAUX"
 description: "50180 - AGNEAUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "54170 - THUILLEY AUX GROSEILLES | Entraide, Annonces, Initiatives"
+title: "54170 - THUILLEY AUX GROSEILLES"
 description: "54170 - THUILLEY AUX GROSEILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "37340 - CLERE LES PINS | Entraide, Annonces, Initiatives"
+title: "37340 - CLERE LES PINS"
 description: "37340 - CLERE LES PINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

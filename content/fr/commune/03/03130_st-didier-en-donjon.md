@@ -1,5 +1,5 @@
 ---
-title: "03130 - ST DIDIER EN DONJON | Entraide, Annonces, Initiatives"
+title: "03130 - ST DIDIER EN DONJON"
 description: "03130 - ST DIDIER EN DONJON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

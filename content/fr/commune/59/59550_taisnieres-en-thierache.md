@@ -1,5 +1,5 @@
 ---
-title: "59550 - TAISNIERES EN THIERACHE | Entraide, Annonces, Initiatives"
+title: "59550 - TAISNIERES EN THIERACHE"
 description: "59550 - TAISNIERES EN THIERACHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

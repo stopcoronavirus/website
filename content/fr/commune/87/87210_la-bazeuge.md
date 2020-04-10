@@ -1,5 +1,5 @@
 ---
-title: "87210 - LA BAZEUGE | Entraide, Annonces, Initiatives"
+title: "87210 - LA BAZEUGE"
 description: "87210 - LA BAZEUGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

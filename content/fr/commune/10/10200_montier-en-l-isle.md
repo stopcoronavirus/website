@@ -1,5 +1,5 @@
 ---
-title: "10200 - MONTIER EN L ISLE | Entraide, Annonces, Initiatives"
+title: "10200 - MONTIER EN L ISLE"
 description: "10200 - MONTIER EN L ISLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "84490 - ST SATURNIN LES APT | Entraide, Annonces, Initiatives"
+title: "84490 - ST SATURNIN LES APT"
 description: "84490 - ST SATURNIN LES APT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

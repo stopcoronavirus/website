@@ -1,5 +1,5 @@
 ---
-title: "46270 - BAGNAC SUR CELE | Entraide, Annonces, Initiatives"
+title: "46270 - BAGNAC SUR CELE"
 description: "46270 - BAGNAC SUR CELE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

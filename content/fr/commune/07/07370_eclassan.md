@@ -1,5 +1,5 @@
 ---
-title: "07370 - ECLASSAN | Entraide, Annonces, Initiatives"
+title: "07370 - ECLASSAN"
 description: "07370 - ECLASSAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

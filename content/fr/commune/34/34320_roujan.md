@@ -1,5 +1,5 @@
 ---
-title: "34320 - ROUJAN | Entraide, Annonces, Initiatives"
+title: "34320 - ROUJAN"
 description: "34320 - ROUJAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

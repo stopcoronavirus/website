@@ -1,5 +1,5 @@
 ---
-title: "50840 - FERMANVILLE | Entraide, Annonces, Initiatives"
+title: "50840 - FERMANVILLE"
 description: "50840 - FERMANVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

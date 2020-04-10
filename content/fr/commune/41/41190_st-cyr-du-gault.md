@@ -1,5 +1,5 @@
 ---
-title: "41190 - ST CYR DU GAULT | Entraide, Annonces, Initiatives"
+title: "41190 - ST CYR DU GAULT"
 description: "41190 - ST CYR DU GAULT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

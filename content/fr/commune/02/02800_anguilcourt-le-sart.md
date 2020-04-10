@@ -1,5 +1,5 @@
 ---
-title: "02800 - ANGUILCOURT LE SART | Entraide, Annonces, Initiatives"
+title: "02800 - ANGUILCOURT LE SART"
 description: "02800 - ANGUILCOURT LE SART | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

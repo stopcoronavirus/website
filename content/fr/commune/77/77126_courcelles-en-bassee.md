@@ -1,5 +1,5 @@
 ---
-title: "77126 - COURCELLES EN BASSEE | Entraide, Annonces, Initiatives"
+title: "77126 - COURCELLES EN BASSEE"
 description: "77126 - COURCELLES EN BASSEE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "93500 - PANTIN | Entraide, Annonces, Initiatives"
+title: "93500 - PANTIN"
 description: "93500 - PANTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

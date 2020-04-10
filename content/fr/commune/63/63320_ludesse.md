@@ -1,5 +1,5 @@
 ---
-title: "63320 - LUDESSE | Entraide, Annonces, Initiatives"
+title: "63320 - LUDESSE"
 description: "63320 - LUDESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

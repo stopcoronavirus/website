@@ -1,5 +1,5 @@
 ---
-title: "23270 - BETETE | Entraide, Annonces, Initiatives"
+title: "23270 - BETETE"
 description: "23270 - BETETE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

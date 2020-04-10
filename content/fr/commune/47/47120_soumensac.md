@@ -1,5 +1,5 @@
 ---
-title: "47120 - SOUMENSAC | Entraide, Annonces, Initiatives"
+title: "47120 - SOUMENSAC"
 description: "47120 - SOUMENSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

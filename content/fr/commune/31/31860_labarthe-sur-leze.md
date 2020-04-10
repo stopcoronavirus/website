@@ -1,5 +1,5 @@
 ---
-title: "31860 - LABARTHE SUR LEZE | Entraide, Annonces, Initiatives"
+title: "31860 - LABARTHE SUR LEZE"
 description: "31860 - LABARTHE SUR LEZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

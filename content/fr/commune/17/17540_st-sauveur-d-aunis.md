@@ -1,5 +1,5 @@
 ---
-title: "17540 - ST SAUVEUR D AUNIS | Entraide, Annonces, Initiatives"
+title: "17540 - ST SAUVEUR D AUNIS"
 description: "17540 - ST SAUVEUR D AUNIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "32350 - ST ARAILLES | Entraide, Annonces, Initiatives"
+title: "32350 - ST ARAILLES"
 description: "32350 - ST ARAILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "57300 - HAGONDANGE | Entraide, Annonces, Initiatives"
+title: "57300 - HAGONDANGE"
 description: "57300 - HAGONDANGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "85210 - LA CHAPELLE THEMER | Entraide, Annonces, Initiatives"
+title: "85210 - LA CHAPELLE THEMER"
 description: "85210 - LA CHAPELLE THEMER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

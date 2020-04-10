@@ -1,5 +1,5 @@
 ---
-title: "02600 - NOROY SUR OURCQ | Entraide, Annonces, Initiatives"
+title: "02600 - NOROY SUR OURCQ"
 description: "02600 - NOROY SUR OURCQ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

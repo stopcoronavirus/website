@@ -1,5 +1,5 @@
 ---
-title: "80360 - MAUREPAS | Entraide, Annonces, Initiatives"
+title: "80360 - MAUREPAS"
 description: "80360 - MAUREPAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

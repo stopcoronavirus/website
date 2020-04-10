@@ -1,5 +1,5 @@
 ---
-title: "53300 - AMBRIERES LES VALLEES | Entraide, Annonces, Initiatives"
+title: "53300 - AMBRIERES LES VALLEES"
 description: "53300 - AMBRIERES LES VALLEES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

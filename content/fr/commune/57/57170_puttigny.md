@@ -1,5 +1,5 @@
 ---
-title: "57170 - PUTTIGNY | Entraide, Annonces, Initiatives"
+title: "57170 - PUTTIGNY"
 description: "57170 - PUTTIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

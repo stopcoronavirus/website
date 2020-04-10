@@ -1,5 +1,5 @@
 ---
-title: "45650 - ST JEAN LE BLANC | Entraide, Annonces, Initiatives"
+title: "45650 - ST JEAN LE BLANC"
 description: "45650 - ST JEAN LE BLANC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

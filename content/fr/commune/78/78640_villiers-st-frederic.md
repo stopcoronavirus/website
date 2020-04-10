@@ -1,5 +1,5 @@
 ---
-title: "78640 - VILLIERS ST FREDERIC | Entraide, Annonces, Initiatives"
+title: "78640 - VILLIERS ST FREDERIC"
 description: "78640 - VILLIERS ST FREDERIC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

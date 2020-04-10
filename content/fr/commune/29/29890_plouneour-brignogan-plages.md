@@ -1,5 +1,5 @@
 ---
-title: "29890 - PLOUNEOUR BRIGNOGAN PLAGES | Entraide, Annonces, Initiatives"
+title: "29890 - PLOUNEOUR BRIGNOGAN PLAGES"
 description: "29890 - PLOUNEOUR BRIGNOGAN PLAGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

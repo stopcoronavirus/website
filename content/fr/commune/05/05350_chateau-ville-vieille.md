@@ -1,5 +1,5 @@
 ---
-title: "05350 - CHATEAU VILLE VIEILLE | Entraide, Annonces, Initiatives"
+title: "05350 - CHATEAU VILLE VIEILLE"
 description: "05350 - CHATEAU VILLE VIEILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

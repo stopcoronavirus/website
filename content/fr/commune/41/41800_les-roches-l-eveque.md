@@ -1,5 +1,5 @@
 ---
-title: "41800 - LES ROCHES L EVEQUE | Entraide, Annonces, Initiatives"
+title: "41800 - LES ROCHES L EVEQUE"
 description: "41800 - LES ROCHES L EVEQUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

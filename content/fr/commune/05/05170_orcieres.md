@@ -1,5 +1,5 @@
 ---
-title: "05170 - ORCIERES | Entraide, Annonces, Initiatives"
+title: "05170 - ORCIERES"
 description: "05170 - ORCIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

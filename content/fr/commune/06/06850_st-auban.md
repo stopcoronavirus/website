@@ -1,5 +1,5 @@
 ---
-title: "06850 - ST AUBAN | Entraide, Annonces, Initiatives"
+title: "06850 - ST AUBAN"
 description: "06850 - ST AUBAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

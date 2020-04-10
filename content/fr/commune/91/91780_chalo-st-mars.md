@@ -1,5 +1,5 @@
 ---
-title: "91780 - CHALO ST MARS | Entraide, Annonces, Initiatives"
+title: "91780 - CHALO ST MARS"
 description: "91780 - CHALO ST MARS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

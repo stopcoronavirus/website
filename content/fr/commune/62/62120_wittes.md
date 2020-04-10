@@ -1,5 +1,5 @@
 ---
-title: "62120 - WITTES | Entraide, Annonces, Initiatives"
+title: "62120 - WITTES"
 description: "62120 - WITTES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

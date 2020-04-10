@@ -1,5 +1,5 @@
 ---
-title: "53290 - BIERNE LES VILLAGES | Entraide, Annonces, Initiatives"
+title: "53290 - BIERNE LES VILLAGES"
 description: "53290 - BIERNE LES VILLAGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

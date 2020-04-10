@@ -1,5 +1,5 @@
 ---
-title: "94150 - RUNGIS | Entraide, Annonces, Initiatives"
+title: "94150 - RUNGIS"
 description: "94150 - RUNGIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

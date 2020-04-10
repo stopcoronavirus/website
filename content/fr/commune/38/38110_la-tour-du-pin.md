@@ -1,5 +1,5 @@
 ---
-title: "38110 - LA TOUR DU PIN | Entraide, Annonces, Initiatives"
+title: "38110 - LA TOUR DU PIN"
 description: "38110 - LA TOUR DU PIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

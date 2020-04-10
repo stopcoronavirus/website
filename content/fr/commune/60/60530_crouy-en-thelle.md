@@ -1,5 +1,5 @@
 ---
-title: "60530 - CROUY EN THELLE | Entraide, Annonces, Initiatives"
+title: "60530 - CROUY EN THELLE"
 description: "60530 - CROUY EN THELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

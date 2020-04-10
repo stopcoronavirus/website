@@ -1,5 +1,5 @@
 ---
-title: "62182 - RIENCOURT LES CAGNICOURT | Entraide, Annonces, Initiatives"
+title: "62182 - RIENCOURT LES CAGNICOURT"
 description: "62182 - RIENCOURT LES CAGNICOURT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

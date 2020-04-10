@@ -1,5 +1,5 @@
 ---
-title: "32340 - CASTET ARROUY | Entraide, Annonces, Initiatives"
+title: "32340 - CASTET ARROUY"
 description: "32340 - CASTET ARROUY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

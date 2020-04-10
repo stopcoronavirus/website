@@ -1,5 +1,5 @@
 ---
-title: "60123 - BONNEUIL EN VALOIS | Entraide, Annonces, Initiatives"
+title: "60123 - BONNEUIL EN VALOIS"
 description: "60123 - BONNEUIL EN VALOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

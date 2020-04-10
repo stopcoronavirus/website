@@ -1,5 +1,5 @@
 ---
-title: "78000 - VERSAILLES | Entraide, Annonces, Initiatives"
+title: "78000 - VERSAILLES"
 description: "78000 - VERSAILLES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "43210 - VALPRIVAS | Entraide, Annonces, Initiatives"
+title: "43210 - VALPRIVAS"
 description: "43210 - VALPRIVAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

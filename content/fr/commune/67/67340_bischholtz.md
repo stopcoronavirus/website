@@ -1,5 +1,5 @@
 ---
-title: "67340 - BISCHHOLTZ | Entraide, Annonces, Initiatives"
+title: "67340 - BISCHHOLTZ"
 description: "67340 - BISCHHOLTZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

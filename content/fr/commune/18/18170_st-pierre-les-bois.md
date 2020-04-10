@@ -1,5 +1,5 @@
 ---
-title: "18170 - ST PIERRE LES BOIS | Entraide, Annonces, Initiatives"
+title: "18170 - ST PIERRE LES BOIS"
 description: "18170 - ST PIERRE LES BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "63220 - ST SAUVEUR LA SAGNE | Entraide, Annonces, Initiatives"
+title: "63220 - ST SAUVEUR LA SAGNE"
 description: "63220 - ST SAUVEUR LA SAGNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "71470 - MONTPONT EN BRESSE | Entraide, Annonces, Initiatives"
+title: "71470 - MONTPONT EN BRESSE"
 description: "71470 - MONTPONT EN BRESSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

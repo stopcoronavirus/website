@@ -1,5 +1,5 @@
 ---
-title: "92360 - MEUDON | Entraide, Annonces, Initiatives"
+title: "92360 - MEUDON"
 description: "92360 - MEUDON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

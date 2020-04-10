@@ -1,5 +1,5 @@
 ---
-title: "56160 - PERSQUEN | Entraide, Annonces, Initiatives"
+title: "56160 - PERSQUEN"
 description: "56160 - PERSQUEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

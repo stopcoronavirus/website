@@ -1,5 +1,5 @@
 ---
-title: "80770 - BEAUCHAMPS | Entraide, Annonces, Initiatives"
+title: "80770 - BEAUCHAMPS"
 description: "80770 - BEAUCHAMPS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

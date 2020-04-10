@@ -1,5 +1,5 @@
 ---
-title: "88140 - AINGEVILLE | Entraide, Annonces, Initiatives"
+title: "88140 - AINGEVILLE"
 description: "88140 - AINGEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

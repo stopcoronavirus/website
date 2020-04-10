@@ -1,5 +1,5 @@
 ---
-title: "31460 - LA SALVETAT LAURAGAIS | Entraide, Annonces, Initiatives"
+title: "31460 - LA SALVETAT LAURAGAIS"
 description: "31460 - LA SALVETAT LAURAGAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "47360 - LAUGNAC | Entraide, Annonces, Initiatives"
+title: "47360 - LAUGNAC"
 description: "47360 - LAUGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

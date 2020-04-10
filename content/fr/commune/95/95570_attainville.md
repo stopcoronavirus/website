@@ -1,5 +1,5 @@
 ---
-title: "95570 - ATTAINVILLE | Entraide, Annonces, Initiatives"
+title: "95570 - ATTAINVILLE"
 description: "95570 - ATTAINVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

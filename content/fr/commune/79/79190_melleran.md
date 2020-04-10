@@ -1,5 +1,5 @@
 ---
-title: "79190 - MELLERAN | Entraide, Annonces, Initiatives"
+title: "79190 - MELLERAN"
 description: "79190 - MELLERAN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

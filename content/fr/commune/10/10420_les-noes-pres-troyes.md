@@ -1,5 +1,5 @@
 ---
-title: "10420 - LES NOES PRES TROYES | Entraide, Annonces, Initiatives"
+title: "10420 - LES NOES PRES TROYES"
 description: "10420 - LES NOES PRES TROYES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "60570 - LABOISSIERE EN THELLE | Entraide, Annonces, Initiatives"
+title: "60570 - LABOISSIERE EN THELLE"
 description: "60570 - LABOISSIERE EN THELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "48220 - PONT DE MONTVERT SUD MONT LOZERE | Entraide, Annonces, Initiatives"
+title: "48220 - PONT DE MONTVERT SUD MONT LOZERE"
 description: "48220 - PONT DE MONTVERT SUD MONT LOZERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

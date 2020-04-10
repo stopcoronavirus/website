@@ -1,5 +1,5 @@
 ---
-title: "69420 - TUPIN ET SEMONS | Entraide, Annonces, Initiatives"
+title: "69420 - TUPIN ET SEMONS"
 description: "69420 - TUPIN ET SEMONS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

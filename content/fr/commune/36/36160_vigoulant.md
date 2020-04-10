@@ -1,5 +1,5 @@
 ---
-title: "36160 - VIGOULANT | Entraide, Annonces, Initiatives"
+title: "36160 - VIGOULANT"
 description: "36160 - VIGOULANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

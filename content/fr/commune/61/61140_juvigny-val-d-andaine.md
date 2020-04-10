@@ -1,5 +1,5 @@
 ---
-title: "61140 - JUVIGNY VAL D ANDAINE | Entraide, Annonces, Initiatives"
+title: "61140 - JUVIGNY VAL D ANDAINE"
 description: "61140 - JUVIGNY VAL D ANDAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "54990 - XEUILLEY | Entraide, Annonces, Initiatives"
+title: "54990 - XEUILLEY"
 description: "54990 - XEUILLEY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

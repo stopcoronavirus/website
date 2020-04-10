@@ -1,5 +1,5 @@
 ---
-title: "56220 - LIMERZEL | Entraide, Annonces, Initiatives"
+title: "56220 - LIMERZEL"
 description: "56220 - LIMERZEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

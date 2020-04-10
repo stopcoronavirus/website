@@ -1,5 +1,5 @@
 ---
-title: "35160 - MONTERFIL | Entraide, Annonces, Initiatives"
+title: "35160 - MONTERFIL"
 description: "35160 - MONTERFIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

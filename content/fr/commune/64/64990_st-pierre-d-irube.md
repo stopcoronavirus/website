@@ -1,5 +1,5 @@
 ---
-title: "64990 - ST PIERRE D IRUBE | Entraide, Annonces, Initiatives"
+title: "64990 - ST PIERRE D IRUBE"
 description: "64990 - ST PIERRE D IRUBE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

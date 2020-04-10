@@ -1,5 +1,5 @@
 ---
-title: "98815 - HIENGHENE | Entraide, Annonces, Initiatives"
+title: "98815 - HIENGHENE"
 description: "98815 - HIENGHENE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

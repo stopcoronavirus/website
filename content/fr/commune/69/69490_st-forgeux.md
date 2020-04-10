@@ -1,5 +1,5 @@
 ---
-title: "69490 - ST FORGEUX | Entraide, Annonces, Initiatives"
+title: "69490 - ST FORGEUX"
 description: "69490 - ST FORGEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

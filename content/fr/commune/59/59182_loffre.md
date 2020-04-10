@@ -1,5 +1,5 @@
 ---
-title: "59182 - LOFFRE | Entraide, Annonces, Initiatives"
+title: "59182 - LOFFRE"
 description: "59182 - LOFFRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

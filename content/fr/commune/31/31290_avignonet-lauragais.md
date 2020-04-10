@@ -1,5 +1,5 @@
 ---
-title: "31290 - AVIGNONET LAURAGAIS | Entraide, Annonces, Initiatives"
+title: "31290 - AVIGNONET LAURAGAIS"
 description: "31290 - AVIGNONET LAURAGAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

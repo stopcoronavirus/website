@@ -1,5 +1,5 @@
 ---
-title: "22510 - TREBRY | Entraide, Annonces, Initiatives"
+title: "22510 - TREBRY"
 description: "22510 - TREBRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "15200 - MAURIAC | Entraide, Annonces, Initiatives"
+title: "15200 - MAURIAC"
 description: "15200 - MAURIAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

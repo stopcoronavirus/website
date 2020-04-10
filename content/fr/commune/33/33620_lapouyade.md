@@ -1,5 +1,5 @@
 ---
-title: "33620 - LAPOUYADE | Entraide, Annonces, Initiatives"
+title: "33620 - LAPOUYADE"
 description: "33620 - LAPOUYADE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

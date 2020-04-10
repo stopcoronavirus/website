@@ -1,5 +1,5 @@
 ---
-title: "61440 - ST ANDRE DE MESSEI | Entraide, Annonces, Initiatives"
+title: "61440 - ST ANDRE DE MESSEI"
 description: "61440 - ST ANDRE DE MESSEI | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "36230 - LYS ST GEORGES | Entraide, Annonces, Initiatives"
+title: "36230 - LYS ST GEORGES"
 description: "36230 - LYS ST GEORGES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

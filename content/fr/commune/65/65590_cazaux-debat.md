@@ -1,5 +1,5 @@
 ---
-title: "65590 - CAZAUX DEBAT | Entraide, Annonces, Initiatives"
+title: "65590 - CAZAUX DEBAT"
 description: "65590 - CAZAUX DEBAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

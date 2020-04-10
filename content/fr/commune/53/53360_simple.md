@@ -1,5 +1,5 @@
 ---
-title: "53360 - SIMPLE | Entraide, Annonces, Initiatives"
+title: "53360 - SIMPLE"
 description: "53360 - SIMPLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

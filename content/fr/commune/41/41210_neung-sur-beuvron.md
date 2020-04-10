@@ -1,5 +1,5 @@
 ---
-title: "41210 - NEUNG SUR BEUVRON | Entraide, Annonces, Initiatives"
+title: "41210 - NEUNG SUR BEUVRON"
 description: "41210 - NEUNG SUR BEUVRON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

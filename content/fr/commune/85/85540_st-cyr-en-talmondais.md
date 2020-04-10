@@ -1,5 +1,5 @@
 ---
-title: "85540 - ST CYR EN TALMONDAIS | Entraide, Annonces, Initiatives"
+title: "85540 - ST CYR EN TALMONDAIS"
 description: "85540 - ST CYR EN TALMONDAIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

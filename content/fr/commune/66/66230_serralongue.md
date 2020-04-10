@@ -1,5 +1,5 @@
 ---
-title: "66230 - SERRALONGUE | Entraide, Annonces, Initiatives"
+title: "66230 - SERRALONGUE"
 description: "66230 - SERRALONGUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

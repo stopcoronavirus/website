@@ -1,5 +1,5 @@
 ---
-title: "41320 - LA CHAPELLE MONTMARTIN | Entraide, Annonces, Initiatives"
+title: "41320 - LA CHAPELLE MONTMARTIN"
 description: "41320 - LA CHAPELLE MONTMARTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

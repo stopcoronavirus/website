@@ -1,5 +1,5 @@
 ---
-title: "80160 - FREMONTIERS | Entraide, Annonces, Initiatives"
+title: "80160 - FREMONTIERS"
 description: "80160 - FREMONTIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

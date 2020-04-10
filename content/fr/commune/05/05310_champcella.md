@@ -1,5 +1,5 @@
 ---
-title: "05310 - CHAMPCELLA | Entraide, Annonces, Initiatives"
+title: "05310 - CHAMPCELLA"
 description: "05310 - CHAMPCELLA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

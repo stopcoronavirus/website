@@ -1,5 +1,5 @@
 ---
-title: "63350 - CULHAT | Entraide, Annonces, Initiatives"
+title: "63350 - CULHAT"
 description: "63350 - CULHAT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

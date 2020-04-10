@@ -1,5 +1,5 @@
 ---
-title: "42410 - ST MICHEL SUR RHONE | Entraide, Annonces, Initiatives"
+title: "42410 - ST MICHEL SUR RHONE"
 description: "42410 - ST MICHEL SUR RHONE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

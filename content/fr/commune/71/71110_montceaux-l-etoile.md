@@ -1,5 +1,5 @@
 ---
-title: "71110 - MONTCEAUX L ETOILE | Entraide, Annonces, Initiatives"
+title: "71110 - MONTCEAUX L ETOILE"
 description: "71110 - MONTCEAUX L ETOILE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

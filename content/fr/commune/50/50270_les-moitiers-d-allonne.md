@@ -1,5 +1,5 @@
 ---
-title: "50270 - LES MOITIERS D ALLONNE | Entraide, Annonces, Initiatives"
+title: "50270 - LES MOITIERS D ALLONNE"
 description: "50270 - LES MOITIERS D ALLONNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

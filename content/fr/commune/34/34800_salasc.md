@@ -1,5 +1,5 @@
 ---
-title: "34800 - SALASC | Entraide, Annonces, Initiatives"
+title: "34800 - SALASC"
 description: "34800 - SALASC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

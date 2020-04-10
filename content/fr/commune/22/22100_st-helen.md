@@ -1,5 +1,5 @@
 ---
-title: "22100 - ST HELEN | Entraide, Annonces, Initiatives"
+title: "22100 - ST HELEN"
 description: "22100 - ST HELEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

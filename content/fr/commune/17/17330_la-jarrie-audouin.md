@@ -1,5 +1,5 @@
 ---
-title: "17330 - LA JARRIE AUDOUIN | Entraide, Annonces, Initiatives"
+title: "17330 - LA JARRIE AUDOUIN"
 description: "17330 - LA JARRIE AUDOUIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

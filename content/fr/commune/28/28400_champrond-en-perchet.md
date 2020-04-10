@@ -1,5 +1,5 @@
 ---
-title: "28400 - CHAMPROND EN PERCHET | Entraide, Annonces, Initiatives"
+title: "28400 - CHAMPROND EN PERCHET"
 description: "28400 - CHAMPROND EN PERCHET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

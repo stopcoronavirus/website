@@ -1,5 +1,5 @@
 ---
-title: "07220 - LARNAS | Entraide, Annonces, Initiatives"
+title: "07220 - LARNAS"
 description: "07220 - LARNAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

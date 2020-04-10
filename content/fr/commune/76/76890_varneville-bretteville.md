@@ -1,5 +1,5 @@
 ---
-title: "76890 - VARNEVILLE BRETTEVILLE | Entraide, Annonces, Initiatives"
+title: "76890 - VARNEVILLE BRETTEVILLE"
 description: "76890 - VARNEVILLE BRETTEVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

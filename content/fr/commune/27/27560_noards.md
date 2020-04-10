@@ -1,5 +1,5 @@
 ---
-title: "27560 - NOARDS | Entraide, Annonces, Initiatives"
+title: "27560 - NOARDS"
 description: "27560 - NOARDS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "72320 - GREEZ SUR ROC | Entraide, Annonces, Initiatives"
+title: "72320 - GREEZ SUR ROC"
 description: "72320 - GREEZ SUR ROC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

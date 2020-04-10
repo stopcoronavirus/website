@@ -1,5 +1,5 @@
 ---
-title: "83170 - ROUGIERS | Entraide, Annonces, Initiatives"
+title: "83170 - ROUGIERS"
 description: "83170 - ROUGIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12100 - COMPREGNAC | Entraide, Annonces, Initiatives"
+title: "12100 - COMPREGNAC"
 description: "12100 - COMPREGNAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

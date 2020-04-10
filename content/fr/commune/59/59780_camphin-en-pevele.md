@@ -1,5 +1,5 @@
 ---
-title: "59780 - CAMPHIN EN PEVELE | Entraide, Annonces, Initiatives"
+title: "59780 - CAMPHIN EN PEVELE"
 description: "59780 - CAMPHIN EN PEVELE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

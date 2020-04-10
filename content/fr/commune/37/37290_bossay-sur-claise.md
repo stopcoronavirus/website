@@ -1,5 +1,5 @@
 ---
-title: "37290 - BOSSAY SUR CLAISE | Entraide, Annonces, Initiatives"
+title: "37290 - BOSSAY SUR CLAISE"
 description: "37290 - BOSSAY SUR CLAISE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

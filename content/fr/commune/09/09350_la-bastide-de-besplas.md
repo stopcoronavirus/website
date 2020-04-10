@@ -1,5 +1,5 @@
 ---
-title: "09350 - LA BASTIDE DE BESPLAS | Entraide, Annonces, Initiatives"
+title: "09350 - LA BASTIDE DE BESPLAS"
 description: "09350 - LA BASTIDE DE BESPLAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

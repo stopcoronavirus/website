@@ -1,5 +1,5 @@
 ---
-title: "91130 - RIS ORANGIS | Entraide, Annonces, Initiatives"
+title: "91130 - RIS ORANGIS"
 description: "91130 - RIS ORANGIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

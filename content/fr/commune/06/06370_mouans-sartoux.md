@@ -1,5 +1,5 @@
 ---
-title: "06370 - MOUANS SARTOUX | Entraide, Annonces, Initiatives"
+title: "06370 - MOUANS SARTOUX"
 description: "06370 - MOUANS SARTOUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

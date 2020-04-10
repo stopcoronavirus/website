@@ -1,5 +1,5 @@
 ---
-title: "63170 - PERIGNAT LES SARLIEVE | Entraide, Annonces, Initiatives"
+title: "63170 - PERIGNAT LES SARLIEVE"
 description: "63170 - PERIGNAT LES SARLIEVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "77880 - GREZ SUR LOING | Entraide, Annonces, Initiatives"
+title: "77880 - GREZ SUR LOING"
 description: "77880 - GREZ SUR LOING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

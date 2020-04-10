@@ -1,5 +1,5 @@
 ---
-title: "61390 - TELLIERES LE PLESSIS | Entraide, Annonces, Initiatives"
+title: "61390 - TELLIERES LE PLESSIS"
 description: "61390 - TELLIERES LE PLESSIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

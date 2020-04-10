@@ -1,5 +1,5 @@
 ---
-title: "08300 - LUCQUY | Entraide, Annonces, Initiatives"
+title: "08300 - LUCQUY"
 description: "08300 - LUCQUY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

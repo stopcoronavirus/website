@@ -1,5 +1,5 @@
 ---
-title: "57230 - HASPELSCHIEDT | Entraide, Annonces, Initiatives"
+title: "57230 - HASPELSCHIEDT"
 description: "57230 - HASPELSCHIEDT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

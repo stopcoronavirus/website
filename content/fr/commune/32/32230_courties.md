@@ -1,5 +1,5 @@
 ---
-title: "32230 - COURTIES | Entraide, Annonces, Initiatives"
+title: "32230 - COURTIES"
 description: "32230 - COURTIES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

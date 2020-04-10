@@ -1,5 +1,5 @@
 ---
-title: "41190 - LANCOME | Entraide, Annonces, Initiatives"
+title: "41190 - LANCOME"
 description: "41190 - LANCOME | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

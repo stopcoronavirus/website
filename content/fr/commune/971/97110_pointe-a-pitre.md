@@ -1,5 +1,5 @@
 ---
-title: "97110 - POINTE A PITRE | Entraide, Annonces, Initiatives"
+title: "97110 - POINTE A PITRE"
 description: "97110 - POINTE A PITRE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

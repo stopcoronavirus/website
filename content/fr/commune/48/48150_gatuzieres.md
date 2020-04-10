@@ -1,5 +1,5 @@
 ---
-title: "48150 - GATUZIERES | Entraide, Annonces, Initiatives"
+title: "48150 - GATUZIERES"
 description: "48150 - GATUZIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

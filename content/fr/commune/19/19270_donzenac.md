@@ -1,5 +1,5 @@
 ---
-title: "19270 - DONZENAC | Entraide, Annonces, Initiatives"
+title: "19270 - DONZENAC"
 description: "19270 - DONZENAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "55140 - SAUVIGNY | Entraide, Annonces, Initiatives"
+title: "55140 - SAUVIGNY"
 description: "55140 - SAUVIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

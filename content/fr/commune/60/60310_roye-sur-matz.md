@@ -1,5 +1,5 @@
 ---
-title: "60310 - ROYE SUR MATZ | Entraide, Annonces, Initiatives"
+title: "60310 - ROYE SUR MATZ"
 description: "60310 - ROYE SUR MATZ | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

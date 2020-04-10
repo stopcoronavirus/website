@@ -1,5 +1,5 @@
 ---
-title: "95580 - ANDILLY | Entraide, Annonces, Initiatives"
+title: "95580 - ANDILLY"
 description: "95580 - ANDILLY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

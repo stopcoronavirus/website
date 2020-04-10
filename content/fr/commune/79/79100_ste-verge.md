@@ -1,5 +1,5 @@
 ---
-title: "79100 - STE VERGE | Entraide, Annonces, Initiatives"
+title: "79100 - STE VERGE"
 description: "79100 - STE VERGE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "73110 - VALGELON LA ROCHETTE | Entraide, Annonces, Initiatives"
+title: "73110 - VALGELON LA ROCHETTE"
 description: "73110 - VALGELON LA ROCHETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

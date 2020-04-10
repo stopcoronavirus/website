@@ -1,5 +1,5 @@
 ---
-title: "69930 - ST LAURENT DE CHAMOUSSET | Entraide, Annonces, Initiatives"
+title: "69930 - ST LAURENT DE CHAMOUSSET"
 description: "69930 - ST LAURENT DE CHAMOUSSET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

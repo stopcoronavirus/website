@@ -1,5 +1,5 @@
 ---
-title: "48160 - ST MICHEL DE DEZE | Entraide, Annonces, Initiatives"
+title: "48160 - ST MICHEL DE DEZE"
 description: "48160 - ST MICHEL DE DEZE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

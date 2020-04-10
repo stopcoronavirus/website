@@ -1,5 +1,5 @@
 ---
-title: "54260 - VIVIERS SUR CHIERS | Entraide, Annonces, Initiatives"
+title: "54260 - VIVIERS SUR CHIERS"
 description: "54260 - VIVIERS SUR CHIERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

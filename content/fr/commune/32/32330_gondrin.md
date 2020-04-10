@@ -1,5 +1,5 @@
 ---
-title: "32330 - GONDRIN | Entraide, Annonces, Initiatives"
+title: "32330 - GONDRIN"
 description: "32330 - GONDRIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

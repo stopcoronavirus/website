@@ -1,5 +1,5 @@
 ---
-title: "86210 - VOUNEUIL SUR VIENNE | Entraide, Annonces, Initiatives"
+title: "86210 - VOUNEUIL SUR VIENNE"
 description: "86210 - VOUNEUIL SUR VIENNE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

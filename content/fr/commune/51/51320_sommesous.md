@@ -1,5 +1,5 @@
 ---
-title: "51320 - SOMMESOUS | Entraide, Annonces, Initiatives"
+title: "51320 - SOMMESOUS"
 description: "51320 - SOMMESOUS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

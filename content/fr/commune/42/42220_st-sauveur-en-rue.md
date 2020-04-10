@@ -1,5 +1,5 @@
 ---
-title: "42220 - ST SAUVEUR EN RUE | Entraide, Annonces, Initiatives"
+title: "42220 - ST SAUVEUR EN RUE"
 description: "42220 - ST SAUVEUR EN RUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

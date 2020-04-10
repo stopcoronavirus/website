@@ -1,5 +1,5 @@
 ---
-title: "54700 - STE GENEVIEVE | Entraide, Annonces, Initiatives"
+title: "54700 - STE GENEVIEVE"
 description: "54700 - STE GENEVIEVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

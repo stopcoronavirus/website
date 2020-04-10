@@ -1,5 +1,5 @@
 ---
-title: "71460 - CULLES LES ROCHES | Entraide, Annonces, Initiatives"
+title: "71460 - CULLES LES ROCHES"
 description: "71460 - CULLES LES ROCHES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

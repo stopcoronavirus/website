@@ -1,5 +1,5 @@
 ---
-title: "09800 - AUCAZEIN | Entraide, Annonces, Initiatives"
+title: "09800 - AUCAZEIN"
 description: "09800 - AUCAZEIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

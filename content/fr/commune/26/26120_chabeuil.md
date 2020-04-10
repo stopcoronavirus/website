@@ -1,5 +1,5 @@
 ---
-title: "26120 - CHABEUIL | Entraide, Annonces, Initiatives"
+title: "26120 - CHABEUIL"
 description: "26120 - CHABEUIL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

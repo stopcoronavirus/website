@@ -1,5 +1,5 @@
 ---
-title: "32360 - CASTILLON MASSAS | Entraide, Annonces, Initiatives"
+title: "32360 - CASTILLON MASSAS"
 description: "32360 - CASTILLON MASSAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

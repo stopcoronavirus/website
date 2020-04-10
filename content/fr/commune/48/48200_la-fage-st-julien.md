@@ -1,5 +1,5 @@
 ---
-title: "48200 - LA FAGE ST JULIEN | Entraide, Annonces, Initiatives"
+title: "48200 - LA FAGE ST JULIEN"
 description: "48200 - LA FAGE ST JULIEN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

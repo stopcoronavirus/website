@@ -1,5 +1,5 @@
 ---
-title: "57670 - LOUDREFING | Entraide, Annonces, Initiatives"
+title: "57670 - LOUDREFING"
 description: "57670 - LOUDREFING | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

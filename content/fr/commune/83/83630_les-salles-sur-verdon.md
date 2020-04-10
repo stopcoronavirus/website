@@ -1,5 +1,5 @@
 ---
-title: "83630 - LES SALLES SUR VERDON | Entraide, Annonces, Initiatives"
+title: "83630 - LES SALLES SUR VERDON"
 description: "83630 - LES SALLES SUR VERDON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

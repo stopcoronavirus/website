@@ -1,5 +1,5 @@
 ---
-title: "55120 - FROIDOS | Entraide, Annonces, Initiatives"
+title: "55120 - FROIDOS"
 description: "55120 - FROIDOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

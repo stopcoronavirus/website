@@ -1,5 +1,5 @@
 ---
-title: "49360 - LA PLAINE | Entraide, Annonces, Initiatives"
+title: "49360 - LA PLAINE"
 description: "49360 - LA PLAINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

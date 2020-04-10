@@ -1,5 +1,5 @@
 ---
-title: "70400 - GRANGES LA VILLE | Entraide, Annonces, Initiatives"
+title: "70400 - GRANGES LA VILLE"
 description: "70400 - GRANGES LA VILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

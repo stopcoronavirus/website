@@ -1,5 +1,5 @@
 ---
-title: "27930 - BROSVILLE | Entraide, Annonces, Initiatives"
+title: "27930 - BROSVILLE"
 description: "27930 - BROSVILLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "70700 - STE REINE | Entraide, Annonces, Initiatives"
+title: "70700 - STE REINE"
 description: "70700 - STE REINE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

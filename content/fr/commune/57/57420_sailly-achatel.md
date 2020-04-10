@@ -1,5 +1,5 @@
 ---
-title: "57420 - SAILLY ACHATEL | Entraide, Annonces, Initiatives"
+title: "57420 - SAILLY ACHATEL"
 description: "57420 - SAILLY ACHATEL | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

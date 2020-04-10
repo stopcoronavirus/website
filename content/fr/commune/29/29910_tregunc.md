@@ -1,5 +1,5 @@
 ---
-title: "29910 - TREGUNC | Entraide, Annonces, Initiatives"
+title: "29910 - TREGUNC"
 description: "29910 - TREGUNC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

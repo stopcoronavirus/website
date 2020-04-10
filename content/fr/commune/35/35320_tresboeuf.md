@@ -1,5 +1,5 @@
 ---
-title: "35320 - TRESBOEUF | Entraide, Annonces, Initiatives"
+title: "35320 - TRESBOEUF"
 description: "35320 - TRESBOEUF | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

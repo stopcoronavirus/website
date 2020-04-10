@@ -1,5 +1,5 @@
 ---
-title: "86330 - ST JEAN DE SAUVES | Entraide, Annonces, Initiatives"
+title: "86330 - ST JEAN DE SAUVES"
 description: "86330 - ST JEAN DE SAUVES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "60400 - GENVRY | Entraide, Annonces, Initiatives"
+title: "60400 - GENVRY"
 description: "60400 - GENVRY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

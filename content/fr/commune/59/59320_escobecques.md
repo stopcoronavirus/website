@@ -1,5 +1,5 @@
 ---
-title: "59320 - ESCOBECQUES | Entraide, Annonces, Initiatives"
+title: "59320 - ESCOBECQUES"
 description: "59320 - ESCOBECQUES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

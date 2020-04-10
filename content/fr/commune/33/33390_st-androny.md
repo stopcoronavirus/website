@@ -1,5 +1,5 @@
 ---
-title: "33390 - ST ANDRONY | Entraide, Annonces, Initiatives"
+title: "33390 - ST ANDRONY"
 description: "33390 - ST ANDRONY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

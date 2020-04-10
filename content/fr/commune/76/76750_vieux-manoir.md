@@ -1,5 +1,5 @@
 ---
-title: "76750 - VIEUX MANOIR | Entraide, Annonces, Initiatives"
+title: "76750 - VIEUX MANOIR"
 description: "76750 - VIEUX MANOIR | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

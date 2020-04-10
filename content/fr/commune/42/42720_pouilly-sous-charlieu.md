@@ -1,5 +1,5 @@
 ---
-title: "42720 - POUILLY SOUS CHARLIEU | Entraide, Annonces, Initiatives"
+title: "42720 - POUILLY SOUS CHARLIEU"
 description: "42720 - POUILLY SOUS CHARLIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

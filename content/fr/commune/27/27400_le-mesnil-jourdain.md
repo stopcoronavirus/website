@@ -1,5 +1,5 @@
 ---
-title: "27400 - LE MESNIL JOURDAIN | Entraide, Annonces, Initiatives"
+title: "27400 - LE MESNIL JOURDAIN"
 description: "27400 - LE MESNIL JOURDAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

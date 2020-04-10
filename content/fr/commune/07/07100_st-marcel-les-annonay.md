@@ -1,5 +1,5 @@
 ---
-title: "07100 - ST MARCEL LES ANNONAY | Entraide, Annonces, Initiatives"
+title: "07100 - ST MARCEL LES ANNONAY"
 description: "07100 - ST MARCEL LES ANNONAY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

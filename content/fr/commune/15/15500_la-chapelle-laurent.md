@@ -1,5 +1,5 @@
 ---
-title: "15500 - LA CHAPELLE LAURENT | Entraide, Annonces, Initiatives"
+title: "15500 - LA CHAPELLE LAURENT"
 description: "15500 - LA CHAPELLE LAURENT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "30700 - ARPAILLARGUES ET AUREILLAC | Entraide, Annonces, Initiatives"
+title: "30700 - ARPAILLARGUES ET AUREILLAC"
 description: "30700 - ARPAILLARGUES ET AUREILLAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

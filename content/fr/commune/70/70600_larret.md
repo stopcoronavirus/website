@@ -1,5 +1,5 @@
 ---
-title: "70600 - LARRET | Entraide, Annonces, Initiatives"
+title: "70600 - LARRET"
 description: "70600 - LARRET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

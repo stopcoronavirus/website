@@ -1,5 +1,5 @@
 ---
-title: "54420 - SAULXURES LES NANCY | Entraide, Annonces, Initiatives"
+title: "54420 - SAULXURES LES NANCY"
 description: "54420 - SAULXURES LES NANCY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

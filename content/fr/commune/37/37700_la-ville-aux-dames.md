@@ -1,5 +1,5 @@
 ---
-title: "37700 - LA VILLE AUX DAMES | Entraide, Annonces, Initiatives"
+title: "37700 - LA VILLE AUX DAMES"
 description: "37700 - LA VILLE AUX DAMES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

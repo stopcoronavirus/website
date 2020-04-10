@@ -1,5 +1,5 @@
 ---
-title: "29710 - LANDUDEC | Entraide, Annonces, Initiatives"
+title: "29710 - LANDUDEC"
 description: "29710 - LANDUDEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

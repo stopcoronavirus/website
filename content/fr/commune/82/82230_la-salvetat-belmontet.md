@@ -1,5 +1,5 @@
 ---
-title: "82230 - LA SALVETAT BELMONTET | Entraide, Annonces, Initiatives"
+title: "82230 - LA SALVETAT BELMONTET"
 description: "82230 - LA SALVETAT BELMONTET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

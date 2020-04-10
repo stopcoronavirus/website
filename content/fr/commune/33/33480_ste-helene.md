@@ -1,5 +1,5 @@
 ---
-title: "33480 - STE HELENE | Entraide, Annonces, Initiatives"
+title: "33480 - STE HELENE"
 description: "33480 - STE HELENE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

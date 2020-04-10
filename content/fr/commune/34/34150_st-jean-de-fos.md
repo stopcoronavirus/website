@@ -1,5 +1,5 @@
 ---
-title: "34150 - ST JEAN DE FOS | Entraide, Annonces, Initiatives"
+title: "34150 - ST JEAN DE FOS"
 description: "34150 - ST JEAN DE FOS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

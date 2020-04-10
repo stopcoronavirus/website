@@ -1,5 +1,5 @@
 ---
-title: "57850 - HASELBOURG | Entraide, Annonces, Initiatives"
+title: "57850 - HASELBOURG"
 description: "57850 - HASELBOURG | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "72510 - PONTVALLAIN | Entraide, Annonces, Initiatives"
+title: "72510 - PONTVALLAIN"
 description: "72510 - PONTVALLAIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

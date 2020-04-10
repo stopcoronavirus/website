@@ -1,5 +1,5 @@
 ---
-title: "45300 - INTVILLE LA GUETARD | Entraide, Annonces, Initiatives"
+title: "45300 - INTVILLE LA GUETARD"
 description: "45300 - INTVILLE LA GUETARD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

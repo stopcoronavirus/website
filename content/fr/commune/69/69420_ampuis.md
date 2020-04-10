@@ -1,5 +1,5 @@
 ---
-title: "69420 - AMPUIS | Entraide, Annonces, Initiatives"
+title: "69420 - AMPUIS"
 description: "69420 - AMPUIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "89520 - FONTENOY | Entraide, Annonces, Initiatives"
+title: "89520 - FONTENOY"
 description: "89520 - FONTENOY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

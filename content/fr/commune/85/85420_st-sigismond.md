@@ -1,5 +1,5 @@
 ---
-title: "85420 - ST SIGISMOND | Entraide, Annonces, Initiatives"
+title: "85420 - ST SIGISMOND"
 description: "85420 - ST SIGISMOND | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

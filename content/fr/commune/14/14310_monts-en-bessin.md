@@ -1,5 +1,5 @@
 ---
-title: "14310 - MONTS EN BESSIN | Entraide, Annonces, Initiatives"
+title: "14310 - MONTS EN BESSIN"
 description: "14310 - MONTS EN BESSIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

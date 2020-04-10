@@ -1,5 +1,5 @@
 ---
-title: "02540 - L EPINE AUX BOIS | Entraide, Annonces, Initiatives"
+title: "02540 - L EPINE AUX BOIS"
 description: "02540 - L EPINE AUX BOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "39570 - MONTMOROT | Entraide, Annonces, Initiatives"
+title: "39570 - MONTMOROT"
 description: "39570 - MONTMOROT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

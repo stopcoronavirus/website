@@ -1,5 +1,5 @@
 ---
-title: "82220 - LABARTHE | Entraide, Annonces, Initiatives"
+title: "82220 - LABARTHE"
 description: "82220 - LABARTHE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

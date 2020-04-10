@@ -1,5 +1,5 @@
 ---
-title: "21150 - JAILLY LES MOULINS | Entraide, Annonces, Initiatives"
+title: "21150 - JAILLY LES MOULINS"
 description: "21150 - JAILLY LES MOULINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

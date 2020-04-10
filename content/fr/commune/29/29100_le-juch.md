@@ -1,5 +1,5 @@
 ---
-title: "29100 - LE JUCH | Entraide, Annonces, Initiatives"
+title: "29100 - LE JUCH"
 description: "29100 - LE JUCH | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

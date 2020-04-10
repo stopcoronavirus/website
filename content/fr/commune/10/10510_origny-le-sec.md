@@ -1,5 +1,5 @@
 ---
-title: "10510 - ORIGNY LE SEC | Entraide, Annonces, Initiatives"
+title: "10510 - ORIGNY LE SEC"
 description: "10510 - ORIGNY LE SEC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

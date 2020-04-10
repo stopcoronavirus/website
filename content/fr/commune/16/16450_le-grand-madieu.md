@@ -1,5 +1,5 @@
 ---
-title: "16450 - LE GRAND MADIEU | Entraide, Annonces, Initiatives"
+title: "16450 - LE GRAND MADIEU"
 description: "16450 - LE GRAND MADIEU | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

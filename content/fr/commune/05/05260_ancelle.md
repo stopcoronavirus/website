@@ -1,5 +1,5 @@
 ---
-title: "05260 - ANCELLE | Entraide, Annonces, Initiatives"
+title: "05260 - ANCELLE"
 description: "05260 - ANCELLE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

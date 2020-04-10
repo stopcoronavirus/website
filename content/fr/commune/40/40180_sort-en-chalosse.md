@@ -1,5 +1,5 @@
 ---
-title: "40180 - SORT EN CHALOSSE | Entraide, Annonces, Initiatives"
+title: "40180 - SORT EN CHALOSSE"
 description: "40180 - SORT EN CHALOSSE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

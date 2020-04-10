@@ -1,5 +1,5 @@
 ---
-title: "64210 - GUETHARY | Entraide, Annonces, Initiatives"
+title: "64210 - GUETHARY"
 description: "64210 - GUETHARY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

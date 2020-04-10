@@ -1,5 +1,5 @@
 ---
-title: "06160 - ANTIBES | Entraide, Annonces, Initiatives"
+title: "06160 - ANTIBES"
 description: "06160 - ANTIBES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "12510 - DRUELLE BALSAC | Entraide, Annonces, Initiatives"
+title: "12510 - DRUELLE BALSAC"
 description: "12510 - DRUELLE BALSAC | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "47700 - LEYRITZ MONCASSIN | Entraide, Annonces, Initiatives"
+title: "47700 - LEYRITZ MONCASSIN"
 description: "47700 - LEYRITZ MONCASSIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

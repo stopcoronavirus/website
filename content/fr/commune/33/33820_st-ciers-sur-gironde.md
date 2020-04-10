@@ -1,5 +1,5 @@
 ---
-title: "33820 - ST CIERS SUR GIRONDE | Entraide, Annonces, Initiatives"
+title: "33820 - ST CIERS SUR GIRONDE"
 description: "33820 - ST CIERS SUR GIRONDE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "05460 - ABRIES RISTOLAS | Entraide, Annonces, Initiatives"
+title: "05460 - ABRIES RISTOLAS"
 description: "05460 - ABRIES RISTOLAS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

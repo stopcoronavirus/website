@@ -1,5 +1,5 @@
 ---
-title: "06450 - BELVEDERE | Entraide, Annonces, Initiatives"
+title: "06450 - BELVEDERE"
 description: "06450 - BELVEDERE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

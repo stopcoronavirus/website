@@ -1,5 +1,5 @@
 ---
-title: "53970 - MONTIGNE LE BRILLANT | Entraide, Annonces, Initiatives"
+title: "53970 - MONTIGNE LE BRILLANT"
 description: "53970 - MONTIGNE LE BRILLANT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "78980 - LONGNES | Entraide, Annonces, Initiatives"
+title: "78980 - LONGNES"
 description: "78980 - LONGNES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

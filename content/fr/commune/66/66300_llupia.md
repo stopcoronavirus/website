@@ -1,5 +1,5 @@
 ---
-title: "66300 - LLUPIA | Entraide, Annonces, Initiatives"
+title: "66300 - LLUPIA"
 description: "66300 - LLUPIA | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

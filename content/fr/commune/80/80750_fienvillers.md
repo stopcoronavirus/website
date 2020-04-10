@@ -1,5 +1,5 @@
 ---
-title: "80750 - FIENVILLERS | Entraide, Annonces, Initiatives"
+title: "80750 - FIENVILLERS"
 description: "80750 - FIENVILLERS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "08160 - HANNOGNE ST MARTIN | Entraide, Annonces, Initiatives"
+title: "08160 - HANNOGNE ST MARTIN"
 description: "08160 - HANNOGNE ST MARTIN | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

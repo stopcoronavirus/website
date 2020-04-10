@@ -1,5 +1,5 @@
 ---
-title: "04240 - LE FUGERET | Entraide, Annonces, Initiatives"
+title: "04240 - LE FUGERET"
 description: "04240 - LE FUGERET | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

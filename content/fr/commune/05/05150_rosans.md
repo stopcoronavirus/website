@@ -1,5 +1,5 @@
 ---
-title: "05150 - ROSANS | Entraide, Annonces, Initiatives"
+title: "05150 - ROSANS"
 description: "05150 - ROSANS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "88170 - ROUVRES LA CHETIVE | Entraide, Annonces, Initiatives"
+title: "88170 - ROUVRES LA CHETIVE"
 description: "88170 - ROUVRES LA CHETIVE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

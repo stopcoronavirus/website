@@ -1,5 +1,5 @@
 ---
-title: "22980 - PLELAN LE PETIT | Entraide, Annonces, Initiatives"
+title: "22980 - PLELAN LE PETIT"
 description: "22980 - PLELAN LE PETIT | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "02130 - ARCY STE RESTITUE | Entraide, Annonces, Initiatives"
+title: "02130 - ARCY STE RESTITUE"
 description: "02130 - ARCY STE RESTITUE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

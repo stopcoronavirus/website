@@ -1,5 +1,5 @@
 ---
-title: "97127 - LA DESIRADE | Entraide, Annonces, Initiatives"
+title: "97127 - LA DESIRADE"
 description: "97127 - LA DESIRADE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

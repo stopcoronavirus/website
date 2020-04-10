@@ -1,5 +1,5 @@
 ---
-title: "17890 - CHAILLEVETTE | Entraide, Annonces, Initiatives"
+title: "17890 - CHAILLEVETTE"
 description: "17890 - CHAILLEVETTE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

@@ -1,5 +1,5 @@
 ---
-title: "87480 - ST PRIEST TAURION | Entraide, Annonces, Initiatives"
+title: "87480 - ST PRIEST TAURION"
 description: "87480 - ST PRIEST TAURION | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

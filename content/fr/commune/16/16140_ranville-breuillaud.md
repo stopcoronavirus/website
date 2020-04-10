@@ -1,5 +1,5 @@
 ---
-title: "16140 - RANVILLE BREUILLAUD | Entraide, Annonces, Initiatives"
+title: "16140 - RANVILLE BREUILLAUD"
 description: "16140 - RANVILLE BREUILLAUD | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

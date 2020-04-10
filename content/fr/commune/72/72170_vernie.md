@@ -1,5 +1,5 @@
 ---
-title: "72170 - VERNIE | Entraide, Annonces, Initiatives"
+title: "72170 - VERNIE"
 description: "72170 - VERNIE | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

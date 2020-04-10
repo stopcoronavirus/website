@@ -1,5 +1,5 @@
 ---
-title: "38119 - ST THEOFFREY | Entraide, Annonces, Initiatives"
+title: "38119 - ST THEOFFREY"
 description: "38119 - ST THEOFFREY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

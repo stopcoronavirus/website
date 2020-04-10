@@ -1,5 +1,5 @@
 ---
-title: "86390 - LATHUS ST REMY | Entraide, Annonces, Initiatives"
+title: "86390 - LATHUS ST REMY"
 description: "86390 - LATHUS ST REMY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

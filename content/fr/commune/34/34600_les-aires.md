@@ -1,5 +1,5 @@
 ---
-title: "34600 - LES AIRES | Entraide, Annonces, Initiatives"
+title: "34600 - LES AIRES"
 description: "34600 - LES AIRES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

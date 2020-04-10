@@ -1,5 +1,5 @@
 ---
-title: "22260 - PLOUEC DU TRIEUX | Entraide, Annonces, Initiatives"
+title: "22260 - PLOUEC DU TRIEUX"
 description: "22260 - PLOUEC DU TRIEUX | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

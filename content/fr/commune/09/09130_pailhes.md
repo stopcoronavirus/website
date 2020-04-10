@@ -1,5 +1,5 @@
 ---
-title: "09130 - PAILHES | Entraide, Annonces, Initiatives"
+title: "09130 - PAILHES"
 description: "09130 - PAILHES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

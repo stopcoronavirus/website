@@ -1,5 +1,5 @@
 ---
-title: "39250 - ONGLIERES | Entraide, Annonces, Initiatives"
+title: "39250 - ONGLIERES"
 description: "39250 - ONGLIERES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

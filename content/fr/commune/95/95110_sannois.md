@@ -1,5 +1,5 @@
 ---
-title: "95110 - SANNOIS | Entraide, Annonces, Initiatives"
+title: "95110 - SANNOIS"
 description: "95110 - SANNOIS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

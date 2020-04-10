@@ -1,5 +1,5 @@
 ---
-title: "67140 - GERTWILLER | Entraide, Annonces, Initiatives"
+title: "67140 - GERTWILLER"
 description: "67140 - GERTWILLER | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false

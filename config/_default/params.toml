@@ -22,3 +22,6 @@ taxoPaginate = 13 # items per page
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
 github = "https://gitlab.com/stopcoronavirus/website"
+
+peerpadBaseURL = "https://docs.stopcoronavirus.tech"
+chatBaseURL = "https://entraide.stopcoronavirus.tech"

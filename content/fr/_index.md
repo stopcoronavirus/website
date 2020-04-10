@@ -34,7 +34,7 @@ Ne publiez pas d'informations sensibles.
 ##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
 
 <a href="https://liberapay.com/StopCoronavirus.Tech/donate">
-<img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
+<img alt="Liberapay goal progress" src="https://img.shields.io/badge/StopCoronavirus.Tech-FAIRE%20UN%20DON-orange?style=for-the-badge"></img>
 </a>
 
 Votre don servira à financer l'infrastructure supportant la plateforme (serveurs, développement informatique et autres besoins qui vont émerger)

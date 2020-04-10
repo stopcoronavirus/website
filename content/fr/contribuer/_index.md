@@ -16,7 +16,7 @@ Chacun peut ajouter un noeud au réseau pour le rendre plus **résilient et disp
 Outre l'aspect technique, **l'aspect social et communautaire est primordial**.  
 La plateforme a été imaginée pour **permettre à chacun de s'en emparer librement en toute transparence**.
 
-**Si chaque personne participe et sollicite ses 5 connaissances les plus proches dans la journée, alors en quelques jours ce sont centaines de milliers de personnes** qui auront aidé directement ou indirectement ceux qui sont dans le besoin.  
+**Si chaque personne participe et sollicite ses 5 connaissances les plus proches dans la journée, alors en quelques jours ce sont des centaines de milliers de personnes** qui auront aidé directement ou indirectement ceux qui sont dans le besoin.  
 
 L'architecture du site a été pensée pour permettre cela.  
 Chacun peut **modifier les pages de sa commune et de son département pour en lister les initiatives**.  

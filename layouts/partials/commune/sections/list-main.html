@@ -9,73 +9,70 @@
   {{ end }}
 
   <article class="single__contents" data-dir="{{ $.Param "languagedir" | default "ltr" }}">
+      
+    <h4>
+      Les initiatives
+    </h4>
+    <h5>
+      De votre commune (à privilégier)
+    </h5>
     
-    <h3 id="{{ .Params.comm.cp }}-{{ .Params.comm.slug }}-entraide-annonces-initiatives">{{ .Params.comm.cp }} - {{ .Params.comm.nom }} | Entraide, Annonces, Initiatives</h3>
-    <p><em>Bienvenue sur la page d’entraide de <strong>votre commune</strong></em>.</p>
-    <p><em>Dans le cadre de la gestion du COVID-19, deux outils sont proposés :</em></p>
-    <ul>
-    <li>un <strong>canal d’entraide</strong> (*)</li>
-    <li>un <strong>document participatif</strong> qui recense les annonces et initiatives</li>
-    </ul>
-    <p><em>Ceux-ci sont <strong>dédiés à votre commune</strong> et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage.</em></p>
-    <p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur iOS mais fonctionne sous Android ou sur un ordinateur</i></small></p>
-    <h4 id="canal-entraide-channel{{ .Params.comm.cp }}_{{ .Params.comm.slug }}">
-      <a href="{{ printf "%s/#/channel/%s_%s" .Site.Params.chatBaseURL .Params.comm.cp .Params.comm.slug | absURL }}" target="_blank">Canal d’entraide</a></h4>
-    <h5 id="liens">Liens</h5>
-    <p><a href="{{ printf "%s/#/channel/%s_%s" .Site.Params.chatBaseURL .Params.comm.cp .Params.comm.slug | absURL }}" target="_blank" class="myButton" style="color:white;">Canal de votre commune : {{ .Params.comm.cp }} 	- {{ .Params.comm.nom }}</a> (à privilégier)</p>
-    <p><a href="{{ printf "%s/#/channel/%s_%s" .Site.Params.chatBaseURL .Params.dept.num .Params.dept.slug | absURL }}" target="_blank" class="myButton" style="color:white;">Canal de votre département : {{ .Params.dept.num }} 	- {{ .Params.dept.nom }}</a> (en dernier recours)</p>
-    <h5 id="utilisation">Utilisation</h5>
-    <p><em><strong>Quelques conseils pour que ce système soit efficace :</strong></em></p>
-    <p><em>1. <strong>Privilégiez</strong> les échanges au niveau de <strong>votre commune</strong> dans un premier temps.</em><br>
-    <em>2. Si vous n’avez pas trouvez d’aide disponible, demandez dans le canal d’une <strong>commune voisine</strong>.</em><br>
-    <em>3. <strong>En dernier recours</strong>, demandez du soutien dans le canal du <strong>département</strong>.</em></p>
-    <h4 id="annonces--initiatives">Annonces &amp; Initiatives</h4>
-    <p>Ce service permet à chacun de <strong>poster ou consulter les annonces et initiatives</strong> liées à des <strong>BESOINS<br>
-    IMPORTANTS</strong> d’entraide dans <strong>VOTRE commune</strong>, dans le cadre de la gestion du <em>COVID-19</em>.</p>
-    <h5 id="dans-votre-commune-à-privilégier">Dans votre commune (à privilégier)</h5>
-    <p><a href="{{ printf "%s/#%s" .Site.Params.peerpadBaseURL .Params.peerpad.comm.read_path | absURL }}" target="_blank" class="myButton" style="color:white;">Consulter : {{ .Params.comm.cp }} 	- {{ .Params.comm.nom }}</a> <em>(à privilégier pour <strong>préserver l’infrastructure</strong> d’hébergement en pair à pair)</em><br>
-    <a href="{{ printf "%s/#%s" .Site.Params.peerpadBaseURL .Params.peerpad.comm.write_path | absURL }}" target="_blank" class="myButton" style="color:white;">Déposer : {{ .Params.comm.cp }} 	- {{ .Params.comm.nom }}</a> <em>(pour ceux qui souhaitent <strong>ajouter</strong> une annonce ou une initiative)</em></p>
-    <h5 id="dans-votre-département">Dans votre département</h5>
-    <p><a href="{{ printf "%s/#%s" .Site.Params.peerpadBaseURL .Params.peerpad.dept.read_path | absURL }}" target="_blank" class="myButton" style="color:white;">Consulter : {{ .Params.dept.num }} 	- {{ .Params.dept.nom }}</a> <em>(à privilégier pour <strong>préserver l’infrastructure</strong> d’hébergement en pair à pair)</em><br>
-    <a href="{{ printf "%s/#%s" .Site.Params.peerpadBaseURL .Params.peerpad.dept.write_path | absURL }}" target="_blank" class="myButton" style="color:white;">Déposer : {{ .Params.dept.num }} 	- {{ .Params.dept.nom }}</a> <em>(pour ceux qui souhaitent <strong>ajouter</strong> une annonce ou une initiative)</em></p>
-    <h5 id="utilisation-1">Utilisation</h5>
-    <p>Les documents étant accessibles à tous en écriture et en lecture, il est de la<br>
-    responsabilité de chacun d’en faire bon usage et d’en maintenir la lisibilité<br>
-    et la pertinence.</p>
-    <p>Il faut <strong>penser ce document comme un INDEX, un SOMMAIRE</strong> de ce qui existe<br>
-    pour <strong>AIGUILLER chacun vers une solution</strong>. Il est préférable de ne pas détailler ici.</p>
-    <p>Modèle d’annonce à déposer et syntaxe associée (à copier/coller) :</p>
-    <pre>
-<code>
-#### Annonces et Initiatives
+    <p>
+      <object data="https://img.shields.io/static/v1?labelColor=blue&label=COVID%20ENTRAIDE%20|%20Initiatives&message={{ .Params.comm.cp  }}%20{{ .Params.comm.nom }}&color=orange&style=flat-square&link={{ printf "%s/#%s" .Site.Params.peerpadBaseURL .Params.peerpad.comm.write_path | absURL }}"></object>
+    </p>
 
-#### Modèles / Inspiration
+    <h5>
+      De votre département
+    </h5>
+    
+    <p>
+      <object data="https://img.shields.io/static/v1?labelColor=blue&label=COVID%20ENTRAIDE%20|%20Initiatives&message={{ .Params.dept.num  }}%20{{ .Params.dept.nom }}&color=orange&style=flat-square&link={{ printf "%s/#%s" .Site.Params.peerpadBaseURL .Params.peerpad.dept.write_path | absURL }}"></object>
+    </p>
 
-**Qui** : _auteur de l'annonce_
-**Pour qui** : _à qui s'adresse cette annonce_
-**Description** : _phrase courte en une ligne_
-**Détails** : _site internet, numéro de téléphone, email, etc..._
-</code>
-    </pre>
-    <p>Les annonces pourront être <strong>organisées par section ou thématique</strong>.</p>
+    
+    <h4>
+      Les échanges
+    </h4>
+    <p><small><i>Non disponible sur iOS mais fonctionnel sur un mobile Android ou sur un ordinateur</i></small></p>
+    <h5>
+      Les échanges au sein de votre commune (à privilégier)
+    </h5>
+    <p>
+      <object data="https://img.shields.io/static/v1?labelColor=green&label=COVID%20ENTRAIDE%20|%20&#201;changes&message={{ .Params.comm.cp  }}%20{{ .Params.comm.nom }}&color=orange&style=flat-square&link={{ printf "%s/#/channel/%s_%s" .Site.Params.chatBaseURL .Params.comm.cp .Params.comm.slug | absURL }}"></object>
+    </p>
+    <h5>
+      Les échanges au sein de votre département
+    </h5>
+    <p>
+      <object data="https://img.shields.io/static/v1?labelColor=green&label=COVID%20ENTRAIDE%20|%20&#201;changes&message={{ .Params.dept.num  }}%20{{ .Params.dept.nom }}&color=orange&style=flat-square&link={{ printf "%s/#/channel/%s_%s" .Site.Params.chatBaseURL .Params.dept.num .Params.dept.slug | absURL }}"></object>
+    </p> 
+
+    
     <h4 id="confidentialité">Confidentialité</h4>
+    
     <p>Ces outils sont en accès public, ils sont hébergés de pairs à pairs de manière décentralisée.<br>
     Chacun de vos navigateurs enregistre ce qu’il voit et le transmet à ceux qui sont connectés au même document.<br>
     Ne publiez pas d’informations sensibles.</p>
+    
     <h4 id="contribuer">Contribuer</h4>
-    <h5 id="par-un-donhttpsliberapaycomstopcoronavirustechdonate"><a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank">Par un don</a></h5>
-    <p><a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank"><br>
-    <img alt="Liberapay goal progress" 
-      src="https://img.shields.io/badge/StopCoronavirus.Tech-FAIRE%20UN%20DON-orange?style=for-the-badge">
-      <br>
-    </a></p>
-    <p>Votre don servira à financer l’infrastructure supportant la plateforme (serveurs, développement informatique et autres besoins qui vont émerger)<br>
-    Il sera géré par <a href="https://agir.lowtech.fr" target="_blank">Le Fonds Agir Low-Tech</a></p>
-    <h5 id="par-vos-compétences">Par vos compétences</h5>
-    <ul>
-    <li>Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a></li>
-    <li>Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a></li>
-    </ul>
+    
+    <h5 id="par-vos-compétences">
+      En alimentant cette plateforme de proximité
+    </h5>
+    
+    <p><a href="{{ "/contribuer/" | relURL }}" target="_blank">Voir la page CONTRIBUER</a></p>
+    
+    <h5>Par un don au <a href="https://agir.lowtech.fr" target="_blank">Fonds Agir Low-Tech</a></h5>
+    
+    <p>
+    <object data="https://img.shields.io/static/v1?label=COVID%20ENTRAIDE%20&message=FAIRE%20UN%20DON&color=yellow&style=flat-square&link=https://liberapay.com/StopCoronavirus.Tech/donate"></object>
+    </p>
+    <p>Votre don servira à financer l’infrastructure supportant la plateforme</p>
+    
+    <h5 id="par-vos-compétences">Par vos compétences informatiques</h5>
+    
+    <p><a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Plus de détails sur cette page</a></p>
+
 
   </article>
 </div>

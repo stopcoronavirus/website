@@ -3,97 +3,21 @@ title: "51130 - PIERRE MORAINS | Entraide, Annonces, Initiatives"
 description: "51130 - PIERRE MORAINS | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
-type: Commune
+layout: commune
+comm:
+  nom: "PIERRE MORAINS"
+  slug: pierre-morains
+  cp: "51130"
+dept:
+  nom: "Marne"
+  slug: marne
+  num: "51"
+peerpad:
+  comm:
+    read_path: /r/markdown/51130_pierre-morains/4XTTM553NeY3TV4c4Axu8MksVeXUnSVNFLp8CXZeAMiTgrxiP
+    write_path: /w/markdown/51130_pierre-morains/4XTTM553NeY3TV4c4Axu8MksVeXUnSVNFLp8CXZeAMiTgrxiP-K3TgUk2mspuZWdSaErFLGA7iS1JgQ3DJpykqPCrehFcNXTEs9ThYKvt1eG3MwS1344Z4nR6S88rWimhJio6i4gN6jWJ6G2qukth4t2btx3ajgrFhP7MshVQ22DGX1uiukXCzb6w5
+  dept:
+    read_path: /r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe
+    write_path: /w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa
 ---
-
-### 51130 - PIERRE MORAINS | Entraide, Annonces, Initiatives
-
-_Bienvenue sur la page d'entraide de **votre commune**_.
-
-_Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
-
-- un **canal d'entraide** (*)
-- un **document participatif** qui recense les annonces et initiatives
-
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
-
-<p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
-
-#### [Canal d'entraide](https://entraide.stopcoronavirus.tech/#/channel/51130_pierre-morains)
-
-##### Liens
-
-<a href="https://entraide.stopcoronavirus.tech/#/channel/51130_pierre-morains" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 51130 	- PIERRE MORAINS</a> (à privilégier)
-
-<a href="https://entraide.stopcoronavirus.tech/#/channel/51_marne" target="_blank" class="myButton" style="color:white;">Canal de votre département : 51 	- Marne</a> (en dernier recours)
-
-##### Utilisation
-
-_**Quelques conseils pour que ce système soit efficace :**_
-
-_1. **Privilégiez** les échanges au niveau de **votre commune** dans un premier temps._
-_2. Si vous n'avez pas trouvez d'aide disponible, demandez dans le canal d'une **commune voisine**._
-_3. **En dernier recours**, demandez du soutien dans le canal du **département**._
-
-#### Annonces & Initiatives
-
-
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
-IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
-
-##### Dans votre commune (à privilégier)
-
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51130_pierre-morains/4XTTM553NeY3TV4c4Axu8MksVeXUnSVNFLp8CXZeAMiTgrxiP" target="_blank" class="myButton" style="color:white;">Consulter : 51130 	- PIERRE MORAINS</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51130_pierre-morains/4XTTM553NeY3TV4c4Axu8MksVeXUnSVNFLp8CXZeAMiTgrxiP-K3TgUk2mspuZWdSaErFLGA7iS1JgQ3DJpykqPCrehFcNXTEs9ThYKvt1eG3MwS1344Z4nR6S88rWimhJio6i4gN6jWJ6G2qukth4t2btx3ajgrFhP7MshVQ22DGX1uiukXCzb6w5" target="_blank" class="myButton" style="color:white;">Déposer : 51130 	- PIERRE MORAINS</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
-
-##### Dans votre département
-
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe" target="_blank" class="myButton" style="color:white;">Consulter : 51 	- Marne</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/51_marne/4XTTM2pF1iirYGeoSPHuvHFmSh5dafsZiGuDVqApNYr9W2doe-K3TgV7EpXmd75L5pz6aUTALihWsFeiubyposyfPgz6DbQby3ZQF3gNXaGqeRVGevfRz46yND7Y8QkCv5VozWFj5shZbEokjWNQrdmmsAHCxzuLQj5kuinh4kCdsefHKLdp7xhUwa" target="_blank" class="myButton" style="color:white;">Déposer : 51 	- Marne</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
-
-
-##### Utilisation
-
-Les documents étant accessibles à tous en écriture et en lecture, il est de la
-responsabilité de chacun d'en faire bon usage et d'en maintenir la lisibilité
-et la pertinence.
-
-Il faut **penser ce document comme un INDEX, un SOMMAIRE** de ce qui existe
-pour **AIGUILLER chacun vers une solution**. Il est préférable de ne pas détailler ici.
-
-Modèle d'annonce à déposer et syntaxe associée (à copier/coller) :
-
-    #### Annonces et Initiatives
-
-    #### Modèles / Inspiration
-
-    **Qui** : _auteur de l'annonce_
-    **Pour qui** : _à qui s'adresse cette annonce_
-    **Description** : _phrase courte en une ligne_
-    **Détails** : _site internet, numéro de téléphone, email, etc..._
-
-
-Les annonces pourront être **organisées par section ou thématique**.
-
-#### Confidentialité
-
-Ces outils sont en accès public, ils sont hébergés de pairs à pairs de manière décentralisée.
-Chacun de vos navigateurs enregistre ce qu'il voit et le transmet à ceux qui sont connectés au même document.
-Ne publiez pas d'informations sensibles.
-
-#### Contribuer
-
-##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
-
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
-<img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
-</a>
-
-Votre don servira à financer l'infrastructure supportant la plateforme (serveurs, développement informatique et autres besoins qui vont émerger)
-Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
-
-##### Par vos compétences
-
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
-- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

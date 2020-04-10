@@ -3,97 +3,21 @@ title: "55120 - LE CLAON | Entraide, Annonces, Initiatives"
 description: "55120 - LE CLAON | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
-type: Commune
+layout: commune
+comm:
+  nom: "LE CLAON"
+  slug: le-claon
+  cp: "55120"
+dept:
+  nom: "Meuse"
+  slug: meuse
+  num: "55"
+peerpad:
+  comm:
+    read_path: /r/markdown/55120_le-claon/4XTTMEu6HjxnFBu5vP2PMVmwtxyYFAZELWQuhJLkgmCJsV4Bi
+    write_path: /w/markdown/55120_le-claon/4XTTMEu6HjxnFBu5vP2PMVmwtxyYFAZELWQuhJLkgmCJsV4Bi-K3TgTgvgqZT6z5MMWPqF8RbXfcm5MYCD1RbQv2oX5Ec2eo3xpeuv8jvd7a5sgfwK5exrB8tBMSS1czoX2ixZ7Jf8ty1u9bSoBhDSNsLzAK8er17x4Fg2VcZaYFZiNT3tCQXexYBr
+  dept:
+    read_path: /r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit
+    write_path: /w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G
 ---
-
-### 55120 - LE CLAON | Entraide, Annonces, Initiatives
-
-_Bienvenue sur la page d'entraide de **votre commune**_.
-
-_Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
-
-- un **canal d'entraide** (*)
-- un **document participatif** qui recense les annonces et initiatives
-
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
-
-<p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
-
-#### [Canal d'entraide](https://entraide.stopcoronavirus.tech/#/channel/55120_le-claon)
-
-##### Liens
-
-<a href="https://entraide.stopcoronavirus.tech/#/channel/55120_le-claon" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 55120 	- LE CLAON</a> (à privilégier)
-
-<a href="https://entraide.stopcoronavirus.tech/#/channel/55_meuse" target="_blank" class="myButton" style="color:white;">Canal de votre département : 55 	- Meuse</a> (en dernier recours)
-
-##### Utilisation
-
-_**Quelques conseils pour que ce système soit efficace :**_
-
-_1. **Privilégiez** les échanges au niveau de **votre commune** dans un premier temps._
-_2. Si vous n'avez pas trouvez d'aide disponible, demandez dans le canal d'une **commune voisine**._
-_3. **En dernier recours**, demandez du soutien dans le canal du **département**._
-
-#### Annonces & Initiatives
-
-
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
-IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
-
-##### Dans votre commune (à privilégier)
-
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55120_le-claon/4XTTMEu6HjxnFBu5vP2PMVmwtxyYFAZELWQuhJLkgmCJsV4Bi" target="_blank" class="myButton" style="color:white;">Consulter : 55120 	- LE CLAON</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55120_le-claon/4XTTMEu6HjxnFBu5vP2PMVmwtxyYFAZELWQuhJLkgmCJsV4Bi-K3TgTgvgqZT6z5MMWPqF8RbXfcm5MYCD1RbQv2oX5Ec2eo3xpeuv8jvd7a5sgfwK5exrB8tBMSS1czoX2ixZ7Jf8ty1u9bSoBhDSNsLzAK8er17x4Fg2VcZaYFZiNT3tCQXexYBr" target="_blank" class="myButton" style="color:white;">Déposer : 55120 	- LE CLAON</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
-
-##### Dans votre département
-
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit" target="_blank" class="myButton" style="color:white;">Consulter : 55 	- Meuse</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/55_meuse/4XTTMAZogFYjc3kPXRennqTqpKaxy3grEwemFqg29rwkrPVit-K3TgUKFK4U3KduRmUzLc9vHoSRQG77sF2Wbs3cyWXobZcgb6TfASJcGDPror5ZZanBF6Mpjeq1Ushd16Pu9ha9F7F38qzhQqES3b79Xt7LuU1tzmWNED66pWnroExmsHxWtFur2G" target="_blank" class="myButton" style="color:white;">Déposer : 55 	- Meuse</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
-
-
-##### Utilisation
-
-Les documents étant accessibles à tous en écriture et en lecture, il est de la
-responsabilité de chacun d'en faire bon usage et d'en maintenir la lisibilité
-et la pertinence.
-
-Il faut **penser ce document comme un INDEX, un SOMMAIRE** de ce qui existe
-pour **AIGUILLER chacun vers une solution**. Il est préférable de ne pas détailler ici.
-
-Modèle d'annonce à déposer et syntaxe associée (à copier/coller) :
-
-    #### Annonces et Initiatives
-
-    #### Modèles / Inspiration
-
-    **Qui** : _auteur de l'annonce_
-    **Pour qui** : _à qui s'adresse cette annonce_
-    **Description** : _phrase courte en une ligne_
-    **Détails** : _site internet, numéro de téléphone, email, etc..._
-
-
-Les annonces pourront être **organisées par section ou thématique**.
-
-#### Confidentialité
-
-Ces outils sont en accès public, ils sont hébergés de pairs à pairs de manière décentralisée.
-Chacun de vos navigateurs enregistre ce qu'il voit et le transmet à ceux qui sont connectés au même document.
-Ne publiez pas d'informations sensibles.
-
-#### Contribuer
-
-##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
-
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
-<img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
-</a>
-
-Votre don servira à financer l'infrastructure supportant la plateforme (serveurs, développement informatique et autres besoins qui vont émerger)
-Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
-
-##### Par vos compétences
-
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
-- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

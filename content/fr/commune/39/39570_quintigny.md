@@ -3,97 +3,21 @@ title: "39570 - QUINTIGNY | Entraide, Annonces, Initiatives"
 description: "39570 - QUINTIGNY | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
-type: Commune
+layout: commune
+comm:
+  nom: "QUINTIGNY"
+  slug: quintigny
+  cp: "39570"
+dept:
+  nom: "Jura"
+  slug: jura
+  num: "39"
+peerpad:
+  comm:
+    read_path: /r/markdown/39570_quintigny/4XTTM7e22h6RnMM9saXkujA5wPY6h5RPycZidYzHN6ym2oQcJ
+    write_path: /w/markdown/39570_quintigny/4XTTM7e22h6RnMM9saXkujA5wPY6h5RPycZidYzHN6ym2oQcJ-K3TgTjauaQP2NpsfQiXQU9qHJhC6du4qfPYSiuyaTPFV8oYM5k8ftngGqpyAbF3qfSmFhFhBqs8BhYgs6ZQBCN4D9HAZzdfcNU1n1oc7YX4UoiQJykhUeuzrNie1HzSZUjHCTej4
+  dept:
+    read_path: /r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7
+    write_path: /w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1
 ---
-
-### 39570 - QUINTIGNY | Entraide, Annonces, Initiatives
-
-_Bienvenue sur la page d'entraide de **votre commune**_.
-
-_Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
-
-- un **canal d'entraide** (*)
-- un **document participatif** qui recense les annonces et initiatives
-
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
-
-<p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
-
-#### [Canal d'entraide](https://entraide.stopcoronavirus.tech/#/channel/39570_quintigny)
-
-##### Liens
-
-<a href="https://entraide.stopcoronavirus.tech/#/channel/39570_quintigny" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 39570 	- QUINTIGNY</a> (à privilégier)
-
-<a href="https://entraide.stopcoronavirus.tech/#/channel/39_jura" target="_blank" class="myButton" style="color:white;">Canal de votre département : 39 	- Jura</a> (en dernier recours)
-
-##### Utilisation
-
-_**Quelques conseils pour que ce système soit efficace :**_
-
-_1. **Privilégiez** les échanges au niveau de **votre commune** dans un premier temps._
-_2. Si vous n'avez pas trouvez d'aide disponible, demandez dans le canal d'une **commune voisine**._
-_3. **En dernier recours**, demandez du soutien dans le canal du **département**._
-
-#### Annonces & Initiatives
-
-
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
-IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
-
-##### Dans votre commune (à privilégier)
-
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39570_quintigny/4XTTM7e22h6RnMM9saXkujA5wPY6h5RPycZidYzHN6ym2oQcJ" target="_blank" class="myButton" style="color:white;">Consulter : 39570 	- QUINTIGNY</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39570_quintigny/4XTTM7e22h6RnMM9saXkujA5wPY6h5RPycZidYzHN6ym2oQcJ-K3TgTjauaQP2NpsfQiXQU9qHJhC6du4qfPYSiuyaTPFV8oYM5k8ftngGqpyAbF3qfSmFhFhBqs8BhYgs6ZQBCN4D9HAZzdfcNU1n1oc7YX4UoiQJykhUeuzrNie1HzSZUjHCTej4" target="_blank" class="myButton" style="color:white;">Déposer : 39570 	- QUINTIGNY</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
-
-##### Dans votre département
-
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7" target="_blank" class="myButton" style="color:white;">Consulter : 39 	- Jura</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/39_jura/4XTTMBU8Gt2fa99LtEhmRo7fQurheBVUUcEmcUcrj82YN8mg7-K3TgTcNZmu4vnNMaCfgcL8UVTLrMMzc995tkrcbQnJrz2QJUTFFzY77q7ECMK21XeFnonjpMWqFzgVngXjdq8HzYe3HRbuYXbvX8ofWBv48UvWuvbrbp8aQGQQcfezWASxj7orH1" target="_blank" class="myButton" style="color:white;">Déposer : 39 	- Jura</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
-
-
-##### Utilisation
-
-Les documents étant accessibles à tous en écriture et en lecture, il est de la
-responsabilité de chacun d'en faire bon usage et d'en maintenir la lisibilité
-et la pertinence.
-
-Il faut **penser ce document comme un INDEX, un SOMMAIRE** de ce qui existe
-pour **AIGUILLER chacun vers une solution**. Il est préférable de ne pas détailler ici.
-
-Modèle d'annonce à déposer et syntaxe associée (à copier/coller) :
-
-    #### Annonces et Initiatives
-
-    #### Modèles / Inspiration
-
-    **Qui** : _auteur de l'annonce_
-    **Pour qui** : _à qui s'adresse cette annonce_
-    **Description** : _phrase courte en une ligne_
-    **Détails** : _site internet, numéro de téléphone, email, etc..._
-
-
-Les annonces pourront être **organisées par section ou thématique**.
-
-#### Confidentialité
-
-Ces outils sont en accès public, ils sont hébergés de pairs à pairs de manière décentralisée.
-Chacun de vos navigateurs enregistre ce qu'il voit et le transmet à ceux qui sont connectés au même document.
-Ne publiez pas d'informations sensibles.
-
-#### Contribuer
-
-##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
-
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
-<img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
-</a>
-
-Votre don servira à financer l'infrastructure supportant la plateforme (serveurs, développement informatique et autres besoins qui vont émerger)
-Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
-
-##### Par vos compétences
-
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
-- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 

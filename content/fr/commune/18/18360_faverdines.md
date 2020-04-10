@@ -3,97 +3,21 @@ title: "18360 - FAVERDINES | Entraide, Annonces, Initiatives"
 description: "18360 - FAVERDINES | Entraide, Annonces, Initiatives"
 date: 2020-01-11T14:09:21+09:00
 collapsible: false
-type: Commune
+layout: commune
+comm:
+  nom: "FAVERDINES"
+  slug: faverdines
+  cp: "18360"
+dept:
+  nom: "Cher"
+  slug: cher
+  num: "18"
+peerpad:
+  comm:
+    read_path: /r/markdown/18360_faverdines/4XTTM4nLKoukpwZXLJ6NbN857fGx2A1p7hgFiiFSvFTek54HU
+    write_path: /w/markdown/18360_faverdines/4XTTM4nLKoukpwZXLJ6NbN857fGx2A1p7hgFiiFSvFTek54HU-K3TgUDcuh483h1tHuQdKVVwCJokEKV5LGqGXtzqMudUtAYvha8p1LCqRgZJJbyrUv7jsfPYy1qvHpJDQLGAgUPnPUPhLbpzfSRVp5FtddqsN6wEkqwc6s8iJ2JSCuLfuRL4fgo7k
+  dept:
+    read_path: /r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w
+    write_path: /w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD
 ---
-
-### 18360 - FAVERDINES | Entraide, Annonces, Initiatives
-
-_Bienvenue sur la page d'entraide de **votre commune**_.
-
-_Dans le cadre de la gestion du COVID-19, deux outils sont proposés :_
-
-- un **canal d'entraide** (*)
-- un **document participatif** qui recense les annonces et initiatives
-
-_Ceux-ci sont **dédiés à votre commune** et servent à gérer les BESOINS IMPORTANTS, faites-en bon usage._
-
-<p><small><i>(*) A ce stade, le canal d'entraide n'est pas accessible sur mobile ou tablette, mais seulement sur ordinateur</i></small></p>
-
-#### [Canal d'entraide](https://entraide.stopcoronavirus.tech/#/channel/18360_faverdines)
-
-##### Liens
-
-<a href="https://entraide.stopcoronavirus.tech/#/channel/18360_faverdines" target="_blank" class="myButton" style="color:white;">Canal de votre commune : 18360 	- FAVERDINES</a> (à privilégier)
-
-<a href="https://entraide.stopcoronavirus.tech/#/channel/18_cher" target="_blank" class="myButton" style="color:white;">Canal de votre département : 18 	- Cher</a> (en dernier recours)
-
-##### Utilisation
-
-_**Quelques conseils pour que ce système soit efficace :**_
-
-_1. **Privilégiez** les échanges au niveau de **votre commune** dans un premier temps._
-_2. Si vous n'avez pas trouvez d'aide disponible, demandez dans le canal d'une **commune voisine**._
-_3. **En dernier recours**, demandez du soutien dans le canal du **département**._
-
-#### Annonces & Initiatives
-
-
-Ce service permet à chacun de **poster ou consulter les annonces et initiatives** liées à des **BESOINS
-IMPORTANTS** d'entraide dans **VOTRE commune**, dans le cadre de la gestion du _COVID-19_.
-
-##### Dans votre commune (à privilégier)
-
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18360_faverdines/4XTTM4nLKoukpwZXLJ6NbN857fGx2A1p7hgFiiFSvFTek54HU" target="_blank" class="myButton" style="color:white;">Consulter : 18360 	- FAVERDINES</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18360_faverdines/4XTTM4nLKoukpwZXLJ6NbN857fGx2A1p7hgFiiFSvFTek54HU-K3TgUDcuh483h1tHuQdKVVwCJokEKV5LGqGXtzqMudUtAYvha8p1LCqRgZJJbyrUv7jsfPYy1qvHpJDQLGAgUPnPUPhLbpzfSRVp5FtddqsN6wEkqwc6s8iJ2JSCuLfuRL4fgo7k" target="_blank" class="myButton" style="color:white;">Déposer : 18360 	- FAVERDINES</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
-
-##### Dans votre département
-
-<a href="https://docs.stopcoronavirus.tech/#/r/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w" target="_blank" class="myButton" style="color:white;">Consulter : 18 	- Cher</a> _(à privilégier pour **préserver l'infrastructure** d'hébergement en pair à pair)_
-<a href="https://docs.stopcoronavirus.tech/#/w/markdown/18_cher/4XTTMEa5PWDZtxALvAKRwaPodGXBJuC47XWLMLZ5hCaMSik3w-K3TgTvT6tiupPRTeoV2zMggT6E77BmY6Zeeqwk1pvv6Bfo4GHKoyLD2hQDLMcNajnfixB5aDgngmFZba1jsFtXhXJhkZaMz5Fno5UjuUU6mkQFXv9cWu6FJLmGRziLMtgTSufDeD" target="_blank" class="myButton" style="color:white;">Déposer : 18 	- Cher</a> _(pour ceux qui souhaitent **ajouter** une annonce ou une initiative)_
-
-
-##### Utilisation
-
-Les documents étant accessibles à tous en écriture et en lecture, il est de la
-responsabilité de chacun d'en faire bon usage et d'en maintenir la lisibilité
-et la pertinence.
-
-Il faut **penser ce document comme un INDEX, un SOMMAIRE** de ce qui existe
-pour **AIGUILLER chacun vers une solution**. Il est préférable de ne pas détailler ici.
-
-Modèle d'annonce à déposer et syntaxe associée (à copier/coller) :
-
-    #### Annonces et Initiatives
-
-    #### Modèles / Inspiration
-
-    **Qui** : _auteur de l'annonce_
-    **Pour qui** : _à qui s'adresse cette annonce_
-    **Description** : _phrase courte en une ligne_
-    **Détails** : _site internet, numéro de téléphone, email, etc..._
-
-
-Les annonces pourront être **organisées par section ou thématique**.
-
-#### Confidentialité
-
-Ces outils sont en accès public, ils sont hébergés de pairs à pairs de manière décentralisée.
-Chacun de vos navigateurs enregistre ce qu'il voit et le transmet à ceux qui sont connectés au même document.
-Ne publiez pas d'informations sensibles.
-
-#### Contribuer
-
-##### [Par un don](https://liberapay.com/StopCoronavirus.Tech/donate)
-
-<a href="https://liberapay.com/StopCoronavirus.Tech/donate" target="_blank" >
-<img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/StopCoronavirus.Tech?color=orange&label=Objectif&style=for-the-badge"></img>
-</a>
-
-Votre don servira à financer l'infrastructure supportant la plateforme (serveurs, développement informatique et autres besoins qui vont émerger)
-Il sera géré par [Le Fonds Agir Low-Tech](https://agir.lowtech.fr)
-
-##### Par vos compétences
-
-- Ajouter votre serveur à la liste de ceux qui supportent cette plateforme : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
-- Proposez vos améliorations, fonctionnalités : <a href="https://gitlab.com/stopcoronavirus/infra-follow" target="_blank">Voir ce lien</a>
 
